@@ -1,0 +1,158 @@
+{
+  "id": "isc-m2-tbs2",
+  "courseId": "isc",
+  "moduleId": 2,
+  "number": 2,
+  "title": "Incident-response decision log",
+  "html": "<div class=\"course-intro-card\"><h2>Incident-response decision log</h2><p>Select appropriate actions during a suspected security incident.</p></div><section class=\"quiz-card\"><h3>Required responses</h3><div class=\"tbs-question\"><label for=\"isc-m2-tbs2-f1\">First response to the alert</label><select id=\"isc-m2-tbs2-f1\"><option value=\"Validate and triage while preserving relevant evidence\">Validate and triage while preserving relevant evidence</option><option value=\"Assume the alert is always false\">Assume the alert is always false</option><option value=\"Publish confidential records\">Publish confidential records</option><option value=\"Ignore the alert until month-end\">Ignore the alert until month-end</option></select></div><div class=\"tbs-question\"><label for=\"isc-m2-tbs2-f2\">Response to proposed log deletion</label><select id=\"isc-m2-tbs2-f2\"><option value=\"Preserve relevant evidence under the response plan\">Preserve relevant evidence under the response plan</option><option value=\"Delete all records immediately\">Delete all records immediately</option><option value=\"Disable all accountability\">Disable all accountability</option><option value=\"Treat logs as always irrelevant\">Treat logs as always irrelevant</option></select></div><div class=\"tbs-question\"><label for=\"isc-m2-tbs2-f3\">Objective of containment</label><select id=\"isc-m2-tbs2-f3\"><option value=\"Limit further harm while coordinating the response\">Limit further harm while coordinating the response</option><option value=\"Guarantee no prior data was affected\">Guarantee no prior data was affected</option><option value=\"Replace all analysis\">Replace all analysis</option><option value=\"Eliminate recovery planning\">Eliminate recovery planning</option></select></div><div class=\"tbs-question\"><label for=\"isc-m2-tbs2-f4\">Post-recovery action</label><select id=\"isc-m2-tbs2-f4\"><option value=\"Review causes and improve controls and procedures\">Review causes and improve controls and procedures</option><option value=\"Assume rebuilding prevents every recurrence\">Assume rebuilding prevents every recurrence</option><option value=\"Discard the incident record\">Discard the incident record</option><option value=\"Stop monitoring permanently\">Stop monitoring permanently</option></select></div></section>",
+  "metadata": {
+    "section": "isc",
+    "blueprintYear": 2026,
+    "areaId": "isc-II",
+    "groupId": "B-C",
+    "topicId": "isc-security-threats-response",
+    "taskIds": [
+      "isc-security-threats-response.task-1",
+      "isc-security-threats-response.task-2",
+      "isc-security-threats-response.task-3"
+    ],
+    "skill": "analysis",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      },
+      {
+        "title": "NIST Cybersecurity Framework",
+        "url": "https://www.nist.gov/cyberframework"
+      },
+      {
+        "title": "AICPA SOC resources",
+        "url": "https://www.aicpa-cima.com/resources/landing/system-and-organization-controls-soc-suite-of-services"
+      }
+    ]
+  },
+  "difficulty": "advanced",
+  "fields": [
+    {
+      "id": "isc-m2-tbs2-f1",
+      "label": "First response to the alert",
+      "type": "select",
+      "options": [
+        {
+          "value": "Validate and triage while preserving relevant evidence",
+          "label": "Validate and triage while preserving relevant evidence"
+        },
+        {
+          "value": "Assume the alert is always false",
+          "label": "Assume the alert is always false"
+        },
+        {
+          "value": "Publish confidential records",
+          "label": "Publish confidential records"
+        },
+        {
+          "value": "Ignore the alert until month-end",
+          "label": "Ignore the alert until month-end"
+        }
+      ],
+      "correct": "Validate and triage while preserving relevant evidence",
+      "explanation": "Initial analysis establishes the incident’s nature and supports an appropriate response.",
+      "topicId": "isc-security-threats-response"
+    },
+    {
+      "id": "isc-m2-tbs2-f2",
+      "label": "Response to proposed log deletion",
+      "type": "select",
+      "options": [
+        {
+          "value": "Preserve relevant evidence under the response plan",
+          "label": "Preserve relevant evidence under the response plan"
+        },
+        {
+          "value": "Delete all records immediately",
+          "label": "Delete all records immediately"
+        },
+        {
+          "value": "Disable all accountability",
+          "label": "Disable all accountability"
+        },
+        {
+          "value": "Treat logs as always irrelevant",
+          "label": "Treat logs as always irrelevant"
+        }
+      ],
+      "correct": "Preserve relevant evidence under the response plan",
+      "explanation": "Uncontrolled deletion can impede investigation and legal obligations.",
+      "topicId": "isc-security-threats-response"
+    },
+    {
+      "id": "isc-m2-tbs2-f3",
+      "label": "Objective of containment",
+      "type": "select",
+      "options": [
+        {
+          "value": "Limit further harm while coordinating the response",
+          "label": "Limit further harm while coordinating the response"
+        },
+        {
+          "value": "Guarantee no prior data was affected",
+          "label": "Guarantee no prior data was affected"
+        },
+        {
+          "value": "Replace all analysis",
+          "label": "Replace all analysis"
+        },
+        {
+          "value": "Eliminate recovery planning",
+          "label": "Eliminate recovery planning"
+        }
+      ],
+      "correct": "Limit further harm while coordinating the response",
+      "explanation": "Containment limits ongoing impact without replacing investigation.",
+      "topicId": "isc-security-threats-response"
+    },
+    {
+      "id": "isc-m2-tbs2-f4",
+      "label": "Post-recovery action",
+      "type": "select",
+      "options": [
+        {
+          "value": "Review causes and improve controls and procedures",
+          "label": "Review causes and improve controls and procedures"
+        },
+        {
+          "value": "Assume rebuilding prevents every recurrence",
+          "label": "Assume rebuilding prevents every recurrence"
+        },
+        {
+          "value": "Discard the incident record",
+          "label": "Discard the incident record"
+        },
+        {
+          "value": "Stop monitoring permanently",
+          "label": "Stop monitoring permanently"
+        }
+      ],
+      "correct": "Review causes and improve controls and procedures",
+      "explanation": "Lessons learned support sustained improvement.",
+      "topicId": "isc-security-threats-response"
+    }
+  ],
+  "exhibits": [
+    {
+      "id": "isc-m2-tbs2-ex1",
+      "title": "Observed event",
+      "html": "<p>A monitoring alert shows unusual privileged access to confidential records. The team has not confirmed the scope. A technician proposes deleting logs and immediately rebuilding every affected system.</p>"
+    },
+    {
+      "id": "isc-m2-tbs2-ex2",
+      "title": "Response objectives",
+      "html": "<p>Protect the business, preserve useful evidence, determine scope, contain the event, remediate causes, and recover through the approved process.</p>"
+    }
+  ],
+  "explanation": "<h3>First response to the alert</h3><p>Initial analysis establishes the incident’s nature and supports an appropriate response.</p><h3>Response to proposed log deletion</h3><p>Uncontrolled deletion can impede investigation and legal obligations.</p><h3>Objective of containment</h3><p>Containment limits ongoing impact without replacing investigation.</p><h3>Post-recovery action</h3><p>Lessons learned support sustained improvement.</p>"
+}

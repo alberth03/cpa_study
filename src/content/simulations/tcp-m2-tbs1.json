@@ -1,0 +1,91 @@
+{
+  "id": "tcp-m2-tbs1",
+  "courseId": "tcp",
+  "moduleId": 2,
+  "number": 1,
+  "title": "Corporate NOL utilization schedule",
+  "html": "<div class=\"course-intro-card\"><h2>Corporate NOL utilization schedule</h2><p>Apply two supplied limitations and compute the remaining loss attribute.</p></div><section class=\"quiz-card\"><h3>Required responses</h3><div class=\"tbs-question\"><label for=\"tcp-m2-tbs1-f1\">Capacity under the 80% income limit</label><input id=\"tcp-m2-tbs1-f1\" type=\"text\"></div><div class=\"tbs-question\"><label for=\"tcp-m2-tbs1-f2\">Allowed NOL deduction after both limits</label><input id=\"tcp-m2-tbs1-f2\" type=\"text\"></div><div class=\"tbs-question\"><label for=\"tcp-m2-tbs1-f3\">Remaining NOL carryforward</label><input id=\"tcp-m2-tbs1-f3\" type=\"text\"></div><div class=\"tbs-question\"><label for=\"tcp-m2-tbs1-f4\">Tax before credits after NOL deduction</label><input id=\"tcp-m2-tbs1-f4\" type=\"text\"></div></section>",
+  "metadata": {
+    "section": "tcp",
+    "blueprintYear": 2026,
+    "areaId": "tcp-II",
+    "groupId": "A",
+    "topicId": "tcp-corporate-loss-compliance",
+    "taskIds": [
+      "tcp-corporate-loss-compliance.task-1",
+      "tcp-corporate-loss-compliance.task-2",
+      "tcp-corporate-loss-compliance.task-3"
+    ],
+    "skill": "analysis",
+    "validFrom": "2026-07-01",
+    "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      },
+      {
+        "title": "IRS tax publications",
+        "url": "https://www.irs.gov/publications"
+      },
+      {
+        "title": "Internal Revenue Code",
+        "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+      }
+    ]
+  },
+  "difficulty": "advanced",
+  "fields": [
+    {
+      "id": "tcp-m2-tbs1-f1",
+      "label": "Capacity under the 80% income limit",
+      "type": "number",
+      "options": [],
+      "correct": 200000,
+      "explanation": "80% × $250,000 = $200,000.",
+      "topicId": "tcp-corporate-loss-compliance"
+    },
+    {
+      "id": "tcp-m2-tbs1-f2",
+      "label": "Allowed NOL deduction after both limits",
+      "type": "number",
+      "options": [],
+      "correct": 120000,
+      "explanation": "The $120,000 ownership-change limit is the lower applicable capacity.",
+      "topicId": "tcp-corporate-loss-compliance"
+    },
+    {
+      "id": "tcp-m2-tbs1-f3",
+      "label": "Remaining NOL carryforward",
+      "type": "number",
+      "options": [],
+      "correct": 180000,
+      "explanation": "$300,000 − $120,000 = $180,000.",
+      "topicId": "tcp-corporate-loss-compliance"
+    },
+    {
+      "id": "tcp-m2-tbs1-f4",
+      "label": "Tax before credits after NOL deduction",
+      "type": "number",
+      "options": [],
+      "correct": 27300,
+      "explanation": "($250,000 − $120,000) × 21% = $27,300.",
+      "topicId": "tcp-corporate-loss-compliance"
+    }
+  ],
+  "exhibits": [
+    {
+      "id": "tcp-m2-tbs1-ex1",
+      "title": "Taxable income and NOL",
+      "html": "<p>Taxable income before NOL $250,000. Available NOL carryforward $300,000. An 80% income limitation applies.</p>"
+    },
+    {
+      "id": "tcp-m2-tbs1-ex2",
+      "title": "Additional limits and rate",
+      "html": "<p>A supplied ownership-change limit permits only $120,000 this year. Ignore other adjustments. Use a 21% corporate tax rate.</p>"
+    }
+  ],
+  "explanation": "<h3>Capacity under the 80% income limit</h3><p>80% × $250,000 = $200,000.</p><h3>Allowed NOL deduction after both limits</h3><p>The $120,000 ownership-change limit is the lower applicable capacity.</p><h3>Remaining NOL carryforward</h3><p>$300,000 − $120,000 = $180,000.</p><h3>Tax before credits after NOL deduction</h3><p>($250,000 − $120,000) × 21% = $27,300.</p>"
+}

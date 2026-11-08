@@ -1,0 +1,91 @@
+{
+  "id": "tcp-m2-tbs4",
+  "courseId": "tcp",
+  "moduleId": 2,
+  "number": 4,
+  "title": "Independent distribution computations",
+  "html": "<div class=\"course-intro-card\"><h2>Independent distribution computations</h2><p>Calculate entity gain and owner basis under the stated simplified rules.</p></div><section class=\"quiz-card\"><h3>Required responses</h3><div class=\"tbs-question\"><label for=\"tcp-m2-tbs4-f1\">Corporate gain</label><input id=\"tcp-m2-tbs4-f1\" type=\"text\"></div><div class=\"tbs-question\"><label for=\"tcp-m2-tbs4-f2\">Outside basis after cash in the nonliquidating case</label><input id=\"tcp-m2-tbs4-f2\" type=\"text\"></div><div class=\"tbs-question\"><label for=\"tcp-m2-tbs4-f3\">Property basis in the nonliquidating case</label><input id=\"tcp-m2-tbs4-f3\" type=\"text\"></div><div class=\"tbs-question\"><label for=\"tcp-m2-tbs4-f4\">Asset basis in the liquidation case</label><input id=\"tcp-m2-tbs4-f4\" type=\"text\"></div></section>",
+  "metadata": {
+    "section": "tcp",
+    "blueprintYear": 2026,
+    "areaId": "tcp-II",
+    "groupId": "A-B-C",
+    "topicId": "tcp-entity-property-distributions",
+    "taskIds": [
+      "tcp-entity-property-distributions.task-1",
+      "tcp-entity-property-distributions.task-2",
+      "tcp-entity-property-distributions.task-3"
+    ],
+    "skill": "analysis",
+    "validFrom": "2026-07-01",
+    "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      },
+      {
+        "title": "IRS tax publications",
+        "url": "https://www.irs.gov/publications"
+      },
+      {
+        "title": "Internal Revenue Code",
+        "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+      }
+    ]
+  },
+  "difficulty": "advanced",
+  "fields": [
+    {
+      "id": "tcp-m2-tbs4-f1",
+      "label": "Corporate gain",
+      "type": "number",
+      "options": [],
+      "correct": 40000,
+      "explanation": "$100,000 value − $60,000 basis = $40,000.",
+      "topicId": "tcp-entity-property-distributions"
+    },
+    {
+      "id": "tcp-m2-tbs4-f2",
+      "label": "Outside basis after cash in the nonliquidating case",
+      "type": "number",
+      "options": [],
+      "correct": 25000,
+      "explanation": "$35,000 − $10,000 = $25,000.",
+      "topicId": "tcp-entity-property-distributions"
+    },
+    {
+      "id": "tcp-m2-tbs4-f3",
+      "label": "Property basis in the nonliquidating case",
+      "type": "number",
+      "options": [],
+      "correct": 25000,
+      "explanation": "Carryover basis is limited to $25,000 available outside basis.",
+      "topicId": "tcp-entity-property-distributions"
+    },
+    {
+      "id": "tcp-m2-tbs4-f4",
+      "label": "Asset basis in the liquidation case",
+      "type": "number",
+      "options": [],
+      "correct": 60000,
+      "explanation": "$80,000 outside basis − $20,000 cash = $60,000.",
+      "topicId": "tcp-entity-property-distributions"
+    }
+  ],
+  "exhibits": [
+    {
+      "id": "tcp-m2-tbs4-ex1",
+      "title": "Corporate distribution",
+      "html": "<p>Property basis $60,000; value $100,000; no liabilities. The ordinary corporate gain-recognition rule applies.</p>"
+    },
+    {
+      "id": "tcp-m2-tbs4-ex2",
+      "title": "Partnership cases",
+      "html": "<p>Nonliquidating: outside basis $35,000; cash $10,000; property carryover basis $40,000 limited to remaining outside basis. Separate complete liquidation: outside basis $80,000; cash $20,000; one capital asset receives the remaining outside basis. No special exceptions apply.</p>"
+    }
+  ],
+  "explanation": "<h3>Corporate gain</h3><p>$100,000 value − $60,000 basis = $40,000.</p><h3>Outside basis after cash in the nonliquidating case</h3><p>$35,000 − $10,000 = $25,000.</p><h3>Property basis in the nonliquidating case</h3><p>Carryover basis is limited to $25,000 available outside basis.</p><h3>Asset basis in the liquidation case</h3><p>$80,000 outside basis − $20,000 cash = $60,000.</p>"
+}

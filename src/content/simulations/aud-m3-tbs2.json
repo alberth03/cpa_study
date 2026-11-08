@@ -1,0 +1,107 @@
+{
+  "id": "aud-m3-tbs2",
+  "courseId": "aud",
+  "moduleId": 3,
+  "number": 2,
+  "title": "Sampling evaluation worksheet",
+  "html": "<div class=\"course-intro-card\"><h2>Sampling evaluation worksheet</h2><p>Evaluate a control sample and a separate monetary sample using the specified methods.</p></div><section class=\"quiz-card\"><h3>Required responses</h3><div class=\"tbs-question\"><label for=\"aud-m3-tbs2-f1\">Observed control deviation rate, as a percentage</label><input id=\"aud-m3-tbs2-f1\" type=\"text\"></div><div class=\"tbs-question\"><label for=\"aud-m3-tbs2-f2\">Conclusion using the upper deviation rate</label><select id=\"aud-m3-tbs2-f2\"><option value=\"Planned reliance is not supported\">Planned reliance is not supported</option><option value=\"Reliance is guaranteed\">Reliance is guaranteed</option><option value=\"Ignore the upper rate\">Ignore the upper rate</option><option value=\"No additional evaluation is needed\">No additional evaluation is needed</option></select></div><div class=\"tbs-question\"><label for=\"aud-m3-tbs2-f3\">Sample monetary overstatement</label><input id=\"aud-m3-tbs2-f3\" type=\"text\"></div><div class=\"tbs-question\"><label for=\"aud-m3-tbs2-f4\">Projected population overstatement</label><input id=\"aud-m3-tbs2-f4\" type=\"text\"></div></section>",
+  "metadata": {
+    "section": "aud",
+    "blueprintYear": 2026,
+    "areaId": "aud-III",
+    "groupId": "C",
+    "topicId": "aud-audit-sampling",
+    "taskIds": [
+      "aud-audit-sampling.task-1",
+      "aud-audit-sampling.task-2",
+      "aud-audit-sampling.task-3"
+    ],
+    "skill": "analysis",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      },
+      {
+        "title": "AICPA auditing standards",
+        "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+      },
+      {
+        "title": "PCAOB standards",
+        "url": "https://pcaobus.org/oversight/standards"
+      }
+    ]
+  },
+  "difficulty": "advanced",
+  "fields": [
+    {
+      "id": "aud-m3-tbs2-f1",
+      "label": "Observed control deviation rate, as a percentage",
+      "type": "number",
+      "options": [],
+      "correct": 5,
+      "explanation": "4 ÷ 80 = 5%.",
+      "topicId": "aud-audit-sampling"
+    },
+    {
+      "id": "aud-m3-tbs2-f2",
+      "label": "Conclusion using the upper deviation rate",
+      "type": "select",
+      "options": [
+        {
+          "value": "Planned reliance is not supported",
+          "label": "Planned reliance is not supported"
+        },
+        {
+          "value": "Reliance is guaranteed",
+          "label": "Reliance is guaranteed"
+        },
+        {
+          "value": "Ignore the upper rate",
+          "label": "Ignore the upper rate"
+        },
+        {
+          "value": "No additional evaluation is needed",
+          "label": "No additional evaluation is needed"
+        }
+      ],
+      "correct": "Planned reliance is not supported",
+      "explanation": "The 8% upper rate exceeds the 6% tolerable rate.",
+      "topicId": "aud-audit-sampling"
+    },
+    {
+      "id": "aud-m3-tbs2-f3",
+      "label": "Sample monetary overstatement",
+      "type": "number",
+      "options": [],
+      "correct": 4000,
+      "explanation": "$80,000 recorded less $76,000 audited = $4,000.",
+      "topicId": "aud-audit-sampling"
+    },
+    {
+      "id": "aud-m3-tbs2-f4",
+      "label": "Projected population overstatement",
+      "type": "number",
+      "options": [],
+      "correct": 60000,
+      "explanation": "$4,000 ÷ $80,000 × $1,200,000 = $60,000.",
+      "topicId": "aud-audit-sampling"
+    }
+  ],
+  "exhibits": [
+    {
+      "id": "aud-m3-tbs2-ex1",
+      "title": "Control test",
+      "html": "<p>80 approvals tested; 4 deviations found. The evaluated upper deviation rate is 8%. The tolerable rate is 6%.</p>"
+    },
+    {
+      "id": "aud-m3-tbs2-ex2",
+      "title": "Substantive sample",
+      "html": "<p>A homogeneous population has recorded value $1,200,000. Sample recorded value is $80,000 and audited value is $76,000. Use ratio projection; sampling uncertainty must be evaluated separately.</p>"
+    }
+  ],
+  "explanation": "<h3>Observed control deviation rate, as a percentage</h3><p>4 ÷ 80 = 5%.</p><h3>Conclusion using the upper deviation rate</h3><p>The 8% upper rate exceeds the 6% tolerable rate.</p><h3>Sample monetary overstatement</h3><p>$80,000 recorded less $76,000 audited = $4,000.</p><h3>Projected population overstatement</h3><p>$4,000 ÷ $80,000 × $1,200,000 = $60,000.</p>"
+}

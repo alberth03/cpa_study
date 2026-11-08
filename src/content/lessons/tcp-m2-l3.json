@@ -1,0 +1,105 @@
+{
+  "id": "tcp-m2-l3",
+  "courseId": "tcp",
+  "moduleId": 2,
+  "number": 3,
+  "title": "S Corporation Debt Basis, Distributions & Built-In Gains",
+  "description": "Track stock and direct debt basis separately.",
+  "url": "/learn/tcp/modules/2/lessons/3",
+  "metadata": {
+    "section": "tcp",
+    "blueprintYear": 2026,
+    "areaId": "tcp-II",
+    "groupId": "C",
+    "topicId": "tcp-s-corporation-advanced-compliance",
+    "taskIds": [
+      "tcp-s-corporation-advanced-compliance.task-1",
+      "tcp-s-corporation-advanced-compliance.task-2",
+      "tcp-s-corporation-advanced-compliance.task-3"
+    ],
+    "skill": "application",
+    "validFrom": "2026-07-01",
+    "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      },
+      {
+        "title": "IRS tax publications",
+        "url": "https://www.irs.gov/publications"
+      },
+      {
+        "title": "Internal Revenue Code",
+        "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+      }
+    ]
+  },
+  "html": "<h2>Learning objectives</h2><ul><li>Track stock and direct debt basis separately.</li><li>Evaluate repayment of reduced-basis shareholder debt.</li><li>Apply supplied built-in-gains and accumulated-E&amp;P facts.</li></ul><h2>Understand the concepts</h2><p>S corporation losses can reduce stock basis and then qualifying direct debt basis under the applicable ordering rules. Track each separately. Later income may restore previously reduced debt basis under the required rules. A repayment of debt whose tax basis is below the repayment amount can generate taxable gain; the existence of an original loan does not make every repayment tax-free.</p><p>Distributions can become more complex when the corporation has accumulated C-corporation earnings and profits. The accumulated adjustments account, stock basis, elections, and ordering rules matter. State whether special elections apply. Do not use shareholder debt basis automatically to shelter a cash distribution.</p><p>An S corporation with former C-corporation attributes can face entity-level built-in-gains tax when applicable recognition-period and other requirements are met. The calculation can be limited by net recognized built-in gain, taxable income, and remaining net unrealized built-in gain under the relevant rules. A question supplies those limitations when testing arithmetic; S status does not universally eliminate every entity-level tax.</p><div class=\"example-box\"><h3>Repayment of reduced-basis debt</h3><p>A shareholder loan has face amount $20,000 and remaining tax basis $8,000. The entire loan is repaid. Assume the stated debt rules apply and no restoration occurs first.</p><ol><li>Cash received is $20,000.</li><li>Recover the $8,000 tax basis.</li><li>The $12,000 excess is taxable gain; determine character under the applicable debt facts.</li></ol></div><div class=\"key-points\"><h3>Common mistakes to avoid</h3><ul><li>Keep stock and debt basis separate.</li><li>Debt repayment after basis reduction may be taxable.</li><li>S status does not eliminate every tax inherited from C-corporation history.</li></ul></div><h2>Apply and connect</h2><p>After solving the worked case, explain which facts determine the result and how a changed assumption would change your conclusion. Use the module questions to test fresh applications, then complete the related simulation before reviewing its solution.</p>",
+  "objectives": [
+    "Track stock and direct debt basis separately.",
+    "Evaluate repayment of reduced-basis shareholder debt.",
+    "Apply supplied built-in-gains and accumulated-E&P facts."
+  ],
+  "quiz": {
+    "id": "tcp-m2-l3-q1",
+    "courseId": "tcp",
+    "moduleId": 2,
+    "lessonId": "tcp-m2-l3",
+    "topic": "S Corporation Debt Basis, Distributions & Built-In Gains",
+    "prompt": "A shareholder loan is repaid in full for $30,000 when tax basis is $12,000. No basis restoration occurs. What gain is indicated?",
+    "choices": [
+      {
+        "id": "tcp-m2-l3-q1-a0",
+        "text": "$30,000."
+      },
+      {
+        "id": "tcp-m2-l3-q1-a1",
+        "text": "$12,000."
+      },
+      {
+        "id": "tcp-m2-l3-q1-a2",
+        "text": "Zero automatically."
+      },
+      {
+        "id": "tcp-m2-l3-q1-a3",
+        "text": "$18,000."
+      }
+    ],
+    "correctChoiceId": "tcp-m2-l3-q1-a3",
+    "explanation": "Repayment exceeds the remaining tax basis by $18,000.",
+    "difficulty": "application",
+    "metadata": {
+      "section": "tcp",
+      "blueprintYear": 2026,
+      "areaId": "tcp-II",
+      "groupId": "C",
+      "topicId": "tcp-s-corporation-advanced-compliance",
+      "taskIds": [
+        "tcp-s-corporation-advanced-compliance.task-1"
+      ],
+      "skill": "application",
+      "validFrom": "2026-07-01",
+      "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        },
+        {
+          "title": "IRS tax publications",
+          "url": "https://www.irs.gov/publications"
+        },
+        {
+          "title": "Internal Revenue Code",
+          "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+        }
+      ]
+    }
+  },
+  "relatedSimulation": "tcp-m2-tbs3"
+}

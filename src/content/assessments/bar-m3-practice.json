@@ -1,0 +1,4005 @@
+{
+  "id": "bar-m3-practice",
+  "title": "State & Local Government Reporting Practice",
+  "courseId": "bar",
+  "moduleId": 3,
+  "selection": "per-lesson",
+  "feedback": "immediate",
+  "passPercent": 80,
+  "questions": [
+    {
+      "id": "bar-m3-l1-q1",
+      "courseId": "bar",
+      "moduleId": 3,
+      "lessonId": "bar-m3-l1",
+      "topic": "Governmental Foundations & Fund Classification",
+      "prompt": "Which measurement focus and basis of accounting are generally used by governmental funds?",
+      "choices": [
+        {
+          "id": "bar-m3-l1-q1-a0",
+          "text": "Economic resources and accrual"
+        },
+        {
+          "id": "bar-m3-l1-q1-a1",
+          "text": "Current financial resources and cash basis"
+        },
+        {
+          "id": "bar-m3-l1-q1-a2",
+          "text": "Current financial resources and modified accrual"
+        },
+        {
+          "id": "bar-m3-l1-q1-a3",
+          "text": "Economic resources and modified accrual"
+        }
+      ],
+      "correctChoiceId": "bar-m3-l1-q1-a2",
+      "explanation": "Governmental funds generally use the current financial resources measurement focus and modified accrual basis of accounting.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-III",
+        "groupId": "A-B-C",
+        "topicId": "bar-government-funds",
+        "taskIds": [
+          "bar-government-funds.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bar-m3-l1-q2",
+      "courseId": "bar",
+      "moduleId": 3,
+      "lessonId": "bar-m3-l1",
+      "topic": "Governmental Foundations & Fund Classification",
+      "prompt": "Which reporting level generally uses the economic resources measurement focus and accrual accounting?",
+      "choices": [
+        {
+          "id": "bar-m3-l1-q2-a0",
+          "text": "Governmental fund statements only"
+        },
+        {
+          "id": "bar-m3-l1-q2-a1",
+          "text": "General Fund only"
+        },
+        {
+          "id": "bar-m3-l1-q2-a2",
+          "text": "Debt Service Fund only"
+        },
+        {
+          "id": "bar-m3-l1-q2-a3",
+          "text": "Government-wide financial statements"
+        }
+      ],
+      "correctChoiceId": "bar-m3-l1-q2-a3",
+      "explanation": "Government-wide financial statements use the economic resources measurement focus and accrual basis of accounting.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-III",
+        "groupId": "A-B-C",
+        "topicId": "bar-government-funds",
+        "taskIds": [
+          "bar-government-funds.task-2"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bar-m3-l1-q3",
+      "courseId": "bar",
+      "moduleId": 3,
+      "lessonId": "bar-m3-l1",
+      "topic": "Governmental Foundations & Fund Classification",
+      "prompt": "Which fund category generally uses accrual accounting rather than modified accrual?",
+      "choices": [
+        {
+          "id": "bar-m3-l1-q3-a0",
+          "text": "Proprietary funds"
+        },
+        {
+          "id": "bar-m3-l1-q3-a1",
+          "text": "Governmental funds"
+        },
+        {
+          "id": "bar-m3-l1-q3-a2",
+          "text": "General Fund"
+        },
+        {
+          "id": "bar-m3-l1-q3-a3",
+          "text": "Capital Projects Fund"
+        }
+      ],
+      "correctChoiceId": "bar-m3-l1-q3-a0",
+      "explanation": "Proprietary funds use the economic resources measurement focus and accrual basis of accounting.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-III",
+        "groupId": "A-B-C",
+        "topicId": "bar-government-funds",
+        "taskIds": [
+          "bar-government-funds.task-3"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bar-m3-l1-q4",
+      "courseId": "bar",
+      "moduleId": 3,
+      "lessonId": "bar-m3-l1",
+      "topic": "Governmental Foundations & Fund Classification",
+      "prompt": "Why are fiduciary activities generally excluded from government-wide financial statements?",
+      "choices": [
+        {
+          "id": "bar-m3-l1-q4-a0",
+          "text": "They never involve cash"
+        },
+        {
+          "id": "bar-m3-l1-q4-a1",
+          "text": "Their resources generally are not available to support the government's own programs"
+        },
+        {
+          "id": "bar-m3-l1-q4-a2",
+          "text": "They use modified accrual accounting"
+        },
+        {
+          "id": "bar-m3-l1-q4-a3",
+          "text": "They are always immaterial"
+        }
+      ],
+      "correctChoiceId": "bar-m3-l1-q4-a1",
+      "explanation": "Fiduciary resources are generally held for others and therefore are not available to finance the government's own programs.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-III",
+        "groupId": "A-B-C",
+        "topicId": "bar-government-funds",
+        "taskIds": [
+          "bar-government-funds.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bar-m3-l1-q5",
+      "courseId": "bar",
+      "moduleId": 3,
+      "lessonId": "bar-m3-l1",
+      "topic": "Governmental Foundations & Fund Classification",
+      "prompt": "Which governmental fund is generally the government's primary operating fund?",
+      "choices": [
+        {
+          "id": "bar-m3-l1-q5-a0",
+          "text": "Permanent Fund"
+        },
+        {
+          "id": "bar-m3-l1-q5-a1",
+          "text": "Debt Service Fund"
+        },
+        {
+          "id": "bar-m3-l1-q5-a2",
+          "text": "General Fund"
+        },
+        {
+          "id": "bar-m3-l1-q5-a3",
+          "text": "Capital Projects Fund"
+        }
+      ],
+      "correctChoiceId": "bar-m3-l1-q5-a2",
+      "explanation": "The General Fund generally serves as the chief operating fund of the government.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-III",
+        "groupId": "A-B-C",
+        "topicId": "bar-government-funds",
+        "taskIds": [
+          "bar-government-funds.task-2"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bar-m3-l1-q6",
+      "courseId": "bar",
+      "moduleId": 3,
+      "lessonId": "bar-m3-l1",
+      "topic": "Governmental Foundations & Fund Classification",
+      "prompt": "Which fund generally accounts for resources used to construct a major government building?",
+      "choices": [
+        {
+          "id": "bar-m3-l1-q6-a0",
+          "text": "Debt Service Fund"
+        },
+        {
+          "id": "bar-m3-l1-q6-a1",
+          "text": "Internal Service Fund"
+        },
+        {
+          "id": "bar-m3-l1-q6-a2",
+          "text": "Permanent Fund"
+        },
+        {
+          "id": "bar-m3-l1-q6-a3",
+          "text": "Capital Projects Fund"
+        }
+      ],
+      "correctChoiceId": "bar-m3-l1-q6-a3",
+      "explanation": "Capital Projects Funds generally account for financial resources used to acquire or construct major capital facilities.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-III",
+        "groupId": "A-B-C",
+        "topicId": "bar-government-funds",
+        "taskIds": [
+          "bar-government-funds.task-3"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bar-m3-l1-q7",
+      "courseId": "bar",
+      "moduleId": 3,
+      "lessonId": "bar-m3-l1",
+      "topic": "Governmental Foundations & Fund Classification",
+      "prompt": "A donor requires that the principal of a gift remain intact permanently while earnings are used to maintain public parks. Which fund is generally appropriate?",
+      "choices": [
+        {
+          "id": "bar-m3-l1-q7-a0",
+          "text": "Permanent Fund"
+        },
+        {
+          "id": "bar-m3-l1-q7-a1",
+          "text": "Special Revenue Fund"
+        },
+        {
+          "id": "bar-m3-l1-q7-a2",
+          "text": "General Fund"
+        },
+        {
+          "id": "bar-m3-l1-q7-a3",
+          "text": "Private-Purpose Trust Fund"
+        }
+      ],
+      "correctChoiceId": "bar-m3-l1-q7-a0",
+      "explanation": "A Permanent Fund generally reports resources whose principal must remain intact while earnings support government programs or citizens.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-III",
+        "groupId": "A-B-C",
+        "topicId": "bar-government-funds",
+        "taskIds": [
+          "bar-government-funds.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bar-m3-l1-q8",
+      "courseId": "bar",
+      "moduleId": 3,
+      "lessonId": "bar-m3-l1",
+      "topic": "Governmental Foundations & Fund Classification",
+      "prompt": "Which governmental fund is generally used to accumulate resources for principal and interest payments on general long-term debt?",
+      "choices": [
+        {
+          "id": "bar-m3-l1-q8-a0",
+          "text": "Capital Projects Fund"
+        },
+        {
+          "id": "bar-m3-l1-q8-a1",
+          "text": "Debt Service Fund"
+        },
+        {
+          "id": "bar-m3-l1-q8-a2",
+          "text": "Special Revenue Fund"
+        },
+        {
+          "id": "bar-m3-l1-q8-a3",
+          "text": "General Fund"
+        }
+      ],
+      "correctChoiceId": "bar-m3-l1-q8-a1",
+      "explanation": "Debt Service Funds generally account for resources used to pay principal and interest on general long-term governmental debt.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-III",
+        "groupId": "A-B-C",
+        "topicId": "bar-government-funds",
+        "taskIds": [
+          "bar-government-funds.task-2"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bar-m3-l1-q9",
+      "courseId": "bar",
+      "moduleId": 3,
+      "lessonId": "bar-m3-l1",
+      "topic": "Governmental Foundations & Fund Classification",
+      "prompt": "A city receives $4,000,000 of resources that are restricted for construction of a new fire station. Which governmental fund would generally be used to account for these resources and the related capital outlays?",
+      "choices": [
+        {
+          "id": "bar-m3-l1-q9-a0",
+          "text": "Special Revenue Fund"
+        },
+        {
+          "id": "bar-m3-l1-q9-a1",
+          "text": "Debt Service Fund"
+        },
+        {
+          "id": "bar-m3-l1-q9-a2",
+          "text": "Capital Projects Fund"
+        },
+        {
+          "id": "bar-m3-l1-q9-a3",
+          "text": "Enterprise Fund"
+        }
+      ],
+      "correctChoiceId": "bar-m3-l1-q9-a2",
+      "explanation": "A Capital Projects Fund generally accounts for financial resources restricted, committed, or assigned for capital outlays, including acquisition or construction of capital facilities and other capital assets.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-III",
+        "groupId": "A-B-C",
+        "topicId": "bar-government-funds",
+        "taskIds": [
+          "bar-government-funds.task-3"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bar-m3-l2-q1",
+      "courseId": "bar",
+      "moduleId": 3,
+      "lessonId": "bar-m3-l2",
+      "topic": "Modified Accrual & Governmental Fund Statements",
+      "prompt": "Under modified accrual accounting, revenue is generally recognized when it is:",
+      "choices": [
+        {
+          "id": "bar-m3-l2-q1-a0",
+          "text": "Earned and collectible within five years"
+        },
+        {
+          "id": "bar-m3-l2-q1-a1",
+          "text": "Received in cash"
+        },
+        {
+          "id": "bar-m3-l2-q1-a2",
+          "text": "Approved in the budget"
+        },
+        {
+          "id": "bar-m3-l2-q1-a3",
+          "text": "Measurable and available"
+        }
+      ],
+      "correctChoiceId": "bar-m3-l2-q1-a3",
+      "explanation": "Governmental fund revenue generally must be both measurable and available.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-III",
+        "groupId": "A-B-C",
+        "topicId": "bar-government-modified-accrual",
+        "taskIds": [
+          "bar-government-modified-accrual.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bar-m3-l2-q2",
+      "courseId": "bar",
+      "moduleId": 3,
+      "lessonId": "bar-m3-l2",
+      "topic": "Modified Accrual & Governmental Fund Statements",
+      "prompt": "A governmental fund has $900,000 of measurable property taxes, but $70,000 does not satisfy the availability criterion. How much revenue should generally be recognized?",
+      "choices": [
+        {
+          "id": "bar-m3-l2-q2-a0",
+          "text": "$830,000"
+        },
+        {
+          "id": "bar-m3-l2-q2-a1",
+          "text": "$70,000"
+        },
+        {
+          "id": "bar-m3-l2-q2-a2",
+          "text": "$900,000"
+        },
+        {
+          "id": "bar-m3-l2-q2-a3",
+          "text": "$970,000"
+        }
+      ],
+      "correctChoiceId": "bar-m3-l2-q2-a0",
+      "explanation": "$900,000 − $70,000 = $830,000 is measurable and available and therefore generally recognized.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-III",
+        "groupId": "A-B-C",
+        "topicId": "bar-government-modified-accrual",
+        "taskIds": [
+          "bar-government-modified-accrual.task-2"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bar-m3-l2-q3",
+      "courseId": "bar",
+      "moduleId": 3,
+      "lessonId": "bar-m3-l2",
+      "topic": "Modified Accrual & Governmental Fund Statements",
+      "prompt": "How are proceeds from issuing general long-term bonds generally reported in a governmental fund?",
+      "choices": [
+        {
+          "id": "bar-m3-l2-q3-a0",
+          "text": "Revenue"
+        },
+        {
+          "id": "bar-m3-l2-q3-a1",
+          "text": "Other financing source"
+        },
+        {
+          "id": "bar-m3-l2-q3-a2",
+          "text": "Capital contribution"
+        },
+        {
+          "id": "bar-m3-l2-q3-a3",
+          "text": "Deferred inflow"
+        }
+      ],
+      "correctChoiceId": "bar-m3-l2-q3-a1",
+      "explanation": "General long-term bond proceeds are generally reported as other financing sources in governmental funds.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-III",
+        "groupId": "A-B-C",
+        "topicId": "bar-government-modified-accrual",
+        "taskIds": [
+          "bar-government-modified-accrual.task-3"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bar-m3-l2-q4",
+      "courseId": "bar",
+      "moduleId": 3,
+      "lessonId": "bar-m3-l2",
+      "topic": "Modified Accrual & Governmental Fund Statements",
+      "prompt": "A governmental fund purchases equipment for $120,000. How is the purchase generally reported in that fund?",
+      "choices": [
+        {
+          "id": "bar-m3-l2-q4-a0",
+          "text": "As depreciation expense"
+        },
+        {
+          "id": "bar-m3-l2-q4-a1",
+          "text": "As a capital asset only"
+        },
+        {
+          "id": "bar-m3-l2-q4-a2",
+          "text": "As an expenditure"
+        },
+        {
+          "id": "bar-m3-l2-q4-a3",
+          "text": "As an other financing use"
+        }
+      ],
+      "correctChoiceId": "bar-m3-l2-q4-a2",
+      "explanation": "Governmental funds generally report capital asset acquisitions as expenditures.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-III",
+        "groupId": "A-B-C",
+        "topicId": "bar-government-modified-accrual",
+        "taskIds": [
+          "bar-government-modified-accrual.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bar-m3-l2-q5",
+      "courseId": "bar",
+      "moduleId": 3,
+      "lessonId": "bar-m3-l2",
+      "topic": "Modified Accrual & Governmental Fund Statements",
+      "prompt": "Which item is generally NOT reported on a governmental funds balance sheet?",
+      "choices": [
+        {
+          "id": "bar-m3-l2-q5-a0",
+          "text": "Cash"
+        },
+        {
+          "id": "bar-m3-l2-q5-a1",
+          "text": "Accounts payable"
+        },
+        {
+          "id": "bar-m3-l2-q5-a2",
+          "text": "Taxes receivable"
+        },
+        {
+          "id": "bar-m3-l2-q5-a3",
+          "text": "General capital assets"
+        }
+      ],
+      "correctChoiceId": "bar-m3-l2-q5-a3",
+      "explanation": "General capital assets are generally reported at the government-wide level rather than on governmental fund balance sheets.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-III",
+        "groupId": "A-B-C",
+        "topicId": "bar-government-modified-accrual",
+        "taskIds": [
+          "bar-government-modified-accrual.task-2"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bar-m3-l2-q6",
+      "courseId": "bar",
+      "moduleId": 3,
+      "lessonId": "bar-m3-l2",
+      "topic": "Modified Accrual & Governmental Fund Statements",
+      "prompt": "Which fund balance classification generally represents externally enforceable constraints?",
+      "choices": [
+        {
+          "id": "bar-m3-l2-q6-a0",
+          "text": "Restricted"
+        },
+        {
+          "id": "bar-m3-l2-q6-a1",
+          "text": "Assigned"
+        },
+        {
+          "id": "bar-m3-l2-q6-a2",
+          "text": "Unassigned"
+        },
+        {
+          "id": "bar-m3-l2-q6-a3",
+          "text": "Committed"
+        }
+      ],
+      "correctChoiceId": "bar-m3-l2-q6-a0",
+      "explanation": "Restricted fund balance generally results from externally enforceable constraints or legal restrictions.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-III",
+        "groupId": "A-B-C",
+        "topicId": "bar-government-modified-accrual",
+        "taskIds": [
+          "bar-government-modified-accrual.task-3"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bar-m3-l2-q7",
+      "courseId": "bar",
+      "moduleId": 3,
+      "lessonId": "bar-m3-l2",
+      "topic": "Modified Accrual & Governmental Fund Statements",
+      "prompt": "Which classification is generally the residual fund balance classification for the General Fund?",
+      "choices": [
+        {
+          "id": "bar-m3-l2-q7-a0",
+          "text": "Committed"
+        },
+        {
+          "id": "bar-m3-l2-q7-a1",
+          "text": "Unassigned"
+        },
+        {
+          "id": "bar-m3-l2-q7-a2",
+          "text": "Restricted"
+        },
+        {
+          "id": "bar-m3-l2-q7-a3",
+          "text": "Nonspendable"
+        }
+      ],
+      "correctChoiceId": "bar-m3-l2-q7-a1",
+      "explanation": "Unassigned fund balance generally represents the residual classification in the General Fund.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-III",
+        "groupId": "A-B-C",
+        "topicId": "bar-government-modified-accrual",
+        "taskIds": [
+          "bar-government-modified-accrual.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bar-m3-l2-q8",
+      "courseId": "bar",
+      "moduleId": 3,
+      "lessonId": "bar-m3-l2",
+      "topic": "Modified Accrual & Governmental Fund Statements",
+      "prompt": "A governmental fund reports revenues of $900,000, expenditures of $820,000, bond proceeds of $100,000, and transfers out of $30,000. What is the increase in fund balance?",
+      "choices": [
+        {
+          "id": "bar-m3-l2-q8-a0",
+          "text": "$80,000"
+        },
+        {
+          "id": "bar-m3-l2-q8-a1",
+          "text": "$180,000"
+        },
+        {
+          "id": "bar-m3-l2-q8-a2",
+          "text": "$150,000"
+        },
+        {
+          "id": "bar-m3-l2-q8-a3",
+          "text": "$230,000"
+        }
+      ],
+      "correctChoiceId": "bar-m3-l2-q8-a2",
+      "explanation": "$900,000 − $820,000 + $100,000 − $30,000 = $150,000.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-III",
+        "groupId": "A-B-C",
+        "topicId": "bar-government-modified-accrual",
+        "taskIds": [
+          "bar-government-modified-accrual.task-2"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bar-m3-l2-q9",
+      "courseId": "bar",
+      "moduleId": 3,
+      "lessonId": "bar-m3-l2",
+      "topic": "Modified Accrual & Governmental Fund Statements",
+      "prompt": "A city's General Fund levies $1,200,000 of property taxes for the current year. All amounts are measurable. Of the total levy, $1,080,000 is expected to be collected during the current year or soon enough thereafter to satisfy the government's availability criterion. The remaining $120,000 is not available. What amount of property tax revenue should generally be recognized in the General Fund for the current year?",
+      "choices": [
+        {
+          "id": "bar-m3-l2-q9-a0",
+          "text": "$1,200,000"
+        },
+        {
+          "id": "bar-m3-l2-q9-a1",
+          "text": "$120,000"
+        },
+        {
+          "id": "bar-m3-l2-q9-a2",
+          "text": "$960,000"
+        },
+        {
+          "id": "bar-m3-l2-q9-a3",
+          "text": "$1,080,000"
+        }
+      ],
+      "correctChoiceId": "bar-m3-l2-q9-a3",
+      "explanation": "Governmental fund revenue generally must be measurable and available. Because $1,080,000 satisfies both criteria, the General Fund generally recognizes $1,080,000 of property tax revenue.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-III",
+        "groupId": "A-B-C",
+        "topicId": "bar-government-modified-accrual",
+        "taskIds": [
+          "bar-government-modified-accrual.task-3"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bar-m3-l2-q10",
+      "courseId": "bar",
+      "moduleId": 3,
+      "lessonId": "bar-m3-l2",
+      "topic": "Modified Accrual & Governmental Fund Statements",
+      "prompt": "A General Fund has $900,000 of assets and $350,000 of liabilities. Of the resulting fund balance, $100,000 is nonspendable, $80,000 is restricted, $70,000 is committed, and $50,000 is assigned. Assuming no deferred outflows or deferred inflows, what amount is generally classified as unassigned fund balance?",
+      "choices": [
+        {
+          "id": "bar-m3-l2-q10-a0",
+          "text": "$250,000"
+        },
+        {
+          "id": "bar-m3-l2-q10-a1",
+          "text": "$300,000"
+        },
+        {
+          "id": "bar-m3-l2-q10-a2",
+          "text": "$550,000"
+        },
+        {
+          "id": "bar-m3-l2-q10-a3",
+          "text": "$200,000"
+        }
+      ],
+      "correctChoiceId": "bar-m3-l2-q10-a0",
+      "explanation": "Total fund balance is $900,000 − $350,000 = $550,000. Subtract the nonspendable $100,000, restricted $80,000, committed $70,000, and assigned $50,000 amounts. The remaining $250,000 is generally unassigned.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-III",
+        "groupId": "A-B-C",
+        "topicId": "bar-government-modified-accrual",
+        "taskIds": [
+          "bar-government-modified-accrual.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bar-m3-l2-q11",
+      "courseId": "bar",
+      "moduleId": 3,
+      "lessonId": "bar-m3-l2",
+      "topic": "Modified Accrual & Governmental Fund Statements",
+      "prompt": "A governmental fund issues $2,000,000 of general long-term bonds and immediately uses $500,000 of the proceeds to acquire equipment. Ignoring issuance costs, how should these two transactions generally affect the governmental fund's operating statement?",
+      "choices": [
+        {
+          "id": "bar-m3-l2-q11-a0",
+          "text": "$2,000,000 revenue and $500,000 expense"
+        },
+        {
+          "id": "bar-m3-l2-q11-a1",
+          "text": "$2,000,000 other financing source and $500,000 expenditure"
+        },
+        {
+          "id": "bar-m3-l2-q11-a2",
+          "text": "$1,500,000 net revenue"
+        },
+        {
+          "id": "bar-m3-l2-q11-a3",
+          "text": "$2,000,000 liability and $500,000 capital asset"
+        }
+      ],
+      "correctChoiceId": "bar-m3-l2-q11-a1",
+      "explanation": "At the governmental fund level, general long-term bond proceeds are generally reported as an other financing source, while acquisition of equipment is generally reported as an expenditure.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-III",
+        "groupId": "A-B-C",
+        "topicId": "bar-government-modified-accrual",
+        "taskIds": [
+          "bar-government-modified-accrual.task-2"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bar-m3-l2-q12",
+      "courseId": "bar",
+      "moduleId": 3,
+      "lessonId": "bar-m3-l2",
+      "topic": "Modified Accrual & Governmental Fund Statements",
+      "prompt": "A governmental fund reports $1,500,000 of revenues, $1,260,000 of expenditures, $300,000 of bond proceeds, $90,000 of transfers in, and $140,000 of transfers out. What is the increase in fund balance?",
+      "choices": [
+        {
+          "id": "bar-m3-l2-q12-a0",
+          "text": "$290,000"
+        },
+        {
+          "id": "bar-m3-l2-q12-a1",
+          "text": "$390,000"
+        },
+        {
+          "id": "bar-m3-l2-q12-a2",
+          "text": "$490,000"
+        },
+        {
+          "id": "bar-m3-l2-q12-a3",
+          "text": "$190,000"
+        }
+      ],
+      "correctChoiceId": "bar-m3-l2-q12-a2",
+      "explanation": "The increase in fund balance is $1,500,000 − $1,260,000 + $300,000 + $90,000 − $140,000 = $490,000.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-III",
+        "groupId": "A-B-C",
+        "topicId": "bar-government-modified-accrual",
+        "taskIds": [
+          "bar-government-modified-accrual.task-3"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bar-m3-l2-q13",
+      "courseId": "bar",
+      "moduleId": 3,
+      "lessonId": "bar-m3-l2",
+      "topic": "Modified Accrual & Governmental Fund Statements",
+      "prompt": "A General Fund has total fund balance of $700,000. Of this amount, $80,000 is nonspendable, $120,000 is restricted, and $150,000 is committed. The government has also assigned $50,000 for a specific purpose. What amount is generally unassigned?",
+      "choices": [
+        {
+          "id": "bar-m3-l2-q13-a0",
+          "text": "$350,000"
+        },
+        {
+          "id": "bar-m3-l2-q13-a1",
+          "text": "$250,000"
+        },
+        {
+          "id": "bar-m3-l2-q13-a2",
+          "text": "$400,000"
+        },
+        {
+          "id": "bar-m3-l2-q13-a3",
+          "text": "$300,000"
+        }
+      ],
+      "correctChoiceId": "bar-m3-l2-q13-a3",
+      "explanation": "$700,000 − $80,000 − $120,000 − $150,000 − $50,000 = $300,000 of unassigned fund balance.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-III",
+        "groupId": "A-B-C",
+        "topicId": "bar-government-modified-accrual",
+        "taskIds": [
+          "bar-government-modified-accrual.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bar-m3-l3-q1",
+      "courseId": "bar",
+      "moduleId": 3,
+      "lessonId": "bar-m3-l3",
+      "topic": "Proprietary and Fiduciary Funds",
+      "prompt": "A city-owned water utility primarily provides services to residents for a fee. Which fund is generally appropriate?",
+      "choices": [
+        {
+          "id": "bar-m3-l3-q1-a0",
+          "text": "Enterprise Fund"
+        },
+        {
+          "id": "bar-m3-l3-q1-a1",
+          "text": "Internal Service Fund"
+        },
+        {
+          "id": "bar-m3-l3-q1-a2",
+          "text": "Special Revenue Fund"
+        },
+        {
+          "id": "bar-m3-l3-q1-a3",
+          "text": "General Fund"
+        }
+      ],
+      "correctChoiceId": "bar-m3-l3-q1-a0",
+      "explanation": "Enterprise funds generally report activities that provide goods or services primarily to external users for a fee.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-III",
+        "groupId": "A-B-C",
+        "topicId": "bar-government-proprietary-fiduciary",
+        "taskIds": [
+          "bar-government-proprietary-fiduciary.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bar-m3-l3-q2",
+      "courseId": "bar",
+      "moduleId": 3,
+      "lessonId": "bar-m3-l3",
+      "topic": "Proprietary and Fiduciary Funds",
+      "prompt": "Which basis of accounting is generally used by proprietary funds?",
+      "choices": [
+        {
+          "id": "bar-m3-l3-q2-a0",
+          "text": "Modified accrual"
+        },
+        {
+          "id": "bar-m3-l3-q2-a1",
+          "text": "Accrual"
+        },
+        {
+          "id": "bar-m3-l3-q2-a2",
+          "text": "Cash basis"
+        },
+        {
+          "id": "bar-m3-l3-q2-a3",
+          "text": "Budgetary basis only"
+        }
+      ],
+      "correctChoiceId": "bar-m3-l3-q2-a1",
+      "explanation": "Proprietary funds use the economic resources measurement focus and accrual basis of accounting.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-III",
+        "groupId": "A-B-C",
+        "topicId": "bar-government-proprietary-fiduciary",
+        "taskIds": [
+          "bar-government-proprietary-fiduciary.task-2"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bar-m3-l3-q3",
+      "courseId": "bar",
+      "moduleId": 3,
+      "lessonId": "bar-m3-l3",
+      "topic": "Proprietary and Fiduciary Funds",
+      "prompt": "A city's central IT department primarily provides services to other city departments and charges them for those services. Which fund is generally appropriate?",
+      "choices": [
+        {
+          "id": "bar-m3-l3-q3-a0",
+          "text": "Enterprise Fund"
+        },
+        {
+          "id": "bar-m3-l3-q3-a1",
+          "text": "Permanent Fund"
+        },
+        {
+          "id": "bar-m3-l3-q3-a2",
+          "text": "Internal Service Fund"
+        },
+        {
+          "id": "bar-m3-l3-q3-a3",
+          "text": "Debt Service Fund"
+        }
+      ],
+      "correctChoiceId": "bar-m3-l3-q3-a2",
+      "explanation": "Internal Service Funds generally provide goods or services primarily to other departments of the same government.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-III",
+        "groupId": "A-B-C",
+        "topicId": "bar-government-proprietary-fiduciary",
+        "taskIds": [
+          "bar-government-proprietary-fiduciary.task-3"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bar-m3-l3-q4",
+      "courseId": "bar",
+      "moduleId": 3,
+      "lessonId": "bar-m3-l3",
+      "topic": "Proprietary and Fiduciary Funds",
+      "prompt": "Which item is generally reported directly in a proprietary fund?",
+      "choices": [
+        {
+          "id": "bar-m3-l3-q4-a0",
+          "text": "Encumbrances only"
+        },
+        {
+          "id": "bar-m3-l3-q4-a1",
+          "text": "General governmental capital assets only"
+        },
+        {
+          "id": "bar-m3-l3-q4-a2",
+          "text": "Appropriations instead of expenses"
+        },
+        {
+          "id": "bar-m3-l3-q4-a3",
+          "text": "Capital assets and depreciation"
+        }
+      ],
+      "correctChoiceId": "bar-m3-l3-q4-a3",
+      "explanation": "Proprietary funds use the economic resources measurement focus and therefore generally report capital assets and depreciation.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-III",
+        "groupId": "A-B-C",
+        "topicId": "bar-government-proprietary-fiduciary",
+        "taskIds": [
+          "bar-government-proprietary-fiduciary.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bar-m3-l3-q5",
+      "courseId": "bar",
+      "moduleId": 3,
+      "lessonId": "bar-m3-l3",
+      "topic": "Proprietary and Fiduciary Funds",
+      "prompt": "Which fiduciary fund generally reports the external portion of an investment pool administered by a government?",
+      "choices": [
+        {
+          "id": "bar-m3-l3-q5-a0",
+          "text": "Investment Trust Fund"
+        },
+        {
+          "id": "bar-m3-l3-q5-a1",
+          "text": "Private-Purpose Trust Fund"
+        },
+        {
+          "id": "bar-m3-l3-q5-a2",
+          "text": "Permanent Fund"
+        },
+        {
+          "id": "bar-m3-l3-q5-a3",
+          "text": "Enterprise Fund"
+        }
+      ],
+      "correctChoiceId": "bar-m3-l3-q5-a0",
+      "explanation": "Investment Trust Funds generally report the external portion of qualifying governmental investment pools.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-III",
+        "groupId": "A-B-C",
+        "topicId": "bar-government-proprietary-fiduciary",
+        "taskIds": [
+          "bar-government-proprietary-fiduciary.task-2"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bar-m3-l3-q6",
+      "courseId": "bar",
+      "moduleId": 3,
+      "lessonId": "bar-m3-l3",
+      "topic": "Proprietary and Fiduciary Funds",
+      "prompt": "Which statement about fiduciary funds is generally correct?",
+      "choices": [
+        {
+          "id": "bar-m3-l3-q6-a0",
+          "text": "They use modified accrual accounting"
+        },
+        {
+          "id": "bar-m3-l3-q6-a1",
+          "text": "They generally use accrual accounting"
+        },
+        {
+          "id": "bar-m3-l3-q6-a2",
+          "text": "They are included in governmental activities"
+        },
+        {
+          "id": "bar-m3-l3-q6-a3",
+          "text": "They always benefit the government's own programs"
+        }
+      ],
+      "correctChoiceId": "bar-m3-l3-q6-a1",
+      "explanation": "Fiduciary funds generally use the economic resources measurement focus and accrual basis.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-III",
+        "groupId": "A-B-C",
+        "topicId": "bar-government-proprietary-fiduciary",
+        "taskIds": [
+          "bar-government-proprietary-fiduciary.task-3"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bar-m3-l3-q7",
+      "courseId": "bar",
+      "moduleId": 3,
+      "lessonId": "bar-m3-l3",
+      "topic": "Proprietary and Fiduciary Funds",
+      "prompt": "Resources held in trust for specific private individuals are most likely reported in which fund?",
+      "choices": [
+        {
+          "id": "bar-m3-l3-q7-a0",
+          "text": "Permanent Fund"
+        },
+        {
+          "id": "bar-m3-l3-q7-a1",
+          "text": "Special Revenue Fund"
+        },
+        {
+          "id": "bar-m3-l3-q7-a2",
+          "text": "Private-Purpose Trust Fund"
+        },
+        {
+          "id": "bar-m3-l3-q7-a3",
+          "text": "Internal Service Fund"
+        }
+      ],
+      "correctChoiceId": "bar-m3-l3-q7-a2",
+      "explanation": "Private-Purpose Trust Funds generally report qualifying fiduciary resources benefiting specific individuals or organizations.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-III",
+        "groupId": "A-B-C",
+        "topicId": "bar-government-proprietary-fiduciary",
+        "taskIds": [
+          "bar-government-proprietary-fiduciary.task-1"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bar-m3-l3-q8",
+      "courseId": "bar",
+      "moduleId": 3,
+      "lessonId": "bar-m3-l3",
+      "topic": "Proprietary and Fiduciary Funds",
+      "prompt": "Fiduciary activities are generally excluded from government-wide statements because:",
+      "choices": [
+        {
+          "id": "bar-m3-l3-q8-a0",
+          "text": "They involve only temporary accounts"
+        },
+        {
+          "id": "bar-m3-l3-q8-a1",
+          "text": "They do not use accrual accounting"
+        },
+        {
+          "id": "bar-m3-l3-q8-a2",
+          "text": "They cannot contain investments"
+        },
+        {
+          "id": "bar-m3-l3-q8-a3",
+          "text": "The resources generally belong to or are held for others"
+        }
+      ],
+      "correctChoiceId": "bar-m3-l3-q8-a3",
+      "explanation": "Fiduciary resources generally are held for others and cannot be used to support the government's own programs.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-III",
+        "groupId": "A-B-C",
+        "topicId": "bar-government-proprietary-fiduciary",
+        "taskIds": [
+          "bar-government-proprietary-fiduciary.task-2"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bar-m3-l3-q9",
+      "courseId": "bar",
+      "moduleId": 3,
+      "lessonId": "bar-m3-l3",
+      "topic": "Proprietary and Fiduciary Funds",
+      "prompt": "A city operates a central motor pool that provides vehicles almost entirely to the city's police, parks, and public works departments and charges those departments based on usage. Which fund is generally most appropriate?",
+      "choices": [
+        {
+          "id": "bar-m3-l3-q9-a0",
+          "text": "Internal Service Fund"
+        },
+        {
+          "id": "bar-m3-l3-q9-a1",
+          "text": "Enterprise Fund"
+        },
+        {
+          "id": "bar-m3-l3-q9-a2",
+          "text": "General Fund"
+        },
+        {
+          "id": "bar-m3-l3-q9-a3",
+          "text": "Special Revenue Fund"
+        }
+      ],
+      "correctChoiceId": "bar-m3-l3-q9-a0",
+      "explanation": "An Internal Service Fund generally accounts for goods or services provided primarily to other departments or agencies of the same government on a cost-reimbursement or similar basis.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-III",
+        "groupId": "A-B-C",
+        "topicId": "bar-government-proprietary-fiduciary",
+        "taskIds": [
+          "bar-government-proprietary-fiduciary.task-3"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bar-m3-l3-q10",
+      "courseId": "bar",
+      "moduleId": 3,
+      "lessonId": "bar-m3-l3",
+      "topic": "Proprietary and Fiduciary Funds",
+      "prompt": "A county holds qualifying resources in trust under an arrangement requiring the principal to remain intact and the earnings to benefit a specific private family. Which fund is generally appropriate?",
+      "choices": [
+        {
+          "id": "bar-m3-l3-q10-a0",
+          "text": "Permanent Fund"
+        },
+        {
+          "id": "bar-m3-l3-q10-a1",
+          "text": "Private-Purpose Trust Fund"
+        },
+        {
+          "id": "bar-m3-l3-q10-a2",
+          "text": "Special Revenue Fund"
+        },
+        {
+          "id": "bar-m3-l3-q10-a3",
+          "text": "Investment Trust Fund"
+        }
+      ],
+      "correctChoiceId": "bar-m3-l3-q10-a1",
+      "explanation": "Because the qualifying trust benefits specific private individuals rather than the government or its citizenry, a Private-Purpose Trust Fund is generally appropriate. A Permanent Fund instead benefits the government or its citizenry.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-III",
+        "groupId": "A-B-C",
+        "topicId": "bar-government-proprietary-fiduciary",
+        "taskIds": [
+          "bar-government-proprietary-fiduciary.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bar-m3-l3-q11",
+      "courseId": "bar",
+      "moduleId": 3,
+      "lessonId": "bar-m3-l3",
+      "topic": "Proprietary and Fiduciary Funds",
+      "prompt": "A county sponsors an investment pool containing $8,000,000 of the county's own resources and $12,000,000 belonging to legally separate governments. Assuming the external portion qualifies for fiduciary reporting, what amount is generally associated with the Investment Trust Fund?",
+      "choices": [
+        {
+          "id": "bar-m3-l3-q11-a0",
+          "text": "$8,000,000"
+        },
+        {
+          "id": "bar-m3-l3-q11-a1",
+          "text": "$20,000,000"
+        },
+        {
+          "id": "bar-m3-l3-q11-a2",
+          "text": "$12,000,000"
+        },
+        {
+          "id": "bar-m3-l3-q11-a3",
+          "text": "$4,000,000"
+        }
+      ],
+      "correctChoiceId": "bar-m3-l3-q11-a2",
+      "explanation": "An Investment Trust Fund generally reports the qualifying external portion of a governmental investment pool. The $12,000,000 belonging to legally separate governments represents the external portion.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-III",
+        "groupId": "A-B-C",
+        "topicId": "bar-government-proprietary-fiduciary",
+        "taskIds": [
+          "bar-government-proprietary-fiduciary.task-2"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bar-m3-l3-q12",
+      "courseId": "bar",
+      "moduleId": 3,
+      "lessonId": "bar-m3-l3",
+      "topic": "Proprietary and Fiduciary Funds",
+      "prompt": "Which combination is generally correct for an Enterprise Fund?",
+      "choices": [
+        {
+          "id": "bar-m3-l3-q12-a0",
+          "text": "Current financial resources; modified accrual; no depreciation"
+        },
+        {
+          "id": "bar-m3-l3-q12-a1",
+          "text": "Economic resources; modified accrual; capital assets excluded"
+        },
+        {
+          "id": "bar-m3-l3-q12-a2",
+          "text": "Current financial resources; accrual; capital assets expensed immediately"
+        },
+        {
+          "id": "bar-m3-l3-q12-a3",
+          "text": "Economic resources; accrual; capital assets and depreciation reported"
+        }
+      ],
+      "correctChoiceId": "bar-m3-l3-q12-a3",
+      "explanation": "Enterprise Funds are proprietary funds. They generally use the economic resources measurement focus and accrual accounting and report capital assets and depreciation.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-III",
+        "groupId": "A-B-C",
+        "topicId": "bar-government-proprietary-fiduciary",
+        "taskIds": [
+          "bar-government-proprietary-fiduciary.task-3"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bar-m3-l4-q1",
+      "courseId": "bar",
+      "moduleId": 3,
+      "lessonId": "bar-m3-l4",
+      "topic": "Government-Wide Reporting & Reconciliation",
+      "prompt": "Which activity is generally included in government-wide financial statements?",
+      "choices": [
+        {
+          "id": "bar-m3-l4-q1-a0",
+          "text": "Fiduciary activities only"
+        },
+        {
+          "id": "bar-m3-l4-q1-a1",
+          "text": "Governmental activities"
+        },
+        {
+          "id": "bar-m3-l4-q1-a2",
+          "text": "Custodial activities only"
+        },
+        {
+          "id": "bar-m3-l4-q1-a3",
+          "text": "Private-purpose trust activities only"
+        }
+      ],
+      "correctChoiceId": "bar-m3-l4-q1-a1",
+      "explanation": "Government-wide statements generally include governmental activities and business-type activities, but exclude fiduciary activities.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-III",
+        "groupId": "A-B-C",
+        "topicId": "bar-government-reconciliation",
+        "taskIds": [
+          "bar-government-reconciliation.task-1"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bar-m3-l4-q2",
+      "courseId": "bar",
+      "moduleId": 3,
+      "lessonId": "bar-m3-l4",
+      "topic": "Government-Wide Reporting & Reconciliation",
+      "prompt": "Which statement is one of the primary government-wide financial statements?",
+      "choices": [
+        {
+          "id": "bar-m3-l4-q2-a0",
+          "text": "Statement of Revenues, Expenditures, and Changes in Fund Balances"
+        },
+        {
+          "id": "bar-m3-l4-q2-a1",
+          "text": "Budgetary Comparison Schedule only"
+        },
+        {
+          "id": "bar-m3-l4-q2-a2",
+          "text": "Statement of Net Position"
+        },
+        {
+          "id": "bar-m3-l4-q2-a3",
+          "text": "General Fund Trial Balance"
+        }
+      ],
+      "correctChoiceId": "bar-m3-l4-q2-a2",
+      "explanation": "The Statement of Net Position is one of the two primary government-wide financial statements.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-III",
+        "groupId": "A-B-C",
+        "topicId": "bar-government-reconciliation",
+        "taskIds": [
+          "bar-government-reconciliation.task-2"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bar-m3-l4-q3",
+      "courseId": "bar",
+      "moduleId": 3,
+      "lessonId": "bar-m3-l4",
+      "topic": "Government-Wide Reporting & Reconciliation",
+      "prompt": "A governmental program has expenses of $700,000, charges for services of $150,000, and program grants of $100,000. What is the program's net expense?",
+      "choices": [
+        {
+          "id": "bar-m3-l4-q3-a0",
+          "text": "$550,000"
+        },
+        {
+          "id": "bar-m3-l4-q3-a1",
+          "text": "$600,000"
+        },
+        {
+          "id": "bar-m3-l4-q3-a2",
+          "text": "$950,000"
+        },
+        {
+          "id": "bar-m3-l4-q3-a3",
+          "text": "$450,000"
+        }
+      ],
+      "correctChoiceId": "bar-m3-l4-q3-a3",
+      "explanation": "$700,000 − $150,000 − $100,000 = $450,000 net expense.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-III",
+        "groupId": "A-B-C",
+        "topicId": "bar-government-reconciliation",
+        "taskIds": [
+          "bar-government-reconciliation.task-3"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bar-m3-l4-q4",
+      "courseId": "bar",
+      "moduleId": 3,
+      "lessonId": "bar-m3-l4",
+      "topic": "Government-Wide Reporting & Reconciliation",
+      "prompt": "Which item is generally recognized at the government-wide level for governmental activities?",
+      "choices": [
+        {
+          "id": "bar-m3-l4-q4-a0",
+          "text": "General long-term liabilities"
+        },
+        {
+          "id": "bar-m3-l4-q4-a1",
+          "text": "Encumbrances as expenses"
+        },
+        {
+          "id": "bar-m3-l4-q4-a2",
+          "text": "Appropriations as liabilities"
+        },
+        {
+          "id": "bar-m3-l4-q4-a3",
+          "text": "Bond proceeds as revenue"
+        }
+      ],
+      "correctChoiceId": "bar-m3-l4-q4-a0",
+      "explanation": "Government-wide reporting includes general long-term liabilities because it uses the economic resources measurement focus.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-III",
+        "groupId": "A-B-C",
+        "topicId": "bar-government-reconciliation",
+        "taskIds": [
+          "bar-government-reconciliation.task-1"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bar-m3-l4-q5",
+      "courseId": "bar",
+      "moduleId": 3,
+      "lessonId": "bar-m3-l4",
+      "topic": "Government-Wide Reporting & Reconciliation",
+      "prompt": "When reconciling governmental fund operating results to government-wide results, how is a capital outlay generally treated?",
+      "choices": [
+        {
+          "id": "bar-m3-l4-q5-a0",
+          "text": "Subtract it again"
+        },
+        {
+          "id": "bar-m3-l4-q5-a1",
+          "text": "Add it back because it is capitalized government-wide"
+        },
+        {
+          "id": "bar-m3-l4-q5-a2",
+          "text": "Ignore it completely"
+        },
+        {
+          "id": "bar-m3-l4-q5-a3",
+          "text": "Treat it as bond proceeds"
+        }
+      ],
+      "correctChoiceId": "bar-m3-l4-q5-a1",
+      "explanation": "Governmental funds report capital outlays as expenditures, but government-wide statements capitalize them, so the expenditure effect is added back.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-III",
+        "groupId": "A-B-C",
+        "topicId": "bar-government-reconciliation",
+        "taskIds": [
+          "bar-government-reconciliation.task-2"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bar-m3-l4-q6",
+      "courseId": "bar",
+      "moduleId": 3,
+      "lessonId": "bar-m3-l4",
+      "topic": "Government-Wide Reporting & Reconciliation",
+      "prompt": "Governmental funds report a $400,000 increase in fund balance. Capital outlays were $120,000 and depreciation was $40,000. Ignoring all other differences, what is the change in government-wide net position?",
+      "choices": [
+        {
+          "id": "bar-m3-l4-q6-a0",
+          "text": "$320,000"
+        },
+        {
+          "id": "bar-m3-l4-q6-a1",
+          "text": "$400,000"
+        },
+        {
+          "id": "bar-m3-l4-q6-a2",
+          "text": "$480,000"
+        },
+        {
+          "id": "bar-m3-l4-q6-a3",
+          "text": "$560,000"
+        }
+      ],
+      "correctChoiceId": "bar-m3-l4-q6-a2",
+      "explanation": "$400,000 + $120,000 capital outlay − $40,000 depreciation = $480,000.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-III",
+        "groupId": "A-B-C",
+        "topicId": "bar-government-reconciliation",
+        "taskIds": [
+          "bar-government-reconciliation.task-3"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bar-m3-l4-q7",
+      "courseId": "bar",
+      "moduleId": 3,
+      "lessonId": "bar-m3-l4",
+      "topic": "Government-Wide Reporting & Reconciliation",
+      "prompt": "Why is a principal payment on general long-term debt generally added back when reconciling governmental fund results to government-wide results?",
+      "choices": [
+        {
+          "id": "bar-m3-l4-q7-a0",
+          "text": "Because it becomes revenue"
+        },
+        {
+          "id": "bar-m3-l4-q7-a1",
+          "text": "Because it creates a capital asset"
+        },
+        {
+          "id": "bar-m3-l4-q7-a2",
+          "text": "Because it is a fiduciary activity"
+        },
+        {
+          "id": "bar-m3-l4-q7-a3",
+          "text": "Because government-wide accounting treats it as a reduction of a liability rather than an expense"
+        }
+      ],
+      "correctChoiceId": "bar-m3-l4-q7-a3",
+      "explanation": "Governmental funds report principal payments as expenditures, while government-wide accounting reduces the long-term liability.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-III",
+        "groupId": "A-B-C",
+        "topicId": "bar-government-reconciliation",
+        "taskIds": [
+          "bar-government-reconciliation.task-1"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bar-m3-l4-q8",
+      "courseId": "bar",
+      "moduleId": 3,
+      "lessonId": "bar-m3-l4",
+      "topic": "Government-Wide Reporting & Reconciliation",
+      "prompt": "Governmental funds report $250,000 of bond proceeds as an other financing source. What happens to this amount when converting operating results to government-wide reporting?",
+      "choices": [
+        {
+          "id": "bar-m3-l4-q8-a0",
+          "text": "It is removed because government-wide reporting recognizes a liability instead"
+        },
+        {
+          "id": "bar-m3-l4-q8-a1",
+          "text": "It remains revenue"
+        },
+        {
+          "id": "bar-m3-l4-q8-a2",
+          "text": "It becomes depreciation"
+        },
+        {
+          "id": "bar-m3-l4-q8-a3",
+          "text": "It becomes an expenditure"
+        }
+      ],
+      "correctChoiceId": "bar-m3-l4-q8-a0",
+      "explanation": "Bond proceeds create a liability at the government-wide level rather than income.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-III",
+        "groupId": "A-B-C",
+        "topicId": "bar-government-reconciliation",
+        "taskIds": [
+          "bar-government-reconciliation.task-2"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bar-m3-l4-q9",
+      "courseId": "bar",
+      "moduleId": 3,
+      "lessonId": "bar-m3-l4",
+      "topic": "Government-Wide Reporting & Reconciliation",
+      "prompt": "A governmental function reports $850,000 of expenses, $200,000 of charges for services, $90,000 of operating grants, and $60,000 of capital grants. What net expense should generally be reported for the function in the government-wide statement of activities?",
+      "choices": [
+        {
+          "id": "bar-m3-l4-q9-a0",
+          "text": "$650,000"
+        },
+        {
+          "id": "bar-m3-l4-q9-a1",
+          "text": "$500,000"
+        },
+        {
+          "id": "bar-m3-l4-q9-a2",
+          "text": "$700,000"
+        },
+        {
+          "id": "bar-m3-l4-q9-a3",
+          "text": "$440,000"
+        }
+      ],
+      "correctChoiceId": "bar-m3-l4-q9-a1",
+      "explanation": "Program revenues include charges for services, operating grants and contributions, and capital grants and contributions. Net expense is $850,000 − $200,000 − $90,000 − $60,000 = $500,000.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-III",
+        "groupId": "A-B-C",
+        "topicId": "bar-government-reconciliation",
+        "taskIds": [
+          "bar-government-reconciliation.task-3"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bar-m3-l4-q10",
+      "courseId": "bar",
+      "moduleId": 3,
+      "lessonId": "bar-m3-l4",
+      "topic": "Government-Wide Reporting & Reconciliation",
+      "prompt": "Governmental funds report a $600,000 increase in fund balance. During the year, the funds reported $180,000 of capital outlays, $300,000 of bond proceeds, and $50,000 of principal payments on general long-term debt. Government-wide depreciation expense is $70,000. Ignoring all other differences, what is the increase in net position of governmental activities?",
+      "choices": [
+        {
+          "id": "bar-m3-l4-q10-a0",
+          "text": "$660,000"
+        },
+        {
+          "id": "bar-m3-l4-q10-a1",
+          "text": "$760,000"
+        },
+        {
+          "id": "bar-m3-l4-q10-a2",
+          "text": "$460,000"
+        },
+        {
+          "id": "bar-m3-l4-q10-a3",
+          "text": "$360,000"
+        }
+      ],
+      "correctChoiceId": "bar-m3-l4-q10-a2",
+      "explanation": "Begin with the $600,000 increase in fund balance. Add back $180,000 of capital outlays, subtract $70,000 of depreciation, add back $50,000 of principal payments, and remove $300,000 of bond proceeds. The result is $460,000.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-III",
+        "groupId": "A-B-C",
+        "topicId": "bar-government-reconciliation",
+        "taskIds": [
+          "bar-government-reconciliation.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bar-m3-l4-q11",
+      "courseId": "bar",
+      "moduleId": 3,
+      "lessonId": "bar-m3-l4",
+      "topic": "Government-Wide Reporting & Reconciliation",
+      "prompt": "Which of the following would generally be reported as a general revenue rather than a program revenue in the government-wide statement of activities?",
+      "choices": [
+        {
+          "id": "bar-m3-l4-q11-a0",
+          "text": "A fee charged specifically for building inspections"
+        },
+        {
+          "id": "bar-m3-l4-q11-a1",
+          "text": "An operating grant restricted to a public safety program"
+        },
+        {
+          "id": "bar-m3-l4-q11-a2",
+          "text": "A capital grant restricted to construction of a transit facility"
+        },
+        {
+          "id": "bar-m3-l4-q11-a3",
+          "text": "Property taxes not restricted to a particular governmental program"
+        }
+      ],
+      "correctChoiceId": "bar-m3-l4-q11-a3",
+      "explanation": "Taxes that are not restricted to a particular governmental program are generally reported as general revenues. Charges for services and operating and capital grants associated with programs are generally program revenues.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-III",
+        "groupId": "A-B-C",
+        "topicId": "bar-government-reconciliation",
+        "taskIds": [
+          "bar-government-reconciliation.task-2"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bar-m3-l4-q12",
+      "courseId": "bar",
+      "moduleId": 3,
+      "lessonId": "bar-m3-l4",
+      "topic": "Government-Wide Reporting & Reconciliation",
+      "prompt": "Total governmental fund balances are $1,100,000. Governmental activities have $2,400,000 of net capital assets and $1,500,000 of general long-term liabilities that are not reported in the governmental funds. In addition, $90,000 of revenue was deferred in the governmental funds solely because it was unavailable but qualifies for recognition under accrual accounting. Ignoring all other differences, what is governmental activities' net position?",
+      "choices": [
+        {
+          "id": "bar-m3-l4-q12-a0",
+          "text": "$2,090,000"
+        },
+        {
+          "id": "bar-m3-l4-q12-a1",
+          "text": "$1,910,000"
+        },
+        {
+          "id": "bar-m3-l4-q12-a2",
+          "text": "$3,090,000"
+        },
+        {
+          "id": "bar-m3-l4-q12-a3",
+          "text": "$1,010,000"
+        }
+      ],
+      "correctChoiceId": "bar-m3-l4-q12-a0",
+      "explanation": "Start with governmental fund balances of $1,100,000, add $2,400,000 of net capital assets, subtract $1,500,000 of long-term liabilities, and add the $90,000 accrual revenue adjustment. Net position is $2,090,000.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-III",
+        "groupId": "A-B-C",
+        "topicId": "bar-government-reconciliation",
+        "taskIds": [
+          "bar-government-reconciliation.task-3"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bar-m3-l4-q13",
+      "courseId": "bar",
+      "moduleId": 3,
+      "lessonId": "bar-m3-l4",
+      "topic": "Government-Wide Reporting & Reconciliation",
+      "prompt": "Which transaction involving governmental activities would generally increase a government-wide liability without producing government-wide revenue?",
+      "choices": [
+        {
+          "id": "bar-m3-l4-q13-a0",
+          "text": "Collection of unrestricted property taxes"
+        },
+        {
+          "id": "bar-m3-l4-q13-a1",
+          "text": "Issuance of general long-term bonds"
+        },
+        {
+          "id": "bar-m3-l4-q13-a2",
+          "text": "Receipt of charges for services"
+        },
+        {
+          "id": "bar-m3-l4-q13-a3",
+          "text": "Recognition of an operating grant"
+        }
+      ],
+      "correctChoiceId": "bar-m3-l4-q13-a1",
+      "explanation": "At the government-wide level, issuance of general long-term debt increases a liability. The bond proceeds are not revenue.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-III",
+        "groupId": "A-B-C",
+        "topicId": "bar-government-reconciliation",
+        "taskIds": [
+          "bar-government-reconciliation.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bar-m3-l4-q14",
+      "courseId": "bar",
+      "moduleId": 3,
+      "lessonId": "bar-m3-l4",
+      "topic": "Government-Wide Reporting & Reconciliation",
+      "prompt": "Governmental funds report a $420,000 decrease in fund balance. During the year, capital outlays were $160,000, depreciation expense was $55,000, principal payments on general long-term debt were $40,000, and bond proceeds were $100,000. Ignoring all other differences, what is the change in governmental activities' net position?",
+      "choices": [
+        {
+          "id": "bar-m3-l4-q14-a0",
+          "text": "$475,000 decrease"
+        },
+        {
+          "id": "bar-m3-l4-q14-a1",
+          "text": "$255,000 decrease"
+        },
+        {
+          "id": "bar-m3-l4-q14-a2",
+          "text": "$375,000 decrease"
+        },
+        {
+          "id": "bar-m3-l4-q14-a3",
+          "text": "$155,000 decrease"
+        }
+      ],
+      "correctChoiceId": "bar-m3-l4-q14-a2",
+      "explanation": "Begin with a $420,000 decrease, or −$420,000. Add back $160,000 of capital outlays, subtract $55,000 of depreciation, add back $40,000 of principal payments, and subtract $100,000 of bond proceeds. The result is −$375,000, or a $375,000 decrease in net position.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-III",
+        "groupId": "A-B-C",
+        "topicId": "bar-government-reconciliation",
+        "taskIds": [
+          "bar-government-reconciliation.task-2"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bar-m3-l5-q1",
+      "courseId": "bar",
+      "moduleId": 3,
+      "lessonId": "bar-m3-l5",
+      "topic": "Budgets, Encumbrances & Integrated Reporting",
+      "prompt": "What does an appropriation generally represent?",
+      "choices": [
+        {
+          "id": "bar-m3-l5-q1-a0",
+          "text": "Actual revenue"
+        },
+        {
+          "id": "bar-m3-l5-q1-a1",
+          "text": "A long-term liability"
+        },
+        {
+          "id": "bar-m3-l5-q1-a2",
+          "text": "Authorized spending"
+        },
+        {
+          "id": "bar-m3-l5-q1-a3",
+          "text": "A capital asset"
+        }
+      ],
+      "correctChoiceId": "bar-m3-l5-q1-a2",
+      "explanation": "Appropriations generally represent legally authorized spending.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-III",
+        "groupId": "A-B-C",
+        "topicId": "bar-government-budgets",
+        "taskIds": [
+          "bar-government-budgets.task-1"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bar-m3-l5-q2",
+      "courseId": "bar",
+      "moduleId": 3,
+      "lessonId": "bar-m3-l5",
+      "topic": "Budgets, Encumbrances & Integrated Reporting",
+      "prompt": "A governmental fund issues a purchase order for $60,000 of supplies. The supplies have not yet been received. What amount of expenditure is generally recognized solely because of the purchase order?",
+      "choices": [
+        {
+          "id": "bar-m3-l5-q2-a0",
+          "text": "$60,000"
+        },
+        {
+          "id": "bar-m3-l5-q2-a1",
+          "text": "$30,000"
+        },
+        {
+          "id": "bar-m3-l5-q2-a2",
+          "text": "$120,000"
+        },
+        {
+          "id": "bar-m3-l5-q2-a3",
+          "text": "$0"
+        }
+      ],
+      "correctChoiceId": "bar-m3-l5-q2-a3",
+      "explanation": "The purchase order may result in an encumbrance, but generally no expenditure is recognized until the related obligation is incurred.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-III",
+        "groupId": "A-B-C",
+        "topicId": "bar-government-budgets",
+        "taskIds": [
+          "bar-government-budgets.task-2"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bar-m3-l5-q3",
+      "courseId": "bar",
+      "moduleId": 3,
+      "lessonId": "bar-m3-l5",
+      "topic": "Budgets, Encumbrances & Integrated Reporting",
+      "prompt": "A government budget includes estimated revenues of $3,000,000 and appropriations of $2,750,000. What is the budgetary surplus?",
+      "choices": [
+        {
+          "id": "bar-m3-l5-q3-a0",
+          "text": "$250,000"
+        },
+        {
+          "id": "bar-m3-l5-q3-a1",
+          "text": "$2,750,000"
+        },
+        {
+          "id": "bar-m3-l5-q3-a2",
+          "text": "$3,000,000"
+        },
+        {
+          "id": "bar-m3-l5-q3-a3",
+          "text": "$5,750,000"
+        }
+      ],
+      "correctChoiceId": "bar-m3-l5-q3-a0",
+      "explanation": "$3,000,000 − $2,750,000 = $250,000 budgetary surplus.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-III",
+        "groupId": "A-B-C",
+        "topicId": "bar-government-budgets",
+        "taskIds": [
+          "bar-government-budgets.task-3"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bar-m3-l5-q4",
+      "courseId": "bar",
+      "moduleId": 3,
+      "lessonId": "bar-m3-l5",
+      "topic": "Budgets, Encumbrances & Integrated Reporting",
+      "prompt": "When goods related to a previously recorded encumbrance are received, what generally happens?",
+      "choices": [
+        {
+          "id": "bar-m3-l5-q4-a0",
+          "text": "The encumbrance remains permanently"
+        },
+        {
+          "id": "bar-m3-l5-q4-a1",
+          "text": "The encumbrance is reversed and the actual expenditure/liability is recorded"
+        },
+        {
+          "id": "bar-m3-l5-q4-a2",
+          "text": "Revenue is recognized"
+        },
+        {
+          "id": "bar-m3-l5-q4-a3",
+          "text": "A capital contribution is recognized"
+        }
+      ],
+      "correctChoiceId": "bar-m3-l5-q4-a1",
+      "explanation": "When the goods or services are received, the encumbrance is generally reversed and the actual transaction is recorded.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-III",
+        "groupId": "A-B-C",
+        "topicId": "bar-government-budgets",
+        "taskIds": [
+          "bar-government-budgets.task-1"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bar-m3-l5-q5",
+      "courseId": "bar",
+      "moduleId": 3,
+      "lessonId": "bar-m3-l5",
+      "topic": "Budgets, Encumbrances & Integrated Reporting",
+      "prompt": "Which combination is generally correct?",
+      "choices": [
+        {
+          "id": "bar-m3-l5-q5-a0",
+          "text": "Governmental fund → accrual; Enterprise Fund → modified accrual"
+        },
+        {
+          "id": "bar-m3-l5-q5-a1",
+          "text": "Government-wide → modified accrual; Fiduciary → modified accrual"
+        },
+        {
+          "id": "bar-m3-l5-q5-a2",
+          "text": "Governmental fund → modified accrual; Enterprise Fund → accrual"
+        },
+        {
+          "id": "bar-m3-l5-q5-a3",
+          "text": "General Fund → accrual; Capital Projects Fund → accrual"
+        }
+      ],
+      "correctChoiceId": "bar-m3-l5-q5-a2",
+      "explanation": "Governmental funds use modified accrual, while enterprise funds use accrual accounting.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-III",
+        "groupId": "A-B-C",
+        "topicId": "bar-government-budgets",
+        "taskIds": [
+          "bar-government-budgets.task-2"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bar-m3-l5-q6",
+      "courseId": "bar",
+      "moduleId": 3,
+      "lessonId": "bar-m3-l5",
+      "topic": "Budgets, Encumbrances & Integrated Reporting",
+      "prompt": "Which transaction is generally reported as an other financing source in a governmental fund?",
+      "choices": [
+        {
+          "id": "bar-m3-l5-q6-a0",
+          "text": "Property tax revenue"
+        },
+        {
+          "id": "bar-m3-l5-q6-a1",
+          "text": "Depreciation expense"
+        },
+        {
+          "id": "bar-m3-l5-q6-a2",
+          "text": "Purchase order issuance"
+        },
+        {
+          "id": "bar-m3-l5-q6-a3",
+          "text": "Bond proceeds"
+        }
+      ],
+      "correctChoiceId": "bar-m3-l5-q6-a3",
+      "explanation": "General long-term bond proceeds are generally reported as other financing sources in governmental funds.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-III",
+        "groupId": "A-B-C",
+        "topicId": "bar-government-budgets",
+        "taskIds": [
+          "bar-government-budgets.task-3"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bar-m3-l5-q7",
+      "courseId": "bar",
+      "moduleId": 3,
+      "lessonId": "bar-m3-l5",
+      "topic": "Budgets, Encumbrances & Integrated Reporting",
+      "prompt": "Which statement best describes an encumbrance?",
+      "choices": [
+        {
+          "id": "bar-m3-l5-q7-a0",
+          "text": "It is a commitment related to an order or contract"
+        },
+        {
+          "id": "bar-m3-l5-q7-a1",
+          "text": "It is always an actual expenditure"
+        },
+        {
+          "id": "bar-m3-l5-q7-a2",
+          "text": "It is a long-term liability"
+        },
+        {
+          "id": "bar-m3-l5-q7-a3",
+          "text": "It is government-wide revenue"
+        }
+      ],
+      "correctChoiceId": "bar-m3-l5-q7-a0",
+      "explanation": "An encumbrance is generally used to record a commitment related to an outstanding purchase order or contract.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-III",
+        "groupId": "A-B-C",
+        "topicId": "bar-government-budgets",
+        "taskIds": [
+          "bar-government-budgets.task-1"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bar-m3-l5-q8",
+      "courseId": "bar",
+      "moduleId": 3,
+      "lessonId": "bar-m3-l5",
+      "topic": "Budgets, Encumbrances & Integrated Reporting",
+      "prompt": "Which item is generally excluded from government-wide financial statements?",
+      "choices": [
+        {
+          "id": "bar-m3-l5-q8-a0",
+          "text": "Governmental activities"
+        },
+        {
+          "id": "bar-m3-l5-q8-a1",
+          "text": "Fiduciary activities"
+        },
+        {
+          "id": "bar-m3-l5-q8-a2",
+          "text": "Business-type activities"
+        },
+        {
+          "id": "bar-m3-l5-q8-a3",
+          "text": "Capital assets"
+        }
+      ],
+      "correctChoiceId": "bar-m3-l5-q8-a1",
+      "explanation": "Fiduciary activities generally are excluded from government-wide financial statements because the resources are held for others.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-III",
+        "groupId": "A-B-C",
+        "topicId": "bar-government-budgets",
+        "taskIds": [
+          "bar-government-budgets.task-2"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bar-m3-l5-q9",
+      "courseId": "bar",
+      "moduleId": 3,
+      "lessonId": "bar-m3-l5",
+      "topic": "Budgets, Encumbrances & Integrated Reporting",
+      "prompt": "A governmental fund records an $85,000 encumbrance when it issues a purchase order. The goods are later received with an actual invoice of $82,000. What amount should generally be recognized as the expenditure when the goods are received?",
+      "choices": [
+        {
+          "id": "bar-m3-l5-q9-a0",
+          "text": "$3,000"
+        },
+        {
+          "id": "bar-m3-l5-q9-a1",
+          "text": "$85,000"
+        },
+        {
+          "id": "bar-m3-l5-q9-a2",
+          "text": "$82,000"
+        },
+        {
+          "id": "bar-m3-l5-q9-a3",
+          "text": "$167,000"
+        }
+      ],
+      "correctChoiceId": "bar-m3-l5-q9-a2",
+      "explanation": "The original $85,000 encumbrance is generally reversed when the goods are received, and the actual expenditure is recorded at the $82,000 invoice amount.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-III",
+        "groupId": "A-B-C",
+        "topicId": "bar-government-budgets",
+        "taskIds": [
+          "bar-government-budgets.task-3"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bar-m3-l5-q10",
+      "courseId": "bar",
+      "moduleId": 3,
+      "lessonId": "bar-m3-l5",
+      "topic": "Budgets, Encumbrances & Integrated Reporting",
+      "prompt": "A government's adopted budget includes estimated revenues of $4,600,000 and appropriations of $4,850,000. Which statement is generally correct?",
+      "choices": [
+        {
+          "id": "bar-m3-l5-q10-a0",
+          "text": "The budget contains a $250,000 surplus"
+        },
+        {
+          "id": "bar-m3-l5-q10-a1",
+          "text": "The budget contains a $4,850,000 deficit"
+        },
+        {
+          "id": "bar-m3-l5-q10-a2",
+          "text": "No budgetary difference exists until expenditures occur"
+        },
+        {
+          "id": "bar-m3-l5-q10-a3",
+          "text": "The budget contains a $250,000 deficit"
+        }
+      ],
+      "correctChoiceId": "bar-m3-l5-q10-a3",
+      "explanation": "Appropriations exceed estimated revenues by $250,000, so the adopted budget reflects a $250,000 budgetary deficit.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-III",
+        "groupId": "A-B-C",
+        "topicId": "bar-government-budgets",
+        "taskIds": [
+          "bar-government-budgets.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bar-m3-l5-q11",
+      "courseId": "bar",
+      "moduleId": 3,
+      "lessonId": "bar-m3-l5",
+      "topic": "Budgets, Encumbrances & Integrated Reporting",
+      "prompt": "A city's General Fund receives $600,000 from issuing general long-term debt and spends $450,000 to acquire equipment. Which combination generally describes the same transactions at the governmental fund and government-wide levels?",
+      "choices": [
+        {
+          "id": "bar-m3-l5-q11-a0",
+          "text": "Fund: $600,000 other financing source and $450,000 expenditure; government-wide: liability and capital asset"
+        },
+        {
+          "id": "bar-m3-l5-q11-a1",
+          "text": "Fund: $600,000 revenue and $450,000 asset; government-wide: $150,000 revenue"
+        },
+        {
+          "id": "bar-m3-l5-q11-a2",
+          "text": "Fund: liability and capital asset; government-wide: other financing source and expenditure"
+        },
+        {
+          "id": "bar-m3-l5-q11-a3",
+          "text": "Fund: $600,000 revenue and $450,000 expenditure; government-wide: $600,000 revenue and depreciation only"
+        }
+      ],
+      "correctChoiceId": "bar-m3-l5-q11-a0",
+      "explanation": "The governmental fund generally reports the bond proceeds as an other financing source and the equipment acquisition as an expenditure. Government-wide reporting instead recognizes the debt liability and capitalizes the equipment.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-III",
+        "groupId": "A-B-C",
+        "topicId": "bar-government-budgets",
+        "taskIds": [
+          "bar-government-budgets.task-2"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bar-m3-l5-q12",
+      "courseId": "bar",
+      "moduleId": 3,
+      "lessonId": "bar-m3-l5",
+      "topic": "Budgets, Encumbrances & Integrated Reporting",
+      "prompt": "A city reports a water utility, a central motor pool serving city departments, a pension trust, and its police department. Which classification is generally correct?",
+      "choices": [
+        {
+          "id": "bar-m3-l5-q12-a0",
+          "text": "Water utility—Internal Service; motor pool—Enterprise; pension trust—Governmental; police—Fiduciary"
+        },
+        {
+          "id": "bar-m3-l5-q12-a1",
+          "text": "Water utility—Enterprise; motor pool—Internal Service; pension trust—Fiduciary; police—Governmental activity"
+        },
+        {
+          "id": "bar-m3-l5-q12-a2",
+          "text": "Water utility—Special Revenue; motor pool—General Fund; pension trust—Enterprise; police—Business-type activity"
+        },
+        {
+          "id": "bar-m3-l5-q12-a3",
+          "text": "Water utility—Enterprise; motor pool—Permanent; pension trust—Capital Projects; police—Internal Service"
+        }
+      ],
+      "correctChoiceId": "bar-m3-l5-q12-a1",
+      "explanation": "A fee-supported water utility is generally associated with an Enterprise Fund, a central service operation serving city departments with an Internal Service Fund, a qualifying pension trust with fiduciary reporting, and traditional police services with governmental activities.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-III",
+        "groupId": "A-B-C",
+        "topicId": "bar-government-budgets",
+        "taskIds": [
+          "bar-government-budgets.task-3"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bar-m3-l6-q1",
+      "courseId": "bar",
+      "moduleId": 3,
+      "lessonId": "bar-m3-l6",
+      "topic": "Governmental Capital Assets, Pensions & OPEB",
+      "prompt": "Total pension liability is $12 million and qualifying plan fiduciary net position is $9 million. What is net pension liability under the stated model?",
+      "choices": [
+        {
+          "id": "bar-m3-l6-q1-a0",
+          "text": "$12 million."
+        },
+        {
+          "id": "bar-m3-l6-q1-a1",
+          "text": "$9 million."
+        },
+        {
+          "id": "bar-m3-l6-q1-a2",
+          "text": "$21 million."
+        },
+        {
+          "id": "bar-m3-l6-q1-a3",
+          "text": "$3 million."
+        }
+      ],
+      "correctChoiceId": "bar-m3-l6-q1-a3",
+      "explanation": "Subtract qualifying plan fiduciary net position from total liability.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-III",
+        "groupId": "C",
+        "topicId": "bar-government-liabilities",
+        "taskIds": [
+          "bar-government-liabilities.task-1"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bar-m3-l6-q2",
+      "courseId": "bar",
+      "moduleId": 3,
+      "lessonId": "bar-m3-l6",
+      "topic": "Governmental Capital Assets, Pensions & OPEB",
+      "prompt": "A governmental fund buys equipment. How can government-wide reporting differ from fund reporting?",
+      "choices": [
+        {
+          "id": "bar-m3-l6-q2-a0",
+          "text": "The government-wide statements can capitalize the asset rather than report the full outlay as current expense."
+        },
+        {
+          "id": "bar-m3-l6-q2-a1",
+          "text": "Both levels always expense the full outlay identically."
+        },
+        {
+          "id": "bar-m3-l6-q2-a2",
+          "text": "The asset can never be depreciated."
+        },
+        {
+          "id": "bar-m3-l6-q2-a3",
+          "text": "The fund must always report a sales profit."
+        }
+      ],
+      "correctChoiceId": "bar-m3-l6-q2-a0",
+      "explanation": "Different measurement focuses and bases create reconciliation adjustments.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-III",
+        "groupId": "C",
+        "topicId": "bar-government-liabilities",
+        "taskIds": [
+          "bar-government-liabilities.task-2"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bar-m3-l6-q3",
+      "courseId": "bar",
+      "moduleId": 3,
+      "lessonId": "bar-m3-l6",
+      "topic": "Governmental Capital Assets, Pensions & OPEB",
+      "prompt": "Does an annual cash pension contribution necessarily equal pension expense?",
+      "choices": [
+        {
+          "id": "bar-m3-l6-q3-a0",
+          "text": "Yes, always."
+        },
+        {
+          "id": "bar-m3-l6-q3-a1",
+          "text": "No."
+        },
+        {
+          "id": "bar-m3-l6-q3-a2",
+          "text": "Only if the contribution is paid electronically."
+        },
+        {
+          "id": "bar-m3-l6-q3-a3",
+          "text": "The contribution is always revenue."
+        }
+      ],
+      "correctChoiceId": "bar-m3-l6-q3-a1",
+      "explanation": "Expense measurement can include actuarial and deferred-item effects beyond cash paid.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-III",
+        "groupId": "C",
+        "topicId": "bar-government-liabilities",
+        "taskIds": [
+          "bar-government-liabilities.task-3"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bar-m3-l6-q4",
+      "courseId": "bar",
+      "moduleId": 3,
+      "lessonId": "bar-m3-l6",
+      "topic": "Governmental Capital Assets, Pensions & OPEB",
+      "prompt": "An OPEB plan has no qualifying trust assets under the applicable model. What must be avoided?",
+      "choices": [
+        {
+          "id": "bar-m3-l6-q4-a0",
+          "text": "Evaluating the applicable liability rules."
+        },
+        {
+          "id": "bar-m3-l6-q4-a1",
+          "text": "Reviewing actuarial information."
+        },
+        {
+          "id": "bar-m3-l6-q4-a2",
+          "text": "Subtracting nonexistent qualifying fiduciary net position as though the funded-plan model applied."
+        },
+        {
+          "id": "bar-m3-l6-q4-a3",
+          "text": "Considering required disclosures."
+        }
+      ],
+      "correctChoiceId": "bar-m3-l6-q4-a2",
+      "explanation": "Trust status affects the relevant measurement; do not assume all arrangements are identical.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-III",
+        "groupId": "C",
+        "topicId": "bar-government-liabilities",
+        "taskIds": [
+          "bar-government-liabilities.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bar-m3-l6-q5",
+      "courseId": "bar",
+      "moduleId": 3,
+      "lessonId": "bar-m3-l6",
+      "topic": "Governmental Capital Assets, Pensions & OPEB",
+      "prompt": "Government-wide equipment cost is $500,000 and annual depreciation is $25,000. No other changes apply. What is carrying amount after one year?",
+      "choices": [
+        {
+          "id": "bar-m3-l6-q5-a0",
+          "text": "$500,000."
+        },
+        {
+          "id": "bar-m3-l6-q5-a1",
+          "text": "$25,000."
+        },
+        {
+          "id": "bar-m3-l6-q5-a2",
+          "text": "$525,000."
+        },
+        {
+          "id": "bar-m3-l6-q5-a3",
+          "text": "$475,000."
+        }
+      ],
+      "correctChoiceId": "bar-m3-l6-q5-a3",
+      "explanation": "Cost less accumulated depreciation equals $475,000.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-III",
+        "groupId": "C",
+        "topicId": "bar-government-liabilities",
+        "taskIds": [
+          "bar-government-liabilities.task-2"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bar-m3-l6-q6",
+      "courseId": "bar",
+      "moduleId": 3,
+      "lessonId": "bar-m3-l6",
+      "topic": "Governmental Capital Assets, Pensions & OPEB",
+      "prompt": "Why must a governmental liability problem identify the reporting level?",
+      "choices": [
+        {
+          "id": "bar-m3-l6-q6-a0",
+          "text": "Recognition and presentation can differ between governmental funds and government-wide statements."
+        },
+        {
+          "id": "bar-m3-l6-q6-a1",
+          "text": "The reporting level never changes accounting."
+        },
+        {
+          "id": "bar-m3-l6-q6-a2",
+          "text": "Only the report cover changes."
+        },
+        {
+          "id": "bar-m3-l6-q6-a3",
+          "text": "All government liabilities are current expenditures immediately."
+        }
+      ],
+      "correctChoiceId": "bar-m3-l6-q6-a0",
+      "explanation": "The measurement focus and basis of accounting affect the treatment.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-III",
+        "groupId": "C",
+        "topicId": "bar-government-liabilities",
+        "taskIds": [
+          "bar-government-liabilities.task-3"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bar-m3-l6-q7",
+      "courseId": "bar",
+      "moduleId": 3,
+      "lessonId": "bar-m3-l6",
+      "topic": "Governmental Capital Assets, Pensions & OPEB",
+      "prompt": "Prepare the specified government-wide measurements and identify a fund-level difference. Capital assets: Equipment cost $800,000; current accumulated depreciation $120,000. No impairment or disposal applies. Benefit plan: Total pension liability $15,000,000; qualifying plan fiduciary net position $11,000,000. Ignore deferred items in computing the requested net liability. The governmental fund also records a current capital outlay. Required: Equipment carrying amount.",
+      "choices": [
+        {
+          "id": "bar-m3-l6-q7-a0",
+          "text": "800000"
+        },
+        {
+          "id": "bar-m3-l6-q7-a1",
+          "text": "680000"
+        },
+        {
+          "id": "bar-m3-l6-q7-a2",
+          "text": "920000"
+        },
+        {
+          "id": "bar-m3-l6-q7-a3",
+          "text": "120000"
+        }
+      ],
+      "correctChoiceId": "bar-m3-l6-q7-a1",
+      "explanation": "$800,000 − $120,000 = $680,000.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-III",
+        "groupId": "C",
+        "topicId": "bar-government-liabilities",
+        "taskIds": [
+          "bar-government-liabilities.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      },
+      "familyId": "bar-m3-tbs6"
+    },
+    {
+      "id": "bar-m3-l6-q8",
+      "courseId": "bar",
+      "moduleId": 3,
+      "lessonId": "bar-m3-l6",
+      "topic": "Governmental Capital Assets, Pensions & OPEB",
+      "prompt": "Prepare the specified government-wide measurements and identify a fund-level difference. Capital assets: Equipment cost $800,000; current accumulated depreciation $120,000. No impairment or disposal applies. Benefit plan: Total pension liability $15,000,000; qualifying plan fiduciary net position $11,000,000. Ignore deferred items in computing the requested net liability. The governmental fund also records a current capital outlay. Required: Net pension liability.",
+      "choices": [
+        {
+          "id": "bar-m3-l6-q8-a0",
+          "text": "15000000"
+        },
+        {
+          "id": "bar-m3-l6-q8-a1",
+          "text": "11000000"
+        },
+        {
+          "id": "bar-m3-l6-q8-a2",
+          "text": "4000000"
+        },
+        {
+          "id": "bar-m3-l6-q8-a3",
+          "text": "26000000"
+        }
+      ],
+      "correctChoiceId": "bar-m3-l6-q8-a2",
+      "explanation": "$15,000,000 − $11,000,000 = $4,000,000.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-III",
+        "groupId": "C",
+        "topicId": "bar-government-liabilities",
+        "taskIds": [
+          "bar-government-liabilities.task-2"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      },
+      "familyId": "bar-m3-tbs6"
+    },
+    {
+      "id": "bar-m3-l6-q9",
+      "courseId": "bar",
+      "moduleId": 3,
+      "lessonId": "bar-m3-l6",
+      "topic": "Governmental Capital Assets, Pensions & OPEB",
+      "prompt": "Prepare the specified government-wide measurements and identify a fund-level difference. Capital assets: Equipment cost $800,000; current accumulated depreciation $120,000. No impairment or disposal applies. Benefit plan: Total pension liability $15,000,000; qualifying plan fiduciary net position $11,000,000. Ignore deferred items in computing the requested net liability. The governmental fund also records a current capital outlay. Required: Relationship of annual contribution to expense.",
+      "choices": [
+        {
+          "id": "bar-m3-l6-q9-a0",
+          "text": "They are always identical"
+        },
+        {
+          "id": "bar-m3-l6-q9-a1",
+          "text": "Contributions are always revenue"
+        },
+        {
+          "id": "bar-m3-l6-q9-a2",
+          "text": "Expense is never recognized"
+        },
+        {
+          "id": "bar-m3-l6-q9-a3",
+          "text": "They are not necessarily equal"
+        }
+      ],
+      "correctChoiceId": "bar-m3-l6-q9-a3",
+      "explanation": "Pension expense can differ from cash contributions.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-III",
+        "groupId": "C",
+        "topicId": "bar-government-liabilities",
+        "taskIds": [
+          "bar-government-liabilities.task-3"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      },
+      "familyId": "bar-m3-tbs6"
+    },
+    {
+      "id": "bar-m3-l6-q10",
+      "courseId": "bar",
+      "moduleId": 3,
+      "lessonId": "bar-m3-l6",
+      "topic": "Governmental Capital Assets, Pensions & OPEB",
+      "prompt": "Prepare the specified government-wide measurements and identify a fund-level difference. Capital assets: Equipment cost $800,000; current accumulated depreciation $120,000. No impairment or disposal applies. Benefit plan: Total pension liability $15,000,000; qualifying plan fiduciary net position $11,000,000. Ignore deferred items in computing the requested net liability. The governmental fund also records a current capital outlay. Required: Government-wide treatment of qualifying capital outlay.",
+      "choices": [
+        {
+          "id": "bar-m3-l6-q10-a0",
+          "text": "Capitalize and apply subsequent asset accounting"
+        },
+        {
+          "id": "bar-m3-l6-q10-a1",
+          "text": "Always expense the entire outlay again"
+        },
+        {
+          "id": "bar-m3-l6-q10-a2",
+          "text": "Ignore the asset"
+        },
+        {
+          "id": "bar-m3-l6-q10-a3",
+          "text": "Record all outlays as pension expense"
+        }
+      ],
+      "correctChoiceId": "bar-m3-l6-q10-a0",
+      "explanation": "Government-wide accrual accounting recognizes qualifying capital assets.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-III",
+        "groupId": "C",
+        "topicId": "bar-government-liabilities",
+        "taskIds": [
+          "bar-government-liabilities.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      },
+      "familyId": "bar-m3-tbs6"
+    }
+  ]
+}

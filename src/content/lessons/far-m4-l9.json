@@ -1,0 +1,88 @@
+{
+  "id": "far-m4-l9",
+  "courseId": "far",
+  "moduleId": 4,
+  "number": 9,
+  "title": "Budgetary Accounting & Encumbrances",
+  "description": "Understand governmental budgets, appropriations, estimated revenues, expenditures, and encumbrance accounting.",
+  "url": "/learn/far/modules/4/lessons/9",
+  "html": "<h2> Why Governments Use Budgets </h2> <p> Budgets are especially important in governmental accounting because they help demonstrate <strong>legal and financial accountability</strong> over public resources. </p> <p> Governments may formally record budgetary information in their accounting systems during the fiscal year. </p> <h2> Basic Budgetary Accounts </h2> <div class=\"financial-example\"> <div> <span>Estimated Revenues</span> <strong> Resources Expected to Be Available </strong> </div> <div> <span>Appropriations</span> <strong> Authorized Spending </strong> </div> <div> <span>Encumbrances</span> <strong> Commitments Related to Orders or Contracts </strong> </div> </div> <h2> Estimated Revenues </h2> <p> Estimated revenues represent revenues the government expects to obtain during the budget period. </p> <div class=\"example-box\"> <strong> Example </strong> <p> A city expects to collect <strong>$5,000,000</strong> in taxes and other revenues during the next fiscal year. </p> <p> The adopted budget may include estimated revenues of $5,000,000. </p> </div> <h2> Appropriations </h2> <p> Appropriations represent authorization to spend government resources. </p> <div class=\"formula-box\"> APPROPRIATION = AUTHORIZED SPENDING </div> <p> An appropriation does not itself mean that an expenditure has already occurred. </p> <h2> What Is an Encumbrance? </h2> <p> An encumbrance is generally used to record a commitment related to an outstanding purchase order or contract. </p> <p> Encumbrance accounting helps governments monitor amounts committed against available budgetary authority and avoid overcommitting appropriated resources. </p> <div class=\"formula-box\"> PURCHASE ORDER ISSUED → ENCUMBRANCE RECORDED ≠ EXPENDITURE YET </div> <h2> Example — Purchase Order </h2> <p> Assume a governmental fund issues a purchase order for equipment expected to cost <strong>$40,000</strong>. </p> <p> At the purchase-order stage, the government may record an encumbrance of $40,000. </p> <div class=\"financial-example\"> <div> <span>Purchase Order</span> <strong>$40,000</strong> </div> <div> <span>Encumbrance</span> <strong>$40,000</strong> </div> <div> <span>Expenditure at This Point</span> <strong>$0</strong> </div> </div> <h2> When the Goods Arrive </h2> <p> Assume the equipment is later received and the actual invoice is <strong>$39,500</strong>. </p> <p> The outstanding encumbrance is generally reversed, and the actual transaction is recognized using the appropriate expenditure and liability accounts. </p> <div class=\"formula-box\"> STEP 1 Reverse Original Encumbrance $40,000 STEP 2 Record Actual Expenditure $39,500 </div> <h2> Encumbrance vs. Expenditure </h2> <div class=\"financial-example\"> <div> <span> Encumbrance </span> <strong> Commitment Before the Actual Transaction </strong> </div> <div> <span> Expenditure </span> <strong> Recognized When the Fund Incurs the Related Obligation </strong> </div> </div> <div class=\"key-points\"> <h3> CPA Trap </h3> <p> Do not treat the issuance of a purchase order as an expenditure merely because an encumbrance was recorded. </p> </div> <h2> Budgetary Surplus Example </h2> <p> Assume the adopted budget contains: </p> <div class=\"financial-example\"> <div> <span>Estimated Revenues</span> <strong>$2,000,000</strong> </div> <div> <span>Appropriations</span> <strong>$1,850,000</strong> </div> </div> <div class=\"formula-box\"> $2,000,000 − $1,850,000 = $150,000 BUDGETARY SURPLUS </div> <p> If appropriations exceed estimated revenues, the difference represents a budgetary deficit rather than a surplus. </p> <h2> Budgetary vs. GAAP Accounting </h2> <p> Budgetary accounts are used to control and monitor legally authorized financial activity. </p> <p> They should not be confused with the accounts used to report actual revenues, expenditures, assets, and liabilities under GAAP. </p> <div class=\"formula-box\"> BUDGET = PLAN + AUTHORIZATION ACTUAL ACCOUNTING = WHAT REALLY OCCURRED </div> <h2> CPA Memory Rule </h2> <div class=\"key-points\"> <ul> <li> Estimated revenues = expected resources. </li> <li> Appropriations = authorized spending. </li> <li> Encumbrances = commitments. </li> <li> A purchase order generally creates an encumbrance, not an expenditure. </li> <li> When the goods or services are received, the encumbrance is generally reversed and the actual transaction is recorded. </li> </ul> </div> <h2> Key Takeaway </h2> <p> Think of the sequence as: </p> <div class=\"formula-box\"> BUDGET AUTHORIZED → PURCHASE ORDER → ENCUMBRANCE → GOODS / SERVICES RECEIVED → EXPENDITURE </div>",
+  "quiz": {
+    "id": "far-m4-l9-check",
+    "courseId": "far",
+    "moduleId": 4,
+    "lessonId": "far-m4-l9",
+    "topic": "General review",
+    "prompt": "A governmental fund issues a purchase order for supplies estimated to cost $75,000. The supplies have not yet been received. What amount of expenditure should generally be recognized solely because the purchase order was issued?",
+    "choices": [
+      {
+        "id": "far-m4-l9-check-a0",
+        "text": "$0"
+      },
+      {
+        "id": "far-m4-l9-check-a1",
+        "text": "$37,500"
+      },
+      {
+        "id": "far-m4-l9-check-a2",
+        "text": "$75,000"
+      },
+      {
+        "id": "far-m4-l9-check-a3",
+        "text": "$150,000"
+      }
+    ],
+    "correctChoiceId": "far-m4-l9-check-a0",
+    "explanation": "Issuing the purchase order may result in recording an encumbrance, but it generally does not by itself create an expenditure. Therefore, the expenditure at that point is $0.",
+    "difficulty": "foundation",
+    "metadata": {
+      "section": "far",
+      "blueprintYear": 2026,
+      "areaId": "far-I",
+      "groupId": "module-4",
+      "topicId": "far-budgetary-accounting-encumbrances",
+      "taskIds": [
+        "far-budgetary-accounting-encumbrances.task-1",
+        "far-budgetary-accounting-encumbrances.task-2",
+        "far-budgetary-accounting-encumbrances.task-3"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": true,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "section": "far",
+    "blueprintYear": 2026,
+    "areaId": "far-I",
+    "groupId": "module-4",
+    "topicId": "far-budgetary-accounting-encumbrances",
+    "taskIds": [
+      "far-budgetary-accounting-encumbrances.task-1",
+      "far-budgetary-accounting-encumbrances.task-2",
+      "far-budgetary-accounting-encumbrances.task-3"
+    ],
+    "skill": "application",
+    "validFrom": "2026-01-01",
+    "supplementary": true,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      }
+    ]
+  },
+  "objectives": [
+    "Explain budgetary accounting & encumbrances and its underlying principles.",
+    "Apply the topic to a financial-reporting scenario.",
+    "Evaluate common errors and their financial-statement effects."
+  ]
+}

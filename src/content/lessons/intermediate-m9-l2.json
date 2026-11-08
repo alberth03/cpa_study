@@ -1,0 +1,88 @@
+{
+  "id": "intermediate-m9-l2",
+  "courseId": "intermediate",
+  "moduleId": 9,
+  "number": 2,
+  "title": "Temporary & Permanent Differences",
+  "description": "Distinguish temporary differences that reverse in future periods from permanent differences.",
+  "url": "/learn/intermediate/modules/9/lessons/2",
+  "html": "<h2>Temporary differences</h2> <p> Temporary differences arise when the financial reporting carrying amount of an asset or liability differs from its tax basis in a way that can affect future taxable or deductible amounts. </p> <p> The key idea is that the tax effect <strong>reverses in future periods</strong>. </p> <div class=\"example-box\"> <h3>Example — Different depreciation timing</h3> <p> Financial reporting and tax reporting may use different depreciation patterns. </p> <p> This can cause book income and taxable income to differ today. </p> <p> But the timing difference can reverse over the life of the asset. </p> </div> <h2>Permanent differences</h2> <p> Permanent differences affect book income or taxable income but do not reverse in future periods. </p> <div class=\"comparison-grid\"> <div class=\"comparison-card\"> <h3>Temporary</h3> <p>Timing difference</p> <p>Future reversal</p> <p>Can create deferred taxes</p> </div> <div class=\"comparison-card\"> <h3>Permanent</h3> <p>No future reversal</p> <p>Does not create a deferred tax asset or liability</p> </div> </div> <div class=\"key-points\"> <h3>Critical distinction</h3> <p> Temporary → think <strong>future tax consequence</strong>. </p> <p> Permanent → there is no future reversal of that difference. </p> </div>",
+  "quiz": {
+    "id": "intermediate-m9-l2-check",
+    "courseId": "intermediate",
+    "moduleId": 9,
+    "lessonId": "intermediate-m9-l2",
+    "topic": "General review",
+    "prompt": "Which statement best describes a temporary difference?",
+    "choices": [
+      {
+        "id": "intermediate-m9-l2-check-a0",
+        "text": "A difference that can create future taxable or deductible amounts"
+      },
+      {
+        "id": "intermediate-m9-l2-check-a1",
+        "text": "A difference that can never affect future periods"
+      },
+      {
+        "id": "intermediate-m9-l2-check-a2",
+        "text": "A bookkeeping error"
+      },
+      {
+        "id": "intermediate-m9-l2-check-a3",
+        "text": "A difference that always increases cash"
+      }
+    ],
+    "correctChoiceId": "intermediate-m9-l2-check-a0",
+    "explanation": "Temporary differences involve differences between book carrying amounts and tax bases that can result in future taxable or deductible amounts.",
+    "difficulty": "foundation",
+    "metadata": {
+      "section": "intermediate",
+      "blueprintYear": 2026,
+      "areaId": "intermediate-I",
+      "groupId": "module-9",
+      "topicId": "intermediate-temporary-permanent-differences",
+      "taskIds": [
+        "intermediate-temporary-permanent-differences.task-1",
+        "intermediate-temporary-permanent-differences.task-2",
+        "intermediate-temporary-permanent-differences.task-3"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "section": "intermediate",
+    "blueprintYear": 2026,
+    "areaId": "intermediate-I",
+    "groupId": "module-9",
+    "topicId": "intermediate-temporary-permanent-differences",
+    "taskIds": [
+      "intermediate-temporary-permanent-differences.task-1",
+      "intermediate-temporary-permanent-differences.task-2",
+      "intermediate-temporary-permanent-differences.task-3"
+    ],
+    "skill": "application",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      }
+    ]
+  },
+  "objectives": [
+    "Explain temporary & permanent differences and its underlying principles.",
+    "Apply the topic to a financial-reporting scenario.",
+    "Evaluate common errors and their financial-statement effects."
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "id": "far-m4-l4",
+  "courseId": "far",
+  "moduleId": 4,
+  "number": 4,
+  "title": "Governmental Fund Financial Statements",
+  "description": "Understand governmental fund balance sheets and statements of revenues, expenditures, and changes in fund balances.",
+  "url": "/learn/far/modules/4/lessons/4",
+  "html": "<h2> Governmental Fund Financial Statements </h2> <p> Governmental funds generally present two major financial statements: </p> <div class=\"financial-example\"> <div> <span>Balance Sheet</span> <strong> Assets + Deferred Outflows of Resources − Liabilities − Deferred Inflows of Resources = Fund Balance </strong> </div> <div> <span>Operating Statement</span> <strong> Revenues − Expenditures + Other Financing Sources/Uses </strong> </div> </div> <h2> Governmental Funds Balance Sheet </h2> <p> The governmental funds balance sheet reflects the <strong>current financial resources measurement focus</strong>. </p> <p> Therefore, it generally reports current financial assets and related liabilities rather than the government's complete economic resources. </p> <div class=\"key-points\"> <h3> Usually NOT Reported Here </h3> <ul> <li> General capital assets </li> <li> General long-term liabilities </li> </ul> </div> <p> Those items are generally reported in the government-wide financial statements instead. </p> <h2> Fund Balance Classifications </h2> <p> Governmental fund balance is classified according to the nature of constraints placed on how resources may be used. </p> <div class=\"financial-example\"> <div> <span>Nonspendable</span> <strong> Not in Spendable Form or Legally Required to Remain Intact </strong> </div> <div> <span>Restricted</span> <strong> Externally Enforceable Restrictions </strong> </div> <div> <span>Committed</span> <strong> Constraint Imposed by Government's Highest-Level Decision-Making Authority </strong> </div> <div> <span>Assigned</span> <strong> Intended for a Particular Purpose </strong> </div> <div> <span>Unassigned</span> <strong> Residual Classification </strong> </div> </div> <h2> Nonspendable Fund Balance </h2> <p> Resources are nonspendable when they cannot currently be spent because they are not in spendable form or must legally remain intact. </p> <div class=\"example-box\"> <strong> Examples </strong> <p> Inventories, prepaid items, and the principal of certain permanent funds may be nonspendable. </p> </div> <h2> Restricted Fund Balance </h2> <p> Restricted fund balance results from constraints imposed by external parties or through law. </p> <div class=\"example-box\"> <strong> Example </strong> <p> Grant money that may legally be used only for a specified program may be restricted. </p> </div> <h2> Committed vs. Assigned </h2> <p> <strong>Committed</strong> resources are constrained by formal action of the government's highest-level decision-making authority. </p> <p> <strong>Assigned</strong> resources reflect an intended use but do not meet the stronger criteria for restricted or committed classification. </p> <h2> Unassigned Fund Balance </h2> <p> Unassigned fund balance is generally the residual classification for the General Fund. </p> <div class=\"key-points\"> <p> Unassigned fund balance is generally used as the residual classification in the General Fund. Other governmental funds may report a negative unassigned amount when expenditures exceed amounts available in the classifications applicable to that fund. </p> </div> <h2> Statement of Revenues, Expenditures, and Changes in Fund Balances </h2> <p> This statement explains how governmental fund balances changed during the period. </p> <div class=\"formula-box\"> REVENUES − EXPENDITURES = EXCESS (DEFICIENCY) OF REVENUES OVER EXPENDITURES + OTHER FINANCING SOURCES − OTHER FINANCING USES = NET CHANGE IN FUND BALANCE </div> <h2> Other Financing Sources and Uses </h2> <p> Certain financing transactions are reported separately from revenues and expenditures. </p> <div class=\"key-points\"> <ul> <li> Proceeds from long-term debt are generally an <strong>other financing source</strong>. </li> <li> Transfers in are generally other financing sources. </li> <li> Transfers out are generally other financing uses. </li> </ul> </div> <h2> Quick Example </h2> <p> Assume a governmental fund reports: </p> <div class=\"financial-example\"> <div> <span>Revenues</span> <strong>$900,000</strong> </div> <div> <span>Expenditures</span> <strong>$820,000</strong> </div> <div> <span>Bond Proceeds</span> <strong>$150,000</strong> </div> <div> <span>Transfer Out</span> <strong>$30,000</strong> </div> </div> <div class=\"formula-box\"> $900,000 − $820,000 + $150,000 − $30,000 = $200,000 Net Increase in Fund Balance </div> <h2> CPA Exam Traps </h2> <div class=\"key-points\"> <ul> <li> Bond proceeds are not governmental fund revenue. </li> <li> Transfers are not revenues or expenditures. </li> <li> General capital assets generally do not appear on the governmental funds balance sheet. </li> <li> General long-term debt generally does not appear as a governmental fund long-term liability. </li> </ul> </div> <h2> Memory Rule </h2> <div class=\"formula-box\"> GOVERNMENTAL FUNDS: Balance Sheet → Current Financial Resources Operating Statement → Revenues + Expenditures Financing → Other Financing Sources / Uses </div> <h2> Key Takeaway </h2> <p> Keep governmental fund reporting separate from government-wide reporting. The fund statements emphasize current financial resources, while government-wide statements later convert the information to an economic-resources perspective. </p>",
+  "quiz": {
+    "id": "far-m4-l4-check",
+    "courseId": "far",
+    "moduleId": 4,
+    "lessonId": "far-m4-l4",
+    "topic": "General review",
+    "prompt": "A governmental fund reports revenues of $700,000, expenditures of $650,000, bond proceeds of $100,000, and transfers out of $20,000. What is the net increase in fund balance?",
+    "choices": [
+      {
+        "id": "far-m4-l4-check-a0",
+        "text": "$30,000"
+      },
+      {
+        "id": "far-m4-l4-check-a1",
+        "text": "$50,000"
+      },
+      {
+        "id": "far-m4-l4-check-a2",
+        "text": "$130,000"
+      },
+      {
+        "id": "far-m4-l4-check-a3",
+        "text": "$150,000"
+      }
+    ],
+    "correctChoiceId": "far-m4-l4-check-a2",
+    "explanation": "The net increase is $700,000 − $650,000 + $100,000 of other financing sources − $20,000 of other financing uses = $130,000.",
+    "difficulty": "foundation",
+    "metadata": {
+      "section": "far",
+      "blueprintYear": 2026,
+      "areaId": "far-I",
+      "groupId": "module-4",
+      "topicId": "far-governmental-fund-financial-statements",
+      "taskIds": [
+        "far-governmental-fund-financial-statements.task-1",
+        "far-governmental-fund-financial-statements.task-2",
+        "far-governmental-fund-financial-statements.task-3"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": true,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "section": "far",
+    "blueprintYear": 2026,
+    "areaId": "far-I",
+    "groupId": "module-4",
+    "topicId": "far-governmental-fund-financial-statements",
+    "taskIds": [
+      "far-governmental-fund-financial-statements.task-1",
+      "far-governmental-fund-financial-statements.task-2",
+      "far-governmental-fund-financial-statements.task-3"
+    ],
+    "skill": "application",
+    "validFrom": "2026-01-01",
+    "supplementary": true,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      }
+    ]
+  },
+  "objectives": [
+    "Explain governmental fund financial statements and its underlying principles.",
+    "Apply the topic to a financial-reporting scenario.",
+    "Evaluate common errors and their financial-statement effects."
+  ]
+}

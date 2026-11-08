@@ -1,0 +1,88 @@
+{
+  "id": "intermediate-m8-l2",
+  "courseId": "intermediate",
+  "moduleId": 8,
+  "number": 2,
+  "title": "Common & Preferred Stock",
+  "description": "Learn how stock issuances are recorded and understand important differences between common and preferred stock.",
+  "url": "/learn/intermediate/modules/8/lessons/2",
+  "html": "<h2>Issuing common stock</h2> <p> When a corporation issues shares for cash, cash increases and stockholders' equity increases. </p> <h2>Par value example</h2> <p> A corporation issues <strong>10,000 shares</strong> of $1 par common stock for <strong>$15 per share</strong>. </p> <h3>Cash received</h3> <div class=\"formula-box\"> 10,000 × $15 = $150,000 </div> <h3>Common Stock</h3> <div class=\"formula-box\"> 10,000 × $1 par = $10,000 </div> <h3>Additional Paid-In Capital</h3> <div class=\"formula-box\"> $150,000 − $10,000 = $140,000 </div> <div class=\"journal-entry\"> <div class=\"journal-row journal-header\"> <div>Account</div> <div>Debit</div> <div>Credit</div> </div> <div class=\"journal-row\"> <div>Cash</div> <div>$150,000</div> <div>—</div> </div> <div class=\"journal-row credit-row\"> <div>Common Stock</div> <div>—</div> <div>$10,000</div> </div> <div class=\"journal-row credit-row\"> <div>Additional Paid-In Capital</div> <div>—</div> <div>$140,000</div> </div> </div> <h2>Preferred stock</h2> <p> Preferred stock can have rights that differ from common stock. </p> <p> One common feature is a preference regarding dividends. </p> <h2>Cumulative preferred stock</h2> <p> If preferred stock is cumulative, unpaid dividends from prior periods can accumulate as dividends in arrears. </p> <div class=\"example-box\"> <h3>Example</h3> <p> A corporation has 1,000 shares of $100 par, 6% cumulative preferred stock. </p> <div class=\"formula-box\"> Annual Preferred Dividend = 1,000 × $100 × 6% = $6,000 </div> </div> <div class=\"key-points\"> <h3>Keep these separate</h3> <p> <strong>Par value</strong> is not necessarily the market price of the stock. </p> <p> <strong>Issue price</strong> determines the total cash received in a cash issuance. </p> </div>",
+  "quiz": {
+    "id": "intermediate-m8-l2-check",
+    "courseId": "intermediate",
+    "moduleId": 8,
+    "lessonId": "intermediate-m8-l2",
+    "topic": "General review",
+    "prompt": "A company issues 5,000 shares of $2 par common stock for $12 per share. How much is credited to Additional Paid-In Capital?",
+    "choices": [
+      {
+        "id": "intermediate-m8-l2-check-a0",
+        "text": "$10,000"
+      },
+      {
+        "id": "intermediate-m8-l2-check-a1",
+        "text": "$50,000"
+      },
+      {
+        "id": "intermediate-m8-l2-check-a2",
+        "text": "$60,000"
+      },
+      {
+        "id": "intermediate-m8-l2-check-a3",
+        "text": "$70,000"
+      }
+    ],
+    "correctChoiceId": "intermediate-m8-l2-check-a1",
+    "explanation": "Cash received = 5,000 × $12 = $60,000. Common Stock = 5,000 × $2 = $10,000. APIC = $60,000 − $10,000 = $50,000.",
+    "difficulty": "foundation",
+    "metadata": {
+      "section": "intermediate",
+      "blueprintYear": 2026,
+      "areaId": "intermediate-I",
+      "groupId": "module-8",
+      "topicId": "intermediate-common-preferred-stock",
+      "taskIds": [
+        "intermediate-common-preferred-stock.task-1",
+        "intermediate-common-preferred-stock.task-2",
+        "intermediate-common-preferred-stock.task-3"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "section": "intermediate",
+    "blueprintYear": 2026,
+    "areaId": "intermediate-I",
+    "groupId": "module-8",
+    "topicId": "intermediate-common-preferred-stock",
+    "taskIds": [
+      "intermediate-common-preferred-stock.task-1",
+      "intermediate-common-preferred-stock.task-2",
+      "intermediate-common-preferred-stock.task-3"
+    ],
+    "skill": "application",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      }
+    ]
+  },
+  "objectives": [
+    "Explain common & preferred stock and its underlying principles.",
+    "Apply the topic to a financial-reporting scenario.",
+    "Evaluate common errors and their financial-statement effects."
+  ]
+}

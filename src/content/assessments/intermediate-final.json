@@ -1,0 +1,2411 @@
+{
+  "id": "intermediate-final",
+  "title": "Intermediate Final Exam",
+  "courseId": "intermediate",
+  "moduleId": 0,
+  "selection": "all",
+  "feedback": "immediate",
+  "passPercent": 80,
+  "questions": [
+    {
+      "id": "intermediate-m0-q1-final",
+      "courseId": "intermediate",
+      "moduleId": 0,
+      "topic": "Financial Reporting",
+      "prompt": "What is a primary purpose of general-purpose financial reporting?",
+      "choices": [
+        {
+          "id": "intermediate-m0-q1-final-a0",
+          "text": "To guarantee that investors earn a profit"
+        },
+        {
+          "id": "intermediate-m0-q1-final-a1",
+          "text": "To provide useful financial information to users making decisions"
+        },
+        {
+          "id": "intermediate-m0-q1-final-a2",
+          "text": "To calculate only the company's income tax return"
+        },
+        {
+          "id": "intermediate-m0-q1-final-a3",
+          "text": "To report only cash receipts and payments"
+        }
+      ],
+      "correctChoiceId": "intermediate-m0-q1-final-a1",
+      "explanation": "General-purpose financial reporting provides useful financial information to users such as investors and creditors when making decisions.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "intermediate",
+        "blueprintYear": 2026,
+        "areaId": "intermediate-I",
+        "groupId": "0",
+        "topicId": "intermediate-intermediate-general",
+        "taskIds": [
+          "intermediate-intermediate-general.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "intermediate-m0-q2-final",
+      "courseId": "intermediate",
+      "moduleId": 0,
+      "topic": "Accrual Accounting",
+      "prompt": "A company performs $12,000 of services in December but will collect the cash in January. Under accrual accounting, when is the $12,000 revenue generally recognized?",
+      "choices": [
+        {
+          "id": "intermediate-m0-q2-final-a0",
+          "text": "December"
+        },
+        {
+          "id": "intermediate-m0-q2-final-a1",
+          "text": "January"
+        },
+        {
+          "id": "intermediate-m0-q2-final-a2",
+          "text": "Half in December and half in January"
+        },
+        {
+          "id": "intermediate-m0-q2-final-a3",
+          "text": "Only when the customer signs a receipt"
+        }
+      ],
+      "correctChoiceId": "intermediate-m0-q2-final-a0",
+      "explanation": "Under accrual accounting, revenue is recognized when earned rather than simply when cash is collected.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "intermediate",
+        "blueprintYear": 2026,
+        "areaId": "intermediate-I",
+        "groupId": "0",
+        "topicId": "intermediate-intermediate-general",
+        "taskIds": [
+          "intermediate-intermediate-general.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "intermediate-m0-q3-final",
+      "courseId": "intermediate",
+      "moduleId": 0,
+      "topic": "Qualitative Characteristics",
+      "prompt": "Which characteristic means financial information is capable of making a difference in users' decisions?",
+      "choices": [
+        {
+          "id": "intermediate-m0-q3-final-a0",
+          "text": "Relevance"
+        },
+        {
+          "id": "intermediate-m0-q3-final-a1",
+          "text": "Neutrality"
+        },
+        {
+          "id": "intermediate-m0-q3-final-a2",
+          "text": "Comparability"
+        },
+        {
+          "id": "intermediate-m0-q3-final-a3",
+          "text": "Verifiability"
+        }
+      ],
+      "correctChoiceId": "intermediate-m0-q3-final-a0",
+      "explanation": "Relevant information is capable of making a difference in users' decisions.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "intermediate",
+        "blueprintYear": 2026,
+        "areaId": "intermediate-I",
+        "groupId": "0",
+        "topicId": "intermediate-intermediate-general",
+        "taskIds": [
+          "intermediate-intermediate-general.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "intermediate-m0-q4-final",
+      "courseId": "intermediate",
+      "moduleId": 0,
+      "topic": "Financial Statement Elements",
+      "prompt": "A present obligation of an entity arising from past events is most closely associated with which financial statement element?",
+      "choices": [
+        {
+          "id": "intermediate-m0-q4-final-a0",
+          "text": "Asset"
+        },
+        {
+          "id": "intermediate-m0-q4-final-a1",
+          "text": "Liability"
+        },
+        {
+          "id": "intermediate-m0-q4-final-a2",
+          "text": "Revenue"
+        },
+        {
+          "id": "intermediate-m0-q4-final-a3",
+          "text": "Expense"
+        }
+      ],
+      "correctChoiceId": "intermediate-m0-q4-final-a1",
+      "explanation": "A liability represents an obligation of the entity arising from past events.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "intermediate",
+        "blueprintYear": 2026,
+        "areaId": "intermediate-I",
+        "groupId": "0",
+        "topicId": "intermediate-intermediate-general",
+        "taskIds": [
+          "intermediate-intermediate-general.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "intermediate-m0-q5-final",
+      "courseId": "intermediate",
+      "moduleId": 0,
+      "topic": "Present Value",
+      "prompt": "A company will receive $10,500 one year from now. If the applicable annual discount rate is 5%, what is the present value?",
+      "choices": [
+        {
+          "id": "intermediate-m0-q5-final-a0",
+          "text": "$9,500"
+        },
+        {
+          "id": "intermediate-m0-q5-final-a1",
+          "text": "$10,000"
+        },
+        {
+          "id": "intermediate-m0-q5-final-a2",
+          "text": "$10,500"
+        },
+        {
+          "id": "intermediate-m0-q5-final-a3",
+          "text": "$11,025"
+        }
+      ],
+      "correctChoiceId": "intermediate-m0-q5-final-a1",
+      "explanation": "$10,500 ÷ 1.05 = $10,000.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "intermediate",
+        "blueprintYear": 2026,
+        "areaId": "intermediate-I",
+        "groupId": "0",
+        "topicId": "intermediate-intermediate-general",
+        "taskIds": [
+          "intermediate-intermediate-general.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "intermediate-m0-q6-final",
+      "courseId": "intermediate",
+      "moduleId": 0,
+      "topic": "Cash & Cash Equivalents",
+      "prompt": "Which investment is most likely to qualify as a cash equivalent?",
+      "choices": [
+        {
+          "id": "intermediate-m0-q6-final-a0",
+          "text": "Common stock held as a long-term investment"
+        },
+        {
+          "id": "intermediate-m0-q6-final-a1",
+          "text": "A Treasury bill purchased with two months remaining to maturity"
+        },
+        {
+          "id": "intermediate-m0-q6-final-a2",
+          "text": "A five-year corporate bond"
+        },
+        {
+          "id": "intermediate-m0-q6-final-a3",
+          "text": "Inventory held for resale"
+        }
+      ],
+      "correctChoiceId": "intermediate-m0-q6-final-a1",
+      "explanation": "Cash equivalents are highly liquid short-term investments with very short maturities.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "intermediate",
+        "blueprintYear": 2026,
+        "areaId": "intermediate-I",
+        "groupId": "0",
+        "topicId": "intermediate-intermediate-general",
+        "taskIds": [
+          "intermediate-intermediate-general.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "intermediate-m0-q7-final",
+      "courseId": "intermediate",
+      "moduleId": 0,
+      "topic": "Bank Reconciliation",
+      "prompt": "A bank statement reports $40,000. Deposits in transit are $6,000 and outstanding checks are $9,000. What is the adjusted bank balance?",
+      "choices": [
+        {
+          "id": "intermediate-m0-q7-final-a0",
+          "text": "$25,000"
+        },
+        {
+          "id": "intermediate-m0-q7-final-a1",
+          "text": "$37,000"
+        },
+        {
+          "id": "intermediate-m0-q7-final-a2",
+          "text": "$43,000"
+        },
+        {
+          "id": "intermediate-m0-q7-final-a3",
+          "text": "$55,000"
+        }
+      ],
+      "correctChoiceId": "intermediate-m0-q7-final-a1",
+      "explanation": "$40,000 + $6,000 − $9,000 = $37,000.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "intermediate",
+        "blueprintYear": 2026,
+        "areaId": "intermediate-I",
+        "groupId": "0",
+        "topicId": "intermediate-intermediate-general",
+        "taskIds": [
+          "intermediate-intermediate-general.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "intermediate-m0-q8-final",
+      "courseId": "intermediate",
+      "moduleId": 0,
+      "topic": "Accounts Receivable",
+      "prompt": "A company performs $18,000 of services on account. Which account is debited?",
+      "choices": [
+        {
+          "id": "intermediate-m0-q8-final-a0",
+          "text": "Cash"
+        },
+        {
+          "id": "intermediate-m0-q8-final-a1",
+          "text": "Accounts Receivable"
+        },
+        {
+          "id": "intermediate-m0-q8-final-a2",
+          "text": "Service Revenue"
+        },
+        {
+          "id": "intermediate-m0-q8-final-a3",
+          "text": "Accounts Payable"
+        }
+      ],
+      "correctChoiceId": "intermediate-m0-q8-final-a1",
+      "explanation": "Accounts Receivable increases because the customer owes the company $18,000.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "intermediate",
+        "blueprintYear": 2026,
+        "areaId": "intermediate-I",
+        "groupId": "0",
+        "topicId": "intermediate-intermediate-general",
+        "taskIds": [
+          "intermediate-intermediate-general.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "intermediate-m0-q9-final",
+      "courseId": "intermediate",
+      "moduleId": 0,
+      "topic": "Credit Losses",
+      "prompt": "Accounts Receivable is $150,000 and the Allowance for Credit Losses is $9,000. What is net Accounts Receivable?",
+      "choices": [
+        {
+          "id": "intermediate-m0-q9-final-a0",
+          "text": "$141,000"
+        },
+        {
+          "id": "intermediate-m0-q9-final-a1",
+          "text": "$150,000"
+        },
+        {
+          "id": "intermediate-m0-q9-final-a2",
+          "text": "$159,000"
+        },
+        {
+          "id": "intermediate-m0-q9-final-a3",
+          "text": "$9,000"
+        }
+      ],
+      "correctChoiceId": "intermediate-m0-q9-final-a0",
+      "explanation": "$150,000 − $9,000 = $141,000 net Accounts Receivable.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "intermediate",
+        "blueprintYear": 2026,
+        "areaId": "intermediate-I",
+        "groupId": "0",
+        "topicId": "intermediate-intermediate-general",
+        "taskIds": [
+          "intermediate-intermediate-general.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "intermediate-m0-q10-final",
+      "courseId": "intermediate",
+      "moduleId": 0,
+      "topic": "Notes Receivable",
+      "prompt": "A $50,000 note bears 8% annual interest and is outstanding for nine months. How much interest is earned?",
+      "choices": [
+        {
+          "id": "intermediate-m0-q10-final-a0",
+          "text": "$2,000"
+        },
+        {
+          "id": "intermediate-m0-q10-final-a1",
+          "text": "$3,000"
+        },
+        {
+          "id": "intermediate-m0-q10-final-a2",
+          "text": "$4,000"
+        },
+        {
+          "id": "intermediate-m0-q10-final-a3",
+          "text": "$6,000"
+        }
+      ],
+      "correctChoiceId": "intermediate-m0-q10-final-a1",
+      "explanation": "$50,000 × 8% × 9/12 = $3,000.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "intermediate",
+        "blueprintYear": 2026,
+        "areaId": "intermediate-I",
+        "groupId": "0",
+        "topicId": "intermediate-intermediate-general",
+        "taskIds": [
+          "intermediate-intermediate-general.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "intermediate-m0-q11-final",
+      "courseId": "intermediate",
+      "moduleId": 0,
+      "topic": "Inventory Basics",
+      "prompt": "Beginning inventory is $25,000, purchases are $85,000, and ending inventory is $30,000. What is Cost of Goods Sold?",
+      "choices": [
+        {
+          "id": "intermediate-m0-q11-final-a0",
+          "text": "$55,000"
+        },
+        {
+          "id": "intermediate-m0-q11-final-a1",
+          "text": "$80,000"
+        },
+        {
+          "id": "intermediate-m0-q11-final-a2",
+          "text": "$110,000"
+        },
+        {
+          "id": "intermediate-m0-q11-final-a3",
+          "text": "$140,000"
+        }
+      ],
+      "correctChoiceId": "intermediate-m0-q11-final-a1",
+      "explanation": "$25,000 + $85,000 − $30,000 = $80,000 COGS.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "intermediate",
+        "blueprintYear": 2026,
+        "areaId": "intermediate-I",
+        "groupId": "0",
+        "topicId": "intermediate-intermediate-general",
+        "taskIds": [
+          "intermediate-intermediate-general.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "intermediate-m0-q12-final",
+      "courseId": "intermediate",
+      "moduleId": 0,
+      "topic": "FIFO",
+      "prompt": "A company has 100 units costing $10 each and then purchases 100 units costing $14 each. If 120 units are sold using FIFO, what is COGS?",
+      "choices": [
+        {
+          "id": "intermediate-m0-q12-final-a0",
+          "text": "$1,200"
+        },
+        {
+          "id": "intermediate-m0-q12-final-a1",
+          "text": "$1,280"
+        },
+        {
+          "id": "intermediate-m0-q12-final-a2",
+          "text": "$1,400"
+        },
+        {
+          "id": "intermediate-m0-q12-final-a3",
+          "text": "$1,680"
+        }
+      ],
+      "correctChoiceId": "intermediate-m0-q12-final-a1",
+      "explanation": "FIFO uses 100 units × $10 = $1,000 plus 20 units × $14 = $280. Total COGS = $1,280.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "intermediate",
+        "blueprintYear": 2026,
+        "areaId": "intermediate-I",
+        "groupId": "0",
+        "topicId": "intermediate-intermediate-general",
+        "taskIds": [
+          "intermediate-intermediate-general.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "intermediate-m0-q13-final",
+      "courseId": "intermediate",
+      "moduleId": 0,
+      "topic": "LIFO",
+      "prompt": "A company has 100 units costing $10 each and then purchases 100 units costing $14 each. If 120 units are sold using LIFO, what is COGS?",
+      "choices": [
+        {
+          "id": "intermediate-m0-q13-final-a0",
+          "text": "$1,280"
+        },
+        {
+          "id": "intermediate-m0-q13-final-a1",
+          "text": "$1,400"
+        },
+        {
+          "id": "intermediate-m0-q13-final-a2",
+          "text": "$1,600"
+        },
+        {
+          "id": "intermediate-m0-q13-final-a3",
+          "text": "$1,680"
+        }
+      ],
+      "correctChoiceId": "intermediate-m0-q13-final-a2",
+      "explanation": "LIFO uses 100 units × $14 = $1,400 plus 20 units × $10 = $200. Total COGS = $1,600.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "intermediate",
+        "blueprintYear": 2026,
+        "areaId": "intermediate-I",
+        "groupId": "0",
+        "topicId": "intermediate-intermediate-general",
+        "taskIds": [
+          "intermediate-intermediate-general.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "intermediate-m0-q14-final",
+      "courseId": "intermediate",
+      "moduleId": 0,
+      "topic": "Weighted Average",
+      "prompt": "Inventory consists of 100 units costing $8 each and 300 units costing $12 each. What is the weighted-average cost per unit?",
+      "choices": [
+        {
+          "id": "intermediate-m0-q14-final-a0",
+          "text": "$8"
+        },
+        {
+          "id": "intermediate-m0-q14-final-a1",
+          "text": "$10"
+        },
+        {
+          "id": "intermediate-m0-q14-final-a2",
+          "text": "$11"
+        },
+        {
+          "id": "intermediate-m0-q14-final-a3",
+          "text": "$12"
+        }
+      ],
+      "correctChoiceId": "intermediate-m0-q14-final-a2",
+      "explanation": "Total cost = $800 + $3,600 = $4,400. $4,400 ÷ 400 units = $11 per unit.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "intermediate",
+        "blueprintYear": 2026,
+        "areaId": "intermediate-I",
+        "groupId": "0",
+        "topicId": "intermediate-intermediate-general",
+        "taskIds": [
+          "intermediate-intermediate-general.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "intermediate-m0-q15-final",
+      "courseId": "intermediate",
+      "moduleId": 0,
+      "topic": "Inventory Errors",
+      "prompt": "If ending inventory is overstated, what happens to current-period Cost of Goods Sold and net income?",
+      "choices": [
+        {
+          "id": "intermediate-m0-q15-final-a0",
+          "text": "COGS overstated; net income understated"
+        },
+        {
+          "id": "intermediate-m0-q15-final-a1",
+          "text": "COGS understated; net income overstated"
+        },
+        {
+          "id": "intermediate-m0-q15-final-a2",
+          "text": "Both COGS and net income overstated"
+        },
+        {
+          "id": "intermediate-m0-q15-final-a3",
+          "text": "Neither amount is affected"
+        }
+      ],
+      "correctChoiceId": "intermediate-m0-q15-final-a1",
+      "explanation": "Overstated ending inventory causes too much to be subtracted in the COGS formula, making COGS understated and net income overstated.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "intermediate",
+        "blueprintYear": 2026,
+        "areaId": "intermediate-I",
+        "groupId": "0",
+        "topicId": "intermediate-intermediate-general",
+        "taskIds": [
+          "intermediate-intermediate-general.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "intermediate-m0-q16-final",
+      "courseId": "intermediate",
+      "moduleId": 0,
+      "topic": "PPE Acquisition",
+      "prompt": "Equipment has a purchase price of $90,000. Delivery costs are $4,000 and installation costs are $6,000. What is the initial capitalized cost?",
+      "choices": [
+        {
+          "id": "intermediate-m0-q16-final-a0",
+          "text": "$90,000"
+        },
+        {
+          "id": "intermediate-m0-q16-final-a1",
+          "text": "$94,000"
+        },
+        {
+          "id": "intermediate-m0-q16-final-a2",
+          "text": "$96,000"
+        },
+        {
+          "id": "intermediate-m0-q16-final-a3",
+          "text": "$100,000"
+        }
+      ],
+      "correctChoiceId": "intermediate-m0-q16-final-a3",
+      "explanation": "$90,000 + $4,000 + $6,000 = $100,000.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "intermediate",
+        "blueprintYear": 2026,
+        "areaId": "intermediate-I",
+        "groupId": "0",
+        "topicId": "intermediate-intermediate-general",
+        "taskIds": [
+          "intermediate-intermediate-general.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "intermediate-m0-q17-final",
+      "courseId": "intermediate",
+      "moduleId": 0,
+      "topic": "Depreciation",
+      "prompt": "Equipment costs $120,000, has a $20,000 residual value, and a 5-year useful life. What is annual straight-line depreciation?",
+      "choices": [
+        {
+          "id": "intermediate-m0-q17-final-a0",
+          "text": "$20,000"
+        },
+        {
+          "id": "intermediate-m0-q17-final-a1",
+          "text": "$24,000"
+        },
+        {
+          "id": "intermediate-m0-q17-final-a2",
+          "text": "$28,000"
+        },
+        {
+          "id": "intermediate-m0-q17-final-a3",
+          "text": "$100,000"
+        }
+      ],
+      "correctChoiceId": "intermediate-m0-q17-final-a0",
+      "explanation": "($120,000 − $20,000) ÷ 5 = $20,000 per year.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "intermediate",
+        "blueprintYear": 2026,
+        "areaId": "intermediate-I",
+        "groupId": "0",
+        "topicId": "intermediate-intermediate-general",
+        "taskIds": [
+          "intermediate-intermediate-general.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "intermediate-m0-q18-final",
+      "courseId": "intermediate",
+      "moduleId": 0,
+      "topic": "Changes in Estimates",
+      "prompt": "An asset has a carrying amount of $36,000 when its estimated remaining life is revised to 4 years with no residual value. What is annual straight-line depreciation going forward?",
+      "choices": [
+        {
+          "id": "intermediate-m0-q18-final-a0",
+          "text": "$4,500"
+        },
+        {
+          "id": "intermediate-m0-q18-final-a1",
+          "text": "$9,000"
+        },
+        {
+          "id": "intermediate-m0-q18-final-a2",
+          "text": "$12,000"
+        },
+        {
+          "id": "intermediate-m0-q18-final-a3",
+          "text": "$36,000"
+        }
+      ],
+      "correctChoiceId": "intermediate-m0-q18-final-a1",
+      "explanation": "$36,000 ÷ 4 remaining years = $9,000 per year.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "intermediate",
+        "blueprintYear": 2026,
+        "areaId": "intermediate-I",
+        "groupId": "0",
+        "topicId": "intermediate-intermediate-general",
+        "taskIds": [
+          "intermediate-intermediate-general.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "intermediate-m0-q19-final",
+      "courseId": "intermediate",
+      "moduleId": 0,
+      "topic": "PPE Disposal",
+      "prompt": "Equipment cost $80,000 and has accumulated depreciation of $50,000. It is sold for $35,000. What is recognized?",
+      "choices": [
+        {
+          "id": "intermediate-m0-q19-final-a0",
+          "text": "$5,000 gain"
+        },
+        {
+          "id": "intermediate-m0-q19-final-a1",
+          "text": "$5,000 loss"
+        },
+        {
+          "id": "intermediate-m0-q19-final-a2",
+          "text": "$30,000 gain"
+        },
+        {
+          "id": "intermediate-m0-q19-final-a3",
+          "text": "$35,000 gain"
+        }
+      ],
+      "correctChoiceId": "intermediate-m0-q19-final-a0",
+      "explanation": "Carrying amount = $80,000 − $50,000 = $30,000. Selling price exceeds carrying amount by $5,000, producing a $5,000 gain.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "intermediate",
+        "blueprintYear": 2026,
+        "areaId": "intermediate-I",
+        "groupId": "0",
+        "topicId": "intermediate-intermediate-general",
+        "taskIds": [
+          "intermediate-intermediate-general.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "intermediate-m0-q20-final",
+      "courseId": "intermediate",
+      "moduleId": 0,
+      "topic": "Impairment",
+      "prompt": "Which event is most likely to indicate that a long-lived asset should be evaluated for impairment?",
+      "choices": [
+        {
+          "id": "intermediate-m0-q20-final-a0",
+          "text": "The asset suffers major damage and expected usefulness declines"
+        },
+        {
+          "id": "intermediate-m0-q20-final-a1",
+          "text": "The company pays its normal monthly rent"
+        },
+        {
+          "id": "intermediate-m0-q20-final-a2",
+          "text": "The company issues new common shares"
+        },
+        {
+          "id": "intermediate-m0-q20-final-a3",
+          "text": "The company earns more revenue than expected"
+        }
+      ],
+      "correctChoiceId": "intermediate-m0-q20-final-a0",
+      "explanation": "Major damage and reduced expected usefulness can indicate that an asset may be impaired.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "intermediate",
+        "blueprintYear": 2026,
+        "areaId": "intermediate-I",
+        "groupId": "0",
+        "topicId": "intermediate-intermediate-general",
+        "taskIds": [
+          "intermediate-intermediate-general.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "intermediate-m0-q21-final",
+      "courseId": "intermediate",
+      "moduleId": 0,
+      "topic": "Current Liabilities",
+      "prompt": "Employees have earned $14,000 of wages by year-end, but they will be paid next year. What should the company recognize?",
+      "choices": [
+        {
+          "id": "intermediate-m0-q21-final-a0",
+          "text": "Wages Expense and Wages Payable"
+        },
+        {
+          "id": "intermediate-m0-q21-final-a1",
+          "text": "Cash and Wages Revenue"
+        },
+        {
+          "id": "intermediate-m0-q21-final-a2",
+          "text": "Accounts Receivable and Revenue"
+        },
+        {
+          "id": "intermediate-m0-q21-final-a3",
+          "text": "No entry until payment"
+        }
+      ],
+      "correctChoiceId": "intermediate-m0-q21-final-a0",
+      "explanation": "The expense has already been incurred, so Wages Expense and Wages Payable should be recognized.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "intermediate",
+        "blueprintYear": 2026,
+        "areaId": "intermediate-I",
+        "groupId": "0",
+        "topicId": "intermediate-intermediate-general",
+        "taskIds": [
+          "intermediate-intermediate-general.task-1"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "intermediate-m0-q22-final",
+      "courseId": "intermediate",
+      "moduleId": 0,
+      "topic": "Bond Basics",
+      "prompt": "A $400,000 bond has a 6% annual stated rate and pays interest semiannually. How much cash interest is paid every six months?",
+      "choices": [
+        {
+          "id": "intermediate-m0-q22-final-a0",
+          "text": "$6,000"
+        },
+        {
+          "id": "intermediate-m0-q22-final-a1",
+          "text": "$12,000"
+        },
+        {
+          "id": "intermediate-m0-q22-final-a2",
+          "text": "$24,000"
+        },
+        {
+          "id": "intermediate-m0-q22-final-a3",
+          "text": "$48,000"
+        }
+      ],
+      "correctChoiceId": "intermediate-m0-q22-final-a1",
+      "explanation": "$400,000 × 6% × 6/12 = $12,000.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "intermediate",
+        "blueprintYear": 2026,
+        "areaId": "intermediate-I",
+        "groupId": "0",
+        "topicId": "intermediate-intermediate-general",
+        "taskIds": [
+          "intermediate-intermediate-general.task-1"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "intermediate-m0-q23-final",
+      "courseId": "intermediate",
+      "moduleId": 0,
+      "topic": "Premiums & Discounts",
+      "prompt": "A bond's stated rate is 9% while the market rate at issuance is 7%. The bond will generally issue at:",
+      "choices": [
+        {
+          "id": "intermediate-m0-q23-final-a0",
+          "text": "A discount"
+        },
+        {
+          "id": "intermediate-m0-q23-final-a1",
+          "text": "A premium"
+        },
+        {
+          "id": "intermediate-m0-q23-final-a2",
+          "text": "Zero value"
+        },
+        {
+          "id": "intermediate-m0-q23-final-a3",
+          "text": "Exactly half of face value"
+        }
+      ],
+      "correctChoiceId": "intermediate-m0-q23-final-a1",
+      "explanation": "Because the stated rate exceeds the market rate, the bond's contractual interest is attractive and the bond generally issues at a premium.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "intermediate",
+        "blueprintYear": 2026,
+        "areaId": "intermediate-I",
+        "groupId": "0",
+        "topicId": "intermediate-intermediate-general",
+        "taskIds": [
+          "intermediate-intermediate-general.task-1"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "intermediate-m0-q24-final",
+      "courseId": "intermediate",
+      "moduleId": 0,
+      "topic": "Effective Interest",
+      "prompt": "A bond has a beginning carrying amount of $190,000 and an effective annual rate of 8%. What is annual interest expense?",
+      "choices": [
+        {
+          "id": "intermediate-m0-q24-final-a0",
+          "text": "$12,000"
+        },
+        {
+          "id": "intermediate-m0-q24-final-a1",
+          "text": "$15,200"
+        },
+        {
+          "id": "intermediate-m0-q24-final-a2",
+          "text": "$16,000"
+        },
+        {
+          "id": "intermediate-m0-q24-final-a3",
+          "text": "$19,000"
+        }
+      ],
+      "correctChoiceId": "intermediate-m0-q24-final-a1",
+      "explanation": "$190,000 × 8% = $15,200 interest expense.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "intermediate",
+        "blueprintYear": 2026,
+        "areaId": "intermediate-I",
+        "groupId": "0",
+        "topicId": "intermediate-intermediate-general",
+        "taskIds": [
+          "intermediate-intermediate-general.task-1"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "intermediate-m0-q25-final",
+      "courseId": "intermediate",
+      "moduleId": 0,
+      "topic": "Effective Interest",
+      "prompt": "A discount bond has face value of $200,000, stated annual rate of 6%, effective annual rate of 8%, and beginning carrying amount of $190,000. Assuming annual payments, what is the ending carrying amount after one year?",
+      "choices": [
+        {
+          "id": "intermediate-m0-q25-final-a0",
+          "text": "$186,800"
+        },
+        {
+          "id": "intermediate-m0-q25-final-a1",
+          "text": "$190,000"
+        },
+        {
+          "id": "intermediate-m0-q25-final-a2",
+          "text": "$193,200"
+        },
+        {
+          "id": "intermediate-m0-q25-final-a3",
+          "text": "$202,000"
+        }
+      ],
+      "correctChoiceId": "intermediate-m0-q25-final-a2",
+      "explanation": "Cash interest = $200,000 × 6% = $12,000. Interest expense = $190,000 × 8% = $15,200. Discount amortization = $3,200. Ending carrying amount = $190,000 + $3,200 = $193,200.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "intermediate",
+        "blueprintYear": 2026,
+        "areaId": "intermediate-I",
+        "groupId": "0",
+        "topicId": "intermediate-intermediate-general",
+        "taskIds": [
+          "intermediate-intermediate-general.task-1"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "intermediate-m0-q26-final",
+      "courseId": "intermediate",
+      "moduleId": 0,
+      "topic": "Five-Step Model",
+      "prompt": "What is Step 3 of the revenue recognition model?",
+      "choices": [
+        {
+          "id": "intermediate-m0-q26-final-a0",
+          "text": "Identify the contract"
+        },
+        {
+          "id": "intermediate-m0-q26-final-a1",
+          "text": "Identify performance obligations"
+        },
+        {
+          "id": "intermediate-m0-q26-final-a2",
+          "text": "Determine the transaction price"
+        },
+        {
+          "id": "intermediate-m0-q26-final-a3",
+          "text": "Recognize revenue"
+        }
+      ],
+      "correctChoiceId": "intermediate-m0-q26-final-a2",
+      "explanation": "Step 3 is determining the transaction price.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "intermediate",
+        "blueprintYear": 2026,
+        "areaId": "intermediate-I",
+        "groupId": "0",
+        "topicId": "intermediate-intermediate-general",
+        "taskIds": [
+          "intermediate-intermediate-general.task-1"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "intermediate-m0-q27-final",
+      "courseId": "intermediate",
+      "moduleId": 0,
+      "topic": "Performance Obligations",
+      "prompt": "Why is identifying distinct performance obligations important?",
+      "choices": [
+        {
+          "id": "intermediate-m0-q27-final-a0",
+          "text": "Each obligation may receive an allocation of the transaction price and be recognized at a different time"
+        },
+        {
+          "id": "intermediate-m0-q27-final-a1",
+          "text": "Every obligation must always be paid separately in cash"
+        },
+        {
+          "id": "intermediate-m0-q27-final-a2",
+          "text": "Each obligation creates a separate corporation"
+        },
+        {
+          "id": "intermediate-m0-q27-final-a3",
+          "text": "It determines the company's income tax rate"
+        }
+      ],
+      "correctChoiceId": "intermediate-m0-q27-final-a0",
+      "explanation": "Separate performance obligations may receive different allocations and may be satisfied at different times.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "intermediate",
+        "blueprintYear": 2026,
+        "areaId": "intermediate-I",
+        "groupId": "0",
+        "topicId": "intermediate-intermediate-general",
+        "taskIds": [
+          "intermediate-intermediate-general.task-1"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "intermediate-m0-q28-final",
+      "courseId": "intermediate",
+      "moduleId": 0,
+      "topic": "Variable Consideration",
+      "prompt": "Which item is an example of variable consideration?",
+      "choices": [
+        {
+          "id": "intermediate-m0-q28-final-a0",
+          "text": "A guaranteed fixed contract amount"
+        },
+        {
+          "id": "intermediate-m0-q28-final-a1",
+          "text": "A performance bonus dependent on reaching a target"
+        },
+        {
+          "id": "intermediate-m0-q28-final-a2",
+          "text": "The company's inventory balance"
+        },
+        {
+          "id": "intermediate-m0-q28-final-a3",
+          "text": "The par value of common stock"
+        }
+      ],
+      "correctChoiceId": "intermediate-m0-q28-final-a1",
+      "explanation": "A performance bonus varies depending on whether a specified outcome occurs.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "intermediate",
+        "blueprintYear": 2026,
+        "areaId": "intermediate-I",
+        "groupId": "0",
+        "topicId": "intermediate-intermediate-general",
+        "taskIds": [
+          "intermediate-intermediate-general.task-1"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "intermediate-m0-q29-final",
+      "courseId": "intermediate",
+      "moduleId": 0,
+      "topic": "Transaction Price Allocation",
+      "prompt": "Product A has a standalone selling price of $750 and Service B has a standalone selling price of $250. The bundled transaction price is $800. How much is allocated to Product A?",
+      "choices": [
+        {
+          "id": "intermediate-m0-q29-final-a0",
+          "text": "$200"
+        },
+        {
+          "id": "intermediate-m0-q29-final-a1",
+          "text": "$600"
+        },
+        {
+          "id": "intermediate-m0-q29-final-a2",
+          "text": "$750"
+        },
+        {
+          "id": "intermediate-m0-q29-final-a3",
+          "text": "$800"
+        }
+      ],
+      "correctChoiceId": "intermediate-m0-q29-final-a1",
+      "explanation": "Product A represents $750 ÷ $1,000 = 75% of the standalone total. $800 × 75% = $600.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "intermediate",
+        "blueprintYear": 2026,
+        "areaId": "intermediate-I",
+        "groupId": "0",
+        "topicId": "intermediate-intermediate-general",
+        "taskIds": [
+          "intermediate-intermediate-general.task-1"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "intermediate-m0-q30-final",
+      "courseId": "intermediate",
+      "moduleId": 0,
+      "topic": "Revenue Timing",
+      "prompt": "A qualifying 12-month service contract has a total transaction price of $60,000 and is satisfied evenly over time. How much revenue is recognized after four months?",
+      "choices": [
+        {
+          "id": "intermediate-m0-q30-final-a0",
+          "text": "$5,000"
+        },
+        {
+          "id": "intermediate-m0-q30-final-a1",
+          "text": "$15,000"
+        },
+        {
+          "id": "intermediate-m0-q30-final-a2",
+          "text": "$20,000"
+        },
+        {
+          "id": "intermediate-m0-q30-final-a3",
+          "text": "$60,000"
+        }
+      ],
+      "correctChoiceId": "intermediate-m0-q30-final-a2",
+      "explanation": "$60,000 ÷ 12 = $5,000 per month. $5,000 × 4 = $20,000.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "intermediate",
+        "blueprintYear": 2026,
+        "areaId": "intermediate-I",
+        "groupId": "0",
+        "topicId": "intermediate-intermediate-general",
+        "taskIds": [
+          "intermediate-intermediate-general.task-1"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "intermediate-m0-q31-final",
+      "courseId": "intermediate",
+      "moduleId": 0,
+      "topic": "Lease Fundamentals",
+      "prompt": "What does a lease liability generally represent for a lessee?",
+      "choices": [
+        {
+          "id": "intermediate-m0-q31-final-a0",
+          "text": "The lessee's ownership of the underlying asset"
+        },
+        {
+          "id": "intermediate-m0-q31-final-a1",
+          "text": "The lessee's obligation to make lease payments"
+        },
+        {
+          "id": "intermediate-m0-q31-final-a2",
+          "text": "Revenue earned from customers"
+        },
+        {
+          "id": "intermediate-m0-q31-final-a3",
+          "text": "The market value of the leased asset"
+        }
+      ],
+      "correctChoiceId": "intermediate-m0-q31-final-a1",
+      "explanation": "The lease liability represents the lessee's obligation associated with lease payments.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "intermediate",
+        "blueprintYear": 2026,
+        "areaId": "intermediate-I",
+        "groupId": "0",
+        "topicId": "intermediate-intermediate-general",
+        "taskIds": [
+          "intermediate-intermediate-general.task-1"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "intermediate-m0-q32-final",
+      "courseId": "intermediate",
+      "moduleId": 0,
+      "topic": "Lease Classification",
+      "prompt": "Which condition is an indicator of finance lease classification for a lessee?",
+      "choices": [
+        {
+          "id": "intermediate-m0-q32-final-a0",
+          "text": "Ownership transfers to the lessee by the end of the lease term"
+        },
+        {
+          "id": "intermediate-m0-q32-final-a1",
+          "text": "The lessee pays an electricity bill"
+        },
+        {
+          "id": "intermediate-m0-q32-final-a2",
+          "text": "The lease has no identified asset"
+        },
+        {
+          "id": "intermediate-m0-q32-final-a3",
+          "text": "The lessee never makes payments"
+        }
+      ],
+      "correctChoiceId": "intermediate-m0-q32-final-a0",
+      "explanation": "Transfer of ownership is one of the finance lease classification criteria.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "intermediate",
+        "blueprintYear": 2026,
+        "areaId": "intermediate-I",
+        "groupId": "0",
+        "topicId": "intermediate-intermediate-general",
+        "taskIds": [
+          "intermediate-intermediate-general.task-1"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "intermediate-m0-q33-final",
+      "courseId": "intermediate",
+      "moduleId": 0,
+      "topic": "Initial Measurement",
+      "prompt": "A lease requires a single $42,000 payment one year from today. The applicable annual discount rate is 5%. What is its present value?",
+      "choices": [
+        {
+          "id": "intermediate-m0-q33-final-a0",
+          "text": "$38,000"
+        },
+        {
+          "id": "intermediate-m0-q33-final-a1",
+          "text": "$40,000"
+        },
+        {
+          "id": "intermediate-m0-q33-final-a2",
+          "text": "$42,000"
+        },
+        {
+          "id": "intermediate-m0-q33-final-a3",
+          "text": "$44,100"
+        }
+      ],
+      "correctChoiceId": "intermediate-m0-q33-final-a1",
+      "explanation": "$42,000 ÷ 1.05 = $40,000.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "intermediate",
+        "blueprintYear": 2026,
+        "areaId": "intermediate-I",
+        "groupId": "0",
+        "topicId": "intermediate-intermediate-general",
+        "taskIds": [
+          "intermediate-intermediate-general.task-1"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "intermediate-m0-q34-final",
+      "courseId": "intermediate",
+      "moduleId": 0,
+      "topic": "Finance Lease",
+      "prompt": "A finance lease liability begins at $100,000. The annual discount rate is 5% and a $25,000 payment is made at year-end. What is the ending lease liability?",
+      "choices": [
+        {
+          "id": "intermediate-m0-q34-final-a0",
+          "text": "$75,000"
+        },
+        {
+          "id": "intermediate-m0-q34-final-a1",
+          "text": "$80,000"
+        },
+        {
+          "id": "intermediate-m0-q34-final-a2",
+          "text": "$95,000"
+        },
+        {
+          "id": "intermediate-m0-q34-final-a3",
+          "text": "$105,000"
+        }
+      ],
+      "correctChoiceId": "intermediate-m0-q34-final-a1",
+      "explanation": "Interest = $100,000 × 5% = $5,000. Ending liability = $100,000 + $5,000 − $25,000 = $80,000.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "intermediate",
+        "blueprintYear": 2026,
+        "areaId": "intermediate-I",
+        "groupId": "0",
+        "topicId": "intermediate-intermediate-general",
+        "taskIds": [
+          "intermediate-intermediate-general.task-1"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "intermediate-m0-q35-final",
+      "courseId": "intermediate",
+      "moduleId": 0,
+      "topic": "Finance vs Operating",
+      "prompt": "Which statement best describes the expense pattern for lessee finance and operating leases?",
+      "choices": [
+        {
+          "id": "intermediate-m0-q35-final-a0",
+          "text": "Finance leases generally recognize interest and ROU asset amortization separately, while operating leases generally recognize a single lease cost"
+        },
+        {
+          "id": "intermediate-m0-q35-final-a1",
+          "text": "Operating leases never recognize a lease liability"
+        },
+        {
+          "id": "intermediate-m0-q35-final-a2",
+          "text": "Finance leases never recognize interest"
+        },
+        {
+          "id": "intermediate-m0-q35-final-a3",
+          "text": "Both classifications always have identical expense presentation"
+        }
+      ],
+      "correctChoiceId": "intermediate-m0-q35-final-a0",
+      "explanation": "Finance leases generally recognize interest and ROU asset amortization separately, while operating leases generally produce a single lease-cost pattern.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "intermediate",
+        "blueprintYear": 2026,
+        "areaId": "intermediate-I",
+        "groupId": "0",
+        "topicId": "intermediate-intermediate-general",
+        "taskIds": [
+          "intermediate-intermediate-general.task-1"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "intermediate-m0-q36-final",
+      "courseId": "intermediate",
+      "moduleId": 0,
+      "topic": "Retained Earnings",
+      "prompt": "Beginning retained earnings is $300,000. Net income is $90,000 and dividends are $40,000. What is ending retained earnings?",
+      "choices": [
+        {
+          "id": "intermediate-m0-q36-final-a0",
+          "text": "$250,000"
+        },
+        {
+          "id": "intermediate-m0-q36-final-a1",
+          "text": "$350,000"
+        },
+        {
+          "id": "intermediate-m0-q36-final-a2",
+          "text": "$390,000"
+        },
+        {
+          "id": "intermediate-m0-q36-final-a3",
+          "text": "$430,000"
+        }
+      ],
+      "correctChoiceId": "intermediate-m0-q36-final-a1",
+      "explanation": "$300,000 + $90,000 − $40,000 = $350,000.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "intermediate",
+        "blueprintYear": 2026,
+        "areaId": "intermediate-I",
+        "groupId": "0",
+        "topicId": "intermediate-intermediate-general",
+        "taskIds": [
+          "intermediate-intermediate-general.task-1"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "intermediate-m0-q37-final",
+      "courseId": "intermediate",
+      "moduleId": 0,
+      "topic": "Common Stock",
+      "prompt": "A corporation issues 10,000 shares of $3 par common stock for $15 per share. How much is credited to Additional Paid-In Capital?",
+      "choices": [
+        {
+          "id": "intermediate-m0-q37-final-a0",
+          "text": "$30,000"
+        },
+        {
+          "id": "intermediate-m0-q37-final-a1",
+          "text": "$120,000"
+        },
+        {
+          "id": "intermediate-m0-q37-final-a2",
+          "text": "$150,000"
+        },
+        {
+          "id": "intermediate-m0-q37-final-a3",
+          "text": "$180,000"
+        }
+      ],
+      "correctChoiceId": "intermediate-m0-q37-final-a1",
+      "explanation": "Cash received = 10,000 × $15 = $150,000. Common Stock = 10,000 × $3 = $30,000. APIC = $120,000.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "intermediate",
+        "blueprintYear": 2026,
+        "areaId": "intermediate-I",
+        "groupId": "0",
+        "topicId": "intermediate-intermediate-general",
+        "taskIds": [
+          "intermediate-intermediate-general.task-1"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "intermediate-m0-q38-final",
+      "courseId": "intermediate",
+      "moduleId": 0,
+      "topic": "Treasury Stock",
+      "prompt": "A company has 200,000 issued common shares and 25,000 treasury shares. How many common shares are outstanding?",
+      "choices": [
+        {
+          "id": "intermediate-m0-q38-final-a0",
+          "text": "175,000"
+        },
+        {
+          "id": "intermediate-m0-q38-final-a1",
+          "text": "200,000"
+        },
+        {
+          "id": "intermediate-m0-q38-final-a2",
+          "text": "225,000"
+        },
+        {
+          "id": "intermediate-m0-q38-final-a3",
+          "text": "25,000"
+        }
+      ],
+      "correctChoiceId": "intermediate-m0-q38-final-a0",
+      "explanation": "Outstanding shares = 200,000 issued − 25,000 treasury = 175,000.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "intermediate",
+        "blueprintYear": 2026,
+        "areaId": "intermediate-I",
+        "groupId": "0",
+        "topicId": "intermediate-intermediate-general",
+        "taskIds": [
+          "intermediate-intermediate-general.task-1"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "intermediate-m0-q39-final",
+      "courseId": "intermediate",
+      "moduleId": 0,
+      "topic": "Weighted-Average Shares",
+      "prompt": "A company has 100,000 common shares outstanding on January 1 and issues an additional 40,000 shares on April 1. What are weighted-average shares for the year?",
+      "choices": [
+        {
+          "id": "intermediate-m0-q39-final-a0",
+          "text": "110,000"
+        },
+        {
+          "id": "intermediate-m0-q39-final-a1",
+          "text": "120,000"
+        },
+        {
+          "id": "intermediate-m0-q39-final-a2",
+          "text": "130,000"
+        },
+        {
+          "id": "intermediate-m0-q39-final-a3",
+          "text": "140,000"
+        }
+      ],
+      "correctChoiceId": "intermediate-m0-q39-final-a2",
+      "explanation": "Existing shares = 100,000. New shares = 40,000 × 9/12 = 30,000. Weighted-average shares = 130,000.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "intermediate",
+        "blueprintYear": 2026,
+        "areaId": "intermediate-I",
+        "groupId": "0",
+        "topicId": "intermediate-intermediate-general",
+        "taskIds": [
+          "intermediate-intermediate-general.task-1"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "intermediate-m0-q40-final",
+      "courseId": "intermediate",
+      "moduleId": 0,
+      "topic": "Basic EPS",
+      "prompt": "Net income is $570,000, preferred dividends are $30,000, and weighted-average common shares are 135,000. What is basic EPS?",
+      "choices": [
+        {
+          "id": "intermediate-m0-q40-final-a0",
+          "text": "$3.60"
+        },
+        {
+          "id": "intermediate-m0-q40-final-a1",
+          "text": "$4.00"
+        },
+        {
+          "id": "intermediate-m0-q40-final-a2",
+          "text": "$4.22"
+        },
+        {
+          "id": "intermediate-m0-q40-final-a3",
+          "text": "$4.44"
+        }
+      ],
+      "correctChoiceId": "intermediate-m0-q40-final-a1",
+      "explanation": "Income available to common shareholders = $570,000 − $30,000 = $540,000. $540,000 ÷ 135,000 = $4.00 EPS.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "intermediate",
+        "blueprintYear": 2026,
+        "areaId": "intermediate-I",
+        "groupId": "0",
+        "topicId": "intermediate-intermediate-general",
+        "taskIds": [
+          "intermediate-intermediate-general.task-1"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "intermediate-m0-q41-final",
+      "courseId": "intermediate",
+      "moduleId": 0,
+      "topic": "Book vs Tax Income",
+      "prompt": "Why can book income differ from taxable income?",
+      "choices": [
+        {
+          "id": "intermediate-m0-q41-final-a0",
+          "text": "Financial reporting and tax rules may recognize items differently"
+        },
+        {
+          "id": "intermediate-m0-q41-final-a1",
+          "text": "Taxable income always equals cash flow"
+        },
+        {
+          "id": "intermediate-m0-q41-final-a2",
+          "text": "Financial accounting ignores all expenses"
+        },
+        {
+          "id": "intermediate-m0-q41-final-a3",
+          "text": "Companies can choose any taxable income amount"
+        }
+      ],
+      "correctChoiceId": "intermediate-m0-q41-final-a0",
+      "explanation": "Financial reporting and tax law can differ in the timing or treatment of revenues and expenses.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "intermediate",
+        "blueprintYear": 2026,
+        "areaId": "intermediate-I",
+        "groupId": "0",
+        "topicId": "intermediate-intermediate-general",
+        "taskIds": [
+          "intermediate-intermediate-general.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "intermediate-m0-q42-final",
+      "courseId": "intermediate",
+      "moduleId": 0,
+      "topic": "Temporary Differences",
+      "prompt": "Which statement correctly distinguishes temporary and permanent differences?",
+      "choices": [
+        {
+          "id": "intermediate-m0-q42-final-a0",
+          "text": "Temporary differences can reverse in future periods; permanent differences do not"
+        },
+        {
+          "id": "intermediate-m0-q42-final-a1",
+          "text": "Permanent differences always create deferred tax assets"
+        },
+        {
+          "id": "intermediate-m0-q42-final-a2",
+          "text": "Temporary differences never have future tax consequences"
+        },
+        {
+          "id": "intermediate-m0-q42-final-a3",
+          "text": "Both always create deferred tax liabilities"
+        }
+      ],
+      "correctChoiceId": "intermediate-m0-q42-final-a0",
+      "explanation": "Temporary differences create future taxable or deductible amounts, while permanent differences do not reverse.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "intermediate",
+        "blueprintYear": 2026,
+        "areaId": "intermediate-I",
+        "groupId": "0",
+        "topicId": "intermediate-intermediate-general",
+        "taskIds": [
+          "intermediate-intermediate-general.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "intermediate-m0-q43-final",
+      "courseId": "intermediate",
+      "moduleId": 0,
+      "topic": "Deferred Taxes",
+      "prompt": "A taxable temporary difference is $80,000 and the applicable enacted tax rate is 25%. What deferred tax amount results, ignoring other considerations?",
+      "choices": [
+        {
+          "id": "intermediate-m0-q43-final-a0",
+          "text": "$20,000 Deferred Tax Asset"
+        },
+        {
+          "id": "intermediate-m0-q43-final-a1",
+          "text": "$20,000 Deferred Tax Liability"
+        },
+        {
+          "id": "intermediate-m0-q43-final-a2",
+          "text": "$80,000 Deferred Tax Liability"
+        },
+        {
+          "id": "intermediate-m0-q43-final-a3",
+          "text": "$100,000 Deferred Tax Asset"
+        }
+      ],
+      "correctChoiceId": "intermediate-m0-q43-final-a1",
+      "explanation": "$80,000 × 25% = $20,000. A taxable temporary difference generally creates a deferred tax liability.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "intermediate",
+        "blueprintYear": 2026,
+        "areaId": "intermediate-I",
+        "groupId": "0",
+        "topicId": "intermediate-intermediate-general",
+        "taskIds": [
+          "intermediate-intermediate-general.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "intermediate-m0-q44-final",
+      "courseId": "intermediate",
+      "moduleId": 0,
+      "topic": "Income Tax Expense",
+      "prompt": "Current tax expense is $100,000 and deferred tax expense is $15,000. In this simplified example, what is total income tax expense?",
+      "choices": [
+        {
+          "id": "intermediate-m0-q44-final-a0",
+          "text": "$85,000"
+        },
+        {
+          "id": "intermediate-m0-q44-final-a1",
+          "text": "$100,000"
+        },
+        {
+          "id": "intermediate-m0-q44-final-a2",
+          "text": "$115,000"
+        },
+        {
+          "id": "intermediate-m0-q44-final-a3",
+          "text": "$1,500,000"
+        }
+      ],
+      "correctChoiceId": "intermediate-m0-q44-final-a2",
+      "explanation": "$100,000 + $15,000 = $115,000 total income tax expense.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "intermediate",
+        "blueprintYear": 2026,
+        "areaId": "intermediate-I",
+        "groupId": "0",
+        "topicId": "intermediate-intermediate-general",
+        "taskIds": [
+          "intermediate-intermediate-general.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "intermediate-m0-q45-final",
+      "courseId": "intermediate",
+      "moduleId": 0,
+      "topic": "Accounting Changes",
+      "prompt": "A company revises an asset's estimated useful life because of new information. How is the change generally accounted for?",
+      "choices": [
+        {
+          "id": "intermediate-m0-q45-final-a0",
+          "text": "Retrospectively"
+        },
+        {
+          "id": "intermediate-m0-q45-final-a1",
+          "text": "Prospectively"
+        },
+        {
+          "id": "intermediate-m0-q45-final-a2",
+          "text": "As a prior-period error"
+        },
+        {
+          "id": "intermediate-m0-q45-final-a3",
+          "text": "By reversing all prior depreciation"
+        }
+      ],
+      "correctChoiceId": "intermediate-m0-q45-final-a1",
+      "explanation": "A legitimate change in accounting estimate based on new information is generally accounted for prospectively.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "intermediate",
+        "blueprintYear": 2026,
+        "areaId": "intermediate-I",
+        "groupId": "0",
+        "topicId": "intermediate-intermediate-general",
+        "taskIds": [
+          "intermediate-intermediate-general.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "intermediate-m0-q46-final",
+      "courseId": "intermediate",
+      "moduleId": 0,
+      "topic": "Cash Flow Classification",
+      "prompt": "A company pays $150,000 cash to purchase equipment. How is the transaction generally classified?",
+      "choices": [
+        {
+          "id": "intermediate-m0-q46-final-a0",
+          "text": "Operating outflow"
+        },
+        {
+          "id": "intermediate-m0-q46-final-a1",
+          "text": "Investing outflow"
+        },
+        {
+          "id": "intermediate-m0-q46-final-a2",
+          "text": "Financing outflow"
+        },
+        {
+          "id": "intermediate-m0-q46-final-a3",
+          "text": "Investing inflow"
+        }
+      ],
+      "correctChoiceId": "intermediate-m0-q46-final-a1",
+      "explanation": "Cash paid to purchase property, plant and equipment is generally an investing cash outflow.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "intermediate",
+        "blueprintYear": 2026,
+        "areaId": "intermediate-I",
+        "groupId": "0",
+        "topicId": "intermediate-intermediate-general",
+        "taskIds": [
+          "intermediate-intermediate-general.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "intermediate-m0-q47-final",
+      "courseId": "intermediate",
+      "moduleId": 0,
+      "topic": "Cash Flow Classification",
+      "prompt": "A corporation receives $300,000 cash from issuing common stock. How is the transaction generally classified?",
+      "choices": [
+        {
+          "id": "intermediate-m0-q47-final-a0",
+          "text": "Operating inflow"
+        },
+        {
+          "id": "intermediate-m0-q47-final-a1",
+          "text": "Investing inflow"
+        },
+        {
+          "id": "intermediate-m0-q47-final-a2",
+          "text": "Financing inflow"
+        },
+        {
+          "id": "intermediate-m0-q47-final-a3",
+          "text": "Financing outflow"
+        }
+      ],
+      "correctChoiceId": "intermediate-m0-q47-final-a2",
+      "explanation": "Cash received from issuing the corporation's own stock is generally a financing inflow.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "intermediate",
+        "blueprintYear": 2026,
+        "areaId": "intermediate-I",
+        "groupId": "0",
+        "topicId": "intermediate-intermediate-general",
+        "taskIds": [
+          "intermediate-intermediate-general.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "intermediate-m0-q48-final",
+      "courseId": "intermediate",
+      "moduleId": 0,
+      "topic": "Indirect Method",
+      "prompt": "Net income is $180,000. Depreciation expense is $20,000, Accounts Receivable increases by $15,000, and Accounts Payable increases by $5,000. Ignoring other items, what is operating cash flow under the indirect method?",
+      "choices": [
+        {
+          "id": "intermediate-m0-q48-final-a0",
+          "text": "$170,000"
+        },
+        {
+          "id": "intermediate-m0-q48-final-a1",
+          "text": "$180,000"
+        },
+        {
+          "id": "intermediate-m0-q48-final-a2",
+          "text": "$190,000"
+        },
+        {
+          "id": "intermediate-m0-q48-final-a3",
+          "text": "$220,000"
+        }
+      ],
+      "correctChoiceId": "intermediate-m0-q48-final-a2",
+      "explanation": "$180,000 + $20,000 − $15,000 + $5,000 = $190,000.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "intermediate",
+        "blueprintYear": 2026,
+        "areaId": "intermediate-I",
+        "groupId": "0",
+        "topicId": "intermediate-intermediate-general",
+        "taskIds": [
+          "intermediate-intermediate-general.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "intermediate-m0-q49-final",
+      "courseId": "intermediate",
+      "moduleId": 0,
+      "topic": "Noncash Activities",
+      "prompt": "A company acquires $250,000 of equipment by issuing a $250,000 long-term note directly to the seller. What immediate cash flow is reported from the acquisition?",
+      "choices": [
+        {
+          "id": "intermediate-m0-q49-final-a0",
+          "text": "$250,000 investing outflow"
+        },
+        {
+          "id": "intermediate-m0-q49-final-a1",
+          "text": "$250,000 financing inflow"
+        },
+        {
+          "id": "intermediate-m0-q49-final-a2",
+          "text": "$500,000 total cash movement"
+        },
+        {
+          "id": "intermediate-m0-q49-final-a3",
+          "text": "$0"
+        }
+      ],
+      "correctChoiceId": "intermediate-m0-q49-final-a3",
+      "explanation": "No cash is exchanged. The acquisition is a significant noncash investing and financing transaction.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "intermediate",
+        "blueprintYear": 2026,
+        "areaId": "intermediate-I",
+        "groupId": "0",
+        "topicId": "intermediate-intermediate-general",
+        "taskIds": [
+          "intermediate-intermediate-general.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "intermediate-m0-q50-final",
+      "courseId": "intermediate",
+      "moduleId": 0,
+      "topic": "Comprehensive Income",
+      "prompt": "Net income is $700,000 and positive Other Comprehensive Income is $45,000. What is comprehensive income?",
+      "choices": [
+        {
+          "id": "intermediate-m0-q50-final-a0",
+          "text": "$655,000"
+        },
+        {
+          "id": "intermediate-m0-q50-final-a1",
+          "text": "$700,000"
+        },
+        {
+          "id": "intermediate-m0-q50-final-a2",
+          "text": "$745,000"
+        },
+        {
+          "id": "intermediate-m0-q50-final-a3",
+          "text": "$31,500,000"
+        }
+      ],
+      "correctChoiceId": "intermediate-m0-q50-final-a2",
+      "explanation": "$700,000 + $45,000 = $745,000 comprehensive income.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "intermediate",
+        "blueprintYear": 2026,
+        "areaId": "intermediate-I",
+        "groupId": "0",
+        "topicId": "intermediate-intermediate-general",
+        "taskIds": [
+          "intermediate-intermediate-general.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    }
+  ]
+}

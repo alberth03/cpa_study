@@ -1,0 +1,88 @@
+{
+  "id": "far-m4-l10",
+  "courseId": "far",
+  "moduleId": 4,
+  "number": 10,
+  "title": "Governmental Accounting Integrated Review",
+  "description": "Combine fund classification, measurement focus, basis of accounting, financial statements, and governmental transactions.",
+  "url": "/learn/far/modules/4/lessons/10",
+  "html": "<h2> Governmental Accounting — Big Picture </h2> <p> The fastest way to solve governmental accounting questions is to first identify <strong>what type of reporting is involved</strong>. </p> <div class=\"financial-example\"> <div> <span>Governmental Funds</span> <strong> Current Financial Resources + Modified Accrual </strong> </div> <div> <span>Proprietary Funds</span> <strong> Economic Resources + Accrual </strong> </div> <div> <span>Fiduciary Funds</span> <strong> Economic Resources + Accrual </strong> </div> <div> <span>Government-Wide</span> <strong> Economic Resources + Accrual </strong> </div> </div> <h2> Governmental Fund Types </h2> <div class=\"formula-box\"> GENERAL → Primary Operating Fund SPECIAL REVENUE → Restricted / Committed Revenue Sources CAPITAL PROJECTS → Capital Outlays / Acquire or Construct Capital Assets DEBT SERVICE → Governmental Debt Payments PERMANENT → Principal Maintained </div> <h2> Proprietary Funds </h2> <div class=\"formula-box\"> ENTERPRISE → Primarily External Users INTERNAL SERVICE → Primarily Internal Government Users </div> <p> Both generally use accrual accounting and the economic resources measurement focus. </p> <h2> Fiduciary Funds </h2> <p> Fiduciary funds generally account for resources held or administered for others. </p> <div class=\"key-points\"> <ul> <li> Pension and other employee benefit trust funds </li> <li> Investment trust funds </li> <li> Private-purpose trust funds </li> <li> Custodial funds </li> </ul> </div> <p> Fiduciary activities are generally excluded from government-wide financial statements. </p> <h2> Modified Accrual </h2> <div class=\"formula-box\"> REVENUE = MEASURABLE + AVAILABLE </div> <p> Governmental funds generally report <strong>expenditures</strong> rather than expenses. </p> <h2> Capital Assets </h2> <div class=\"financial-example\"> <div> <span>Governmental Fund</span> <strong> Capital Purchase → Expenditure </strong> </div> <div> <span>Government-Wide</span> <strong> Capitalize Asset → Recognize Depreciation </strong> </div> </div> <h2> Long-Term Debt </h2> <div class=\"financial-example\"> <div> <span>Governmental Fund</span> <strong> Bond Proceeds → Other Financing Source </strong> </div> <div> <span>Government-Wide</span> <strong> Bond Proceeds → Long-Term Liability </strong> </div> </div> <h2> Government-Wide Reporting </h2> <div class=\"formula-box\"> GOVERNMENTAL ACTIVITIES ✓ BUSINESS-TYPE ACTIVITIES ✓ FIDUCIARY ACTIVITIES ✗ </div> <p> Government-wide statements generally include capital assets, depreciation, and long-term liabilities because they use the economic resources measurement focus. </p> <h2> Fund-to-Government-Wide Reconciliation </h2> <div class=\"key-points\"> <ul> <li> Capital outlay → add back when reconciling operating results. </li> <li> Depreciation → subtract. </li> <li> Debt principal payment → add back. </li> <li> Bond proceeds → remove their governmental-fund financing effect. </li> <li> Adjust revenue recognition differences caused by modified accrual. </li> </ul> </div> <h2> Budgetary Accounting </h2> <div class=\"formula-box\"> ESTIMATED REVENUES = Expected Resources APPROPRIATIONS = Authorized Spending ENCUMBRANCES = Commitments </div> <p> Remember: <strong>an encumbrance is not an expenditure.</strong> </p> <h2> Integrated Example </h2> <p> A city's General Fund reports the following during the year: </p> <div class=\"financial-example\"> <div> <span>Revenues</span> <strong>$1,000,000</strong> </div> <div> <span>Operating Expenditures</span> <strong>$700,000</strong> </div> <div> <span>Capital Outlay</span> <strong>$120,000</strong> </div> <div> <span>Bond Proceeds</span> <strong>$200,000</strong> </div> </div> <h2> Governmental Fund Result </h2> <div class=\"formula-box\"> $1,000,000 Revenue − $700,000 Operating Expenditures − $120,000 Capital Outlay + $200,000 Other Financing Source = $380,000 Increase in Fund Balance </div> <h2> Now Convert to Government-Wide </h2> <p> Assume depreciation on governmental capital assets for the year is <strong>$30,000</strong>. </p> <p> The $120,000 capital outlay must be reversed because government-wide reporting capitalizes the asset. </p> <p> The $200,000 bond proceeds must also be removed from the operating result because they create a liability rather than revenue. </p> <div class=\"formula-box\"> $380,000 + $120,000 Capital Outlay − $30,000 Depreciation − $200,000 Bond Proceeds = $270,000 CHANGE IN NET POSITION </div> <h2> CPA Decision Process </h2> <div class=\"key-points\"> <ol> <li> Identify the fund or reporting level. </li> <li> Identify the measurement focus. </li> <li> Identify the accounting basis. </li> <li> Decide whether the transaction is a revenue, expenditure, expense, or other financing source/use. </li> <li> Determine whether capital assets or long-term liabilities belong in that reporting level. </li> </ol> </div> <h2> Final Memory Map </h2> <div class=\"formula-box\"> GOVERNMENTAL → MODIFIED ACCRUAL PROPRIETARY → ACCRUAL FIDUCIARY → ACCRUAL GOVERNMENT-WIDE → ACCRUAL PURCHASE ORDER → ENCUMBRANCE CAPITAL OUTLAY FUND: EXPENDITURE GOVERNMENT-WIDE: CAPITAL ASSET BOND PROCEEDS FUND: OTHER FINANCING SOURCE GOVERNMENT-WIDE: LIABILITY </div> <h2> Key Takeaway </h2> <p> Governmental accounting becomes much easier when you stop treating every transaction like normal business accounting. First identify <strong>where the transaction is being reported</strong>, then apply the correct accounting model. </p>",
+  "quiz": {
+    "id": "far-m4-l10-check",
+    "courseId": "far",
+    "moduleId": 4,
+    "lessonId": "far-m4-l10",
+    "topic": "General review",
+    "prompt": "A governmental fund reports a $250,000 increase in fund balance. The amount includes $90,000 of capital outlay and $150,000 of bond proceeds. Government-wide depreciation expense is $20,000. Ignoring all other differences, what is the increase in governmental activities' net position?",
+    "choices": [
+      {
+        "id": "far-m4-l10-check-a0",
+        "text": "$170,000"
+      },
+      {
+        "id": "far-m4-l10-check-a1",
+        "text": "$190,000"
+      },
+      {
+        "id": "far-m4-l10-check-a2",
+        "text": "$320,000"
+      },
+      {
+        "id": "far-m4-l10-check-a3",
+        "text": "$470,000"
+      }
+    ],
+    "correctChoiceId": "far-m4-l10-check-a0",
+    "explanation": "Start with the $250,000 increase in fund balance, add back the $90,000 capital outlay, subtract $20,000 depreciation, and remove the $150,000 bond proceeds because they create a government-wide liability rather than income. $250,000 + $90,000 − $20,000 − $150,000 = $170,000.",
+    "difficulty": "foundation",
+    "metadata": {
+      "section": "far",
+      "blueprintYear": 2026,
+      "areaId": "far-I",
+      "groupId": "module-4",
+      "topicId": "far-governmental-accounting-integrated-review",
+      "taskIds": [
+        "far-governmental-accounting-integrated-review.task-1",
+        "far-governmental-accounting-integrated-review.task-2",
+        "far-governmental-accounting-integrated-review.task-3"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": true,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "section": "far",
+    "blueprintYear": 2026,
+    "areaId": "far-I",
+    "groupId": "module-4",
+    "topicId": "far-governmental-accounting-integrated-review",
+    "taskIds": [
+      "far-governmental-accounting-integrated-review.task-1",
+      "far-governmental-accounting-integrated-review.task-2",
+      "far-governmental-accounting-integrated-review.task-3"
+    ],
+    "skill": "application",
+    "validFrom": "2026-01-01",
+    "supplementary": true,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      }
+    ]
+  },
+  "objectives": [
+    "Explain governmental accounting integrated review and its underlying principles.",
+    "Apply the topic to a financial-reporting scenario.",
+    "Evaluate common errors and their financial-statement effects."
+  ]
+}

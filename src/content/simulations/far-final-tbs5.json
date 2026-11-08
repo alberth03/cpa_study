@@ -1,0 +1,74 @@
+{
+  "id": "far-final-tbs5",
+  "moduleId": 0,
+  "number": 5,
+  "title": "FAR Final TBS Assessment",
+  "fields": [
+    {
+      "id": "far-final-tbs5-net-income",
+      "label": "Item 1 — Adjusted Net Income",
+      "type": "number",
+      "options": [],
+      "legacyKey": "netIncome",
+      "correct": 487000
+    },
+    {
+      "id": "far-final-tbs5-ar",
+      "label": "Item 2 — Ending Accounts Receivable",
+      "type": "number",
+      "options": [],
+      "legacyKey": "ar",
+      "correct": 205000
+    },
+    {
+      "id": "far-final-tbs5-bond",
+      "label": "Item 3 — Ending Bond Carrying Amount",
+      "type": "number",
+      "options": [],
+      "legacyKey": "bond",
+      "correct": 773200
+    },
+    {
+      "id": "far-final-tbs5-cfo",
+      "label": "Item 4 — Net Cash Provided by Operating Activities",
+      "type": "number",
+      "options": [],
+      "legacyKey": "cfo",
+      "correct": 502000
+    },
+    {
+      "id": "far-final-tbs5-restricted",
+      "label": "Item 5 — Ending Net Assets With Donor Restrictions",
+      "type": "number",
+      "options": [],
+      "legacyKey": "restricted",
+      "correct": 85000
+    }
+  ],
+  "html": "<section class=\"exam-page\"> <div class=\"course-intro-card\"> <span class=\"exam-badge\"> TBS 5 OF 7 </span> <h2> Comprehensive FAR Analysis </h2> <p> Complete the following independent year-end analyses using concepts from across the FAR course. </p> </div> <div class=\"course-intro-card\"> <h3> Part A — Financial Statement Adjustments </h3> <p> Meridian Company reports preliminary net income of <strong>$520,000</strong>. </p> <ol> <li> Salaries of <strong>$28,000</strong> have been earned by employees but have not been recorded. </li> <li> Service revenue of <strong>$22,000</strong> has been earned but not recorded. </li> <li> Depreciation expense of <strong>$35,000</strong> has not been recorded. </li> <li> Ending inventory is understated by <strong>$8,000</strong>. </li> </ol> </div> <div class=\"course-intro-card\"> <h3> Item 1 — Adjusted Net Income </h3> <input id=\"far-final-tbs5-net-income\" type=\"number\" placeholder=\"Enter amount\" value=\"\"> </div> <div class=\"course-intro-card\"> <h3> Part B — Accounts Receivable </h3> <p> Beginning Accounts Receivable was <strong>$160,000</strong>. </p> <p> Credit sales were <strong>$850,000</strong> and cash collections were <strong>$805,000</strong>. </p> <p> No receivables were written off. </p> </div> <div class=\"course-intro-card\"> <h3> Item 2 — Ending Accounts Receivable </h3> <input id=\"far-final-tbs5-ar\" type=\"number\" placeholder=\"Enter amount\" value=\"\"> </div> <div class=\"course-intro-card\"> <h3> Part C — Bonds Payable </h3> <p> Bonds have a face amount of <strong>$800,000</strong> and a beginning carrying amount of <strong>$760,000</strong>. </p> <p> The stated annual interest rate is <strong>5%</strong>, the effective annual rate is <strong>7%</strong>, and interest is paid annually. </p> </div> <div class=\"course-intro-card\"> <h3> Item 3 — Ending Bond Carrying Amount </h3> <input id=\"far-final-tbs5-bond\" type=\"number\" placeholder=\"Enter amount\" value=\"\"> </div> <div class=\"course-intro-card\"> <h3> Part D — Statement of Cash Flows </h3> <ul> <li> Net income: <strong>$460,000</strong> </li> <li> Depreciation expense: <strong>$55,000</strong> </li> <li> Accounts Receivable increased: <strong>$18,000</strong> </li> <li> Inventory decreased: <strong>$12,000</strong> </li> <li> Accounts Payable decreased: <strong>$7,000</strong> </li> </ul> </div> <div class=\"course-intro-card\"> <h3> Item 4 — Net Cash Provided by Operating Activities </h3> <input id=\"far-final-tbs5-cfo\" type=\"number\" placeholder=\"Enter amount\" value=\"\"> </div> <div class=\"course-intro-card\"> <h3> Part E — Not-for-Profit Accounting </h3> <p> An NFP begins the year with <strong>$40,000</strong> of net assets with donor restrictions. </p> <p> During the year, it receives an unconditional donor-restricted contribution of <strong>$125,000</strong>. </p> <p> It incurs <strong>$80,000</strong> of qualifying expenditures that satisfy donor restrictions. </p> </div> <div class=\"course-intro-card\"> <h3> Item 5 — Ending Net Assets With Donor Restrictions </h3> <input id=\"far-final-tbs5-restricted\" type=\"number\" placeholder=\"Enter amount\" value=\"\"> </div> </section>",
+  "explanation": "<h3>Adjusted Net Income</h3><p>Start with preliminary net income of $520,000. Subtract $28,000 of unrecorded salaries, add $22,000 of earned service revenue, subtract $35,000 of depreciation, and add $8,000 because understated ending inventory overstated COGS. Adjusted net income is $487,000.</p><h3>Ending Accounts Receivable</h3><p>Ending Accounts Receivable equals beginning Accounts Receivable of $160,000 plus $850,000 of credit sales less $805,000 of collections. Ending Accounts Receivable is $205,000.</p><h3>Ending Bond Carrying Amount</h3><p>Interest expense is $53,200 ($760,000 × 7%). Cash interest is $40,000 ($800,000 × 5%). Discount amortization is therefore $13,200. Adding the amortization to the beginning carrying amount gives an ending carrying amount of $773,200.</p><h3>Cash Flow from Operating Activities</h3><p>Under the indirect method, begin with net income of $460,000, add $55,000 depreciation, subtract the $18,000 increase in Accounts Receivable, add the $12,000 decrease in inventory, and subtract the $7,000 decrease in Accounts Payable. CFO is $502,000.</p><h3>Ending Donor-Restricted Net Assets</h3><p>Beginning donor-restricted net assets of $40,000 plus $125,000 of restricted contributions less $80,000 of qualifying expenditures equals ending donor-restricted net assets of $85,000.</p>",
+  "courseId": "far",
+  "difficulty": "advanced",
+  "metadata": {
+    "section": "far",
+    "blueprintYear": 2026,
+    "areaId": "far-I",
+    "groupId": "module-6",
+    "topicId": "far-far-integrated-financial-statement-review",
+    "taskIds": [
+      "far-far-integrated-financial-statement-review.task-1",
+      "far-far-integrated-financial-statement-review.task-2",
+      "far-far-integrated-financial-statement-review.task-3"
+    ],
+    "skill": "analysis",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      }
+    ]
+  }
+}

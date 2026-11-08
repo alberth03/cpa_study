@@ -1,0 +1,88 @@
+{
+  "id": "intermediate-m9-l5",
+  "courseId": "intermediate",
+  "moduleId": 9,
+  "number": 5,
+  "title": "Accounting Changes & Error Corrections",
+  "description": "Understand changes in accounting principles, estimates and corrections of prior-period errors.",
+  "url": "/learn/intermediate/modules/9/lessons/5",
+  "html": "<h2>Not every accounting change is treated the same</h2> <p> A major exam skill is identifying exactly what type of change occurred. </p> <div class=\"key-points\"> <h3>Main categories</h3> <ul> <li>Change in accounting principle</li> <li>Change in accounting estimate</li> <li>Change in reporting entity</li> <li>Correction of an error</li> </ul> </div> <h2>Change in accounting principle</h2> <p> This occurs when a company changes from one generally accepted accounting principle to another generally accepted accounting principle. </p> <p> When required and practicable, a change in accounting principle is generally applied <strong>retrospectively</strong>. </p> <div class=\"key-points\"> <h3>Retrospective application</h3> <p> Prior-period financial statements presented are generally adjusted as though the new principle had been used in those periods, subject to the applicable guidance and practicability rules. </p> </div> <h2>Change in accounting estimate</h2> <p> Estimates change because new information or experience becomes available. </p> <p> Changes in estimates are generally accounted for <strong>prospectively</strong>. </p> <div class=\"example-box\"> <h3>Example</h3> <p> Equipment originally had an estimated useful life of 10 years. </p> <p> Based on new information, management changes its estimate of the remaining useful life. </p> <p> Prior financial statements are generally not rewritten simply because the estimate changed. </p> <p> The new estimate affects the current and future periods as applicable. </p> </div> <h2>Change in reporting entity</h2> <p> A change in reporting entity generally requires retrospective application to financial statements of prior periods presented. </p> <h2>Error correction</h2> <p> An error is different from a legitimate change in estimate. </p> <p> Examples can include mathematical mistakes, incorrect application of accounting principles, or oversight or misuse of facts that existed when the financial statements were prepared. </p> <div class=\"key-points\"> <h3>Prior-period errors</h3> <p> Material errors in previously issued financial statements generally require correction through restatement of prior-period financial statements when presented, along with the appropriate beginning-equity adjustment when necessary. </p> </div> <h2>Comparison</h2> <div class=\"comparison-grid\"> <div class=\"comparison-card\"> <h3>Principle</h3> <p>Generally retrospective</p> </div> <div class=\"comparison-card\"> <h3>Estimate</h3> <p>Prospective</p> </div> </div> <div class=\"comparison-grid\"> <div class=\"comparison-card\"> <h3>Reporting Entity</h3> <p>Generally retrospective</p> </div> <div class=\"comparison-card\"> <h3>Error</h3> <p>Prior-period correction / restatement</p> </div> </div> <div class=\"key-points\"> <h3>Important warning</h3> <p> Some situations have special guidance. Do not assume that every change involving an accounting method automatically follows the same treatment. </p> </div>",
+  "quiz": {
+    "id": "intermediate-m9-l5-check",
+    "courseId": "intermediate",
+    "moduleId": 9,
+    "lessonId": "intermediate-m9-l5",
+    "topic": "General review",
+    "prompt": "A company revises the estimated remaining useful life of equipment because of new information. How is the change generally accounted for?",
+    "choices": [
+      {
+        "id": "intermediate-m9-l5-check-a0",
+        "text": "Retrospectively by rewriting all prior years"
+      },
+      {
+        "id": "intermediate-m9-l5-check-a1",
+        "text": "Prospectively in the current and future periods affected"
+      },
+      {
+        "id": "intermediate-m9-l5-check-a2",
+        "text": "As a prior-period error"
+      },
+      {
+        "id": "intermediate-m9-l5-check-a3",
+        "text": "By ignoring the new information"
+      }
+    ],
+    "correctChoiceId": "intermediate-m9-l5-check-a1",
+    "explanation": "A revision based on new information is generally a change in accounting estimate and is accounted for prospectively.",
+    "difficulty": "foundation",
+    "metadata": {
+      "section": "intermediate",
+      "blueprintYear": 2026,
+      "areaId": "intermediate-I",
+      "groupId": "module-9",
+      "topicId": "intermediate-accounting-changes-error-corrections",
+      "taskIds": [
+        "intermediate-accounting-changes-error-corrections.task-1",
+        "intermediate-accounting-changes-error-corrections.task-2",
+        "intermediate-accounting-changes-error-corrections.task-3"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "section": "intermediate",
+    "blueprintYear": 2026,
+    "areaId": "intermediate-I",
+    "groupId": "module-9",
+    "topicId": "intermediate-accounting-changes-error-corrections",
+    "taskIds": [
+      "intermediate-accounting-changes-error-corrections.task-1",
+      "intermediate-accounting-changes-error-corrections.task-2",
+      "intermediate-accounting-changes-error-corrections.task-3"
+    ],
+    "skill": "application",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      }
+    ]
+  },
+  "objectives": [
+    "Explain accounting changes & error corrections and its underlying principles.",
+    "Apply the topic to a financial-reporting scenario.",
+    "Evaluate common errors and their financial-statement effects."
+  ]
+}

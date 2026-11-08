@@ -1,0 +1,88 @@
+{
+  "id": "far-m4-l1",
+  "courseId": "far",
+  "moduleId": 4,
+  "number": 1,
+  "title": "Governmental Accounting Foundations",
+  "description": "Learn the purpose, structure, and core concepts of state and local governmental accounting.",
+  "url": "/learn/far/modules/4/lessons/1",
+  "html": "<h2> Why Governmental Accounting Is Different </h2> <p> State and local governments are not primarily designed to generate profit. Their financial reporting emphasizes accountability for public resources and compliance with legal and budgetary requirements. </p> <h2> The Two Reporting Perspectives </h2> <p> Governmental accounting uses two important reporting perspectives: </p> <div class=\"key-points\"> <h3> Fund Financial Statements </h3> <ul> <li> Report financial information by fund or fund category, depending on the applicable presentation requirements. </li> <li> Different fund categories may use different measurement focuses and bases of accounting. </li> <li> Emphasize accountability for specific resources and activities. </li> </ul> </div> <div class=\"key-points\"> <h3> Government-Wide Financial Statements </h3> <ul> <li> Present a broader view of the government's financial position. </li> <li> Use the economic resources measurement focus. </li> <li> Use accrual accounting. </li> </ul> </div> <h2> Three Major Fund Categories </h2> <div class=\"financial-example\"> <div> <span> Governmental Funds </span> <strong> Current Financial Resources + Modified Accrual </strong> </div> <div> <span> Proprietary Funds </span> <strong> Economic Resources + Accrual </strong> </div> <div> <span> Fiduciary Funds </span> <strong> Economic Resources + Accrual </strong> </div> </div> <h2> Governmental Funds </h2> <p> Governmental funds generally focus on <strong>current financial resources</strong>. They use the <strong>modified accrual basis</strong> of accounting. </p> <p> These funds are especially important for understanding how governments finance and provide public services. </p> <h2> Proprietary Funds </h2> <p> Proprietary funds account for activities that operate in a manner similar to businesses. </p> <p> They use the <strong>economic resources measurement focus</strong> and the <strong>accrual basis of accounting</strong>. </p> <h2> Fiduciary Funds </h2> <p> Fiduciary funds account for resources a government holds in a fiduciary capacity for others. </p> <p> They also use the economic resources measurement focus and accrual accounting. Fiduciary activities are generally excluded from government-wide financial statements because those resources are not available to support the government's own programs. </p> <h2> CPA Exam Shortcut </h2> <div class=\"key-points\"> <ul> <li> Governmental fund → current financial resources → modified accrual. </li> <li> Proprietary fund → economic resources → accrual. </li> <li> Fiduciary fund → economic resources → accrual. </li> <li> Government-wide → economic resources → accrual. </li> </ul> </div> <div class=\"formula-box\"> GOVERNMENTAL = Modified Accrual PROPRIETARY + FIDUCIARY = Accrual GOVERNMENT-WIDE = Accrual </div> <h2> Key Takeaway </h2> <p> Before solving a governmental accounting question, first identify <strong>which reporting level or fund category is involved</strong>. That tells you which measurement focus and basis of accounting generally apply. </p>",
+  "quiz": {
+    "id": "far-m4-l1-check",
+    "courseId": "far",
+    "moduleId": 4,
+    "lessonId": "far-m4-l1",
+    "topic": "General review",
+    "prompt": "Which combination correctly describes the accounting used by governmental funds?",
+    "choices": [
+      {
+        "id": "far-m4-l1-check-a0",
+        "text": "Economic resources measurement focus and accrual basis"
+      },
+      {
+        "id": "far-m4-l1-check-a1",
+        "text": "Current financial resources measurement focus and modified accrual basis"
+      },
+      {
+        "id": "far-m4-l1-check-a2",
+        "text": "Current financial resources measurement focus and cash basis"
+      },
+      {
+        "id": "far-m4-l1-check-a3",
+        "text": "Economic resources measurement focus and modified accrual basis"
+      }
+    ],
+    "correctChoiceId": "far-m4-l1-check-a1",
+    "explanation": "Governmental funds use the current financial resources measurement focus and the modified accrual basis of accounting.",
+    "difficulty": "foundation",
+    "metadata": {
+      "section": "far",
+      "blueprintYear": 2026,
+      "areaId": "far-I",
+      "groupId": "module-4",
+      "topicId": "far-governmental-accounting-foundations",
+      "taskIds": [
+        "far-governmental-accounting-foundations.task-1",
+        "far-governmental-accounting-foundations.task-2",
+        "far-governmental-accounting-foundations.task-3"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "section": "far",
+    "blueprintYear": 2026,
+    "areaId": "far-I",
+    "groupId": "module-4",
+    "topicId": "far-governmental-accounting-foundations",
+    "taskIds": [
+      "far-governmental-accounting-foundations.task-1",
+      "far-governmental-accounting-foundations.task-2",
+      "far-governmental-accounting-foundations.task-3"
+    ],
+    "skill": "application",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      }
+    ]
+  },
+  "objectives": [
+    "Explain governmental accounting foundations and its underlying principles.",
+    "Apply the topic to a financial-reporting scenario.",
+    "Evaluate common errors and their financial-statement effects."
+  ]
+}

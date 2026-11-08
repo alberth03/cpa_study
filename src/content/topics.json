@@ -1,0 +1,5006 @@
+[
+  {
+    "id": "fundamentals-what-is-accounting",
+    "section": "fundamentals",
+    "areaId": "fundamentals-I",
+    "groupId": "module-0",
+    "title": "What Is Accounting?",
+    "lessonId": "fundamentals-l1",
+    "taskIds": [
+      "fundamentals-what-is-accounting.task-1",
+      "fundamentals-what-is-accounting.task-2",
+      "fundamentals-what-is-accounting.task-3"
+    ],
+    "objectives": [
+      "Explain what is accounting? and its underlying principles.",
+      "Apply the topic to a financial-reporting scenario.",
+      "Evaluate common errors and their financial-statement effects."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "fundamentals-l1"
+    ],
+    "groupIds": [
+      "module-0"
+    ]
+  },
+  {
+    "id": "fundamentals-the-accounting-equation",
+    "section": "fundamentals",
+    "areaId": "fundamentals-I",
+    "groupId": "module-0",
+    "title": "The Accounting Equation",
+    "lessonId": "fundamentals-l2",
+    "taskIds": [
+      "fundamentals-the-accounting-equation.task-1",
+      "fundamentals-the-accounting-equation.task-2",
+      "fundamentals-the-accounting-equation.task-3"
+    ],
+    "objectives": [
+      "Explain the accounting equation and its underlying principles.",
+      "Apply the topic to a financial-reporting scenario.",
+      "Evaluate common errors and their financial-statement effects."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "fundamentals-l2"
+    ],
+    "groupIds": [
+      "module-0"
+    ]
+  },
+  {
+    "id": "fundamentals-accounts-and-account-types",
+    "section": "fundamentals",
+    "areaId": "fundamentals-I",
+    "groupId": "module-0",
+    "title": "Accounts and Account Types",
+    "lessonId": "fundamentals-l3",
+    "taskIds": [
+      "fundamentals-accounts-and-account-types.task-1",
+      "fundamentals-accounts-and-account-types.task-2",
+      "fundamentals-accounts-and-account-types.task-3"
+    ],
+    "objectives": [
+      "Explain accounts and account types and its underlying principles.",
+      "Apply the topic to a financial-reporting scenario.",
+      "Evaluate common errors and their financial-statement effects."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "fundamentals-l3"
+    ],
+    "groupIds": [
+      "module-0"
+    ]
+  },
+  {
+    "id": "fundamentals-debits-and-credits",
+    "section": "fundamentals",
+    "areaId": "fundamentals-I",
+    "groupId": "module-0",
+    "title": "Debits and Credits",
+    "lessonId": "fundamentals-l4",
+    "taskIds": [
+      "fundamentals-debits-and-credits.task-1",
+      "fundamentals-debits-and-credits.task-2",
+      "fundamentals-debits-and-credits.task-3"
+    ],
+    "objectives": [
+      "Explain debits and credits and its underlying principles.",
+      "Apply the topic to a financial-reporting scenario.",
+      "Evaluate common errors and their financial-statement effects."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "fundamentals-l4"
+    ],
+    "groupIds": [
+      "module-0"
+    ]
+  },
+  {
+    "id": "fundamentals-t-accounts",
+    "section": "fundamentals",
+    "areaId": "fundamentals-I",
+    "groupId": "module-0",
+    "title": "T-Accounts",
+    "lessonId": "fundamentals-l5",
+    "taskIds": [
+      "fundamentals-t-accounts.task-1",
+      "fundamentals-t-accounts.task-2",
+      "fundamentals-t-accounts.task-3"
+    ],
+    "objectives": [
+      "Explain t-accounts and its underlying principles.",
+      "Apply the topic to a financial-reporting scenario.",
+      "Evaluate common errors and their financial-statement effects."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "fundamentals-l5"
+    ],
+    "groupIds": [
+      "module-0"
+    ]
+  },
+  {
+    "id": "fundamentals-journal-entries",
+    "section": "fundamentals",
+    "areaId": "fundamentals-I",
+    "groupId": "module-0",
+    "title": "Journal Entries",
+    "lessonId": "fundamentals-l6",
+    "taskIds": [
+      "fundamentals-journal-entries.task-1",
+      "fundamentals-journal-entries.task-2",
+      "fundamentals-journal-entries.task-3"
+    ],
+    "objectives": [
+      "Explain journal entries and its underlying principles.",
+      "Apply the topic to a financial-reporting scenario.",
+      "Evaluate common errors and their financial-statement effects."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "fundamentals-l6"
+    ],
+    "groupIds": [
+      "module-0"
+    ]
+  },
+  {
+    "id": "fundamentals-the-general-ledger",
+    "section": "fundamentals",
+    "areaId": "fundamentals-I",
+    "groupId": "module-0",
+    "title": "The General Ledger",
+    "lessonId": "fundamentals-l7",
+    "taskIds": [
+      "fundamentals-the-general-ledger.task-1",
+      "fundamentals-the-general-ledger.task-2",
+      "fundamentals-the-general-ledger.task-3"
+    ],
+    "objectives": [
+      "Explain the general ledger and its underlying principles.",
+      "Apply the topic to a financial-reporting scenario.",
+      "Evaluate common errors and their financial-statement effects."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "fundamentals-l7"
+    ],
+    "groupIds": [
+      "module-0"
+    ]
+  },
+  {
+    "id": "fundamentals-trial-balance",
+    "section": "fundamentals",
+    "areaId": "fundamentals-I",
+    "groupId": "module-0",
+    "title": "Trial Balance",
+    "lessonId": "fundamentals-l8",
+    "taskIds": [
+      "fundamentals-trial-balance.task-1",
+      "fundamentals-trial-balance.task-2",
+      "fundamentals-trial-balance.task-3"
+    ],
+    "objectives": [
+      "Explain trial balance and its underlying principles.",
+      "Apply the topic to a financial-reporting scenario.",
+      "Evaluate common errors and their financial-statement effects."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "fundamentals-l8"
+    ],
+    "groupIds": [
+      "module-0"
+    ]
+  },
+  {
+    "id": "fundamentals-adjusting-entries",
+    "section": "fundamentals",
+    "areaId": "fundamentals-I",
+    "groupId": "module-0",
+    "title": "Adjusting Entries",
+    "lessonId": "fundamentals-l9",
+    "taskIds": [
+      "fundamentals-adjusting-entries.task-1",
+      "fundamentals-adjusting-entries.task-2",
+      "fundamentals-adjusting-entries.task-3"
+    ],
+    "objectives": [
+      "Explain adjusting entries and its underlying principles.",
+      "Apply the topic to a financial-reporting scenario.",
+      "Evaluate common errors and their financial-statement effects."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "fundamentals-l9"
+    ],
+    "groupIds": [
+      "module-0"
+    ]
+  },
+  {
+    "id": "fundamentals-financial-statements",
+    "section": "fundamentals",
+    "areaId": "fundamentals-I",
+    "groupId": "module-0",
+    "title": "Financial Statements",
+    "lessonId": "fundamentals-l10",
+    "taskIds": [
+      "fundamentals-financial-statements.task-1",
+      "fundamentals-financial-statements.task-2",
+      "fundamentals-financial-statements.task-3"
+    ],
+    "objectives": [
+      "Explain financial statements and its underlying principles.",
+      "Apply the topic to a financial-reporting scenario.",
+      "Evaluate common errors and their financial-statement effects."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "fundamentals-l10"
+    ],
+    "groupIds": [
+      "module-0"
+    ]
+  },
+  {
+    "id": "intermediate-financial-reporting-environment",
+    "section": "intermediate",
+    "areaId": "intermediate-I",
+    "groupId": "module-1",
+    "title": "Financial Reporting Environment",
+    "lessonId": "intermediate-m1-l1",
+    "taskIds": [
+      "intermediate-financial-reporting-environment.task-1",
+      "intermediate-financial-reporting-environment.task-2",
+      "intermediate-financial-reporting-environment.task-3"
+    ],
+    "objectives": [
+      "Explain financial reporting environment and its underlying principles.",
+      "Apply the topic to a financial-reporting scenario.",
+      "Evaluate common errors and their financial-statement effects."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "intermediate-m1-l1"
+    ],
+    "groupIds": [
+      "module-1"
+    ]
+  },
+  {
+    "id": "intermediate-accrual-accounting",
+    "section": "intermediate",
+    "areaId": "intermediate-I",
+    "groupId": "module-1",
+    "title": "Accrual Accounting",
+    "lessonId": "intermediate-m1-l2",
+    "taskIds": [
+      "intermediate-accrual-accounting.task-1",
+      "intermediate-accrual-accounting.task-2",
+      "intermediate-accrual-accounting.task-3"
+    ],
+    "objectives": [
+      "Explain accrual accounting and its underlying principles.",
+      "Apply the topic to a financial-reporting scenario.",
+      "Evaluate common errors and their financial-statement effects."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "intermediate-m1-l2"
+    ],
+    "groupIds": [
+      "module-1"
+    ]
+  },
+  {
+    "id": "intermediate-qualitative-characteristics",
+    "section": "intermediate",
+    "areaId": "intermediate-I",
+    "groupId": "module-1",
+    "title": "Qualitative Characteristics",
+    "lessonId": "intermediate-m1-l3",
+    "taskIds": [
+      "intermediate-qualitative-characteristics.task-1",
+      "intermediate-qualitative-characteristics.task-2",
+      "intermediate-qualitative-characteristics.task-3"
+    ],
+    "objectives": [
+      "Explain qualitative characteristics and its underlying principles.",
+      "Apply the topic to a financial-reporting scenario.",
+      "Evaluate common errors and their financial-statement effects."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "intermediate-m1-l3"
+    ],
+    "groupIds": [
+      "module-1"
+    ]
+  },
+  {
+    "id": "intermediate-elements-of-financial-statements",
+    "section": "intermediate",
+    "areaId": "intermediate-I",
+    "groupId": "module-1",
+    "title": "Elements of Financial Statements",
+    "lessonId": "intermediate-m1-l4",
+    "taskIds": [
+      "intermediate-elements-of-financial-statements.task-1",
+      "intermediate-elements-of-financial-statements.task-2",
+      "intermediate-elements-of-financial-statements.task-3"
+    ],
+    "objectives": [
+      "Explain elements of financial statements and its underlying principles.",
+      "Apply the topic to a financial-reporting scenario.",
+      "Evaluate common errors and their financial-statement effects."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "intermediate-m1-l4"
+    ],
+    "groupIds": [
+      "module-1"
+    ]
+  },
+  {
+    "id": "intermediate-present-value-basics",
+    "section": "intermediate",
+    "areaId": "intermediate-I",
+    "groupId": "module-1",
+    "title": "Present Value Basics",
+    "lessonId": "intermediate-m1-l5",
+    "taskIds": [
+      "intermediate-present-value-basics.task-1",
+      "intermediate-present-value-basics.task-2",
+      "intermediate-present-value-basics.task-3"
+    ],
+    "objectives": [
+      "Explain present value basics and its underlying principles.",
+      "Apply the topic to a financial-reporting scenario.",
+      "Evaluate common errors and their financial-statement effects."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "intermediate-m1-l5"
+    ],
+    "groupIds": [
+      "module-1"
+    ]
+  },
+  {
+    "id": "intermediate-cash-cash-equivalents",
+    "section": "intermediate",
+    "areaId": "intermediate-I",
+    "groupId": "module-2",
+    "title": "Cash & Cash Equivalents",
+    "lessonId": "intermediate-m2-l1",
+    "taskIds": [
+      "intermediate-cash-cash-equivalents.task-1",
+      "intermediate-cash-cash-equivalents.task-2",
+      "intermediate-cash-cash-equivalents.task-3"
+    ],
+    "objectives": [
+      "Explain cash & cash equivalents and its underlying principles.",
+      "Apply the topic to a financial-reporting scenario.",
+      "Evaluate common errors and their financial-statement effects."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "intermediate-m2-l1"
+    ],
+    "groupIds": [
+      "module-2"
+    ]
+  },
+  {
+    "id": "intermediate-bank-reconciliation",
+    "section": "intermediate",
+    "areaId": "intermediate-I",
+    "groupId": "module-2",
+    "title": "Bank Reconciliation",
+    "lessonId": "intermediate-m2-l2",
+    "taskIds": [
+      "intermediate-bank-reconciliation.task-1",
+      "intermediate-bank-reconciliation.task-2",
+      "intermediate-bank-reconciliation.task-3"
+    ],
+    "objectives": [
+      "Explain bank reconciliation and its underlying principles.",
+      "Apply the topic to a financial-reporting scenario.",
+      "Evaluate common errors and their financial-statement effects."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "intermediate-m2-l2"
+    ],
+    "groupIds": [
+      "module-2"
+    ]
+  },
+  {
+    "id": "intermediate-accounts-receivable",
+    "section": "intermediate",
+    "areaId": "intermediate-I",
+    "groupId": "module-2",
+    "title": "Accounts Receivable",
+    "lessonId": "intermediate-m2-l3",
+    "taskIds": [
+      "intermediate-accounts-receivable.task-1",
+      "intermediate-accounts-receivable.task-2",
+      "intermediate-accounts-receivable.task-3"
+    ],
+    "objectives": [
+      "Explain accounts receivable and its underlying principles.",
+      "Apply the topic to a financial-reporting scenario.",
+      "Evaluate common errors and their financial-statement effects."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "intermediate-m2-l3"
+    ],
+    "groupIds": [
+      "module-2"
+    ]
+  },
+  {
+    "id": "intermediate-credit-losses-allowance-method",
+    "section": "intermediate",
+    "areaId": "intermediate-I",
+    "groupId": "module-2",
+    "title": "Credit Losses & Allowance Method",
+    "lessonId": "intermediate-m2-l4",
+    "taskIds": [
+      "intermediate-credit-losses-allowance-method.task-1",
+      "intermediate-credit-losses-allowance-method.task-2",
+      "intermediate-credit-losses-allowance-method.task-3"
+    ],
+    "objectives": [
+      "Explain credit losses & allowance method and its underlying principles.",
+      "Apply the topic to a financial-reporting scenario.",
+      "Evaluate common errors and their financial-statement effects."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "intermediate-m2-l4"
+    ],
+    "groupIds": [
+      "module-2"
+    ]
+  },
+  {
+    "id": "intermediate-notes-receivable",
+    "section": "intermediate",
+    "areaId": "intermediate-I",
+    "groupId": "module-2",
+    "title": "Notes Receivable",
+    "lessonId": "intermediate-m2-l5",
+    "taskIds": [
+      "intermediate-notes-receivable.task-1",
+      "intermediate-notes-receivable.task-2",
+      "intermediate-notes-receivable.task-3"
+    ],
+    "objectives": [
+      "Explain notes receivable and its underlying principles.",
+      "Apply the topic to a financial-reporting scenario.",
+      "Evaluate common errors and their financial-statement effects."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "intermediate-m2-l5"
+    ],
+    "groupIds": [
+      "module-2"
+    ]
+  },
+  {
+    "id": "intermediate-inventory-basics-systems",
+    "section": "intermediate",
+    "areaId": "intermediate-I",
+    "groupId": "module-3",
+    "title": "Inventory Basics & Systems",
+    "lessonId": "intermediate-m3-l1",
+    "taskIds": [
+      "intermediate-inventory-basics-systems.task-1",
+      "intermediate-inventory-basics-systems.task-2",
+      "intermediate-inventory-basics-systems.task-3"
+    ],
+    "objectives": [
+      "Explain inventory basics & systems and its underlying principles.",
+      "Apply the topic to a financial-reporting scenario.",
+      "Evaluate common errors and their financial-statement effects."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "intermediate-m3-l1"
+    ],
+    "groupIds": [
+      "module-3"
+    ]
+  },
+  {
+    "id": "intermediate-fifo",
+    "section": "intermediate",
+    "areaId": "intermediate-I",
+    "groupId": "module-3",
+    "title": "FIFO",
+    "lessonId": "intermediate-m3-l2",
+    "taskIds": [
+      "intermediate-fifo.task-1",
+      "intermediate-fifo.task-2",
+      "intermediate-fifo.task-3"
+    ],
+    "objectives": [
+      "Explain fifo and its underlying principles.",
+      "Apply the topic to a financial-reporting scenario.",
+      "Evaluate common errors and their financial-statement effects."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "intermediate-m3-l2"
+    ],
+    "groupIds": [
+      "module-3"
+    ]
+  },
+  {
+    "id": "intermediate-lifo",
+    "section": "intermediate",
+    "areaId": "intermediate-I",
+    "groupId": "module-3",
+    "title": "LIFO",
+    "lessonId": "intermediate-m3-l3",
+    "taskIds": [
+      "intermediate-lifo.task-1",
+      "intermediate-lifo.task-2",
+      "intermediate-lifo.task-3"
+    ],
+    "objectives": [
+      "Explain lifo and its underlying principles.",
+      "Apply the topic to a financial-reporting scenario.",
+      "Evaluate common errors and their financial-statement effects."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "intermediate-m3-l3"
+    ],
+    "groupIds": [
+      "module-3"
+    ]
+  },
+  {
+    "id": "intermediate-weighted-average-cost",
+    "section": "intermediate",
+    "areaId": "intermediate-I",
+    "groupId": "module-3",
+    "title": "Weighted-Average Cost",
+    "lessonId": "intermediate-m3-l4",
+    "taskIds": [
+      "intermediate-weighted-average-cost.task-1",
+      "intermediate-weighted-average-cost.task-2",
+      "intermediate-weighted-average-cost.task-3"
+    ],
+    "objectives": [
+      "Explain weighted-average cost and its underlying principles.",
+      "Apply the topic to a financial-reporting scenario.",
+      "Evaluate common errors and their financial-statement effects."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "intermediate-m3-l4"
+    ],
+    "groupIds": [
+      "module-3"
+    ]
+  },
+  {
+    "id": "intermediate-inventory-valuation-errors",
+    "section": "intermediate",
+    "areaId": "intermediate-I",
+    "groupId": "module-3",
+    "title": "Inventory Valuation & Errors",
+    "lessonId": "intermediate-m3-l5",
+    "taskIds": [
+      "intermediate-inventory-valuation-errors.task-1",
+      "intermediate-inventory-valuation-errors.task-2",
+      "intermediate-inventory-valuation-errors.task-3"
+    ],
+    "objectives": [
+      "Explain inventory valuation & errors and its underlying principles.",
+      "Apply the topic to a financial-reporting scenario.",
+      "Evaluate common errors and their financial-statement effects."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "intermediate-m3-l5"
+    ],
+    "groupIds": [
+      "module-3"
+    ]
+  },
+  {
+    "id": "intermediate-ppe-acquisition-capitalization",
+    "section": "intermediate",
+    "areaId": "intermediate-I",
+    "groupId": "module-4",
+    "title": "PPE Acquisition & Capitalization",
+    "lessonId": "intermediate-m4-l1",
+    "taskIds": [
+      "intermediate-ppe-acquisition-capitalization.task-1",
+      "intermediate-ppe-acquisition-capitalization.task-2",
+      "intermediate-ppe-acquisition-capitalization.task-3"
+    ],
+    "objectives": [
+      "Explain ppe acquisition & capitalization and its underlying principles.",
+      "Apply the topic to a financial-reporting scenario.",
+      "Evaluate common errors and their financial-statement effects."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "intermediate-m4-l1"
+    ],
+    "groupIds": [
+      "module-4"
+    ]
+  },
+  {
+    "id": "intermediate-depreciation-methods",
+    "section": "intermediate",
+    "areaId": "intermediate-I",
+    "groupId": "module-4",
+    "title": "Depreciation Methods",
+    "lessonId": "intermediate-m4-l2",
+    "taskIds": [
+      "intermediate-depreciation-methods.task-1",
+      "intermediate-depreciation-methods.task-2",
+      "intermediate-depreciation-methods.task-3"
+    ],
+    "objectives": [
+      "Explain depreciation methods and its underlying principles.",
+      "Apply the topic to a financial-reporting scenario.",
+      "Evaluate common errors and their financial-statement effects."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "intermediate-m4-l2"
+    ],
+    "groupIds": [
+      "module-4"
+    ]
+  },
+  {
+    "id": "intermediate-changes-in-depreciation-estimates",
+    "section": "intermediate",
+    "areaId": "intermediate-I",
+    "groupId": "module-4",
+    "title": "Changes in Depreciation Estimates",
+    "lessonId": "intermediate-m4-l3",
+    "taskIds": [
+      "intermediate-changes-in-depreciation-estimates.task-1",
+      "intermediate-changes-in-depreciation-estimates.task-2",
+      "intermediate-changes-in-depreciation-estimates.task-3"
+    ],
+    "objectives": [
+      "Explain changes in depreciation estimates and its underlying principles.",
+      "Apply the topic to a financial-reporting scenario.",
+      "Evaluate common errors and their financial-statement effects."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "intermediate-m4-l3"
+    ],
+    "groupIds": [
+      "module-4"
+    ]
+  },
+  {
+    "id": "intermediate-disposal-of-ppe",
+    "section": "intermediate",
+    "areaId": "intermediate-I",
+    "groupId": "module-4",
+    "title": "Disposal of PPE",
+    "lessonId": "intermediate-m4-l4",
+    "taskIds": [
+      "intermediate-disposal-of-ppe.task-1",
+      "intermediate-disposal-of-ppe.task-2",
+      "intermediate-disposal-of-ppe.task-3"
+    ],
+    "objectives": [
+      "Explain disposal of ppe and its underlying principles.",
+      "Apply the topic to a financial-reporting scenario.",
+      "Evaluate common errors and their financial-statement effects."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "intermediate-m4-l4"
+    ],
+    "groupIds": [
+      "module-4"
+    ]
+  },
+  {
+    "id": "intermediate-impairment-asset-retirement-concepts",
+    "section": "intermediate",
+    "areaId": "intermediate-I",
+    "groupId": "module-4",
+    "title": "Impairment & Asset Retirement Concepts",
+    "lessonId": "intermediate-m4-l5",
+    "taskIds": [
+      "intermediate-impairment-asset-retirement-concepts.task-1",
+      "intermediate-impairment-asset-retirement-concepts.task-2",
+      "intermediate-impairment-asset-retirement-concepts.task-3"
+    ],
+    "objectives": [
+      "Explain impairment & asset retirement concepts and its underlying principles.",
+      "Apply the topic to a financial-reporting scenario.",
+      "Evaluate common errors and their financial-statement effects."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "intermediate-m4-l5"
+    ],
+    "groupIds": [
+      "module-4"
+    ]
+  },
+  {
+    "id": "intermediate-current-liabilities-accruals",
+    "section": "intermediate",
+    "areaId": "intermediate-I",
+    "groupId": "module-5",
+    "title": "Current Liabilities & Accruals",
+    "lessonId": "intermediate-m5-l1",
+    "taskIds": [
+      "intermediate-current-liabilities-accruals.task-1",
+      "intermediate-current-liabilities-accruals.task-2",
+      "intermediate-current-liabilities-accruals.task-3"
+    ],
+    "objectives": [
+      "Explain current liabilities & accruals and its underlying principles.",
+      "Apply the topic to a financial-reporting scenario.",
+      "Evaluate common errors and their financial-statement effects."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "intermediate-m5-l1"
+    ],
+    "groupIds": [
+      "module-5"
+    ]
+  },
+  {
+    "id": "intermediate-contingencies-commitments",
+    "section": "intermediate",
+    "areaId": "intermediate-I",
+    "groupId": "module-5",
+    "title": "Contingencies & Commitments",
+    "lessonId": "intermediate-m5-l2",
+    "taskIds": [
+      "intermediate-contingencies-commitments.task-1",
+      "intermediate-contingencies-commitments.task-2",
+      "intermediate-contingencies-commitments.task-3"
+    ],
+    "objectives": [
+      "Explain contingencies & commitments and its underlying principles.",
+      "Apply the topic to a financial-reporting scenario.",
+      "Evaluate common errors and their financial-statement effects."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "intermediate-m5-l2"
+    ],
+    "groupIds": [
+      "module-5"
+    ]
+  },
+  {
+    "id": "intermediate-bond-basics",
+    "section": "intermediate",
+    "areaId": "intermediate-I",
+    "groupId": "module-5",
+    "title": "Bond Basics",
+    "lessonId": "intermediate-m5-l3",
+    "taskIds": [
+      "intermediate-bond-basics.task-1",
+      "intermediate-bond-basics.task-2",
+      "intermediate-bond-basics.task-3"
+    ],
+    "objectives": [
+      "Explain bond basics and its underlying principles.",
+      "Apply the topic to a financial-reporting scenario.",
+      "Evaluate common errors and their financial-statement effects."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "intermediate-m5-l3"
+    ],
+    "groupIds": [
+      "module-5"
+    ]
+  },
+  {
+    "id": "intermediate-bond-premiums-discounts",
+    "section": "intermediate",
+    "areaId": "intermediate-I",
+    "groupId": "module-5",
+    "title": "Bond Premiums & Discounts",
+    "lessonId": "intermediate-m5-l4",
+    "taskIds": [
+      "intermediate-bond-premiums-discounts.task-1",
+      "intermediate-bond-premiums-discounts.task-2",
+      "intermediate-bond-premiums-discounts.task-3"
+    ],
+    "objectives": [
+      "Explain bond premiums & discounts and its underlying principles.",
+      "Apply the topic to a financial-reporting scenario.",
+      "Evaluate common errors and their financial-statement effects."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "intermediate-m5-l4"
+    ],
+    "groupIds": [
+      "module-5"
+    ]
+  },
+  {
+    "id": "intermediate-effective-interest-amortization",
+    "section": "intermediate",
+    "areaId": "intermediate-I",
+    "groupId": "module-5",
+    "title": "Effective-Interest Amortization",
+    "lessonId": "intermediate-m5-l5",
+    "taskIds": [
+      "intermediate-effective-interest-amortization.task-1",
+      "intermediate-effective-interest-amortization.task-2",
+      "intermediate-effective-interest-amortization.task-3"
+    ],
+    "objectives": [
+      "Explain effective-interest amortization and its underlying principles.",
+      "Apply the topic to a financial-reporting scenario.",
+      "Evaluate common errors and their financial-statement effects."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "intermediate-m5-l5"
+    ],
+    "groupIds": [
+      "module-5"
+    ]
+  },
+  {
+    "id": "intermediate-revenue-recognition-overview",
+    "section": "intermediate",
+    "areaId": "intermediate-I",
+    "groupId": "module-6",
+    "title": "Revenue Recognition Overview",
+    "lessonId": "intermediate-m6-l1",
+    "taskIds": [
+      "intermediate-revenue-recognition-overview.task-1",
+      "intermediate-revenue-recognition-overview.task-2",
+      "intermediate-revenue-recognition-overview.task-3"
+    ],
+    "objectives": [
+      "Explain revenue recognition overview and its underlying principles.",
+      "Apply the topic to a financial-reporting scenario.",
+      "Evaluate common errors and their financial-statement effects."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "intermediate-m6-l1"
+    ],
+    "groupIds": [
+      "module-6"
+    ]
+  },
+  {
+    "id": "intermediate-contracts-performance-obligations",
+    "section": "intermediate",
+    "areaId": "intermediate-I",
+    "groupId": "module-6",
+    "title": "Contracts & Performance Obligations",
+    "lessonId": "intermediate-m6-l2",
+    "taskIds": [
+      "intermediate-contracts-performance-obligations.task-1",
+      "intermediate-contracts-performance-obligations.task-2",
+      "intermediate-contracts-performance-obligations.task-3"
+    ],
+    "objectives": [
+      "Explain contracts & performance obligations and its underlying principles.",
+      "Apply the topic to a financial-reporting scenario.",
+      "Evaluate common errors and their financial-statement effects."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "intermediate-m6-l2"
+    ],
+    "groupIds": [
+      "module-6"
+    ]
+  },
+  {
+    "id": "intermediate-determining-transaction-price",
+    "section": "intermediate",
+    "areaId": "intermediate-I",
+    "groupId": "module-6",
+    "title": "Determining Transaction Price",
+    "lessonId": "intermediate-m6-l3",
+    "taskIds": [
+      "intermediate-determining-transaction-price.task-1",
+      "intermediate-determining-transaction-price.task-2",
+      "intermediate-determining-transaction-price.task-3"
+    ],
+    "objectives": [
+      "Explain determining transaction price and its underlying principles.",
+      "Apply the topic to a financial-reporting scenario.",
+      "Evaluate common errors and their financial-statement effects."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "intermediate-m6-l3"
+    ],
+    "groupIds": [
+      "module-6"
+    ]
+  },
+  {
+    "id": "intermediate-allocating-transaction-price",
+    "section": "intermediate",
+    "areaId": "intermediate-I",
+    "groupId": "module-6",
+    "title": "Allocating Transaction Price",
+    "lessonId": "intermediate-m6-l4",
+    "taskIds": [
+      "intermediate-allocating-transaction-price.task-1",
+      "intermediate-allocating-transaction-price.task-2",
+      "intermediate-allocating-transaction-price.task-3"
+    ],
+    "objectives": [
+      "Explain allocating transaction price and its underlying principles.",
+      "Apply the topic to a financial-reporting scenario.",
+      "Evaluate common errors and their financial-statement effects."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "intermediate-m6-l4"
+    ],
+    "groupIds": [
+      "module-6"
+    ]
+  },
+  {
+    "id": "intermediate-recognizing-revenue",
+    "section": "intermediate",
+    "areaId": "intermediate-I",
+    "groupId": "module-6",
+    "title": "Recognizing Revenue",
+    "lessonId": "intermediate-m6-l5",
+    "taskIds": [
+      "intermediate-recognizing-revenue.task-1",
+      "intermediate-recognizing-revenue.task-2",
+      "intermediate-recognizing-revenue.task-3"
+    ],
+    "objectives": [
+      "Explain recognizing revenue and its underlying principles.",
+      "Apply the topic to a financial-reporting scenario.",
+      "Evaluate common errors and their financial-statement effects."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "intermediate-m6-l5"
+    ],
+    "groupIds": [
+      "module-6"
+    ]
+  },
+  {
+    "id": "intermediate-lease-fundamentals",
+    "section": "intermediate",
+    "areaId": "intermediate-I",
+    "groupId": "module-7",
+    "title": "Lease Fundamentals",
+    "lessonId": "intermediate-m7-l1",
+    "taskIds": [
+      "intermediate-lease-fundamentals.task-1",
+      "intermediate-lease-fundamentals.task-2",
+      "intermediate-lease-fundamentals.task-3"
+    ],
+    "objectives": [
+      "Explain lease fundamentals and its underlying principles.",
+      "Apply the topic to a financial-reporting scenario.",
+      "Evaluate common errors and their financial-statement effects."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "intermediate-m7-l1"
+    ],
+    "groupIds": [
+      "module-7"
+    ]
+  },
+  {
+    "id": "intermediate-finance-vs-operating-leases",
+    "section": "intermediate",
+    "areaId": "intermediate-I",
+    "groupId": "module-7",
+    "title": "Finance vs Operating Leases",
+    "lessonId": "intermediate-m7-l2",
+    "taskIds": [
+      "intermediate-finance-vs-operating-leases.task-1",
+      "intermediate-finance-vs-operating-leases.task-2",
+      "intermediate-finance-vs-operating-leases.task-3"
+    ],
+    "objectives": [
+      "Explain finance vs operating leases and its underlying principles.",
+      "Apply the topic to a financial-reporting scenario.",
+      "Evaluate common errors and their financial-statement effects."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "intermediate-m7-l2"
+    ],
+    "groupIds": [
+      "module-7"
+    ]
+  },
+  {
+    "id": "intermediate-initial-lease-measurement",
+    "section": "intermediate",
+    "areaId": "intermediate-I",
+    "groupId": "module-7",
+    "title": "Initial Lease Measurement",
+    "lessonId": "intermediate-m7-l3",
+    "taskIds": [
+      "intermediate-initial-lease-measurement.task-1",
+      "intermediate-initial-lease-measurement.task-2",
+      "intermediate-initial-lease-measurement.task-3"
+    ],
+    "objectives": [
+      "Explain initial lease measurement and its underlying principles.",
+      "Apply the topic to a financial-reporting scenario.",
+      "Evaluate common errors and their financial-statement effects."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "intermediate-m7-l3"
+    ],
+    "groupIds": [
+      "module-7"
+    ]
+  },
+  {
+    "id": "intermediate-finance-lease-subsequent-accounting",
+    "section": "intermediate",
+    "areaId": "intermediate-I",
+    "groupId": "module-7",
+    "title": "Finance Lease Subsequent Accounting",
+    "lessonId": "intermediate-m7-l4",
+    "taskIds": [
+      "intermediate-finance-lease-subsequent-accounting.task-1",
+      "intermediate-finance-lease-subsequent-accounting.task-2",
+      "intermediate-finance-lease-subsequent-accounting.task-3"
+    ],
+    "objectives": [
+      "Explain finance lease subsequent accounting and its underlying principles.",
+      "Apply the topic to a financial-reporting scenario.",
+      "Evaluate common errors and their financial-statement effects."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "intermediate-m7-l4"
+    ],
+    "groupIds": [
+      "module-7"
+    ]
+  },
+  {
+    "id": "intermediate-operating-lease-subsequent-accounting",
+    "section": "intermediate",
+    "areaId": "intermediate-I",
+    "groupId": "module-7",
+    "title": "Operating Lease Subsequent Accounting",
+    "lessonId": "intermediate-m7-l5",
+    "taskIds": [
+      "intermediate-operating-lease-subsequent-accounting.task-1",
+      "intermediate-operating-lease-subsequent-accounting.task-2",
+      "intermediate-operating-lease-subsequent-accounting.task-3"
+    ],
+    "objectives": [
+      "Explain operating lease subsequent accounting and its underlying principles.",
+      "Apply the topic to a financial-reporting scenario.",
+      "Evaluate common errors and their financial-statement effects."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "intermediate-m7-l5"
+    ],
+    "groupIds": [
+      "module-7"
+    ]
+  },
+  {
+    "id": "intermediate-stockholders-equity-fundamentals",
+    "section": "intermediate",
+    "areaId": "intermediate-I",
+    "groupId": "module-8",
+    "title": "Stockholders' Equity Fundamentals",
+    "lessonId": "intermediate-m8-l1",
+    "taskIds": [
+      "intermediate-stockholders-equity-fundamentals.task-1",
+      "intermediate-stockholders-equity-fundamentals.task-2",
+      "intermediate-stockholders-equity-fundamentals.task-3"
+    ],
+    "objectives": [
+      "Explain stockholders' equity fundamentals and its underlying principles.",
+      "Apply the topic to a financial-reporting scenario.",
+      "Evaluate common errors and their financial-statement effects."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "intermediate-m8-l1"
+    ],
+    "groupIds": [
+      "module-8"
+    ]
+  },
+  {
+    "id": "intermediate-common-preferred-stock",
+    "section": "intermediate",
+    "areaId": "intermediate-I",
+    "groupId": "module-8",
+    "title": "Common & Preferred Stock",
+    "lessonId": "intermediate-m8-l2",
+    "taskIds": [
+      "intermediate-common-preferred-stock.task-1",
+      "intermediate-common-preferred-stock.task-2",
+      "intermediate-common-preferred-stock.task-3"
+    ],
+    "objectives": [
+      "Explain common & preferred stock and its underlying principles.",
+      "Apply the topic to a financial-reporting scenario.",
+      "Evaluate common errors and their financial-statement effects."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "intermediate-m8-l2"
+    ],
+    "groupIds": [
+      "module-8"
+    ]
+  },
+  {
+    "id": "intermediate-treasury-stock-dividends",
+    "section": "intermediate",
+    "areaId": "intermediate-I",
+    "groupId": "module-8",
+    "title": "Treasury Stock & Dividends",
+    "lessonId": "intermediate-m8-l3",
+    "taskIds": [
+      "intermediate-treasury-stock-dividends.task-1",
+      "intermediate-treasury-stock-dividends.task-2",
+      "intermediate-treasury-stock-dividends.task-3"
+    ],
+    "objectives": [
+      "Explain treasury stock & dividends and its underlying principles.",
+      "Apply the topic to a financial-reporting scenario.",
+      "Evaluate common errors and their financial-statement effects."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "intermediate-m8-l3"
+    ],
+    "groupIds": [
+      "module-8"
+    ]
+  },
+  {
+    "id": "intermediate-basic-earnings-per-share",
+    "section": "intermediate",
+    "areaId": "intermediate-I",
+    "groupId": "module-8",
+    "title": "Basic Earnings Per Share",
+    "lessonId": "intermediate-m8-l4",
+    "taskIds": [
+      "intermediate-basic-earnings-per-share.task-1",
+      "intermediate-basic-earnings-per-share.task-2",
+      "intermediate-basic-earnings-per-share.task-3"
+    ],
+    "objectives": [
+      "Explain basic earnings per share and its underlying principles.",
+      "Apply the topic to a financial-reporting scenario.",
+      "Evaluate common errors and their financial-statement effects."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "intermediate-m8-l4"
+    ],
+    "groupIds": [
+      "module-8"
+    ]
+  },
+  {
+    "id": "intermediate-diluted-eps-foundations",
+    "section": "intermediate",
+    "areaId": "intermediate-I",
+    "groupId": "module-8",
+    "title": "Diluted EPS Foundations",
+    "lessonId": "intermediate-m8-l5",
+    "taskIds": [
+      "intermediate-diluted-eps-foundations.task-1",
+      "intermediate-diluted-eps-foundations.task-2",
+      "intermediate-diluted-eps-foundations.task-3"
+    ],
+    "objectives": [
+      "Explain diluted eps foundations and its underlying principles.",
+      "Apply the topic to a financial-reporting scenario.",
+      "Evaluate common errors and their financial-statement effects."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "intermediate-m8-l5"
+    ],
+    "groupIds": [
+      "module-8"
+    ]
+  },
+  {
+    "id": "intermediate-book-income-vs-taxable-income",
+    "section": "intermediate",
+    "areaId": "intermediate-I",
+    "groupId": "module-9",
+    "title": "Book Income vs Taxable Income",
+    "lessonId": "intermediate-m9-l1",
+    "taskIds": [
+      "intermediate-book-income-vs-taxable-income.task-1",
+      "intermediate-book-income-vs-taxable-income.task-2",
+      "intermediate-book-income-vs-taxable-income.task-3"
+    ],
+    "objectives": [
+      "Explain book income vs taxable income and its underlying principles.",
+      "Apply the topic to a financial-reporting scenario.",
+      "Evaluate common errors and their financial-statement effects."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "intermediate-m9-l1"
+    ],
+    "groupIds": [
+      "module-9"
+    ]
+  },
+  {
+    "id": "intermediate-temporary-permanent-differences",
+    "section": "intermediate",
+    "areaId": "intermediate-I",
+    "groupId": "module-9",
+    "title": "Temporary & Permanent Differences",
+    "lessonId": "intermediate-m9-l2",
+    "taskIds": [
+      "intermediate-temporary-permanent-differences.task-1",
+      "intermediate-temporary-permanent-differences.task-2",
+      "intermediate-temporary-permanent-differences.task-3"
+    ],
+    "objectives": [
+      "Explain temporary & permanent differences and its underlying principles.",
+      "Apply the topic to a financial-reporting scenario.",
+      "Evaluate common errors and their financial-statement effects."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "intermediate-m9-l2"
+    ],
+    "groupIds": [
+      "module-9"
+    ]
+  },
+  {
+    "id": "intermediate-deferred-tax-assets-liabilities",
+    "section": "intermediate",
+    "areaId": "intermediate-I",
+    "groupId": "module-9",
+    "title": "Deferred Tax Assets & Liabilities",
+    "lessonId": "intermediate-m9-l3",
+    "taskIds": [
+      "intermediate-deferred-tax-assets-liabilities.task-1",
+      "intermediate-deferred-tax-assets-liabilities.task-2",
+      "intermediate-deferred-tax-assets-liabilities.task-3"
+    ],
+    "objectives": [
+      "Explain deferred tax assets & liabilities and its underlying principles.",
+      "Apply the topic to a financial-reporting scenario.",
+      "Evaluate common errors and their financial-statement effects."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "intermediate-m9-l3"
+    ],
+    "groupIds": [
+      "module-9"
+    ]
+  },
+  {
+    "id": "intermediate-income-tax-expense",
+    "section": "intermediate",
+    "areaId": "intermediate-I",
+    "groupId": "module-9",
+    "title": "Income Tax Expense",
+    "lessonId": "intermediate-m9-l4",
+    "taskIds": [
+      "intermediate-income-tax-expense.task-1",
+      "intermediate-income-tax-expense.task-2",
+      "intermediate-income-tax-expense.task-3"
+    ],
+    "objectives": [
+      "Explain income tax expense and its underlying principles.",
+      "Apply the topic to a financial-reporting scenario.",
+      "Evaluate common errors and their financial-statement effects."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "intermediate-m9-l4"
+    ],
+    "groupIds": [
+      "module-9"
+    ]
+  },
+  {
+    "id": "intermediate-accounting-changes-error-corrections",
+    "section": "intermediate",
+    "areaId": "intermediate-I",
+    "groupId": "module-9",
+    "title": "Accounting Changes & Error Corrections",
+    "lessonId": "intermediate-m9-l5",
+    "taskIds": [
+      "intermediate-accounting-changes-error-corrections.task-1",
+      "intermediate-accounting-changes-error-corrections.task-2",
+      "intermediate-accounting-changes-error-corrections.task-3"
+    ],
+    "objectives": [
+      "Explain accounting changes & error corrections and its underlying principles.",
+      "Apply the topic to a financial-reporting scenario.",
+      "Evaluate common errors and their financial-statement effects."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "intermediate-m9-l5"
+    ],
+    "groupIds": [
+      "module-9"
+    ]
+  },
+  {
+    "id": "intermediate-statement-of-cash-flows-fundamentals",
+    "section": "intermediate",
+    "areaId": "intermediate-I",
+    "groupId": "module-10",
+    "title": "Statement of Cash Flows Fundamentals",
+    "lessonId": "intermediate-m10-l1",
+    "taskIds": [
+      "intermediate-statement-of-cash-flows-fundamentals.task-1",
+      "intermediate-statement-of-cash-flows-fundamentals.task-2",
+      "intermediate-statement-of-cash-flows-fundamentals.task-3"
+    ],
+    "objectives": [
+      "Explain statement of cash flows fundamentals and its underlying principles.",
+      "Apply the topic to a financial-reporting scenario.",
+      "Evaluate common errors and their financial-statement effects."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "intermediate-m10-l1"
+    ],
+    "groupIds": [
+      "module-10"
+    ]
+  },
+  {
+    "id": "intermediate-operating-investing-financing-activities",
+    "section": "intermediate",
+    "areaId": "intermediate-I",
+    "groupId": "module-10",
+    "title": "Operating, Investing & Financing Activities",
+    "lessonId": "intermediate-m10-l2",
+    "taskIds": [
+      "intermediate-operating-investing-financing-activities.task-1",
+      "intermediate-operating-investing-financing-activities.task-2",
+      "intermediate-operating-investing-financing-activities.task-3"
+    ],
+    "objectives": [
+      "Explain operating, investing & financing activities and its underlying principles.",
+      "Apply the topic to a financial-reporting scenario.",
+      "Evaluate common errors and their financial-statement effects."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "intermediate-m10-l2"
+    ],
+    "groupIds": [
+      "module-10"
+    ]
+  },
+  {
+    "id": "intermediate-indirect-method",
+    "section": "intermediate",
+    "areaId": "intermediate-I",
+    "groupId": "module-10",
+    "title": "Indirect Method",
+    "lessonId": "intermediate-m10-l3",
+    "taskIds": [
+      "intermediate-indirect-method.task-1",
+      "intermediate-indirect-method.task-2",
+      "intermediate-indirect-method.task-3"
+    ],
+    "objectives": [
+      "Explain indirect method and its underlying principles.",
+      "Apply the topic to a financial-reporting scenario.",
+      "Evaluate common errors and their financial-statement effects."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "intermediate-m10-l3"
+    ],
+    "groupIds": [
+      "module-10"
+    ]
+  },
+  {
+    "id": "intermediate-noncash-investing-financing-activities",
+    "section": "intermediate",
+    "areaId": "intermediate-I",
+    "groupId": "module-10",
+    "title": "Noncash Investing & Financing Activities",
+    "lessonId": "intermediate-m10-l4",
+    "taskIds": [
+      "intermediate-noncash-investing-financing-activities.task-1",
+      "intermediate-noncash-investing-financing-activities.task-2",
+      "intermediate-noncash-investing-financing-activities.task-3"
+    ],
+    "objectives": [
+      "Explain noncash investing & financing activities and its underlying principles.",
+      "Apply the topic to a financial-reporting scenario.",
+      "Evaluate common errors and their financial-statement effects."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "intermediate-m10-l4"
+    ],
+    "groupIds": [
+      "module-10"
+    ]
+  },
+  {
+    "id": "intermediate-comprehensive-income-oci",
+    "section": "intermediate",
+    "areaId": "intermediate-I",
+    "groupId": "module-10",
+    "title": "Comprehensive Income & OCI",
+    "lessonId": "intermediate-m10-l5",
+    "taskIds": [
+      "intermediate-comprehensive-income-oci.task-1",
+      "intermediate-comprehensive-income-oci.task-2",
+      "intermediate-comprehensive-income-oci.task-3"
+    ],
+    "objectives": [
+      "Explain comprehensive income & oci and its underlying principles.",
+      "Apply the topic to a financial-reporting scenario.",
+      "Evaluate common errors and their financial-statement effects."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "intermediate-m10-l5"
+    ],
+    "groupIds": [
+      "module-10"
+    ]
+  },
+  {
+    "id": "far-financial-statements-general-purpose-reporting",
+    "section": "far",
+    "areaId": "far-I",
+    "groupId": "module-1",
+    "title": "Financial Statements & General-Purpose Reporting",
+    "lessonId": "far-m1-l1",
+    "taskIds": [
+      "far-financial-statements-general-purpose-reporting.task-1",
+      "far-financial-statements-general-purpose-reporting.task-2",
+      "far-financial-statements-general-purpose-reporting.task-3"
+    ],
+    "objectives": [
+      "Explain financial statements & general-purpose reporting and its underlying principles.",
+      "Apply the topic to a financial-reporting scenario.",
+      "Evaluate common errors and their financial-statement effects."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "far-m1-l1"
+    ],
+    "groupIds": [
+      "module-1"
+    ]
+  },
+  {
+    "id": "far-balance-sheet-classification-presentation",
+    "section": "far",
+    "areaId": "far-I",
+    "groupId": "module-1",
+    "title": "Balance Sheet Classification & Presentation",
+    "lessonId": "far-m1-l2",
+    "taskIds": [
+      "far-balance-sheet-classification-presentation.task-1",
+      "far-balance-sheet-classification-presentation.task-2",
+      "far-balance-sheet-classification-presentation.task-3"
+    ],
+    "objectives": [
+      "Explain balance sheet classification & presentation and its underlying principles.",
+      "Apply the topic to a financial-reporting scenario.",
+      "Evaluate common errors and their financial-statement effects."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "far-m1-l2"
+    ],
+    "groupIds": [
+      "module-1"
+    ]
+  },
+  {
+    "id": "far-income-statement-comprehensive-income",
+    "section": "far",
+    "areaId": "far-I",
+    "groupId": "module-1",
+    "title": "Income Statement & Comprehensive Income",
+    "lessonId": "far-m1-l3",
+    "taskIds": [
+      "far-income-statement-comprehensive-income.task-1",
+      "far-income-statement-comprehensive-income.task-2",
+      "far-income-statement-comprehensive-income.task-3"
+    ],
+    "objectives": [
+      "Explain income statement & comprehensive income and its underlying principles.",
+      "Apply the topic to a financial-reporting scenario.",
+      "Evaluate common errors and their financial-statement effects."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "far-m1-l3"
+    ],
+    "groupIds": [
+      "module-1"
+    ]
+  },
+  {
+    "id": "far-statement-of-cash-flows",
+    "section": "far",
+    "areaId": "far-I",
+    "groupId": "module-1",
+    "title": "Statement of Cash Flows",
+    "lessonId": "far-m1-l4",
+    "taskIds": [
+      "far-statement-of-cash-flows.task-1",
+      "far-statement-of-cash-flows.task-2",
+      "far-statement-of-cash-flows.task-3"
+    ],
+    "objectives": [
+      "Explain statement of cash flows and its underlying principles.",
+      "Apply the topic to a financial-reporting scenario.",
+      "Evaluate common errors and their financial-statement effects."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "far-m1-l4"
+    ],
+    "groupIds": [
+      "module-1"
+    ]
+  },
+  {
+    "id": "far-statement-of-changes-in-equity",
+    "section": "far",
+    "areaId": "far-I",
+    "groupId": "module-1",
+    "title": "Statement of Changes in Equity",
+    "lessonId": "far-m1-l5",
+    "taskIds": [
+      "far-statement-of-changes-in-equity.task-1",
+      "far-statement-of-changes-in-equity.task-2",
+      "far-statement-of-changes-in-equity.task-3"
+    ],
+    "objectives": [
+      "Explain statement of changes in equity and its underlying principles.",
+      "Apply the topic to a financial-reporting scenario.",
+      "Evaluate common errors and their financial-statement effects."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "far-m1-l5"
+    ],
+    "groupIds": [
+      "module-1"
+    ]
+  },
+  {
+    "id": "far-notes-to-financial-statements-disclosures",
+    "section": "far",
+    "areaId": "far-I",
+    "groupId": "module-1",
+    "title": "Notes to Financial Statements & Disclosures",
+    "lessonId": "far-m1-l6",
+    "taskIds": [
+      "far-notes-to-financial-statements-disclosures.task-1",
+      "far-notes-to-financial-statements-disclosures.task-2",
+      "far-notes-to-financial-statements-disclosures.task-3"
+    ],
+    "objectives": [
+      "Explain notes to financial statements & disclosures and its underlying principles.",
+      "Apply the topic to a financial-reporting scenario.",
+      "Evaluate common errors and their financial-statement effects."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "far-m1-l6"
+    ],
+    "groupIds": [
+      "module-1"
+    ]
+  },
+  {
+    "id": "far-accounting-changes",
+    "section": "far",
+    "areaId": "far-III",
+    "groupId": "module-1",
+    "title": "Accounting Changes",
+    "lessonId": "far-m1-l7",
+    "taskIds": [
+      "far-accounting-changes.task-1",
+      "far-accounting-changes.task-2",
+      "far-accounting-changes.task-3"
+    ],
+    "objectives": [
+      "Explain accounting changes and its underlying principles.",
+      "Apply the topic to a financial-reporting scenario.",
+      "Evaluate common errors and their financial-statement effects."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "far-m1-l7"
+    ],
+    "groupIds": [
+      "module-1"
+    ]
+  },
+  {
+    "id": "far-error-corrections",
+    "section": "far",
+    "areaId": "far-III",
+    "groupId": "module-1",
+    "title": "Error Corrections",
+    "lessonId": "far-m1-l8",
+    "taskIds": [
+      "far-error-corrections.task-1",
+      "far-error-corrections.task-2",
+      "far-error-corrections.task-3"
+    ],
+    "objectives": [
+      "Explain error corrections and its underlying principles.",
+      "Apply the topic to a financial-reporting scenario.",
+      "Evaluate common errors and their financial-statement effects."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "far-m1-l8"
+    ],
+    "groupIds": [
+      "module-1"
+    ]
+  },
+  {
+    "id": "far-subsequent-events",
+    "section": "far",
+    "areaId": "far-III",
+    "groupId": "module-1",
+    "title": "Subsequent Events",
+    "lessonId": "far-m1-l9",
+    "taskIds": [
+      "far-subsequent-events.task-1",
+      "far-subsequent-events.task-2",
+      "far-subsequent-events.task-3"
+    ],
+    "objectives": [
+      "Explain subsequent events and its underlying principles.",
+      "Apply the topic to a financial-reporting scenario.",
+      "Evaluate common errors and their financial-statement effects."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "far-m1-l9",
+      "far-m3-l7"
+    ],
+    "groupIds": [
+      "module-1",
+      "module-3"
+    ]
+  },
+  {
+    "id": "far-special-purpose-frameworks",
+    "section": "far",
+    "areaId": "far-I",
+    "groupId": "module-1",
+    "title": "Special-Purpose Frameworks",
+    "lessonId": "far-m1-l10",
+    "taskIds": [
+      "far-special-purpose-frameworks.task-1",
+      "far-special-purpose-frameworks.task-2",
+      "far-special-purpose-frameworks.task-3"
+    ],
+    "objectives": [
+      "Explain special-purpose frameworks and its underlying principles.",
+      "Apply the topic to a financial-reporting scenario.",
+      "Evaluate common errors and their financial-statement effects."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "far-m1-l10"
+    ],
+    "groupIds": [
+      "module-1"
+    ]
+  },
+  {
+    "id": "far-cash-cash-equivalents",
+    "section": "far",
+    "areaId": "far-II",
+    "groupId": "module-2",
+    "title": "Cash & Cash Equivalents",
+    "lessonId": "far-m2-l1",
+    "taskIds": [
+      "far-cash-cash-equivalents.task-1",
+      "far-cash-cash-equivalents.task-2",
+      "far-cash-cash-equivalents.task-3"
+    ],
+    "objectives": [
+      "Explain cash & cash equivalents and its underlying principles.",
+      "Apply the topic to a financial-reporting scenario.",
+      "Evaluate common errors and their financial-statement effects."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "far-m2-l1"
+    ],
+    "groupIds": [
+      "module-2"
+    ]
+  },
+  {
+    "id": "far-accounts-receivable",
+    "section": "far",
+    "areaId": "far-II",
+    "groupId": "module-2",
+    "title": "Accounts Receivable",
+    "lessonId": "far-m2-l2",
+    "taskIds": [
+      "far-accounts-receivable.task-1",
+      "far-accounts-receivable.task-2",
+      "far-accounts-receivable.task-3"
+    ],
+    "objectives": [
+      "Explain accounts receivable and its underlying principles.",
+      "Apply the topic to a financial-reporting scenario.",
+      "Evaluate common errors and their financial-statement effects."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "far-m2-l2"
+    ],
+    "groupIds": [
+      "module-2"
+    ]
+  },
+  {
+    "id": "far-inventory",
+    "section": "far",
+    "areaId": "far-II",
+    "groupId": "module-2",
+    "title": "Inventory",
+    "lessonId": "far-m2-l3",
+    "taskIds": [
+      "far-inventory.task-1",
+      "far-inventory.task-2",
+      "far-inventory.task-3"
+    ],
+    "objectives": [
+      "Explain inventory and its underlying principles.",
+      "Apply the topic to a financial-reporting scenario.",
+      "Evaluate common errors and their financial-statement effects."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "far-m2-l3"
+    ],
+    "groupIds": [
+      "module-2"
+    ]
+  },
+  {
+    "id": "far-property-plant-equipment",
+    "section": "far",
+    "areaId": "far-II",
+    "groupId": "module-2",
+    "title": "Property, Plant & Equipment",
+    "lessonId": "far-m2-l4",
+    "taskIds": [
+      "far-property-plant-equipment.task-1",
+      "far-property-plant-equipment.task-2",
+      "far-property-plant-equipment.task-3"
+    ],
+    "objectives": [
+      "Explain property, plant & equipment and its underlying principles.",
+      "Apply the topic to a financial-reporting scenario.",
+      "Evaluate common errors and their financial-statement effects."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "far-m2-l4"
+    ],
+    "groupIds": [
+      "module-2"
+    ]
+  },
+  {
+    "id": "far-intangible-assets",
+    "section": "far",
+    "areaId": "far-II",
+    "groupId": "module-2",
+    "title": "Intangible Assets",
+    "lessonId": "far-m2-l5",
+    "taskIds": [
+      "far-intangible-assets.task-1",
+      "far-intangible-assets.task-2",
+      "far-intangible-assets.task-3"
+    ],
+    "objectives": [
+      "Explain intangible assets and its underlying principles.",
+      "Apply the topic to a financial-reporting scenario.",
+      "Evaluate common errors and their financial-statement effects."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "far-m2-l5"
+    ],
+    "groupIds": [
+      "module-2"
+    ]
+  },
+  {
+    "id": "far-current-liabilities",
+    "section": "far",
+    "areaId": "far-II",
+    "groupId": "module-2",
+    "title": "Current Liabilities",
+    "lessonId": "far-m2-l6",
+    "taskIds": [
+      "far-current-liabilities.task-1",
+      "far-current-liabilities.task-2",
+      "far-current-liabilities.task-3"
+    ],
+    "objectives": [
+      "Explain current liabilities and its underlying principles.",
+      "Apply the topic to a financial-reporting scenario.",
+      "Evaluate common errors and their financial-statement effects."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "far-m2-l6"
+    ],
+    "groupIds": [
+      "module-2"
+    ]
+  },
+  {
+    "id": "far-long-term-debt",
+    "section": "far",
+    "areaId": "far-II",
+    "groupId": "module-2",
+    "title": "Long-Term Debt",
+    "lessonId": "far-m2-l7",
+    "taskIds": [
+      "far-long-term-debt.task-1",
+      "far-long-term-debt.task-2",
+      "far-long-term-debt.task-3"
+    ],
+    "objectives": [
+      "Explain long-term debt and its underlying principles.",
+      "Apply the topic to a financial-reporting scenario.",
+      "Evaluate common errors and their financial-statement effects."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "far-m2-l7"
+    ],
+    "groupIds": [
+      "module-2"
+    ]
+  },
+  {
+    "id": "far-contingencies-commitments",
+    "section": "far",
+    "areaId": "far-III",
+    "groupId": "module-2",
+    "title": "Contingencies & Commitments",
+    "lessonId": "far-m2-l8",
+    "taskIds": [
+      "far-contingencies-commitments.task-1",
+      "far-contingencies-commitments.task-2",
+      "far-contingencies-commitments.task-3"
+    ],
+    "objectives": [
+      "Explain contingencies & commitments and its underlying principles.",
+      "Apply the topic to a financial-reporting scenario.",
+      "Evaluate common errors and their financial-statement effects."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "far-m2-l8",
+      "far-m3-l2"
+    ],
+    "groupIds": [
+      "module-2",
+      "module-3"
+    ]
+  },
+  {
+    "id": "far-investments",
+    "section": "far",
+    "areaId": "far-II",
+    "groupId": "module-2",
+    "title": "Investments",
+    "lessonId": "far-m2-l9",
+    "taskIds": [
+      "far-investments.task-1",
+      "far-investments.task-2",
+      "far-investments.task-3"
+    ],
+    "objectives": [
+      "Explain investments and its underlying principles.",
+      "Apply the topic to a financial-reporting scenario.",
+      "Evaluate common errors and their financial-statement effects."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "far-m2-l9"
+    ],
+    "groupIds": [
+      "module-2"
+    ]
+  },
+  {
+    "id": "far-equity-accounts",
+    "section": "far",
+    "areaId": "far-I",
+    "groupId": "module-2",
+    "title": "Equity Accounts",
+    "lessonId": "far-m2-l10",
+    "taskIds": [
+      "far-equity-accounts.task-1",
+      "far-equity-accounts.task-2",
+      "far-equity-accounts.task-3"
+    ],
+    "objectives": [
+      "Explain equity accounts and its underlying principles.",
+      "Apply the topic to a financial-reporting scenario.",
+      "Evaluate common errors and their financial-statement effects."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "far-m2-l10"
+    ],
+    "groupIds": [
+      "module-2"
+    ]
+  },
+  {
+    "id": "far-accounting-changes-error-corrections",
+    "section": "far",
+    "areaId": "far-III",
+    "groupId": "module-3",
+    "title": "Accounting Changes & Error Corrections",
+    "lessonId": "far-m3-l1",
+    "taskIds": [
+      "far-accounting-changes-error-corrections.task-1",
+      "far-accounting-changes-error-corrections.task-2",
+      "far-accounting-changes-error-corrections.task-3"
+    ],
+    "objectives": [
+      "Explain accounting changes & error corrections and its underlying principles.",
+      "Apply the topic to a financial-reporting scenario.",
+      "Evaluate common errors and their financial-statement effects."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "far-m3-l1"
+    ],
+    "groupIds": [
+      "module-3"
+    ]
+  },
+  {
+    "id": "far-revenue-recognition",
+    "section": "far",
+    "areaId": "far-III",
+    "groupId": "module-3",
+    "title": "Revenue Recognition",
+    "lessonId": "far-m3-l3",
+    "taskIds": [
+      "far-revenue-recognition.task-1",
+      "far-revenue-recognition.task-2",
+      "far-revenue-recognition.task-3"
+    ],
+    "objectives": [
+      "Explain revenue recognition and its underlying principles.",
+      "Apply the topic to a financial-reporting scenario.",
+      "Evaluate common errors and their financial-statement effects."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "far-m3-l3"
+    ],
+    "groupIds": [
+      "module-3"
+    ]
+  },
+  {
+    "id": "far-accounting-for-income-taxes",
+    "section": "far",
+    "areaId": "far-III",
+    "groupId": "module-3",
+    "title": "Accounting for Income Taxes",
+    "lessonId": "far-m3-l4",
+    "taskIds": [
+      "far-accounting-for-income-taxes.task-1",
+      "far-accounting-for-income-taxes.task-2",
+      "far-accounting-for-income-taxes.task-3"
+    ],
+    "objectives": [
+      "Explain accounting for income taxes and its underlying principles.",
+      "Apply the topic to a financial-reporting scenario.",
+      "Evaluate common errors and their financial-statement effects."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "far-m3-l4"
+    ],
+    "groupIds": [
+      "module-3"
+    ]
+  },
+  {
+    "id": "far-fair-value-measurements",
+    "section": "far",
+    "areaId": "far-III",
+    "groupId": "module-3",
+    "title": "Fair Value Measurements",
+    "lessonId": "far-m3-l5",
+    "taskIds": [
+      "far-fair-value-measurements.task-1",
+      "far-fair-value-measurements.task-2",
+      "far-fair-value-measurements.task-3"
+    ],
+    "objectives": [
+      "Explain fair value measurements and its underlying principles.",
+      "Apply the topic to a financial-reporting scenario.",
+      "Evaluate common errors and their financial-statement effects."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "far-m3-l5"
+    ],
+    "groupIds": [
+      "module-3"
+    ]
+  },
+  {
+    "id": "far-lessee-accounting",
+    "section": "far",
+    "areaId": "far-III",
+    "groupId": "module-3",
+    "title": "Lessee Accounting",
+    "lessonId": "far-m3-l6",
+    "taskIds": [
+      "far-lessee-accounting.task-1",
+      "far-lessee-accounting.task-2",
+      "far-lessee-accounting.task-3"
+    ],
+    "objectives": [
+      "Explain lessee accounting and its underlying principles.",
+      "Apply the topic to a financial-reporting scenario.",
+      "Evaluate common errors and their financial-statement effects."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "far-m3-l6"
+    ],
+    "groupIds": [
+      "module-3"
+    ]
+  },
+  {
+    "id": "far-revenue-recognition-advanced-applications",
+    "section": "far",
+    "areaId": "far-III",
+    "groupId": "module-3",
+    "title": "Revenue Recognition — Advanced Applications",
+    "lessonId": "far-m3-l8",
+    "taskIds": [
+      "far-revenue-recognition-advanced-applications.task-1",
+      "far-revenue-recognition-advanced-applications.task-2",
+      "far-revenue-recognition-advanced-applications.task-3"
+    ],
+    "objectives": [
+      "Explain revenue recognition — advanced applications and its underlying principles.",
+      "Apply the topic to a financial-reporting scenario.",
+      "Evaluate common errors and their financial-statement effects."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "far-m3-l8"
+    ],
+    "groupIds": [
+      "module-3"
+    ]
+  },
+  {
+    "id": "far-deferred-taxes-valuation-allowances",
+    "section": "far",
+    "areaId": "far-III",
+    "groupId": "module-3",
+    "title": "Deferred Taxes & Valuation Allowances",
+    "lessonId": "far-m3-l9",
+    "taskIds": [
+      "far-deferred-taxes-valuation-allowances.task-1",
+      "far-deferred-taxes-valuation-allowances.task-2",
+      "far-deferred-taxes-valuation-allowances.task-3"
+    ],
+    "objectives": [
+      "Explain deferred taxes & valuation allowances and its underlying principles.",
+      "Apply the topic to a financial-reporting scenario.",
+      "Evaluate common errors and their financial-statement effects."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "far-m3-l9"
+    ],
+    "groupIds": [
+      "module-3"
+    ]
+  },
+  {
+    "id": "far-integrated-select-transactions-review",
+    "section": "far",
+    "areaId": "far-III",
+    "groupId": "module-3",
+    "title": "Integrated Select Transactions Review",
+    "lessonId": "far-m3-l10",
+    "taskIds": [
+      "far-integrated-select-transactions-review.task-1",
+      "far-integrated-select-transactions-review.task-2",
+      "far-integrated-select-transactions-review.task-3"
+    ],
+    "objectives": [
+      "Explain integrated select transactions review and its underlying principles.",
+      "Apply the topic to a financial-reporting scenario.",
+      "Evaluate common errors and their financial-statement effects."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "far-m3-l10"
+    ],
+    "groupIds": [
+      "module-3"
+    ]
+  },
+  {
+    "id": "far-governmental-accounting-foundations",
+    "section": "far",
+    "areaId": "far-I",
+    "groupId": "module-4",
+    "title": "Governmental Accounting Foundations",
+    "lessonId": "far-m4-l1",
+    "taskIds": [
+      "far-governmental-accounting-foundations.task-1",
+      "far-governmental-accounting-foundations.task-2",
+      "far-governmental-accounting-foundations.task-3"
+    ],
+    "objectives": [
+      "Explain governmental accounting foundations and its underlying principles.",
+      "Apply the topic to a financial-reporting scenario.",
+      "Evaluate common errors and their financial-statement effects."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "far-m4-l1"
+    ],
+    "groupIds": [
+      "module-4"
+    ]
+  },
+  {
+    "id": "far-governmental-funds",
+    "section": "far",
+    "areaId": "far-I",
+    "groupId": "module-4",
+    "title": "Governmental Funds",
+    "lessonId": "far-m4-l2",
+    "taskIds": [
+      "far-governmental-funds.task-1",
+      "far-governmental-funds.task-2",
+      "far-governmental-funds.task-3"
+    ],
+    "objectives": [
+      "Explain governmental funds and its underlying principles.",
+      "Apply the topic to a financial-reporting scenario.",
+      "Evaluate common errors and their financial-statement effects."
+    ],
+    "supplementary": true,
+    "lessonIds": [
+      "far-m4-l2"
+    ],
+    "groupIds": [
+      "module-4"
+    ]
+  },
+  {
+    "id": "far-modified-accrual-accounting",
+    "section": "far",
+    "areaId": "far-I",
+    "groupId": "module-4",
+    "title": "Modified Accrual Accounting",
+    "lessonId": "far-m4-l3",
+    "taskIds": [
+      "far-modified-accrual-accounting.task-1",
+      "far-modified-accrual-accounting.task-2",
+      "far-modified-accrual-accounting.task-3"
+    ],
+    "objectives": [
+      "Explain modified accrual accounting and its underlying principles.",
+      "Apply the topic to a financial-reporting scenario.",
+      "Evaluate common errors and their financial-statement effects."
+    ],
+    "supplementary": true,
+    "lessonIds": [
+      "far-m4-l3"
+    ],
+    "groupIds": [
+      "module-4"
+    ]
+  },
+  {
+    "id": "far-governmental-fund-financial-statements",
+    "section": "far",
+    "areaId": "far-I",
+    "groupId": "module-4",
+    "title": "Governmental Fund Financial Statements",
+    "lessonId": "far-m4-l4",
+    "taskIds": [
+      "far-governmental-fund-financial-statements.task-1",
+      "far-governmental-fund-financial-statements.task-2",
+      "far-governmental-fund-financial-statements.task-3"
+    ],
+    "objectives": [
+      "Explain governmental fund financial statements and its underlying principles.",
+      "Apply the topic to a financial-reporting scenario.",
+      "Evaluate common errors and their financial-statement effects."
+    ],
+    "supplementary": true,
+    "lessonIds": [
+      "far-m4-l4"
+    ],
+    "groupIds": [
+      "module-4"
+    ]
+  },
+  {
+    "id": "far-proprietary-funds",
+    "section": "far",
+    "areaId": "far-I",
+    "groupId": "module-4",
+    "title": "Proprietary Funds",
+    "lessonId": "far-m4-l5",
+    "taskIds": [
+      "far-proprietary-funds.task-1",
+      "far-proprietary-funds.task-2",
+      "far-proprietary-funds.task-3"
+    ],
+    "objectives": [
+      "Explain proprietary funds and its underlying principles.",
+      "Apply the topic to a financial-reporting scenario.",
+      "Evaluate common errors and their financial-statement effects."
+    ],
+    "supplementary": true,
+    "lessonIds": [
+      "far-m4-l5"
+    ],
+    "groupIds": [
+      "module-4"
+    ]
+  },
+  {
+    "id": "far-fiduciary-funds",
+    "section": "far",
+    "areaId": "far-I",
+    "groupId": "module-4",
+    "title": "Fiduciary Funds",
+    "lessonId": "far-m4-l6",
+    "taskIds": [
+      "far-fiduciary-funds.task-1",
+      "far-fiduciary-funds.task-2",
+      "far-fiduciary-funds.task-3"
+    ],
+    "objectives": [
+      "Explain fiduciary funds and its underlying principles.",
+      "Apply the topic to a financial-reporting scenario.",
+      "Evaluate common errors and their financial-statement effects."
+    ],
+    "supplementary": true,
+    "lessonIds": [
+      "far-m4-l6"
+    ],
+    "groupIds": [
+      "module-4"
+    ]
+  },
+  {
+    "id": "far-government-wide-financial-statements",
+    "section": "far",
+    "areaId": "far-I",
+    "groupId": "module-4",
+    "title": "Government-Wide Financial Statements",
+    "lessonId": "far-m4-l7",
+    "taskIds": [
+      "far-government-wide-financial-statements.task-1",
+      "far-government-wide-financial-statements.task-2",
+      "far-government-wide-financial-statements.task-3"
+    ],
+    "objectives": [
+      "Explain government-wide financial statements and its underlying principles.",
+      "Apply the topic to a financial-reporting scenario.",
+      "Evaluate common errors and their financial-statement effects."
+    ],
+    "supplementary": true,
+    "lessonIds": [
+      "far-m4-l7"
+    ],
+    "groupIds": [
+      "module-4"
+    ]
+  },
+  {
+    "id": "far-governmental-fund-to-government-wide-reconciliation",
+    "section": "far",
+    "areaId": "far-I",
+    "groupId": "module-4",
+    "title": "Governmental Fund to Government-Wide Reconciliation",
+    "lessonId": "far-m4-l8",
+    "taskIds": [
+      "far-governmental-fund-to-government-wide-reconciliation.task-1",
+      "far-governmental-fund-to-government-wide-reconciliation.task-2",
+      "far-governmental-fund-to-government-wide-reconciliation.task-3"
+    ],
+    "objectives": [
+      "Explain governmental fund to government-wide reconciliation and its underlying principles.",
+      "Apply the topic to a financial-reporting scenario.",
+      "Evaluate common errors and their financial-statement effects."
+    ],
+    "supplementary": true,
+    "lessonIds": [
+      "far-m4-l8"
+    ],
+    "groupIds": [
+      "module-4"
+    ]
+  },
+  {
+    "id": "far-budgetary-accounting-encumbrances",
+    "section": "far",
+    "areaId": "far-I",
+    "groupId": "module-4",
+    "title": "Budgetary Accounting & Encumbrances",
+    "lessonId": "far-m4-l9",
+    "taskIds": [
+      "far-budgetary-accounting-encumbrances.task-1",
+      "far-budgetary-accounting-encumbrances.task-2",
+      "far-budgetary-accounting-encumbrances.task-3"
+    ],
+    "objectives": [
+      "Explain budgetary accounting & encumbrances and its underlying principles.",
+      "Apply the topic to a financial-reporting scenario.",
+      "Evaluate common errors and their financial-statement effects."
+    ],
+    "supplementary": true,
+    "lessonIds": [
+      "far-m4-l9"
+    ],
+    "groupIds": [
+      "module-4"
+    ]
+  },
+  {
+    "id": "far-governmental-accounting-integrated-review",
+    "section": "far",
+    "areaId": "far-I",
+    "groupId": "module-4",
+    "title": "Governmental Accounting Integrated Review",
+    "lessonId": "far-m4-l10",
+    "taskIds": [
+      "far-governmental-accounting-integrated-review.task-1",
+      "far-governmental-accounting-integrated-review.task-2",
+      "far-governmental-accounting-integrated-review.task-3"
+    ],
+    "objectives": [
+      "Explain governmental accounting integrated review and its underlying principles.",
+      "Apply the topic to a financial-reporting scenario.",
+      "Evaluate common errors and their financial-statement effects."
+    ],
+    "supplementary": true,
+    "lessonIds": [
+      "far-m4-l10"
+    ],
+    "groupIds": [
+      "module-4"
+    ]
+  },
+  {
+    "id": "far-not-for-profit-accounting-foundations",
+    "section": "far",
+    "areaId": "far-I",
+    "groupId": "module-5",
+    "title": "Not-for-Profit Accounting Foundations",
+    "lessonId": "far-m5-l1",
+    "taskIds": [
+      "far-not-for-profit-accounting-foundations.task-1",
+      "far-not-for-profit-accounting-foundations.task-2",
+      "far-not-for-profit-accounting-foundations.task-3"
+    ],
+    "objectives": [
+      "Explain not-for-profit accounting foundations and its underlying principles.",
+      "Apply the topic to a financial-reporting scenario.",
+      "Evaluate common errors and their financial-statement effects."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "far-m5-l1"
+    ],
+    "groupIds": [
+      "module-5"
+    ]
+  },
+  {
+    "id": "far-net-asset-classification",
+    "section": "far",
+    "areaId": "far-I",
+    "groupId": "module-5",
+    "title": "Net Asset Classification",
+    "lessonId": "far-m5-l2",
+    "taskIds": [
+      "far-net-asset-classification.task-1",
+      "far-net-asset-classification.task-2",
+      "far-net-asset-classification.task-3"
+    ],
+    "objectives": [
+      "Explain net asset classification and its underlying principles.",
+      "Apply the topic to a financial-reporting scenario.",
+      "Evaluate common errors and their financial-statement effects."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "far-m5-l2"
+    ],
+    "groupIds": [
+      "module-5"
+    ]
+  },
+  {
+    "id": "far-contributions-donor-restrictions",
+    "section": "far",
+    "areaId": "far-I",
+    "groupId": "module-5",
+    "title": "Contributions & Donor Restrictions",
+    "lessonId": "far-m5-l3",
+    "taskIds": [
+      "far-contributions-donor-restrictions.task-1",
+      "far-contributions-donor-restrictions.task-2",
+      "far-contributions-donor-restrictions.task-3"
+    ],
+    "objectives": [
+      "Explain contributions & donor restrictions and its underlying principles.",
+      "Apply the topic to a financial-reporting scenario.",
+      "Evaluate common errors and their financial-statement effects."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "far-m5-l3"
+    ],
+    "groupIds": [
+      "module-5"
+    ]
+  },
+  {
+    "id": "far-conditional-contributions",
+    "section": "far",
+    "areaId": "far-I",
+    "groupId": "module-5",
+    "title": "Conditional Contributions",
+    "lessonId": "far-m5-l4",
+    "taskIds": [
+      "far-conditional-contributions.task-1",
+      "far-conditional-contributions.task-2",
+      "far-conditional-contributions.task-3"
+    ],
+    "objectives": [
+      "Explain conditional contributions and its underlying principles.",
+      "Apply the topic to a financial-reporting scenario.",
+      "Evaluate common errors and their financial-statement effects."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "far-m5-l4"
+    ],
+    "groupIds": [
+      "module-5"
+    ]
+  },
+  {
+    "id": "far-not-for-profit-financial-statements",
+    "section": "far",
+    "areaId": "far-I",
+    "groupId": "module-5",
+    "title": "Not-for-Profit Financial Statements",
+    "lessonId": "far-m5-l5",
+    "taskIds": [
+      "far-not-for-profit-financial-statements.task-1",
+      "far-not-for-profit-financial-statements.task-2",
+      "far-not-for-profit-financial-statements.task-3"
+    ],
+    "objectives": [
+      "Explain not-for-profit financial statements and its underlying principles.",
+      "Apply the topic to a financial-reporting scenario.",
+      "Evaluate common errors and their financial-statement effects."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "far-m5-l5"
+    ],
+    "groupIds": [
+      "module-5"
+    ]
+  },
+  {
+    "id": "far-expenses-by-function-nature",
+    "section": "far",
+    "areaId": "far-I",
+    "groupId": "module-5",
+    "title": "Expenses by Function & Nature",
+    "lessonId": "far-m5-l6",
+    "taskIds": [
+      "far-expenses-by-function-nature.task-1",
+      "far-expenses-by-function-nature.task-2",
+      "far-expenses-by-function-nature.task-3"
+    ],
+    "objectives": [
+      "Explain expenses by function & nature and its underlying principles.",
+      "Apply the topic to a financial-reporting scenario.",
+      "Evaluate common errors and their financial-statement effects."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "far-m5-l6"
+    ],
+    "groupIds": [
+      "module-5"
+    ]
+  },
+  {
+    "id": "far-donated-services-noncash-contributions",
+    "section": "far",
+    "areaId": "far-I",
+    "groupId": "module-5",
+    "title": "Donated Services & Noncash Contributions",
+    "lessonId": "far-m5-l7",
+    "taskIds": [
+      "far-donated-services-noncash-contributions.task-1",
+      "far-donated-services-noncash-contributions.task-2",
+      "far-donated-services-noncash-contributions.task-3"
+    ],
+    "objectives": [
+      "Explain donated services & noncash contributions and its underlying principles.",
+      "Apply the topic to a financial-reporting scenario.",
+      "Evaluate common errors and their financial-statement effects."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "far-m5-l7"
+    ],
+    "groupIds": [
+      "module-5"
+    ]
+  },
+  {
+    "id": "far-endowments-investment-income",
+    "section": "far",
+    "areaId": "far-I",
+    "groupId": "module-5",
+    "title": "Endowments & Investment Income",
+    "lessonId": "far-m5-l8",
+    "taskIds": [
+      "far-endowments-investment-income.task-1",
+      "far-endowments-investment-income.task-2",
+      "far-endowments-investment-income.task-3"
+    ],
+    "objectives": [
+      "Explain endowments & investment income and its underlying principles.",
+      "Apply the topic to a financial-reporting scenario.",
+      "Evaluate common errors and their financial-statement effects."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "far-m5-l8"
+    ],
+    "groupIds": [
+      "module-5"
+    ]
+  },
+  {
+    "id": "far-promises-to-give-contribution-receivables",
+    "section": "far",
+    "areaId": "far-I",
+    "groupId": "module-5",
+    "title": "Promises to Give & Contribution Receivables",
+    "lessonId": "far-m5-l9",
+    "taskIds": [
+      "far-promises-to-give-contribution-receivables.task-1",
+      "far-promises-to-give-contribution-receivables.task-2",
+      "far-promises-to-give-contribution-receivables.task-3"
+    ],
+    "objectives": [
+      "Explain promises to give & contribution receivables and its underlying principles.",
+      "Apply the topic to a financial-reporting scenario.",
+      "Evaluate common errors and their financial-statement effects."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "far-m5-l9"
+    ],
+    "groupIds": [
+      "module-5"
+    ]
+  },
+  {
+    "id": "far-not-for-profit-integrated-review",
+    "section": "far",
+    "areaId": "far-I",
+    "groupId": "module-5",
+    "title": "Not-for-Profit Integrated Review",
+    "lessonId": "far-m5-l10",
+    "taskIds": [
+      "far-not-for-profit-integrated-review.task-1",
+      "far-not-for-profit-integrated-review.task-2",
+      "far-not-for-profit-integrated-review.task-3"
+    ],
+    "objectives": [
+      "Explain not-for-profit integrated review and its underlying principles.",
+      "Apply the topic to a financial-reporting scenario.",
+      "Evaluate common errors and their financial-statement effects."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "far-m5-l10"
+    ],
+    "groupIds": [
+      "module-5"
+    ]
+  },
+  {
+    "id": "far-financial-statement-analysis-adjustments",
+    "section": "far",
+    "areaId": "far-I",
+    "groupId": "module-6",
+    "title": "Financial Statement Analysis & Adjustments",
+    "lessonId": "far-m6-l1",
+    "taskIds": [
+      "far-financial-statement-analysis-adjustments.task-1",
+      "far-financial-statement-analysis-adjustments.task-2",
+      "far-financial-statement-analysis-adjustments.task-3"
+    ],
+    "objectives": [
+      "Explain financial statement analysis & adjustments and its underlying principles.",
+      "Apply the topic to a financial-reporting scenario.",
+      "Evaluate common errors and their financial-statement effects."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "far-m6-l1"
+    ],
+    "groupIds": [
+      "module-6"
+    ]
+  },
+  {
+    "id": "far-revenue-receivables-cash-flow-review",
+    "section": "far",
+    "areaId": "far-I",
+    "groupId": "module-6",
+    "title": "Revenue, Receivables & Cash Flow Review",
+    "lessonId": "far-m6-l2",
+    "taskIds": [
+      "far-revenue-receivables-cash-flow-review.task-1",
+      "far-revenue-receivables-cash-flow-review.task-2",
+      "far-revenue-receivables-cash-flow-review.task-3"
+    ],
+    "objectives": [
+      "Explain revenue, receivables & cash flow review and its underlying principles.",
+      "Apply the topic to a financial-reporting scenario.",
+      "Evaluate common errors and their financial-statement effects."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "far-m6-l2"
+    ],
+    "groupIds": [
+      "module-6"
+    ]
+  },
+  {
+    "id": "far-inventory-long-lived-asset-review",
+    "section": "far",
+    "areaId": "far-II",
+    "groupId": "module-6",
+    "title": "Inventory & Long-Lived Asset Review",
+    "lessonId": "far-m6-l3",
+    "taskIds": [
+      "far-inventory-long-lived-asset-review.task-1",
+      "far-inventory-long-lived-asset-review.task-2",
+      "far-inventory-long-lived-asset-review.task-3"
+    ],
+    "objectives": [
+      "Explain inventory & long-lived asset review and its underlying principles.",
+      "Apply the topic to a financial-reporting scenario.",
+      "Evaluate common errors and their financial-statement effects."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "far-m6-l3"
+    ],
+    "groupIds": [
+      "module-6"
+    ]
+  },
+  {
+    "id": "far-liabilities-debt-contingencies-review",
+    "section": "far",
+    "areaId": "far-III",
+    "groupId": "module-6",
+    "title": "Liabilities, Debt & Contingencies Review",
+    "lessonId": "far-m6-l4",
+    "taskIds": [
+      "far-liabilities-debt-contingencies-review.task-1",
+      "far-liabilities-debt-contingencies-review.task-2",
+      "far-liabilities-debt-contingencies-review.task-3"
+    ],
+    "objectives": [
+      "Explain liabilities, debt & contingencies review and its underlying principles.",
+      "Apply the topic to a financial-reporting scenario.",
+      "Evaluate common errors and their financial-statement effects."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "far-m6-l4"
+    ],
+    "groupIds": [
+      "module-6"
+    ]
+  },
+  {
+    "id": "far-equity-investment-review",
+    "section": "far",
+    "areaId": "far-II",
+    "groupId": "module-6",
+    "title": "Equity & Investment Review",
+    "lessonId": "far-m6-l5",
+    "taskIds": [
+      "far-equity-investment-review.task-1",
+      "far-equity-investment-review.task-2",
+      "far-equity-investment-review.task-3"
+    ],
+    "objectives": [
+      "Explain equity & investment review and its underlying principles.",
+      "Apply the topic to a financial-reporting scenario.",
+      "Evaluate common errors and their financial-statement effects."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "far-m6-l5"
+    ],
+    "groupIds": [
+      "module-6"
+    ]
+  },
+  {
+    "id": "far-accounting-changes-errors-subsequent-events",
+    "section": "far",
+    "areaId": "far-III",
+    "groupId": "module-6",
+    "title": "Accounting Changes, Errors & Subsequent Events",
+    "lessonId": "far-m6-l6",
+    "taskIds": [
+      "far-accounting-changes-errors-subsequent-events.task-1",
+      "far-accounting-changes-errors-subsequent-events.task-2",
+      "far-accounting-changes-errors-subsequent-events.task-3"
+    ],
+    "objectives": [
+      "Explain accounting changes, errors & subsequent events and its underlying principles.",
+      "Apply the topic to a financial-reporting scenario.",
+      "Evaluate common errors and their financial-statement effects."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "far-m6-l6"
+    ],
+    "groupIds": [
+      "module-6"
+    ]
+  },
+  {
+    "id": "far-governmental-accounting-final-review",
+    "section": "far",
+    "areaId": "far-I",
+    "groupId": "module-6",
+    "title": "Governmental Accounting Final Review",
+    "lessonId": "far-m6-l7",
+    "taskIds": [
+      "far-governmental-accounting-final-review.task-1",
+      "far-governmental-accounting-final-review.task-2",
+      "far-governmental-accounting-final-review.task-3"
+    ],
+    "objectives": [
+      "Explain governmental accounting final review and its underlying principles.",
+      "Apply the topic to a financial-reporting scenario.",
+      "Evaluate common errors and their financial-statement effects."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "far-m6-l7"
+    ],
+    "groupIds": [
+      "module-6"
+    ]
+  },
+  {
+    "id": "far-not-for-profit-accounting-final-review",
+    "section": "far",
+    "areaId": "far-I",
+    "groupId": "module-6",
+    "title": "Not-for-Profit Accounting Final Review",
+    "lessonId": "far-m6-l8",
+    "taskIds": [
+      "far-not-for-profit-accounting-final-review.task-1",
+      "far-not-for-profit-accounting-final-review.task-2",
+      "far-not-for-profit-accounting-final-review.task-3"
+    ],
+    "objectives": [
+      "Explain not-for-profit accounting final review and its underlying principles.",
+      "Apply the topic to a financial-reporting scenario.",
+      "Evaluate common errors and their financial-statement effects."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "far-m6-l8"
+    ],
+    "groupIds": [
+      "module-6"
+    ]
+  },
+  {
+    "id": "far-far-integrated-financial-statement-review",
+    "section": "far",
+    "areaId": "far-I",
+    "groupId": "module-6",
+    "title": "FAR Integrated Financial Statement Review",
+    "lessonId": "far-m6-l9",
+    "taskIds": [
+      "far-far-integrated-financial-statement-review.task-1",
+      "far-far-integrated-financial-statement-review.task-2",
+      "far-far-integrated-financial-statement-review.task-3"
+    ],
+    "objectives": [
+      "Explain far integrated financial statement review and its underlying principles.",
+      "Apply the topic to a financial-reporting scenario.",
+      "Evaluate common errors and their financial-statement effects."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "far-m6-l9"
+    ],
+    "groupIds": [
+      "module-6"
+    ]
+  },
+  {
+    "id": "far-far-exam-strategy-final-comprehensive-review",
+    "section": "far",
+    "areaId": "far-I",
+    "groupId": "module-6",
+    "title": "FAR Exam Strategy & Final Comprehensive Review",
+    "lessonId": "far-m6-l10",
+    "taskIds": [
+      "far-far-exam-strategy-final-comprehensive-review.task-1",
+      "far-far-exam-strategy-final-comprehensive-review.task-2",
+      "far-far-exam-strategy-final-comprehensive-review.task-3"
+    ],
+    "objectives": [
+      "Explain far exam strategy & final comprehensive review and its underlying principles.",
+      "Apply the topic to a financial-reporting scenario.",
+      "Evaluate common errors and their financial-statement effects."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "far-m6-l10"
+    ],
+    "groupIds": [
+      "module-6"
+    ]
+  },
+  {
+    "id": "aud-auditor-independence",
+    "section": "aud",
+    "areaId": "aud-I",
+    "groupId": "A",
+    "title": "Ethics, Independence & Professional Conduct",
+    "lessonId": "aud-m1-l1",
+    "taskIds": [
+      "aud-auditor-independence.task-1",
+      "aud-auditor-independence.task-2",
+      "aud-auditor-independence.task-3"
+    ],
+    "objectives": [
+      "Distinguish independence of mind and appearance from objectivity.",
+      "Apply the appropriate AICPA, SEC/PCAOB, GAO, or DOL independence requirements.",
+      "Respond to financial-interest, management-participation, and confidentiality threats."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "aud-m1-l1"
+    ],
+    "groupIds": [
+      "A"
+    ]
+  },
+  {
+    "id": "aud-professional-skepticism",
+    "section": "aud",
+    "areaId": "aud-I",
+    "groupId": "B",
+    "title": "Skepticism, Judgment & Audit Responsibilities",
+    "lessonId": "aud-m1-l2",
+    "taskIds": [
+      "aud-professional-skepticism.task-1",
+      "aud-professional-skepticism.task-2",
+      "aud-professional-skepticism.task-3"
+    ],
+    "objectives": [
+      "Evaluate contradictory evidence without assuming dishonesty or unquestioning trust.",
+      "Distinguish management’s responsibilities from the auditor’s reasonable-assurance objective.",
+      "Recognize fraud incentives, judgment biases, and appropriate escalation."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "aud-m1-l2"
+    ],
+    "groupIds": [
+      "B"
+    ]
+  },
+  {
+    "id": "aud-engagement-acceptance",
+    "section": "aud",
+    "areaId": "aud-I",
+    "groupId": "C-D",
+    "title": "Engagement Scope, Acceptance & Written Terms",
+    "lessonId": "aud-m1-l3",
+    "taskIds": [
+      "aud-engagement-acceptance.task-1",
+      "aud-engagement-acceptance.task-2",
+      "aud-engagement-acceptance.task-3"
+    ],
+    "objectives": [
+      "Match assurance levels to audits, reviews, compilations, preparations, and agreed-upon procedures.",
+      "Evaluate engagement preconditions and predecessor communications.",
+      "Document responsibilities and evaluate requests to change engagement type."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "aud-m1-l3"
+    ],
+    "groupIds": [
+      "C-D"
+    ]
+  },
+  {
+    "id": "aud-audit-documentation-quality",
+    "section": "aud",
+    "areaId": "aud-I",
+    "groupId": "E-F-G",
+    "title": "Documentation, Governance Communication & Quality",
+    "lessonId": "aud-m1-l4",
+    "taskIds": [
+      "aud-audit-documentation-quality.task-1",
+      "aud-audit-documentation-quality.task-2",
+      "aud-audit-documentation-quality.task-3"
+    ],
+    "objectives": [
+      "Prepare documentation understandable to an experienced auditor with no prior engagement connection.",
+      "Distinguish significant deficiencies from material weaknesses and appropriate communication.",
+      "Apply engagement quality responsibilities, consultation, and supervision."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "aud-m1-l4"
+    ],
+    "groupIds": [
+      "E-F-G"
+    ]
+  },
+  {
+    "id": "aud-audit-risk-planning",
+    "section": "aud",
+    "areaId": "aud-II",
+    "groupId": "A-B-E",
+    "title": "Understand the Entity & Design the Audit Strategy",
+    "lessonId": "aud-m2-l1",
+    "taskIds": [
+      "aud-audit-risk-planning.task-1",
+      "aud-audit-risk-planning.task-2",
+      "aud-audit-risk-planning.task-3"
+    ],
+    "objectives": [
+      "Connect business conditions to assertion-level risks.",
+      "Distinguish inherent, control, detection, and audit risk.",
+      "Adjust the nature, timing, and extent of audit work."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "aud-m2-l1"
+    ],
+    "groupIds": [
+      "A-B-E"
+    ]
+  },
+  {
+    "id": "aud-internal-controls",
+    "section": "aud",
+    "areaId": "aud-II",
+    "groupId": "C",
+    "title": "Internal Controls, Walkthroughs & Service Organizations",
+    "lessonId": "aud-m2-l2",
+    "taskIds": [
+      "aud-internal-controls.task-1",
+      "aud-internal-controls.task-2",
+      "aud-internal-controls.task-3"
+    ],
+    "objectives": [
+      "Apply COSO components and control design concepts.",
+      "Distinguish design, implementation, and operating effectiveness.",
+      "Use SOC reports and identify complementary user-entity controls."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "aud-m2-l2"
+    ],
+    "groupIds": [
+      "C"
+    ]
+  },
+  {
+    "id": "aud-materiality-fraud-response",
+    "section": "aud",
+    "areaId": "aud-II",
+    "groupId": "D-E",
+    "title": "Materiality, Fraud & Planned Responses",
+    "lessonId": "aud-m2-l3",
+    "taskIds": [
+      "aud-materiality-fraud-response.task-1",
+      "aud-materiality-fraud-response.task-2",
+      "aud-materiality-fraud-response.task-3"
+    ],
+    "objectives": [
+      "Calculate materiality using specified benchmarks and evaluate qualitative factors.",
+      "Distinguish overall materiality, performance materiality, and clearly trivial thresholds.",
+      "Design responses to fraud risks and aggregated misstatements."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "aud-m2-l3"
+    ],
+    "groupIds": [
+      "D-E"
+    ]
+  },
+  {
+    "id": "aud-special-audit-risks",
+    "section": "aud",
+    "areaId": "aud-II",
+    "groupId": "F-G",
+    "title": "Specialists, Related Parties & Specialized Engagement Risks",
+    "lessonId": "aud-m2-l4",
+    "taskIds": [
+      "aud-special-audit-risks.task-1",
+      "aud-special-audit-risks.task-2",
+      "aud-special-audit-risks.task-3"
+    ],
+    "objectives": [
+      "Evaluate specialists and internal auditors without transferring responsibility.",
+      "Respond to related parties, estimates, and noncompliance risks.",
+      "Identify additional considerations in single audits and employee-benefit-plan audits."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "aud-m2-l4"
+    ],
+    "groupIds": [
+      "F-G"
+    ]
+  },
+  {
+    "id": "aud-assertions-procedures",
+    "section": "aud",
+    "areaId": "aud-III",
+    "groupId": "B-D",
+    "title": "Assertions & Direction of Testing",
+    "lessonId": "aud-m3-l1",
+    "taskIds": [
+      "aud-assertions-procedures.task-1",
+      "aud-assertions-procedures.task-2",
+      "aud-assertions-procedures.task-3"
+    ],
+    "objectives": [
+      "Translate an assertion into a specific possible misstatement.",
+      "Choose the correct population and direction of testing.",
+      "Distinguish tests of controls from substantive procedures."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "aud-m3-l1"
+    ],
+    "groupIds": [
+      "B-D"
+    ]
+  },
+  {
+    "id": "aud-audit-sampling",
+    "section": "aud",
+    "areaId": "aud-III",
+    "groupId": "C",
+    "title": "Sampling, Projection & Evaluation of Exceptions",
+    "lessonId": "aud-m3-l2",
+    "taskIds": [
+      "aud-audit-sampling.task-1",
+      "aud-audit-sampling.task-2",
+      "aud-audit-sampling.task-3"
+    ],
+    "objectives": [
+      "Choose attribute or variables sampling to match the objective.",
+      "Distinguish sampling risk from execution errors.",
+      "Evaluate deviations and projected misstatements with sampling uncertainty."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "aud-m3-l2"
+    ],
+    "groupIds": [
+      "C"
+    ]
+  },
+  {
+    "id": "aud-audit-data",
+    "section": "aud",
+    "areaId": "aud-III",
+    "groupId": "A-B",
+    "title": "Data Reliability & Analytical Procedures",
+    "lessonId": "aud-m3-l3",
+    "taskIds": [
+      "aud-audit-data.task-1",
+      "aud-audit-data.task-2",
+      "aud-audit-data.task-3"
+    ],
+    "objectives": [
+      "Validate completeness, accuracy, and relevance of data before analysis.",
+      "Build an independent and sufficiently precise expectation.",
+      "Investigate significant differences rather than accepting unsupported explanations."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "aud-m3-l3"
+    ],
+    "groupIds": [
+      "A-B"
+    ]
+  },
+  {
+    "id": "aud-audit-evidence",
+    "section": "aud",
+    "areaId": "aud-III",
+    "groupId": "B-D",
+    "title": "Confirmations, Cash, Receivables & Inventory",
+    "lessonId": "aud-m3-l4",
+    "taskIds": [
+      "aud-audit-evidence.task-1",
+      "aud-audit-evidence.task-2",
+      "aud-audit-evidence.task-3"
+    ],
+    "objectives": [
+      "Evaluate evidence relevance and reliability in context.",
+      "Maintain control over confirmation requests and responses.",
+      "Select appropriate inventory observation and alternative procedures."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "aud-m3-l4"
+    ],
+    "groupIds": [
+      "B-D"
+    ]
+  },
+  {
+    "id": "aud-audit-liabilities-estimates",
+    "section": "aud",
+    "areaId": "aud-III",
+    "groupId": "D-E",
+    "title": "Liabilities, Estimates, Litigation & Related Parties",
+    "lessonId": "aud-m3-l5",
+    "taskIds": [
+      "aud-audit-liabilities-estimates.task-1",
+      "aud-audit-liabilities-estimates.task-2",
+      "aud-audit-liabilities-estimates.task-3"
+    ],
+    "objectives": [
+      "Search for unrecorded liabilities using appropriate source evidence.",
+      "Evaluate estimation uncertainty and management bias.",
+      "Obtain evidence about litigation and significant unusual transactions."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "aud-m3-l5"
+    ],
+    "groupIds": [
+      "D-E"
+    ]
+  },
+  {
+    "id": "aud-audit-investments",
+    "section": "aud",
+    "areaId": "aud-III",
+    "groupId": "E-F",
+    "title": "Investments, Fair Value & Evidence Conclusions",
+    "lessonId": "aud-m3-l6",
+    "taskIds": [
+      "aud-audit-investments.task-1",
+      "aud-audit-investments.task-2",
+      "aud-audit-investments.task-3"
+    ],
+    "objectives": [
+      "Audit ownership, valuation, and disclosure of investments.",
+      "Evaluate contradictory evidence and fair-value inputs.",
+      "Determine whether evidence is sufficient and appropriate for a conclusion."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "aud-m3-l6"
+    ],
+    "groupIds": [
+      "E-F"
+    ]
+  },
+  {
+    "id": "aud-audit-opinions",
+    "section": "aud",
+    "areaId": "aud-IV",
+    "groupId": "A",
+    "title": "Unmodified, Qualified, Adverse & Disclaimer Opinions",
+    "lessonId": "aud-m4-l1",
+    "taskIds": [
+      "aud-audit-opinions.task-1",
+      "aud-audit-opinions.task-2",
+      "aud-audit-opinions.task-3"
+    ],
+    "objectives": [
+      "Distinguish known misstatement from insufficient evidence.",
+      "Evaluate materiality and pervasiveness in opinion decisions.",
+      "Explain why an emphasis paragraph cannot cure a modified-opinion issue."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "aud-m4-l1"
+    ],
+    "groupIds": [
+      "A"
+    ]
+  },
+  {
+    "id": "aud-audit-completion",
+    "section": "aud",
+    "areaId": "aud-IV",
+    "groupId": "A-E",
+    "title": "Subsequent Events, Going Concern & Written Representations",
+    "lessonId": "aud-m4-l2",
+    "taskIds": [
+      "aud-audit-completion.task-1",
+      "aud-audit-completion.task-2",
+      "aud-audit-completion.task-3"
+    ],
+    "objectives": [
+      "Evaluate evidence arising after the reporting date.",
+      "Assess going-concern disclosures and management plans.",
+      "Understand the role and timing of written representations."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "aud-m4-l2"
+    ],
+    "groupIds": [
+      "A-E"
+    ]
+  },
+  {
+    "id": "aud-audit-report-elements",
+    "section": "aud",
+    "areaId": "aud-IV",
+    "groupId": "A-B",
+    "title": "Report Elements, CAMs, KAMs & Comparative Information",
+    "lessonId": "aud-m4-l3",
+    "taskIds": [
+      "aud-audit-report-elements.task-1",
+      "aud-audit-report-elements.task-2",
+      "aud-audit-report-elements.task-3"
+    ],
+    "objectives": [
+      "Recognize the function of opinion, basis, responsibility, and other report sections.",
+      "Distinguish critical/key audit matters from modifications.",
+      "Evaluate comparative reporting and special-purpose frameworks."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "aud-m4-l3"
+    ],
+    "groupIds": [
+      "A-B"
+    ]
+  },
+  {
+    "id": "aud-reporting-engagements",
+    "section": "aud",
+    "areaId": "aud-IV",
+    "groupId": "C-D-E-F-G",
+    "title": "Reviews, Compilations, Attestation & Compliance Reporting",
+    "lessonId": "aud-m4-l4",
+    "taskIds": [
+      "aud-reporting-engagements.task-1",
+      "aud-reporting-engagements.task-2",
+      "aud-reporting-engagements.task-3"
+    ],
+    "objectives": [
+      "Compare assurance and reporting across service types.",
+      "Respond to evidence of misstatement during a review.",
+      "Understand appropriate scope and use of attestation and compliance reports."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "aud-m4-l4"
+    ],
+    "groupIds": [
+      "C-D-E-F-G"
+    ]
+  },
+  {
+    "id": "reg-tax-practice-ethics",
+    "section": "reg",
+    "areaId": "reg-I",
+    "groupId": "A-B",
+    "title": "Tax Practitioner Duties & Return Positions",
+    "lessonId": "reg-m1-l1",
+    "taskIds": [
+      "reg-tax-practice-ethics.task-1",
+      "reg-tax-practice-ethics.task-2",
+      "reg-tax-practice-ethics.task-3"
+    ],
+    "objectives": [
+      "Apply diligence and competence to tax preparation and advice.",
+      "Evaluate support and disclosure for return positions.",
+      "Distinguish professional discipline from tax penalties."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "reg-m1-l1"
+    ],
+    "groupIds": [
+      "A-B"
+    ]
+  },
+  {
+    "id": "reg-federal-tax-procedures",
+    "section": "reg",
+    "areaId": "reg-I",
+    "groupId": "C",
+    "title": "IRS Examinations, Appeals, Courts & Penalties",
+    "lessonId": "reg-m1-l2",
+    "taskIds": [
+      "reg-federal-tax-procedures.task-1",
+      "reg-federal-tax-procedures.task-2",
+      "reg-federal-tax-procedures.task-3"
+    ],
+    "objectives": [
+      "Distinguish administrative review and judicial forums.",
+      "Apply specified assessment periods and penalty facts.",
+      "Identify documentation needed to support tax treatment."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "reg-m1-l2"
+    ],
+    "groupIds": [
+      "C"
+    ]
+  },
+  {
+    "id": "reg-tax-authority-confidentiality",
+    "section": "reg",
+    "areaId": "reg-I",
+    "groupId": "C-D",
+    "title": "Tax Authority, Liability, Confidentiality & Privilege",
+    "lessonId": "reg-m1-l3",
+    "taskIds": [
+      "reg-tax-authority-confidentiality.task-1",
+      "reg-tax-authority-confidentiality.task-2",
+      "reg-tax-authority-confidentiality.task-3"
+    ],
+    "objectives": [
+      "Evaluate authoritative sources and jurisdiction.",
+      "Distinguish confidentiality from legal privilege.",
+      "Recognize professional duties to clients and third parties."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "reg-m1-l3"
+    ],
+    "groupIds": [
+      "C-D"
+    ]
+  },
+  {
+    "id": "reg-contracts-agency",
+    "section": "reg",
+    "areaId": "reg-II",
+    "groupId": "A-B",
+    "title": "Contracts, Agency, Performance & Remedies",
+    "lessonId": "reg-m2-l1",
+    "taskIds": [
+      "reg-contracts-agency.task-1",
+      "reg-contracts-agency.task-2",
+      "reg-contracts-agency.task-3"
+    ],
+    "objectives": [
+      "Identify contract formation and enforceability issues.",
+      "Distinguish actual authority, apparent authority, and ratification.",
+      "Apply breach, discharge, and remedy principles."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "reg-m2-l1"
+    ],
+    "groupIds": [
+      "A-B"
+    ]
+  },
+  {
+    "id": "reg-secured-credit-bankruptcy",
+    "section": "reg",
+    "areaId": "reg-II",
+    "groupId": "C-D",
+    "title": "Secured Transactions, Creditors & Bankruptcy",
+    "lessonId": "reg-m2-l2",
+    "taskIds": [
+      "reg-secured-credit-bankruptcy.task-1",
+      "reg-secured-credit-bankruptcy.task-2",
+      "reg-secured-credit-bankruptcy.task-3"
+    ],
+    "objectives": [
+      "Distinguish attachment, perfection, and priority.",
+      "Apply ordinary debtor, creditor, and guarantor principles.",
+      "Recognize the automatic stay and bankruptcy-discharge limitations."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "reg-m2-l2"
+    ],
+    "groupIds": [
+      "C-D"
+    ]
+  },
+  {
+    "id": "reg-business-organizations-regulation",
+    "section": "reg",
+    "areaId": "reg-II",
+    "groupId": "D-E",
+    "title": "Business Entities, Owner Duties & Federal Regulation",
+    "lessonId": "reg-m2-l3",
+    "taskIds": [
+      "reg-business-organizations-regulation.task-1",
+      "reg-business-organizations-regulation.task-2",
+      "reg-business-organizations-regulation.task-3"
+    ],
+    "objectives": [
+      "Compare legal liability and management characteristics of common entities.",
+      "Evaluate worker classification and employment obligations.",
+      "Recognize anti-bribery and other business compliance issues."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "reg-m2-l3"
+    ],
+    "groupIds": [
+      "D-E"
+    ]
+  },
+  {
+    "id": "reg-tax-basis",
+    "section": "reg",
+    "areaId": "reg-III",
+    "groupId": "A",
+    "title": "Tax Basis: Purchases, Gifts, Inheritances & Conversion",
+    "lessonId": "reg-m3-l1",
+    "taskIds": [
+      "reg-tax-basis.task-1",
+      "reg-tax-basis.task-2",
+      "reg-tax-basis.task-3"
+    ],
+    "objectives": [
+      "Compute acquisition and adjusted basis.",
+      "Apply the different gain/loss basis rules for gifts.",
+      "Distinguish inherited basis and conversion depreciation basis."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "reg-m3-l1"
+    ],
+    "groupIds": [
+      "A"
+    ]
+  },
+  {
+    "id": "reg-property-depreciation",
+    "section": "reg",
+    "areaId": "reg-III",
+    "groupId": "B",
+    "title": "Depreciation, Expensing & Capitalization",
+    "lessonId": "reg-m3-l2",
+    "taskIds": [
+      "reg-property-depreciation.task-1",
+      "reg-property-depreciation.task-2",
+      "reg-property-depreciation.task-3"
+    ],
+    "objectives": [
+      "Apply cost-recovery assumptions in the proper order.",
+      "Distinguish capital improvements from current expenditures.",
+      "Track tax-law periods, conventions, and limits."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "reg-m3-l2"
+    ],
+    "groupIds": [
+      "B"
+    ]
+  },
+  {
+    "id": "reg-property-dispositions",
+    "section": "reg",
+    "areaId": "reg-III",
+    "groupId": "A-B",
+    "title": "Realized Gain, Recognized Gain & Character",
+    "lessonId": "reg-m3-l3",
+    "taskIds": [
+      "reg-property-dispositions.task-1",
+      "reg-property-dispositions.task-2",
+      "reg-property-dispositions.task-3"
+    ],
+    "objectives": [
+      "Compute amount realized and adjusted-basis gain or loss.",
+      "Distinguish capital assets and business property.",
+      "Evaluate depreciation recapture using stated facts."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "reg-m3-l3"
+    ],
+    "groupIds": [
+      "A-B"
+    ]
+  },
+  {
+    "id": "reg-individual-income",
+    "section": "reg",
+    "areaId": "reg-IV",
+    "groupId": "A",
+    "title": "Gross Income, Exclusions & Investment Income",
+    "lessonId": "reg-m4-l1",
+    "taskIds": [
+      "reg-individual-income.task-1",
+      "reg-individual-income.task-2",
+      "reg-individual-income.task-3"
+    ],
+    "objectives": [
+      "Identify taxable receipts and common exclusions.",
+      "Compute capital gains using basis and holding-period facts.",
+      "Distinguish receipt of an asset from its later disposition."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "reg-m4-l1"
+    ],
+    "groupIds": [
+      "A"
+    ]
+  },
+  {
+    "id": "reg-individual-deductions",
+    "section": "reg",
+    "areaId": "reg-IV",
+    "groupId": "B-C",
+    "title": "AGI, Itemized Deductions & Taxable Income",
+    "lessonId": "reg-m4-l2",
+    "taskIds": [
+      "reg-individual-deductions.task-1",
+      "reg-individual-deductions.task-2",
+      "reg-individual-deductions.task-3"
+    ],
+    "objectives": [
+      "Distinguish adjustments to income from deductions after AGI.",
+      "Compare allowed itemized deductions with the applicable standard deduction.",
+      "Apply supplied limitations and compute taxable income."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "reg-m4-l2"
+    ],
+    "groupIds": [
+      "B-C"
+    ]
+  },
+  {
+    "id": "reg-individual-filing-credits",
+    "section": "reg",
+    "areaId": "reg-IV",
+    "groupId": "D-E",
+    "title": "Filing Status, Credits, Payments & Return Review",
+    "lessonId": "reg-m4-l3",
+    "taskIds": [
+      "reg-individual-filing-credits.task-1",
+      "reg-individual-filing-credits.task-2",
+      "reg-individual-filing-credits.task-3"
+    ],
+    "objectives": [
+      "Identify filing-status facts and related responsibilities.",
+      "Apply refundable and nonrefundable credit mechanics.",
+      "Reconcile total tax, withholding, estimates, and refunds."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "reg-m4-l3"
+    ],
+    "groupIds": [
+      "D-E"
+    ]
+  },
+  {
+    "id": "reg-entity-corporations",
+    "section": "reg",
+    "areaId": "reg-V",
+    "groupId": "A-B",
+    "title": "C Corporations: Taxable Income, Formation & Distributions",
+    "lessonId": "reg-m5-l1",
+    "taskIds": [
+      "reg-entity-corporations.task-1",
+      "reg-entity-corporations.task-2",
+      "reg-entity-corporations.task-3"
+    ],
+    "objectives": [
+      "Reconcile book income to taxable income using stated tax adjustments.",
+      "Identify basic Section 351 formation requirements.",
+      "Distinguish dividends, basis recovery, and capital gain."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "reg-m5-l1"
+    ],
+    "groupIds": [
+      "A-B"
+    ]
+  },
+  {
+    "id": "reg-entity-partnerships",
+    "section": "reg",
+    "areaId": "reg-V",
+    "groupId": "D",
+    "title": "Partnership Income, Outside Basis & Distributions",
+    "lessonId": "reg-m5-l2",
+    "taskIds": [
+      "reg-entity-partnerships.task-1",
+      "reg-entity-partnerships.task-2",
+      "reg-entity-partnerships.task-3"
+    ],
+    "objectives": [
+      "Distinguish partnership ordinary income and separately stated items.",
+      "Compute outside basis using contributions, allocations, debt, and distributions.",
+      "Apply basic cash-distribution and loss-basis limitations."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "reg-m5-l2"
+    ],
+    "groupIds": [
+      "D"
+    ]
+  },
+  {
+    "id": "reg-entity-s-corporations",
+    "section": "reg",
+    "areaId": "reg-V",
+    "groupId": "C",
+    "title": "S Corporations: Eligibility, Basis & Pass-Through Items",
+    "lessonId": "reg-m5-l3",
+    "taskIds": [
+      "reg-entity-s-corporations.task-1",
+      "reg-entity-s-corporations.task-2",
+      "reg-entity-s-corporations.task-3"
+    ],
+    "objectives": [
+      "Recognize core S-election eligibility requirements.",
+      "Distinguish stock basis, direct debt basis, and guarantees.",
+      "Apply basic distribution and loss-basis rules."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "reg-m5-l3"
+    ],
+    "groupIds": [
+      "C"
+    ]
+  },
+  {
+    "id": "bar-financial-analysis",
+    "section": "bar",
+    "areaId": "bar-I",
+    "groupId": "A",
+    "title": "Financial Ratios, Trends & Data Quality",
+    "lessonId": "bar-m1-l1",
+    "taskIds": [
+      "bar-financial-analysis.task-1",
+      "bar-financial-analysis.task-2",
+      "bar-financial-analysis.task-3"
+    ],
+    "objectives": [
+      "Compute and interpret liquidity, profitability, and turnover measures.",
+      "Distinguish operating changes from accounting or data changes.",
+      "Use reliable comparable data for business conclusions."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "bar-m1-l1"
+    ],
+    "groupIds": [
+      "A"
+    ]
+  },
+  {
+    "id": "bar-budgeting-forecasting",
+    "section": "bar",
+    "areaId": "bar-I",
+    "groupId": "B",
+    "title": "Budgets, Forecasts, Cash Planning & Working Capital",
+    "lessonId": "bar-m1-l2",
+    "taskIds": [
+      "bar-budgeting-forecasting.task-1",
+      "bar-budgeting-forecasting.task-2",
+      "bar-budgeting-forecasting.task-3"
+    ],
+    "objectives": [
+      "Build operating and cash budgets from linked assumptions.",
+      "Distinguish forecasts from hypothetical projections.",
+      "Evaluate the cash consequences of collection and payment timing."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "bar-m1-l2"
+    ],
+    "groupIds": [
+      "B"
+    ]
+  },
+  {
+    "id": "bar-cost-volume-profit",
+    "section": "bar",
+    "areaId": "bar-I",
+    "groupId": "A-B",
+    "title": "Cost Behavior, CVP & Relevant Decisions",
+    "lessonId": "bar-m1-l3",
+    "taskIds": [
+      "bar-cost-volume-profit.task-1",
+      "bar-cost-volume-profit.task-2",
+      "bar-cost-volume-profit.task-3"
+    ],
+    "objectives": [
+      "Compute contribution margin and break-even output.",
+      "Distinguish relevant, sunk, and opportunity costs.",
+      "Evaluate constrained-resource and make-or-buy choices."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "bar-m1-l3"
+    ],
+    "groupIds": [
+      "A-B"
+    ]
+  },
+  {
+    "id": "bar-variance-analysis",
+    "section": "bar",
+    "areaId": "bar-I",
+    "groupId": "A",
+    "title": "Standard Costs, Variances & Performance Interpretation",
+    "lessonId": "bar-m1-l4",
+    "taskIds": [
+      "bar-variance-analysis.task-1",
+      "bar-variance-analysis.task-2",
+      "bar-variance-analysis.task-3"
+    ],
+    "objectives": [
+      "Compute price/rate and quantity/efficiency variances.",
+      "Separate activity effects from spending or efficiency effects.",
+      "Investigate causes and avoid evaluating managers from one variance alone."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "bar-m1-l4"
+    ],
+    "groupIds": [
+      "A"
+    ]
+  },
+  {
+    "id": "bar-capital-budgeting",
+    "section": "bar",
+    "areaId": "bar-I",
+    "groupId": "B",
+    "title": "Capital Structure, Cost of Capital & Investment Decisions",
+    "lessonId": "bar-m1-l5",
+    "taskIds": [
+      "bar-capital-budgeting.task-1",
+      "bar-capital-budgeting.task-2",
+      "bar-capital-budgeting.task-3"
+    ],
+    "objectives": [
+      "Compute weighted cost of capital from specified assumptions.",
+      "Evaluate discounted cash flows and opportunity costs.",
+      "Distinguish NPV, payback, and accounting return measures."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "bar-m1-l5"
+    ],
+    "groupIds": [
+      "B"
+    ]
+  },
+  {
+    "id": "bar-performance-risk-valuation",
+    "section": "bar",
+    "areaId": "bar-I",
+    "groupId": "A-B",
+    "title": "Performance Measures, Enterprise Risk & Valuation",
+    "lessonId": "bar-m1-l6",
+    "taskIds": [
+      "bar-performance-risk-valuation.task-1",
+      "bar-performance-risk-valuation.task-2",
+      "bar-performance-risk-valuation.task-3"
+    ],
+    "objectives": [
+      "Combine financial and nonfinancial performance evidence.",
+      "Connect enterprise risk to strategy and objectives.",
+      "Apply supplied valuation multiples and economic relationships."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "bar-m1-l6"
+    ],
+    "groupIds": [
+      "A-B"
+    ]
+  },
+  {
+    "id": "bar-advanced-revenue",
+    "section": "bar",
+    "areaId": "bar-II",
+    "groupId": "C",
+    "title": "Revenue Contracts, Modifications & Principal–Agent Analysis",
+    "lessonId": "bar-m2-l1",
+    "taskIds": [
+      "bar-advanced-revenue.task-1",
+      "bar-advanced-revenue.task-2",
+      "bar-advanced-revenue.task-3"
+    ],
+    "objectives": [
+      "Allocate transaction price to distinct performance obligations.",
+      "Evaluate modification and variable-consideration facts.",
+      "Distinguish principal and agent presentation."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "bar-m2-l1"
+    ],
+    "groupIds": [
+      "C"
+    ]
+  },
+  {
+    "id": "bar-advanced-leases",
+    "section": "bar",
+    "areaId": "bar-II",
+    "groupId": "G",
+    "title": "Lessor Accounting & Lessee Measurement Review",
+    "lessonId": "bar-m2-l2",
+    "taskIds": [
+      "bar-advanced-leases.task-1",
+      "bar-advanced-leases.task-2",
+      "bar-advanced-leases.task-3"
+    ],
+    "objectives": [
+      "Apply lease classification and present-value measurement facts.",
+      "Compute a lessor’s investment and interest under supplied assumptions.",
+      "Review a lessee’s liability and right-of-use asset."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "bar-m2-l2"
+    ],
+    "groupIds": [
+      "G"
+    ]
+  },
+  {
+    "id": "bar-business-combinations",
+    "section": "bar",
+    "areaId": "bar-II",
+    "groupId": "E",
+    "title": "Business Combinations, Goodwill & Noncontrolling Interests",
+    "lessonId": "bar-m2-l3",
+    "taskIds": [
+      "bar-business-combinations.task-1",
+      "bar-business-combinations.task-2",
+      "bar-business-combinations.task-3"
+    ],
+    "objectives": [
+      "Apply the acquisition method to specified fair values.",
+      "Compute goodwill or identify a bargain-purchase situation.",
+      "Distinguish acquisition costs from consideration and financing costs."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "bar-m2-l3"
+    ],
+    "groupIds": [
+      "E"
+    ]
+  },
+  {
+    "id": "bar-consolidation-currency",
+    "section": "bar",
+    "areaId": "bar-II",
+    "groupId": "F",
+    "title": "Consolidation, Intercompany Profit & Foreign Currency",
+    "lessonId": "bar-m2-l4",
+    "taskIds": [
+      "bar-consolidation-currency.task-1",
+      "bar-consolidation-currency.task-2",
+      "bar-consolidation-currency.task-3"
+    ],
+    "objectives": [
+      "Eliminate intercompany balances and unrealized profit.",
+      "Recognize the role of control and variable-interest analysis.",
+      "Distinguish translation from remeasurement using functional-currency facts."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "bar-m2-l4"
+    ],
+    "groupIds": [
+      "F"
+    ]
+  },
+  {
+    "id": "bar-derivatives-hedges",
+    "section": "bar",
+    "areaId": "bar-II",
+    "groupId": "D",
+    "title": "Derivatives, Hedge Accounting & Foreign-Currency Transactions",
+    "lessonId": "bar-m2-l5",
+    "taskIds": [
+      "bar-derivatives-hedges.task-1",
+      "bar-derivatives-hedges.task-2",
+      "bar-derivatives-hedges.task-3"
+    ],
+    "objectives": [
+      "Recognize derivatives at fair value.",
+      "Distinguish fair-value and cash-flow hedge accounting.",
+      "Evaluate recognition of transaction exchange gains and losses."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "bar-m2-l5"
+    ],
+    "groupIds": [
+      "D"
+    ]
+  },
+  {
+    "id": "bar-share-based-compensation",
+    "section": "bar",
+    "areaId": "bar-II",
+    "groupId": "C",
+    "title": "Share-Based Compensation & Service Conditions",
+    "lessonId": "bar-m2-l6",
+    "taskIds": [
+      "bar-share-based-compensation.task-1",
+      "bar-share-based-compensation.task-2",
+      "bar-share-based-compensation.task-3"
+    ],
+    "objectives": [
+      "Compute compensation cost from grant-date fair value under stated equity-award assumptions.",
+      "Allocate cost over the requisite service period.",
+      "Distinguish service, performance, and market-condition considerations."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "bar-m2-l6"
+    ],
+    "groupIds": [
+      "C"
+    ]
+  },
+  {
+    "id": "bar-intangibles-software-research",
+    "section": "bar",
+    "areaId": "bar-II",
+    "groupId": "A-B-C",
+    "title": "Goodwill, Indefinite-Lived Assets, Software & R&D",
+    "lessonId": "bar-m2-l7",
+    "taskIds": [
+      "bar-intangibles-software-research.task-1",
+      "bar-intangibles-software-research.task-2",
+      "bar-intangibles-software-research.task-3"
+    ],
+    "objectives": [
+      "Evaluate goodwill impairment under supplied reporting-unit measurements.",
+      "Distinguish indefinite-lived from finite-lived asset treatment.",
+      "Apply the stated capitalization model to software and research costs."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "bar-m2-l7"
+    ],
+    "groupIds": [
+      "A-B-C"
+    ]
+  },
+  {
+    "id": "bar-segments-benefit-plans",
+    "section": "bar",
+    "areaId": "bar-II",
+    "groupId": "H-I",
+    "title": "Public-Company Disclosures, Segments & Benefit Plans",
+    "lessonId": "bar-m2-l8",
+    "taskIds": [
+      "bar-segments-benefit-plans.task-1",
+      "bar-segments-benefit-plans.task-2",
+      "bar-segments-benefit-plans.task-3"
+    ],
+    "objectives": [
+      "Apply supplied reportable-segment thresholds and coverage tests.",
+      "Distinguish financial-statement requirements from other public-company disclosures.",
+      "Prepare basic employee-benefit-plan net-asset changes."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "bar-m2-l8"
+    ],
+    "groupIds": [
+      "H-I"
+    ]
+  },
+  {
+    "id": "bar-government-funds",
+    "section": "bar",
+    "areaId": "bar-III",
+    "groupId": "A-B-C",
+    "title": "Governmental Foundations & Fund Classification",
+    "lessonId": "bar-m3-l1",
+    "taskIds": [
+      "bar-government-funds.task-1",
+      "bar-government-funds.task-2",
+      "bar-government-funds.task-3"
+    ],
+    "objectives": [
+      "Explain governmental foundations & fund classification.",
+      "Apply measurement-focus and basis-of-accounting differences.",
+      "Prepare and reconcile appropriate governmental reporting amounts."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "bar-m3-l1"
+    ],
+    "groupIds": [
+      "A-B-C"
+    ]
+  },
+  {
+    "id": "bar-government-modified-accrual",
+    "section": "bar",
+    "areaId": "bar-III",
+    "groupId": "A-B-C",
+    "title": "Modified Accrual & Governmental Fund Statements",
+    "lessonId": "bar-m3-l2",
+    "taskIds": [
+      "bar-government-modified-accrual.task-1",
+      "bar-government-modified-accrual.task-2",
+      "bar-government-modified-accrual.task-3"
+    ],
+    "objectives": [
+      "Explain modified accrual & governmental fund statements.",
+      "Apply measurement-focus and basis-of-accounting differences.",
+      "Prepare and reconcile appropriate governmental reporting amounts."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "bar-m3-l2"
+    ],
+    "groupIds": [
+      "A-B-C"
+    ]
+  },
+  {
+    "id": "bar-government-proprietary-fiduciary",
+    "section": "bar",
+    "areaId": "bar-III",
+    "groupId": "A-B-C",
+    "title": "Proprietary and Fiduciary Funds",
+    "lessonId": "bar-m3-l3",
+    "taskIds": [
+      "bar-government-proprietary-fiduciary.task-1",
+      "bar-government-proprietary-fiduciary.task-2",
+      "bar-government-proprietary-fiduciary.task-3"
+    ],
+    "objectives": [
+      "Explain proprietary and fiduciary funds.",
+      "Apply measurement-focus and basis-of-accounting differences.",
+      "Prepare and reconcile appropriate governmental reporting amounts."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "bar-m3-l3"
+    ],
+    "groupIds": [
+      "A-B-C"
+    ]
+  },
+  {
+    "id": "bar-government-reconciliation",
+    "section": "bar",
+    "areaId": "bar-III",
+    "groupId": "A-B-C",
+    "title": "Government-Wide Reporting & Reconciliation",
+    "lessonId": "bar-m3-l4",
+    "taskIds": [
+      "bar-government-reconciliation.task-1",
+      "bar-government-reconciliation.task-2",
+      "bar-government-reconciliation.task-3"
+    ],
+    "objectives": [
+      "Explain government-wide reporting & reconciliation.",
+      "Apply measurement-focus and basis-of-accounting differences.",
+      "Prepare and reconcile appropriate governmental reporting amounts."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "bar-m3-l4"
+    ],
+    "groupIds": [
+      "A-B-C"
+    ]
+  },
+  {
+    "id": "bar-government-budgets",
+    "section": "bar",
+    "areaId": "bar-III",
+    "groupId": "A-B-C",
+    "title": "Budgets, Encumbrances & Integrated Reporting",
+    "lessonId": "bar-m3-l5",
+    "taskIds": [
+      "bar-government-budgets.task-1",
+      "bar-government-budgets.task-2",
+      "bar-government-budgets.task-3"
+    ],
+    "objectives": [
+      "Explain budgets, encumbrances & integrated reporting.",
+      "Apply measurement-focus and basis-of-accounting differences.",
+      "Prepare and reconcile appropriate governmental reporting amounts."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "bar-m3-l5"
+    ],
+    "groupIds": [
+      "A-B-C"
+    ]
+  },
+  {
+    "id": "bar-government-liabilities",
+    "section": "bar",
+    "areaId": "bar-III",
+    "groupId": "C",
+    "title": "Governmental Capital Assets, Pensions & OPEB",
+    "lessonId": "bar-m3-l6",
+    "taskIds": [
+      "bar-government-liabilities.task-1",
+      "bar-government-liabilities.task-2",
+      "bar-government-liabilities.task-3"
+    ],
+    "objectives": [
+      "Distinguish fund-level expenditures from government-wide capital assets.",
+      "Compute a net pension or OPEB liability from supplied measurements.",
+      "Evaluate recognition and disclosure for governmental long-term obligations."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "bar-m3-l6"
+    ],
+    "groupIds": [
+      "C"
+    ]
+  },
+  {
+    "id": "isc-it-infrastructure-cloud",
+    "section": "isc",
+    "areaId": "isc-I",
+    "groupId": "A.1",
+    "title": "IT Architecture, Cloud Models & Shared Responsibilities",
+    "lessonId": "isc-m1-l1",
+    "taskIds": [
+      "isc-it-infrastructure-cloud.task-1",
+      "isc-it-infrastructure-cloud.task-2",
+      "isc-it-infrastructure-cloud.task-3"
+    ],
+    "objectives": [
+      "Distinguish infrastructure components and cloud service models.",
+      "Identify responsibilities retained by the customer.",
+      "Evaluate architecture-related risks and evidence."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "isc-m1-l1"
+    ],
+    "groupIds": [
+      "A.1"
+    ]
+  },
+  {
+    "id": "isc-enterprise-systems",
+    "section": "isc",
+    "areaId": "isc-I",
+    "groupId": "A.2",
+    "title": "ERP, Business Processes, Interfaces & Automation",
+    "lessonId": "isc-m1-l2",
+    "taskIds": [
+      "isc-enterprise-systems.task-1",
+      "isc-enterprise-systems.task-2",
+      "isc-enterprise-systems.task-3"
+    ],
+    "objectives": [
+      "Trace transaction flows through enterprise systems.",
+      "Distinguish general IT controls from application controls.",
+      "Evaluate automation and emerging-technology dependencies."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "isc-m1-l2"
+    ],
+    "groupIds": [
+      "A.2"
+    ]
+  },
+  {
+    "id": "isc-data-management-sql",
+    "section": "isc",
+    "areaId": "isc-I",
+    "groupId": "B",
+    "title": "Data Integrity, Databases, SQL & Data Lifecycle",
+    "lessonId": "isc-m1-l3",
+    "taskIds": [
+      "isc-data-management-sql.task-1",
+      "isc-data-management-sql.task-2",
+      "isc-data-management-sql.task-3"
+    ],
+    "objectives": [
+      "Distinguish storage models and data integrity concepts.",
+      "Evaluate joins, filters, and aggregations for completeness.",
+      "Apply data-lifecycle governance and retention principles."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "isc-m1-l3"
+    ],
+    "groupIds": [
+      "B"
+    ]
+  },
+  {
+    "id": "isc-change-management",
+    "section": "isc",
+    "areaId": "isc-I",
+    "groupId": "A.4",
+    "title": "SDLC, Change Management, Configuration & Releases",
+    "lessonId": "isc-m1-l4",
+    "taskIds": [
+      "isc-change-management.task-1",
+      "isc-change-management.task-2",
+      "isc-change-management.task-3"
+    ],
+    "objectives": [
+      "Distinguish development, testing, staging, and production environments.",
+      "Evaluate change authorization, testing, approval, and rollback.",
+      "Identify risks from privileged changes and uncontrolled configuration."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "isc-m1-l4"
+    ],
+    "groupIds": [
+      "A.4"
+    ]
+  },
+  {
+    "id": "isc-availability-recovery",
+    "section": "isc",
+    "areaId": "isc-I",
+    "groupId": "A.3",
+    "title": "Availability, Backups, Business Continuity & Disaster Recovery",
+    "lessonId": "isc-m1-l5",
+    "taskIds": [
+      "isc-availability-recovery.task-1",
+      "isc-availability-recovery.task-2",
+      "isc-availability-recovery.task-3"
+    ],
+    "objectives": [
+      "Distinguish RTO and RPO.",
+      "Evaluate backup and recovery approaches.",
+      "Connect business-impact analysis to tested continuity plans."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "isc-m1-l5"
+    ],
+    "groupIds": [
+      "A.3"
+    ]
+  },
+  {
+    "id": "isc-identity-access",
+    "section": "isc",
+    "areaId": "isc-II",
+    "groupId": "B-C",
+    "title": "Identity, Authentication, Authorization & Access Reviews",
+    "lessonId": "isc-m2-l1",
+    "taskIds": [
+      "isc-identity-access.task-1",
+      "isc-identity-access.task-2",
+      "isc-identity-access.task-3"
+    ],
+    "objectives": [
+      "Distinguish identification, authentication, and authorization.",
+      "Apply least privilege and joiner/mover/leaver controls.",
+      "Evaluate MFA, privileged access, and access-review evidence."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "isc-m2-l1"
+    ],
+    "groupIds": [
+      "B-C"
+    ]
+  },
+  {
+    "id": "isc-security-threats-response",
+    "section": "isc",
+    "areaId": "isc-II",
+    "groupId": "B-C",
+    "title": "Threats, Vulnerabilities, Monitoring & Incident Response",
+    "lessonId": "isc-m2-l2",
+    "taskIds": [
+      "isc-security-threats-response.task-1",
+      "isc-security-threats-response.task-2",
+      "isc-security-threats-response.task-3"
+    ],
+    "objectives": [
+      "Distinguish threats, vulnerabilities, risks, and incidents.",
+      "Evaluate preventive, detective, and corrective controls.",
+      "Apply a controlled incident-response process."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "isc-m2-l2"
+    ],
+    "groupIds": [
+      "B-C"
+    ]
+  },
+  {
+    "id": "isc-confidentiality-encryption",
+    "section": "isc",
+    "areaId": "isc-II",
+    "groupId": "B-C",
+    "title": "Confidentiality, Encryption, Classification & Key Management",
+    "lessonId": "isc-m2-l3",
+    "taskIds": [
+      "isc-confidentiality-encryption.task-1",
+      "isc-confidentiality-encryption.task-2",
+      "isc-confidentiality-encryption.task-3"
+    ],
+    "objectives": [
+      "Distinguish encryption, hashing, and access control.",
+      "Connect data classification to protection requirements.",
+      "Evaluate key management and data-disposal controls."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "isc-m2-l3"
+    ],
+    "groupIds": [
+      "B-C"
+    ]
+  },
+  {
+    "id": "isc-privacy-regulation",
+    "section": "isc",
+    "areaId": "isc-II",
+    "groupId": "A",
+    "title": "Privacy, HIPAA, GDPR & Payment-Card Requirements",
+    "lessonId": "isc-m2-l4",
+    "taskIds": [
+      "isc-privacy-regulation.task-1",
+      "isc-privacy-regulation.task-2",
+      "isc-privacy-regulation.task-3"
+    ],
+    "objectives": [
+      "Distinguish confidentiality and privacy.",
+      "Identify the scope of major privacy and payment-data frameworks.",
+      "Evaluate purpose, minimization, retention, and third-party processing."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "isc-m2-l4"
+    ],
+    "groupIds": [
+      "A"
+    ]
+  },
+  {
+    "id": "isc-security-frameworks-controls",
+    "section": "isc",
+    "areaId": "isc-II",
+    "groupId": "A-B-C",
+    "title": "Security Frameworks, Risk Assessment & Control Evaluation",
+    "lessonId": "isc-m2-l5",
+    "taskIds": [
+      "isc-security-frameworks-controls.task-1",
+      "isc-security-frameworks-controls.task-2",
+      "isc-security-frameworks-controls.task-3"
+    ],
+    "objectives": [
+      "Recognize framework purposes and components.",
+      "Evaluate whether controls address identified risks.",
+      "Distinguish design suitability from operating effectiveness."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "isc-m2-l5"
+    ],
+    "groupIds": [
+      "A-B-C"
+    ]
+  },
+  {
+    "id": "isc-soc-report-types",
+    "section": "isc",
+    "areaId": "isc-III",
+    "groupId": "A",
+    "title": "SOC 1, SOC 2, SOC 3 & Type 1/Type 2 Reports",
+    "lessonId": "isc-m3-l1",
+    "taskIds": [
+      "isc-soc-report-types.task-1",
+      "isc-soc-report-types.task-2",
+      "isc-soc-report-types.task-3"
+    ],
+    "objectives": [
+      "Match report types to intended subject matter and use.",
+      "Distinguish an at-a-date report from a period-of-time report.",
+      "Identify what a report does and does not establish."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "isc-m3-l1"
+    ],
+    "groupIds": [
+      "A"
+    ]
+  },
+  {
+    "id": "isc-soc-system-criteria",
+    "section": "isc",
+    "areaId": "isc-III",
+    "groupId": "A-B",
+    "title": "System Descriptions, Boundaries & Trust Services Criteria",
+    "lessonId": "isc-m3-l2",
+    "taskIds": [
+      "isc-soc-system-criteria.task-1",
+      "isc-soc-system-criteria.task-2",
+      "isc-soc-system-criteria.task-3"
+    ],
+    "objectives": [
+      "Identify system-description components and boundaries.",
+      "Distinguish Trust Services categories and commitments.",
+      "Evaluate whether criteria and descriptions support the engagement."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "isc-m3-l2"
+    ],
+    "groupIds": [
+      "A-B"
+    ]
+  },
+  {
+    "id": "isc-soc-subservices-user-controls",
+    "section": "isc",
+    "areaId": "isc-III",
+    "groupId": "A-B",
+    "title": "Subservice Organizations & Complementary User Controls",
+    "lessonId": "isc-m3-l3",
+    "taskIds": [
+      "isc-soc-subservices-user-controls.task-1",
+      "isc-soc-subservices-user-controls.task-2",
+      "isc-soc-subservices-user-controls.task-3"
+    ],
+    "objectives": [
+      "Distinguish carve-out and inclusive methods.",
+      "Identify complementary user-entity and subservice controls.",
+      "Evaluate coverage gaps in outsourced chains."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "isc-m3-l3"
+    ],
+    "groupIds": [
+      "A-B"
+    ]
+  },
+  {
+    "id": "isc-soc-testing-evidence",
+    "section": "isc",
+    "areaId": "isc-III",
+    "groupId": "B-C",
+    "title": "SOC Planning, Testing & Evidence Evaluation",
+    "lessonId": "isc-m3-l4",
+    "taskIds": [
+      "isc-soc-testing-evidence.task-1",
+      "isc-soc-testing-evidence.task-2",
+      "isc-soc-testing-evidence.task-3"
+    ],
+    "objectives": [
+      "Design tests consistent with the criteria and control objective.",
+      "Evaluate relevant populations, evidence, and exceptions.",
+      "Distinguish design and operating-effectiveness conclusions."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "isc-m3-l4"
+    ],
+    "groupIds": [
+      "B-C"
+    ]
+  },
+  {
+    "id": "isc-soc-report-conclusions",
+    "section": "isc",
+    "areaId": "isc-III",
+    "groupId": "C",
+    "title": "SOC Findings, Opinions & User Interpretation",
+    "lessonId": "isc-m3-l5",
+    "taskIds": [
+      "isc-soc-report-conclusions.task-1",
+      "isc-soc-report-conclusions.task-2",
+      "isc-soc-report-conclusions.task-3"
+    ],
+    "objectives": [
+      "Connect description, design, and operation findings to conclusions.",
+      "Evaluate report modifications and scope limitations.",
+      "Use report findings in a user entity’s risk response."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "isc-m3-l5"
+    ],
+    "groupIds": [
+      "C"
+    ]
+  },
+  {
+    "id": "tcp-individual-advanced-planning",
+    "section": "tcp",
+    "areaId": "tcp-I",
+    "groupId": "A",
+    "title": "Equity Compensation, Estimated Tax & Multiyear Planning",
+    "lessonId": "tcp-m1-l1",
+    "taskIds": [
+      "tcp-individual-advanced-planning.task-1",
+      "tcp-individual-advanced-planning.task-2",
+      "tcp-individual-advanced-planning.task-3"
+    ],
+    "objectives": [
+      "Analyze compensation timing and supplied AMT facts.",
+      "Compute estimated-tax requirements under stated safe harbors.",
+      "Compare lawful timing alternatives using changing rates."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "tcp-m1-l1"
+    ],
+    "groupIds": [
+      "A"
+    ]
+  },
+  {
+    "id": "tcp-at-risk-passive-losses",
+    "section": "tcp",
+    "areaId": "tcp-I",
+    "groupId": "B",
+    "title": "Basis, At-Risk & Passive-Activity Loss Limitations",
+    "lessonId": "tcp-m1-l2",
+    "taskIds": [
+      "tcp-at-risk-passive-losses.task-1",
+      "tcp-at-risk-passive-losses.task-2",
+      "tcp-at-risk-passive-losses.task-3"
+    ],
+    "objectives": [
+      "Apply loss limitations in the proper sequence.",
+      "Track separately suspended losses.",
+      "Evaluate disposition and participation facts."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "tcp-m1-l2"
+    ],
+    "groupIds": [
+      "B"
+    ]
+  },
+  {
+    "id": "tcp-personal-financial-planning",
+    "section": "tcp",
+    "areaId": "tcp-I",
+    "groupId": "C-D",
+    "title": "Retirement, Education, Gifts & After-Tax Investing",
+    "lessonId": "tcp-m1-l3",
+    "taskIds": [
+      "tcp-personal-financial-planning.task-1",
+      "tcp-personal-financial-planning.task-2",
+      "tcp-personal-financial-planning.task-3"
+    ],
+    "objectives": [
+      "Compare after-tax investment returns using consistent assumptions.",
+      "Distinguish traditional and Roth-style retirement treatment.",
+      "Evaluate gifting, ownership, and education-planning considerations."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "tcp-m1-l3"
+    ],
+    "groupIds": [
+      "C-D"
+    ]
+  },
+  {
+    "id": "tcp-gift-estate-planning",
+    "section": "tcp",
+    "areaId": "tcp-I",
+    "groupId": "C-D",
+    "title": "Gift Exclusions, Gift Splitting & Basis Tradeoffs",
+    "lessonId": "tcp-m1-l4",
+    "taskIds": [
+      "tcp-gift-estate-planning.task-1",
+      "tcp-gift-estate-planning.task-2",
+      "tcp-gift-estate-planning.task-3"
+    ],
+    "objectives": [
+      "Apply annual exclusions to qualifying present-interest gifts.",
+      "Distinguish direct tuition payments from other transfers.",
+      "Evaluate gift splitting and income-tax basis tradeoffs."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "tcp-m1-l4"
+    ],
+    "groupIds": [
+      "C-D"
+    ]
+  },
+  {
+    "id": "tcp-corporate-loss-compliance",
+    "section": "tcp",
+    "areaId": "tcp-II",
+    "groupId": "A",
+    "title": "Corporate Losses, Limitations & Book–Tax Reconciliation",
+    "lessonId": "tcp-m2-l1",
+    "taskIds": [
+      "tcp-corporate-loss-compliance.task-1",
+      "tcp-corporate-loss-compliance.task-2",
+      "tcp-corporate-loss-compliance.task-3"
+    ],
+    "objectives": [
+      "Apply supplied NOL and ownership-change limits.",
+      "Distinguish corporate capital-loss and ordinary-loss treatment.",
+      "Review schedules without double-counting tax adjustments."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "tcp-m2-l1"
+    ],
+    "groupIds": [
+      "A"
+    ]
+  },
+  {
+    "id": "tcp-partnership-advanced-compliance",
+    "section": "tcp",
+    "areaId": "tcp-II",
+    "groupId": "B",
+    "title": "Partnership Transactions, Hot Assets & Basis Adjustments",
+    "lessonId": "tcp-m2-l2",
+    "taskIds": [
+      "tcp-partnership-advanced-compliance.task-1",
+      "tcp-partnership-advanced-compliance.task-2",
+      "tcp-partnership-advanced-compliance.task-3"
+    ],
+    "objectives": [
+      "Distinguish guaranteed payments from distributions and allocations.",
+      "Compute gain on an interest sale including liability relief.",
+      "Evaluate hot-asset character and transferee-specific basis adjustments."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "tcp-m2-l2"
+    ],
+    "groupIds": [
+      "B"
+    ]
+  },
+  {
+    "id": "tcp-s-corporation-advanced-compliance",
+    "section": "tcp",
+    "areaId": "tcp-II",
+    "groupId": "C",
+    "title": "S Corporation Debt Basis, Distributions & Built-In Gains",
+    "lessonId": "tcp-m2-l3",
+    "taskIds": [
+      "tcp-s-corporation-advanced-compliance.task-1",
+      "tcp-s-corporation-advanced-compliance.task-2",
+      "tcp-s-corporation-advanced-compliance.task-3"
+    ],
+    "objectives": [
+      "Track stock and direct debt basis separately.",
+      "Evaluate repayment of reduced-basis shareholder debt.",
+      "Apply supplied built-in-gains and accumulated-E&P facts."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "tcp-m2-l3"
+    ],
+    "groupIds": [
+      "C"
+    ]
+  },
+  {
+    "id": "tcp-entity-property-distributions",
+    "section": "tcp",
+    "areaId": "tcp-II",
+    "groupId": "A-B-C",
+    "title": "Property Distributions & Liquidation Basis Schedules",
+    "lessonId": "tcp-m2-l4",
+    "taskIds": [
+      "tcp-entity-property-distributions.task-1",
+      "tcp-entity-property-distributions.task-2",
+      "tcp-entity-property-distributions.task-3"
+    ],
+    "objectives": [
+      "Analyze corporate gain on appreciated-property distributions.",
+      "Apply supplied partnership property-basis rules.",
+      "Distinguish liquidating and nonliquidating transactions."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "tcp-m2-l4"
+    ],
+    "groupIds": [
+      "A-B-C"
+    ]
+  },
+  {
+    "id": "tcp-entity-selection",
+    "section": "tcp",
+    "areaId": "tcp-III",
+    "groupId": "A",
+    "title": "Entity Choice & After-Tax Cash Flow",
+    "lessonId": "tcp-m3-l1",
+    "taskIds": [
+      "tcp-entity-selection.task-1",
+      "tcp-entity-selection.task-2",
+      "tcp-entity-selection.task-3"
+    ],
+    "objectives": [
+      "Compare entity and owner tax layers under supplied assumptions.",
+      "Distinguish legal form, tax elections, and business constraints.",
+      "Evaluate planning beyond a single tax-rate comparison."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "tcp-m3-l1"
+    ],
+    "groupIds": [
+      "A"
+    ]
+  },
+  {
+    "id": "tcp-formation-restructuring",
+    "section": "tcp",
+    "areaId": "tcp-III",
+    "groupId": "B",
+    "title": "Formation, Asset Versus Stock Transactions & Liquidation",
+    "lessonId": "tcp-m3-l2",
+    "taskIds": [
+      "tcp-formation-restructuring.task-1",
+      "tcp-formation-restructuring.task-2",
+      "tcp-formation-restructuring.task-3"
+    ],
+    "objectives": [
+      "Evaluate formation qualification and boot.",
+      "Compare buyer and seller consequences of asset and stock structures.",
+      "Identify entity and owner effects in liquidation planning."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "tcp-m3-l2"
+    ],
+    "groupIds": [
+      "B"
+    ]
+  },
+  {
+    "id": "tcp-entity-tax-timing",
+    "section": "tcp",
+    "areaId": "tcp-III",
+    "groupId": "A-B",
+    "title": "Distribution Planning, Timing & Tax-Efficient Alternatives",
+    "lessonId": "tcp-m3-l3",
+    "taskIds": [
+      "tcp-entity-tax-timing.task-1",
+      "tcp-entity-tax-timing.task-2",
+      "tcp-entity-tax-timing.task-3"
+    ],
+    "objectives": [
+      "Compare legally available timing alternatives.",
+      "Evaluate distributions together with basis and tax attributes.",
+      "Separate tax savings from business and cash-flow consequences."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "tcp-m3-l3"
+    ],
+    "groupIds": [
+      "A-B"
+    ]
+  },
+  {
+    "id": "tcp-property-like-kind",
+    "section": "tcp",
+    "areaId": "tcp-IV",
+    "groupId": "A",
+    "title": "Like-Kind Exchanges, Boot & Replacement Basis",
+    "lessonId": "tcp-m4-l1",
+    "taskIds": [
+      "tcp-property-like-kind.task-1",
+      "tcp-property-like-kind.task-2",
+      "tcp-property-like-kind.task-3"
+    ],
+    "objectives": [
+      "Identify the scope and conditions of real-property exchange deferral.",
+      "Compute realized and recognized gain with cash boot.",
+      "Track deferred gain through replacement basis."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "tcp-m4-l1"
+    ],
+    "groupIds": [
+      "A"
+    ]
+  },
+  {
+    "id": "tcp-property-installment-conversion",
+    "section": "tcp",
+    "areaId": "tcp-IV",
+    "groupId": "A",
+    "title": "Installment Sales & Involuntary Conversions",
+    "lessonId": "tcp-m4-l2",
+    "taskIds": [
+      "tcp-property-installment-conversion.task-1",
+      "tcp-property-installment-conversion.task-2",
+      "tcp-property-installment-conversion.task-3"
+    ],
+    "objectives": [
+      "Compute gross-profit percentage and eligible installment gain.",
+      "Recognize that recapture and debt can change installment treatment.",
+      "Compute deferral and basis in a qualifying involuntary conversion."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "tcp-m4-l2"
+    ],
+    "groupIds": [
+      "A"
+    ]
+  },
+  {
+    "id": "tcp-property-character-planning",
+    "section": "tcp",
+    "areaId": "tcp-IV",
+    "groupId": "A",
+    "title": "Wash Sales, Gain Character & Disposition Planning",
+    "lessonId": "tcp-m4-l3",
+    "taskIds": [
+      "tcp-property-character-planning.task-1",
+      "tcp-property-character-planning.task-2",
+      "tcp-property-character-planning.task-3"
+    ],
+    "objectives": [
+      "Apply supplied wash-sale basis adjustments.",
+      "Distinguish depreciation recapture and Section 1231 netting/lookback.",
+      "Compare taxable dispositions and exclusions using complete facts."
+    ],
+    "supplementary": false,
+    "lessonIds": [
+      "tcp-m4-l3"
+    ],
+    "groupIds": [
+      "A"
+    ]
+  }
+]

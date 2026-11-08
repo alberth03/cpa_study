@@ -1,0 +1,88 @@
+{
+  "id": "intermediate-m1-l2",
+  "courseId": "intermediate",
+  "moduleId": 1,
+  "number": 2,
+  "title": "Accrual Accounting",
+  "description": "Learn when revenues and expenses are recognized.",
+  "url": "/learn/intermediate/modules/1/lessons/2",
+  "html": "<h2>Cash basis vs accrual basis</h2> <p> Under cash-basis accounting, revenue and expenses are generally recognized when cash changes hands. </p> <p> Under accrual accounting, revenues and expenses are recognized according to when economic activity occurs, not simply when cash is received or paid. </p> <div class=\"comparison-grid\"> <div class=\"comparison-card\"> <h3>Cash Basis</h3> <p> Focuses primarily on cash receipts and payments. </p> </div> <div class=\"comparison-card\"> <h3>Accrual Basis</h3> <p> Recognizes economic events in the appropriate period. </p> </div> </div> <h2>Revenue example</h2> <div class=\"example-box\"> <p> A company performs $5,000 of services in December but receives payment in January. </p> <p> Under accrual accounting, the revenue is generally recognized in December because that is when the service was performed. </p> </div> <h2>Expense example</h2> <div class=\"example-box\"> <p> Employees earn $2,000 in wages during December but are paid in January. </p> <p> The wage expense is recognized in December. </p> </div> <div class=\"key-points\"> <h3>Remember</h3> <p> Accrual accounting focuses on when revenues are earned and when expenses are incurred. </p> </div>",
+  "quiz": {
+    "id": "intermediate-m1-l2-check",
+    "courseId": "intermediate",
+    "moduleId": 1,
+    "lessonId": "intermediate-m1-l2",
+    "topic": "General review",
+    "prompt": "A company performs services in December but receives cash in January. Under accrual accounting, when is the revenue generally recognized?",
+    "choices": [
+      {
+        "id": "intermediate-m1-l2-check-a0",
+        "text": "January"
+      },
+      {
+        "id": "intermediate-m1-l2-check-a1",
+        "text": "December"
+      },
+      {
+        "id": "intermediate-m1-l2-check-a2",
+        "text": "When the customer signs the contract"
+      },
+      {
+        "id": "intermediate-m1-l2-check-a3",
+        "text": "Only when both companies agree"
+      }
+    ],
+    "correctChoiceId": "intermediate-m1-l2-check-a1",
+    "explanation": "Under accrual accounting, revenue is recognized when it is earned, so the revenue belongs in December.",
+    "difficulty": "foundation",
+    "metadata": {
+      "section": "intermediate",
+      "blueprintYear": 2026,
+      "areaId": "intermediate-I",
+      "groupId": "module-1",
+      "topicId": "intermediate-accrual-accounting",
+      "taskIds": [
+        "intermediate-accrual-accounting.task-1",
+        "intermediate-accrual-accounting.task-2",
+        "intermediate-accrual-accounting.task-3"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "section": "intermediate",
+    "blueprintYear": 2026,
+    "areaId": "intermediate-I",
+    "groupId": "module-1",
+    "topicId": "intermediate-accrual-accounting",
+    "taskIds": [
+      "intermediate-accrual-accounting.task-1",
+      "intermediate-accrual-accounting.task-2",
+      "intermediate-accrual-accounting.task-3"
+    ],
+    "skill": "application",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      }
+    ]
+  },
+  "objectives": [
+    "Explain accrual accounting and its underlying principles.",
+    "Apply the topic to a financial-reporting scenario.",
+    "Evaluate common errors and their financial-statement effects."
+  ]
+}

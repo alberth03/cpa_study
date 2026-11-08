@@ -1,0 +1,88 @@
+{
+  "id": "far-m6-l1",
+  "courseId": "far",
+  "moduleId": 6,
+  "number": 1,
+  "title": "Financial Statement Analysis & Adjustments",
+  "description": "Review how accounting adjustments affect assets, liabilities, income, equity, and key financial statement relationships.",
+  "url": "/learn/far/modules/6/lessons/1",
+  "html": "<h2> The FAR Big Picture </h2> <p> FAR questions often require more than knowing an isolated accounting rule. </p> <p> You may need to determine how an adjustment affects several financial statement accounts at the same time. </p> <div class=\"formula-box\"> ACCOUNTING EVENT ↓ RECOGNITION ↓ MEASUREMENT ↓ FINANCIAL STATEMENT EFFECT </div> <h2> Start With the Accounting Equation </h2> <div class=\"formula-box\"> ASSETS = LIABILITIES + EQUITY </div> <p> Every adjustment must preserve the accounting equation. </p> <h2> Example — Accrued Expense </h2> <p> A company owes employees <strong>$12,000</strong> of salaries at year-end that have not yet been recorded. </p> <div class=\"financial-example\"> <div> <span>Salary Expense</span> <strong>+ $12,000</strong> </div> <div> <span>Salaries Payable</span> <strong>+ $12,000</strong> </div> <div> <span>Net Income</span> <strong>− $12,000</strong> </div> <div> <span>Equity</span> <strong>− $12,000</strong> </div> </div> <h2> Example — Accrued Revenue </h2> <p> A company has earned <strong>$8,000</strong> of service revenue but has not yet billed the customer. </p> <div class=\"financial-example\"> <div> <span>Receivable</span> <strong>+ $8,000</strong> </div> <div> <span>Revenue</span> <strong>+ $8,000</strong> </div> <div> <span>Net Income</span> <strong>+ $8,000</strong> </div> <div> <span>Equity</span> <strong>+ $8,000</strong> </div> </div> <h2> Unearned Revenue </h2> <p> Cash received before the related performance obligation is satisfied generally creates a liability. </p> <div class=\"formula-box\"> CASH RECEIVED FIRST → LIABILITY PERFORMANCE LATER → REDUCE LIABILITY + RECOGNIZE REVENUE </div> <h2> Example — Advance Collection </h2> <p> A company receives <strong>$24,000</strong> for twelve months of services beginning immediately. </p> <p> After three months: </p> <div class=\"formula-box\"> $24,000 ÷ 12 = $2,000 PER MONTH $2,000 × 3 = $6,000 REVENUE EARNED $24,000 − $6,000 = $18,000 LIABILITY REMAINING </div> <h2> Prepaid Expenses </h2> <p> A prepaid cost initially represents an asset. As the benefit is consumed, the asset decreases and expense is recognized. </p> <div class=\"formula-box\"> PREPAYMENT → ASSET BENEFIT CONSUMED → EXPENSE </div> <h2> Depreciation Adjustment </h2> <p> Depreciation allocates the depreciable cost of a long-lived asset over its useful life. </p> <div class=\"formula-box\"> STRAIGHT-LINE DEPRECIATION = COST − RESIDUAL VALUE ÷ USEFUL LIFE </div> <div class=\"example-box\"> <strong> Example </strong> <p> Equipment cost: <strong>$110,000</strong> </p> <p> Residual value: <strong>$10,000</strong> </p> <p> Useful life: <strong>5 years</strong> </p> </div> <div class=\"formula-box\"> ($110,000 − $10,000) ÷ 5 = $20,000 ANNUAL DEPRECIATION </div> <div class=\"financial-example\"> <div> <span>Depreciation Expense</span> <strong>+ $20,000</strong> </div> <div> <span>Accumulated Depreciation</span> <strong>+ $20,000</strong> </div> <div> <span>Net Income</span> <strong>− $20,000</strong> </div> <div> <span>Carrying Amount of Assets</span> <strong>− $20,000</strong> </div> </div> <h2> Allowance for Credit Losses </h2> <p> Receivables should reflect the amount expected to be collected. </p> <div class=\"formula-box\"> GROSS RECEIVABLE − ALLOWANCE FOR CREDIT LOSSES = NET RECEIVABLE </div> <div class=\"example-box\"> <p> Accounts receivable: <strong>$300,000</strong> </p> <p> Required allowance: <strong>$18,000</strong> </p> </div> <div class=\"formula-box\"> $300,000 − $18,000 = $282,000 NET RECEIVABLE </div> <h2> Inventory Errors </h2> <p> Inventory errors can affect both the balance sheet and income statement. </p> <div class=\"formula-box\"> COGS = BEGINNING INVENTORY + PURCHASES − ENDING INVENTORY </div> <p> If ending inventory is overstated: </p> <div class=\"financial-example\"> <div> <span>Ending Inventory</span> <strong>Overstated</strong> </div> <div> <span>COGS</span> <strong>Understated</strong> </div> <div> <span>Net Income</span> <strong>Overstated</strong> </div> <div> <span>Assets</span> <strong>Overstated</strong> </div> </div> <h2> Current Ratio </h2> <div class=\"formula-box\"> CURRENT RATIO = CURRENT ASSETS ÷ CURRENT LIABILITIES </div> <div class=\"example-box\"> <p> Current assets: <strong>$450,000</strong> </p> <p> Current liabilities: <strong>$300,000</strong> </p> </div> <div class=\"formula-box\"> $450,000 ÷ $300,000 = 1.50 </div> <h2> Working Capital </h2> <div class=\"formula-box\"> WORKING CAPITAL = CURRENT ASSETS − CURRENT LIABILITIES </div> <div class=\"formula-box\"> $450,000 − $300,000 = $150,000 </div> <h2> FAR Adjustment Strategy </h2> <div class=\"formula-box\"> 1. IDENTIFY THE EVENT 2. IDENTIFY ACCOUNTS AFFECTED 3. DETERMINE DEBIT / CREDIT EFFECT 4. CALCULATE THE ADJUSTMENT 5. FOLLOW THE EFFECT TO NET INCOME AND EQUITY 6. RECHECK THE ACCOUNTING EQUATION </div> <h2> Common CPA Trap </h2> <p> Do not focus only on the account directly mentioned in the question. </p> <p> An adjustment to one account may affect assets, liabilities, revenue or expense, net income, and equity simultaneously. </p> <div class=\"key-points\"> <h3> Key Takeaways </h3> <ul> <li> Every adjustment must preserve the accounting equation. </li> <li> Accrued expenses increase liabilities and decrease income. </li> <li> Accrued revenues increase assets and income. </li> <li> Advance collections generally remain liabilities until revenue is earned. </li> <li> Ending inventory errors affect both COGS and net income. </li> <li> Always trace an adjustment through the financial statements. </li> </ul> </div>",
+  "quiz": {
+    "id": "far-m6-l1-check",
+    "courseId": "far",
+    "moduleId": 6,
+    "lessonId": "far-m6-l1",
+    "topic": "General review",
+    "prompt": "A company fails to record $15,000 of salaries incurred but unpaid at year-end. Before correction, which combination is correct?",
+    "choices": [
+      {
+        "id": "far-m6-l1-check-a0",
+        "text": "Liabilities are overstated and net income is understated"
+      },
+      {
+        "id": "far-m6-l1-check-a1",
+        "text": "Assets are understated and net income is overstated"
+      },
+      {
+        "id": "far-m6-l1-check-a2",
+        "text": "Liabilities are understated and net income is overstated"
+      },
+      {
+        "id": "far-m6-l1-check-a3",
+        "text": "Liabilities are understated and net income is understated"
+      }
+    ],
+    "correctChoiceId": "far-m6-l1-check-a2",
+    "explanation": "Failing to accrue the salaries omits both salary expense and salaries payable. Therefore, liabilities are understated by $15,000 and expenses are understated, causing net income to be overstated by $15,000.",
+    "difficulty": "foundation",
+    "metadata": {
+      "section": "far",
+      "blueprintYear": 2026,
+      "areaId": "far-I",
+      "groupId": "module-6",
+      "topicId": "far-financial-statement-analysis-adjustments",
+      "taskIds": [
+        "far-financial-statement-analysis-adjustments.task-1",
+        "far-financial-statement-analysis-adjustments.task-2",
+        "far-financial-statement-analysis-adjustments.task-3"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "section": "far",
+    "blueprintYear": 2026,
+    "areaId": "far-I",
+    "groupId": "module-6",
+    "topicId": "far-financial-statement-analysis-adjustments",
+    "taskIds": [
+      "far-financial-statement-analysis-adjustments.task-1",
+      "far-financial-statement-analysis-adjustments.task-2",
+      "far-financial-statement-analysis-adjustments.task-3"
+    ],
+    "skill": "application",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      }
+    ]
+  },
+  "objectives": [
+    "Explain financial statement analysis & adjustments and its underlying principles.",
+    "Apply the topic to a financial-reporting scenario.",
+    "Evaluate common errors and their financial-statement effects."
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "id": "far-m4-l6",
+  "courseId": "far",
+  "moduleId": 4,
+  "number": 6,
+  "title": "Fiduciary Funds",
+  "description": "Understand custodial, pension and other employee benefit trust, investment trust, and private-purpose trust funds.",
+  "url": "/learn/far/modules/4/lessons/6",
+  "html": "<h2> Fiduciary Funds </h2> <p> Fiduciary funds account for resources that a government holds or administers in a <strong>fiduciary capacity for others</strong>. </p> <p> The key idea is that these resources generally are <strong>not available to support the government's own programs</strong>. </p> <div class=\"formula-box\"> FIDUCIARY FUNDS = RESOURCES HELD FOR OTHERS + ECONOMIC RESOURCES + ACCRUAL BASIS </div> <h2> Four Fiduciary Fund Types </h2> <div class=\"financial-example\"> <div> <span> Pension and Other Employee Benefit Trust Funds </span> <strong> Employee Benefit Arrangements </strong> </div> <div> <span> Investment Trust Funds </span> <strong> External Portion of Investment Pools </strong> </div> <div> <span> Private-Purpose Trust Funds </span> <strong> Trusts Benefiting Specific Individuals or Organizations </strong> </div> <div> <span> Custodial Funds </span> <strong> Fiduciary Resources Not Reported in Another Fiduciary Fund </strong> </div> </div> <h2> Pension and Other Employee Benefit Trust Funds </h2> <p> These funds account for qualifying pension plans and other employee benefit arrangements administered through a trust or equivalent arrangement. </p> <div class=\"example-box\"> <strong> Example </strong> <p> A city administers a pension trust for retired municipal employees. </p> <p> The pension resources belong to the plan's participants and beneficiaries rather than being available for ordinary city programs. </p> </div> <h2> Investment Trust Funds </h2> <p> Investment trust funds generally report the <strong>external portion of investment pools</strong> administered by a sponsoring government. </p> <div class=\"example-box\"> <strong> Example </strong> <p> A county manages an investment pool containing its own money as well as money belonging to legally separate local governments. </p> <p> The qualifying external portion may be reported in an investment trust fund. </p> </div> <h2> Private-Purpose Trust Funds </h2> <p> Private-purpose trust funds account for certain fiduciary activities held in trust for the benefit of specific individuals, private organizations, or other governments. </p> <div class=\"key-points\"> <p> The beneficiaries are not the government's own programs or the public generally. </p> </div> <h2> Custodial Funds </h2> <p> Custodial funds account for qualifying fiduciary activities that are not required to be reported in one of the three trust fund categories. </p> <div class=\"example-box\"> <strong> Example </strong> <p> A government collects certain amounts on behalf of another government and later remits those resources to that government. </p> </div> <h2> Fiduciary Funds and Government-Wide Statements </h2> <p> This is an important CPA distinction: </p> <div class=\"formula-box\"> FIDUCIARY ACTIVITIES ARE GENERALLY EXCLUDED FROM GOVERNMENT-WIDE FINANCIAL STATEMENTS </div> <p> Why? </p> <p> Because fiduciary resources generally cannot be used to support the government's own programs and activities. </p> <h2> Basis of Accounting </h2> <p> Fiduciary funds use the <strong>economic resources measurement focus</strong> and the <strong>accrual basis of accounting</strong>. </p> <div class=\"financial-example\"> <div> <span> Governmental Funds </span> <strong> Modified Accrual </strong> </div> <div> <span> Proprietary Funds </span> <strong> Accrual </strong> </div> <div> <span> Fiduciary Funds </span> <strong> Accrual </strong> </div> </div> <h2> Fiduciary Financial Statements </h2> <p> Fiduciary funds generally report: </p> <div class=\"key-points\"> <ul> <li> Statement of Fiduciary Net Position </li> <li> Statement of Changes in Fiduciary Net Position </li> </ul> </div> <h2> Don't Confuse Permanent and Private-Purpose Trust Funds </h2> <p> This distinction is especially useful for FAR. </p> <div class=\"financial-example\"> <div> <span> Permanent Fund </span> <strong> Benefits Government or Its Citizenry </strong> </div> <div> <span> Private-Purpose Trust Fund </span> <strong> Benefits Specific Outside Individuals or Organizations </strong> </div> </div> <div class=\"formula-box\"> BENEFITS GOVERNMENT / CITIZENS → PERMANENT FUND BENEFITS SPECIFIC OUTSIDERS → PRIVATE-PURPOSE TRUST </div> <h2> CPA Memory Rule </h2> <div class=\"key-points\"> <ul> <li> Fiduciary = government holds resources for others. </li> <li> Fiduciary funds use accrual accounting. </li> <li> They use the economic resources measurement focus. </li> <li> Fiduciary activities are generally excluded from government-wide statements. </li> <li> Remember the four types: pension/employee benefit trust, investment trust, private-purpose trust, and custodial. </li> </ul> </div> <h2> Key Takeaway </h2> <p> When a CPA question says the government is holding or administering resources <strong>for someone else</strong>, consider whether fiduciary fund reporting applies. </p>",
+  "quiz": {
+    "id": "far-m4-l6-check",
+    "courseId": "far",
+    "moduleId": 4,
+    "lessonId": "far-m4-l6",
+    "topic": "General review",
+    "prompt": "A city holds qualifying trust resources for the benefit of specific private individuals rather than for the city's own programs or the public generally. Which fiduciary fund type is most likely appropriate?",
+    "choices": [
+      {
+        "id": "far-m4-l6-check-a0",
+        "text": "Permanent Fund"
+      },
+      {
+        "id": "far-m4-l6-check-a1",
+        "text": "Enterprise Fund"
+      },
+      {
+        "id": "far-m4-l6-check-a2",
+        "text": "Capital Projects Fund"
+      },
+      {
+        "id": "far-m4-l6-check-a3",
+        "text": "Private-Purpose Trust Fund"
+      }
+    ],
+    "correctChoiceId": "far-m4-l6-check-a3",
+    "explanation": "A private-purpose trust fund accounts for certain fiduciary activities held in trust for specific individuals, private organizations, or other governments rather than for the government's own programs.",
+    "difficulty": "foundation",
+    "metadata": {
+      "section": "far",
+      "blueprintYear": 2026,
+      "areaId": "far-I",
+      "groupId": "module-4",
+      "topicId": "far-fiduciary-funds",
+      "taskIds": [
+        "far-fiduciary-funds.task-1",
+        "far-fiduciary-funds.task-2",
+        "far-fiduciary-funds.task-3"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": true,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "section": "far",
+    "blueprintYear": 2026,
+    "areaId": "far-I",
+    "groupId": "module-4",
+    "topicId": "far-fiduciary-funds",
+    "taskIds": [
+      "far-fiduciary-funds.task-1",
+      "far-fiduciary-funds.task-2",
+      "far-fiduciary-funds.task-3"
+    ],
+    "skill": "application",
+    "validFrom": "2026-01-01",
+    "supplementary": true,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      }
+    ]
+  },
+  "objectives": [
+    "Explain fiduciary funds and its underlying principles.",
+    "Apply the topic to a financial-reporting scenario.",
+    "Evaluate common errors and their financial-statement effects."
+  ]
+}

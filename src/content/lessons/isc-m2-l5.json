@@ -1,0 +1,103 @@
+{
+  "id": "isc-m2-l5",
+  "courseId": "isc",
+  "moduleId": 2,
+  "number": 5,
+  "title": "Security Frameworks, Risk Assessment & Control Evaluation",
+  "description": "Recognize framework purposes and components.",
+  "url": "/learn/isc/modules/2/lessons/5",
+  "metadata": {
+    "section": "isc",
+    "blueprintYear": 2026,
+    "areaId": "isc-II",
+    "groupId": "A-B-C",
+    "topicId": "isc-security-frameworks-controls",
+    "taskIds": [
+      "isc-security-frameworks-controls.task-1",
+      "isc-security-frameworks-controls.task-2",
+      "isc-security-frameworks-controls.task-3"
+    ],
+    "skill": "application",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      },
+      {
+        "title": "NIST Cybersecurity Framework",
+        "url": "https://www.nist.gov/cyberframework"
+      },
+      {
+        "title": "AICPA SOC resources",
+        "url": "https://www.aicpa-cima.com/resources/landing/system-and-organization-controls-soc-suite-of-services"
+      }
+    ]
+  },
+  "html": "<h2>Learning objectives</h2><ul><li>Recognize framework purposes and components.</li><li>Evaluate whether controls address identified risks.</li><li>Distinguish design suitability from operating effectiveness.</li></ul><h2>Understand the concepts</h2><p>Frameworks organize objectives, outcomes, and risk-management practices. NIST CSF 2.0 uses Govern, Identify, Protect, Detect, Respond, and Recover functions. Its Core, Tiers, and Organizational Profiles serve different purposes. Framework alignment helps structure a program but is not proof that every control operates effectively.</p><p>A risk assessment considers assets, threats, vulnerabilities, likelihood, impact, existing controls, and residual risk. A control should address the specific risk and operate with appropriate precision, frequency, responsibility, and evidence. Physical safeguards, environmental protection, logical controls, vendor controls, and monitoring may complement one another.</p><p>Design suitability asks whether a control, if performed as described, can address the objective. Implementation asks whether it exists in practice. Operating effectiveness asks whether it worked as intended over the relevant period. Inspect evidence, select a relevant population, investigate exceptions, and evaluate compensating controls rather than equating a written policy with operation.</p><div class=\"example-box\"><h3>A policy without operating evidence</h3><p>A policy requires monthly review of privileged access, but the reviewer receives only ordinary-user accounts and no records of follow-up exist.</p><ol><li>The population does not support the intended privileged-access objective.</li><li>The policy’s existence does not establish operating effectiveness.</li><li>Redesign the population and evidence requirements and test actual reviews.</li></ol></div><div class=\"key-points\"><h3>Common mistakes to avoid</h3><ul><li>Framework mapping is not a certificate of effective operation.</li><li>A control must address the actual risk, not a loosely related topic.</li><li>A signed policy is not evidence of performance throughout a period.</li></ul></div><h2>Apply and connect</h2><p>After solving the worked case, explain which facts determine the result and how a changed assumption would change your conclusion. Use the module questions to test fresh applications, then complete the related simulation before reviewing its solution.</p>",
+  "objectives": [
+    "Recognize framework purposes and components.",
+    "Evaluate whether controls address identified risks.",
+    "Distinguish design suitability from operating effectiveness."
+  ],
+  "quiz": {
+    "id": "isc-m2-l5-q1",
+    "courseId": "isc",
+    "moduleId": 2,
+    "lessonId": "isc-m2-l5",
+    "topic": "Security Frameworks, Risk Assessment & Control Evaluation",
+    "prompt": "Which function is explicitly part of NIST CSF 2.0?",
+    "choices": [
+      {
+        "id": "isc-m2-l5-q1-a0",
+        "text": "Only Invoice."
+      },
+      {
+        "id": "isc-m2-l5-q1-a1",
+        "text": "Govern."
+      },
+      {
+        "id": "isc-m2-l5-q1-a2",
+        "text": "Only Depreciate."
+      },
+      {
+        "id": "isc-m2-l5-q1-a3",
+        "text": "Only Consolidate."
+      }
+    ],
+    "correctChoiceId": "isc-m2-l5-q1-a1",
+    "explanation": "Govern is one of the six CSF 2.0 functions.",
+    "difficulty": "foundation",
+    "metadata": {
+      "section": "isc",
+      "blueprintYear": 2026,
+      "areaId": "isc-II",
+      "groupId": "A-B-C",
+      "topicId": "isc-security-frameworks-controls",
+      "taskIds": [
+        "isc-security-frameworks-controls.task-1"
+      ],
+      "skill": "remembering",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        },
+        {
+          "title": "NIST Cybersecurity Framework",
+          "url": "https://www.nist.gov/cyberframework"
+        },
+        {
+          "title": "AICPA SOC resources",
+          "url": "https://www.aicpa-cima.com/resources/landing/system-and-organization-controls-soc-suite-of-services"
+        }
+      ]
+    }
+  },
+  "relatedSimulation": "isc-m2-tbs5"
+}

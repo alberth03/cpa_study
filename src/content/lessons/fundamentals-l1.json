@@ -1,0 +1,88 @@
+{
+  "id": "fundamentals-l1",
+  "courseId": "fundamentals",
+  "moduleId": 0,
+  "number": 1,
+  "title": "What Is Accounting?",
+  "description": "Understand what accounting does and why businesses need it.",
+  "url": "/learn/fundamentals/lessons/1",
+  "html": "<h2>What is accounting?</h2> <p> Accounting is the process of recording, organizing, summarizing, and analyzing financial information. </p> <p> Businesses use accounting to understand what they own, what they owe, how much they earn, and how much they spend. </p> <div class=\"example-box\"> <h3>Simple Example</h3> <p> You start a business and invest <strong>$10,000</strong> of your own money. </p> <p> The business now has <strong>$10,000 of cash</strong> and the owner has <strong>$10,000 of equity</strong>. </p> </div> <h2>Why is accounting important?</h2> <p> Accounting helps owners, investors, lenders, managers, governments, and other users make financial decisions. </p> <div class=\"key-points\"> <h3>Key Points</h3> <ul> <li>Accounting tracks financial activity.</li> <li>It helps measure profit and loss.</li> <li>It shows what a business owns and owes.</li> <li>It supports financial decision-making.</li> <li>It provides information used in financial statements.</li> </ul> </div>",
+  "quiz": {
+    "id": "fundamentals-l1-check",
+    "courseId": "fundamentals",
+    "moduleId": 0,
+    "lessonId": "fundamentals-l1",
+    "topic": "General review",
+    "prompt": "Which statement best describes accounting?",
+    "choices": [
+      {
+        "id": "fundamentals-l1-check-a0",
+        "text": "A system used only to calculate taxes"
+      },
+      {
+        "id": "fundamentals-l1-check-a1",
+        "text": "A system for recording, organizing and analyzing financial information"
+      },
+      {
+        "id": "fundamentals-l1-check-a2",
+        "text": "A method used only by large corporations"
+      },
+      {
+        "id": "fundamentals-l1-check-a3",
+        "text": "A system used only for tracking cash"
+      }
+    ],
+    "correctChoiceId": "fundamentals-l1-check-a1",
+    "explanation": "Accounting records, organizes, summarizes and analyzes financial information.",
+    "difficulty": "foundation",
+    "metadata": {
+      "section": "fundamentals",
+      "blueprintYear": 2026,
+      "areaId": "fundamentals-I",
+      "groupId": "module-0",
+      "topicId": "fundamentals-what-is-accounting",
+      "taskIds": [
+        "fundamentals-what-is-accounting.task-1",
+        "fundamentals-what-is-accounting.task-2",
+        "fundamentals-what-is-accounting.task-3"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "section": "fundamentals",
+    "blueprintYear": 2026,
+    "areaId": "fundamentals-I",
+    "groupId": "module-0",
+    "topicId": "fundamentals-what-is-accounting",
+    "taskIds": [
+      "fundamentals-what-is-accounting.task-1",
+      "fundamentals-what-is-accounting.task-2",
+      "fundamentals-what-is-accounting.task-3"
+    ],
+    "skill": "application",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      }
+    ]
+  },
+  "objectives": [
+    "Explain what is accounting? and its underlying principles.",
+    "Apply the topic to a financial-reporting scenario.",
+    "Evaluate common errors and their financial-statement effects."
+  ]
+}

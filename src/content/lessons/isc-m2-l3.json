@@ -1,0 +1,103 @@
+{
+  "id": "isc-m2-l3",
+  "courseId": "isc",
+  "moduleId": 2,
+  "number": 3,
+  "title": "Confidentiality, Encryption, Classification & Key Management",
+  "description": "Distinguish encryption, hashing, and access control.",
+  "url": "/learn/isc/modules/2/lessons/3",
+  "metadata": {
+    "section": "isc",
+    "blueprintYear": 2026,
+    "areaId": "isc-II",
+    "groupId": "B-C",
+    "topicId": "isc-confidentiality-encryption",
+    "taskIds": [
+      "isc-confidentiality-encryption.task-1",
+      "isc-confidentiality-encryption.task-2",
+      "isc-confidentiality-encryption.task-3"
+    ],
+    "skill": "application",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      },
+      {
+        "title": "NIST Cybersecurity Framework",
+        "url": "https://www.nist.gov/cyberframework"
+      },
+      {
+        "title": "AICPA SOC resources",
+        "url": "https://www.aicpa-cima.com/resources/landing/system-and-organization-controls-soc-suite-of-services"
+      }
+    ]
+  },
+  "html": "<h2>Learning objectives</h2><ul><li>Distinguish encryption, hashing, and access control.</li><li>Connect data classification to protection requirements.</li><li>Evaluate key management and data-disposal controls.</li></ul><h2>Understand the concepts</h2><p>Confidentiality protects information designated as confidential against unauthorized access or disclosure. Classification identifies sensitivity and required handling. Access restrictions, encryption, monitoring, contractual controls, and secure disposal can work together. Encryption alone does not prevent an authorized but overprivileged user from extracting plaintext.</p><p>Encryption is reversible with appropriate key material; hashing produces a one-way digest used for purposes such as integrity checks and password verification. Passwords should use an appropriate salted, computationally expensive password-hashing scheme rather than ordinary reversible storage. Hashing is not a substitute for encryption when the application must recover confidential information.</p><p>Key management covers generation, storage, access, rotation, backup, revocation, and destruction. Storing encryption keys beside encrypted data with identical access can undermine protection. Protect data in transit and at rest as needed, and consider how backups and third parties handle both data and keys. Disposal should follow retention requirements and make the data appropriately unrecoverable.</p><div class=\"example-box\"><h3>Encrypted files with exposed keys</h3><p>Sensitive exports are encrypted, but every user who can download the files can also download the decryption key.</p><ol><li>The encryption does not provide meaningful separation from those users.</li><li>Restrict and monitor key access and evaluate the actual authorization model.</li><li>Apply appropriate handling, retention, and disposal to exports and backups as well.</li></ol></div><div class=\"key-points\"><h3>Common mistakes to avoid</h3><ul><li>Encryption is not the same as hashing.</li><li>Key access can undermine otherwise sound encryption.</li><li>Confidentiality classification should influence the entire data lifecycle.</li></ul></div><h2>Apply and connect</h2><p>After solving the worked case, explain which facts determine the result and how a changed assumption would change your conclusion. Use the module questions to test fresh applications, then complete the related simulation before reviewing its solution.</p>",
+  "objectives": [
+    "Distinguish encryption, hashing, and access control.",
+    "Connect data classification to protection requirements.",
+    "Evaluate key management and data-disposal controls."
+  ],
+  "quiz": {
+    "id": "isc-m2-l3-q1",
+    "courseId": "isc",
+    "moduleId": 2,
+    "lessonId": "isc-m2-l3",
+    "topic": "Confidentiality, Encryption, Classification & Key Management",
+    "prompt": "Which transformation is designed to be reversible with a key?",
+    "choices": [
+      {
+        "id": "isc-m2-l3-q1-a0",
+        "text": "A one-way cryptographic hash."
+      },
+      {
+        "id": "isc-m2-l3-q1-a1",
+        "text": "A file name."
+      },
+      {
+        "id": "isc-m2-l3-q1-a2",
+        "text": "A checksum label without a process."
+      },
+      {
+        "id": "isc-m2-l3-q1-a3",
+        "text": "Encryption."
+      }
+    ],
+    "correctChoiceId": "isc-m2-l3-q1-a3",
+    "explanation": "Encryption protects recoverable information using keys.",
+    "difficulty": "foundation",
+    "metadata": {
+      "section": "isc",
+      "blueprintYear": 2026,
+      "areaId": "isc-II",
+      "groupId": "B-C",
+      "topicId": "isc-confidentiality-encryption",
+      "taskIds": [
+        "isc-confidentiality-encryption.task-1"
+      ],
+      "skill": "remembering",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        },
+        {
+          "title": "NIST Cybersecurity Framework",
+          "url": "https://www.nist.gov/cyberframework"
+        },
+        {
+          "title": "AICPA SOC resources",
+          "url": "https://www.aicpa-cima.com/resources/landing/system-and-organization-controls-soc-suite-of-services"
+        }
+      ]
+    }
+  },
+  "relatedSimulation": "isc-m2-tbs3"
+}

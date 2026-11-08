@@ -1,0 +1,103 @@
+{
+  "id": "bar-m2-l8",
+  "courseId": "bar",
+  "moduleId": 2,
+  "number": 8,
+  "title": "Public-Company Disclosures, Segments & Benefit Plans",
+  "description": "Apply supplied reportable-segment thresholds and coverage tests.",
+  "url": "/learn/bar/modules/2/lessons/8",
+  "metadata": {
+    "section": "bar",
+    "blueprintYear": 2026,
+    "areaId": "bar-II",
+    "groupId": "H-I",
+    "topicId": "bar-segments-benefit-plans",
+    "taskIds": [
+      "bar-segments-benefit-plans.task-1",
+      "bar-segments-benefit-plans.task-2",
+      "bar-segments-benefit-plans.task-3"
+    ],
+    "skill": "application",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      },
+      {
+        "title": "FASB accounting standards",
+        "url": "https://asc.fasb.org/"
+      },
+      {
+        "title": "GASB standards",
+        "url": "https://www.gasb.org/standards-and-implementation"
+      }
+    ]
+  },
+  "html": "<h2>Learning objectives</h2><ul><li>Apply supplied reportable-segment thresholds and coverage tests.</li><li>Distinguish financial-statement requirements from other public-company disclosures.</li><li>Prepare basic employee-benefit-plan net-asset changes.</li></ul><h2>Understand the concepts</h2><p>Segment reporting follows the management approach to identifying operating segments and applies relevant aggregation and reportability requirements. Quantitative tests can concern revenue, profit or loss, and assets, with an external-revenue coverage requirement. The profit/loss threshold uses the appropriate comparison base rather than simply total consolidated net income.</p><p>SEC Regulation S-X addresses financial-statement form and content, while Regulation S-K includes broader disclosure requirements. Public-company reporting can therefore require information beyond basic financial statements. Apply the particular rule and registrant facts rather than assuming that a GAAP statement package satisfies every filing requirement.</p><p>Employee-benefit-plan financial statements focus on net assets available for benefits and changes in those net assets under the applicable plan guidance. Contributions, investment returns, benefit payments, and administrative expenses are relevant. Plan assets are not automatically the sponsor’s unrestricted corporate assets. Understand plan terms, valuation, and required disclosures separately from the sponsor’s pension accounting.</p><div class=\"example-box\"><h3>Plan net-asset rollforward</h3><p>Beginning net assets are $1,000,000. Contributions are $150,000, investment return $80,000, benefits $120,000, and administration $10,000.</p><ol><li>Add contributions and investment return to reach $1,230,000.</li><li>Subtract benefits and administration of $130,000.</li><li>Ending net assets available for benefits are $1,100,000.</li></ol></div><div class=\"key-points\"><h3>Common mistakes to avoid</h3><ul><li>The segment profit/loss base is not always consolidated net income.</li><li>An SEC filing may require more than basic GAAP statements.</li><li>Plan financial statements and sponsor accounting are distinct.</li></ul></div><h2>Apply and connect</h2><p>After solving the worked case, explain which facts determine the result and how a changed assumption would change your conclusion. Use the module questions to test fresh applications, then complete the related simulation before reviewing its solution.</p>",
+  "objectives": [
+    "Apply supplied reportable-segment thresholds and coverage tests.",
+    "Distinguish financial-statement requirements from other public-company disclosures.",
+    "Prepare basic employee-benefit-plan net-asset changes."
+  ],
+  "quiz": {
+    "id": "bar-m2-l8-q1",
+    "courseId": "bar",
+    "moduleId": 2,
+    "lessonId": "bar-m2-l8",
+    "topic": "Public-Company Disclosures, Segments & Benefit Plans",
+    "prompt": "A supplied segment revenue test uses 10% of total segment revenue of $500 million. What is the threshold?",
+    "choices": [
+      {
+        "id": "bar-m2-l8-q1-a0",
+        "text": "$50 million."
+      },
+      {
+        "id": "bar-m2-l8-q1-a1",
+        "text": "$5 million."
+      },
+      {
+        "id": "bar-m2-l8-q1-a2",
+        "text": "$75 million."
+      },
+      {
+        "id": "bar-m2-l8-q1-a3",
+        "text": "$500 million."
+      }
+    ],
+    "correctChoiceId": "bar-m2-l8-q1-a0",
+    "explanation": "10% × $500 million = $50 million.",
+    "difficulty": "application",
+    "metadata": {
+      "section": "bar",
+      "blueprintYear": 2026,
+      "areaId": "bar-II",
+      "groupId": "H-I",
+      "topicId": "bar-segments-benefit-plans",
+      "taskIds": [
+        "bar-segments-benefit-plans.task-1"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        },
+        {
+          "title": "FASB accounting standards",
+          "url": "https://asc.fasb.org/"
+        },
+        {
+          "title": "GASB standards",
+          "url": "https://www.gasb.org/standards-and-implementation"
+        }
+      ]
+    }
+  },
+  "relatedSimulation": "bar-m2-tbs8"
+}

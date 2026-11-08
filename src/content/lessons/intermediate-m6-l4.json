@@ -1,0 +1,88 @@
+{
+  "id": "intermediate-m6-l4",
+  "courseId": "intermediate",
+  "moduleId": 6,
+  "number": 4,
+  "title": "Allocating Transaction Price",
+  "description": "Allocate consideration among performance obligations using relative standalone selling prices.",
+  "url": "/learn/intermediate/modules/6/lessons/4",
+  "html": "<h2>Step 4 — Allocate the transaction price</h2> <p> When a contract contains more than one performance obligation, the transaction price generally must be allocated among those obligations. </p> <p> Allocation is generally based on the relative standalone selling prices of the promised goods or services. </p> <h2>Standalone selling price</h2> <p> The standalone selling price is the price at which a company would sell a promised good or service separately to a customer. </p> <h2>Example</h2> <p> A company sells a package containing: </p> <div class=\"financial-example\"> <div> <span>Product standalone price</span> <strong>$800</strong> </div> <div> <span>Service standalone price</span> <strong>$200</strong> </div> <div class=\"financial-total\"> <span>Total standalone prices</span> <strong>$1,000</strong> </div> </div> <p> The customer pays a bundled contract price of <strong>$900</strong>. </p> <h2>Step 1 — Determine relative percentages</h2> <div class=\"formula-box\"> Product: $800 ÷ $1,000 = 80% </div> <div class=\"formula-box\"> Service: $200 ÷ $1,000 = 20% </div> <h2>Step 2 — Allocate the $900 transaction price</h2> <div class=\"formula-box\"> Product: $900 × 80% = $720 </div> <div class=\"formula-box\"> Service: $900 × 20% = $180 </div> <div class=\"financial-example\"> <div> <span>Allocated to Product</span> <strong>$720</strong> </div> <div> <span>Allocated to Service</span> <strong>$180</strong> </div> <div class=\"financial-total\"> <span>Total Transaction Price</span> <strong>$900</strong> </div> </div> <div class=\"key-points\"> <h3>Always check</h3> <p> The amounts allocated to all performance obligations should add back to the transaction price. </p> <div class=\"formula-box\"> $720 + $180 = $900 ✓ </div> </div> <h2>General formula</h2> <div class=\"formula-box\"> Allocation = Transaction Price × (Standalone Price of Obligation ÷ Total Standalone Selling Prices) </div>",
+  "quiz": {
+    "id": "intermediate-m6-l4-check",
+    "courseId": "intermediate",
+    "moduleId": 6,
+    "lessonId": "intermediate-m6-l4",
+    "topic": "General review",
+    "prompt": "A contract contains Product A with a standalone selling price of $600 and Service B with a standalone selling price of $400. The bundled transaction price is $800. How much is allocated to Product A?",
+    "choices": [
+      {
+        "id": "intermediate-m6-l4-check-a0",
+        "text": "$320"
+      },
+      {
+        "id": "intermediate-m6-l4-check-a1",
+        "text": "$400"
+      },
+      {
+        "id": "intermediate-m6-l4-check-a2",
+        "text": "$480"
+      },
+      {
+        "id": "intermediate-m6-l4-check-a3",
+        "text": "$600"
+      }
+    ],
+    "correctChoiceId": "intermediate-m6-l4-check-a2",
+    "explanation": "Product A represents $600 ÷ $1,000 = 60% of total standalone selling prices. $800 × 60% = $480.",
+    "difficulty": "foundation",
+    "metadata": {
+      "section": "intermediate",
+      "blueprintYear": 2026,
+      "areaId": "intermediate-I",
+      "groupId": "module-6",
+      "topicId": "intermediate-allocating-transaction-price",
+      "taskIds": [
+        "intermediate-allocating-transaction-price.task-1",
+        "intermediate-allocating-transaction-price.task-2",
+        "intermediate-allocating-transaction-price.task-3"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "section": "intermediate",
+    "blueprintYear": 2026,
+    "areaId": "intermediate-I",
+    "groupId": "module-6",
+    "topicId": "intermediate-allocating-transaction-price",
+    "taskIds": [
+      "intermediate-allocating-transaction-price.task-1",
+      "intermediate-allocating-transaction-price.task-2",
+      "intermediate-allocating-transaction-price.task-3"
+    ],
+    "skill": "application",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      }
+    ]
+  },
+  "objectives": [
+    "Explain allocating transaction price and its underlying principles.",
+    "Apply the topic to a financial-reporting scenario.",
+    "Evaluate common errors and their financial-statement effects."
+  ]
+}

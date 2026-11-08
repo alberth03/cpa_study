@@ -1,0 +1,88 @@
+{
+  "id": "far-m3-l9",
+  "courseId": "far",
+  "moduleId": 3,
+  "number": 9,
+  "title": "Deferred Taxes & Valuation Allowances",
+  "description": "Work through deferred tax calculations, realizability, and valuation allowance analysis.",
+  "url": "/learn/far/modules/3/lessons/9",
+  "html": "<h2> Deferred Taxes &amp; Valuation Allowances </h2> <p> Deferred tax accounting reflects the future tax consequences of temporary differences between financial statement carrying amounts and tax bases. </p> <h3> 1. Review: DTA vs. DTL </h3> <div class=\"financial-example\"> <div> <span> Future Taxable Amount </span> <strong> Deferred Tax Liability </strong> </div> <div> <span> Future Deductible Amount </span> <strong> Deferred Tax Asset </strong> </div> </div> <div class=\"formula-box\"> Taxable Temporary Difference × Enacted Tax Rate = DTL Deductible Temporary Difference × Enacted Tax Rate = DTA </div> <h3> 2. Deferred Tax Asset Example </h3> <p> Assume a company recognizes a $100,000 expense for financial reporting purposes this year, but the expense will not become deductible for tax purposes until a future period. </p> <p> If the enacted future tax rate is 25%: </p> <div class=\"formula-box\"> $100,000 × 25% = $25,000 DTA </div> <p> The DTA represents a potential future tax benefit. </p> <h3> 3. Realizability of Deferred Tax Assets </h3> <p> Recognizing a deferred tax asset does not automatically mean the company expects to realize the entire benefit. </p> <p> Management must evaluate whether sufficient future taxable income is expected to be available to realize the deferred tax asset. </p> <h3> 4. Valuation Allowance </h3> <p> A valuation allowance is recognized when, based on available evidence, it is <strong>more likely than not</strong> that some portion or all of a deferred tax asset will not be realized. </p> <div class=\"key-points\"> <strong> More Likely Than Not: </strong> <p> This means a likelihood of more than 50%. </p> </div> <div class=\"formula-box\"> Gross DTA − Valuation Allowance = Net DTA Expected to Be Realized </div> <div class=\"example-box\"> <strong> Example </strong> <p> A company has a gross deferred tax asset of $80,000. </p> <p> Based on available evidence, management determines that $30,000 of the benefit is more likely than not to be unrealized. </p> <div class=\"formula-box\"> Gross DTA $80,000 − Valuation Allowance $30,000 = Net DTA $50,000 </div> </div> <h3> 5. Evidence About Realizability </h3> <p> Management considers both positive and negative evidence when evaluating whether a deferred tax asset will be realized. </p> <div class=\"financial-example\"> <div> <span> Positive Evidence </span> <strong> Supports Future Realization </strong> </div> <div> <span> Negative Evidence </span> <strong> Suggests Benefit May Not Be Realized </strong> </div> </div> <p> Negative evidence may include significant cumulative losses in recent years or expectations of future losses. </p> <p> Positive evidence may include sufficient expected future taxable income or other available sources of taxable income. </p> <h3> 6. Changes in the Valuation Allowance </h3> <p> The valuation allowance is reassessed at each reporting date. </p> <p> If expectations improve, the valuation allowance may decrease. </p> <p> If realization becomes less likely, the valuation allowance may increase. </p> <div class=\"key-points\"> <strong> CPA Concept: </strong> <p> The valuation allowance does not eliminate the underlying gross DTA. It reduces the amount of the DTA recognized as expected to be realized. </p> </div> <h3> 7. Enacted Tax Rates </h3> <p> Deferred tax assets and liabilities are measured using enacted tax rates expected to apply when the temporary differences reverse. </p> <p> Proposed tax rates are not used merely because management expects them to become law. </p> <div class=\"financial-example\"> <div> <span> Enacted Rate </span> <strong> Use It </strong> </div> <div> <span> Proposed But Not Enacted Rate </span> <strong> Do Not Use It </strong> </div> </div> <h3> 8. Change in Enacted Tax Rate </h3> <p> If a new tax rate is enacted, existing deferred tax assets and liabilities are remeasured using the newly enacted rate expected to apply when the temporary differences reverse. </p> <div class=\"example-box\"> <strong> Example </strong> <p> A company has a $200,000 taxable temporary difference. </p> <p> The enacted rate expected when it reverses changes from 25% to 30%. </p> <div class=\"formula-box\"> Old DTL: $200,000 × 25% = $50,000 New DTL: $200,000 × 30% = $60,000 Increase in DTL: $10,000 </div> </div> <h3> 9. Permanent Differences </h3> <p> Remember that permanent differences do not reverse in future periods. </p> <p> Therefore, they do not create deferred tax assets or deferred tax liabilities. </p> <h3> CPA Exam Memory Rule </h3> <div class=\"formula-box\"> Future Taxable → DTL Future Deductible → DTA DTA May Not Be Realized → Valuation Allowance Measure Deferred Taxes → Enacted Future Rate Permanent Difference → No DTA / DTL </div> <div class=\"key-points\"> <h3> Key Takeaways </h3> <ul> <li> Future taxable amounts generally create deferred tax liabilities. </li> <li> Future deductible amounts generally create deferred tax assets. </li> <li> A valuation allowance is required when it is more likely than not that some or all of a DTA will not be realized. </li> <li> Gross DTA minus the valuation allowance gives the net amount expected to be realized. </li> <li> Deferred taxes use enacted tax rates expected to apply when differences reverse. </li> <li> Existing deferred tax balances are remeasured when applicable enacted tax rates change. </li> <li> Permanent differences do not create deferred tax balances. </li> </ul> </div>",
+  "quiz": {
+    "id": "far-m3-l9-check",
+    "courseId": "far",
+    "moduleId": 3,
+    "lessonId": "far-m3-l9",
+    "topic": "General review",
+    "prompt": "A company has a gross deferred tax asset of $120,000. Based on available evidence, management determines that $45,000 of the tax benefit is more likely than not to be unrealized. What net deferred tax asset should the company report?",
+    "choices": [
+      {
+        "id": "far-m3-l9-check-a0",
+        "text": "$45,000"
+      },
+      {
+        "id": "far-m3-l9-check-a1",
+        "text": "$75,000"
+      },
+      {
+        "id": "far-m3-l9-check-a2",
+        "text": "$120,000"
+      },
+      {
+        "id": "far-m3-l9-check-a3",
+        "text": "$165,000"
+      }
+    ],
+    "correctChoiceId": "far-m3-l9-check-a1",
+    "explanation": "The company records a $45,000 valuation allowance against the $120,000 gross deferred tax asset. Therefore, the net deferred tax asset is $120,000 − $45,000 = $75,000.",
+    "difficulty": "foundation",
+    "metadata": {
+      "section": "far",
+      "blueprintYear": 2026,
+      "areaId": "far-III",
+      "groupId": "module-3",
+      "topicId": "far-deferred-taxes-valuation-allowances",
+      "taskIds": [
+        "far-deferred-taxes-valuation-allowances.task-1",
+        "far-deferred-taxes-valuation-allowances.task-2",
+        "far-deferred-taxes-valuation-allowances.task-3"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "section": "far",
+    "blueprintYear": 2026,
+    "areaId": "far-III",
+    "groupId": "module-3",
+    "topicId": "far-deferred-taxes-valuation-allowances",
+    "taskIds": [
+      "far-deferred-taxes-valuation-allowances.task-1",
+      "far-deferred-taxes-valuation-allowances.task-2",
+      "far-deferred-taxes-valuation-allowances.task-3"
+    ],
+    "skill": "application",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      }
+    ]
+  },
+  "objectives": [
+    "Explain deferred taxes & valuation allowances and its underlying principles.",
+    "Apply the topic to a financial-reporting scenario.",
+    "Evaluate common errors and their financial-statement effects."
+  ]
+}

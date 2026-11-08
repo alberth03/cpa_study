@@ -1,0 +1,62 @@
+{
+  "id": "far-m3-tbs2",
+  "moduleId": 3,
+  "number": 2,
+  "title": "FAR Module 3 · TBS 2",
+  "fields": [
+    {
+      "id": "far-m3-tbs2-dtl",
+      "label": "1. Deferred Tax Liability",
+      "type": "number",
+      "options": [],
+      "correct": 30000
+    },
+    {
+      "id": "far-m3-tbs2-dta",
+      "label": "2. Gross Deferred Tax Asset",
+      "type": "number",
+      "options": [],
+      "correct": 25000
+    },
+    {
+      "id": "far-m3-tbs2-netdta",
+      "label": "3. Net Deferred Tax Asset After Valuation Allowance",
+      "type": "number",
+      "options": [],
+      "correct": 20000
+    },
+    {
+      "id": "far-m3-tbs2-net",
+      "label": "4. Net Deferred Tax Position (Enter Net Liability Amount)",
+      "type": "number",
+      "options": [],
+      "correct": 10000
+    }
+  ],
+  "html": "<section class=\"exam-page\"> <div class=\"course-intro-card\"> <span class=\"exam-badge\"> TASK-BASED SIMULATION </span> <h2> Deferred Tax Analysis </h2> <p> Calculate deferred tax assets and liabilities and determine the net amount after considering a valuation allowance. </p> </div> <div class=\"quiz-card\"> <h2> Scenario </h2> <p> Apex Corp. has the following temporary differences at December 31. </p> <div class=\"financial-example\"> <div> <span> Depreciation Difference </span> <strong> $120,000 Future Taxable Amount </strong> </div> <div> <span> Warranty Liability </span> <strong> $60,000 Future Deductible Amount </strong> </div> <div> <span> Accrued Compensation </span> <strong> $40,000 Future Deductible Amount </strong> </div> </div> <p> The enacted tax rate expected when these temporary differences reverse is <strong>25%</strong>. </p> <p> Based on available evidence, Apex determines that a <strong>$5,000 valuation allowance</strong> is required against its deferred tax assets. </p> <h2> Required </h2> <div class=\"financial-example\"> <div> <span> 1. Deferred Tax Liability </span> <input type=\"number\" id=\"far-m3-tbs2-dtl\" placeholder=\"Enter amount\"> </div> <div> <span> 2. Gross Deferred Tax Asset </span> <input type=\"number\" id=\"far-m3-tbs2-dta\" placeholder=\"Enter amount\"> </div> <div> <span> 3. Net Deferred Tax Asset After Valuation Allowance </span> <input type=\"number\" id=\"far-m3-tbs2-netdta\" placeholder=\"Enter amount\"> </div> <div> <span> 4. Net Deferred Tax Position (Enter Net Liability Amount) </span> <input type=\"number\" id=\"far-m3-tbs2-net\" placeholder=\"Enter amount\"> </div> </div> <div id=\"far-m3-tbs2-result\"></div> </div> </section>",
+  "explanation": "<div class=\"result-correct\"> <h3> Step 1 — Deferred Tax Liability </h3> <p> The $120,000 depreciation difference creates future taxable amounts. </p> <div class=\"formula-box\"> $120,000 × 25% = $30,000 DTL </div> <h3> Step 2 — Gross Deferred Tax Asset </h3> <p> Future deductible amounts total: </p> <div class=\"formula-box\"> Warranty $60,000 + Accrued Compensation $40,000 = $100,000 </div> <div class=\"formula-box\"> $100,000 × 25% = $25,000 Gross DTA </div> <h3> Step 3 — Valuation Allowance </h3> <div class=\"formula-box\"> Gross DTA $25,000 − Valuation Allowance $5,000 = $20,000 Net DTA </div> <h3> Step 4 — Net Deferred Tax Position </h3> <div class=\"formula-box\"> DTL $30,000 − Net DTA $20,000 = $10,000 Net Deferred Tax Liability </div> <div class=\"key-points\"> <h3> CPA Takeaway </h3> <ul> <li> Future taxable amounts create DTLs. </li> <li> Future deductible amounts create DTAs. </li> <li> A valuation allowance reduces the deferred tax asset expected to be realized. </li> <li> Netting depends on applicable tax jurisdiction and classification rules, but this simulation focuses on the arithmetic relationship among the balances. </li> </ul> </div> </div>",
+  "courseId": "far",
+  "difficulty": "advanced",
+  "metadata": {
+    "section": "far",
+    "blueprintYear": 2026,
+    "areaId": "far-III",
+    "groupId": "module-3",
+    "topicId": "far-revenue-recognition",
+    "taskIds": [
+      "far-revenue-recognition.task-1",
+      "far-revenue-recognition.task-2",
+      "far-revenue-recognition.task-3"
+    ],
+    "skill": "analysis",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      }
+    ]
+  }
+}

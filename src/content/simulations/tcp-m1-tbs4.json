@@ -1,0 +1,91 @@
+{
+  "id": "tcp-m1-tbs4",
+  "courseId": "tcp",
+  "moduleId": 1,
+  "number": 4,
+  "title": "Gift-planning schedule",
+  "html": "<div class=\"course-intro-card\"><h2>Gift-planning schedule</h2><p>Compute taxable gifts under the supplied exclusions and elections.</p></div><section class=\"quiz-card\"><h3>Required responses</h3><div class=\"tbs-question\"><label for=\"tcp-m1-tbs4-f1\">Taxable gift per first two recipients before credit</label><input id=\"tcp-m1-tbs4-f1\" type=\"text\"></div><div class=\"tbs-question\"><label for=\"tcp-m1-tbs4-f2\">Combined taxable gifts to the first two recipients</label><input id=\"tcp-m1-tbs4-f2\" type=\"text\"></div><div class=\"tbs-question\"><label for=\"tcp-m1-tbs4-f3\">Combined taxable gift after splitting $90,000</label><input id=\"tcp-m1-tbs4-f3\" type=\"text\"></div><div class=\"tbs-question\"><label for=\"tcp-m1-tbs4-f4\">Taxable gift from the qualifying direct tuition payment</label><input id=\"tcp-m1-tbs4-f4\" type=\"text\"></div></section>",
+  "metadata": {
+    "section": "tcp",
+    "blueprintYear": 2026,
+    "areaId": "tcp-I",
+    "groupId": "C-D",
+    "topicId": "tcp-gift-estate-planning",
+    "taskIds": [
+      "tcp-gift-estate-planning.task-1",
+      "tcp-gift-estate-planning.task-2",
+      "tcp-gift-estate-planning.task-3"
+    ],
+    "skill": "analysis",
+    "validFrom": "2026-07-01",
+    "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      },
+      {
+        "title": "IRS tax publications",
+        "url": "https://www.irs.gov/publications"
+      },
+      {
+        "title": "Internal Revenue Code",
+        "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+      }
+    ]
+  },
+  "difficulty": "advanced",
+  "fields": [
+    {
+      "id": "tcp-m1-tbs4-f1",
+      "label": "Taxable gift per first two recipients before credit",
+      "type": "number",
+      "options": [],
+      "correct": 41000,
+      "explanation": "$60,000 − $19,000 = $41,000 per recipient.",
+      "topicId": "tcp-gift-estate-planning"
+    },
+    {
+      "id": "tcp-m1-tbs4-f2",
+      "label": "Combined taxable gifts to the first two recipients",
+      "type": "number",
+      "options": [],
+      "correct": 82000,
+      "explanation": "Two × $41,000 = $82,000.",
+      "topicId": "tcp-gift-estate-planning"
+    },
+    {
+      "id": "tcp-m1-tbs4-f3",
+      "label": "Combined taxable gift after splitting $90,000",
+      "type": "number",
+      "options": [],
+      "correct": 52000,
+      "explanation": "Each spouse has $45,000 − $19,000 = $26,000; combined $52,000.",
+      "topicId": "tcp-gift-estate-planning"
+    },
+    {
+      "id": "tcp-m1-tbs4-f4",
+      "label": "Taxable gift from the qualifying direct tuition payment",
+      "type": "number",
+      "options": [],
+      "correct": 0,
+      "explanation": "The case expressly meets the separate tuition-payment exclusion.",
+      "topicId": "tcp-gift-estate-planning"
+    }
+  ],
+  "exhibits": [
+    {
+      "id": "tcp-m1-tbs4-ex1",
+      "title": "Cash gifts",
+      "html": "<p>A donor gives $60,000 to each of two recipients as qualifying present interests. Use $19,000 exclusion per donee.</p>"
+    },
+    {
+      "id": "tcp-m1-tbs4-ex2",
+      "title": "Other transfers",
+      "html": "<p>Eligible spouses elect gift splitting for a $90,000 present-interest gift to a third recipient. Use $19,000 exclusion per spouse. A separate $25,000 tuition payment directly to a college satisfies the direct-payment exclusion.</p>"
+    }
+  ],
+  "explanation": "<h3>Taxable gift per first two recipients before credit</h3><p>$60,000 − $19,000 = $41,000 per recipient.</p><h3>Combined taxable gifts to the first two recipients</h3><p>Two × $41,000 = $82,000.</p><h3>Combined taxable gift after splitting $90,000</h3><p>Each spouse has $45,000 − $19,000 = $26,000; combined $52,000.</p><h3>Taxable gift from the qualifying direct tuition payment</h3><p>The case expressly meets the separate tuition-payment exclusion.</p>"
+}

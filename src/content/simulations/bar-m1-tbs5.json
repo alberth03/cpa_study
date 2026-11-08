@@ -1,0 +1,108 @@
+{
+  "id": "bar-m1-tbs5",
+  "courseId": "bar",
+  "moduleId": 1,
+  "number": 5,
+  "title": "Investment proposal evaluation",
+  "html": "<div class=\"course-intro-card\"><h2>Investment proposal evaluation</h2><p>Evaluate a proposed project and its financing assumptions.</p></div><section class=\"quiz-card\"><h3>Required responses</h3><div class=\"tbs-question\"><label for=\"bar-m1-tbs5-f1\">Present value of project inflows</label><input id=\"bar-m1-tbs5-f1\" type=\"text\"></div><div class=\"tbs-question\"><label for=\"bar-m1-tbs5-f2\">Project NPV</label><input id=\"bar-m1-tbs5-f2\" type=\"text\"></div><div class=\"tbs-question\"><label for=\"bar-m1-tbs5-f3\">WACC as a percentage</label><input id=\"bar-m1-tbs5-f3\" type=\"text\"></div><div class=\"tbs-question\"><label for=\"bar-m1-tbs5-f4\">NPV interpretation under the assumptions</label><select id=\"bar-m1-tbs5-f4\"><option value=\"Positive value above the required return\">Positive value above the required return</option><option value=\"A guarantee that no project risk exists\">A guarantee that no project risk exists</option><option value=\"A negative-value investment\">A negative-value investment</option><option value=\"Proof of the official CPA passing score\">Proof of the official CPA passing score</option></select></div></section>",
+  "metadata": {
+    "section": "bar",
+    "blueprintYear": 2026,
+    "areaId": "bar-I",
+    "groupId": "B",
+    "topicId": "bar-capital-budgeting",
+    "taskIds": [
+      "bar-capital-budgeting.task-1",
+      "bar-capital-budgeting.task-2",
+      "bar-capital-budgeting.task-3"
+    ],
+    "skill": "analysis",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      },
+      {
+        "title": "FASB accounting standards",
+        "url": "https://asc.fasb.org/"
+      },
+      {
+        "title": "GASB standards",
+        "url": "https://www.gasb.org/standards-and-implementation"
+      }
+    ]
+  },
+  "difficulty": "advanced",
+  "fields": [
+    {
+      "id": "bar-m1-tbs5-f1",
+      "label": "Present value of project inflows",
+      "type": "number",
+      "options": [],
+      "correct": 227460,
+      "explanation": "$60,000 × 3.791 = $227,460.",
+      "topicId": "bar-capital-budgeting"
+    },
+    {
+      "id": "bar-m1-tbs5-f2",
+      "label": "Project NPV",
+      "type": "number",
+      "options": [],
+      "correct": 27460,
+      "explanation": "$227,460 − $200,000 = $27,460.",
+      "topicId": "bar-capital-budgeting"
+    },
+    {
+      "id": "bar-m1-tbs5-f3",
+      "label": "WACC as a percentage",
+      "type": "number",
+      "options": [],
+      "correct": 7.6,
+      "explanation": "40% × 5% × 80% + 60% × 10% = 7.6%.",
+      "tolerance": 0.001,
+      "topicId": "bar-capital-budgeting"
+    },
+    {
+      "id": "bar-m1-tbs5-f4",
+      "label": "NPV interpretation under the assumptions",
+      "type": "select",
+      "options": [
+        {
+          "value": "Positive value above the required return",
+          "label": "Positive value above the required return"
+        },
+        {
+          "value": "A guarantee that no project risk exists",
+          "label": "A guarantee that no project risk exists"
+        },
+        {
+          "value": "A negative-value investment",
+          "label": "A negative-value investment"
+        },
+        {
+          "value": "Proof of the official CPA passing score",
+          "label": "Proof of the official CPA passing score"
+        }
+      ],
+      "correct": "Positive value above the required return",
+      "explanation": "Positive NPV indicates value creation under the modeled assumptions, not certainty.",
+      "topicId": "bar-capital-budgeting"
+    }
+  ],
+  "exhibits": [
+    {
+      "id": "bar-m1-tbs5-ex1",
+      "title": "Project cash flows",
+      "html": "<p>Initial investment $200,000. Annual net cash inflow $60,000 for five years. Supplied annuity present-value factor 3.791. No terminal flow or other investment applies.</p>"
+    },
+    {
+      "id": "bar-m1-tbs5-ex2",
+      "title": "Financing",
+      "html": "<p>Market-value weights: 40% debt, 60% equity. Debt cost 5%; equity cost 10%; supplied tax rate for the debt adjustment 20%.</p>"
+    }
+  ],
+  "explanation": "<h3>Present value of project inflows</h3><p>$60,000 × 3.791 = $227,460.</p><h3>Project NPV</h3><p>$227,460 − $200,000 = $27,460.</p><h3>WACC as a percentage</h3><p>40% × 5% × 80% + 60% × 10% = 7.6%.</p><h3>NPV interpretation under the assumptions</h3><p>Positive NPV indicates value creation under the modeled assumptions, not certainty.</p>"
+}

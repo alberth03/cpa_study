@@ -1,0 +1,88 @@
+{
+  "id": "far-m2-l8",
+  "courseId": "far",
+  "moduleId": 2,
+  "number": 8,
+  "title": "Contingencies & Commitments",
+  "description": "Evaluate loss contingencies, gain contingencies, commitments and related recognition and disclosure requirements.",
+  "url": "/learn/far/modules/2/lessons/8",
+  "html": "<h2> Contingencies &amp; Commitments </h2> <p> Contingencies involve uncertainty about a possible gain or loss that will ultimately be resolved by future events. For FAR, you should understand when loss contingencies are accrued, when disclosure is required, how ranges of losses are handled, and how gain contingencies and commitments are reported. </p> <h3> 1. Loss Contingencies </h3> <p> A loss contingency involves an existing condition, situation, or set of circumstances involving uncertainty about a possible loss that will ultimately be resolved when one or more future events occur or fail to occur. </p> <h3> 2. Probability Categories </h3> <div class=\"key-points\"> <ul> <li> <strong>Probable:</strong> The future event is likely to occur. </li> <li> <strong>Reasonably Possible:</strong> The chance of occurrence is more than remote but less than likely. </li> <li> <strong>Remote:</strong> The chance of occurrence is slight. </li> </ul> </div> <h3> 3. When Is a Loss Accrued? </h3> <p> Under U.S. GAAP, an estimated loss from a contingency is generally accrued when both of the following conditions are satisfied: </p> <div class=\"key-points\"> <ol> <li> It is probable that an asset has been impaired or a liability has been incurred as of the financial statement date. </li> <li> The amount of the loss can be reasonably estimated. </li> </ol> </div> <div class=\"formula-box\"> Probable + Reasonably Estimable = <strong>Accrue the Loss</strong> </div> <div class=\"example-box\"> <h3> Example </h3> <p> A company is being sued. Its attorneys conclude that losing the case is probable and estimate the loss at $300,000. </p> <p> Assuming the amount is reasonably estimable: </p> <div class=\"formula-box\"> Debit Loss $300,000 <br><br> Credit Liability $300,000 </div> </div> <h3> 4. Reasonably Possible Losses </h3> <p> If a loss is reasonably possible rather than probable, the loss generally is not accrued. </p> <p> Instead, disclosure is generally required when material. </p> <div class=\"formula-box\"> Reasonably Possible → <strong>Generally Disclose</strong> </div> <h3> 5. Remote Losses </h3> <p> Loss contingencies considered remote generally do not require accrual or disclosure. </p> <div class=\"key-points\"> <p> Certain situations, such as some guarantees, may have specific disclosure requirements even when the likelihood of loss is remote, so always consider whether specialized guidance applies. </p> </div> <h3> 6. Range of Estimated Loss </h3> <p> Sometimes management can estimate a range of possible losses rather than one specific amount. </p> <p> If one amount within the range is a better estimate than the others, that amount is generally accrued. </p> <p> If no amount within the range is a better estimate than another, U.S. GAAP generally requires accrual of the <strong>minimum amount in the range</strong>. </p> <div class=\"example-box\"> <h3> Example </h3> <p> A probable litigation loss is estimated between $100,000 and $160,000. </p> <p> No amount within the range is considered a better estimate than another. </p> <div class=\"formula-box\"> Amount Accrued: <strong>$100,000</strong> </div> <p> The possibility of additional loss up to the upper end of the range may also require appropriate disclosure. </p> </div> <h3> 7. Gain Contingencies </h3> <p> Gain contingencies are treated more conservatively than loss contingencies. </p> <div class=\"key-points\"> <p> Gain contingencies generally are <strong>not recognized before realization</strong> because doing so could recognize income prematurely. </p> </div> <p> Appropriate disclosure may be made when warranted, but the disclosure should avoid misleading implications about the likelihood that the gain will be realized. </p> <h3> 8. Commitments </h3> <p> A commitment is generally an agreement to engage in a future transaction, such as purchasing inventory or acquiring property under specified terms. </p> <p> The existence of a commitment does not automatically mean that a liability should be recognized. </p> <div class=\"key-points\"> <p> Material commitments may require disclosure when the information is important to users of the financial statements. </p> </div> <h3> 9. Purchase Commitments </h3> <p> A firm, noncancelable purchase commitment generally does not result in recognition of the inventory or related payable before the goods are received. </p> <p> However, if the contract price exceeds the applicable measurement amount of the inventory to be received and the decline creates a material expected loss, the loss may need to be recognized before delivery. </p> <div class=\"key-points\"> <p> For FAR questions, distinguish between: </p> <ul> <li> The normal purchase commitment itself, which generally is not recorded as inventory and a payable before delivery. </li> <li> A loss arising from a firm purchase commitment, which may require recognition when the applicable U.S. GAAP requirements are met. </li> </ul> </div> <div class=\"example-box\"> <h3> Example </h3> <p> A company enters into a firm, noncancelable agreement to purchase inventory for $200,000. </p> <p> Before delivery, the applicable measurement amount of the inventory falls to $170,000 and the decline results in a recognized loss under U.S. GAAP. </p> <div class=\"formula-box\"> Expected Loss = $200,000 − $170,000 = <strong>$30,000</strong> </div> </div> <h3> 10. CPA Exam Decision Pattern </h3> <div class=\"formula-box\"> Probable + Estimable → <strong>Accrue</strong> <br><br> Reasonably Possible → <strong>Generally Disclose</strong> <br><br> Remote → <strong>Generally Neither</strong> </div> <h3> 11. CPA Exam Focus </h3> <div class=\"key-points\"> <ul> <li> Distinguish probable, reasonably possible, and remote losses. </li> <li> Know the two conditions for accruing a loss contingency. </li> <li> Know how to account for a range of estimated losses. </li> <li> Do not recognize gain contingencies prematurely. </li> <li> Remember that commitments do not automatically create recognized liabilities. </li> <li> Watch for specialized rules involving guarantees and purchase commitments. </li> </ul> </div>",
+  "quiz": {
+    "id": "far-m2-l8-check",
+    "courseId": "far",
+    "moduleId": 2,
+    "lessonId": "far-m2-l8",
+    "topic": "General review",
+    "prompt": "A company's attorneys conclude that a litigation loss is probable and estimate the loss to be between $80,000 and $120,000. No amount within the range is a better estimate than any other amount. Under U.S. GAAP, what amount should generally be accrued?",
+    "choices": [
+      {
+        "id": "far-m2-l8-check-a0",
+        "text": "$80,000"
+      },
+      {
+        "id": "far-m2-l8-check-a1",
+        "text": "0"
+      },
+      {
+        "id": "far-m2-l8-check-a2",
+        "text": "$100,000"
+      },
+      {
+        "id": "far-m2-l8-check-a3",
+        "text": "$120,000"
+      }
+    ],
+    "correctChoiceId": "far-m2-l8-check-a0",
+    "explanation": "When a loss contingency is probable and reasonably estimable as a range, but no amount within the range is a better estimate than another, U.S. GAAP generally requires accrual of the minimum amount in the range. Therefore, $80,000 is accrued, with appropriate disclosure concerning the potential additional loss.",
+    "difficulty": "foundation",
+    "metadata": {
+      "section": "far",
+      "blueprintYear": 2026,
+      "areaId": "far-III",
+      "groupId": "module-2",
+      "topicId": "far-contingencies-commitments",
+      "taskIds": [
+        "far-contingencies-commitments.task-1",
+        "far-contingencies-commitments.task-2",
+        "far-contingencies-commitments.task-3"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "section": "far",
+    "blueprintYear": 2026,
+    "areaId": "far-III",
+    "groupId": "module-2",
+    "topicId": "far-contingencies-commitments",
+    "taskIds": [
+      "far-contingencies-commitments.task-1",
+      "far-contingencies-commitments.task-2",
+      "far-contingencies-commitments.task-3"
+    ],
+    "skill": "application",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      }
+    ]
+  },
+  "objectives": [
+    "Explain contingencies & commitments and its underlying principles.",
+    "Apply the topic to a financial-reporting scenario.",
+    "Evaluate common errors and their financial-statement effects."
+  ]
+}

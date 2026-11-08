@@ -1,0 +1,88 @@
+{
+  "id": "far-m6-l6",
+  "courseId": "far",
+  "moduleId": 6,
+  "number": 6,
+  "title": "Accounting Changes, Errors & Subsequent Events",
+  "description": "Review changes in principles and estimates, error corrections, and subsequent-event treatment.",
+  "url": "/learn/far/modules/6/lessons/6",
+  "html": "<h2> Why This Topic Is Important </h2> <p> FAR frequently requires you to determine whether an event represents a change in accounting principle, a change in estimate, an error correction, or a subsequent event. </p> <p> The classification matters because each category can require a different accounting treatment. </p> <h2> The Three Major Categories </h2> <div class=\"formula-box\"> ACCOUNTING CHANGE OR ERROR ↓ CHANGE IN PRINCIPLE CHANGE IN ESTIMATE ERROR CORRECTION </div> <h2> Change in Accounting Principle </h2> <p> A change in accounting principle occurs when an entity changes from one generally accepted accounting principle to another generally accepted accounting principle. </p> <div class=\"formula-box\"> EXAMPLE: FIFO → WEIGHTED-AVERAGE </div> <p> Changes in accounting principle are generally reported through <strong>retrospective application</strong>, unless it is impracticable to determine the period-specific or cumulative effects. </p> <h2> Retrospective Application </h2> <div class=\"formula-box\"> RETROSPECTIVE → PRIOR COMPARATIVE PERIODS ARE PRESENTED AS IF THE NEW PRINCIPLE HAD ALWAYS BEEN USED </div> <p> The carrying amounts of assets and liabilities may need adjustment, along with the opening balance of retained earnings for the earliest period presented when appropriate. </p> <h2> Example — Change in Principle </h2> <p> A company changes from FIFO to weighted-average inventory accounting. </p> <p> Assuming retrospective application is practicable, prior comparative financial statements are adjusted to reflect the new accounting principle. </p> <h2> Important Exception — Change to LIFO </h2> <p> A change to LIFO is generally treated differently because reconstructing prior LIFO layers may be impracticable. </p> <div class=\"formula-box\"> CHANGE TO LIFO → GENERALLY PROSPECTIVE </div> <h2> Change in Accounting Estimate </h2> <p> Estimates change because new information becomes available or circumstances change. </p> <p> These are not corrections of mistakes. </p> <div class=\"formula-box\"> COMMON ESTIMATE CHANGES: USEFUL LIFE RESIDUAL VALUE EXPECTED CREDIT LOSSES WARRANTY OBLIGATIONS OTHER ACCOUNTING ESTIMATES </div> <h2> Prospective Treatment </h2> <div class=\"formula-box\"> CHANGE IN ESTIMATE → PROSPECTIVE CURRENT PERIOD AND FUTURE PERIODS AS APPLICABLE </div> <p> Prior financial statements are not revised simply because management has obtained better information. </p> <h2> Example — Revised Useful Life </h2> <p> Equipment originally cost <strong>$100,000</strong>, has no residual value, and originally had a 10-year useful life. </p> <p> After four years, accumulated depreciation is <strong>$40,000</strong>. </p> <p> At that point, management estimates that the equipment has <strong>3 years of remaining useful life</strong>. </p> <div class=\"formula-box\"> CARRYING AMOUNT = $100,000 − $40,000 = $60,000 </div> <div class=\"formula-box\"> NEW ANNUAL DEPRECIATION = $60,000 ÷ 3 = $20,000 </div> <p> The prior four years are not restated. The new estimate is used prospectively. </p> <h2> Change in Estimate Effected by a Change in Principle </h2> <p> Sometimes a change has characteristics of both a principle and an estimate. </p> <p> A classic example is a change in depreciation method. </p> <div class=\"formula-box\"> CHANGE IN DEPRECIATION METHOD → CHANGE IN ESTIMATE EFFECTED BY A CHANGE IN ACCOUNTING PRINCIPLE → PROSPECTIVE </div> <h2> Error Corrections </h2> <p> An accounting error is different from a change in estimate. </p> <p> Errors may result from mathematical mistakes, incorrect application of GAAP, or oversight or misuse of facts that existed when the financial statements were prepared. </p> <div class=\"formula-box\"> ERROR → PRIOR-PERIOD CORRECTION NOT A CHANGE IN ESTIMATE </div> <h2> Examples of Errors </h2> <div class=\"formula-box\"> EXPENSING AN ASSET THAT SHOULD HAVE BEEN CAPITALIZED FAILING TO RECORD AN ACCRUED LIABILITY MATHEMATICAL ERROR INCORRECT APPLICATION OF AN ACCOUNTING RULE </div> <h2> Prior-Period Adjustments </h2> <p> A material error in previously issued financial statements generally requires correction of the prior-period financial statements presented. </p> <p> When applicable, the beginning balance of retained earnings of the earliest period presented is adjusted for the cumulative effect relating to periods before those presented. </p> <h2> Example — Prior-Period Error </h2> <p> Assume a company incorrectly expensed <strong>$50,000</strong> of equipment in a prior year when the amount should have been capitalized. </p> <p> This is not a change in estimate. It is an accounting error. </p> <div class=\"formula-box\"> PRIOR-YEAR ERROR → CORRECT PRIOR-PERIOD FINANCIAL STATEMENTS + ADJUST BEGINNING EQUITY WHEN REQUIRED </div> <h2> Estimate Change or Error? </h2> <p> This distinction is heavily tested. </p> <div class=\"formula-box\"> NEW INFORMATION? → USUALLY ESTIMATE CHANGE INFORMATION WAS AVAILABLE BUT ACCOUNTING WAS WRONG? → USUALLY ERROR </div> <h2> Subsequent Events </h2> <p> Subsequent events occur after the balance-sheet date but before the financial statements are issued or are available to be issued, as applicable. </p> <p> The key question is whether the event provides additional evidence about a condition that already existed at the balance-sheet date. </p> <h2> Recognized Subsequent Events </h2> <p> A recognized subsequent event provides additional evidence about conditions that existed at the balance-sheet date. </p> <div class=\"formula-box\"> CONDITION EXISTED AT BALANCE-SHEET DATE + NEW INFORMATION RECEIVED AFTER YEAR-END → ADJUST FINANCIAL STATEMENTS </div> <h2> Example — Customer Bankruptcy </h2> <p> A major customer was experiencing severe financial difficulty at December 31. </p> <p> In January, before the financial statements are issued, the customer files for bankruptcy. </p> <p> If the bankruptcy confirms that the customer's financial deterioration existed at year-end, the receivable and related credit-loss estimate should generally be adjusted. </p> <h2> Nonrecognized Subsequent Events </h2> <p> A nonrecognized subsequent event relates to a condition that arose after the balance-sheet date. </p> <div class=\"formula-box\"> CONDITION AROSE AFTER BALANCE-SHEET DATE → DO NOT ADJUST YEAR-END AMOUNTS </div> <p> If the event is material, disclosure may still be necessary. </p> <h2> Example — Fire After Year-End </h2> <p> A company's manufacturing facility is destroyed by a fire in January. </p> <p> The fire was unrelated to any condition existing at December 31. </p> <div class=\"formula-box\"> NO YEAR-END ADJUSTMENT BUT MATERIAL EVENT MAY REQUIRE DISCLOSURE </div> <h2> Subsequent-Event Decision Process </h2> <div class=\"formula-box\"> STEP 1 WHAT CONDITION CAUSED THE EVENT? STEP 2 DID THAT CONDITION EXIST AT THE BALANCE-SHEET DATE? YES → GENERALLY RECOGNIZE / ADJUST NO → GENERALLY DO NOT ADJUST STEP 3 IF NOT RECOGNIZED, IS THE EVENT MATERIAL? YES → CONSIDER DISCLOSURE </div> <h2> Example — Lawsuit </h2> <p> A lawsuit concerning an event that occurred before year-end is settled after year-end but before issuance of the financial statements. </p> <p> The settlement may provide additional evidence about the obligation that existed at year-end. </p> <p> Therefore, the year-end financial statements may require adjustment. </p> <h2> Integrated Classification Review </h2> <div class=\"formula-box\"> CHANGE IN PRINCIPLE → GENERALLY RETROSPECTIVE CHANGE IN ESTIMATE → PROSPECTIVE ERROR CORRECTION → RESTATE / CORRECT PRIOR PERIODS RECOGNIZED SUBSEQUENT EVENT → ADJUST NONRECOGNIZED SUBSEQUENT EVENT → NO ADJUSTMENT POSSIBLE DISCLOSURE </div> <h2> Common FAR Traps </h2> <div class=\"formula-box\"> NEW ESTIMATE ≠ ERROR CHANGE IN DEPRECIATION METHOD → PROSPECTIVE EVENT HAPPENED AFTER YEAR-END DOES NOT AUTOMATICALLY MEAN NONRECOGNIZED ASK WHEN THE UNDERLYING CONDITION EXISTED </div> <div class=\"key-points\"> <h3> Key Takeaways </h3> <ul> <li> Changes in accounting principle are generally applied retrospectively. </li> <li> Changes in accounting estimates are generally applied prospectively. </li> <li> A change in depreciation method is generally treated prospectively as a change in estimate effected by a change in accounting principle. </li> <li> Material errors from prior periods require correction rather than prospective treatment. </li> <li> Recognized subsequent events provide additional evidence about conditions existing at the balance-sheet date. </li> <li> Nonrecognized subsequent events arise from conditions occurring after the balance-sheet date. </li> <li> Material nonrecognized subsequent events may require disclosure even though year-end amounts are not adjusted. </li> </ul> </div>",
+  "quiz": {
+    "id": "far-m6-l6-check",
+    "courseId": "far",
+    "moduleId": 6,
+    "lessonId": "far-m6-l6",
+    "topic": "General review",
+    "prompt": "After four years of use, a company revises the remaining useful life of equipment based on new information. How should the change generally be accounted for?",
+    "choices": [
+      {
+        "id": "far-m6-l6-check-a0",
+        "text": "Restate all prior periods and adjust beginning retained earnings"
+      },
+      {
+        "id": "far-m6-l6-check-a1",
+        "text": "Record the entire effect as a prior-period error"
+      },
+      {
+        "id": "far-m6-l6-check-a2",
+        "text": "Apply the new estimate retrospectively from the acquisition date"
+      },
+      {
+        "id": "far-m6-l6-check-a3",
+        "text": "Apply the revised estimate prospectively to the current and future periods"
+      }
+    ],
+    "correctChoiceId": "far-m6-l6-check-a3",
+    "explanation": "A revision of an asset's useful life based on new information is a change in accounting estimate. Changes in estimates are accounted for prospectively in the period of change and future periods affected by the change.",
+    "difficulty": "foundation",
+    "metadata": {
+      "section": "far",
+      "blueprintYear": 2026,
+      "areaId": "far-III",
+      "groupId": "module-6",
+      "topicId": "far-accounting-changes-errors-subsequent-events",
+      "taskIds": [
+        "far-accounting-changes-errors-subsequent-events.task-1",
+        "far-accounting-changes-errors-subsequent-events.task-2",
+        "far-accounting-changes-errors-subsequent-events.task-3"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "section": "far",
+    "blueprintYear": 2026,
+    "areaId": "far-III",
+    "groupId": "module-6",
+    "topicId": "far-accounting-changes-errors-subsequent-events",
+    "taskIds": [
+      "far-accounting-changes-errors-subsequent-events.task-1",
+      "far-accounting-changes-errors-subsequent-events.task-2",
+      "far-accounting-changes-errors-subsequent-events.task-3"
+    ],
+    "skill": "application",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      }
+    ]
+  },
+  "objectives": [
+    "Explain accounting changes, errors & subsequent events and its underlying principles.",
+    "Apply the topic to a financial-reporting scenario.",
+    "Evaluate common errors and their financial-statement effects."
+  ]
+}

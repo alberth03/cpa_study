@@ -1,0 +1,2951 @@
+{
+  "id": "far-m1-practice",
+  "title": "FAR Module 1 Practice",
+  "courseId": "far",
+  "moduleId": 1,
+  "selection": "per-lesson",
+  "feedback": "immediate",
+  "passPercent": 80,
+  "questions": [
+    {
+      "id": "far-m1-q1",
+      "courseId": "far",
+      "moduleId": 1,
+      "lessonId": "far-m1-l1",
+      "topic": "Financial Statements & General-Purpose Reporting",
+      "prompt": "A company has total assets of $800,000 and total liabilities of $310,000. What is total stockholders' equity?",
+      "choices": [
+        {
+          "id": "far-m1-q1-a0",
+          "text": "$490,000"
+        },
+        {
+          "id": "far-m1-q1-a1",
+          "text": "$1,110,000"
+        },
+        {
+          "id": "far-m1-q1-a2",
+          "text": "$310,000"
+        },
+        {
+          "id": "far-m1-q1-a3",
+          "text": "$800,000"
+        }
+      ],
+      "correctChoiceId": "far-m1-q1-a0",
+      "explanation": "The accounting equation is Assets = Liabilities + Equity. Therefore, equity equals $800,000 − $310,000 = $490,000.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-I",
+        "groupId": "module-1",
+        "topicId": "far-financial-statements-general-purpose-reporting",
+        "taskIds": [
+          "far-financial-statements-general-purpose-reporting.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m1-q2",
+      "courseId": "far",
+      "moduleId": 1,
+      "lessonId": "far-m1-l1",
+      "topic": "Financial Statements & General-Purpose Reporting",
+      "prompt": "Which financial statement reports an entity's assets, liabilities, and equity at a specific date?",
+      "choices": [
+        {
+          "id": "far-m1-q2-a0",
+          "text": "Statement of cash flows"
+        },
+        {
+          "id": "far-m1-q2-a1",
+          "text": "Income statement"
+        },
+        {
+          "id": "far-m1-q2-a2",
+          "text": "Balance sheet"
+        },
+        {
+          "id": "far-m1-q2-a3",
+          "text": "Statement of comprehensive income"
+        }
+      ],
+      "correctChoiceId": "far-m1-q2-a2",
+      "explanation": "The balance sheet, also called the statement of financial position, presents assets, liabilities, and equity at a specific point in time.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-I",
+        "groupId": "module-1",
+        "topicId": "far-financial-statements-general-purpose-reporting",
+        "taskIds": [
+          "far-financial-statements-general-purpose-reporting.task-2"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m1-q3",
+      "courseId": "far",
+      "moduleId": 1,
+      "lessonId": "far-m1-l1",
+      "topic": "Financial Statements & General-Purpose Reporting",
+      "prompt": "A company performs $12,000 of services in December but does not receive cash until January. Under accrual accounting, when should the revenue generally be recognized?",
+      "choices": [
+        {
+          "id": "far-m1-q3-a0",
+          "text": "When the cash is collected in January"
+        },
+        {
+          "id": "far-m1-q3-a1",
+          "text": "In December, when the service is performed"
+        },
+        {
+          "id": "far-m1-q3-a2",
+          "text": "Half in December and half in January"
+        },
+        {
+          "id": "far-m1-q3-a3",
+          "text": "When management decides collection is certain"
+        }
+      ],
+      "correctChoiceId": "far-m1-q3-a1",
+      "explanation": "Under accrual accounting, revenue is generally recognized when the applicable recognition criteria are satisfied rather than merely when cash is received. Here, the services were performed in December.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-I",
+        "groupId": "module-1",
+        "topicId": "far-financial-statements-general-purpose-reporting",
+        "taskIds": [
+          "far-financial-statements-general-purpose-reporting.task-3"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m1-q4",
+      "courseId": "far",
+      "moduleId": 1,
+      "lessonId": "far-m1-l1",
+      "topic": "Financial Statements & General-Purpose Reporting",
+      "prompt": "A corporation borrows $50,000 cash from a bank by signing a note payable. What is the immediate effect on the accounting equation?",
+      "choices": [
+        {
+          "id": "far-m1-q4-a0",
+          "text": "Assets increase $50,000 and equity increases $50,000"
+        },
+        {
+          "id": "far-m1-q4-a1",
+          "text": "Liabilities increase $50,000 and equity decreases $50,000"
+        },
+        {
+          "id": "far-m1-q4-a2",
+          "text": "Assets remain unchanged and liabilities increase $50,000"
+        },
+        {
+          "id": "far-m1-q4-a3",
+          "text": "Assets increase $50,000 and liabilities increase $50,000"
+        }
+      ],
+      "correctChoiceId": "far-m1-q4-a3",
+      "explanation": "Receiving the loan increases cash, an asset, by $50,000 and creates a $50,000 note payable liability. Equity is unaffected.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-I",
+        "groupId": "module-1",
+        "topicId": "far-financial-statements-general-purpose-reporting",
+        "taskIds": [
+          "far-financial-statements-general-purpose-reporting.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m1-q5",
+      "courseId": "far",
+      "moduleId": 1,
+      "lessonId": "far-m1-l2",
+      "topic": "Balance Sheet Classification & Presentation",
+      "prompt": "Which of the following would generally be classified as a current asset?",
+      "choices": [
+        {
+          "id": "far-m1-q5-a0",
+          "text": "Land held for use in operations"
+        },
+        {
+          "id": "far-m1-q5-a1",
+          "text": "Accounts receivable expected to be collected within the operating cycle"
+        },
+        {
+          "id": "far-m1-q5-a2",
+          "text": "A building used as corporate headquarters"
+        },
+        {
+          "id": "far-m1-q5-a3",
+          "text": "A patent with a remaining life of ten years"
+        }
+      ],
+      "correctChoiceId": "far-m1-q5-a1",
+      "explanation": "Accounts receivable expected to be realized within the operating cycle are generally classified as current assets.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-I",
+        "groupId": "module-1",
+        "topicId": "far-balance-sheet-classification-presentation",
+        "taskIds": [
+          "far-balance-sheet-classification-presentation.task-2"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m1-q6",
+      "courseId": "far",
+      "moduleId": 1,
+      "lessonId": "far-m1-l2",
+      "topic": "Balance Sheet Classification & Presentation",
+      "prompt": "A company reports current assets of $460,000 and current liabilities of $285,000. What is working capital?",
+      "choices": [
+        {
+          "id": "far-m1-q6-a0",
+          "text": "$745,000"
+        },
+        {
+          "id": "far-m1-q6-a1",
+          "text": "$285,000"
+        },
+        {
+          "id": "far-m1-q6-a2",
+          "text": "$460,000"
+        },
+        {
+          "id": "far-m1-q6-a3",
+          "text": "$175,000"
+        }
+      ],
+      "correctChoiceId": "far-m1-q6-a3",
+      "explanation": "Working capital equals current assets minus current liabilities: $460,000 − $285,000 = $175,000.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-I",
+        "groupId": "module-1",
+        "topicId": "far-balance-sheet-classification-presentation",
+        "taskIds": [
+          "far-balance-sheet-classification-presentation.task-3"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m1-q7",
+      "courseId": "far",
+      "moduleId": 1,
+      "lessonId": "far-m1-l2",
+      "topic": "Balance Sheet Classification & Presentation",
+      "prompt": "Which item is normally presented as a liability on the balance sheet?",
+      "choices": [
+        {
+          "id": "far-m1-q7-a0",
+          "text": "Unearned revenue"
+        },
+        {
+          "id": "far-m1-q7-a1",
+          "text": "Retained earnings"
+        },
+        {
+          "id": "far-m1-q7-a2",
+          "text": "Treasury stock"
+        },
+        {
+          "id": "far-m1-q7-a3",
+          "text": "Prepaid insurance"
+        }
+      ],
+      "correctChoiceId": "far-m1-q7-a0",
+      "explanation": "Unearned revenue represents an obligation to provide goods or services in the future and is therefore generally reported as a liability.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-I",
+        "groupId": "module-1",
+        "topicId": "far-balance-sheet-classification-presentation",
+        "taskIds": [
+          "far-balance-sheet-classification-presentation.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m1-q8",
+      "courseId": "far",
+      "moduleId": 1,
+      "lessonId": "far-m1-l2",
+      "topic": "Balance Sheet Classification & Presentation",
+      "prompt": "A company has a $40,000 accounts payable balance due to suppliers within 30 days. How should it generally be classified?",
+      "choices": [
+        {
+          "id": "far-m1-q8-a0",
+          "text": "Long-term asset"
+        },
+        {
+          "id": "far-m1-q8-a1",
+          "text": "Stockholders' equity"
+        },
+        {
+          "id": "far-m1-q8-a2",
+          "text": "Current liability"
+        },
+        {
+          "id": "far-m1-q8-a3",
+          "text": "Noncurrent liability"
+        }
+      ],
+      "correctChoiceId": "far-m1-q8-a2",
+      "explanation": "Accounts payable that will be settled in the near term as part of the normal operating cycle are generally classified as current liabilities.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-I",
+        "groupId": "module-1",
+        "topicId": "far-balance-sheet-classification-presentation",
+        "taskIds": [
+          "far-balance-sheet-classification-presentation.task-2"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m1-q9",
+      "courseId": "far",
+      "moduleId": 1,
+      "lessonId": "far-m1-l3",
+      "topic": "Income Statement & Comprehensive Income",
+      "prompt": "A company reports net income of $140,000 and other comprehensive loss of $25,000. What is comprehensive income?",
+      "choices": [
+        {
+          "id": "far-m1-q9-a0",
+          "text": "$165,000"
+        },
+        {
+          "id": "far-m1-q9-a1",
+          "text": "$25,000"
+        },
+        {
+          "id": "far-m1-q9-a2",
+          "text": "$115,000"
+        },
+        {
+          "id": "far-m1-q9-a3",
+          "text": "$140,000"
+        }
+      ],
+      "correctChoiceId": "far-m1-q9-a2",
+      "explanation": "Comprehensive income equals net income plus other comprehensive income or loss. $140,000 − $25,000 = $115,000.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-I",
+        "groupId": "module-1",
+        "topicId": "far-income-statement-comprehensive-income",
+        "taskIds": [
+          "far-income-statement-comprehensive-income.task-3"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m1-q10",
+      "courseId": "far",
+      "moduleId": 1,
+      "lessonId": "far-m1-l3",
+      "topic": "Income Statement & Comprehensive Income",
+      "prompt": "Which item normally reduces income from continuing operations?",
+      "choices": [
+        {
+          "id": "far-m1-q10-a0",
+          "text": "Operating expenses"
+        },
+        {
+          "id": "far-m1-q10-a1",
+          "text": "Issuance of common stock"
+        },
+        {
+          "id": "far-m1-q10-a2",
+          "text": "Cash dividends"
+        },
+        {
+          "id": "far-m1-q10-a3",
+          "text": "Purchase of treasury stock"
+        }
+      ],
+      "correctChoiceId": "far-m1-q10-a0",
+      "explanation": "Operating expenses are recognized in determining income from continuing operations. Stock issuances, dividends, and treasury stock transactions are equity transactions.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-I",
+        "groupId": "module-1",
+        "topicId": "far-income-statement-comprehensive-income",
+        "taskIds": [
+          "far-income-statement-comprehensive-income.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m1-q11",
+      "courseId": "far",
+      "moduleId": 1,
+      "lessonId": "far-m1-l3",
+      "topic": "Income Statement & Comprehensive Income",
+      "prompt": "Which statement best describes accumulated other comprehensive income (AOCI)?",
+      "choices": [
+        {
+          "id": "far-m1-q11-a0",
+          "text": "It represents total cash generated from operations"
+        },
+        {
+          "id": "far-m1-q11-a1",
+          "text": "It is another name for retained earnings"
+        },
+        {
+          "id": "far-m1-q11-a2",
+          "text": "It contains only current-year net income"
+        },
+        {
+          "id": "far-m1-q11-a3",
+          "text": "It accumulates qualifying OCI items within stockholders' equity"
+        }
+      ],
+      "correctChoiceId": "far-m1-q11-a3",
+      "explanation": "AOCI is a component of stockholders' equity that accumulates qualifying other comprehensive income and loss items.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-I",
+        "groupId": "module-1",
+        "topicId": "far-income-statement-comprehensive-income",
+        "taskIds": [
+          "far-income-statement-comprehensive-income.task-2"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m1-q12",
+      "courseId": "far",
+      "moduleId": 1,
+      "lessonId": "far-m1-l3",
+      "topic": "Income Statement & Comprehensive Income",
+      "prompt": "A company reports revenues of $600,000 and total expenses of $455,000. Ignoring taxes and other income items, what is net income?",
+      "choices": [
+        {
+          "id": "far-m1-q12-a0",
+          "text": "$1,055,000"
+        },
+        {
+          "id": "far-m1-q12-a1",
+          "text": "$145,000"
+        },
+        {
+          "id": "far-m1-q12-a2",
+          "text": "$455,000"
+        },
+        {
+          "id": "far-m1-q12-a3",
+          "text": "$600,000"
+        }
+      ],
+      "correctChoiceId": "far-m1-q12-a1",
+      "explanation": "Net income equals revenues minus expenses: $600,000 − $455,000 = $145,000.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-I",
+        "groupId": "module-1",
+        "topicId": "far-income-statement-comprehensive-income",
+        "taskIds": [
+          "far-income-statement-comprehensive-income.task-3"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m1-q13",
+      "courseId": "far",
+      "moduleId": 1,
+      "lessonId": "far-m1-l4",
+      "topic": "Statement of Cash Flows",
+      "prompt": "Under U.S. GAAP, cash paid to purchase equipment is generally classified as what type of cash flow?",
+      "choices": [
+        {
+          "id": "far-m1-q13-a0",
+          "text": "Operating"
+        },
+        {
+          "id": "far-m1-q13-a1",
+          "text": "Financing"
+        },
+        {
+          "id": "far-m1-q13-a2",
+          "text": "Noncash"
+        },
+        {
+          "id": "far-m1-q13-a3",
+          "text": "Investing"
+        }
+      ],
+      "correctChoiceId": "far-m1-q13-a3",
+      "explanation": "Purchasing property, plant, and equipment for cash is generally an investing cash outflow.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-I",
+        "groupId": "module-1",
+        "topicId": "far-statement-of-cash-flows",
+        "taskIds": [
+          "far-statement-of-cash-flows.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m1-q14",
+      "courseId": "far",
+      "moduleId": 1,
+      "lessonId": "far-m1-l4",
+      "topic": "Statement of Cash Flows",
+      "prompt": "Using the indirect method, depreciation expense is generally treated how when reconciling net income to net cash provided by operating activities?",
+      "choices": [
+        {
+          "id": "far-m1-q14-a0",
+          "text": "Deducted from net income"
+        },
+        {
+          "id": "far-m1-q14-a1",
+          "text": "Added back to net income"
+        },
+        {
+          "id": "far-m1-q14-a2",
+          "text": "Reported as an investing inflow"
+        },
+        {
+          "id": "far-m1-q14-a3",
+          "text": "Reported as a financing inflow"
+        }
+      ],
+      "correctChoiceId": "far-m1-q14-a1",
+      "explanation": "Depreciation reduced net income but did not use operating cash. Therefore, it is generally added back when using the indirect method.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-I",
+        "groupId": "module-1",
+        "topicId": "far-statement-of-cash-flows",
+        "taskIds": [
+          "far-statement-of-cash-flows.task-2"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m1-q15",
+      "courseId": "far",
+      "moduleId": 1,
+      "lessonId": "far-m1-l4",
+      "topic": "Statement of Cash Flows",
+      "prompt": "Under U.S. GAAP, cash received from issuing common stock is generally classified as:",
+      "choices": [
+        {
+          "id": "far-m1-q15-a0",
+          "text": "Operating activity"
+        },
+        {
+          "id": "far-m1-q15-a1",
+          "text": "Investing activity"
+        },
+        {
+          "id": "far-m1-q15-a2",
+          "text": "Financing activity"
+        },
+        {
+          "id": "far-m1-q15-a3",
+          "text": "A noncash activity"
+        }
+      ],
+      "correctChoiceId": "far-m1-q15-a2",
+      "explanation": "Cash received from issuing the company's own stock is a financing cash inflow.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-I",
+        "groupId": "module-1",
+        "topicId": "far-statement-of-cash-flows",
+        "taskIds": [
+          "far-statement-of-cash-flows.task-3"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m1-q16",
+      "courseId": "far",
+      "moduleId": 1,
+      "lessonId": "far-m1-l4",
+      "topic": "Statement of Cash Flows",
+      "prompt": "Net income is $90,000. Depreciation expense is $12,000, and accounts receivable increased by $7,000. Ignoring all other adjustments, what is net cash provided by operating activities under the indirect method?",
+      "choices": [
+        {
+          "id": "far-m1-q16-a0",
+          "text": "$95,000"
+        },
+        {
+          "id": "far-m1-q16-a1",
+          "text": "$109,000"
+        },
+        {
+          "id": "far-m1-q16-a2",
+          "text": "$71,000"
+        },
+        {
+          "id": "far-m1-q16-a3",
+          "text": "$85,000"
+        }
+      ],
+      "correctChoiceId": "far-m1-q16-a0",
+      "explanation": "Start with $90,000 net income, add back $12,000 depreciation, and subtract the $7,000 increase in accounts receivable: $90,000 + $12,000 − $7,000 = $95,000.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-I",
+        "groupId": "module-1",
+        "topicId": "far-statement-of-cash-flows",
+        "taskIds": [
+          "far-statement-of-cash-flows.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m1-q17",
+      "courseId": "far",
+      "moduleId": 1,
+      "lessonId": "far-m1-l5",
+      "topic": "Statement of Changes in Equity",
+      "prompt": "Beginning retained earnings are $250,000. Net income is $80,000 and dividends declared are $30,000. What is ending retained earnings?",
+      "choices": [
+        {
+          "id": "far-m1-q17-a0",
+          "text": "$300,000"
+        },
+        {
+          "id": "far-m1-q17-a1",
+          "text": "$330,000"
+        },
+        {
+          "id": "far-m1-q17-a2",
+          "text": "$200,000"
+        },
+        {
+          "id": "far-m1-q17-a3",
+          "text": "$360,000"
+        }
+      ],
+      "correctChoiceId": "far-m1-q17-a0",
+      "explanation": "Ending retained earnings equals $250,000 + $80,000 − $30,000 = $300,000.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-I",
+        "groupId": "module-1",
+        "topicId": "far-statement-of-changes-in-equity",
+        "taskIds": [
+          "far-statement-of-changes-in-equity.task-2"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m1-q18",
+      "courseId": "far",
+      "moduleId": 1,
+      "lessonId": "far-m1-l5",
+      "topic": "Statement of Changes in Equity",
+      "prompt": "When a corporation purchases its own shares as treasury stock under the cost method, what is the general effect on total stockholders' equity?",
+      "choices": [
+        {
+          "id": "far-m1-q18-a0",
+          "text": "Equity increases"
+        },
+        {
+          "id": "far-m1-q18-a1",
+          "text": "Equity is unaffected"
+        },
+        {
+          "id": "far-m1-q18-a2",
+          "text": "A liability is created with no equity effect"
+        },
+        {
+          "id": "far-m1-q18-a3",
+          "text": "Equity decreases"
+        }
+      ],
+      "correctChoiceId": "far-m1-q18-a3",
+      "explanation": "Treasury stock is a contra-equity account. Purchasing treasury shares generally reduces total stockholders' equity.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-I",
+        "groupId": "module-1",
+        "topicId": "far-statement-of-changes-in-equity",
+        "taskIds": [
+          "far-statement-of-changes-in-equity.task-3"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m1-q19",
+      "courseId": "far",
+      "moduleId": 1,
+      "lessonId": "far-m1-l5",
+      "topic": "Statement of Changes in Equity",
+      "prompt": "A corporation issues 1,000 shares of $5 par common stock for $12 per share. How much is credited to additional paid-in capital?",
+      "choices": [
+        {
+          "id": "far-m1-q19-a0",
+          "text": "$12,000"
+        },
+        {
+          "id": "far-m1-q19-a1",
+          "text": "$7,000"
+        },
+        {
+          "id": "far-m1-q19-a2",
+          "text": "$5,000"
+        },
+        {
+          "id": "far-m1-q19-a3",
+          "text": "$17,000"
+        }
+      ],
+      "correctChoiceId": "far-m1-q19-a1",
+      "explanation": "The company receives $12,000. Common stock is credited for $5,000 par value, leaving $7,000 credited to additional paid-in capital.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-I",
+        "groupId": "module-1",
+        "topicId": "far-statement-of-changes-in-equity",
+        "taskIds": [
+          "far-statement-of-changes-in-equity.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m1-q20",
+      "courseId": "far",
+      "moduleId": 1,
+      "lessonId": "far-m1-l5",
+      "topic": "Statement of Changes in Equity",
+      "prompt": "Which of the following is generally a component of stockholders' equity rather than an expense?",
+      "choices": [
+        {
+          "id": "far-m1-q20-a0",
+          "text": "Interest expense"
+        },
+        {
+          "id": "far-m1-q20-a1",
+          "text": "Cost of goods sold"
+        },
+        {
+          "id": "far-m1-q20-a2",
+          "text": "Additional paid-in capital"
+        },
+        {
+          "id": "far-m1-q20-a3",
+          "text": "Income tax expense"
+        }
+      ],
+      "correctChoiceId": "far-m1-q20-a2",
+      "explanation": "Additional paid-in capital is an equity account. The other choices are expenses reported in determining income.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-I",
+        "groupId": "module-1",
+        "topicId": "far-statement-of-changes-in-equity",
+        "taskIds": [
+          "far-statement-of-changes-in-equity.task-2"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m1-q21",
+      "courseId": "far",
+      "moduleId": 1,
+      "lessonId": "far-m1-l6",
+      "topic": "Notes to Financial Statements & Disclosures",
+      "prompt": "Why are notes to financial statements important?",
+      "choices": [
+        {
+          "id": "far-m1-q21-a0",
+          "text": "They replace the primary financial statements"
+        },
+        {
+          "id": "far-m1-q21-a1",
+          "text": "They provide information needed to understand amounts, policies, risks, and other matters presented in the financial statements"
+        },
+        {
+          "id": "far-m1-q21-a2",
+          "text": "They contain only management forecasts"
+        },
+        {
+          "id": "far-m1-q21-a3",
+          "text": "They are used only when a company reports a net loss"
+        }
+      ],
+      "correctChoiceId": "far-m1-q21-a1",
+      "explanation": "Notes are an integral part of financial reporting and provide important information about accounting policies, balances, risks, commitments, and other matters.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-I",
+        "groupId": "module-1",
+        "topicId": "far-notes-to-financial-statements-disclosures",
+        "taskIds": [
+          "far-notes-to-financial-statements-disclosures.task-3"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m1-q22",
+      "courseId": "far",
+      "moduleId": 1,
+      "lessonId": "far-m1-l6",
+      "topic": "Notes to Financial Statements & Disclosures",
+      "prompt": "A loss contingency is probable and the amount of loss can be reasonably estimated. Under U.S. GAAP, what is generally required?",
+      "choices": [
+        {
+          "id": "far-m1-q22-a0",
+          "text": "No recognition or disclosure"
+        },
+        {
+          "id": "far-m1-q22-a1",
+          "text": "Disclosure only, never recognition"
+        },
+        {
+          "id": "far-m1-q22-a2",
+          "text": "Recognition of the loss and liability, with appropriate disclosure as necessary"
+        },
+        {
+          "id": "far-m1-q22-a3",
+          "text": "Recognition directly in stockholders' equity"
+        }
+      ],
+      "correctChoiceId": "far-m1-q22-a2",
+      "explanation": "When a loss contingency is probable and reasonably estimable, U.S. GAAP generally requires the loss and liability to be accrued.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-I",
+        "groupId": "module-1",
+        "topicId": "far-notes-to-financial-statements-disclosures",
+        "taskIds": [
+          "far-notes-to-financial-statements-disclosures.task-1"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m1-q23",
+      "courseId": "far",
+      "moduleId": 1,
+      "lessonId": "far-m1-l6",
+      "topic": "Notes to Financial Statements & Disclosures",
+      "prompt": "Which situation is most likely to require consideration of related-party disclosures?",
+      "choices": [
+        {
+          "id": "far-m1-q23-a0",
+          "text": "A material transaction between the company and an entity controlled by a principal owner"
+        },
+        {
+          "id": "far-m1-q23-a1",
+          "text": "A normal cash sale to an unrelated customer"
+        },
+        {
+          "id": "far-m1-q23-a2",
+          "text": "Payment of monthly utility bills"
+        },
+        {
+          "id": "far-m1-q23-a3",
+          "text": "Purchase of office supplies from an unrelated retailer"
+        }
+      ],
+      "correctChoiceId": "far-m1-q23-a0",
+      "explanation": "Transactions involving related parties can occur on terms different from arm's-length transactions and may require disclosure of the relationship and transaction information.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-I",
+        "groupId": "module-1",
+        "topicId": "far-notes-to-financial-statements-disclosures",
+        "taskIds": [
+          "far-notes-to-financial-statements-disclosures.task-2"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m1-q24",
+      "courseId": "far",
+      "moduleId": 1,
+      "lessonId": "far-m1-l6",
+      "topic": "Notes to Financial Statements & Disclosures",
+      "prompt": "Where would a financial statement user generally look for information about significant accounting policies used in preparing the financial statements?",
+      "choices": [
+        {
+          "id": "far-m1-q24-a0",
+          "text": "Only the statement of cash flows"
+        },
+        {
+          "id": "far-m1-q24-a1",
+          "text": "Only the balance sheet"
+        },
+        {
+          "id": "far-m1-q24-a2",
+          "text": "Only the income statement"
+        },
+        {
+          "id": "far-m1-q24-a3",
+          "text": "The notes to the financial statements"
+        }
+      ],
+      "correctChoiceId": "far-m1-q24-a3",
+      "explanation": "Significant accounting policies and other important explanatory information are generally communicated in the notes to the financial statements.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-I",
+        "groupId": "module-1",
+        "topicId": "far-notes-to-financial-statements-disclosures",
+        "taskIds": [
+          "far-notes-to-financial-statements-disclosures.task-3"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m1-q25",
+      "courseId": "far",
+      "moduleId": 1,
+      "lessonId": "far-m1-l7",
+      "topic": "Accounting Changes",
+      "prompt": "A company revises the estimated useful life of equipment based on new information. How is this change generally accounted for?",
+      "choices": [
+        {
+          "id": "far-m1-q25-a0",
+          "text": "By restating all prior years"
+        },
+        {
+          "id": "far-m1-q25-a1",
+          "text": "As a prior-period error"
+        },
+        {
+          "id": "far-m1-q25-a2",
+          "text": "Prospectively as a change in accounting estimate"
+        },
+        {
+          "id": "far-m1-q25-a3",
+          "text": "Directly through additional paid-in capital"
+        }
+      ],
+      "correctChoiceId": "far-m1-q25-a2",
+      "explanation": "Changes in accounting estimates resulting from new information are generally accounted for prospectively.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-III",
+        "groupId": "module-1",
+        "topicId": "far-accounting-changes",
+        "taskIds": [
+          "far-accounting-changes.task-1"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m1-q26",
+      "courseId": "far",
+      "moduleId": 1,
+      "lessonId": "far-m1-l7",
+      "topic": "Accounting Changes",
+      "prompt": "When an entity voluntarily changes from one acceptable accounting principle to another acceptable accounting principle, the change is generally reported using which approach, assuming retrospective application is practicable?",
+      "choices": [
+        {
+          "id": "far-m1-q26-a0",
+          "text": "Prospective application only"
+        },
+        {
+          "id": "far-m1-q26-a1",
+          "text": "Retrospective application"
+        },
+        {
+          "id": "far-m1-q26-a2",
+          "text": "No financial statement effect"
+        },
+        {
+          "id": "far-m1-q26-a3",
+          "text": "Recognition entirely in current-year revenue"
+        }
+      ],
+      "correctChoiceId": "far-m1-q26-a1",
+      "explanation": "A change from one generally accepted accounting principle to another is generally applied retrospectively unless an exception applies or retrospective application is impracticable.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-III",
+        "groupId": "module-1",
+        "topicId": "far-accounting-changes",
+        "taskIds": [
+          "far-accounting-changes.task-2"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m1-q27",
+      "courseId": "far",
+      "moduleId": 1,
+      "lessonId": "far-m1-l7",
+      "topic": "Accounting Changes",
+      "prompt": "A change in the entities included in combined financial statements that represents a change in reporting entity is generally presented:",
+      "choices": [
+        {
+          "id": "far-m1-q27-a0",
+          "text": "Prospectively beginning in the current year"
+        },
+        {
+          "id": "far-m1-q27-a1",
+          "text": "Only in a footnote with no statement adjustment"
+        },
+        {
+          "id": "far-m1-q27-a2",
+          "text": "As a current-period operating expense"
+        },
+        {
+          "id": "far-m1-q27-a3",
+          "text": "Retrospectively for prior periods presented"
+        }
+      ],
+      "correctChoiceId": "far-m1-q27-a3",
+      "explanation": "A change in reporting entity is generally accounted for retrospectively so comparative financial statements reflect the new reporting entity.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-III",
+        "groupId": "module-1",
+        "topicId": "far-accounting-changes",
+        "taskIds": [
+          "far-accounting-changes.task-3"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m1-q28",
+      "courseId": "far",
+      "moduleId": 1,
+      "lessonId": "far-m1-l7",
+      "topic": "Accounting Changes",
+      "prompt": "A change in depreciation method is generally treated for accounting purposes as:",
+      "choices": [
+        {
+          "id": "far-m1-q28-a0",
+          "text": "A change in accounting estimate effected by a change in accounting principle and accounted for prospectively"
+        },
+        {
+          "id": "far-m1-q28-a1",
+          "text": "A prior-period error requiring restatement"
+        },
+        {
+          "id": "far-m1-q28-a2",
+          "text": "A change in reporting entity"
+        },
+        {
+          "id": "far-m1-q28-a3",
+          "text": "An extraordinary item"
+        }
+      ],
+      "correctChoiceId": "far-m1-q28-a0",
+      "explanation": "A change in depreciation method is generally treated as a change in accounting estimate effected by a change in accounting principle and is accounted for prospectively.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-III",
+        "groupId": "module-1",
+        "topicId": "far-accounting-changes",
+        "taskIds": [
+          "far-accounting-changes.task-1"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m1-q29",
+      "courseId": "far",
+      "moduleId": 1,
+      "lessonId": "far-m1-l8",
+      "topic": "Error Corrections",
+      "prompt": "A material error in a previously issued financial statement is discovered in the current year. What is generally the appropriate treatment when comparative statements are presented?",
+      "choices": [
+        {
+          "id": "far-m1-q29-a0",
+          "text": "Include the entire correction in current-year revenue"
+        },
+        {
+          "id": "far-m1-q29-a1",
+          "text": "Ignore the error because the prior year is closed"
+        },
+        {
+          "id": "far-m1-q29-a2",
+          "text": "Treat the error as a change in estimate"
+        },
+        {
+          "id": "far-m1-q29-a3",
+          "text": "Correct the prior-period financial statements through restatement"
+        }
+      ],
+      "correctChoiceId": "far-m1-q29-a3",
+      "explanation": "Material errors in previously issued financial statements are generally corrected through prior-period restatement rather than being treated as current-period income.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-III",
+        "groupId": "module-1",
+        "topicId": "far-error-corrections",
+        "taskIds": [
+          "far-error-corrections.task-2"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m1-q30",
+      "courseId": "far",
+      "moduleId": 1,
+      "lessonId": "far-m1-l8",
+      "topic": "Error Corrections",
+      "prompt": "A company incorrectly expensed a $20,000 equipment purchase on the final day of the year. Ignoring depreciation and taxes, what was the effect on that year's net income?",
+      "choices": [
+        {
+          "id": "far-m1-q30-a0",
+          "text": "Net income was understated by $20,000"
+        },
+        {
+          "id": "far-m1-q30-a1",
+          "text": "Net income was overstated by $20,000"
+        },
+        {
+          "id": "far-m1-q30-a2",
+          "text": "Net income was unaffected"
+        },
+        {
+          "id": "far-m1-q30-a3",
+          "text": "Net income was understated by $40,000"
+        }
+      ],
+      "correctChoiceId": "far-m1-q30-a0",
+      "explanation": "The equipment should have been capitalized. Expensing the full $20,000 immediately caused expenses to be overstated and net income to be understated by $20,000.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-III",
+        "groupId": "module-1",
+        "topicId": "far-error-corrections",
+        "taskIds": [
+          "far-error-corrections.task-3"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m1-q31",
+      "courseId": "far",
+      "moduleId": 1,
+      "lessonId": "far-m1-l8",
+      "topic": "Error Corrections",
+      "prompt": "If ending inventory is understated by $15,000 and no other errors exist, what is the effect on current-year cost of goods sold and net income?",
+      "choices": [
+        {
+          "id": "far-m1-q31-a0",
+          "text": "COGS understated; net income overstated"
+        },
+        {
+          "id": "far-m1-q31-a1",
+          "text": "Both COGS and net income understated"
+        },
+        {
+          "id": "far-m1-q31-a2",
+          "text": "COGS overstated; net income understated"
+        },
+        {
+          "id": "far-m1-q31-a3",
+          "text": "Both COGS and net income overstated"
+        }
+      ],
+      "correctChoiceId": "far-m1-q31-a2",
+      "explanation": "Ending inventory is subtracted in computing cost of goods sold. If ending inventory is understated, COGS is overstated, which causes net income to be understated.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-III",
+        "groupId": "module-1",
+        "topicId": "far-error-corrections",
+        "taskIds": [
+          "far-error-corrections.task-1"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m1-q32",
+      "courseId": "far",
+      "moduleId": 1,
+      "lessonId": "far-m1-l8",
+      "topic": "Error Corrections",
+      "prompt": "At year-end, a company fails to record an accrued expense of $8,000. What is the effect before correction?",
+      "choices": [
+        {
+          "id": "far-m1-q32-a0",
+          "text": "Liabilities are overstated and net income is understated"
+        },
+        {
+          "id": "far-m1-q32-a1",
+          "text": "Liabilities are understated and net income is overstated"
+        },
+        {
+          "id": "far-m1-q32-a2",
+          "text": "Assets are understated and net income is understated"
+        },
+        {
+          "id": "far-m1-q32-a3",
+          "text": "Liabilities and net income are both understated"
+        }
+      ],
+      "correctChoiceId": "far-m1-q32-a1",
+      "explanation": "Failing to accrue an expense understates both the expense and related liability. Because expenses are understated, net income is overstated.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-III",
+        "groupId": "module-1",
+        "topicId": "far-error-corrections",
+        "taskIds": [
+          "far-error-corrections.task-2"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m1-q33",
+      "courseId": "far",
+      "moduleId": 1,
+      "lessonId": "far-m1-l9",
+      "topic": "Subsequent Events",
+      "prompt": "After year-end but before the financial statements are issued, a customer declares bankruptcy. Evidence indicates the customer's severe financial difficulty existed at year-end. What is generally required?",
+      "choices": [
+        {
+          "id": "far-m1-q33-a0",
+          "text": "Adjust the year-end financial statements because the event provides additional evidence about a condition existing at year-end"
+        },
+        {
+          "id": "far-m1-q33-a1",
+          "text": "Record the loss only in the following year"
+        },
+        {
+          "id": "far-m1-q33-a2",
+          "text": "Ignore the bankruptcy completely"
+        },
+        {
+          "id": "far-m1-q33-a3",
+          "text": "Treat the bankruptcy as a change in accounting principle"
+        }
+      ],
+      "correctChoiceId": "far-m1-q33-a0",
+      "explanation": "When a subsequent event provides additional evidence about a condition that existed at the balance-sheet date, the financial statements are generally adjusted.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-III",
+        "groupId": "module-1",
+        "topicId": "far-subsequent-events",
+        "taskIds": [
+          "far-subsequent-events.task-3"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m1-q34",
+      "courseId": "far",
+      "moduleId": 1,
+      "lessonId": "far-m1-l9",
+      "topic": "Subsequent Events",
+      "prompt": "A company's uninsured factory is destroyed by an earthquake occurring after year-end. The earthquake and resulting condition did not exist at year-end. If the loss is material, what is generally appropriate?",
+      "choices": [
+        {
+          "id": "far-m1-q34-a0",
+          "text": "Recognize the loss in the year just ended"
+        },
+        {
+          "id": "far-m1-q34-a1",
+          "text": "Do not adjust year-end amounts, but disclose the material event appropriately"
+        },
+        {
+          "id": "far-m1-q34-a2",
+          "text": "Reduce beginning retained earnings"
+        },
+        {
+          "id": "far-m1-q34-a3",
+          "text": "Record an asset for the expected rebuilding cost"
+        }
+      ],
+      "correctChoiceId": "far-m1-q34-a1",
+      "explanation": "The event arose after year-end, so year-end amounts generally are not adjusted. A material nonrecognized subsequent event may require disclosure.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-III",
+        "groupId": "module-1",
+        "topicId": "far-subsequent-events",
+        "taskIds": [
+          "far-subsequent-events.task-1"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m1-q35",
+      "courseId": "far",
+      "moduleId": 1,
+      "lessonId": "far-m1-l9",
+      "topic": "Subsequent Events",
+      "prompt": "The key distinction between recognized and nonrecognized subsequent events is generally whether:",
+      "choices": [
+        {
+          "id": "far-m1-q35-a0",
+          "text": "The event involves cash"
+        },
+        {
+          "id": "far-m1-q35-a1",
+          "text": "Management expected the event"
+        },
+        {
+          "id": "far-m1-q35-a2",
+          "text": "The event involves more than $1 million"
+        },
+        {
+          "id": "far-m1-q35-a3",
+          "text": "The underlying condition existed at the balance-sheet date"
+        }
+      ],
+      "correctChoiceId": "far-m1-q35-a3",
+      "explanation": "The central question is whether the underlying condition existed at the balance-sheet date. Existing conditions may lead to recognition; conditions arising afterward generally do not.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-III",
+        "groupId": "module-1",
+        "topicId": "far-subsequent-events",
+        "taskIds": [
+          "far-subsequent-events.task-2"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m1-q36",
+      "courseId": "far",
+      "moduleId": 1,
+      "lessonId": "far-m1-l9",
+      "topic": "Subsequent Events",
+      "prompt": "A lawsuit concerning an event that occurred before year-end is settled after year-end but before the financial statements are issued. The settlement provides better evidence of the obligation that existed at year-end. The settlement generally should be considered:",
+      "choices": [
+        {
+          "id": "far-m1-q36-a0",
+          "text": "A financing activity"
+        },
+        {
+          "id": "far-m1-q36-a1",
+          "text": "A change in accounting principle"
+        },
+        {
+          "id": "far-m1-q36-a2",
+          "text": "Evidence relevant to adjustment of the year-end financial statements"
+        },
+        {
+          "id": "far-m1-q36-a3",
+          "text": "An event that can never affect year-end statements"
+        }
+      ],
+      "correctChoiceId": "far-m1-q36-a2",
+      "explanation": "A settlement after year-end can provide additional evidence about a condition and obligation that already existed at the balance-sheet date.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-III",
+        "groupId": "module-1",
+        "topicId": "far-subsequent-events",
+        "taskIds": [
+          "far-subsequent-events.task-3"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m1-q37",
+      "courseId": "far",
+      "moduleId": 1,
+      "lessonId": "far-m1-l10",
+      "topic": "Special-Purpose Frameworks",
+      "prompt": "Under the cash basis of accounting, revenue is generally recognized when:",
+      "choices": [
+        {
+          "id": "far-m1-q37-a0",
+          "text": "The related contract is signed"
+        },
+        {
+          "id": "far-m1-q37-a1",
+          "text": "Cash is received"
+        },
+        {
+          "id": "far-m1-q37-a2",
+          "text": "The customer first expresses interest"
+        },
+        {
+          "id": "far-m1-q37-a3",
+          "text": "A receivable is created regardless of collection"
+        }
+      ],
+      "correctChoiceId": "far-m1-q37-a1",
+      "explanation": "Under cash-basis accounting, revenues are generally recognized when cash is received and expenses when cash is paid.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-I",
+        "groupId": "module-1",
+        "topicId": "far-special-purpose-frameworks",
+        "taskIds": [
+          "far-special-purpose-frameworks.task-1"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m1-q38",
+      "courseId": "far",
+      "moduleId": 1,
+      "lessonId": "far-m1-l10",
+      "topic": "Special-Purpose Frameworks",
+      "prompt": "Which of the following is an example of a special-purpose financial reporting framework?",
+      "choices": [
+        {
+          "id": "far-m1-q38-a0",
+          "text": "Only U.S. GAAP"
+        },
+        {
+          "id": "far-m1-q38-a1",
+          "text": "Only IFRS"
+        },
+        {
+          "id": "far-m1-q38-a2",
+          "text": "A framework cannot be based on tax rules"
+        },
+        {
+          "id": "far-m1-q38-a3",
+          "text": "The tax basis of accounting"
+        }
+      ],
+      "correctChoiceId": "far-m1-q38-a3",
+      "explanation": "Tax-basis accounting is one example of a special-purpose framework. Other examples include cash basis and certain regulatory or contractual bases.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-I",
+        "groupId": "module-1",
+        "topicId": "far-special-purpose-frameworks",
+        "taskIds": [
+          "far-special-purpose-frameworks.task-2"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m1-q39",
+      "courseId": "far",
+      "moduleId": 1,
+      "lessonId": "far-m1-l10",
+      "topic": "Special-Purpose Frameworks",
+      "prompt": "A company collected $120,000 cash from customers during the year. Accounts receivable increased from $18,000 to $28,000. Assuming no other relevant adjustments, what amount of revenue was earned on the accrual basis?",
+      "choices": [
+        {
+          "id": "far-m1-q39-a0",
+          "text": "$110,000"
+        },
+        {
+          "id": "far-m1-q39-a1",
+          "text": "$120,000"
+        },
+        {
+          "id": "far-m1-q39-a2",
+          "text": "$130,000"
+        },
+        {
+          "id": "far-m1-q39-a3",
+          "text": "$148,000"
+        }
+      ],
+      "correctChoiceId": "far-m1-q39-a2",
+      "explanation": "An increase in accounts receivable means revenue earned exceeded cash collections. Accrual revenue equals $120,000 cash collected + $10,000 increase in receivables = $130,000.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-I",
+        "groupId": "module-1",
+        "topicId": "far-special-purpose-frameworks",
+        "taskIds": [
+          "far-special-purpose-frameworks.task-3"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m1-q40",
+      "courseId": "far",
+      "moduleId": 1,
+      "lessonId": "far-m1-l10",
+      "topic": "Special-Purpose Frameworks",
+      "prompt": "A company paid $75,000 cash for operating expenses during the year. Accrued expenses payable increased from $6,000 to $11,000. Assuming no other relevant adjustments, what is accrual-basis expense?",
+      "choices": [
+        {
+          "id": "far-m1-q40-a0",
+          "text": "$80,000"
+        },
+        {
+          "id": "far-m1-q40-a1",
+          "text": "$70,000"
+        },
+        {
+          "id": "far-m1-q40-a2",
+          "text": "$75,000"
+        },
+        {
+          "id": "far-m1-q40-a3",
+          "text": "$86,000"
+        }
+      ],
+      "correctChoiceId": "far-m1-q40-a0",
+      "explanation": "The payable increased by $5,000, meaning $5,000 of expense was recognized but not yet paid. Accrual-basis expense is $75,000 + $5,000 = $80,000.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-I",
+        "groupId": "module-1",
+        "topicId": "far-special-purpose-frameworks",
+        "taskIds": [
+          "far-special-purpose-frameworks.task-1"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m1-q41",
+      "courseId": "far",
+      "moduleId": 1,
+      "lessonId": "far-m1-l1",
+      "topic": "Financial Statements & General-Purpose Reporting",
+      "prompt": "At the beginning of the year, a company had total assets of $900,000 and total liabilities of $540,000. During the year, the company earned net income of $95,000, declared and paid $25,000 of dividends, and issued $40,000 of common stock for cash. Assuming no other transactions affected equity, what is total stockholders' equity at year-end?",
+      "choices": [
+        {
+          "id": "far-m1-q41-a0",
+          "text": "$430,000"
+        },
+        {
+          "id": "far-m1-q41-a1",
+          "text": "$470,000"
+        },
+        {
+          "id": "far-m1-q41-a2",
+          "text": "$540,000"
+        },
+        {
+          "id": "far-m1-q41-a3",
+          "text": "$565,000"
+        }
+      ],
+      "correctChoiceId": "far-m1-q41-a1",
+      "explanation": "Beginning equity is $900,000 − $540,000 = $360,000. Add $95,000 of net income, subtract $25,000 of dividends, and add the $40,000 stock issuance. Ending equity is $360,000 + $95,000 − $25,000 + $40,000 = $470,000.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-I",
+        "groupId": "module-1",
+        "topicId": "far-financial-statements-general-purpose-reporting",
+        "taskIds": [
+          "far-financial-statements-general-purpose-reporting.task-2"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m1-q42",
+      "courseId": "far",
+      "moduleId": 1,
+      "lessonId": "far-m1-l1",
+      "topic": "Financial Statements & General-Purpose Reporting",
+      "prompt": "During December, a company collected $30,000 in advance for services to be performed next year and performed $18,000 of services for a customer that will pay next year. Ignoring all other transactions, by how much does December revenue increase under accrual accounting?",
+      "choices": [
+        {
+          "id": "far-m1-q42-a0",
+          "text": "$48,000"
+        },
+        {
+          "id": "far-m1-q42-a1",
+          "text": "$30,000"
+        },
+        {
+          "id": "far-m1-q42-a2",
+          "text": "$18,000"
+        },
+        {
+          "id": "far-m1-q42-a3",
+          "text": "$12,000"
+        }
+      ],
+      "correctChoiceId": "far-m1-q42-a2",
+      "explanation": "The $30,000 collected in advance is not December revenue because the services have not yet been performed; it is generally recorded as a liability. The $18,000 of services performed in December is recognized as revenue even though cash will be collected later. December revenue therefore increases by $18,000.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-I",
+        "groupId": "module-1",
+        "topicId": "far-financial-statements-general-purpose-reporting",
+        "taskIds": [
+          "far-financial-statements-general-purpose-reporting.task-3"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m1-q43",
+      "courseId": "far",
+      "moduleId": 1,
+      "lessonId": "far-m1-l2",
+      "topic": "Balance Sheet Classification & Presentation",
+      "prompt": "A company has an operating cycle of 18 months. At year-end, it reports inventory expected to be sold in 14 months, a receivable expected to be collected in 16 months from a normal operating sale, equipment to be used for five years, and a note receivable unrelated to operations due in three years. Which items would generally be classified as current assets?",
+      "choices": [
+        {
+          "id": "far-m1-q43-a0",
+          "text": "Only the inventory"
+        },
+        {
+          "id": "far-m1-q43-a1",
+          "text": "The inventory and the operating receivable"
+        },
+        {
+          "id": "far-m1-q43-a2",
+          "text": "The inventory, operating receivable, and equipment"
+        },
+        {
+          "id": "far-m1-q43-a3",
+          "text": "All four items"
+        }
+      ],
+      "correctChoiceId": "far-m1-q43-a1",
+      "explanation": "When the normal operating cycle exceeds one year, assets expected to be realized during that operating cycle may generally be classified as current. The inventory and operating receivable fall within the 18-month operating cycle. The equipment and three-year nonoperating note are noncurrent.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-I",
+        "groupId": "module-1",
+        "topicId": "far-balance-sheet-classification-presentation",
+        "taskIds": [
+          "far-balance-sheet-classification-presentation.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m1-q44",
+      "courseId": "far",
+      "moduleId": 1,
+      "lessonId": "far-m1-l2",
+      "topic": "Balance Sheet Classification & Presentation",
+      "prompt": "A company reports cash of $90,000, accounts receivable of $140,000, inventory of $180,000, prepaid insurance of $20,000, equipment of $500,000, accounts payable of $110,000, accrued liabilities of $35,000, and a $300,000 long-term note of which $45,000 is due within the next year. What is working capital?",
+      "choices": [
+        {
+          "id": "far-m1-q44-a0",
+          "text": "$240,000"
+        },
+        {
+          "id": "far-m1-q44-a1",
+          "text": "$430,000"
+        },
+        {
+          "id": "far-m1-q44-a2",
+          "text": "$285,000"
+        },
+        {
+          "id": "far-m1-q44-a3",
+          "text": "$540,000"
+        }
+      ],
+      "correctChoiceId": "far-m1-q44-a0",
+      "explanation": "Current assets are $90,000 + $140,000 + $180,000 + $20,000 = $430,000. Current liabilities are $110,000 + $35,000 + $45,000 = $190,000. Working capital is $430,000 − $190,000 = $240,000.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-I",
+        "groupId": "module-1",
+        "topicId": "far-balance-sheet-classification-presentation",
+        "taskIds": [
+          "far-balance-sheet-classification-presentation.task-2"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m1-q45",
+      "courseId": "far",
+      "moduleId": 1,
+      "lessonId": "far-m1-l3",
+      "topic": "Income Statement & Comprehensive Income",
+      "prompt": "A company reports income from continuing operations after tax of $420,000, an after-tax loss from discontinued operations of $60,000, and other comprehensive income of $25,000. What are net income and comprehensive income, respectively?",
+      "choices": [
+        {
+          "id": "far-m1-q45-a0",
+          "text": "$420,000 and $445,000"
+        },
+        {
+          "id": "far-m1-q45-a1",
+          "text": "$360,000 and $385,000"
+        },
+        {
+          "id": "far-m1-q45-a2",
+          "text": "$360,000 and $335,000"
+        },
+        {
+          "id": "far-m1-q45-a3",
+          "text": "$385,000 and $420,000"
+        }
+      ],
+      "correctChoiceId": "far-m1-q45-a1",
+      "explanation": "Net income includes the discontinued-operations loss: $420,000 − $60,000 = $360,000. Comprehensive income equals net income plus OCI: $360,000 + $25,000 = $385,000.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-I",
+        "groupId": "module-1",
+        "topicId": "far-income-statement-comprehensive-income",
+        "taskIds": [
+          "far-income-statement-comprehensive-income.task-3"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m1-q46",
+      "courseId": "far",
+      "moduleId": 1,
+      "lessonId": "far-m1-l3",
+      "topic": "Income Statement & Comprehensive Income",
+      "prompt": "A corporation reports net income of $275,000, other comprehensive loss of $18,000, cash dividends of $30,000, and proceeds from issuing common stock of $100,000. What is comprehensive income?",
+      "choices": [
+        {
+          "id": "far-m1-q46-a0",
+          "text": "$327,000"
+        },
+        {
+          "id": "far-m1-q46-a1",
+          "text": "$245,000"
+        },
+        {
+          "id": "far-m1-q46-a2",
+          "text": "$257,000"
+        },
+        {
+          "id": "far-m1-q46-a3",
+          "text": "$357,000"
+        }
+      ],
+      "correctChoiceId": "far-m1-q46-a2",
+      "explanation": "Comprehensive income equals net income plus other comprehensive income or loss. Therefore, comprehensive income is $275,000 − $18,000 = $257,000. Dividends and stock issuances are owner-related equity transactions and are not components of comprehensive income.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-I",
+        "groupId": "module-1",
+        "topicId": "far-income-statement-comprehensive-income",
+        "taskIds": [
+          "far-income-statement-comprehensive-income.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m1-q47",
+      "courseId": "far",
+      "moduleId": 1,
+      "lessonId": "far-m1-l4",
+      "topic": "Statement of Cash Flows",
+      "prompt": "A company reports net income of $210,000. Depreciation expense is $32,000, a gain on sale of equipment is $9,000, accounts receivable increased $14,000, inventory decreased $11,000, and accounts payable decreased $7,000. What is net cash provided by operating activities under the indirect method?",
+      "choices": [
+        {
+          "id": "far-m1-q47-a0",
+          "text": "$223,000"
+        },
+        {
+          "id": "far-m1-q47-a1",
+          "text": "$251,000"
+        },
+        {
+          "id": "far-m1-q47-a2",
+          "text": "$209,000"
+        },
+        {
+          "id": "far-m1-q47-a3",
+          "text": "$237,000"
+        }
+      ],
+      "correctChoiceId": "far-m1-q47-a0",
+      "explanation": "Operating cash flow is $210,000 + $32,000 − $9,000 − $14,000 + $11,000 − $7,000 = $223,000. Depreciation is added back, the gain is removed, increases in operating assets are subtracted, decreases in operating assets are added, and decreases in operating liabilities are subtracted.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-I",
+        "groupId": "module-1",
+        "topicId": "far-statement-of-cash-flows",
+        "taskIds": [
+          "far-statement-of-cash-flows.task-2"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m1-q48",
+      "courseId": "far",
+      "moduleId": 1,
+      "lessonId": "far-m1-l4",
+      "topic": "Statement of Cash Flows",
+      "prompt": "During the year, a company received $250,000 from issuing common stock, paid $90,000 to purchase equipment, borrowed $160,000 by issuing long-term debt, and paid $40,000 of cash dividends. What is net cash provided by financing activities?",
+      "choices": [
+        {
+          "id": "far-m1-q48-a0",
+          "text": "$280,000"
+        },
+        {
+          "id": "far-m1-q48-a1",
+          "text": "$370,000"
+        },
+        {
+          "id": "far-m1-q48-a2",
+          "text": "$410,000"
+        },
+        {
+          "id": "far-m1-q48-a3",
+          "text": "$320,000"
+        }
+      ],
+      "correctChoiceId": "far-m1-q48-a1",
+      "explanation": "Financing activities include the $250,000 stock issuance, $160,000 debt issuance, and $40,000 dividend payment. Net financing cash flow is $250,000 + $160,000 − $40,000 = $370,000. The equipment purchase is an investing cash outflow.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-I",
+        "groupId": "module-1",
+        "topicId": "far-statement-of-cash-flows",
+        "taskIds": [
+          "far-statement-of-cash-flows.task-3"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m1-q49",
+      "courseId": "far",
+      "moduleId": 1,
+      "lessonId": "far-m1-l5",
+      "topic": "Statement of Changes in Equity",
+      "prompt": "Beginning stockholders' equity is $700,000. During the year, the company earns $120,000 of net income, reports $15,000 of other comprehensive income, issues $80,000 of common stock for cash, declares $35,000 of dividends, and purchases $50,000 of treasury stock. What is ending total stockholders' equity?",
+      "choices": [
+        {
+          "id": "far-m1-q49-a0",
+          "text": "$830,000"
+        },
+        {
+          "id": "far-m1-q49-a1",
+          "text": "$865,000"
+        },
+        {
+          "id": "far-m1-q49-a2",
+          "text": "$780,000"
+        },
+        {
+          "id": "far-m1-q49-a3",
+          "text": "$915,000"
+        }
+      ],
+      "correctChoiceId": "far-m1-q49-a0",
+      "explanation": "Ending equity is $700,000 + $120,000 + $15,000 + $80,000 − $35,000 − $50,000 = $830,000. Net income and OCI increase equity, stock issuance increases equity, while dividends and treasury-stock purchases reduce equity.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-I",
+        "groupId": "module-1",
+        "topicId": "far-statement-of-changes-in-equity",
+        "taskIds": [
+          "far-statement-of-changes-in-equity.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m1-q50",
+      "courseId": "far",
+      "moduleId": 1,
+      "lessonId": "far-m1-l5",
+      "topic": "Statement of Changes in Equity",
+      "prompt": "A corporation issues 8,000 shares of $4 par common stock for $11 per share. It later purchases treasury stock for $18,000. Ignoring all other equity transactions, what is the net increase in total stockholders' equity from these two transactions?",
+      "choices": [
+        {
+          "id": "far-m1-q50-a0",
+          "text": "$70,000"
+        },
+        {
+          "id": "far-m1-q50-a1",
+          "text": "$88,000"
+        },
+        {
+          "id": "far-m1-q50-a2",
+          "text": "$38,000"
+        },
+        {
+          "id": "far-m1-q50-a3",
+          "text": "$52,000"
+        }
+      ],
+      "correctChoiceId": "far-m1-q50-a0",
+      "explanation": "The stock issuance increases total equity by the $88,000 proceeds (8,000 × $11). The treasury-stock purchase reduces total equity by $18,000. The net increase in equity is $88,000 − $18,000 = $70,000.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-I",
+        "groupId": "module-1",
+        "topicId": "far-statement-of-changes-in-equity",
+        "taskIds": [
+          "far-statement-of-changes-in-equity.task-2"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m1-q51",
+      "courseId": "far",
+      "moduleId": 1,
+      "lessonId": "far-m1-l6",
+      "topic": "Notes to Financial Statements & Disclosures",
+      "prompt": "At year-end, a company has incurred $75,000 of employee compensation that will be paid next year. Management proposes disclosing the obligation in the notes instead of recording it because no cash has yet been paid. Which treatment is most appropriate?",
+      "choices": [
+        {
+          "id": "far-m1-q51-a0",
+          "text": "Disclosure only because the amount will be paid next year"
+        },
+        {
+          "id": "far-m1-q51-a1",
+          "text": "No recognition or disclosure until cash is paid"
+        },
+        {
+          "id": "far-m1-q51-a2",
+          "text": "Recognize compensation expense and a liability; disclosure does not substitute for required recognition"
+        },
+        {
+          "id": "far-m1-q51-a3",
+          "text": "Charge the amount directly to retained earnings"
+        }
+      ],
+      "correctChoiceId": "far-m1-q51-a2",
+      "explanation": "The compensation has been incurred and the related obligation exists at year-end. Required recognition in the financial statements generally cannot be replaced merely by note disclosure. The company should recognize compensation expense and the related liability.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-I",
+        "groupId": "module-1",
+        "topicId": "far-notes-to-financial-statements-disclosures",
+        "taskIds": [
+          "far-notes-to-financial-statements-disclosures.task-3"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m1-q52",
+      "courseId": "far",
+      "moduleId": 1,
+      "lessonId": "far-m1-l6",
+      "topic": "Notes to Financial Statements & Disclosures",
+      "prompt": "At year-end, a company is involved in litigation. Its attorneys conclude that a loss is probable and estimate the loss at $90,000. Before issuing the financial statements, additional evidence confirms that the obligation existed at year-end and that $90,000 remains the best estimate. What is the appropriate year-end treatment?",
+      "choices": [
+        {
+          "id": "far-m1-q52-a0",
+          "text": "Accrue a $90,000 loss and liability, with appropriate disclosure as necessary"
+        },
+        {
+          "id": "far-m1-q52-a1",
+          "text": "Disclose the matter but never recognize a liability"
+        },
+        {
+          "id": "far-m1-q52-a2",
+          "text": "Wait until the lawsuit is paid"
+        },
+        {
+          "id": "far-m1-q52-a3",
+          "text": "Record the amount as a reduction of additional paid-in capital"
+        }
+      ],
+      "correctChoiceId": "far-m1-q52-a0",
+      "explanation": "A probable loss that is reasonably estimable is generally accrued. The additional information confirms the year-end condition rather than creating a new post-year-end obligation, so the $90,000 loss and liability should be recognized.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-I",
+        "groupId": "module-1",
+        "topicId": "far-notes-to-financial-statements-disclosures",
+        "taskIds": [
+          "far-notes-to-financial-statements-disclosures.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m1-q53",
+      "courseId": "far",
+      "moduleId": 1,
+      "lessonId": "far-m1-l7",
+      "topic": "Accounting Changes",
+      "prompt": "Equipment has a carrying amount of $150,000 when management revises its estimated remaining useful life to six years and its residual value to $18,000 based on new information. Using straight-line depreciation, what annual depreciation expense should generally be recognized prospectively?",
+      "choices": [
+        {
+          "id": "far-m1-q53-a0",
+          "text": "$28,000"
+        },
+        {
+          "id": "far-m1-q53-a1",
+          "text": "$22,000"
+        },
+        {
+          "id": "far-m1-q53-a2",
+          "text": "$25,000"
+        },
+        {
+          "id": "far-m1-q53-a3",
+          "text": "$18,000"
+        }
+      ],
+      "correctChoiceId": "far-m1-q53-a1",
+      "explanation": "The revised depreciable amount is $150,000 − $18,000 = $132,000. Spread prospectively over the six-year remaining useful life, annual depreciation is $132,000 ÷ 6 = $22,000.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-III",
+        "groupId": "module-1",
+        "topicId": "far-accounting-changes",
+        "taskIds": [
+          "far-accounting-changes.task-2"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m1-q54",
+      "courseId": "far",
+      "moduleId": 1,
+      "lessonId": "far-m1-l7",
+      "topic": "Accounting Changes",
+      "prompt": "Which situation is generally accounted for prospectively rather than through retrospective application or prior-period restatement?",
+      "choices": [
+        {
+          "id": "far-m1-q54-a0",
+          "text": "Correction of a material mathematical error in a prior-period statement"
+        },
+        {
+          "id": "far-m1-q54-a1",
+          "text": "A change in reporting entity"
+        },
+        {
+          "id": "far-m1-q54-a2",
+          "text": "A change from one acceptable inventory accounting principle to another when retrospective application is required and practicable"
+        },
+        {
+          "id": "far-m1-q54-a3",
+          "text": "A revision of an asset's estimated residual value based on new information"
+        }
+      ],
+      "correctChoiceId": "far-m1-q54-a3",
+      "explanation": "A revision of residual value based on new information is a change in accounting estimate and is generally accounted for prospectively. Material prior-period errors are corrected through restatement, and changes in reporting entity and many changes in accounting principle are generally retrospective.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-III",
+        "groupId": "module-1",
+        "topicId": "far-accounting-changes",
+        "taskIds": [
+          "far-accounting-changes.task-3"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m1-q55",
+      "courseId": "far",
+      "moduleId": 1,
+      "lessonId": "far-m1-l8",
+      "topic": "Error Corrections",
+      "prompt": "A company's Year 1 ending inventory was understated by $24,000, and the error was not corrected. No additional inventory errors occurred in Year 2. Ignoring taxes, what is the effect on net income in Year 1 and Year 2?",
+      "choices": [
+        {
+          "id": "far-m1-q55-a0",
+          "text": "Year 1 understated $24,000; Year 2 overstated $24,000"
+        },
+        {
+          "id": "far-m1-q55-a1",
+          "text": "Year 1 overstated $24,000; Year 2 understated $24,000"
+        },
+        {
+          "id": "far-m1-q55-a2",
+          "text": "Both years understated $24,000"
+        },
+        {
+          "id": "far-m1-q55-a3",
+          "text": "Year 1 understated $24,000; Year 2 unaffected"
+        }
+      ],
+      "correctChoiceId": "far-m1-q55-a0",
+      "explanation": "Understated Year 1 ending inventory causes Year 1 COGS to be overstated and Year 1 net income to be understated by $24,000. That understated ending inventory becomes understated beginning inventory in Year 2, causing Year 2 COGS to be understated and Year 2 net income to be overstated by $24,000. The income effects counterbalance over the two periods.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-III",
+        "groupId": "module-1",
+        "topicId": "far-error-corrections",
+        "taskIds": [
+          "far-error-corrections.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m1-q56",
+      "courseId": "far",
+      "moduleId": 1,
+      "lessonId": "far-m1-l8",
+      "topic": "Error Corrections",
+      "prompt": "In the prior year, a company failed to record $36,000 of wages expense and the related payable. The wages remain unpaid when the material error is discovered at the beginning of the current year. Ignoring income taxes, which correcting entry is appropriate?",
+      "choices": [
+        {
+          "id": "far-m1-q56-a0",
+          "text": "Debit Wages Expense $36,000; credit Cash $36,000"
+        },
+        {
+          "id": "far-m1-q56-a1",
+          "text": "Debit Retained Earnings $36,000; credit Wages Payable $36,000"
+        },
+        {
+          "id": "far-m1-q56-a2",
+          "text": "Debit Wages Payable $36,000; credit Retained Earnings $36,000"
+        },
+        {
+          "id": "far-m1-q56-a3",
+          "text": "Debit Cash $36,000; credit Wages Expense $36,000"
+        }
+      ],
+      "correctChoiceId": "far-m1-q56-a1",
+      "explanation": "The omitted prior-year expense caused prior-year income and current-year beginning retained earnings to be overstated, while the payable was understated. The correction therefore debits beginning retained earnings and credits wages payable for $36,000.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-III",
+        "groupId": "module-1",
+        "topicId": "far-error-corrections",
+        "taskIds": [
+          "far-error-corrections.task-2"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m1-q57",
+      "courseId": "far",
+      "moduleId": 1,
+      "lessonId": "far-m1-l9",
+      "topic": "Subsequent Events",
+      "prompt": "A company has a $200,000 receivable from a customer at December 31. The customer is financially healthy at year-end. On January 18, the customer's only manufacturing facility is unexpectedly destroyed by a natural disaster, causing the customer to enter bankruptcy before the company's financial statements are issued. Which treatment is generally most appropriate if the event is material?",
+      "choices": [
+        {
+          "id": "far-m1-q57-a0",
+          "text": "Adjust the December 31 receivable because every bankruptcy before issuance is recognized"
+        },
+        {
+          "id": "far-m1-q57-a1",
+          "text": "Do not adjust the December 31 amounts for the new condition, but provide appropriate disclosure of the material event"
+        },
+        {
+          "id": "far-m1-q57-a2",
+          "text": "Write off the receivable directly against December 31 retained earnings"
+        },
+        {
+          "id": "far-m1-q57-a3",
+          "text": "Recognize the natural-disaster loss as a December operating expense"
+        }
+      ],
+      "correctChoiceId": "far-m1-q57-a1",
+      "explanation": "The customer was financially healthy at December 31, and the condition causing the bankruptcy arose after year-end. Therefore, the event is generally nonrecognized for the year-end amounts. Because it is material, appropriate disclosure may be required.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-III",
+        "groupId": "module-1",
+        "topicId": "far-subsequent-events",
+        "taskIds": [
+          "far-subsequent-events.task-3"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m1-q58",
+      "courseId": "far",
+      "moduleId": 1,
+      "lessonId": "far-m1-l9",
+      "topic": "Subsequent Events",
+      "prompt": "At December 31, a company is defending a lawsuit arising from an event that occurred during the year. Before the financial statements are issued, the lawsuit is settled for $140,000. The settlement provides additional evidence about the obligation that existed at December 31. Subject to the applicable loss-contingency requirements, how should the settlement generally affect the year-end financial statements?",
+      "choices": [
+        {
+          "id": "far-m1-q58-a0",
+          "text": "It can provide evidence used in determining the amount recognized for the year-end obligation"
+        },
+        {
+          "id": "far-m1-q58-a1",
+          "text": "It must always be ignored because settlement occurred after year-end"
+        },
+        {
+          "id": "far-m1-q58-a2",
+          "text": "It must be recorded entirely as a transaction of the following year"
+        },
+        {
+          "id": "far-m1-q58-a3",
+          "text": "It is treated as a change in accounting principle"
+        }
+      ],
+      "correctChoiceId": "far-m1-q58-a0",
+      "explanation": "Because the underlying event and obligation existed at year-end, the subsequent settlement can provide additional evidence about the amount of the year-end loss contingency. Subject to the applicable contingency guidance, that evidence may affect the amount recognized in the year-end financial statements.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-III",
+        "groupId": "module-1",
+        "topicId": "far-subsequent-events",
+        "taskIds": [
+          "far-subsequent-events.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m1-q59",
+      "courseId": "far",
+      "moduleId": 1,
+      "lessonId": "far-m1-l10",
+      "topic": "Special-Purpose Frameworks",
+      "prompt": "A cash-basis company collected $900,000 from customers during the year. Accounts receivable increased from $70,000 to $105,000. The company also collected $20,000 in advance at year-end for services that will be performed next year; the $20,000 is included in the $900,000 cash collections. Assuming no other relevant adjustments, what is current-year accrual-basis revenue?",
+      "choices": [
+        {
+          "id": "far-m1-q59-a0",
+          "text": "$935,000"
+        },
+        {
+          "id": "far-m1-q59-a1",
+          "text": "$915,000"
+        },
+        {
+          "id": "far-m1-q59-a2",
+          "text": "$865,000"
+        },
+        {
+          "id": "far-m1-q59-a3",
+          "text": "$955,000"
+        }
+      ],
+      "correctChoiceId": "far-m1-q59-a1",
+      "explanation": "Start with $900,000 of cash collections. Add the $35,000 increase in accounts receivable because earned revenue exceeded collections by that amount, then subtract the $20,000 collected in advance because it is not current-year revenue. Accrual-basis revenue is $900,000 + $35,000 − $20,000 = $915,000.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-I",
+        "groupId": "module-1",
+        "topicId": "far-special-purpose-frameworks",
+        "taskIds": [
+          "far-special-purpose-frameworks.task-2"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m1-q60",
+      "courseId": "far",
+      "moduleId": 1,
+      "lessonId": "far-m1-l10",
+      "topic": "Special-Purpose Frameworks",
+      "prompt": "A company paid $400,000 cash for operating costs during the year. Accounts payable increased by $28,000, while prepaid operating costs increased by $12,000. Assuming no other relevant adjustments, what is accrual-basis operating expense?",
+      "choices": [
+        {
+          "id": "far-m1-q60-a0",
+          "text": "$440,000"
+        },
+        {
+          "id": "far-m1-q60-a1",
+          "text": "$416,000"
+        },
+        {
+          "id": "far-m1-q60-a2",
+          "text": "$384,000"
+        },
+        {
+          "id": "far-m1-q60-a3",
+          "text": "$428,000"
+        }
+      ],
+      "correctChoiceId": "far-m1-q60-a1",
+      "explanation": "An increase in accounts payable means $28,000 of recognized expense has not yet been paid, so it is added to cash payments. An increase in prepaid costs means $12,000 of cash paid relates to future periods, so it is subtracted. Accrual expense is $400,000 + $28,000 − $12,000 = $416,000.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-I",
+        "groupId": "module-1",
+        "topicId": "far-special-purpose-frameworks",
+        "taskIds": [
+          "far-special-purpose-frameworks.task-3"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    }
+  ]
+}

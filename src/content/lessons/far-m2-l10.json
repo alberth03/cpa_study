@@ -1,0 +1,88 @@
+{
+  "id": "far-m2-l10",
+  "courseId": "far",
+  "moduleId": 2,
+  "number": 10,
+  "title": "Equity Accounts",
+  "description": "Account for common and preferred stock, additional paid-in capital, treasury stock, retained earnings and dividends.",
+  "url": "/learn/far/modules/2/lessons/10",
+  "html": "<h2> Equity Accounts </h2> <p> Stockholders' equity represents the residual interest in a corporation's assets after liabilities are deducted. For FAR, you should understand common and preferred stock, par value, additional paid-in capital, treasury stock, retained earnings, dividends, and stock splits. </p> <h3> 1. Major Components of Stockholders' Equity </h3> <div class=\"key-points\"> <ul> <li> Common stock </li> <li> Preferred stock </li> <li> Additional paid-in capital </li> <li> Retained earnings </li> <li> Accumulated other comprehensive income or loss </li> <li> Treasury stock </li> </ul> </div> <h3> 2. Common Stock </h3> <p> Common stock represents an ownership interest in a corporation. When shares are issued, the accounting depends on whether the shares have a stated par value. </p> <p> For par-value common stock, the Common Stock account is generally credited for the shares' total par value. </p> <div class=\"formula-box\"> Common Stock = Shares Issued × Par Value Per Share </div> <div class=\"example-box\"> <h3> Example </h3> <p> A corporation issues 10,000 shares of $2 par-value common stock for $15 per share. </p> <div class=\"formula-box\"> Cash Received = 10,000 × $15 = <strong>$150,000</strong> <br><br> Common Stock = 10,000 × $2 = <strong>$20,000</strong> <br><br> Additional Paid-In Capital = $150,000 − $20,000 = <strong>$130,000</strong> </div> </div> <h3> 3. Additional Paid-In Capital </h3> <p> Additional paid-in capital, or APIC, generally represents amounts contributed by shareholders in excess of amounts credited to the stock account. </p> <div class=\"formula-box\"> APIC from Common Stock Issuance = Issue Proceeds − Amount Credited to Common Stock </div> <h3> 4. Preferred Stock </h3> <p> Preferred stock may provide shareholders with preferences over common shareholders, particularly with respect to dividends or distributions upon liquidation. </p> <div class=\"key-points\"> <ul> <li> Preferred shares may be cumulative. </li> <li> They may be noncumulative. </li> <li> They may be convertible. </li> <li> They may be participating or nonparticipating. </li> </ul> </div> <h3> 5. Cumulative Preferred Dividends </h3> <p> With cumulative preferred stock, unpaid preferred dividends from prior periods are called dividends in arrears. </p> <div class=\"key-points\"> <p> Dividends in arrears generally are <strong>not recognized as liabilities</strong> until the dividends are declared. </p> </div> <p> However, applicable disclosure of dividends in arrears may be required. </p> <h3> 6. Retained Earnings </h3> <p> Retained earnings generally represents accumulated earnings of the corporation that have not been distributed to shareholders through dividends. </p> <div class=\"formula-box\"> Ending Retained Earnings = Beginning Retained Earnings + Net Income − Dividends </div> <div class=\"example-box\"> <h3> Example </h3> <p> Beginning retained earnings: <strong>$300,000</strong> </p> <p> Net income: <strong>$90,000</strong> </p> <p> Dividends: <strong>$25,000</strong> </p> <div class=\"formula-box\"> $300,000 + $90,000 − $25,000 = <strong>$365,000 ending retained earnings</strong> </div> </div> <h3> 7. Treasury Stock </h3> <p> Treasury stock represents a corporation's own shares that have been issued and subsequently reacquired but not retired. </p> <div class=\"key-points\"> <ul> <li> Treasury stock is generally a contra-equity account. </li> <li> It reduces total stockholders' equity. </li> <li> Treasury shares are not considered outstanding. </li> <li> Under the cost method, treasury stock is generally recorded at the amount paid to reacquire the shares. </li> </ul> </div> <div class=\"example-box\"> <h3> Treasury Stock Example </h3> <p> A corporation reacquires 2,000 of its shares for $18 per share. </p> <div class=\"formula-box\"> Treasury Stock = 2,000 × $18 = <strong>$36,000</strong> </div> <p> Under the cost method, treasury stock is debited for $36,000, reducing total stockholders' equity. </p> </div> <h3> 8. Shares Authorized, Issued, and Outstanding </h3> <div class=\"key-points\"> <ul> <li> <strong>Authorized:</strong> Maximum shares the corporation is authorized to issue under its governing documents. </li> <li> <strong>Issued:</strong> Shares that have been issued to shareholders. </li> <li> <strong>Outstanding:</strong> Issued shares currently held by shareholders outside the corporation. </li> </ul> </div> <div class=\"formula-box\"> Outstanding Shares = Issued Shares − Treasury Shares </div> <h3> 9. Cash Dividends </h3> <p> A cash dividend generally creates a liability when the corporation's board declares the dividend. </p> <div class=\"formula-box\"> Declaration: <br><br> Debit Retained Earnings <br> Credit Dividends Payable <br><br> Payment: <br><br> Debit Dividends Payable <br> Credit Cash </div> <h3> 10. Stock Dividends </h3> <p> A stock dividend distributes additional shares of the corporation's stock to existing shareholders. </p> <div class=\"key-points\"> <p> A stock dividend generally reallocates amounts within stockholders' equity rather than reducing total stockholders' equity. </p> </div> <p> The specific accounting depends in part on the size and circumstances of the stock dividend. </p> <h3> 11. Stock Splits </h3> <p> A stock split increases the number of shares while proportionately reducing the par or stated value per share. </p> <div class=\"example-box\"> <h3> 2-for-1 Stock Split </h3> <p> Before split: </p> <div class=\"formula-box\"> 100,000 shares × $10 par value </div> <p> After a 2-for-1 split: </p> <div class=\"formula-box\"> 200,000 shares × $5 par value </div> <p> Total par value remains <strong>$1,000,000</strong>. </p> </div> <h3> 12. Accumulated Other Comprehensive Income </h3> <p> Accumulated other comprehensive income, or AOCI, is an equity component that accumulates certain items initially recognized in other comprehensive income rather than directly in net income. </p> <p> For example, certain unrealized holding gains and losses on available-for-sale debt securities can affect OCI and ultimately AOCI. </p> <h3> 13. CPA Exam Focus </h3> <div class=\"key-points\"> <ul> <li> Calculate common stock and APIC when shares are issued above par. </li> <li> Understand cumulative preferred dividends and dividends in arrears. </li> <li> Calculate ending retained earnings. </li> <li> Remember that treasury stock reduces equity. </li> <li> Calculate outstanding shares. </li> <li> Distinguish cash dividends, stock dividends, and stock splits. </li> <li> Understand the relationship between OCI and AOCI. </li> </ul> </div>",
+  "quiz": {
+    "id": "far-m2-l10-check",
+    "courseId": "far",
+    "moduleId": 2,
+    "lessonId": "far-m2-l10",
+    "topic": "General review",
+    "prompt": "A corporation has 100,000 shares of common stock issued and reacquires 15,000 shares as treasury stock. How many common shares are outstanding after the reacquisition?",
+    "choices": [
+      {
+        "id": "far-m2-l10-check-a0",
+        "text": "85,000 shares"
+      },
+      {
+        "id": "far-m2-l10-check-a1",
+        "text": "100,000 shares"
+      },
+      {
+        "id": "far-m2-l10-check-a2",
+        "text": "115,000 shares"
+      },
+      {
+        "id": "far-m2-l10-check-a3",
+        "text": "15,000 shares"
+      }
+    ],
+    "correctChoiceId": "far-m2-l10-check-a0",
+    "explanation": "Outstanding shares equal issued shares minus treasury shares. Therefore, 100,000 issued shares minus 15,000 treasury shares equals 85,000 outstanding shares.",
+    "difficulty": "foundation",
+    "metadata": {
+      "section": "far",
+      "blueprintYear": 2026,
+      "areaId": "far-I",
+      "groupId": "module-2",
+      "topicId": "far-equity-accounts",
+      "taskIds": [
+        "far-equity-accounts.task-1",
+        "far-equity-accounts.task-2",
+        "far-equity-accounts.task-3"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "section": "far",
+    "blueprintYear": 2026,
+    "areaId": "far-I",
+    "groupId": "module-2",
+    "topicId": "far-equity-accounts",
+    "taskIds": [
+      "far-equity-accounts.task-1",
+      "far-equity-accounts.task-2",
+      "far-equity-accounts.task-3"
+    ],
+    "skill": "application",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      }
+    ]
+  },
+  "objectives": [
+    "Explain equity accounts and its underlying principles.",
+    "Apply the topic to a financial-reporting scenario.",
+    "Evaluate common errors and their financial-statement effects."
+  ]
+}

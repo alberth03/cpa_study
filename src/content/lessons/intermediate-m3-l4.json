@@ -1,0 +1,88 @@
+{
+  "id": "intermediate-m3-l4",
+  "courseId": "intermediate",
+  "moduleId": 3,
+  "number": 4,
+  "title": "Weighted-Average Cost",
+  "description": "Use average inventory cost to calculate COGS and ending inventory.",
+  "url": "/learn/intermediate/modules/3/lessons/4",
+  "html": "<h2>What is weighted-average cost?</h2> <p> Instead of assigning specific old or new costs to units sold, the weighted-average method uses an average cost per unit. </p> <h2>Basic formula</h2> <div class=\"formula-box\"> Average Cost Per Unit = Total Cost of Goods Available ÷ Total Units Available </div> <h2>Example</h2> <p> Assume a company has the following inventory: </p> <div class=\"financial-example\"> <div> <span>100 units × $10</span> <strong>$1,000</strong> </div> <div> <span>100 units × $14</span> <strong>$1,400</strong> </div> <div class=\"financial-total\"> <span>200 units available</span> <strong>$2,400</strong> </div> </div> <h2>Step 1 — Calculate average cost</h2> <div class=\"formula-box\"> $2,400 ÷ 200 units = $12 per unit </div> <h2>Step 2 — Calculate COGS</h2> <p> Suppose the company sells <strong>150 units</strong>. </p> <div class=\"formula-box\"> 150 × $12 = $1,800 COGS </div> <h2>Step 3 — Calculate ending inventory</h2> <p> The company has 50 units remaining. </p> <div class=\"formula-box\"> 50 × $12 = $600 Ending Inventory </div> <div class=\"key-points\"> <h3>Check your work</h3> <p> COGS + Ending Inventory should equal total cost of goods available for sale. </p> <div class=\"formula-box\"> $1,800 + $600 = $2,400 </div> </div> <h2>FIFO vs LIFO vs Weighted Average</h2> <div class=\"comparison-grid\"> <div class=\"comparison-card\"> <h3>FIFO</h3> <p> Oldest costs flow to COGS first. </p> </div> <div class=\"comparison-card\"> <h3>LIFO</h3> <p> Newest costs flow to COGS first. </p> </div> <div class=\"comparison-card\"> <h3>Weighted Average</h3> <p> Costs are averaged together. </p> </div> </div> <div class=\"key-points\"> <h3>Remember</h3> <p> Weighted average smooths differences between different purchase costs. </p> </div>",
+  "quiz": {
+    "id": "intermediate-m3-l4-check",
+    "courseId": "intermediate",
+    "moduleId": 3,
+    "lessonId": "intermediate-m3-l4",
+    "topic": "General review",
+    "prompt": "A company has 100 units costing $8 each and 100 units costing $12 each. What is the weighted-average cost per unit?",
+    "choices": [
+      {
+        "id": "intermediate-m3-l4-check-a0",
+        "text": "$8"
+      },
+      {
+        "id": "intermediate-m3-l4-check-a1",
+        "text": "$10"
+      },
+      {
+        "id": "intermediate-m3-l4-check-a2",
+        "text": "$12"
+      },
+      {
+        "id": "intermediate-m3-l4-check-a3",
+        "text": "$20"
+      }
+    ],
+    "correctChoiceId": "intermediate-m3-l4-check-a1",
+    "explanation": "Total cost is $2,000 and total units are 200. $2,000 ÷ 200 = $10 per unit.",
+    "difficulty": "foundation",
+    "metadata": {
+      "section": "intermediate",
+      "blueprintYear": 2026,
+      "areaId": "intermediate-I",
+      "groupId": "module-3",
+      "topicId": "intermediate-weighted-average-cost",
+      "taskIds": [
+        "intermediate-weighted-average-cost.task-1",
+        "intermediate-weighted-average-cost.task-2",
+        "intermediate-weighted-average-cost.task-3"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "section": "intermediate",
+    "blueprintYear": 2026,
+    "areaId": "intermediate-I",
+    "groupId": "module-3",
+    "topicId": "intermediate-weighted-average-cost",
+    "taskIds": [
+      "intermediate-weighted-average-cost.task-1",
+      "intermediate-weighted-average-cost.task-2",
+      "intermediate-weighted-average-cost.task-3"
+    ],
+    "skill": "application",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      }
+    ]
+  },
+  "objectives": [
+    "Explain weighted-average cost and its underlying principles.",
+    "Apply the topic to a financial-reporting scenario.",
+    "Evaluate common errors and their financial-statement effects."
+  ]
+}

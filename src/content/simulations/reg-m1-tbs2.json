@@ -1,0 +1,146 @@
+{
+  "id": "reg-m1-tbs2",
+  "courseId": "reg",
+  "moduleId": 1,
+  "number": 2,
+  "title": "Tax procedure case file",
+  "html": "<div class=\"course-intro-card\"><h2>Tax procedure case file</h2><p>Prepare a procedural action summary and a penalty calculation using the stated assumptions.</p></div><section class=\"quiz-card\"><h3>Required responses</h3><div class=\"tbs-question\"><label for=\"reg-m1-tbs2-f1\">Potential prepayment forum</label><select id=\"reg-m1-tbs2-f1\"><option value=\"U.S. Tax Court\">U.S. Tax Court</option><option value=\"A refund suit without any prerequisites\">A refund suit without any prerequisites</option><option value=\"Only a state small-claims court\">Only a state small-claims court</option><option value=\"Only private mediation\">Only private mediation</option></select></div><div class=\"tbs-question\"><label for=\"reg-m1-tbs2-f2\">Assessment-period implication of nonfiling</label><select id=\"reg-m1-tbs2-f2\"><option value=\"The ordinary three-year period does not automatically close assessment\">The ordinary three-year period does not automatically close assessment</option><option value=\"Assessment always closes after one year\">Assessment always closes after one year</option><option value=\"Nonfiling eliminates all tax\">Nonfiling eliminates all tax</option><option value=\"No records are relevant\">No records are relevant</option></select></div><div class=\"tbs-question\"><label for=\"reg-m1-tbs2-f3\">Specified late-payment penalty</label><input id=\"reg-m1-tbs2-f3\" type=\"text\"></div><div class=\"tbs-question\"><label for=\"reg-m1-tbs2-f4\">Foreign-reporting conclusion</label><select id=\"reg-m1-tbs2-f4\"><option value=\"Evaluate separate applicable information-reporting requirements\">Evaluate separate applicable information-reporting requirements</option><option value=\"Income reporting always satisfies everything\">Income reporting always satisfies everything</option><option value=\"Currency denomination determines all duties\">Currency denomination determines all duties</option><option value=\"No foreign accounts are reportable\">No foreign accounts are reportable</option></select></div></section>",
+  "metadata": {
+    "section": "reg",
+    "blueprintYear": 2026,
+    "areaId": "reg-I",
+    "groupId": "C",
+    "topicId": "reg-federal-tax-procedures",
+    "taskIds": [
+      "reg-federal-tax-procedures.task-1",
+      "reg-federal-tax-procedures.task-2",
+      "reg-federal-tax-procedures.task-3"
+    ],
+    "skill": "analysis",
+    "validFrom": "2026-07-01",
+    "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      },
+      {
+        "title": "Internal Revenue Code",
+        "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+      },
+      {
+        "title": "IRS tax publications",
+        "url": "https://www.irs.gov/publications"
+      },
+      {
+        "title": "Circular 230",
+        "url": "https://www.irs.gov/tax-professionals/circular-230-tax-professionals"
+      }
+    ]
+  },
+  "difficulty": "advanced",
+  "fields": [
+    {
+      "id": "reg-m1-tbs2-f1",
+      "label": "Potential prepayment forum",
+      "type": "select",
+      "options": [
+        {
+          "value": "U.S. Tax Court",
+          "label": "U.S. Tax Court"
+        },
+        {
+          "value": "A refund suit without any prerequisites",
+          "label": "A refund suit without any prerequisites"
+        },
+        {
+          "value": "Only a state small-claims court",
+          "label": "Only a state small-claims court"
+        },
+        {
+          "value": "Only private mediation",
+          "label": "Only private mediation"
+        }
+      ],
+      "correct": "U.S. Tax Court",
+      "explanation": "Tax Court generally provides a deficiency prepayment forum when requirements are met.",
+      "topicId": "reg-federal-tax-procedures"
+    },
+    {
+      "id": "reg-m1-tbs2-f2",
+      "label": "Assessment-period implication of nonfiling",
+      "type": "select",
+      "options": [
+        {
+          "value": "The ordinary three-year period does not automatically close assessment",
+          "label": "The ordinary three-year period does not automatically close assessment"
+        },
+        {
+          "value": "Assessment always closes after one year",
+          "label": "Assessment always closes after one year"
+        },
+        {
+          "value": "Nonfiling eliminates all tax",
+          "label": "Nonfiling eliminates all tax"
+        },
+        {
+          "value": "No records are relevant",
+          "label": "No records are relevant"
+        }
+      ],
+      "correct": "The ordinary three-year period does not automatically close assessment",
+      "explanation": "Failure to file is an exception requiring separate analysis.",
+      "topicId": "reg-federal-tax-procedures"
+    },
+    {
+      "id": "reg-m1-tbs2-f3",
+      "label": "Specified late-payment penalty",
+      "type": "number",
+      "options": [],
+      "correct": 1000,
+      "explanation": "$40,000 × .005 × 5 = $1,000.",
+      "topicId": "reg-federal-tax-procedures"
+    },
+    {
+      "id": "reg-m1-tbs2-f4",
+      "label": "Foreign-reporting conclusion",
+      "type": "select",
+      "options": [
+        {
+          "value": "Evaluate separate applicable information-reporting requirements",
+          "label": "Evaluate separate applicable information-reporting requirements"
+        },
+        {
+          "value": "Income reporting always satisfies everything",
+          "label": "Income reporting always satisfies everything"
+        },
+        {
+          "value": "Currency denomination determines all duties",
+          "label": "Currency denomination determines all duties"
+        },
+        {
+          "value": "No foreign accounts are reportable",
+          "label": "No foreign accounts are reportable"
+        }
+      ],
+      "correct": "Evaluate separate applicable information-reporting requirements",
+      "explanation": "Income and account-information reporting are distinct obligations.",
+      "topicId": "reg-federal-tax-procedures"
+    }
+  ],
+  "exhibits": [
+    {
+      "id": "reg-m1-tbs2-ex1",
+      "title": "Procedural facts",
+      "html": "<p>A taxpayer received a notice of deficiency and wants a qualifying prepayment challenge. Another taxpayer filed no return. A third asks whether reporting foreign interest alone meets every foreign-account reporting duty.</p>"
+    },
+    {
+      "id": "reg-m1-tbs2-ex2",
+      "title": "Penalty assumptions",
+      "html": "<p>Unpaid tax is $40,000 for five full months. For this exercise use 0.5% per month; ignore other penalties and limits.</p>"
+    }
+  ],
+  "explanation": "<h3>Potential prepayment forum</h3><p>Tax Court generally provides a deficiency prepayment forum when requirements are met.</p><h3>Assessment-period implication of nonfiling</h3><p>Failure to file is an exception requiring separate analysis.</p><h3>Specified late-payment penalty</h3><p>$40,000 × .005 × 5 = $1,000.</p><h3>Foreign-reporting conclusion</h3><p>Income and account-information reporting are distinct obligations.</p>"
+}

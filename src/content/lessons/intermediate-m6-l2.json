@@ -1,0 +1,88 @@
+{
+  "id": "intermediate-m6-l2",
+  "courseId": "intermediate",
+  "moduleId": 6,
+  "number": 2,
+  "title": "Contracts & Performance Obligations",
+  "description": "Identify valid customer contracts and distinct promised goods or services.",
+  "url": "/learn/intermediate/modules/6/lessons/2",
+  "html": "<h2>Step 1 — Identify the contract</h2> <p> Revenue accounting begins by determining whether an arrangement qualifies as a contract with a customer. </p> <div class=\"key-points\"> <h3>Important contract considerations</h3> <ul> <li>The parties have approved the arrangement.</li> <li>The rights of the parties can be identified.</li> <li>Payment terms can be identified.</li> <li>The arrangement has commercial substance.</li> <li>Collection of consideration is probable.</li> </ul> </div> <h2>Step 2 — Identify performance obligations</h2> <p> A performance obligation is a promise to transfer a good or service to a customer. </p> <h2>Distinct goods or services</h2> <p> A contract may contain more than one promised good or service. </p> <p> A promised good or service may be accounted for separately if it is distinct. </p> <div class=\"example-box\"> <h3>Example — Phone + Service</h3> <p> A telecommunications company enters into a contract that includes: </p> <ul> <li>A smartphone</li> <li>12 months of wireless service</li> </ul> <p> The company must evaluate whether these promises represent separate performance obligations. </p> </div> <h2>Why performance obligations matter</h2> <p> If a contract contains multiple performance obligations, the transaction price may need to be allocated among them. </p> <p> Revenue is then recognized as each performance obligation is satisfied. </p> <div class=\"key-points\"> <h3>Think ahead</h3> <p> One contract does not necessarily equal one revenue event. </p> <p> A single contract can contain multiple separate promises that are recognized at different times. </p> </div>",
+  "quiz": {
+    "id": "intermediate-m6-l2-check",
+    "courseId": "intermediate",
+    "moduleId": 6,
+    "lessonId": "intermediate-m6-l2",
+    "topic": "General review",
+    "prompt": "A customer contract includes a product and a separate service. Why is identifying separate performance obligations important?",
+    "choices": [
+      {
+        "id": "intermediate-m6-l2-check-a0",
+        "text": "It determines payroll tax"
+      },
+      {
+        "id": "intermediate-m6-l2-check-a1",
+        "text": "Revenue may need to be allocated and recognized separately for each obligation"
+      },
+      {
+        "id": "intermediate-m6-l2-check-a2",
+        "text": "It automatically eliminates revenue"
+      },
+      {
+        "id": "intermediate-m6-l2-check-a3",
+        "text": "It means the customer never pays cash"
+      }
+    ],
+    "correctChoiceId": "intermediate-m6-l2-check-a1",
+    "explanation": "Different performance obligations may receive different portions of the transaction price and may be satisfied at different times.",
+    "difficulty": "foundation",
+    "metadata": {
+      "section": "intermediate",
+      "blueprintYear": 2026,
+      "areaId": "intermediate-I",
+      "groupId": "module-6",
+      "topicId": "intermediate-contracts-performance-obligations",
+      "taskIds": [
+        "intermediate-contracts-performance-obligations.task-1",
+        "intermediate-contracts-performance-obligations.task-2",
+        "intermediate-contracts-performance-obligations.task-3"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "section": "intermediate",
+    "blueprintYear": 2026,
+    "areaId": "intermediate-I",
+    "groupId": "module-6",
+    "topicId": "intermediate-contracts-performance-obligations",
+    "taskIds": [
+      "intermediate-contracts-performance-obligations.task-1",
+      "intermediate-contracts-performance-obligations.task-2",
+      "intermediate-contracts-performance-obligations.task-3"
+    ],
+    "skill": "application",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      }
+    ]
+  },
+  "objectives": [
+    "Explain contracts & performance obligations and its underlying principles.",
+    "Apply the topic to a financial-reporting scenario.",
+    "Evaluate common errors and their financial-statement effects."
+  ]
+}

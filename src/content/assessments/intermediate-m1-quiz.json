@@ -1,0 +1,491 @@
+{
+  "id": "intermediate-m1-quiz",
+  "title": "Intermediate Module 1 Quiz",
+  "courseId": "intermediate",
+  "moduleId": 1,
+  "selection": "all",
+  "feedback": "immediate",
+  "passPercent": 80,
+  "questions": [
+    {
+      "id": "intermediate-m1-q1",
+      "courseId": "intermediate",
+      "moduleId": 1,
+      "topic": "Financial Reporting Environment",
+      "prompt": "What is a primary purpose of general-purpose financial reporting?",
+      "choices": [
+        {
+          "id": "intermediate-m1-q1-a0",
+          "text": "To guarantee investors earn a return"
+        },
+        {
+          "id": "intermediate-m1-q1-a1",
+          "text": "To provide useful financial information to users making decisions"
+        },
+        {
+          "id": "intermediate-m1-q1-a2",
+          "text": "To calculate only income taxes"
+        },
+        {
+          "id": "intermediate-m1-q1-a3",
+          "text": "To record only cash transactions"
+        }
+      ],
+      "correctChoiceId": "intermediate-m1-q1-a1",
+      "explanation": "General-purpose financial reporting provides useful financial information to investors, creditors and other users making economic decisions.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "intermediate",
+        "blueprintYear": 2026,
+        "areaId": "intermediate-I",
+        "groupId": "1",
+        "topicId": "intermediate-intermediate-general",
+        "taskIds": [
+          "intermediate-intermediate-general.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "intermediate-m1-q2",
+      "courseId": "intermediate",
+      "moduleId": 1,
+      "topic": "Financial Reporting Environment",
+      "prompt": "Which group is most likely to use financial statements when deciding whether to lend money to a company?",
+      "choices": [
+        {
+          "id": "intermediate-m1-q2-a0",
+          "text": "Creditors"
+        },
+        {
+          "id": "intermediate-m1-q2-a1",
+          "text": "Customers only"
+        },
+        {
+          "id": "intermediate-m1-q2-a2",
+          "text": "Employees only"
+        },
+        {
+          "id": "intermediate-m1-q2-a3",
+          "text": "Competitors only"
+        }
+      ],
+      "correctChoiceId": "intermediate-m1-q2-a0",
+      "explanation": "Creditors use financial information to evaluate matters such as the company's financial position and ability to repay obligations.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "intermediate",
+        "blueprintYear": 2026,
+        "areaId": "intermediate-I",
+        "groupId": "1",
+        "topicId": "intermediate-intermediate-general",
+        "taskIds": [
+          "intermediate-intermediate-general.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "intermediate-m1-q3",
+      "courseId": "intermediate",
+      "moduleId": 1,
+      "topic": "Accrual Accounting",
+      "prompt": "A company performs $15,000 of services in December but collects the cash in January. Under accrual accounting, when is revenue generally recognized?",
+      "choices": [
+        {
+          "id": "intermediate-m1-q3-a0",
+          "text": "December"
+        },
+        {
+          "id": "intermediate-m1-q3-a1",
+          "text": "January"
+        },
+        {
+          "id": "intermediate-m1-q3-a2",
+          "text": "Half in December and half in January"
+        },
+        {
+          "id": "intermediate-m1-q3-a3",
+          "text": "Only after year-end financial statements are issued"
+        }
+      ],
+      "correctChoiceId": "intermediate-m1-q3-a0",
+      "explanation": "Under accrual accounting, revenue is recognized when earned rather than simply when cash is collected.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "intermediate",
+        "blueprintYear": 2026,
+        "areaId": "intermediate-I",
+        "groupId": "1",
+        "topicId": "intermediate-intermediate-general",
+        "taskIds": [
+          "intermediate-intermediate-general.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "intermediate-m1-q4",
+      "courseId": "intermediate",
+      "moduleId": 1,
+      "topic": "Accrual Accounting",
+      "prompt": "Employees earn $8,000 of wages before year-end but will be paid next year. What should generally be recognized at year-end?",
+      "choices": [
+        {
+          "id": "intermediate-m1-q4-a0",
+          "text": "No expense until cash is paid"
+        },
+        {
+          "id": "intermediate-m1-q4-a1",
+          "text": "Wages Expense and Wages Payable"
+        },
+        {
+          "id": "intermediate-m1-q4-a2",
+          "text": "Cash and Wages Revenue"
+        },
+        {
+          "id": "intermediate-m1-q4-a3",
+          "text": "Accounts Receivable and Revenue"
+        }
+      ],
+      "correctChoiceId": "intermediate-m1-q4-a1",
+      "explanation": "The employees have already performed the work, so the company recognizes Wages Expense and a Wages Payable liability.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "intermediate",
+        "blueprintYear": 2026,
+        "areaId": "intermediate-I",
+        "groupId": "1",
+        "topicId": "intermediate-intermediate-general",
+        "taskIds": [
+          "intermediate-intermediate-general.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "intermediate-m1-q5",
+      "courseId": "intermediate",
+      "moduleId": 1,
+      "topic": "Qualitative Characteristics",
+      "prompt": "Which qualitative characteristic means financial information is capable of making a difference in users' decisions?",
+      "choices": [
+        {
+          "id": "intermediate-m1-q5-a0",
+          "text": "Relevance"
+        },
+        {
+          "id": "intermediate-m1-q5-a1",
+          "text": "Consistency"
+        },
+        {
+          "id": "intermediate-m1-q5-a2",
+          "text": "Verifiability"
+        },
+        {
+          "id": "intermediate-m1-q5-a3",
+          "text": "Understandability"
+        }
+      ],
+      "correctChoiceId": "intermediate-m1-q5-a0",
+      "explanation": "Relevant information is capable of making a difference in users' decisions.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "intermediate",
+        "blueprintYear": 2026,
+        "areaId": "intermediate-I",
+        "groupId": "1",
+        "topicId": "intermediate-intermediate-general",
+        "taskIds": [
+          "intermediate-intermediate-general.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "intermediate-m1-q6",
+      "courseId": "intermediate",
+      "moduleId": 1,
+      "topic": "Qualitative Characteristics",
+      "prompt": "Faithful representation is most closely associated with information that is:",
+      "choices": [
+        {
+          "id": "intermediate-m1-q6-a0",
+          "text": "Complete, neutral and free from material error"
+        },
+        {
+          "id": "intermediate-m1-q6-a1",
+          "text": "Guaranteed to predict the future"
+        },
+        {
+          "id": "intermediate-m1-q6-a2",
+          "text": "Always reported at market value"
+        },
+        {
+          "id": "intermediate-m1-q6-a3",
+          "text": "Useful only to management"
+        }
+      ],
+      "correctChoiceId": "intermediate-m1-q6-a0",
+      "explanation": "Faithful representation focuses on information that is complete, neutral and free from material error.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "intermediate",
+        "blueprintYear": 2026,
+        "areaId": "intermediate-I",
+        "groupId": "1",
+        "topicId": "intermediate-intermediate-general",
+        "taskIds": [
+          "intermediate-intermediate-general.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "intermediate-m1-q7",
+      "courseId": "intermediate",
+      "moduleId": 1,
+      "topic": "Financial Statement Elements",
+      "prompt": "Which financial statement element represents a present obligation of an entity arising from past events?",
+      "choices": [
+        {
+          "id": "intermediate-m1-q7-a0",
+          "text": "Asset"
+        },
+        {
+          "id": "intermediate-m1-q7-a1",
+          "text": "Liability"
+        },
+        {
+          "id": "intermediate-m1-q7-a2",
+          "text": "Revenue"
+        },
+        {
+          "id": "intermediate-m1-q7-a3",
+          "text": "Gain"
+        }
+      ],
+      "correctChoiceId": "intermediate-m1-q7-a1",
+      "explanation": "A liability represents an obligation of the entity arising from past events.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "intermediate",
+        "blueprintYear": 2026,
+        "areaId": "intermediate-I",
+        "groupId": "1",
+        "topicId": "intermediate-intermediate-general",
+        "taskIds": [
+          "intermediate-intermediate-general.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "intermediate-m1-q8",
+      "courseId": "intermediate",
+      "moduleId": 1,
+      "topic": "Financial Statement Elements",
+      "prompt": "Which equation represents the basic relationship among assets, liabilities and equity?",
+      "choices": [
+        {
+          "id": "intermediate-m1-q8-a0",
+          "text": "Assets = Liabilities + Equity"
+        },
+        {
+          "id": "intermediate-m1-q8-a1",
+          "text": "Assets + Liabilities = Equity"
+        },
+        {
+          "id": "intermediate-m1-q8-a2",
+          "text": "Revenue = Assets − Liabilities"
+        },
+        {
+          "id": "intermediate-m1-q8-a3",
+          "text": "Assets = Revenue + Expenses"
+        }
+      ],
+      "correctChoiceId": "intermediate-m1-q8-a0",
+      "explanation": "The accounting equation is Assets = Liabilities + Equity.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "intermediate",
+        "blueprintYear": 2026,
+        "areaId": "intermediate-I",
+        "groupId": "1",
+        "topicId": "intermediate-intermediate-general",
+        "taskIds": [
+          "intermediate-intermediate-general.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "intermediate-m1-q9",
+      "courseId": "intermediate",
+      "moduleId": 1,
+      "topic": "Present Value",
+      "prompt": "A company will receive $21,000 exactly one year from today. If the applicable annual discount rate is 5%, what is the present value?",
+      "choices": [
+        {
+          "id": "intermediate-m1-q9-a0",
+          "text": "$20,000"
+        },
+        {
+          "id": "intermediate-m1-q9-a1",
+          "text": "$21,000"
+        },
+        {
+          "id": "intermediate-m1-q9-a2",
+          "text": "$22,050"
+        },
+        {
+          "id": "intermediate-m1-q9-a3",
+          "text": "$19,950"
+        }
+      ],
+      "correctChoiceId": "intermediate-m1-q9-a0",
+      "explanation": "$21,000 ÷ 1.05 = $20,000.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "intermediate",
+        "blueprintYear": 2026,
+        "areaId": "intermediate-I",
+        "groupId": "1",
+        "topicId": "intermediate-intermediate-general",
+        "taskIds": [
+          "intermediate-intermediate-general.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "intermediate-m1-q10",
+      "courseId": "intermediate",
+      "moduleId": 1,
+      "topic": "Present Value",
+      "prompt": "Why is a future cash payment discounted when calculating present value?",
+      "choices": [
+        {
+          "id": "intermediate-m1-q10-a0",
+          "text": "Because money received or paid in the future is not economically equivalent to the same amount today"
+        },
+        {
+          "id": "intermediate-m1-q10-a1",
+          "text": "Because every future payment must be reduced by exactly 50%"
+        },
+        {
+          "id": "intermediate-m1-q10-a2",
+          "text": "Because present value ignores interest rates"
+        },
+        {
+          "id": "intermediate-m1-q10-a3",
+          "text": "Because future cash flows are never recorded"
+        }
+      ],
+      "correctChoiceId": "intermediate-m1-q10-a0",
+      "explanation": "Present value reflects the time value of money, recognizing that cash amounts at different points in time are not economically equivalent.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "intermediate",
+        "blueprintYear": 2026,
+        "areaId": "intermediate-I",
+        "groupId": "1",
+        "topicId": "intermediate-intermediate-general",
+        "taskIds": [
+          "intermediate-intermediate-general.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    }
+  ]
+}

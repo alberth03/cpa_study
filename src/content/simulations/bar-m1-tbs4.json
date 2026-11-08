@@ -1,0 +1,107 @@
+{
+  "id": "bar-m1-tbs4",
+  "courseId": "bar",
+  "moduleId": 1,
+  "number": 4,
+  "title": "Material variance investigation",
+  "html": "<div class=\"course-intro-card\"><h2>Material variance investigation</h2><p>Calculate signed variances using the actual-minus-standard convention; enter favorable variances as negative.</p></div><section class=\"quiz-card\"><h3>Required responses</h3><div class=\"tbs-question\"><label for=\"bar-m1-tbs4-f1\">Signed material price variance</label><input id=\"bar-m1-tbs4-f1\" type=\"text\"></div><div class=\"tbs-question\"><label for=\"bar-m1-tbs4-f2\">Signed material quantity variance</label><input id=\"bar-m1-tbs4-f2\" type=\"text\"></div><div class=\"tbs-question\"><label for=\"bar-m1-tbs4-f3\">Net material cost variance</label><input id=\"bar-m1-tbs4-f3\" type=\"text\"></div><div class=\"tbs-question\"><label for=\"bar-m1-tbs4-f4\">Recommended interpretation</label><select id=\"bar-m1-tbs4-f4\"><option value=\"Investigate quality and total cost, not price alone\">Investigate quality and total cost, not price alone</option><option value=\"Conclude the purchase was successful solely from price\">Conclude the purchase was successful solely from price</option><option value=\"Ignore complaints\">Ignore complaints</option><option value=\"Assume all variances are uncontrollable\">Assume all variances are uncontrollable</option></select></div></section>",
+  "metadata": {
+    "section": "bar",
+    "blueprintYear": 2026,
+    "areaId": "bar-I",
+    "groupId": "A",
+    "topicId": "bar-variance-analysis",
+    "taskIds": [
+      "bar-variance-analysis.task-1",
+      "bar-variance-analysis.task-2",
+      "bar-variance-analysis.task-3"
+    ],
+    "skill": "analysis",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      },
+      {
+        "title": "FASB accounting standards",
+        "url": "https://asc.fasb.org/"
+      },
+      {
+        "title": "GASB standards",
+        "url": "https://www.gasb.org/standards-and-implementation"
+      }
+    ]
+  },
+  "difficulty": "advanced",
+  "fields": [
+    {
+      "id": "bar-m1-tbs4-f1",
+      "label": "Signed material price variance",
+      "type": "number",
+      "options": [],
+      "correct": -800,
+      "explanation": "3,200 × ($5.75 − $6.00) = −$800, favorable.",
+      "topicId": "bar-variance-analysis"
+    },
+    {
+      "id": "bar-m1-tbs4-f2",
+      "label": "Signed material quantity variance",
+      "type": "number",
+      "options": [],
+      "correct": 1200,
+      "explanation": "$6 × (3,200 − 3,000) = $1,200, unfavorable.",
+      "topicId": "bar-variance-analysis"
+    },
+    {
+      "id": "bar-m1-tbs4-f3",
+      "label": "Net material cost variance",
+      "type": "number",
+      "options": [],
+      "correct": 400,
+      "explanation": "−$800 + $1,200 = $400 unfavorable.",
+      "topicId": "bar-variance-analysis"
+    },
+    {
+      "id": "bar-m1-tbs4-f4",
+      "label": "Recommended interpretation",
+      "type": "select",
+      "options": [
+        {
+          "value": "Investigate quality and total cost, not price alone",
+          "label": "Investigate quality and total cost, not price alone"
+        },
+        {
+          "value": "Conclude the purchase was successful solely from price",
+          "label": "Conclude the purchase was successful solely from price"
+        },
+        {
+          "value": "Ignore complaints",
+          "label": "Ignore complaints"
+        },
+        {
+          "value": "Assume all variances are uncontrollable",
+          "label": "Assume all variances are uncontrollable"
+        }
+      ],
+      "correct": "Investigate quality and total cost, not price alone",
+      "explanation": "The favorable price is offset by usage and potentially quality costs.",
+      "topicId": "bar-variance-analysis"
+    }
+  ],
+  "exhibits": [
+    {
+      "id": "bar-m1-tbs4-ex1",
+      "title": "Standards",
+      "html": "<p>Standard material price $6 per unit. Standard quantity allowed for actual output is 3,000 units.</p>"
+    },
+    {
+      "id": "bar-m1-tbs4-ex2",
+      "title": "Actual results",
+      "html": "<p>Actual usage is 3,200 units at $5.75 per unit. Use actual usage for the price variance. Quality complaints increased.</p>"
+    }
+  ],
+  "explanation": "<h3>Signed material price variance</h3><p>3,200 × ($5.75 − $6.00) = −$800, favorable.</p><h3>Signed material quantity variance</h3><p>$6 × (3,200 − 3,000) = $1,200, unfavorable.</p><h3>Net material cost variance</h3><p>−$800 + $1,200 = $400 unfavorable.</p><h3>Recommended interpretation</h3><p>The favorable price is offset by usage and potentially quality costs.</p>"
+}

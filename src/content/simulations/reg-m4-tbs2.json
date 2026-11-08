@@ -1,0 +1,95 @@
+{
+  "id": "reg-m4-tbs2",
+  "courseId": "reg",
+  "moduleId": 4,
+  "number": 2,
+  "title": "Taxable-income workpaper",
+  "html": "<div class=\"course-intro-card\"><h2>Taxable-income workpaper</h2><p>Compute AGI and taxable income using the expressly allowed amounts.</p></div><section class=\"quiz-card\"><h3>Required responses</h3><div class=\"tbs-question\"><label for=\"reg-m4-tbs2-f1\">Adjusted gross income</label><input id=\"reg-m4-tbs2-f1\" type=\"text\"></div><div class=\"tbs-question\"><label for=\"reg-m4-tbs2-f2\">Selected itemized or standard deduction</label><input id=\"reg-m4-tbs2-f2\" type=\"text\"></div><div class=\"tbs-question\"><label for=\"reg-m4-tbs2-f3\">Total deductions from AGI in this case</label><input id=\"reg-m4-tbs2-f3\" type=\"text\"></div><div class=\"tbs-question\"><label for=\"reg-m4-tbs2-f4\">Taxable income</label><input id=\"reg-m4-tbs2-f4\" type=\"text\"></div></section>",
+  "metadata": {
+    "section": "reg",
+    "blueprintYear": 2026,
+    "areaId": "reg-IV",
+    "groupId": "B-C",
+    "topicId": "reg-individual-deductions",
+    "taskIds": [
+      "reg-individual-deductions.task-1",
+      "reg-individual-deductions.task-2",
+      "reg-individual-deductions.task-3"
+    ],
+    "skill": "analysis",
+    "validFrom": "2026-07-01",
+    "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      },
+      {
+        "title": "Internal Revenue Code",
+        "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+      },
+      {
+        "title": "IRS tax publications",
+        "url": "https://www.irs.gov/publications"
+      },
+      {
+        "title": "Circular 230",
+        "url": "https://www.irs.gov/tax-professionals/circular-230-tax-professionals"
+      }
+    ]
+  },
+  "difficulty": "advanced",
+  "fields": [
+    {
+      "id": "reg-m4-tbs2-f1",
+      "label": "Adjusted gross income",
+      "type": "number",
+      "options": [],
+      "correct": 138000,
+      "explanation": "$150,000 − $12,000 = $138,000.",
+      "topicId": "reg-individual-deductions"
+    },
+    {
+      "id": "reg-m4-tbs2-f2",
+      "label": "Selected itemized or standard deduction",
+      "type": "number",
+      "options": [],
+      "correct": 24000,
+      "explanation": "The allowed itemized deduction is larger.",
+      "topicId": "reg-individual-deductions"
+    },
+    {
+      "id": "reg-m4-tbs2-f3",
+      "label": "Total deductions from AGI in this case",
+      "type": "number",
+      "options": [],
+      "correct": 30000,
+      "explanation": "$24,000 plus the separate $6,000 allowed deduction.",
+      "topicId": "reg-individual-deductions"
+    },
+    {
+      "id": "reg-m4-tbs2-f4",
+      "label": "Taxable income",
+      "type": "number",
+      "options": [],
+      "correct": 108000,
+      "explanation": "$138,000 − $30,000 = $108,000.",
+      "topicId": "reg-individual-deductions"
+    }
+  ],
+  "exhibits": [
+    {
+      "id": "reg-m4-tbs2-ex1",
+      "title": "Income and adjustments",
+      "html": "<p>Gross income is $150,000. Adjustments allowed for AGI total $12,000.</p>"
+    },
+    {
+      "id": "reg-m4-tbs2-ex2",
+      "title": "Deductions",
+      "html": "<p>Allowed itemized deductions after all applicable limits total $24,000. The supplied standard deduction alternative is $16,100. An additional separately allowed deduction is $6,000. No other limitations apply.</p>"
+    }
+  ],
+  "explanation": "<h3>Adjusted gross income</h3><p>$150,000 − $12,000 = $138,000.</p><h3>Selected itemized or standard deduction</h3><p>The allowed itemized deduction is larger.</p><h3>Total deductions from AGI in this case</h3><p>$24,000 plus the separate $6,000 allowed deduction.</p><h3>Taxable income</h3><p>$138,000 − $30,000 = $108,000.</p>"
+}

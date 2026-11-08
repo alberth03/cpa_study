@@ -1,0 +1,69 @@
+{
+  "id": "far-m3-tbs5",
+  "moduleId": 3,
+  "number": 5,
+  "title": "FAR Module 3 · TBS 5",
+  "fields": [
+    {
+      "id": "far-m3-tbs5-estimate",
+      "label": "1. Prospective Treatment? Enter 1 or 0",
+      "type": "number",
+      "options": [],
+      "correct": 1
+    },
+    {
+      "id": "far-m3-tbs5-lawsuit",
+      "label": "2. Lawsuit Loss to Accrue",
+      "type": "number",
+      "options": [],
+      "correct": 140000
+    },
+    {
+      "id": "far-m3-tbs5-contract",
+      "label": "3. Contract Liability at December 31",
+      "type": "number",
+      "options": [],
+      "correct": 44000
+    },
+    {
+      "id": "far-m3-tbs5-fairvalue",
+      "label": "4. Fair Value Measurement",
+      "type": "number",
+      "options": [],
+      "correct": 72000
+    },
+    {
+      "id": "far-m3-tbs5-bankruptcy",
+      "label": "5. Adjust for Bankruptcy? Enter 1 or 0",
+      "type": "number",
+      "options": [],
+      "correct": 1
+    }
+  ],
+  "html": "<section class=\"exam-page\"> <div class=\"course-intro-card\"> <span class=\"exam-badge\"> TASK-BASED SIMULATION </span> <h2> Integrated Year-End Analysis </h2> <p> Apply multiple Module 3 concepts to independent year-end transactions. </p> </div> <div class=\"quiz-card\"> <h2> Scenario </h2> <p> Vertex Corp. is preparing its December 31 financial statements. Analyze each independent item below. </p> <div class=\"key-points\"> <h3> Item 1 — Accounting Estimate </h3> <p> Based on new operating information, Vertex revises the remaining useful life of equipment. </p> <p> Enter <strong>1</strong> if the change should generally be accounted for prospectively, or <strong>0</strong> if not. </p> </div> <div class=\"key-points\"> <h3> Item 2 — Loss Contingency </h3> <p> A lawsuit existing at December 31 is probable and reasonably estimable at <strong>$140,000</strong>. </p> </div> <div class=\"key-points\"> <h3> Item 3 — Advance Customer Payment </h3> <p> Vertex receives <strong>$48,000</strong> on December 1 for twelve months of services beginning immediately. </p> <p> Services are provided evenly over the contract period. </p> </div> <div class=\"key-points\"> <h3> Item 4 — Fair Value </h3> <p> Vertex owns an investment with an unadjusted quoted market price of <strong>$72,000</strong> for an identical asset in an active market. </p> <p> Enter the fair value amount to use. </p> </div> <div class=\"key-points\"> <h3> Item 5 — Subsequent Event </h3> <p> After year-end, a customer owing Vertex money declares bankruptcy. Evidence confirms that the customer's severe financial problems existed before December 31. </p> <p> Enter <strong>1</strong> if the year-end financial statements should generally be adjusted, or <strong>0</strong> if not. </p> </div> <h2> Required </h2> <div class=\"financial-example\"> <div> <span> 1. Prospective Treatment? Enter 1 or 0 </span> <input type=\"number\" id=\"far-m3-tbs5-estimate\" placeholder=\"Enter 1 or 0\"> </div> <div> <span> 2. Lawsuit Loss to Accrue </span> <input type=\"number\" id=\"far-m3-tbs5-lawsuit\" placeholder=\"Enter amount\"> </div> <div> <span> 3. Contract Liability at December 31 </span> <input type=\"number\" id=\"far-m3-tbs5-contract\" placeholder=\"Enter amount\"> </div> <div> <span> 4. Fair Value Measurement </span> <input type=\"number\" id=\"far-m3-tbs5-fairvalue\" placeholder=\"Enter amount\"> </div> <div> <span> 5. Adjust for Bankruptcy? Enter 1 or 0 </span> <input type=\"number\" id=\"far-m3-tbs5-bankruptcy\" placeholder=\"Enter 1 or 0\"> </div> </div> <div id=\"far-m3-tbs5-result\"></div> </div> </section>",
+  "explanation": "<div class=\"result-correct\"> <h3> Item 1 — Accounting Estimate </h3> <p> A revised useful life caused by new information is a change in accounting estimate. </p> <div class=\"formula-box\"> Change in Estimate → Prospective Correct Entry: 1 </div> <h3> Item 2 — Loss Contingency </h3> <p> The lawsuit is probable and reasonably estimable. </p> <div class=\"formula-box\"> Loss Accrued = $140,000 </div> <h3> Item 3 — Contract Liability </h3> <p> Monthly service revenue is: </p> <div class=\"formula-box\"> $48,000 ÷ 12 = $4,000 Per Month </div> <p> One month of service has been provided by December 31. </p> <div class=\"formula-box\"> Cash Received $48,000 − Revenue Earned $4,000 = $44,000 Contract Liability </div> <h3> Item 4 — Fair Value </h3> <p> An unadjusted quoted price for an identical asset in an active market is a Level 1 input. </p> <div class=\"formula-box\"> Fair Value = $72,000 </div> <h3> Item 5 — Subsequent Event </h3> <p> The bankruptcy confirms financial difficulty that existed at the balance sheet date. </p> <div class=\"formula-box\"> Existing Year-End Condition → Adjust Correct Entry: 1 </div> <div class=\"key-points\"> <h3> Module 3 Final Takeaway </h3> <ul> <li> Estimate changes are generally prospective. </li> <li> Probable and estimable losses are accrued. </li> <li> Advance cash remains a contract liability until performance occurs. </li> <li> Level 1 fair value evidence uses quoted prices for identical items in active markets. </li> <li> Subsequent events confirming year-end conditions generally require adjustment. </li> </ul> </div> </div>",
+  "courseId": "far",
+  "difficulty": "advanced",
+  "metadata": {
+    "section": "far",
+    "blueprintYear": 2026,
+    "areaId": "far-III",
+    "groupId": "module-3",
+    "topicId": "far-deferred-taxes-valuation-allowances",
+    "taskIds": [
+      "far-deferred-taxes-valuation-allowances.task-1",
+      "far-deferred-taxes-valuation-allowances.task-2",
+      "far-deferred-taxes-valuation-allowances.task-3"
+    ],
+    "skill": "analysis",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      }
+    ]
+  }
+}

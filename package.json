@@ -1,0 +1,56 @@
+{
+  "name": "cpa-study",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "node scripts/start-production.mjs",
+    "postbuild": "node scripts/prepare-standalone.mjs",
+    "extract": "node scripts/extract-content.mjs",
+    "postextract": "npm run content:build",
+    "typecheck": "tsc --noEmit",
+    "lint": "eslint src tests scripts --max-warnings=0",
+    "test": "vitest run",
+    "test:e2e": "playwright test",
+    "test:dev": "node tests/dev-browser-check.mjs",
+    "format": "prettier --write src tests scripts *.ts *.mjs package.json",
+    "content:build": "tsx scripts/build-content.ts",
+    "content:audit": "tsx scripts/audit-content.ts",
+    "db:migrate": "node --experimental-strip-types scripts/migrate-db.ts",
+    "admin:grant": "node --experimental-strip-types scripts/grant-admin.ts",
+    "mail:flush": "node --experimental-strip-types scripts/flush-mail.ts"
+  },
+  "engines": {
+    "node": ">=22.18.0"
+  },
+  "dependencies": {
+    "html-react-parser": "^5.2.0",
+    "next": "16.4.5",
+    "nodemailer": "^10.4.0",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "sanitize-html": "^2.18.1",
+    "zod": "^4.0.0"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.56.0",
+    "@types/jsdom": "^30.0.0",
+    "@types/node": "^24.0.0",
+    "@types/nodemailer": "^8.0.2",
+    "@types/react": "^19.2.0",
+    "@types/react-dom": "^19.2.0",
+    "@types/sanitize-html": "^2.16.2",
+    "acorn": "^8.15.0",
+    "acorn-walk": "^8.3.4",
+    "eslint": "^9.0.0",
+    "eslint-config-next": "16.4.5",
+    "jsdom": "^27.0.0",
+    "prettier": "^3.9.10",
+    "serve": "^14.2.4",
+    "tsx": "^4.23.15",
+    "typescript": "^5.9.0",
+    "vitest": "^4.0.0"
+  }
+}

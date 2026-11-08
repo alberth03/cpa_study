@@ -1,0 +1,971 @@
+{
+  "id": "fundamentals-final",
+  "title": "Fundamentals Final Exam",
+  "courseId": "fundamentals",
+  "moduleId": 0,
+  "selection": "all",
+  "feedback": "immediate",
+  "passPercent": null,
+  "questions": [
+    {
+      "id": "fundamentals-m0-q1-final",
+      "courseId": "fundamentals",
+      "moduleId": 0,
+      "topic": "Accounting Basics",
+      "prompt": "What is the primary purpose of accounting?",
+      "choices": [
+        {
+          "id": "fundamentals-m0-q1-final-a0",
+          "text": "To calculate taxes only"
+        },
+        {
+          "id": "fundamentals-m0-q1-final-a1",
+          "text": "To record, organize, summarize and analyze financial information"
+        },
+        {
+          "id": "fundamentals-m0-q1-final-a2",
+          "text": "To track only cash transactions"
+        },
+        {
+          "id": "fundamentals-m0-q1-final-a3",
+          "text": "To prepare payroll only"
+        }
+      ],
+      "correctChoiceId": "fundamentals-m0-q1-final-a1",
+      "explanation": "Accounting provides financial information by recording, organizing, summarizing and analyzing economic activity.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "fundamentals",
+        "blueprintYear": 2026,
+        "areaId": "fundamentals-I",
+        "groupId": "0",
+        "topicId": "fundamentals-fundamentals-general",
+        "taskIds": [
+          "fundamentals-fundamentals-general.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fundamentals-m0-q2-final",
+      "courseId": "fundamentals",
+      "moduleId": 0,
+      "topic": "Accounting Equation",
+      "prompt": "A company has $90,000 of assets and $35,000 of liabilities. What is equity?",
+      "choices": [
+        {
+          "id": "fundamentals-m0-q2-final-a0",
+          "text": "$55,000"
+        },
+        {
+          "id": "fundamentals-m0-q2-final-a1",
+          "text": "$125,000"
+        },
+        {
+          "id": "fundamentals-m0-q2-final-a2",
+          "text": "$35,000"
+        },
+        {
+          "id": "fundamentals-m0-q2-final-a3",
+          "text": "$90,000"
+        }
+      ],
+      "correctChoiceId": "fundamentals-m0-q2-final-a0",
+      "explanation": "Assets = Liabilities + Equity, so Equity = $90,000 − $35,000 = $55,000.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "fundamentals",
+        "blueprintYear": 2026,
+        "areaId": "fundamentals-I",
+        "groupId": "0",
+        "topicId": "fundamentals-fundamentals-general",
+        "taskIds": [
+          "fundamentals-fundamentals-general.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fundamentals-m0-q3-final",
+      "courseId": "fundamentals",
+      "moduleId": 0,
+      "topic": "Account Types",
+      "prompt": "Which account is an asset?",
+      "choices": [
+        {
+          "id": "fundamentals-m0-q3-final-a0",
+          "text": "Accounts Payable"
+        },
+        {
+          "id": "fundamentals-m0-q3-final-a1",
+          "text": "Service Revenue"
+        },
+        {
+          "id": "fundamentals-m0-q3-final-a2",
+          "text": "Accounts Receivable"
+        },
+        {
+          "id": "fundamentals-m0-q3-final-a3",
+          "text": "Wages Expense"
+        }
+      ],
+      "correctChoiceId": "fundamentals-m0-q3-final-a2",
+      "explanation": "Accounts Receivable represents amounts customers owe the business and is therefore an asset.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "fundamentals",
+        "blueprintYear": 2026,
+        "areaId": "fundamentals-I",
+        "groupId": "0",
+        "topicId": "fundamentals-fundamentals-general",
+        "taskIds": [
+          "fundamentals-fundamentals-general.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fundamentals-m0-q4-final",
+      "courseId": "fundamentals",
+      "moduleId": 0,
+      "topic": "Account Types",
+      "prompt": "Which account is normally classified as a liability?",
+      "choices": [
+        {
+          "id": "fundamentals-m0-q4-final-a0",
+          "text": "Inventory"
+        },
+        {
+          "id": "fundamentals-m0-q4-final-a1",
+          "text": "Accounts Payable"
+        },
+        {
+          "id": "fundamentals-m0-q4-final-a2",
+          "text": "Common Stock"
+        },
+        {
+          "id": "fundamentals-m0-q4-final-a3",
+          "text": "Rent Expense"
+        }
+      ],
+      "correctChoiceId": "fundamentals-m0-q4-final-a1",
+      "explanation": "Accounts Payable represents an obligation owed to another party.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "fundamentals",
+        "blueprintYear": 2026,
+        "areaId": "fundamentals-I",
+        "groupId": "0",
+        "topicId": "fundamentals-fundamentals-general",
+        "taskIds": [
+          "fundamentals-fundamentals-general.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fundamentals-m0-q5-final",
+      "courseId": "fundamentals",
+      "moduleId": 0,
+      "topic": "Debits & Credits",
+      "prompt": "Which type of account normally increases with a debit?",
+      "choices": [
+        {
+          "id": "fundamentals-m0-q5-final-a0",
+          "text": "Revenue"
+        },
+        {
+          "id": "fundamentals-m0-q5-final-a1",
+          "text": "Liability"
+        },
+        {
+          "id": "fundamentals-m0-q5-final-a2",
+          "text": "Expense"
+        },
+        {
+          "id": "fundamentals-m0-q5-final-a3",
+          "text": "Equity"
+        }
+      ],
+      "correctChoiceId": "fundamentals-m0-q5-final-a2",
+      "explanation": "Expenses normally increase with debits.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "fundamentals",
+        "blueprintYear": 2026,
+        "areaId": "fundamentals-I",
+        "groupId": "0",
+        "topicId": "fundamentals-fundamentals-general",
+        "taskIds": [
+          "fundamentals-fundamentals-general.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fundamentals-m0-q6-final",
+      "courseId": "fundamentals",
+      "moduleId": 0,
+      "topic": "Debits & Credits",
+      "prompt": "Which type of account normally increases with a credit?",
+      "choices": [
+        {
+          "id": "fundamentals-m0-q6-final-a0",
+          "text": "Asset"
+        },
+        {
+          "id": "fundamentals-m0-q6-final-a1",
+          "text": "Expense"
+        },
+        {
+          "id": "fundamentals-m0-q6-final-a2",
+          "text": "Revenue"
+        },
+        {
+          "id": "fundamentals-m0-q6-final-a3",
+          "text": "Prepaid Expense"
+        }
+      ],
+      "correctChoiceId": "fundamentals-m0-q6-final-a2",
+      "explanation": "Revenue accounts normally increase with credits.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "fundamentals",
+        "blueprintYear": 2026,
+        "areaId": "fundamentals-I",
+        "groupId": "0",
+        "topicId": "fundamentals-fundamentals-general",
+        "taskIds": [
+          "fundamentals-fundamentals-general.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fundamentals-m0-q7-final",
+      "courseId": "fundamentals",
+      "moduleId": 0,
+      "topic": "T-Accounts",
+      "prompt": "In a T-account, which side is the debit side?",
+      "choices": [
+        {
+          "id": "fundamentals-m0-q7-final-a0",
+          "text": "Right"
+        },
+        {
+          "id": "fundamentals-m0-q7-final-a1",
+          "text": "Left"
+        },
+        {
+          "id": "fundamentals-m0-q7-final-a2",
+          "text": "Top"
+        },
+        {
+          "id": "fundamentals-m0-q7-final-a3",
+          "text": "It depends on the account"
+        }
+      ],
+      "correctChoiceId": "fundamentals-m0-q7-final-a1",
+      "explanation": "A debit is always recorded on the left side of a T-account.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "fundamentals",
+        "blueprintYear": 2026,
+        "areaId": "fundamentals-I",
+        "groupId": "0",
+        "topicId": "fundamentals-fundamentals-general",
+        "taskIds": [
+          "fundamentals-fundamentals-general.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fundamentals-m0-q8-final",
+      "courseId": "fundamentals",
+      "moduleId": 0,
+      "topic": "T-Accounts",
+      "prompt": "Cash has debits of $12,000 and credits of $4,500. What is its balance?",
+      "choices": [
+        {
+          "id": "fundamentals-m0-q8-final-a0",
+          "text": "$16,500 credit"
+        },
+        {
+          "id": "fundamentals-m0-q8-final-a1",
+          "text": "$7,500 credit"
+        },
+        {
+          "id": "fundamentals-m0-q8-final-a2",
+          "text": "$7,500 debit"
+        },
+        {
+          "id": "fundamentals-m0-q8-final-a3",
+          "text": "$16,500 debit"
+        }
+      ],
+      "correctChoiceId": "fundamentals-m0-q8-final-a2",
+      "explanation": "$12,000 − $4,500 = a $7,500 debit balance.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "fundamentals",
+        "blueprintYear": 2026,
+        "areaId": "fundamentals-I",
+        "groupId": "0",
+        "topicId": "fundamentals-fundamentals-general",
+        "taskIds": [
+          "fundamentals-fundamentals-general.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fundamentals-m0-q9-final",
+      "courseId": "fundamentals",
+      "moduleId": 0,
+      "topic": "Journal Entries",
+      "prompt": "A business purchases equipment for $8,000 cash. Which entry is correct?",
+      "choices": [
+        {
+          "id": "fundamentals-m0-q9-final-a0",
+          "text": "Debit Cash; Credit Equipment"
+        },
+        {
+          "id": "fundamentals-m0-q9-final-a1",
+          "text": "Debit Equipment; Credit Cash"
+        },
+        {
+          "id": "fundamentals-m0-q9-final-a2",
+          "text": "Debit Equipment; Credit Revenue"
+        },
+        {
+          "id": "fundamentals-m0-q9-final-a3",
+          "text": "Debit Expense; Credit Equipment"
+        }
+      ],
+      "correctChoiceId": "fundamentals-m0-q9-final-a1",
+      "explanation": "Equipment increases with a debit and Cash decreases with a credit.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "fundamentals",
+        "blueprintYear": 2026,
+        "areaId": "fundamentals-I",
+        "groupId": "0",
+        "topicId": "fundamentals-fundamentals-general",
+        "taskIds": [
+          "fundamentals-fundamentals-general.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fundamentals-m0-q10-final",
+      "courseId": "fundamentals",
+      "moduleId": 0,
+      "topic": "Journal Entries",
+      "prompt": "A company provides $3,000 of services for cash. Which entry is correct?",
+      "choices": [
+        {
+          "id": "fundamentals-m0-q10-final-a0",
+          "text": "Debit Cash; Credit Service Revenue"
+        },
+        {
+          "id": "fundamentals-m0-q10-final-a1",
+          "text": "Debit Service Revenue; Credit Cash"
+        },
+        {
+          "id": "fundamentals-m0-q10-final-a2",
+          "text": "Debit Accounts Receivable; Credit Cash"
+        },
+        {
+          "id": "fundamentals-m0-q10-final-a3",
+          "text": "Debit Cash; Credit Accounts Payable"
+        }
+      ],
+      "correctChoiceId": "fundamentals-m0-q10-final-a0",
+      "explanation": "Cash increases with a debit and Service Revenue increases with a credit.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "fundamentals",
+        "blueprintYear": 2026,
+        "areaId": "fundamentals-I",
+        "groupId": "0",
+        "topicId": "fundamentals-fundamentals-general",
+        "taskIds": [
+          "fundamentals-fundamentals-general.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fundamentals-m0-q11-final",
+      "courseId": "fundamentals",
+      "moduleId": 0,
+      "topic": "Journal Entries",
+      "prompt": "A company purchases $2,500 of supplies on account. Which account is credited?",
+      "choices": [
+        {
+          "id": "fundamentals-m0-q11-final-a0",
+          "text": "Cash"
+        },
+        {
+          "id": "fundamentals-m0-q11-final-a1",
+          "text": "Supplies"
+        },
+        {
+          "id": "fundamentals-m0-q11-final-a2",
+          "text": "Accounts Payable"
+        },
+        {
+          "id": "fundamentals-m0-q11-final-a3",
+          "text": "Supplies Expense"
+        }
+      ],
+      "correctChoiceId": "fundamentals-m0-q11-final-a2",
+      "explanation": "Buying on account creates a liability, so Accounts Payable is credited.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "fundamentals",
+        "blueprintYear": 2026,
+        "areaId": "fundamentals-I",
+        "groupId": "0",
+        "topicId": "fundamentals-fundamentals-general",
+        "taskIds": [
+          "fundamentals-fundamentals-general.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fundamentals-m0-q12-final",
+      "courseId": "fundamentals",
+      "moduleId": 0,
+      "topic": "General Ledger",
+      "prompt": "What does the general ledger primarily organize?",
+      "choices": [
+        {
+          "id": "fundamentals-m0-q12-final-a0",
+          "text": "Transactions by employee"
+        },
+        {
+          "id": "fundamentals-m0-q12-final-a1",
+          "text": "Transactions by account"
+        },
+        {
+          "id": "fundamentals-m0-q12-final-a2",
+          "text": "Only tax transactions"
+        },
+        {
+          "id": "fundamentals-m0-q12-final-a3",
+          "text": "Only cash transactions"
+        }
+      ],
+      "correctChoiceId": "fundamentals-m0-q12-final-a1",
+      "explanation": "The general ledger groups financial transactions according to their accounts.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "fundamentals",
+        "blueprintYear": 2026,
+        "areaId": "fundamentals-I",
+        "groupId": "0",
+        "topicId": "fundamentals-fundamentals-general",
+        "taskIds": [
+          "fundamentals-fundamentals-general.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fundamentals-m0-q13-final",
+      "courseId": "fundamentals",
+      "moduleId": 0,
+      "topic": "Trial Balance",
+      "prompt": "A trial balance reports total debits of $64,000. If it balances, total credits should be:",
+      "choices": [
+        {
+          "id": "fundamentals-m0-q13-final-a0",
+          "text": "$32,000"
+        },
+        {
+          "id": "fundamentals-m0-q13-final-a1",
+          "text": "$64,000"
+        },
+        {
+          "id": "fundamentals-m0-q13-final-a2",
+          "text": "$128,000"
+        },
+        {
+          "id": "fundamentals-m0-q13-final-a3",
+          "text": "$0"
+        }
+      ],
+      "correctChoiceId": "fundamentals-m0-q13-final-a1",
+      "explanation": "A balanced trial balance has equal total debit and credit balances.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "fundamentals",
+        "blueprintYear": 2026,
+        "areaId": "fundamentals-I",
+        "groupId": "0",
+        "topicId": "fundamentals-fundamentals-general",
+        "taskIds": [
+          "fundamentals-fundamentals-general.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fundamentals-m0-q14-final",
+      "courseId": "fundamentals",
+      "moduleId": 0,
+      "topic": "Trial Balance",
+      "prompt": "Which statement about a balanced trial balance is correct?",
+      "choices": [
+        {
+          "id": "fundamentals-m0-q14-final-a0",
+          "text": "It proves that every transaction was recorded correctly"
+        },
+        {
+          "id": "fundamentals-m0-q14-final-a1",
+          "text": "It proves there are no accounting errors"
+        },
+        {
+          "id": "fundamentals-m0-q14-final-a2",
+          "text": "It shows debit balances equal credit balances but some errors may still exist"
+        },
+        {
+          "id": "fundamentals-m0-q14-final-a3",
+          "text": "It means net income is zero"
+        }
+      ],
+      "correctChoiceId": "fundamentals-m0-q14-final-a2",
+      "explanation": "Some errors can leave total debits and credits equal, so a balanced trial balance does not guarantee all entries are correct.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "fundamentals",
+        "blueprintYear": 2026,
+        "areaId": "fundamentals-I",
+        "groupId": "0",
+        "topicId": "fundamentals-fundamentals-general",
+        "taskIds": [
+          "fundamentals-fundamentals-general.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fundamentals-m0-q15-final",
+      "courseId": "fundamentals",
+      "moduleId": 0,
+      "topic": "Adjusting Entries",
+      "prompt": "Employees earned wages before year-end that will be paid next year. What liability should be recognized?",
+      "choices": [
+        {
+          "id": "fundamentals-m0-q15-final-a0",
+          "text": "Accounts Receivable"
+        },
+        {
+          "id": "fundamentals-m0-q15-final-a1",
+          "text": "Prepaid Wages"
+        },
+        {
+          "id": "fundamentals-m0-q15-final-a2",
+          "text": "Wages Payable"
+        },
+        {
+          "id": "fundamentals-m0-q15-final-a3",
+          "text": "Unearned Revenue"
+        }
+      ],
+      "correctChoiceId": "fundamentals-m0-q15-final-a2",
+      "explanation": "An expense has been incurred but not yet paid, creating Wages Payable.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "fundamentals",
+        "blueprintYear": 2026,
+        "areaId": "fundamentals-I",
+        "groupId": "0",
+        "topicId": "fundamentals-fundamentals-general",
+        "taskIds": [
+          "fundamentals-fundamentals-general.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fundamentals-m0-q16-final",
+      "courseId": "fundamentals",
+      "moduleId": 0,
+      "topic": "Adjusting Entries",
+      "prompt": "A prepaid insurance asset is used during the accounting period. What happens?",
+      "choices": [
+        {
+          "id": "fundamentals-m0-q16-final-a0",
+          "text": "Insurance Expense increases and Prepaid Insurance decreases"
+        },
+        {
+          "id": "fundamentals-m0-q16-final-a1",
+          "text": "Cash increases and Revenue increases"
+        },
+        {
+          "id": "fundamentals-m0-q16-final-a2",
+          "text": "Prepaid Insurance increases and Expense decreases"
+        },
+        {
+          "id": "fundamentals-m0-q16-final-a3",
+          "text": "Accounts Payable increases"
+        }
+      ],
+      "correctChoiceId": "fundamentals-m0-q16-final-a0",
+      "explanation": "As insurance coverage is consumed, the prepaid asset decreases and Insurance Expense is recognized.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "fundamentals",
+        "blueprintYear": 2026,
+        "areaId": "fundamentals-I",
+        "groupId": "0",
+        "topicId": "fundamentals-fundamentals-general",
+        "taskIds": [
+          "fundamentals-fundamentals-general.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fundamentals-m0-q17-final",
+      "courseId": "fundamentals",
+      "moduleId": 0,
+      "topic": "Adjusting Entries",
+      "prompt": "When previously unearned revenue becomes earned, which account decreases?",
+      "choices": [
+        {
+          "id": "fundamentals-m0-q17-final-a0",
+          "text": "Cash"
+        },
+        {
+          "id": "fundamentals-m0-q17-final-a1",
+          "text": "Revenue"
+        },
+        {
+          "id": "fundamentals-m0-q17-final-a2",
+          "text": "Unearned Revenue"
+        },
+        {
+          "id": "fundamentals-m0-q17-final-a3",
+          "text": "Accounts Receivable"
+        }
+      ],
+      "correctChoiceId": "fundamentals-m0-q17-final-a2",
+      "explanation": "Unearned Revenue is a liability. As the company earns the revenue, the liability decreases.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "fundamentals",
+        "blueprintYear": 2026,
+        "areaId": "fundamentals-I",
+        "groupId": "0",
+        "topicId": "fundamentals-fundamentals-general",
+        "taskIds": [
+          "fundamentals-fundamentals-general.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fundamentals-m0-q18-final",
+      "courseId": "fundamentals",
+      "moduleId": 0,
+      "topic": "Financial Statements",
+      "prompt": "Which statement reports revenues and expenses over a period of time?",
+      "choices": [
+        {
+          "id": "fundamentals-m0-q18-final-a0",
+          "text": "Balance Sheet"
+        },
+        {
+          "id": "fundamentals-m0-q18-final-a1",
+          "text": "Income Statement"
+        },
+        {
+          "id": "fundamentals-m0-q18-final-a2",
+          "text": "Statement of Cash Flows only"
+        },
+        {
+          "id": "fundamentals-m0-q18-final-a3",
+          "text": "Trial Balance"
+        }
+      ],
+      "correctChoiceId": "fundamentals-m0-q18-final-a1",
+      "explanation": "The income statement reports revenues, expenses and resulting income or loss over a period.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "fundamentals",
+        "blueprintYear": 2026,
+        "areaId": "fundamentals-I",
+        "groupId": "0",
+        "topicId": "fundamentals-fundamentals-general",
+        "taskIds": [
+          "fundamentals-fundamentals-general.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fundamentals-m0-q19-final",
+      "courseId": "fundamentals",
+      "moduleId": 0,
+      "topic": "Financial Statements",
+      "prompt": "Which financial statement reports assets, liabilities and equity at a specific date?",
+      "choices": [
+        {
+          "id": "fundamentals-m0-q19-final-a0",
+          "text": "Income Statement"
+        },
+        {
+          "id": "fundamentals-m0-q19-final-a1",
+          "text": "Balance Sheet"
+        },
+        {
+          "id": "fundamentals-m0-q19-final-a2",
+          "text": "Statement of Cash Flows"
+        },
+        {
+          "id": "fundamentals-m0-q19-final-a3",
+          "text": "General Ledger"
+        }
+      ],
+      "correctChoiceId": "fundamentals-m0-q19-final-a1",
+      "explanation": "The balance sheet presents financial position at a specific point in time.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "fundamentals",
+        "blueprintYear": 2026,
+        "areaId": "fundamentals-I",
+        "groupId": "0",
+        "topicId": "fundamentals-fundamentals-general",
+        "taskIds": [
+          "fundamentals-fundamentals-general.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fundamentals-m0-q20-final",
+      "courseId": "fundamentals",
+      "moduleId": 0,
+      "topic": "Financial Statements",
+      "prompt": "Cash flows are commonly classified into which three categories?",
+      "choices": [
+        {
+          "id": "fundamentals-m0-q20-final-a0",
+          "text": "Assets, liabilities and equity"
+        },
+        {
+          "id": "fundamentals-m0-q20-final-a1",
+          "text": "Revenue, expenses and income"
+        },
+        {
+          "id": "fundamentals-m0-q20-final-a2",
+          "text": "Operating, investing and financing"
+        },
+        {
+          "id": "fundamentals-m0-q20-final-a3",
+          "text": "Debits, credits and balances"
+        }
+      ],
+      "correctChoiceId": "fundamentals-m0-q20-final-a2",
+      "explanation": "The statement of cash flows classifies cash flows into operating, investing and financing activities.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "fundamentals",
+        "blueprintYear": 2026,
+        "areaId": "fundamentals-I",
+        "groupId": "0",
+        "topicId": "fundamentals-fundamentals-general",
+        "taskIds": [
+          "fundamentals-fundamentals-general.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    }
+  ]
+}

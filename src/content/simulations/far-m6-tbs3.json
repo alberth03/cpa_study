@@ -1,0 +1,69 @@
+{
+  "id": "far-m6-tbs3",
+  "moduleId": 6,
+  "number": 3,
+  "title": "FAR Module 6 — TBS 3",
+  "fields": [
+    {
+      "id": "far-m6-tbs3-impairment",
+      "label": "Determine the impairment loss, if any, on the equipment.",
+      "type": "number",
+      "options": [],
+      "correct": 60000
+    },
+    {
+      "id": "far-m6-tbs3-interest",
+      "label": "Determine interest expense for the current year using the effective-interest method.",
+      "type": "number",
+      "options": [],
+      "correct": 75200
+    },
+    {
+      "id": "far-m6-tbs3-amortization",
+      "label": "Determine the amount of bond discount amortized during the year.",
+      "type": "number",
+      "options": [],
+      "correct": 15200
+    },
+    {
+      "id": "far-m6-tbs3-investment-gain",
+      "label": "Determine the unrealized holding gain recognized in current-year net income.",
+      "type": "number",
+      "options": [],
+      "correct": 25000
+    },
+    {
+      "id": "far-m6-tbs3-net-income",
+      "label": "Enter a decrease in net income as a negative amount.",
+      "type": "number",
+      "options": [],
+      "correct": -110200
+    }
+  ],
+  "html": "<section class=\"exam-page\"> <div class=\"course-intro-card\"> <span class=\"exam-badge\"> TASK-BASED SIMULATION </span> <h2> Asset, Debt &amp; Investment Analysis </h2> <p> Summit Company is completing its year-end financial statements. Analyze the following independent matters involving long-lived assets, debt, and investments. </p> </div> <div class=\"course-intro-card\"> <h3> Year-End Information </h3> <ol> <li> Equipment has an original cost of <strong>$480,000</strong> and accumulated depreciation of <strong>$120,000</strong>. Due to adverse circumstances, the equipment is tested for impairment. Expected undiscounted future cash flows are <strong>$330,000</strong>, and fair value is <strong>$300,000</strong>. </li> <li> Bonds payable have a face amount of <strong>$1,000,000</strong>, a stated annual interest rate of <strong>6%</strong>, and a beginning carrying amount of <strong>$940,000</strong>. The effective annual interest rate is <strong>8%</strong>. Interest is paid annually. </li> <li> A debt security classified as a trading investment has a carrying amount of <strong>$190,000</strong> before the year-end fair value adjustment. Its year-end fair value is <strong>$215,000</strong>. </li> <li> Assume there are no income tax effects and no other transactions affecting the amounts requested below. </li> </ol> </div> <div class=\"course-intro-card\"> <h3> Item 1 — Equipment Impairment Loss </h3> <p> Determine the impairment loss, if any, on the equipment. </p> <input id=\"far-m6-tbs3-impairment\" type=\"number\" placeholder=\"Enter amount\"> </div> <div class=\"course-intro-card\"> <h3> Item 2 — Bond Interest Expense </h3> <p> Determine interest expense for the current year using the effective-interest method. </p> <input id=\"far-m6-tbs3-interest\" type=\"number\" placeholder=\"Enter amount\"> </div> <div class=\"course-intro-card\"> <h3> Item 3 — Bond Discount Amortization </h3> <p> Determine the amount of bond discount amortized during the year. </p> <input id=\"far-m6-tbs3-amortization\" type=\"number\" placeholder=\"Enter amount\"> </div> <div class=\"course-intro-card\"> <h3> Item 4 — Unrealized Gain on Trading Investment </h3> <p> Determine the unrealized holding gain recognized in current-year net income. </p> <input id=\"far-m6-tbs3-investment-gain\" type=\"number\" placeholder=\"Enter amount\"> </div> <div class=\"course-intro-card\"> <h3> Item 5 — Combined Effect on Net Income </h3> <p> Determine the combined effect of the impairment loss, bond interest expense, and trading investment fair value adjustment on current-year net income. </p> <p> Enter a decrease in net income as a negative amount. </p> <input id=\"far-m6-tbs3-net-income\" type=\"number\" placeholder=\"Enter amount\"> </div> <div id=\"far-m6-tbs3-result\"> </div> </section>",
+  "explanation": "<div class=\"result-correct\"> <h3> Item 1 — Equipment Impairment Loss </h3> <p> First determine the equipment's carrying amount. </p> <div class=\"formula-box\"> <p> Original Cost: <strong>$480,000</strong> </p> <p> − Accumulated Depreciation: <strong>$120,000</strong> </p> <hr> <p> Carrying Amount: <strong>$360,000</strong> </p> </div> <p> For a long-lived asset held and used, compare the carrying amount with expected undiscounted future cash flows. </p> <div class=\"formula-box\"> <p> Carrying Amount: <strong>$360,000</strong> </p> <p> Undiscounted Future Cash Flows: <strong>$330,000</strong> </p> <p> Because $360,000 &gt; $330,000, the asset fails the recoverability test. </p> <hr> <p> Carrying Amount: <strong>$360,000</strong> </p> <p> − Fair Value: <strong>$300,000</strong> </p> <p> <strong> Impairment Loss = $60,000 </strong> </p> </div> <h3> Item 2 — Bond Interest Expense </h3> <p> Under the effective-interest method, interest expense is based on the beginning carrying amount and the effective interest rate. </p> <div class=\"formula-box\"> <p> Beginning Carrying Amount: <strong>$940,000</strong> </p> <p> × Effective Rate: <strong>8%</strong> </p> <hr> <p> <strong> Interest Expense = $75,200 </strong> </p> </div> <h3> Item 3 — Bond Discount Amortization </h3> <div class=\"formula-box\"> <p> Cash Interest: </p> <p> $1,000,000 × 6% = <strong>$60,000</strong> </p> <p> Interest Expense: <strong>$75,200</strong> </p> <p> − Cash Interest: <strong>$60,000</strong> </p> <hr> <p> <strong> Discount Amortization = $15,200 </strong> </p> </div> <h3> Item 4 — Trading Investment Gain </h3> <p> A trading debt security is measured at fair value, with the unrealized holding gain or loss recognized in current-period net income. </p> <div class=\"formula-box\"> <p> Year-End Fair Value: <strong>$215,000</strong> </p> <p> − Carrying Amount: <strong>$190,000</strong> </p> <hr> <p> <strong> Unrealized Gain = $25,000 </strong> </p> </div> <h3> Item 5 — Combined Effect on Net Income </h3> <div class=\"formula-box\"> <p> Impairment Loss: <strong>−$60,000</strong> </p> <p> Bond Interest Expense: <strong>−$75,200</strong> </p> <p> Trading Investment Gain: <strong>+$25,000</strong> </p> <hr> <p> <strong> Combined Net Income Effect = −$110,200 </strong> </p> </div> <div class=\"key-points\"> <h3> Key FAR Relationships </h3> <p> A held-and-used long-lived asset first undergoes the undiscounted cash-flow recoverability test. If it fails, the impairment loss reduces the asset to fair value. </p> <p> For a bond issued at a discount, effective-interest expense exceeds cash interest, and the difference increases the bond's carrying amount. </p> <p> Unrealized holding gains and losses on trading debt securities affect current-period net income. </p> </div> </div>",
+  "courseId": "far",
+  "difficulty": "advanced",
+  "metadata": {
+    "section": "far",
+    "blueprintYear": 2026,
+    "areaId": "far-II",
+    "groupId": "module-6",
+    "topicId": "far-equity-investment-review",
+    "taskIds": [
+      "far-equity-investment-review.task-1",
+      "far-equity-investment-review.task-2",
+      "far-equity-investment-review.task-3"
+    ],
+    "skill": "analysis",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      }
+    ]
+  }
+}

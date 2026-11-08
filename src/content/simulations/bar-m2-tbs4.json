@@ -1,0 +1,107 @@
+{
+  "id": "bar-m2-tbs4",
+  "courseId": "bar",
+  "moduleId": 2,
+  "number": 4,
+  "title": "Consolidated inventory and currency review",
+  "html": "<div class=\"course-intro-card\"><h2>Consolidated inventory and currency review</h2><p>Prepare elimination amounts and identify the currency-accounting approach.</p></div><section class=\"quiz-card\"><h3>Required responses</h3><div class=\"tbs-question\"><label for=\"bar-m2-tbs4-f1\">Intercompany profit on the sale</label><input id=\"bar-m2-tbs4-f1\" type=\"text\"></div><div class=\"tbs-question\"><label for=\"bar-m2-tbs4-f2\">Unrealized profit in ending inventory</label><input id=\"bar-m2-tbs4-f2\" type=\"text\"></div><div class=\"tbs-question\"><label for=\"bar-m2-tbs4-f3\">Reciprocal receivable amount eliminated</label><input id=\"bar-m2-tbs4-f3\" type=\"text\"></div><div class=\"tbs-question\"><label for=\"bar-m2-tbs4-f4\">General location of the translation adjustment</label><select id=\"bar-m2-tbs4-f4\"><option value=\"Other comprehensive income\">Other comprehensive income</option><option value=\"Sales revenue\">Sales revenue</option><option value=\"Operating cash receipts\">Operating cash receipts</option><option value=\"Taxable wages\">Taxable wages</option></select></div></section>",
+  "metadata": {
+    "section": "bar",
+    "blueprintYear": 2026,
+    "areaId": "bar-II",
+    "groupId": "F",
+    "topicId": "bar-consolidation-currency",
+    "taskIds": [
+      "bar-consolidation-currency.task-1",
+      "bar-consolidation-currency.task-2",
+      "bar-consolidation-currency.task-3"
+    ],
+    "skill": "analysis",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      },
+      {
+        "title": "FASB accounting standards",
+        "url": "https://asc.fasb.org/"
+      },
+      {
+        "title": "GASB standards",
+        "url": "https://www.gasb.org/standards-and-implementation"
+      }
+    ]
+  },
+  "difficulty": "advanced",
+  "fields": [
+    {
+      "id": "bar-m2-tbs4-f1",
+      "label": "Intercompany profit on the sale",
+      "type": "number",
+      "options": [],
+      "correct": 40000,
+      "explanation": "$140,000 − $100,000 = $40,000.",
+      "topicId": "bar-consolidation-currency"
+    },
+    {
+      "id": "bar-m2-tbs4-f2",
+      "label": "Unrealized profit in ending inventory",
+      "type": "number",
+      "options": [],
+      "correct": 12000,
+      "explanation": "30% × $40,000 = $12,000.",
+      "topicId": "bar-consolidation-currency"
+    },
+    {
+      "id": "bar-m2-tbs4-f3",
+      "label": "Reciprocal receivable amount eliminated",
+      "type": "number",
+      "options": [],
+      "correct": 50000,
+      "explanation": "Eliminate the $50,000 intercompany receivable and matching payable.",
+      "topicId": "bar-consolidation-currency"
+    },
+    {
+      "id": "bar-m2-tbs4-f4",
+      "label": "General location of the translation adjustment",
+      "type": "select",
+      "options": [
+        {
+          "value": "Other comprehensive income",
+          "label": "Other comprehensive income"
+        },
+        {
+          "value": "Sales revenue",
+          "label": "Sales revenue"
+        },
+        {
+          "value": "Operating cash receipts",
+          "label": "Operating cash receipts"
+        },
+        {
+          "value": "Taxable wages",
+          "label": "Taxable wages"
+        }
+      ],
+      "correct": "Other comprehensive income",
+      "explanation": "The stated foreign-functional-currency translation generally creates an OCI adjustment.",
+      "topicId": "bar-consolidation-currency"
+    }
+  ],
+  "exhibits": [
+    {
+      "id": "bar-m2-tbs4-ex1",
+      "title": "Internal sale",
+      "html": "<p>Inventory cost to the selling group member $100,000; intercompany selling price $140,000; 30% remains unsold to outsiders. Intercompany receivable and payable each equal $50,000.</p>"
+    },
+    {
+      "id": "bar-m2-tbs4-ex2",
+      "title": "Foreign operation",
+      "html": "<p>The local currency is the foreign operation’s functional currency. Its statements are translated into the parent’s reporting currency.</p>"
+    }
+  ],
+  "explanation": "<h3>Intercompany profit on the sale</h3><p>$140,000 − $100,000 = $40,000.</p><h3>Unrealized profit in ending inventory</h3><p>30% × $40,000 = $12,000.</p><h3>Reciprocal receivable amount eliminated</h3><p>Eliminate the $50,000 intercompany receivable and matching payable.</p><h3>General location of the translation adjustment</h3><p>The stated foreign-functional-currency translation generally creates an OCI adjustment.</p>"
+}

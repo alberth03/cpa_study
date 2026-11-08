@@ -1,0 +1,105 @@
+{
+  "id": "tcp-m3-l1",
+  "courseId": "tcp",
+  "moduleId": 3,
+  "number": 1,
+  "title": "Entity Choice & After-Tax Cash Flow",
+  "description": "Compare entity and owner tax layers under supplied assumptions.",
+  "url": "/learn/tcp/modules/3/lessons/1",
+  "metadata": {
+    "section": "tcp",
+    "blueprintYear": 2026,
+    "areaId": "tcp-III",
+    "groupId": "A",
+    "topicId": "tcp-entity-selection",
+    "taskIds": [
+      "tcp-entity-selection.task-1",
+      "tcp-entity-selection.task-2",
+      "tcp-entity-selection.task-3"
+    ],
+    "skill": "application",
+    "validFrom": "2026-07-01",
+    "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      },
+      {
+        "title": "IRS tax publications",
+        "url": "https://www.irs.gov/publications"
+      },
+      {
+        "title": "Internal Revenue Code",
+        "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+      }
+    ]
+  },
+  "html": "<h2>Learning objectives</h2><ul><li>Compare entity and owner tax layers under supplied assumptions.</li><li>Distinguish legal form, tax elections, and business constraints.</li><li>Evaluate planning beyond a single tax-rate comparison.</li></ul><h2>Understand the concepts</h2><p>Entity choice combines tax treatment with liability, financing, ownership eligibility, administrative cost, benefits, succession, and exit plans. A C corporation can have an entity tax layer and a shareholder distribution layer. Pass-through treatment can shift tax to owners even when cash is retained. Neither model is universally best.</p><p>Use consistent assumptions when comparing after-tax cash. State whether earnings are distributed or retained, which rates apply, and whether employment taxes, qualified-business-income deductions, state taxes, losses, or special entity taxes are excluded. A simplified numerical comparison illustrates a mechanism, not personalized advice.</p><p>Tax elections have eligibility, timing, and future consequences. A desired shareholder type may be incompatible with S status; a later asset sale can have consequences different from a stock sale. Model alternative operating and exit scenarios and explain the business tradeoffs rather than selecting solely from the lowest initial rate.</p><div class=\"example-box\"><h3>Two tax layers</h3><p>A C corporation earns $100,000, pays 21% entity tax, and distributes the rest to an owner taxed at 15% on the dividend. Ignore other effects.</p><ol><li>Entity tax is $21,000, leaving $79,000.</li><li>Dividend tax is $11,850.</li><li>After-tax owner cash is $67,150; combined tax is $32,850.</li></ol></div><div class=\"key-points\"><h3>Common mistakes to avoid</h3><ul><li>Apply owner tax to the post-entity-tax distribution, not the original income twice.</li><li>Pass-through taxable income and distributed cash can differ.</li><li>A simplified model does not establish a universally best legal form.</li></ul></div><h2>Apply and connect</h2><p>After solving the worked case, explain which facts determine the result and how a changed assumption would change your conclusion. Use the module questions to test fresh applications, then complete the related simulation before reviewing its solution.</p>",
+  "objectives": [
+    "Compare entity and owner tax layers under supplied assumptions.",
+    "Distinguish legal form, tax elections, and business constraints.",
+    "Evaluate planning beyond a single tax-rate comparison."
+  ],
+  "quiz": {
+    "id": "tcp-m3-l1-q1",
+    "courseId": "tcp",
+    "moduleId": 3,
+    "lessonId": "tcp-m3-l1",
+    "topic": "Entity Choice & After-Tax Cash Flow",
+    "prompt": "Corporate pretax income is $200,000 and entity tax rate 21%. What remains before shareholder tax?",
+    "choices": [
+      {
+        "id": "tcp-m3-l1-q1-a0",
+        "text": "$200,000."
+      },
+      {
+        "id": "tcp-m3-l1-q1-a1",
+        "text": "$42,000."
+      },
+      {
+        "id": "tcp-m3-l1-q1-a2",
+        "text": "$158,000."
+      },
+      {
+        "id": "tcp-m3-l1-q1-a3",
+        "text": "$180,000."
+      }
+    ],
+    "correctChoiceId": "tcp-m3-l1-q1-a2",
+    "explanation": "$200,000 × 79% = $158,000.",
+    "difficulty": "application",
+    "metadata": {
+      "section": "tcp",
+      "blueprintYear": 2026,
+      "areaId": "tcp-III",
+      "groupId": "A",
+      "topicId": "tcp-entity-selection",
+      "taskIds": [
+        "tcp-entity-selection.task-1"
+      ],
+      "skill": "application",
+      "validFrom": "2026-07-01",
+      "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        },
+        {
+          "title": "IRS tax publications",
+          "url": "https://www.irs.gov/publications"
+        },
+        {
+          "title": "Internal Revenue Code",
+          "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+        }
+      ]
+    }
+  },
+  "relatedSimulation": "tcp-m3-tbs1"
+}

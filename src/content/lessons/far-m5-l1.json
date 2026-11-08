@@ -1,0 +1,88 @@
+{
+  "id": "far-m5-l1",
+  "courseId": "far",
+  "moduleId": 5,
+  "number": 1,
+  "title": "Not-for-Profit Accounting Foundations",
+  "description": "Learn the purpose, reporting model, and core financial statement concepts used by not-for-profit entities.",
+  "url": "/learn/far/modules/5/lessons/1",
+  "html": "<h2> What Is a Not-for-Profit Organization? </h2> <p> A not-for-profit organization exists primarily to accomplish a mission rather than to generate profits for owners or shareholders. </p> <p> Examples may include charities, foundations, museums, private universities, hospitals, religious organizations, and other mission-driven organizations. </p> <h2> The Major Reporting Difference </h2> <p> A business entity normally reports <strong>stockholders' equity</strong>. </p> <p> A not-for-profit organization instead reports <strong>net assets</strong>. </p> <div class=\"formula-box\"> NOT-FOR-PROFIT ASSETS − LIABILITIES = NET ASSETS </div> <h2> Two Classes of Net Assets </h2> <p> Net assets are presented in two broad classes. </p> <div class=\"financial-example\"> <div> <span> Without Donor Restrictions </span> <strong> Resources Not Subject to Donor-Imposed Restrictions </strong> </div> <div> <span> With Donor Restrictions </span> <strong> Resources Subject to Donor-Imposed Restrictions </strong> </div> </div> <h2> Donor Restrictions Matter </h2> <p> One of the most important questions in not-for-profit accounting is: </p> <div class=\"formula-box\"> DID THE DONOR RESTRICT THE RESOURCE? </div> <p> A donor may restrict how or when contributed resources can be used. </p> <div class=\"example-box\"> <strong> Example </strong> <p> A donor gives a charity <strong>$100,000</strong> and requires the money to be used for a new children's education program. </p> <p> The contribution is subject to a donor-imposed purpose restriction. </p> </div> <h2> Unrestricted Example </h2> <p> Assume instead that a donor contributes <strong>$40,000</strong> and gives the organization discretion over how to use it. </p> <div class=\"formula-box\"> NO DONOR RESTRICTION → NET ASSETS WITHOUT DONOR RESTRICTIONS </div> <h2> Contributions </h2> <p> Contributions are an important source of support for many not-for-profit organizations. </p> <p> Accounting for a contribution depends on factors such as whether the contribution is conditional and whether the donor imposed restrictions on its use. </p> <h2> Exchange Transaction vs. Contribution </h2> <p> A contribution is generally a <strong>nonreciprocal transaction</strong>. </p> <p> This means the donor does not receive approximately equal value in exchange for the resources transferred. </p> <div class=\"financial-example\"> <div> <span> Contribution </span> <strong> Nonreciprocal </strong> </div> <div> <span> Exchange Transaction </span> <strong> Reciprocal Exchange of Value </strong> </div> </div> <div class=\"example-box\"> <strong> Example </strong> <p> A donor gives a museum $10,000 and receives nothing of comparable value. </p> <p> This is generally a contribution. </p> <p> If a customer instead purchases a $50 admission ticket in exchange for admission to the museum, that transaction generally has an exchange component. </p> </div> <h2> Main Financial Statements </h2> <p> A not-for-profit organization's financial reporting generally includes: </p> <div class=\"key-points\"> <ul> <li> Statement of Financial Position </li> <li> Statement of Activities </li> <li> Statement of Cash Flows </li> <li> Information about expenses by nature and function </li> </ul> </div> <h2> Statement of Financial Position </h2> <p> This statement reports assets, liabilities, and net assets. </p> <div class=\"formula-box\"> ASSETS − LIABILITIES = NET ASSETS </div> <h2> Statement of Activities </h2> <p> The statement of activities reports changes in the organization's net assets during the reporting period. </p> <p> It presents changes in: </p> <div class=\"key-points\"> <ul> <li> Net assets without donor restrictions </li> <li> Net assets with donor restrictions </li> </ul> </div> <h2> Expenses </h2> <p> Not-for-profit organizations also report information about expenses according to their <strong>function</strong> and <strong>nature</strong>. </p> <div class=\"financial-example\"> <div> <span> Function </span> <strong> Why the Cost Was Incurred </strong> </div> <div> <span> Nature </span> <strong> What Type of Cost It Was </strong> </div> </div> <div class=\"example-box\"> <strong> Example </strong> <p> Employee salaries are a <strong>natural classification</strong>. </p> <p> Program services and management/general activities are examples of <strong>functional classifications</strong>. </p> </div> <h2> CPA Memory Rule </h2> <div class=\"formula-box\"> NFP ACCOUNTING NO OWNERS' EQUITY → NET ASSETS TWO CLASSES: WITHOUT DONOR RESTRICTIONS WITH DONOR RESTRICTIONS </div> <div class=\"key-points\"> <h3> Key Takeaways </h3> <ul> <li> NFPs report net assets rather than stockholders' equity. </li> <li> Net assets are classified based on donor restrictions. </li> <li> Contributions are generally nonreciprocal transactions. </li> <li> Donor restrictions affect whether contribution revenue increases net assets with donor restrictions or net assets without donor restrictions. </li> <li> Expenses are analyzed by both function and nature. </li> </ul> </div>",
+  "quiz": {
+    "id": "far-m5-l1-check",
+    "courseId": "far",
+    "moduleId": 5,
+    "lessonId": "far-m5-l1",
+    "topic": "General review",
+    "prompt": "A donor gives a not-for-profit organization $75,000 and requires the organization to use the contribution exclusively for a specified educational program. How should the contribution generally be classified when recognized?",
+    "choices": [
+      {
+        "id": "far-m5-l1-check-a0",
+        "text": "Net assets without donor restrictions"
+      },
+      {
+        "id": "far-m5-l1-check-a1",
+        "text": "Net assets with donor restrictions"
+      },
+      {
+        "id": "far-m5-l1-check-a2",
+        "text": "Stockholders' equity"
+      },
+      {
+        "id": "far-m5-l1-check-a3",
+        "text": "An exchange transaction liability"
+      }
+    ],
+    "correctChoiceId": "far-m5-l1-check-a1",
+    "explanation": "Because the donor requires the contribution to be used for a specified purpose, the contribution is subject to a donor-imposed restriction and generally increases net assets with donor restrictions.",
+    "difficulty": "foundation",
+    "metadata": {
+      "section": "far",
+      "blueprintYear": 2026,
+      "areaId": "far-I",
+      "groupId": "module-5",
+      "topicId": "far-not-for-profit-accounting-foundations",
+      "taskIds": [
+        "far-not-for-profit-accounting-foundations.task-1",
+        "far-not-for-profit-accounting-foundations.task-2",
+        "far-not-for-profit-accounting-foundations.task-3"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "section": "far",
+    "blueprintYear": 2026,
+    "areaId": "far-I",
+    "groupId": "module-5",
+    "topicId": "far-not-for-profit-accounting-foundations",
+    "taskIds": [
+      "far-not-for-profit-accounting-foundations.task-1",
+      "far-not-for-profit-accounting-foundations.task-2",
+      "far-not-for-profit-accounting-foundations.task-3"
+    ],
+    "skill": "application",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      }
+    ]
+  },
+  "objectives": [
+    "Explain not-for-profit accounting foundations and its underlying principles.",
+    "Apply the topic to a financial-reporting scenario.",
+    "Evaluate common errors and their financial-statement effects."
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "id": "far-m4-l3",
+  "courseId": "far",
+  "moduleId": 4,
+  "number": 3,
+  "title": "Modified Accrual Accounting",
+  "description": "Learn modified accrual accounting and the measurable-and-available revenue recognition concept.",
+  "url": "/learn/far/modules/4/lessons/3",
+  "html": "<h2> Modified Accrual Accounting </h2> <p> Governmental funds use the <strong>modified accrual basis of accounting</strong> together with the <strong>current financial resources measurement focus</strong>. </p> <p> The key question is not simply whether revenue has been earned. Governmental funds focus on whether financial resources are available to finance current-period expenditures. </p> <h2> Revenue Recognition </h2> <p> Under modified accrual, revenue is generally recognized when it is: </p> <div class=\"formula-box\"> MEASURABLE + AVAILABLE = RECOGNIZE REVENUE </div> <h2> Measurable </h2> <p> Revenue is measurable when the government can reasonably determine the amount. </p> <h2> Available </h2> <p> Available generally means the revenue is collectible within the current period or soon enough afterward to pay liabilities of the current period. </p> <div class=\"key-points\"> <p> The exact availability period can depend on the government's policy and the type of revenue. </p> </div> <h2> Property Tax Example </h2> <p> Assume a government levies property taxes of <strong>$500,000</strong>. </p> <p> At year-end, <strong>$470,000</strong> qualifies for recognition under the government's measurable-and-available criteria. </p> <p> The remaining <strong>$30,000</strong> is measurable but is not expected to be collected soon enough to satisfy the government's availability criterion. </p> <div class=\"financial-example\"> <div> <span> Revenue Recognized </span> <strong> $470,000 </strong> </div> <div> <span> Not Yet Recognized as Revenue </span> <strong> $30,000 </strong> </div> </div> <p> The unavailable portion is generally reported as a <strong>deferred inflow of resources</strong> rather than current-period governmental fund revenue. </p> <h2> Expenditures </h2> <p> Governmental funds generally recognize <strong>expenditures</strong> rather than expenses. </p> <p> Expenditures are generally recognized when a related fund liability is incurred, subject to important exceptions for certain long-term items. </p> <div class=\"key-points\"> <p> Because governmental funds focus on current financial resources, certain expenditures related to long-term obligations are generally recognized when payment is due or when the obligation is expected to require the use of current financial resources. </p> </div> <div class=\"financial-example\"> <div> <span> Governmental Funds </span> <strong> Expenditures </strong> </div> <div> <span> Government-Wide Statements </span> <strong> Expenses </strong> </div> </div> <h2> Capital Asset Purchase </h2> <p> Suppose a governmental fund purchases equipment for <strong>$100,000</strong>. </p> <p> In the governmental fund financial statements: </p> <div class=\"formula-box\"> $100,000 CAPITAL OUTLAY EXPENDITURE </div> <p> The governmental fund generally does not record the equipment as a capital asset. </p> <p> At the government-wide level, however, the equipment is generally capitalized and subsequently depreciated. </p> <h2> Long-Term Debt Proceeds </h2> <p> Suppose a governmental fund receives <strong>$1,000,000</strong> from issuing long-term bonds. </p> <p> The governmental fund generally does not recognize a long-term liability for the bonds. Instead, the proceeds are generally reported as an <strong>other financing source</strong>. </p> <div class=\"formula-box\"> BOND PROCEEDS ≠ GOVERNMENTAL FUND REVENUE BOND PROCEEDS = OTHER FINANCING SOURCE </div> <p> The long-term liability is generally reported in the government-wide financial statements. </p> <h2> Principal Payments </h2> <p> When a governmental fund pays principal on general long-term debt, the payment is generally reported as an <strong>expenditure</strong>. </p> <p> This differs from accrual accounting, where repayment of principal reduces a liability rather than creating an expense. </p> <h2> Modified Accrual vs. Accrual </h2> <div class=\"financial-example\"> <div> <span> Governmental Funds </span> <strong> Current Financial Resources + Modified Accrual </strong> </div> <div> <span> Government-Wide </span> <strong> Economic Resources + Accrual </strong> </div> </div> <h2> CPA Memory Rules </h2> <div class=\"key-points\"> <ul> <li> Revenue → measurable + available. </li> <li> Governmental funds → expenditures, not expenses. </li> <li> Capital asset purchase → expenditure in governmental funds. </li> <li> Long-term bond proceeds → other financing source in governmental funds. </li> <li> Governmental funds generally do not report general capital assets or general long-term liabilities. </li> </ul> </div> <div class=\"formula-box\"> GOVERNMENTAL FUND Revenue = Measurable + Available Capital Purchase = Expenditure Bond Proceeds = Other Financing Source </div> <h2> Key Takeaway </h2> <p> When you see a governmental fund question, think about <strong>current financial resources</strong>. This explains why modified accrual treatment differs from normal business accrual accounting. </p>",
+  "quiz": {
+    "id": "far-m4-l3-check",
+    "courseId": "far",
+    "moduleId": 4,
+    "lessonId": "far-m4-l3",
+    "topic": "General review",
+    "prompt": "A governmental fund has $600,000 of measurable property tax revenue, but $50,000 does not meet the government's availability criterion. How much revenue should generally be recognized under modified accrual?",
+    "choices": [
+      {
+        "id": "far-m4-l3-check-a0",
+        "text": "$50,000"
+      },
+      {
+        "id": "far-m4-l3-check-a1",
+        "text": "$600,000"
+      },
+      {
+        "id": "far-m4-l3-check-a2",
+        "text": "$650,000"
+      },
+      {
+        "id": "far-m4-l3-check-a3",
+        "text": "$550,000"
+      }
+    ],
+    "correctChoiceId": "far-m4-l3-check-a3",
+    "explanation": "Modified accrual revenue generally must be both measurable and available. Therefore, $600,000 − $50,000 = $550,000 is recognized as revenue.",
+    "difficulty": "foundation",
+    "metadata": {
+      "section": "far",
+      "blueprintYear": 2026,
+      "areaId": "far-I",
+      "groupId": "module-4",
+      "topicId": "far-modified-accrual-accounting",
+      "taskIds": [
+        "far-modified-accrual-accounting.task-1",
+        "far-modified-accrual-accounting.task-2",
+        "far-modified-accrual-accounting.task-3"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": true,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "section": "far",
+    "blueprintYear": 2026,
+    "areaId": "far-I",
+    "groupId": "module-4",
+    "topicId": "far-modified-accrual-accounting",
+    "taskIds": [
+      "far-modified-accrual-accounting.task-1",
+      "far-modified-accrual-accounting.task-2",
+      "far-modified-accrual-accounting.task-3"
+    ],
+    "skill": "application",
+    "validFrom": "2026-01-01",
+    "supplementary": true,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      }
+    ]
+  },
+  "objectives": [
+    "Explain modified accrual accounting and its underlying principles.",
+    "Apply the topic to a financial-reporting scenario.",
+    "Evaluate common errors and their financial-statement effects."
+  ]
+}

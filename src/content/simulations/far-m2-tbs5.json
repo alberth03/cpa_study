@@ -1,0 +1,62 @@
+{
+  "id": "far-m2-tbs5",
+  "moduleId": 2,
+  "number": 5,
+  "title": "FAR Module 2 · TBS 5",
+  "fields": [
+    {
+      "id": "far-m2-tbs5-interest",
+      "label": "1. Annual Bond Interest Expense",
+      "type": "number",
+      "options": [],
+      "correct": 30000
+    },
+    {
+      "id": "far-m2-tbs5-gain",
+      "label": "2. Unrealized Gain on Trading Security",
+      "type": "number",
+      "options": [],
+      "correct": 8000
+    },
+    {
+      "id": "far-m2-tbs5-treasury",
+      "label": "3. Treasury Stock Balance",
+      "type": "number",
+      "options": [],
+      "correct": 30000
+    },
+    {
+      "id": "far-m2-tbs5-re",
+      "label": "4. Ending Retained Earnings",
+      "type": "number",
+      "options": [],
+      "correct": 490000
+    }
+  ],
+  "html": "<section class=\"exam-page\"> <div class=\"course-intro-card\"> <span class=\"exam-badge\"> TASK-BASED SIMULATION </span> <h2> Integrated Balance Sheet Analysis </h2> <p> Analyze year-end information involving bonds payable, investments, treasury stock, and retained earnings. </p> </div> <div class=\"quiz-card\"> <h2> Scenario </h2> <p> Summit Corp. is preparing its December 31 financial statements. Analyze each of the following independent items. </p> <div class=\"key-points\"> <h3> Item 1 — Bonds Payable </h3> <p> On January 1, Summit issued <strong>$500,000</strong> face amount of bonds at par. </p> <p> The bonds have a <strong>6% annual stated interest rate</strong>, with interest paid annually on December 31. </p> </div> <div class=\"key-points\"> <h3> Item 2 — Trading Debt Security </h3> <p> Summit purchased a debt security classified as a <strong>trading security</strong> for <strong>$90,000</strong>. </p> <p> At December 31, its fair value is <strong>$98,000</strong>. </p> <p> Assume there are no other adjustments affecting the investment's carrying amount. </p> </div> <div class=\"key-points\"> <h3> Item 3 — Treasury Stock </h3> <p> Summit reacquired <strong>2,000 shares</strong> of its own common stock for <strong>$15 per share</strong>. </p> <p> Summit uses the <strong>cost method</strong> for treasury stock. </p> </div> <div class=\"key-points\"> <h3> Item 4 — Retained Earnings </h3> <p> Beginning retained earnings were <strong>$420,000</strong>. </p> <p> Summit reports <strong>$95,000</strong> of net income for the year and declared cash dividends of <strong>$25,000</strong>. </p> </div> <h2> Required </h2> <div class=\"financial-example\"> <div> <span> 1. Annual Bond Interest Expense </span> <input type=\"number\" id=\"far-m2-tbs5-interest\" placeholder=\"Enter amount\"> </div> <div> <span> 2. Unrealized Gain on Trading Security </span> <input type=\"number\" id=\"far-m2-tbs5-gain\" placeholder=\"Enter amount\"> </div> <div> <span> 3. Treasury Stock Balance </span> <input type=\"number\" id=\"far-m2-tbs5-treasury\" placeholder=\"Enter amount\"> </div> <div> <span> 4. Ending Retained Earnings </span> <input type=\"number\" id=\"far-m2-tbs5-re\" placeholder=\"Enter amount\"> </div> </div> <div id=\"far-m2-tbs5-result\"></div> </div> </section>",
+  "explanation": "<div class=\"result-correct\"> <h3> Step 1 — Bond Interest </h3> <p> Because the bonds were issued at par, the stated rate equals the effective rate at issuance in this simplified scenario. </p> <div class=\"formula-box\"> $500,000 × 6% = $30,000 </div> <p> <strong> Interest Expense: $30,000 </strong> </p> <h3> Step 2 — Trading Security </h3> <div class=\"formula-box\"> Fair Value $98,000 − Carrying Amount $90,000 = $8,000 Unrealized Gain </div> <p> Because the debt security is classified as trading, the unrealized holding gain is recognized in current-period earnings. </p> <p> <strong> Unrealized Gain: $8,000 </strong> </p> <h3> Step 3 — Treasury Stock </h3> <div class=\"formula-box\"> 2,000 Shares × $15 = $30,000 </div> <p> Under the cost method, treasury stock is recorded at the amount paid to reacquire the shares. </p> <p> <strong> Treasury Stock: $30,000 </strong> </p> <h3> Step 4 — Retained Earnings </h3> <div class=\"formula-box\"> Beginning Retained Earnings $420,000 + Net Income $95,000 − Dividends $25,000 = $490,000 </div> <p> <strong> Ending Retained Earnings: $490,000 </strong> </p> <div class=\"key-points\"> <h3> CPA Takeaway </h3> <ul> <li> Bonds issued at par have no initial premium or discount. </li> <li> Trading debt securities are reported at fair value, with unrealized holding gains and losses recognized in earnings. </li> <li> Treasury stock under the cost method is recorded at reacquisition cost and is a contra-equity account. </li> <li> Net income increases retained earnings, while dividends decrease retained earnings. </li> </ul> </div> </div>",
+  "courseId": "far",
+  "difficulty": "advanced",
+  "metadata": {
+    "section": "far",
+    "blueprintYear": 2026,
+    "areaId": "far-II",
+    "groupId": "module-2",
+    "topicId": "far-investments",
+    "taskIds": [
+      "far-investments.task-1",
+      "far-investments.task-2",
+      "far-investments.task-3"
+    ],
+    "skill": "analysis",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      }
+    ]
+  }
+}

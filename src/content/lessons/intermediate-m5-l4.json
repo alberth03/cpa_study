@@ -1,0 +1,88 @@
+{
+  "id": "intermediate-m5-l4",
+  "courseId": "intermediate",
+  "moduleId": 5,
+  "number": 4,
+  "title": "Bond Premiums & Discounts",
+  "description": "Understand why bonds issue above or below face value and how carrying amount changes.",
+  "url": "/learn/intermediate/modules/5/lessons/4",
+  "html": "<h2>Why don't bonds always sell at face value?</h2> <p> The stated interest rate on a bond may be different from the market interest rate investors currently demand. </p> <div class=\"key-points\"> <h3>Remember this relationship</h3> <ul> <li>Stated Rate = Market Rate → Face Value</li> <li>Stated Rate &lt; Market Rate → Discount</li> <li>Stated Rate &gt; Market Rate → Premium</li> </ul> </div> <h2>Bond issued at a discount</h2> <p> Suppose a $100,000 bond pays 6% interest, but investors demand an 8% return. </p> <p> The bond's contractual interest payments are less attractive than the market requires. </p> <p> Therefore, investors will generally pay <strong>less than $100,000</strong>. </p> <div class=\"formula-box\"> Stated Rate &lt; Market Rate → Bond Discount </div> <h2>Bond issued at a premium</h2> <p> Now suppose the $100,000 bond pays 10%, while investors demand only 8%. </p> <p> The bond's contractual interest payments are relatively attractive, so investors may pay <strong>more than $100,000</strong>. </p> <div class=\"formula-box\"> Stated Rate &gt; Market Rate → Bond Premium </div> <h2>Carrying amount</h2> <p> The carrying amount is the amount at which the bond liability is reported after considering an unamortized discount or premium. </p> <div class=\"key-points\"> <h3>Discount</h3> <p> Carrying Amount &lt; Face Value </p> <h3>Premium</h3> <p> Carrying Amount &gt; Face Value </p> </div> <h2>What happens over time?</h2> <p> As the discount or premium is amortized, the bond's carrying amount moves toward its face value. </p> <div class=\"comparison-grid\"> <div class=\"comparison-card\"> <h3>Discount Bond</h3> <p> Carrying amount increases toward face value. </p> </div> <div class=\"comparison-card\"> <h3>Premium Bond</h3> <p> Carrying amount decreases toward face value. </p> </div> </div> <div class=\"key-points\"> <h3>CPA shortcut</h3> <p> Discount → carrying amount climbs. </p> <p> Premium → carrying amount falls. </p> <p> Both move toward face value. </p> </div>",
+  "quiz": {
+    "id": "intermediate-m5-l4-check",
+    "courseId": "intermediate",
+    "moduleId": 5,
+    "lessonId": "intermediate-m5-l4",
+    "topic": "General review",
+    "prompt": "A bond has a 6% stated rate when investors demand an 8% market rate. The bond will generally issue at:",
+    "choices": [
+      {
+        "id": "intermediate-m5-l4-check-a0",
+        "text": "A premium"
+      },
+      {
+        "id": "intermediate-m5-l4-check-a1",
+        "text": "A discount"
+      },
+      {
+        "id": "intermediate-m5-l4-check-a2",
+        "text": "Face value only"
+      },
+      {
+        "id": "intermediate-m5-l4-check-a3",
+        "text": "Twice face value"
+      }
+    ],
+    "correctChoiceId": "intermediate-m5-l4-check-a1",
+    "explanation": "Because the stated rate is below the market rate, investors generally pay less than face value, creating a bond discount.",
+    "difficulty": "foundation",
+    "metadata": {
+      "section": "intermediate",
+      "blueprintYear": 2026,
+      "areaId": "intermediate-I",
+      "groupId": "module-5",
+      "topicId": "intermediate-bond-premiums-discounts",
+      "taskIds": [
+        "intermediate-bond-premiums-discounts.task-1",
+        "intermediate-bond-premiums-discounts.task-2",
+        "intermediate-bond-premiums-discounts.task-3"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "section": "intermediate",
+    "blueprintYear": 2026,
+    "areaId": "intermediate-I",
+    "groupId": "module-5",
+    "topicId": "intermediate-bond-premiums-discounts",
+    "taskIds": [
+      "intermediate-bond-premiums-discounts.task-1",
+      "intermediate-bond-premiums-discounts.task-2",
+      "intermediate-bond-premiums-discounts.task-3"
+    ],
+    "skill": "application",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      }
+    ]
+  },
+  "objectives": [
+    "Explain bond premiums & discounts and its underlying principles.",
+    "Apply the topic to a financial-reporting scenario.",
+    "Evaluate common errors and their financial-statement effects."
+  ]
+}

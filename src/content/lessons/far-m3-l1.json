@@ -1,0 +1,88 @@
+{
+  "id": "far-m3-l1",
+  "courseId": "far",
+  "moduleId": 3,
+  "number": 1,
+  "title": "Accounting Changes & Error Corrections",
+  "description": "Learn retrospective and prospective treatment of accounting changes and prior-period errors.",
+  "url": "/learn/far/modules/3/lessons/1",
+  "html": "<h2> Accounting Changes &amp; Error Corrections </h2> <p> Financial statements sometimes need to reflect changes in accounting methods, revised estimates, changes in the reporting entity, or corrections of errors from prior periods. </p> <h3> 1. Change in Accounting Principle </h3> <p> A change in accounting principle occurs when a company changes from one generally accepted accounting principle to another generally accepted accounting principle. </p> <div class=\"key-points\"> <strong> General treatment: </strong> <p> Apply the change retrospectively unless it is impracticable to determine the prior-period effects or specific accounting guidance requires another treatment. </p> </div> <p> Retrospective application means prior comparative financial statements are presented as though the new accounting principle had always been used. </p> <p> The cumulative effect for periods before those presented is generally reflected as an adjustment to the opening balance of the affected component of equity, usually retained earnings. </p> <div class=\"example-box\"> <strong> Example </strong> <p> A company changes from one acceptable inventory accounting principle to another. If retrospective application is required and practicable, prior periods presented are adjusted to reflect the newly adopted principle. </p> </div> <h3> 2. Change in Accounting Estimate </h3> <p> Estimates are revised when new information or experience changes management's expectations. </p> <p> Common examples include changes in: </p> <ul> <li> Estimated useful life of depreciable assets </li> <li> Estimated residual value </li> <li> Expected credit losses </li> <li> Warranty obligations </li> </ul> <div class=\"key-points\"> <strong> Treatment: </strong> <p> Changes in accounting estimates are generally accounted for prospectively. </p> </div> <p> That means previously issued financial statements are not revised. The new estimate affects the current period and, when applicable, future periods. </p> <div class=\"example-box\"> <strong> Example </strong> <p> Equipment originally had an estimated remaining useful life of eight years. New information indicates that it will instead last only five remaining years. </p> <p> The company does not go back and recalculate depreciation for prior years. It uses the revised estimate prospectively. </p> </div> <h3> Change in Estimate Effected by a Change in Accounting Principle </h3> <p> Sometimes a change in accounting principle is inseparable from a change in accounting estimate. </p> <p> In that situation, the change is generally accounted for as a change in estimate and therefore applied prospectively. </p> <div class=\"example-box\"> <strong> Example </strong> <p> A change in depreciation method may reflect a change in the expected pattern in which an asset's economic benefits are consumed. </p> <p> Because the effect of the change in principle cannot be separated from the change in estimate, the change is generally accounted for prospectively. </p> </div> <h3> 3. Change in Reporting Entity </h3> <p> A change in reporting entity changes the specific entities included in the financial statements. </p> <p> When applicable, comparative financial statements are generally presented retrospectively as though the new reporting entity had existed during the prior periods presented. </p> <h3> 4. Error Corrections </h3> <p> An accounting error is different from a change in estimate. </p> <p> Errors may result from: </p> <ul> <li> Mathematical mistakes </li> <li> Incorrect application of accounting principles </li> <li> Oversights </li> <li> Misuse of information that was available when the financial statements were prepared </li> </ul> <div class=\"key-points\"> <strong> Prior-period errors: </strong> <p> Material errors in previously issued financial statements generally require correction of prior-period financial information rather than being treated as a current-period operating item. </p> </div> <p> When comparative financial statements are presented, prior periods affected by a material error are generally restated to correct the error. </p> <p> If the error occurred before the earliest period presented, the cumulative effect is generally reflected in the opening balances of affected assets, liabilities, and equity accounts, including retained earnings when applicable. </p> <h3> 5. Estimate Change vs. Error </h3> <p> This distinction is especially important on the CPA Exam. </p> <div class=\"financial-example\"> <div> <span> New information changes useful life </span> <strong> Estimate Change </strong> </div> <div> <span> Prior depreciation calculation used the wrong asset cost </span> <strong> Error </strong> </div> <div> <span> New collection experience changes expected credit losses </span> <strong> Estimate Change </strong> </div> <div> <span> Transaction was accidentally omitted last year </span> <strong> Error </strong> </div> </div> <h3> CPA Exam Memory Rule </h3> <div class=\"formula-box\"> Principle → Usually Retrospective Estimate → Prospective Reporting Entity → Retrospective Error → Correct Prior Periods </div> <div class=\"key-points\"> <h3> Key Takeaways </h3> <ul> <li> Changes in accounting principle are generally applied retrospectively. </li> <li> Changes in estimates are generally applied prospectively. </li> <li> Changes in reporting entity generally require retrospective presentation. </li> <li> Material prior-period errors require correction rather than prospective accounting. </li> <li> New information normally indicates an estimate change; misuse or omission of information already available may indicate an error. </li> </ul> </div>",
+  "quiz": {
+    "id": "far-m3-l1-check",
+    "courseId": "far",
+    "moduleId": 3,
+    "lessonId": "far-m3-l1",
+    "topic": "General review",
+    "prompt": "A company revises the estimated useful life of equipment because of new information. How should the change generally be accounted for?",
+    "choices": [
+      {
+        "id": "far-m3-l1-check-a0",
+        "text": "Retrospectively"
+      },
+      {
+        "id": "far-m3-l1-check-a1",
+        "text": "As a prior-period error"
+      },
+      {
+        "id": "far-m3-l1-check-a2",
+        "text": "Directly through accumulated other comprehensive income"
+      },
+      {
+        "id": "far-m3-l1-check-a3",
+        "text": "Prospectively"
+      }
+    ],
+    "correctChoiceId": "far-m3-l1-check-a3",
+    "explanation": "A revision resulting from new information is a change in accounting estimate and is generally accounted for prospectively.",
+    "difficulty": "foundation",
+    "metadata": {
+      "section": "far",
+      "blueprintYear": 2026,
+      "areaId": "far-III",
+      "groupId": "module-3",
+      "topicId": "far-accounting-changes-error-corrections",
+      "taskIds": [
+        "far-accounting-changes-error-corrections.task-1",
+        "far-accounting-changes-error-corrections.task-2",
+        "far-accounting-changes-error-corrections.task-3"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "section": "far",
+    "blueprintYear": 2026,
+    "areaId": "far-III",
+    "groupId": "module-3",
+    "topicId": "far-accounting-changes-error-corrections",
+    "taskIds": [
+      "far-accounting-changes-error-corrections.task-1",
+      "far-accounting-changes-error-corrections.task-2",
+      "far-accounting-changes-error-corrections.task-3"
+    ],
+    "skill": "application",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      }
+    ]
+  },
+  "objectives": [
+    "Explain accounting changes & error corrections and its underlying principles.",
+    "Apply the topic to a financial-reporting scenario.",
+    "Evaluate common errors and their financial-statement effects."
+  ]
+}

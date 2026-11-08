@@ -1,0 +1,88 @@
+{
+  "id": "far-m6-l3",
+  "courseId": "far",
+  "moduleId": 6,
+  "number": 3,
+  "title": "Inventory & Long-Lived Asset Review",
+  "description": "Review inventory measurement, PP&E, depreciation, impairment, and intangible asset concepts.",
+  "url": "/learn/far/modules/6/lessons/3",
+  "html": "<h2> Why These Topics Matter Together </h2> <p> Inventory and long-lived assets both involve measurement, cost allocation, impairment, and financial statement presentation. </p> <p> FAR frequently tests whether you can distinguish between costs that should be expensed immediately and costs that should be capitalized and recognized over future periods. </p> <h2> Inventory Cost Flow </h2> <div class=\"formula-box\"> BEGINNING INVENTORY + PURCHASES = GOODS AVAILABLE FOR SALE GOODS AVAILABLE FOR SALE − ENDING INVENTORY = COST OF GOODS SOLD </div> <h2> Inventory Error Relationships </h2> <p> Ending inventory directly affects cost of goods sold. </p> <div class=\"formula-box\"> ENDING INVENTORY ↑ → COGS ↓ → NET INCOME ↑ </div> <p> Therefore, if ending inventory is overstated, assets and net income are generally overstated in the current period. </p> <h2> Example — Inventory Overstatement </h2> <p> Actual ending inventory is <strong>$90,000</strong>, but the company reports <strong>$105,000</strong>. </p> <div class=\"formula-box\"> INVENTORY OVERSTATEMENT = $105,000 − $90,000 = $15,000 </div> <div class=\"financial-example\"> <div> <span>Ending Inventory</span> <strong>Overstated $15,000</strong> </div> <div> <span>COGS</span> <strong>Understated $15,000</strong> </div> <div> <span>Net Income</span> <strong>Overstated $15,000</strong> </div> <div> <span>Assets</span> <strong>Overstated $15,000</strong> </div> </div> <h2> Inventory Measurement </h2> <p> Inventory measurement depends on the cost-flow method used. </p> <p> For inventory measured using FIFO or average cost, U.S. GAAP generally applies the <strong>lower of cost and net realizable value</strong> approach. </p> <p> Inventory measured using LIFO or the retail inventory method is generally evaluated using the <strong>lower of cost or market</strong> approach, subject to the applicable ceiling and floor limitations. </p> <div class=\"formula-box\"> NET REALIZABLE VALUE = ESTIMATED SELLING PRICE − REASONABLY PREDICTABLE COSTS OF COMPLETION, DISPOSAL, AND TRANSPORTATION </div> <h2> Example — Lower of Cost and NRV </h2> <div class=\"example-box\"> <p> Inventory cost: <strong>$75,000</strong> </p> <p> Net realizable value: <strong>$68,000</strong> </p> </div> <div class=\"formula-box\"> REPORTED INVENTORY = LOWER OF $75,000 OR $68,000 = $68,000 </div> <p> The company recognizes a <strong>$7,000 loss</strong>. </p> <h2> Capitalize or Expense? </h2> <p> Long-lived asset questions often begin with determining which costs belong in the asset's initial carrying amount. </p> <p> Costs necessary to acquire the asset and prepare it for its intended use are generally capitalized. </p> <div class=\"formula-box\"> CAPITALIZED COST MAY INCLUDE: PURCHASE PRICE + FREIGHT + INSTALLATION + TESTING + OTHER COSTS NECESSARY TO PREPARE THE ASSET FOR INTENDED USE </div> <h2> Example — Equipment Cost </h2> <div class=\"example-box\"> <p> Purchase price: <strong>$100,000</strong> </p> <p> Freight: <strong>$4,000</strong> </p> <p> Installation: <strong>$6,000</strong> </p> <p> Annual maintenance contract: <strong>$3,000</strong> </p> </div> <div class=\"formula-box\"> CAPITALIZED EQUIPMENT COST = $100,000 + $4,000 + $6,000 = $110,000 </div> <p> The annual maintenance contract is generally an operating expense rather than part of the equipment's acquisition cost. </p> <h2> Depreciation </h2> <p> Depreciation allocates depreciable cost over the periods benefited by the asset. </p> <div class=\"formula-box\"> DEPRECIABLE BASE = COST − RESIDUAL VALUE </div> <div class=\"formula-box\"> STRAIGHT-LINE DEPRECIATION = DEPRECIABLE BASE ÷ USEFUL LIFE </div> <h2> Example — Straight-Line Depreciation </h2> <div class=\"example-box\"> <p> Cost: <strong>$210,000</strong> </p> <p> Residual value: <strong>$10,000</strong> </p> <p> Useful life: <strong>10 years</strong> </p> </div> <div class=\"formula-box\"> ($210,000 − $10,000) ÷ 10 = $20,000 PER YEAR </div> <h2> Change in Depreciation Estimate </h2> <p> A change in useful life or residual value is generally treated as a <strong>change in accounting estimate</strong>. </p> <div class=\"formula-box\"> CHANGE IN ESTIMATE → PROSPECTIVE APPLICATION </div> <p> Prior-period financial statements are not retrospectively revised merely because management changes its estimate. </p> <h2> Long-Lived Asset Impairment </h2> <p> For long-lived assets to be held and used, U.S. GAAP generally uses a two-step concept for impairment. </p> <div class=\"formula-box\"> STEP 1 RECOVERABILITY TEST CARRYING AMOUNT &gt; UNDISCOUNTED EXPECTED FUTURE CASH FLOWS? </div> <p> If the carrying amount is not recoverable, impairment is measured using fair value. </p> <div class=\"formula-box\"> IMPAIRMENT LOSS = CARRYING AMOUNT − FAIR VALUE </div> <h2> Example — Impairment </h2> <div class=\"example-box\"> <p> Carrying amount: <strong>$500,000</strong> </p> <p> Undiscounted expected future cash flows: <strong>$430,000</strong> </p> <p> Fair value: <strong>$390,000</strong> </p> </div> <p> Because: </p> <div class=\"formula-box\"> $500,000 &gt; $430,000 </div> <p> the asset fails the recoverability test. </p> <div class=\"formula-box\"> IMPAIRMENT LOSS = $500,000 − $390,000 = $110,000 </div> <h2> Intangible Assets </h2> <p> Intangible assets may have finite or indefinite useful lives. </p> <div class=\"formula-box\"> FINITE-LIVED INTANGIBLE → AMORTIZE INDEFINITE-LIVED INTANGIBLE → GENERALLY NO AMORTIZATION BUT TEST FOR IMPAIRMENT </div> <h2> Purchased vs Internally Generated Intangibles </h2> <p> Purchased intangible assets are generally recognized at cost. </p> <p> Many internally generated costs are expensed rather than capitalized, subject to specific accounting rules for particular types of costs. </p> <h2> Gain or Loss on Disposal </h2> <p> When a long-lived asset is sold, compare the proceeds received with the asset's carrying amount on the disposal date. </p> <div class=\"formula-box\"> GAIN OR LOSS = PROCEEDS − CARRYING AMOUNT </div> <h2> Example — Disposal </h2> <div class=\"example-box\"> <p> Asset cost: <strong>$150,000</strong> </p> <p> Accumulated depreciation: <strong>$90,000</strong> </p> <p> Selling price: <strong>$72,000</strong> </p> </div> <div class=\"formula-box\"> CARRYING AMOUNT = $150,000 − $90,000 = $60,000 GAIN = $72,000 − $60,000 = $12,000 </div> <h2> Integrated FAR Thinking </h2> <p> Inventory and long-lived asset questions often test more than one financial statement effect. </p> <div class=\"formula-box\"> ASK: WHAT IS THE CORRECT ASSET BALANCE? WHAT EXPENSE OR LOSS IS RECOGNIZED? WHAT HAPPENS TO NET INCOME? WHAT HAPPENS TO TOTAL ASSETS? </div> <div class=\"key-points\"> <h3> Key Takeaways </h3> <ul> <li> Ending inventory affects both COGS and net income. </li> <li> FIFO and average-cost inventory are generally subject to lower of cost and net realizable value. </li> <li> Costs necessary to acquire and prepare PP&amp;E for intended use are generally capitalized. </li> <li> Changes in useful life and residual value are generally treated prospectively. </li> <li> Held-and-used long-lived assets first undergo a recoverability test using undiscounted cash flows. </li> <li> If impaired, the loss is generally measured as carrying amount minus fair value. </li> <li> Gain or loss on disposal compares proceeds with carrying amount. </li> </ul> </div>",
+  "quiz": {
+    "id": "far-m6-l3-check",
+    "courseId": "far",
+    "moduleId": 6,
+    "lessonId": "far-m6-l3",
+    "topic": "General review",
+    "prompt": "Equipment has a carrying amount of $500,000, undiscounted expected future cash flows of $430,000, and a fair value of $390,000. Under U.S. GAAP for a long-lived asset held and used, what impairment loss should be recognized?",
+    "choices": [
+      {
+        "id": "far-m6-l3-check-a0",
+        "text": "$70,000"
+      },
+      {
+        "id": "far-m6-l3-check-a1",
+        "text": "$110,000"
+      },
+      {
+        "id": "far-m6-l3-check-a2",
+        "text": "$40,000"
+      },
+      {
+        "id": "far-m6-l3-check-a3",
+        "text": "$0"
+      }
+    ],
+    "correctChoiceId": "far-m6-l3-check-a1",
+    "explanation": "Because the $500,000 carrying amount exceeds the $430,000 of undiscounted expected future cash flows, the asset fails the recoverability test. The impairment loss is then measured as carrying amount minus fair value: $500,000 − $390,000 = $110,000.",
+    "difficulty": "foundation",
+    "metadata": {
+      "section": "far",
+      "blueprintYear": 2026,
+      "areaId": "far-II",
+      "groupId": "module-6",
+      "topicId": "far-inventory-long-lived-asset-review",
+      "taskIds": [
+        "far-inventory-long-lived-asset-review.task-1",
+        "far-inventory-long-lived-asset-review.task-2",
+        "far-inventory-long-lived-asset-review.task-3"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "section": "far",
+    "blueprintYear": 2026,
+    "areaId": "far-II",
+    "groupId": "module-6",
+    "topicId": "far-inventory-long-lived-asset-review",
+    "taskIds": [
+      "far-inventory-long-lived-asset-review.task-1",
+      "far-inventory-long-lived-asset-review.task-2",
+      "far-inventory-long-lived-asset-review.task-3"
+    ],
+    "skill": "application",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      }
+    ]
+  },
+  "objectives": [
+    "Explain inventory & long-lived asset review and its underlying principles.",
+    "Apply the topic to a financial-reporting scenario.",
+    "Evaluate common errors and their financial-statement effects."
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "id": "isc-m2-l2",
+  "courseId": "isc",
+  "moduleId": 2,
+  "number": 2,
+  "title": "Threats, Vulnerabilities, Monitoring & Incident Response",
+  "description": "Distinguish threats, vulnerabilities, risks, and incidents.",
+  "url": "/learn/isc/modules/2/lessons/2",
+  "metadata": {
+    "section": "isc",
+    "blueprintYear": 2026,
+    "areaId": "isc-II",
+    "groupId": "B-C",
+    "topicId": "isc-security-threats-response",
+    "taskIds": [
+      "isc-security-threats-response.task-1",
+      "isc-security-threats-response.task-2",
+      "isc-security-threats-response.task-3"
+    ],
+    "skill": "application",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      },
+      {
+        "title": "NIST Cybersecurity Framework",
+        "url": "https://www.nist.gov/cyberframework"
+      },
+      {
+        "title": "AICPA SOC resources",
+        "url": "https://www.aicpa-cima.com/resources/landing/system-and-organization-controls-soc-suite-of-services"
+      }
+    ]
+  },
+  "html": "<h2>Learning objectives</h2><ul><li>Distinguish threats, vulnerabilities, risks, and incidents.</li><li>Evaluate preventive, detective, and corrective controls.</li><li>Apply a controlled incident-response process.</li></ul><h2>Understand the concepts</h2><p>A threat is a potential adverse actor or event; a vulnerability is a weakness; risk considers possible harm in context; an incident is an event requiring response under the organization’s criteria. Prioritize remediation using exposure, likelihood, impact, exploitability, and criticality rather than counting findings alone.</p><p>Preventive controls reduce the chance of an unwanted event, detective controls identify events, and corrective controls support response and recovery. Phishing-resistant authentication, least privilege, patching, monitoring, and tested recovery can provide complementary layers. No single control guarantees security. Logs need appropriate collection, protection, review, time synchronization, and escalation.</p><p>Incident response requires preparation, detection and analysis, containment, eradication, recovery, and lessons learned under the organization’s chosen framework. Preserve relevant evidence, coordinate business and technical stakeholders, and evaluate notification duties. A hurried recovery that destroys evidence or restores the same weakness may create additional problems.</p><div class=\"example-box\"><h3>Suspicious access detected</h3><p>Monitoring identifies unusual privileged access and unexpected data transfers from a critical system.</p><ol><li>Validate and triage the alert while preserving relevant evidence.</li><li>Contain the incident using the approved process and assess affected systems and data.</li><li>Remediate causes, recover safely, evaluate notification, and improve controls based on lessons learned.</li></ol></div><div class=\"key-points\"><h3>Common mistakes to avoid</h3><ul><li>A vulnerability finding is not proof that exploitation occurred.</li><li>A log file without review and escalation is not a complete monitoring control.</li><li>Recovery should address causes rather than simply restoring vulnerable configurations.</li></ul></div><h2>Apply and connect</h2><p>After solving the worked case, explain which facts determine the result and how a changed assumption would change your conclusion. Use the module questions to test fresh applications, then complete the related simulation before reviewing its solution.</p>",
+  "objectives": [
+    "Distinguish threats, vulnerabilities, risks, and incidents.",
+    "Evaluate preventive, detective, and corrective controls.",
+    "Apply a controlled incident-response process."
+  ],
+  "quiz": {
+    "id": "isc-m2-l2-q1",
+    "courseId": "isc",
+    "moduleId": 2,
+    "lessonId": "isc-m2-l2",
+    "topic": "Threats, Vulnerabilities, Monitoring & Incident Response",
+    "prompt": "What is a vulnerability?",
+    "choices": [
+      {
+        "id": "isc-m2-l2-q1-a0",
+        "text": "Every confirmed security incident."
+      },
+      {
+        "id": "isc-m2-l2-q1-a1",
+        "text": "A guarantee of loss."
+      },
+      {
+        "id": "isc-m2-l2-q1-a2",
+        "text": "A weakness that could be exploited or contribute to an adverse event."
+      },
+      {
+        "id": "isc-m2-l2-q1-a3",
+        "text": "Only an authorized business process."
+      }
+    ],
+    "correctChoiceId": "isc-m2-l2-q1-a2",
+    "explanation": "A vulnerability is a weakness, not necessarily an incident or realized loss.",
+    "difficulty": "foundation",
+    "metadata": {
+      "section": "isc",
+      "blueprintYear": 2026,
+      "areaId": "isc-II",
+      "groupId": "B-C",
+      "topicId": "isc-security-threats-response",
+      "taskIds": [
+        "isc-security-threats-response.task-1"
+      ],
+      "skill": "remembering",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        },
+        {
+          "title": "NIST Cybersecurity Framework",
+          "url": "https://www.nist.gov/cyberframework"
+        },
+        {
+          "title": "AICPA SOC resources",
+          "url": "https://www.aicpa-cima.com/resources/landing/system-and-organization-controls-soc-suite-of-services"
+        }
+      ]
+    }
+  },
+  "relatedSimulation": "isc-m2-tbs2"
+}

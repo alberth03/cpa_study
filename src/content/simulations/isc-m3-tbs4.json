@@ -1,0 +1,158 @@
+{
+  "id": "isc-m3-tbs4",
+  "courseId": "isc",
+  "moduleId": 3,
+  "number": 4,
+  "title": "SOC testing workpaper",
+  "html": "<div class=\"course-intro-card\"><h2>SOC testing workpaper</h2><p>Evaluate the adequacy of four proposed testing conclusions.</p></div><section class=\"quiz-card\"><h3>Required responses</h3><div class=\"tbs-question\"><label for=\"isc-m3-tbs4-f1\">Improve test A</label><select id=\"isc-m3-tbs4-f1\"><option value=\"Obtain appropriate corroborating operating evidence\">Obtain appropriate corroborating operating evidence</option><option value=\"Rely only on the policy title\">Rely only on the policy title</option><option value=\"Remove the control objective\">Remove the control objective</option><option value=\"Assume all monthly controls work\">Assume all monthly controls work</option></select></div><div class=\"tbs-question\"><label for=\"isc-m3-tbs4-f2\">Improve test B</label><select id=\"isc-m3-tbs4-f2\"><option value=\"Use the relevant administrator-access population\">Use the relevant administrator-access population</option><option value=\"Increase only the ordinary-user sample\">Increase only the ordinary-user sample</option><option value=\"Ignore administrators\">Ignore administrators</option><option value=\"Sample unrelated invoices\">Sample unrelated invoices</option></select></div><div class=\"tbs-question\"><label for=\"isc-m3-tbs4-f3\">Improve test C</label><select id=\"isc-m3-tbs4-f3\"><option value=\"Retain, investigate, and evaluate the deviation\">Retain, investigate, and evaluate the deviation</option><option value=\"Delete all exceptions\">Delete all exceptions</option><option value=\"Count only favorable evidence\">Count only favorable evidence</option><option value=\"Assume every deviation is harmless\">Assume every deviation is harmless</option></select></div><div class=\"tbs-question\"><label for=\"isc-m3-tbs4-f4\">Improve test D</label><select id=\"isc-m3-tbs4-f4\"><option value=\"Investigate the unsupported quarter and assess significance\">Investigate the unsupported quarter and assess significance</option><option value=\"Claim four supported reviews\">Claim four supported reviews</option><option value=\"Assume signatures are unnecessary in every case\">Assume signatures are unnecessary in every case</option><option value=\"Ignore the report period\">Ignore the report period</option></select></div></section>",
+  "metadata": {
+    "section": "isc",
+    "blueprintYear": 2026,
+    "areaId": "isc-III",
+    "groupId": "B-C",
+    "topicId": "isc-soc-testing-evidence",
+    "taskIds": [
+      "isc-soc-testing-evidence.task-1",
+      "isc-soc-testing-evidence.task-2",
+      "isc-soc-testing-evidence.task-3"
+    ],
+    "skill": "analysis",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      },
+      {
+        "title": "NIST Cybersecurity Framework",
+        "url": "https://www.nist.gov/cyberframework"
+      },
+      {
+        "title": "AICPA SOC resources",
+        "url": "https://www.aicpa-cima.com/resources/landing/system-and-organization-controls-soc-suite-of-services"
+      }
+    ]
+  },
+  "difficulty": "advanced",
+  "fields": [
+    {
+      "id": "isc-m3-tbs4-f1",
+      "label": "Improve test A",
+      "type": "select",
+      "options": [
+        {
+          "value": "Obtain appropriate corroborating operating evidence",
+          "label": "Obtain appropriate corroborating operating evidence"
+        },
+        {
+          "value": "Rely only on the policy title",
+          "label": "Rely only on the policy title"
+        },
+        {
+          "value": "Remove the control objective",
+          "label": "Remove the control objective"
+        },
+        {
+          "value": "Assume all monthly controls work",
+          "label": "Assume all monthly controls work"
+        }
+      ],
+      "correct": "Obtain appropriate corroborating operating evidence",
+      "explanation": "Inquiry alone does not ordinarily establish period-long effectiveness.",
+      "topicId": "isc-soc-testing-evidence"
+    },
+    {
+      "id": "isc-m3-tbs4-f2",
+      "label": "Improve test B",
+      "type": "select",
+      "options": [
+        {
+          "value": "Use the relevant administrator-access population",
+          "label": "Use the relevant administrator-access population"
+        },
+        {
+          "value": "Increase only the ordinary-user sample",
+          "label": "Increase only the ordinary-user sample"
+        },
+        {
+          "value": "Ignore administrators",
+          "label": "Ignore administrators"
+        },
+        {
+          "value": "Sample unrelated invoices",
+          "label": "Sample unrelated invoices"
+        }
+      ],
+      "correct": "Use the relevant administrator-access population",
+      "explanation": "The population must match the control.",
+      "topicId": "isc-soc-testing-evidence"
+    },
+    {
+      "id": "isc-m3-tbs4-f3",
+      "label": "Improve test C",
+      "type": "select",
+      "options": [
+        {
+          "value": "Retain, investigate, and evaluate the deviation",
+          "label": "Retain, investigate, and evaluate the deviation"
+        },
+        {
+          "value": "Delete all exceptions",
+          "label": "Delete all exceptions"
+        },
+        {
+          "value": "Count only favorable evidence",
+          "label": "Count only favorable evidence"
+        },
+        {
+          "value": "Assume every deviation is harmless",
+          "label": "Assume every deviation is harmless"
+        }
+      ],
+      "correct": "Retain, investigate, and evaluate the deviation",
+      "explanation": "Deviations form part of the evidence and conclusion.",
+      "topicId": "isc-soc-testing-evidence"
+    },
+    {
+      "id": "isc-m3-tbs4-f4",
+      "label": "Improve test D",
+      "type": "select",
+      "options": [
+        {
+          "value": "Investigate the unsupported quarter and assess significance",
+          "label": "Investigate the unsupported quarter and assess significance"
+        },
+        {
+          "value": "Claim four supported reviews",
+          "label": "Claim four supported reviews"
+        },
+        {
+          "value": "Assume signatures are unnecessary in every case",
+          "label": "Assume signatures are unnecessary in every case"
+        },
+        {
+          "value": "Ignore the report period",
+          "label": "Ignore the report period"
+        }
+      ],
+      "correct": "Investigate the unsupported quarter and assess significance",
+      "explanation": "The missing quarter needs an evidence-based evaluation.",
+      "topicId": "isc-soc-testing-evidence"
+    }
+  ],
+  "exhibits": [
+    {
+      "id": "isc-m3-tbs4-ex1",
+      "title": "Testing observations",
+      "html": "<p>A: Inquiry alone is used to conclude a monthly reconciliation operated all year. B: Administrator access is tested using only ordinary-user requests. C: One deviation is removed from the results without investigation. D: A quarterly review has support for three quarters only.</p>"
+    },
+    {
+      "id": "isc-m3-tbs4-ex2",
+      "title": "Objective",
+      "html": "<p>Obtain sufficient appropriate evidence about the described controls over the report period.</p>"
+    }
+  ],
+  "explanation": "<h3>Improve test A</h3><p>Inquiry alone does not ordinarily establish period-long effectiveness.</p><h3>Improve test B</h3><p>The population must match the control.</p><h3>Improve test C</h3><p>Deviations form part of the evidence and conclusion.</p><h3>Improve test D</h3><p>The missing quarter needs an evidence-based evaluation.</p>"
+}

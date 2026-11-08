@@ -1,0 +1,1763 @@
+{
+  "id": "tcp-m3-practice",
+  "title": "Entity Tax Planning Practice",
+  "courseId": "tcp",
+  "moduleId": 3,
+  "selection": "per-lesson",
+  "feedback": "immediate",
+  "passPercent": 80,
+  "questions": [
+    {
+      "id": "tcp-m3-l1-q1",
+      "courseId": "tcp",
+      "moduleId": 3,
+      "lessonId": "tcp-m3-l1",
+      "topic": "Entity Choice & After-Tax Cash Flow",
+      "prompt": "Corporate pretax income is $200,000 and entity tax rate 21%. What remains before shareholder tax?",
+      "choices": [
+        {
+          "id": "tcp-m3-l1-q1-a0",
+          "text": "$200,000."
+        },
+        {
+          "id": "tcp-m3-l1-q1-a1",
+          "text": "$42,000."
+        },
+        {
+          "id": "tcp-m3-l1-q1-a2",
+          "text": "$158,000."
+        },
+        {
+          "id": "tcp-m3-l1-q1-a3",
+          "text": "$180,000."
+        }
+      ],
+      "correctChoiceId": "tcp-m3-l1-q1-a2",
+      "explanation": "$200,000 × 79% = $158,000.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "tcp",
+        "blueprintYear": 2026,
+        "areaId": "tcp-III",
+        "groupId": "A",
+        "topicId": "tcp-entity-selection",
+        "taskIds": [
+          "tcp-entity-selection.task-1"
+        ],
+        "skill": "application",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          }
+        ]
+      }
+    },
+    {
+      "id": "tcp-m3-l1-q2",
+      "courseId": "tcp",
+      "moduleId": 3,
+      "lessonId": "tcp-m3-l1",
+      "topic": "Entity Choice & After-Tax Cash Flow",
+      "prompt": "The corporation distributes that $158,000 and the supplied dividend tax rate is 15%. What is shareholder tax?",
+      "choices": [
+        {
+          "id": "tcp-m3-l1-q2-a0",
+          "text": "$30,000."
+        },
+        {
+          "id": "tcp-m3-l1-q2-a1",
+          "text": "$42,000."
+        },
+        {
+          "id": "tcp-m3-l1-q2-a2",
+          "text": "$158,000."
+        },
+        {
+          "id": "tcp-m3-l1-q2-a3",
+          "text": "$23,700."
+        }
+      ],
+      "correctChoiceId": "tcp-m3-l1-q2-a3",
+      "explanation": "15% × $158,000 = $23,700.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "tcp",
+        "blueprintYear": 2026,
+        "areaId": "tcp-III",
+        "groupId": "A",
+        "topicId": "tcp-entity-selection",
+        "taskIds": [
+          "tcp-entity-selection.task-2"
+        ],
+        "skill": "application",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          }
+        ]
+      }
+    },
+    {
+      "id": "tcp-m3-l1-q3",
+      "courseId": "tcp",
+      "moduleId": 3,
+      "lessonId": "tcp-m3-l1",
+      "topic": "Entity Choice & After-Tax Cash Flow",
+      "prompt": "Under those assumptions, what is combined entity and shareholder tax?",
+      "choices": [
+        {
+          "id": "tcp-m3-l1-q3-a0",
+          "text": "$65,700."
+        },
+        {
+          "id": "tcp-m3-l1-q3-a1",
+          "text": "$42,000."
+        },
+        {
+          "id": "tcp-m3-l1-q3-a2",
+          "text": "$23,700."
+        },
+        {
+          "id": "tcp-m3-l1-q3-a3",
+          "text": "$72,000."
+        }
+      ],
+      "correctChoiceId": "tcp-m3-l1-q3-a0",
+      "explanation": "$42,000 entity tax + $23,700 owner tax.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "tcp",
+        "blueprintYear": 2026,
+        "areaId": "tcp-III",
+        "groupId": "A",
+        "topicId": "tcp-entity-selection",
+        "taskIds": [
+          "tcp-entity-selection.task-3"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          }
+        ]
+      }
+    },
+    {
+      "id": "tcp-m3-l1-q4",
+      "courseId": "tcp",
+      "moduleId": 3,
+      "lessonId": "tcp-m3-l1",
+      "topic": "Entity Choice & After-Tax Cash Flow",
+      "prompt": "A pass-through owner is allocated taxable income but receives no distribution. What is a possible consequence?",
+      "choices": [
+        {
+          "id": "tcp-m3-l1-q4-a0",
+          "text": "No tax can ever apply without cash."
+        },
+        {
+          "id": "tcp-m3-l1-q4-a1",
+          "text": "Tax may be due despite no current cash distribution."
+        },
+        {
+          "id": "tcp-m3-l1-q4-a2",
+          "text": "The allocation is automatically a gift."
+        },
+        {
+          "id": "tcp-m3-l1-q4-a3",
+          "text": "The entity always pays every owner’s tax."
+        }
+      ],
+      "correctChoiceId": "tcp-m3-l1-q4-a1",
+      "explanation": "Pass-through income and distributions are different concepts.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "tcp",
+        "blueprintYear": 2026,
+        "areaId": "tcp-III",
+        "groupId": "A",
+        "topicId": "tcp-entity-selection",
+        "taskIds": [
+          "tcp-entity-selection.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          }
+        ]
+      }
+    },
+    {
+      "id": "tcp-m3-l1-q5",
+      "courseId": "tcp",
+      "moduleId": 3,
+      "lessonId": "tcp-m3-l1",
+      "topic": "Entity Choice & After-Tax Cash Flow",
+      "prompt": "Why consider ownership eligibility when selecting S treatment?",
+      "choices": [
+        {
+          "id": "tcp-m3-l1-q5-a0",
+          "text": "Every possible owner qualifies automatically."
+        },
+        {
+          "id": "tcp-m3-l1-q5-a1",
+          "text": "Only the business name matters."
+        },
+        {
+          "id": "tcp-m3-l1-q5-a2",
+          "text": "Certain shareholders and capital structures may not qualify."
+        },
+        {
+          "id": "tcp-m3-l1-q5-a3",
+          "text": "Eligibility is decided solely by the lowest rate."
+        }
+      ],
+      "correctChoiceId": "tcp-m3-l1-q5-a2",
+      "explanation": "Tax elections have statutory conditions and business constraints.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "tcp",
+        "blueprintYear": 2026,
+        "areaId": "tcp-III",
+        "groupId": "A",
+        "topicId": "tcp-entity-selection",
+        "taskIds": [
+          "tcp-entity-selection.task-2"
+        ],
+        "skill": "application",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          }
+        ]
+      }
+    },
+    {
+      "id": "tcp-m3-l1-q6",
+      "courseId": "tcp",
+      "moduleId": 3,
+      "lessonId": "tcp-m3-l1",
+      "topic": "Entity Choice & After-Tax Cash Flow",
+      "prompt": "What should an entity-choice recommendation consider beyond current tax rates?",
+      "choices": [
+        {
+          "id": "tcp-m3-l1-q6-a0",
+          "text": "Only the first-year spreadsheet result."
+        },
+        {
+          "id": "tcp-m3-l1-q6-a1",
+          "text": "Only the shortest tax form."
+        },
+        {
+          "id": "tcp-m3-l1-q6-a2",
+          "text": "Only a competitor’s legal name."
+        },
+        {
+          "id": "tcp-m3-l1-q6-a3",
+          "text": "Financing, liability, ownership, benefits, compliance, and exit consequences."
+        }
+      ],
+      "correctChoiceId": "tcp-m3-l1-q6-a3",
+      "explanation": "Planning is a multivariable business decision.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "tcp",
+        "blueprintYear": 2026,
+        "areaId": "tcp-III",
+        "groupId": "A",
+        "topicId": "tcp-entity-selection",
+        "taskIds": [
+          "tcp-entity-selection.task-3"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          }
+        ]
+      }
+    },
+    {
+      "id": "tcp-m3-l1-q7",
+      "courseId": "tcp",
+      "moduleId": 3,
+      "lessonId": "tcp-m3-l1",
+      "topic": "Entity Choice & After-Tax Cash Flow",
+      "prompt": "Compare two simplified structures using only the supplied rates and assumptions. C corporation alternative: Income $300,000; entity tax 21%; all after-tax earnings distributed; owner dividend rate 15%. Pass-through alternative: The same $300,000 is taxed once at the owner’s supplied 30% rate and fully distributed. Ignore state, employment, QBI, and all other effects. Required: C corporation entity tax.",
+      "choices": [
+        {
+          "id": "tcp-m3-l1-q7-a0",
+          "text": "63000"
+        },
+        {
+          "id": "tcp-m3-l1-q7-a1",
+          "text": "90000"
+        },
+        {
+          "id": "tcp-m3-l1-q7-a2",
+          "text": "45000"
+        },
+        {
+          "id": "tcp-m3-l1-q7-a3",
+          "text": "237000"
+        }
+      ],
+      "correctChoiceId": "tcp-m3-l1-q7-a0",
+      "explanation": "$300,000 × 21% = $63,000.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "tcp",
+        "blueprintYear": 2026,
+        "areaId": "tcp-III",
+        "groupId": "A",
+        "topicId": "tcp-entity-selection",
+        "taskIds": [
+          "tcp-entity-selection.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          }
+        ]
+      },
+      "familyId": "tcp-m3-tbs1"
+    },
+    {
+      "id": "tcp-m3-l1-q8",
+      "courseId": "tcp",
+      "moduleId": 3,
+      "lessonId": "tcp-m3-l1",
+      "topic": "Entity Choice & After-Tax Cash Flow",
+      "prompt": "Compare two simplified structures using only the supplied rates and assumptions. C corporation alternative: Income $300,000; entity tax 21%; all after-tax earnings distributed; owner dividend rate 15%. Pass-through alternative: The same $300,000 is taxed once at the owner’s supplied 30% rate and fully distributed. Ignore state, employment, QBI, and all other effects. Required: C corporation shareholder dividend tax.",
+      "choices": [
+        {
+          "id": "tcp-m3-l1-q8-a0",
+          "text": "45000"
+        },
+        {
+          "id": "tcp-m3-l1-q8-a1",
+          "text": "35550"
+        },
+        {
+          "id": "tcp-m3-l1-q8-a2",
+          "text": "63000"
+        },
+        {
+          "id": "tcp-m3-l1-q8-a3",
+          "text": "98550"
+        }
+      ],
+      "correctChoiceId": "tcp-m3-l1-q8-a1",
+      "explanation": "($300,000 − $63,000) × 15% = $35,550.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "tcp",
+        "blueprintYear": 2026,
+        "areaId": "tcp-III",
+        "groupId": "A",
+        "topicId": "tcp-entity-selection",
+        "taskIds": [
+          "tcp-entity-selection.task-2"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          }
+        ]
+      },
+      "familyId": "tcp-m3-tbs1"
+    },
+    {
+      "id": "tcp-m3-l1-q9",
+      "courseId": "tcp",
+      "moduleId": 3,
+      "lessonId": "tcp-m3-l1",
+      "topic": "Entity Choice & After-Tax Cash Flow",
+      "prompt": "Compare two simplified structures using only the supplied rates and assumptions. C corporation alternative: Income $300,000; entity tax 21%; all after-tax earnings distributed; owner dividend rate 15%. Pass-through alternative: The same $300,000 is taxed once at the owner’s supplied 30% rate and fully distributed. Ignore state, employment, QBI, and all other effects. Required: After-tax owner cash under the C corporation model.",
+      "choices": [
+        {
+          "id": "tcp-m3-l1-q9-a0",
+          "text": "237000"
+        },
+        {
+          "id": "tcp-m3-l1-q9-a1",
+          "text": "210000"
+        },
+        {
+          "id": "tcp-m3-l1-q9-a2",
+          "text": "201450"
+        },
+        {
+          "id": "tcp-m3-l1-q9-a3",
+          "text": "255000"
+        }
+      ],
+      "correctChoiceId": "tcp-m3-l1-q9-a2",
+      "explanation": "$300,000 − $63,000 − $35,550 = $201,450.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "tcp",
+        "blueprintYear": 2026,
+        "areaId": "tcp-III",
+        "groupId": "A",
+        "topicId": "tcp-entity-selection",
+        "taskIds": [
+          "tcp-entity-selection.task-3"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          }
+        ]
+      },
+      "familyId": "tcp-m3-tbs1"
+    },
+    {
+      "id": "tcp-m3-l1-q10",
+      "courseId": "tcp",
+      "moduleId": 3,
+      "lessonId": "tcp-m3-l1",
+      "topic": "Entity Choice & After-Tax Cash Flow",
+      "prompt": "Compare two simplified structures using only the supplied rates and assumptions. C corporation alternative: Income $300,000; entity tax 21%; all after-tax earnings distributed; owner dividend rate 15%. Pass-through alternative: The same $300,000 is taxed once at the owner’s supplied 30% rate and fully distributed. Ignore state, employment, QBI, and all other effects. Required: After-tax owner cash under the pass-through model.",
+      "choices": [
+        {
+          "id": "tcp-m3-l1-q10-a0",
+          "text": "300000"
+        },
+        {
+          "id": "tcp-m3-l1-q10-a1",
+          "text": "90000"
+        },
+        {
+          "id": "tcp-m3-l1-q10-a2",
+          "text": "201450"
+        },
+        {
+          "id": "tcp-m3-l1-q10-a3",
+          "text": "210000"
+        }
+      ],
+      "correctChoiceId": "tcp-m3-l1-q10-a3",
+      "explanation": "$300,000 × 70% = $210,000 under the simplified assumptions.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "tcp",
+        "blueprintYear": 2026,
+        "areaId": "tcp-III",
+        "groupId": "A",
+        "topicId": "tcp-entity-selection",
+        "taskIds": [
+          "tcp-entity-selection.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          }
+        ]
+      },
+      "familyId": "tcp-m3-tbs1"
+    },
+    {
+      "id": "tcp-m3-l2-q1",
+      "courseId": "tcp",
+      "moduleId": 3,
+      "lessonId": "tcp-m3-l2",
+      "topic": "Formation, Asset Versus Stock Transactions & Liquidation",
+      "prompt": "A qualifying Section 351 exchange has realized gain $50,000 and cash boot $12,000, with no other complications. What gain is recognized?",
+      "choices": [
+        {
+          "id": "tcp-m3-l2-q1-a0",
+          "text": "$50,000."
+        },
+        {
+          "id": "tcp-m3-l2-q1-a1",
+          "text": "$38,000."
+        },
+        {
+          "id": "tcp-m3-l2-q1-a2",
+          "text": "Zero regardless of boot."
+        },
+        {
+          "id": "tcp-m3-l2-q1-a3",
+          "text": "$12,000."
+        }
+      ],
+      "correctChoiceId": "tcp-m3-l2-q1-a3",
+      "explanation": "Under the supplied rules, recognized gain is limited to the lesser of realized gain and boot.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "tcp",
+        "blueprintYear": 2026,
+        "areaId": "tcp-III",
+        "groupId": "B",
+        "topicId": "tcp-formation-restructuring",
+        "taskIds": [
+          "tcp-formation-restructuring.task-1"
+        ],
+        "skill": "application",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          }
+        ]
+      }
+    },
+    {
+      "id": "tcp-m3-l2-q2",
+      "courseId": "tcp",
+      "moduleId": 3,
+      "lessonId": "tcp-m3-l2",
+      "topic": "Formation, Asset Versus Stock Transactions & Liquidation",
+      "prompt": "Transferred basis is $70,000, cash boot received $12,000, and recognized gain $12,000. No other adjustments apply. What is stock basis?",
+      "choices": [
+        {
+          "id": "tcp-m3-l2-q2-a0",
+          "text": "$70,000."
+        },
+        {
+          "id": "tcp-m3-l2-q2-a1",
+          "text": "$58,000."
+        },
+        {
+          "id": "tcp-m3-l2-q2-a2",
+          "text": "$82,000."
+        },
+        {
+          "id": "tcp-m3-l2-q2-a3",
+          "text": "$94,000."
+        }
+      ],
+      "correctChoiceId": "tcp-m3-l2-q2-a0",
+      "explanation": "$70,000 − $12,000 + $12,000 = $70,000.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "tcp",
+        "blueprintYear": 2026,
+        "areaId": "tcp-III",
+        "groupId": "B",
+        "topicId": "tcp-formation-restructuring",
+        "taskIds": [
+          "tcp-formation-restructuring.task-2"
+        ],
+        "skill": "application",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          }
+        ]
+      }
+    },
+    {
+      "id": "tcp-m3-l2-q3",
+      "courseId": "tcp",
+      "moduleId": 3,
+      "lessonId": "tcp-m3-l2",
+      "topic": "Formation, Asset Versus Stock Transactions & Liquidation",
+      "prompt": "Why may a buyer prefer a taxable asset acquisition to a stock acquisition?",
+      "choices": [
+        {
+          "id": "tcp-m3-l2-q3-a0",
+          "text": "Asset purchases always eliminate every liability."
+        },
+        {
+          "id": "tcp-m3-l2-q3-a1",
+          "text": "The available asset-basis consequences may create future deductions or other benefits."
+        },
+        {
+          "id": "tcp-m3-l2-q3-a2",
+          "text": "Stock purchases never have any tax effect."
+        },
+        {
+          "id": "tcp-m3-l2-q3-a3",
+          "text": "Only the transaction’s name matters."
+        }
+      ],
+      "correctChoiceId": "tcp-m3-l2-q3-a1",
+      "explanation": "Tax basis and deduction consequences can differ, subject to the actual structure and law.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "tcp",
+        "blueprintYear": 2026,
+        "areaId": "tcp-III",
+        "groupId": "B",
+        "topicId": "tcp-formation-restructuring",
+        "taskIds": [
+          "tcp-formation-restructuring.task-3"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          }
+        ]
+      }
+    },
+    {
+      "id": "tcp-m3-l2-q4",
+      "courseId": "tcp",
+      "moduleId": 3,
+      "lessonId": "tcp-m3-l2",
+      "topic": "Formation, Asset Versus Stock Transactions & Liquidation",
+      "prompt": "Does calling a transaction a reorganization establish tax-free treatment?",
+      "choices": [
+        {
+          "id": "tcp-m3-l2-q4-a0",
+          "text": "Yes, the label controls."
+        },
+        {
+          "id": "tcp-m3-l2-q4-a1",
+          "text": "Only if the document is notarized."
+        },
+        {
+          "id": "tcp-m3-l2-q4-a2",
+          "text": "No; statutory requirements and facts must be satisfied."
+        },
+        {
+          "id": "tcp-m3-l2-q4-a3",
+          "text": "Every restructuring is automatically tax-free."
+        }
+      ],
+      "correctChoiceId": "tcp-m3-l2-q4-a2",
+      "explanation": "Qualification depends on substantive legal requirements.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "tcp",
+        "blueprintYear": 2026,
+        "areaId": "tcp-III",
+        "groupId": "B",
+        "topicId": "tcp-formation-restructuring",
+        "taskIds": [
+          "tcp-formation-restructuring.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          }
+        ]
+      }
+    },
+    {
+      "id": "tcp-m3-l2-q5",
+      "courseId": "tcp",
+      "moduleId": 3,
+      "lessonId": "tcp-m3-l2",
+      "topic": "Formation, Asset Versus Stock Transactions & Liquidation",
+      "prompt": "Why evaluate both entity and shareholder consequences in C corporation liquidation planning?",
+      "choices": [
+        {
+          "id": "tcp-m3-l2-q5-a0",
+          "text": "Only the shareholder can ever owe tax."
+        },
+        {
+          "id": "tcp-m3-l2-q5-a1",
+          "text": "Only the corporation can ever owe tax."
+        },
+        {
+          "id": "tcp-m3-l2-q5-a2",
+          "text": "Liquidation always erases gain."
+        },
+        {
+          "id": "tcp-m3-l2-q5-a3",
+          "text": "More than one tax layer may apply."
+        }
+      ],
+      "correctChoiceId": "tcp-m3-l2-q5-a3",
+      "explanation": "Entity and owner provisions can create distinct consequences.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "tcp",
+        "blueprintYear": 2026,
+        "areaId": "tcp-III",
+        "groupId": "B",
+        "topicId": "tcp-formation-restructuring",
+        "taskIds": [
+          "tcp-formation-restructuring.task-2"
+        ],
+        "skill": "application",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          }
+        ]
+      }
+    },
+    {
+      "id": "tcp-m3-l2-q6",
+      "courseId": "tcp",
+      "moduleId": 3,
+      "lessonId": "tcp-m3-l2",
+      "topic": "Formation, Asset Versus Stock Transactions & Liquidation",
+      "prompt": "What should a transaction model do with deferred gain?",
+      "choices": [
+        {
+          "id": "tcp-m3-l2-q6-a0",
+          "text": "Track its preservation through the applicable basis and recognition rules."
+        },
+        {
+          "id": "tcp-m3-l2-q6-a1",
+          "text": "Assume it permanently disappears."
+        },
+        {
+          "id": "tcp-m3-l2-q6-a2",
+          "text": "Record it as a refundable credit."
+        },
+        {
+          "id": "tcp-m3-l2-q6-a3",
+          "text": "Ignore replacement or stock basis."
+        }
+      ],
+      "correctChoiceId": "tcp-m3-l2-q6-a0",
+      "explanation": "Deferral typically changes timing rather than eliminating economic gain.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "tcp",
+        "blueprintYear": 2026,
+        "areaId": "tcp-III",
+        "groupId": "B",
+        "topicId": "tcp-formation-restructuring",
+        "taskIds": [
+          "tcp-formation-restructuring.task-3"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          }
+        ]
+      }
+    },
+    {
+      "id": "tcp-m3-l2-q7",
+      "courseId": "tcp",
+      "moduleId": 3,
+      "lessonId": "tcp-m3-l2",
+      "topic": "Formation, Asset Versus Stock Transactions & Liquidation",
+      "prompt": "Compute gain and stock basis using the explicitly assumed Section 351 qualification. Transferred property: Adjusted tax basis $90,000; fair value $150,000. Consideration and assumptions: Stock worth $130,000 and cash $20,000 are received. All required control and property conditions are met. No liabilities, services, or other adjustments apply. Required: Realized gain.",
+      "choices": [
+        {
+          "id": "tcp-m3-l2-q7-a0",
+          "text": "150000"
+        },
+        {
+          "id": "tcp-m3-l2-q7-a1",
+          "text": "60000"
+        },
+        {
+          "id": "tcp-m3-l2-q7-a2",
+          "text": "40000"
+        },
+        {
+          "id": "tcp-m3-l2-q7-a3",
+          "text": "20000"
+        }
+      ],
+      "correctChoiceId": "tcp-m3-l2-q7-a1",
+      "explanation": "$150,000 amount realized less $90,000 basis.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "tcp",
+        "blueprintYear": 2026,
+        "areaId": "tcp-III",
+        "groupId": "B",
+        "topicId": "tcp-formation-restructuring",
+        "taskIds": [
+          "tcp-formation-restructuring.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          }
+        ]
+      },
+      "familyId": "tcp-m3-tbs2"
+    },
+    {
+      "id": "tcp-m3-l2-q8",
+      "courseId": "tcp",
+      "moduleId": 3,
+      "lessonId": "tcp-m3-l2",
+      "topic": "Formation, Asset Versus Stock Transactions & Liquidation",
+      "prompt": "Compute gain and stock basis using the explicitly assumed Section 351 qualification. Transferred property: Adjusted tax basis $90,000; fair value $150,000. Consideration and assumptions: Stock worth $130,000 and cash $20,000 are received. All required control and property conditions are met. No liabilities, services, or other adjustments apply. Required: Recognized gain.",
+      "choices": [
+        {
+          "id": "tcp-m3-l2-q8-a0",
+          "text": "60000"
+        },
+        {
+          "id": "tcp-m3-l2-q8-a1",
+          "text": "40000"
+        },
+        {
+          "id": "tcp-m3-l2-q8-a2",
+          "text": "20000"
+        },
+        {
+          "id": "tcp-m3-l2-q8-a3",
+          "text": "0"
+        }
+      ],
+      "correctChoiceId": "tcp-m3-l2-q8-a2",
+      "explanation": "The $20,000 boot is less than realized gain.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "tcp",
+        "blueprintYear": 2026,
+        "areaId": "tcp-III",
+        "groupId": "B",
+        "topicId": "tcp-formation-restructuring",
+        "taskIds": [
+          "tcp-formation-restructuring.task-2"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          }
+        ]
+      },
+      "familyId": "tcp-m3-tbs2"
+    },
+    {
+      "id": "tcp-m3-l2-q9",
+      "courseId": "tcp",
+      "moduleId": 3,
+      "lessonId": "tcp-m3-l2",
+      "topic": "Formation, Asset Versus Stock Transactions & Liquidation",
+      "prompt": "Compute gain and stock basis using the explicitly assumed Section 351 qualification. Transferred property: Adjusted tax basis $90,000; fair value $150,000. Consideration and assumptions: Stock worth $130,000 and cash $20,000 are received. All required control and property conditions are met. No liabilities, services, or other adjustments apply. Required: Deferred gain.",
+      "choices": [
+        {
+          "id": "tcp-m3-l2-q9-a0",
+          "text": "60000"
+        },
+        {
+          "id": "tcp-m3-l2-q9-a1",
+          "text": "20000"
+        },
+        {
+          "id": "tcp-m3-l2-q9-a2",
+          "text": "90000"
+        },
+        {
+          "id": "tcp-m3-l2-q9-a3",
+          "text": "40000"
+        }
+      ],
+      "correctChoiceId": "tcp-m3-l2-q9-a3",
+      "explanation": "$60,000 realized less $20,000 recognized.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "tcp",
+        "blueprintYear": 2026,
+        "areaId": "tcp-III",
+        "groupId": "B",
+        "topicId": "tcp-formation-restructuring",
+        "taskIds": [
+          "tcp-formation-restructuring.task-3"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          }
+        ]
+      },
+      "familyId": "tcp-m3-tbs2"
+    },
+    {
+      "id": "tcp-m3-l2-q10",
+      "courseId": "tcp",
+      "moduleId": 3,
+      "lessonId": "tcp-m3-l2",
+      "topic": "Formation, Asset Versus Stock Transactions & Liquidation",
+      "prompt": "Compute gain and stock basis using the explicitly assumed Section 351 qualification. Transferred property: Adjusted tax basis $90,000; fair value $150,000. Consideration and assumptions: Stock worth $130,000 and cash $20,000 are received. All required control and property conditions are met. No liabilities, services, or other adjustments apply. Required: Basis in stock received.",
+      "choices": [
+        {
+          "id": "tcp-m3-l2-q10-a0",
+          "text": "90000"
+        },
+        {
+          "id": "tcp-m3-l2-q10-a1",
+          "text": "130000"
+        },
+        {
+          "id": "tcp-m3-l2-q10-a2",
+          "text": "70000"
+        },
+        {
+          "id": "tcp-m3-l2-q10-a3",
+          "text": "110000"
+        }
+      ],
+      "correctChoiceId": "tcp-m3-l2-q10-a0",
+      "explanation": "$90,000 basis − $20,000 cash + $20,000 recognized gain.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "tcp",
+        "blueprintYear": 2026,
+        "areaId": "tcp-III",
+        "groupId": "B",
+        "topicId": "tcp-formation-restructuring",
+        "taskIds": [
+          "tcp-formation-restructuring.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          }
+        ]
+      },
+      "familyId": "tcp-m3-tbs2"
+    },
+    {
+      "id": "tcp-m3-l3-q1",
+      "courseId": "tcp",
+      "moduleId": 3,
+      "lessonId": "tcp-m3-l3",
+      "topic": "Distribution Planning, Timing & Tax-Efficient Alternatives",
+      "prompt": "A legally available $40,000 deduction saves tax at 35% now or 25% next year. Ignore time value. What additional saving comes from taking it now?",
+      "choices": [
+        {
+          "id": "tcp-m3-l3-q1-a0",
+          "text": "$4,000."
+        },
+        {
+          "id": "tcp-m3-l3-q1-a1",
+          "text": "$14,000."
+        },
+        {
+          "id": "tcp-m3-l3-q1-a2",
+          "text": "$10,000."
+        },
+        {
+          "id": "tcp-m3-l3-q1-a3",
+          "text": "$24,000."
+        }
+      ],
+      "correctChoiceId": "tcp-m3-l3-q1-a0",
+      "explanation": "10% rate difference × $40,000 = $4,000.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "tcp",
+        "blueprintYear": 2026,
+        "areaId": "tcp-III",
+        "groupId": "A-B",
+        "topicId": "tcp-entity-tax-timing",
+        "taskIds": [
+          "tcp-entity-tax-timing.task-1"
+        ],
+        "skill": "application",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          }
+        ]
+      }
+    },
+    {
+      "id": "tcp-m3-l3-q2",
+      "courseId": "tcp",
+      "moduleId": 3,
+      "lessonId": "tcp-m3-l3",
+      "topic": "Distribution Planning, Timing & Tax-Efficient Alternatives",
+      "prompt": "A legally deferrable $60,000 income item would be taxed at 30% now or 20% next year. Ignore other effects. What is the nominal tax reduction from deferral?",
+      "choices": [
+        {
+          "id": "tcp-m3-l3-q2-a0",
+          "text": "$18,000."
+        },
+        {
+          "id": "tcp-m3-l3-q2-a1",
+          "text": "$6,000."
+        },
+        {
+          "id": "tcp-m3-l3-q2-a2",
+          "text": "$12,000."
+        },
+        {
+          "id": "tcp-m3-l3-q2-a3",
+          "text": "$30,000."
+        }
+      ],
+      "correctChoiceId": "tcp-m3-l3-q2-a1",
+      "explanation": "$60,000 × (30% − 20%) = $6,000.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "tcp",
+        "blueprintYear": 2026,
+        "areaId": "tcp-III",
+        "groupId": "A-B",
+        "topicId": "tcp-entity-tax-timing",
+        "taskIds": [
+          "tcp-entity-tax-timing.task-2"
+        ],
+        "skill": "application",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          }
+        ]
+      }
+    },
+    {
+      "id": "tcp-m3-l3-q3",
+      "courseId": "tcp",
+      "moduleId": 3,
+      "lessonId": "tcp-m3-l3",
+      "topic": "Distribution Planning, Timing & Tax-Efficient Alternatives",
+      "prompt": "A distribution plan ignores the owner’s stock basis. What is the concern?",
+      "choices": [
+        {
+          "id": "tcp-m3-l3-q3-a0",
+          "text": "Basis never affects distributions."
+        },
+        {
+          "id": "tcp-m3-l3-q3-a1",
+          "text": "Every distribution is tax-free."
+        },
+        {
+          "id": "tcp-m3-l3-q3-a2",
+          "text": "It may miss gain or other owner-level tax consequences."
+        },
+        {
+          "id": "tcp-m3-l3-q3-a3",
+          "text": "Only the corporation’s bank balance matters."
+        }
+      ],
+      "correctChoiceId": "tcp-m3-l3-q3-a2",
+      "explanation": "Basis and entity-specific ordering rules can affect the tax result.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "tcp",
+        "blueprintYear": 2026,
+        "areaId": "tcp-III",
+        "groupId": "A-B",
+        "topicId": "tcp-entity-tax-timing",
+        "taskIds": [
+          "tcp-entity-tax-timing.task-3"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          }
+        ]
+      }
+    },
+    {
+      "id": "tcp-m3-l3-q4",
+      "courseId": "tcp",
+      "moduleId": 3,
+      "lessonId": "tcp-m3-l3",
+      "topic": "Distribution Planning, Timing & Tax-Efficient Alternatives",
+      "prompt": "Does labeling a payment a loan by itself establish loan treatment?",
+      "choices": [
+        {
+          "id": "tcp-m3-l3-q4-a0",
+          "text": "Yes, any label is conclusive."
+        },
+        {
+          "id": "tcp-m3-l3-q4-a1",
+          "text": "Only the invoice color matters."
+        },
+        {
+          "id": "tcp-m3-l3-q4-a2",
+          "text": "All loans are taxable wages."
+        },
+        {
+          "id": "tcp-m3-l3-q4-a3",
+          "text": "No; the substantive facts and applicable rules matter."
+        }
+      ],
+      "correctChoiceId": "tcp-m3-l3-q4-a3",
+      "explanation": "Substance, documentation, repayment terms, and applicable law determine treatment.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "tcp",
+        "blueprintYear": 2026,
+        "areaId": "tcp-III",
+        "groupId": "A-B",
+        "topicId": "tcp-entity-tax-timing",
+        "taskIds": [
+          "tcp-entity-tax-timing.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          }
+        ]
+      }
+    },
+    {
+      "id": "tcp-m3-l3-q5",
+      "courseId": "tcp",
+      "moduleId": 3,
+      "lessonId": "tcp-m3-l3",
+      "topic": "Distribution Planning, Timing & Tax-Efficient Alternatives",
+      "prompt": "A tax strategy saves $5,000 but creates $9,000 of unavoidable incremental business cost. Ignoring other effects, what is its net economic effect?",
+      "choices": [
+        {
+          "id": "tcp-m3-l3-q5-a0",
+          "text": "$4,000 unfavorable."
+        },
+        {
+          "id": "tcp-m3-l3-q5-a1",
+          "text": "$5,000 favorable."
+        },
+        {
+          "id": "tcp-m3-l3-q5-a2",
+          "text": "$14,000 favorable."
+        },
+        {
+          "id": "tcp-m3-l3-q5-a3",
+          "text": "No economic effect."
+        }
+      ],
+      "correctChoiceId": "tcp-m3-l3-q5-a0",
+      "explanation": "The cost exceeds the saving by $4,000.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "tcp",
+        "blueprintYear": 2026,
+        "areaId": "tcp-III",
+        "groupId": "A-B",
+        "topicId": "tcp-entity-tax-timing",
+        "taskIds": [
+          "tcp-entity-tax-timing.task-2"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          }
+        ]
+      }
+    },
+    {
+      "id": "tcp-m3-l3-q6",
+      "courseId": "tcp",
+      "moduleId": 3,
+      "lessonId": "tcp-m3-l3",
+      "topic": "Distribution Planning, Timing & Tax-Efficient Alternatives",
+      "prompt": "Why consider present value in multiyear tax planning?",
+      "choices": [
+        {
+          "id": "tcp-m3-l3-q6-a0",
+          "text": "All years have identical economic value by definition."
+        },
+        {
+          "id": "tcp-m3-l3-q6-a1",
+          "text": "The timing of cash taxes and benefits affects economic value."
+        },
+        {
+          "id": "tcp-m3-l3-q6-a2",
+          "text": "Present value creates legal eligibility."
+        },
+        {
+          "id": "tcp-m3-l3-q6-a3",
+          "text": "It replaces every tax limitation."
+        }
+      ],
+      "correctChoiceId": "tcp-m3-l3-q6-a1",
+      "explanation": "Timing is economically relevant but does not change legal requirements.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "tcp",
+        "blueprintYear": 2026,
+        "areaId": "tcp-III",
+        "groupId": "A-B",
+        "topicId": "tcp-entity-tax-timing",
+        "taskIds": [
+          "tcp-entity-tax-timing.task-3"
+        ],
+        "skill": "application",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          }
+        ]
+      }
+    },
+    {
+      "id": "tcp-m3-l3-q7",
+      "courseId": "tcp",
+      "moduleId": 3,
+      "lessonId": "tcp-m3-l3",
+      "topic": "Distribution Planning, Timing & Tax-Efficient Alternatives",
+      "prompt": "Compare two legally available deduction dates under the stated simplified assumptions. Tax alternatives: A $100,000 deduction can be taken now at a 32% marginal rate or next year at 24%. Ignore time value, limitations, and other tax effects. Business effect: Taking the deduction now requires $3,000 of incremental business cost that is not otherwise included in the comparison. Ignore tax effects of that cost. Required: Current-year tax saving.",
+      "choices": [
+        {
+          "id": "tcp-m3-l3-q7-a0",
+          "text": "24000"
+        },
+        {
+          "id": "tcp-m3-l3-q7-a1",
+          "text": "8000"
+        },
+        {
+          "id": "tcp-m3-l3-q7-a2",
+          "text": "32000"
+        },
+        {
+          "id": "tcp-m3-l3-q7-a3",
+          "text": "100000"
+        }
+      ],
+      "correctChoiceId": "tcp-m3-l3-q7-a2",
+      "explanation": "$100,000 × 32% = $32,000.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "tcp",
+        "blueprintYear": 2026,
+        "areaId": "tcp-III",
+        "groupId": "A-B",
+        "topicId": "tcp-entity-tax-timing",
+        "taskIds": [
+          "tcp-entity-tax-timing.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          }
+        ]
+      },
+      "familyId": "tcp-m3-tbs3"
+    },
+    {
+      "id": "tcp-m3-l3-q8",
+      "courseId": "tcp",
+      "moduleId": 3,
+      "lessonId": "tcp-m3-l3",
+      "topic": "Distribution Planning, Timing & Tax-Efficient Alternatives",
+      "prompt": "Compare two legally available deduction dates under the stated simplified assumptions. Tax alternatives: A $100,000 deduction can be taken now at a 32% marginal rate or next year at 24%. Ignore time value, limitations, and other tax effects. Business effect: Taking the deduction now requires $3,000 of incremental business cost that is not otherwise included in the comparison. Ignore tax effects of that cost. Required: Next-year tax saving.",
+      "choices": [
+        {
+          "id": "tcp-m3-l3-q8-a0",
+          "text": "32000"
+        },
+        {
+          "id": "tcp-m3-l3-q8-a1",
+          "text": "76000"
+        },
+        {
+          "id": "tcp-m3-l3-q8-a2",
+          "text": "8000"
+        },
+        {
+          "id": "tcp-m3-l3-q8-a3",
+          "text": "24000"
+        }
+      ],
+      "correctChoiceId": "tcp-m3-l3-q8-a3",
+      "explanation": "$100,000 × 24% = $24,000.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "tcp",
+        "blueprintYear": 2026,
+        "areaId": "tcp-III",
+        "groupId": "A-B",
+        "topicId": "tcp-entity-tax-timing",
+        "taskIds": [
+          "tcp-entity-tax-timing.task-2"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          }
+        ]
+      },
+      "familyId": "tcp-m3-tbs3"
+    },
+    {
+      "id": "tcp-m3-l3-q9",
+      "courseId": "tcp",
+      "moduleId": 3,
+      "lessonId": "tcp-m3-l3",
+      "topic": "Distribution Planning, Timing & Tax-Efficient Alternatives",
+      "prompt": "Compare two legally available deduction dates under the stated simplified assumptions. Tax alternatives: A $100,000 deduction can be taken now at a 32% marginal rate or next year at 24%. Ignore time value, limitations, and other tax effects. Business effect: Taking the deduction now requires $3,000 of incremental business cost that is not otherwise included in the comparison. Ignore tax effects of that cost. Required: Additional nominal tax saving from acceleration.",
+      "choices": [
+        {
+          "id": "tcp-m3-l3-q9-a0",
+          "text": "8000"
+        },
+        {
+          "id": "tcp-m3-l3-q9-a1",
+          "text": "32000"
+        },
+        {
+          "id": "tcp-m3-l3-q9-a2",
+          "text": "24000"
+        },
+        {
+          "id": "tcp-m3-l3-q9-a3",
+          "text": "56000"
+        }
+      ],
+      "correctChoiceId": "tcp-m3-l3-q9-a0",
+      "explanation": "$32,000 − $24,000 = $8,000.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "tcp",
+        "blueprintYear": 2026,
+        "areaId": "tcp-III",
+        "groupId": "A-B",
+        "topicId": "tcp-entity-tax-timing",
+        "taskIds": [
+          "tcp-entity-tax-timing.task-3"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          }
+        ]
+      },
+      "familyId": "tcp-m3-tbs3"
+    },
+    {
+      "id": "tcp-m3-l3-q10",
+      "courseId": "tcp",
+      "moduleId": 3,
+      "lessonId": "tcp-m3-l3",
+      "topic": "Distribution Planning, Timing & Tax-Efficient Alternatives",
+      "prompt": "Compare two legally available deduction dates under the stated simplified assumptions. Tax alternatives: A $100,000 deduction can be taken now at a 32% marginal rate or next year at 24%. Ignore time value, limitations, and other tax effects. Business effect: Taking the deduction now requires $3,000 of incremental business cost that is not otherwise included in the comparison. Ignore tax effects of that cost. Required: Net benefit after the stated incremental business cost.",
+      "choices": [
+        {
+          "id": "tcp-m3-l3-q10-a0",
+          "text": "8000"
+        },
+        {
+          "id": "tcp-m3-l3-q10-a1",
+          "text": "5000"
+        },
+        {
+          "id": "tcp-m3-l3-q10-a2",
+          "text": "11000"
+        },
+        {
+          "id": "tcp-m3-l3-q10-a3",
+          "text": "3000"
+        }
+      ],
+      "correctChoiceId": "tcp-m3-l3-q10-a1",
+      "explanation": "$8,000 − $3,000 = $5,000.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "tcp",
+        "blueprintYear": 2026,
+        "areaId": "tcp-III",
+        "groupId": "A-B",
+        "topicId": "tcp-entity-tax-timing",
+        "taskIds": [
+          "tcp-entity-tax-timing.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          }
+        ]
+      },
+      "familyId": "tcp-m3-tbs3"
+    }
+  ]
+}

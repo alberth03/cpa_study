@@ -1,0 +1,103 @@
+{
+  "id": "aud-m1-l3",
+  "courseId": "aud",
+  "moduleId": 1,
+  "number": 3,
+  "title": "Engagement Scope, Acceptance & Written Terms",
+  "description": "Match assurance levels to audits, reviews, compilations, preparations, and agreed-upon procedures.",
+  "url": "/learn/aud/modules/1/lessons/3",
+  "metadata": {
+    "section": "aud",
+    "blueprintYear": 2026,
+    "areaId": "aud-I",
+    "groupId": "C-D",
+    "topicId": "aud-engagement-acceptance",
+    "taskIds": [
+      "aud-engagement-acceptance.task-1",
+      "aud-engagement-acceptance.task-2",
+      "aud-engagement-acceptance.task-3"
+    ],
+    "skill": "application",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      },
+      {
+        "title": "AICPA auditing standards",
+        "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+      },
+      {
+        "title": "PCAOB standards",
+        "url": "https://pcaobus.org/oversight/standards"
+      }
+    ]
+  },
+  "html": "<h2>Learning objectives</h2><ul><li>Match assurance levels to audits, reviews, compilations, preparations, and agreed-upon procedures.</li><li>Evaluate engagement preconditions and predecessor communications.</li><li>Document responsibilities and evaluate requests to change engagement type.</li></ul><h2>Understand the concepts</h2><p>Begin with the service requested. An audit seeks reasonable assurance and an opinion. A review of historical financial statements generally provides limited assurance through inquiry and analytical procedures, with additional procedures when needed. A compilation provides no assurance, and preparation under SSARS does not provide an accountant’s report. Agreed-upon procedures report procedures and findings rather than an opinion or assurance conclusion.</p><p>An engagement requires an acceptable financial reporting framework and management’s acknowledgment of responsibility for the financial statements, relevant internal control, and unrestricted access to information and people. A limitation imposed before acceptance that would lead to a disclaimer ordinarily makes acceptance inappropriate unless law or regulation requires the engagement. Access to evidence is an engagement precondition, not a convenience to be negotiated away after the opinion is promised.</p><p>Before accepting a successor audit, obtain the prospective client’s permission to communicate with the predecessor. Inquire about integrity, disagreements with management, fraud and noncompliance matters, and reasons for the change, as relevant under the applicable standard. A refusal to authorize communication is a fact to evaluate, not proof that the predecessor did poor work. Document the implications for acceptance.</p><p>A written engagement letter records the objective and scope, auditor and management responsibilities, applicable reporting framework, and expected reporting form, including the possibility that circumstances may change it. Reassess terms when circumstances change. A legitimate change in client needs may justify a different service; reducing assurance merely to avoid an unfavorable audit result does not provide reasonable justification.</p><p>Use the correct standards for the engagement. Issuer audits are subject to PCAOB standards and relevant SEC rules. Nonissuer audits generally use AICPA GAAS. Governmental audits may add Government Auditing Standards, and federal-award audits can add Uniform Guidance. Attestation and SSARS engagements have different objectives; the word review alone is not enough to identify the governing standard without knowing the subject matter and client.</p><div class=\"example-box\"><h3>A requested downgrade after missing records</h3><p>The auditor cannot obtain support for a material inventory balance. Management requests that the engagement be changed to a review specifically to avoid a modified audit opinion.</p><ol><li>Identify the reason for the change rather than simply comparing fees or procedures.</li><li>The request is motivated by an evidence problem, not a genuine change in service needs.</li><li>Do not agree to a downgrade that circumvents the audit’s reporting responsibilities; evaluate the original engagement and permitted withdrawal.</li></ol></div><div class=\"key-points\"><h3>Common mistakes to avoid</h3><ul><li>No assurance does not mean no professional obligations.</li><li>A client’s restriction can prevent acceptable engagement preconditions.</li><li>Do not confuse a financial-statement review with an attestation review.</li></ul></div><h2>Apply and connect</h2><p>After solving the worked case, explain which facts determine the result and how a changed assumption would change your conclusion. Use the module questions to test fresh applications, then complete the related simulation before reviewing its solution.</p>",
+  "objectives": [
+    "Match assurance levels to audits, reviews, compilations, preparations, and agreed-upon procedures.",
+    "Evaluate engagement preconditions and predecessor communications.",
+    "Document responsibilities and evaluate requests to change engagement type."
+  ],
+  "quiz": {
+    "id": "aud-m1-l3-q1",
+    "courseId": "aud",
+    "moduleId": 1,
+    "lessonId": "aud-m1-l3",
+    "topic": "Engagement Scope, Acceptance & Written Terms",
+    "prompt": "Which engagement reports specified procedures and factual findings without an opinion or assurance conclusion?",
+    "choices": [
+      {
+        "id": "aud-m1-l3-q1-a0",
+        "text": "Financial-statement audit."
+      },
+      {
+        "id": "aud-m1-l3-q1-a1",
+        "text": "Financial-statement review."
+      },
+      {
+        "id": "aud-m1-l3-q1-a2",
+        "text": "Agreed-upon procedures."
+      },
+      {
+        "id": "aud-m1-l3-q1-a3",
+        "text": "An examination of an assertion."
+      }
+    ],
+    "correctChoiceId": "aud-m1-l3-q1-a2",
+    "explanation": "Agreed-upon procedures reports what was done and found. An audit or examination expresses reasonable assurance; a review expresses limited assurance.",
+    "difficulty": "foundation",
+    "metadata": {
+      "section": "aud",
+      "blueprintYear": 2026,
+      "areaId": "aud-I",
+      "groupId": "C-D",
+      "topicId": "aud-engagement-acceptance",
+      "taskIds": [
+        "aud-engagement-acceptance.task-1"
+      ],
+      "skill": "remembering",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        },
+        {
+          "title": "AICPA auditing standards",
+          "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+        },
+        {
+          "title": "PCAOB standards",
+          "url": "https://pcaobus.org/oversight/standards"
+        }
+      ]
+    }
+  },
+  "relatedSimulation": "aud-m1-tbs3"
+}

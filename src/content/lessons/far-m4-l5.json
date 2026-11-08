@@ -1,0 +1,88 @@
+{
+  "id": "far-m4-l5",
+  "courseId": "far",
+  "moduleId": 4,
+  "number": 5,
+  "title": "Proprietary Funds",
+  "description": "Learn enterprise and internal service funds and how they use economic resources measurement and accrual accounting.",
+  "url": "/learn/far/modules/4/lessons/5",
+  "html": "<h2> Proprietary Funds </h2> <p> Proprietary funds account for government activities that operate in a manner similar to commercial businesses. </p> <p> Unlike governmental funds, proprietary funds use: </p> <div class=\"formula-box\"> ECONOMIC RESOURCES MEASUREMENT FOCUS + ACCRUAL BASIS OF ACCOUNTING </div> <p> This means proprietary funds generally recognize assets, liabilities, revenues, and expenses similarly to business enterprises. </p> <h2> Two Types of Proprietary Funds </h2> <div class=\"financial-example\"> <div> <span> Enterprise Fund </span> <strong> Provides Goods or Services Primarily to External Users </strong> </div> <div> <span> Internal Service Fund </span> <strong> Provides Goods or Services Primarily to Other Government Departments </strong> </div> </div> <h2> Enterprise Funds </h2> <p> Enterprise funds generally account for activities in which goods or services are provided to the public or other external users for a fee. </p> <div class=\"key-points\"> <p> Enterprise fund reporting may also be required when applicable criteria are met, such as when laws, regulations, debt arrangements, or pricing policies require an activity's costs to be recovered primarily through fees and charges. </p> </div> <div class=\"example-box\"> <strong> Common Examples </strong> <ul> <li> Public water utilities </li> <li> Government-owned airports </li> <li> Public transit systems </li> <li> Government parking operations </li> </ul> </div> <div class=\"key-points\"> <h3> Think: </h3> <p> Government + customers outside the government + user charges → Enterprise Fund. </p> </div> <h2> Internal Service Funds </h2> <p> Internal service funds generally account for goods or services provided by one department or agency of a government to other departments or agencies, usually on a cost-reimbursement basis. </p> <div class=\"example-box\"> <strong> Example </strong> <p> A city's centralized motor pool maintains vehicles for the police, fire, and parks departments and charges those departments for the services. </p> <p> The activity may be accounted for in an internal service fund. </p> </div> <div class=\"formula-box\"> EXTERNAL CUSTOMERS → ENTERPRISE INTERNAL DEPARTMENTS → INTERNAL SERVICE </div> <h2> Capital Assets </h2> <p> Because proprietary funds use the economic resources measurement focus, they generally report capital assets directly in the fund. </p> <p> Capital assets are also generally <strong>depreciated</strong>. </p> <div class=\"financial-example\"> <div> <span> Equipment Cost </span> <strong> $300,000 </strong> </div> <div> <span> Useful Life </span> <strong> 10 Years </strong> </div> </div> <div class=\"formula-box\"> $300,000 ÷ 10 = $30,000 Annual Depreciation </div> <p> This is very different from a governmental fund, where acquisition of equipment is generally reported as an expenditure rather than recording and depreciating the capital asset in the fund. </p> <h2> Long-Term Debt </h2> <p> Proprietary funds generally report their long-term liabilities directly because they use the economic resources measurement focus. </p> <div class=\"formula-box\"> PROPRIETARY FUND Capital Assets ✓ Depreciation ✓ Long-Term Liabilities ✓ </div> <h2> Revenues and Expenses </h2> <p> Proprietary fund statements distinguish operating activities from nonoperating activities. </p> <div class=\"key-points\"> <h3> Operating Examples </h3> <ul> <li> Charges to customers for services </li> <li> Employee costs related to operations </li> <li> Supplies and other operating costs </li> </ul> </div> <div class=\"key-points\"> <h3> Nonoperating Examples </h3> <ul> <li> Interest revenue </li> <li> Interest expense </li> <li> Certain investment-related amounts </li> </ul> </div> <h2> Proprietary Fund Statements </h2> <p> Proprietary funds generally present: </p> <div class=\"financial-example\"> <div> <span> Statement of Net Position </span> <strong> Financial Position </strong> </div> <div> <span> Statement of Revenues, Expenses, and Changes in Fund Net Position </span> <strong> Operating Results </strong> </div> <div> <span> Statement of Cash Flows </span> <strong> Cash Activity </strong> </div> </div> <h2> Important Cash Flow Difference </h2> <p> Proprietary fund cash flow statements use categories that differ somewhat from those commonly seen in business accounting. </p> <p> One important CPA distinction is that proprietary fund statements include an <strong>operating activities</strong> category based on governmental reporting requirements, along with noncapital financing, capital and related financing, and investing activities. </p> <h2> Governmental vs. Proprietary </h2> <div class=\"financial-example\"> <div> <span> Governmental Funds </span> <strong> Modified Accrual + Current Financial Resources </strong> </div> <div> <span> Proprietary Funds </span> <strong> Accrual + Economic Resources </strong> </div> </div> <h2> CPA Memory Rule </h2> <div class=\"formula-box\"> ENTERPRISE = OUTSIDE USERS INTERNAL SERVICE = INSIDE USERS BOTH = ACCRUAL + ECONOMIC RESOURCES </div> <div class=\"key-points\"> <h3> Key Takeaways </h3> <ul> <li> Proprietary funds use accrual accounting. </li> <li> They use the economic resources measurement focus. </li> <li> Enterprise funds generally serve external users. </li> <li> Internal service funds generally serve other government departments. </li> <li> Proprietary funds report and depreciate capital assets. </li> <li> They generally report their long-term liabilities directly. </li> </ul> </div>",
+  "quiz": {
+    "id": "far-m4-l5-check",
+    "courseId": "far",
+    "moduleId": 4,
+    "lessonId": "far-m4-l5",
+    "topic": "General review",
+    "prompt": "A city operates a central vehicle maintenance department that primarily services vehicles used by the city's police, fire, and parks departments. Which fund is generally most appropriate?",
+    "choices": [
+      {
+        "id": "far-m4-l5-check-a0",
+        "text": "Enterprise Fund"
+      },
+      {
+        "id": "far-m4-l5-check-a1",
+        "text": "Internal Service Fund"
+      },
+      {
+        "id": "far-m4-l5-check-a2",
+        "text": "Special Revenue Fund"
+      },
+      {
+        "id": "far-m4-l5-check-a3",
+        "text": "Capital Projects Fund"
+      }
+    ],
+    "correctChoiceId": "far-m4-l5-check-a1",
+    "explanation": "An internal service fund generally accounts for goods or services provided primarily to other departments or agencies of the same government.",
+    "difficulty": "foundation",
+    "metadata": {
+      "section": "far",
+      "blueprintYear": 2026,
+      "areaId": "far-I",
+      "groupId": "module-4",
+      "topicId": "far-proprietary-funds",
+      "taskIds": [
+        "far-proprietary-funds.task-1",
+        "far-proprietary-funds.task-2",
+        "far-proprietary-funds.task-3"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": true,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "section": "far",
+    "blueprintYear": 2026,
+    "areaId": "far-I",
+    "groupId": "module-4",
+    "topicId": "far-proprietary-funds",
+    "taskIds": [
+      "far-proprietary-funds.task-1",
+      "far-proprietary-funds.task-2",
+      "far-proprietary-funds.task-3"
+    ],
+    "skill": "application",
+    "validFrom": "2026-01-01",
+    "supplementary": true,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      }
+    ]
+  },
+  "objectives": [
+    "Explain proprietary funds and its underlying principles.",
+    "Apply the topic to a financial-reporting scenario.",
+    "Evaluate common errors and their financial-statement effects."
+  ]
+}

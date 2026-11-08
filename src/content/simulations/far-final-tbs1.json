@@ -1,0 +1,74 @@
+{
+  "id": "far-final-tbs1",
+  "moduleId": 0,
+  "number": 1,
+  "title": "FAR Final TBS Assessment",
+  "fields": [
+    {
+      "id": "far-final-tbs1-net-income",
+      "label": "Item 1 — Adjusted Net Income",
+      "type": "number",
+      "options": [],
+      "legacyKey": "netIncome",
+      "correct": 354000
+    },
+    {
+      "id": "far-final-tbs1-ar",
+      "label": "Item 2 — Increase in Accounts Receivable",
+      "type": "number",
+      "options": [],
+      "legacyKey": "ar",
+      "correct": 24000
+    },
+    {
+      "id": "far-final-tbs1-inventory",
+      "label": "Item 3 — Decrease in Inventory",
+      "type": "number",
+      "options": [],
+      "legacyKey": "inventory",
+      "correct": 10000
+    },
+    {
+      "id": "far-final-tbs1-liabilities",
+      "label": "Item 4 — Increase in Liabilities",
+      "type": "number",
+      "options": [],
+      "legacyKey": "liabilities",
+      "correct": 12000
+    },
+    {
+      "id": "far-final-tbs1-assets",
+      "label": "Enter a decrease as a negative number.",
+      "type": "number",
+      "options": [],
+      "legacyKey": "assets",
+      "correct": -34000
+    }
+  ],
+  "html": "<section class=\"exam-page\"> <div class=\"course-intro-card\"> <span class=\"exam-badge\"> TBS 1 OF 7 </span> <h2> Year-End Financial Statement Adjustments </h2> <p> Summit Company reports preliminary net income of <strong>$400,000</strong> before the following year-end adjustments are recorded. </p> </div> <div class=\"course-intro-card\"> <h3> Year-End Information </h3> <ol> <li> <strong>$18,000</strong> of prepaid insurance expired during the year but has not yet been recorded as expense. </li> <li> The company earned <strong>$24,000</strong> of service revenue that has not yet been billed or recorded. </li> <li> Current-year depreciation of <strong>$30,000</strong> has not yet been recorded. </li> <li> Utilities expense of <strong>$12,000</strong> has been incurred but has not yet been recorded or paid. </li> <li> Ending inventory is <strong>overstated by $10,000</strong>. </li> </ol> </div> <div class=\"course-intro-card\"> <h3> Item 1 — Adjusted Net Income </h3> <input id=\"far-final-tbs1-net-income\" type=\"number\" placeholder=\"Enter amount\" value=\"\"> </div> <div class=\"course-intro-card\"> <h3> Item 2 — Increase in Accounts Receivable </h3> <input id=\"far-final-tbs1-ar\" type=\"number\" placeholder=\"Enter amount\" value=\"\"> </div> <div class=\"course-intro-card\"> <h3> Item 3 — Decrease in Inventory </h3> <input id=\"far-final-tbs1-inventory\" type=\"number\" placeholder=\"Enter amount\" value=\"\"> </div> <div class=\"course-intro-card\"> <h3> Item 4 — Increase in Liabilities </h3> <input id=\"far-final-tbs1-liabilities\" type=\"number\" placeholder=\"Enter amount\" value=\"\"> </div> <div class=\"course-intro-card\"> <h3> Item 5 — Net Change in Total Assets </h3> <p> Enter a decrease as a negative number. </p> <input id=\"far-final-tbs1-assets\" type=\"number\" placeholder=\"Enter amount\" value=\"\"> </div> </section>",
+  "explanation": "<h3>Adjusted Net Income</h3><p>Begin with preliminary net income of $400,000. Subtract $18,000 of expired insurance, add $24,000 of accrued service revenue, subtract $30,000 of depreciation, subtract $12,000 of accrued utilities, and subtract $10,000 for the ending inventory overstatement. Adjusted net income is $354,000.</p><h3>Increase in Accounts Receivable</h3><p>The $24,000 of service revenue was earned but had not yet been recorded. Recording the accrued revenue increases Accounts Receivable by $24,000.</p><h3>Decrease in Inventory</h3><p>Ending inventory is overstated by $10,000. Correcting the error requires decreasing inventory by $10,000.</p><h3>Increase in Liabilities</h3><p>The $12,000 of utilities incurred but not recorded must be accrued. This increases liabilities by $12,000.</p><h3>Net Change in Total Assets</h3><p>Assets decrease $18,000 for expired insurance, increase $24,000 for accrued revenue, decrease $30,000 for depreciation, and decrease $10,000 for the inventory correction. The net change is a $34,000 decrease, represented as -$34,000.</p>",
+  "courseId": "far",
+  "difficulty": "advanced",
+  "metadata": {
+    "section": "far",
+    "blueprintYear": 2026,
+    "areaId": "far-I",
+    "groupId": "module-6",
+    "topicId": "far-financial-statement-analysis-adjustments",
+    "taskIds": [
+      "far-financial-statement-analysis-adjustments.task-1",
+      "far-financial-statement-analysis-adjustments.task-2",
+      "far-financial-statement-analysis-adjustments.task-3"
+    ],
+    "skill": "analysis",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      }
+    ]
+  }
+}

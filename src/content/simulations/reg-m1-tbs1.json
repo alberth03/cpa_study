@@ -1,0 +1,163 @@
+{
+  "id": "reg-m1-tbs1",
+  "courseId": "reg",
+  "moduleId": 1,
+  "number": 1,
+  "title": "Tax practice review memorandum",
+  "html": "<div class=\"course-intro-card\"><h2>Tax practice review memorandum</h2><p>Evaluate a preparer’s response to four engagement issues.</p></div><section class=\"quiz-card\"><h3>Required responses</h3><div class=\"tbs-question\"><label for=\"reg-m1-tbs1-f1\">Response to the unsupported deduction</label><select id=\"reg-m1-tbs1-f1\"><option value=\"Investigate and obtain appropriate support\">Investigate and obtain appropriate support</option><option value=\"Use it despite known contradictions\">Use it despite known contradictions</option><option value=\"Increase it\">Increase it</option><option value=\"Treat the organizer as conclusive\">Treat the organizer as conclusive</option></select></div><div class=\"tbs-question\"><label for=\"reg-m1-tbs1-f2\">Treatment of low audit probability</label><select id=\"reg-m1-tbs1-f2\"><option value=\"It does not establish legal support\">It does not establish legal support</option><option value=\"It is the highest tax authority\">It is the highest tax authority</option><option value=\"It cures a frivolous position\">It cures a frivolous position</option><option value=\"It replaces professional diligence\">It replaces professional diligence</option></select></div><div class=\"tbs-question\"><label for=\"reg-m1-tbs1-f3\">Response to the prior omission</label><select id=\"reg-m1-tbs1-f3\"><option value=\"Advise the client of the error and consequences\">Advise the client of the error and consequences</option><option value=\"Repeat it silently\">Repeat it silently</option><option value=\"Destroy prior records\">Destroy prior records</option><option value=\"Publish the client’s identity\">Publish the client’s identity</option></select></div><div class=\"tbs-question\"><label for=\"reg-m1-tbs1-f4\">Response to the unfamiliar restructuring</label><select id=\"reg-m1-tbs1-f4\"><option value=\"Obtain competence or qualified assistance\">Obtain competence or qualified assistance</option><option value=\"Guess the tax result\">Guess the tax result</option><option value=\"Avoid all documentation\">Avoid all documentation</option><option value=\"Assume no tax applies\">Assume no tax applies</option></select></div></section>",
+  "metadata": {
+    "section": "reg",
+    "blueprintYear": 2026,
+    "areaId": "reg-I",
+    "groupId": "A-B",
+    "topicId": "reg-tax-practice-ethics",
+    "taskIds": [
+      "reg-tax-practice-ethics.task-1",
+      "reg-tax-practice-ethics.task-2",
+      "reg-tax-practice-ethics.task-3"
+    ],
+    "skill": "analysis",
+    "validFrom": "2026-07-01",
+    "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      },
+      {
+        "title": "Internal Revenue Code",
+        "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+      },
+      {
+        "title": "IRS tax publications",
+        "url": "https://www.irs.gov/publications"
+      },
+      {
+        "title": "Circular 230",
+        "url": "https://www.irs.gov/tax-professionals/circular-230-tax-professionals"
+      }
+    ]
+  },
+  "difficulty": "advanced",
+  "fields": [
+    {
+      "id": "reg-m1-tbs1-f1",
+      "label": "Response to the unsupported deduction",
+      "type": "select",
+      "options": [
+        {
+          "value": "Investigate and obtain appropriate support",
+          "label": "Investigate and obtain appropriate support"
+        },
+        {
+          "value": "Use it despite known contradictions",
+          "label": "Use it despite known contradictions"
+        },
+        {
+          "value": "Increase it",
+          "label": "Increase it"
+        },
+        {
+          "value": "Treat the organizer as conclusive",
+          "label": "Treat the organizer as conclusive"
+        }
+      ],
+      "correct": "Investigate and obtain appropriate support",
+      "explanation": "Known inconsistencies require reasonable follow-up.",
+      "topicId": "reg-tax-practice-ethics"
+    },
+    {
+      "id": "reg-m1-tbs1-f2",
+      "label": "Treatment of low audit probability",
+      "type": "select",
+      "options": [
+        {
+          "value": "It does not establish legal support",
+          "label": "It does not establish legal support"
+        },
+        {
+          "value": "It is the highest tax authority",
+          "label": "It is the highest tax authority"
+        },
+        {
+          "value": "It cures a frivolous position",
+          "label": "It cures a frivolous position"
+        },
+        {
+          "value": "It replaces professional diligence",
+          "label": "It replaces professional diligence"
+        }
+      ],
+      "correct": "It does not establish legal support",
+      "explanation": "Substantive support comes from applicable authority, not audit odds.",
+      "topicId": "reg-tax-practice-ethics"
+    },
+    {
+      "id": "reg-m1-tbs1-f3",
+      "label": "Response to the prior omission",
+      "type": "select",
+      "options": [
+        {
+          "value": "Advise the client of the error and consequences",
+          "label": "Advise the client of the error and consequences"
+        },
+        {
+          "value": "Repeat it silently",
+          "label": "Repeat it silently"
+        },
+        {
+          "value": "Destroy prior records",
+          "label": "Destroy prior records"
+        },
+        {
+          "value": "Publish the client’s identity",
+          "label": "Publish the client’s identity"
+        }
+      ],
+      "correct": "Advise the client of the error and consequences",
+      "explanation": "Advise the client while observing applicable duties.",
+      "topicId": "reg-tax-practice-ethics"
+    },
+    {
+      "id": "reg-m1-tbs1-f4",
+      "label": "Response to the unfamiliar restructuring",
+      "type": "select",
+      "options": [
+        {
+          "value": "Obtain competence or qualified assistance",
+          "label": "Obtain competence or qualified assistance"
+        },
+        {
+          "value": "Guess the tax result",
+          "label": "Guess the tax result"
+        },
+        {
+          "value": "Avoid all documentation",
+          "label": "Avoid all documentation"
+        },
+        {
+          "value": "Assume no tax applies",
+          "label": "Assume no tax applies"
+        }
+      ],
+      "correct": "Obtain competence or qualified assistance",
+      "explanation": "Competence requires adequate preparation or assistance.",
+      "topicId": "reg-tax-practice-ethics"
+    }
+  ],
+  "exhibits": [
+    {
+      "id": "reg-m1-tbs1-ex1",
+      "title": "Client file",
+      "html": "<p>A deduction lacks support and contradicts bank records. A partner wants to rely on the return’s low audit risk. A prior-year income omission is discovered. A complex restructuring exceeds the team’s expertise.</p>"
+    },
+    {
+      "id": "reg-m1-tbs1-ex2",
+      "title": "Required approach",
+      "html": "<p>Apply diligence, authoritative research, client communication, and competence. Do not assume a disclosure or engagement letter eliminates substantive obligations.</p>"
+    }
+  ],
+  "explanation": "<h3>Response to the unsupported deduction</h3><p>Known inconsistencies require reasonable follow-up.</p><h3>Treatment of low audit probability</h3><p>Substantive support comes from applicable authority, not audit odds.</p><h3>Response to the prior omission</h3><p>Advise the client while observing applicable duties.</p><h3>Response to the unfamiliar restructuring</h3><p>Competence requires adequate preparation or assistance.</p>"
+}

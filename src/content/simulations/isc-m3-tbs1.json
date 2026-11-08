@@ -1,0 +1,158 @@
+{
+  "id": "isc-m3-tbs1",
+  "courseId": "isc",
+  "moduleId": 3,
+  "number": 1,
+  "title": "SOC report selection",
+  "html": "<div class=\"course-intro-card\"><h2>SOC report selection</h2><p>Match assurance needs to reports and identify a coverage limitation.</p></div><section class=\"quiz-card\"><h3>Required responses</h3><div class=\"tbs-question\"><label for=\"isc-m3-tbs1-f1\">Report family for A</label><select id=\"isc-m3-tbs1-f1\"><option value=\"SOC 1\">SOC 1</option><option value=\"Only SOC 3\">Only SOC 3</option><option value=\"A tax return\">A tax return</option><option value=\"A marketing brochure\">A marketing brochure</option></select></div><div class=\"tbs-question\"><label for=\"isc-m3-tbs1-f2\">Report family for B</label><select id=\"isc-m3-tbs1-f2\"><option value=\"SOC 2\">SOC 2</option><option value=\"Only a financial statement compilation\">Only a financial statement compilation</option><option value=\"An income-tax opinion\">An income-tax opinion</option><option value=\"No assurance report can address controls\">No assurance report can address controls</option></select></div><div class=\"tbs-question\"><label for=\"isc-m3-tbs1-f3\">Report family for C</label><select id=\"isc-m3-tbs1-f3\"><option value=\"SOC 3\">SOC 3</option><option value=\"Only a restricted detailed workpaper\">Only a restricted detailed workpaper</option><option value=\"A payroll register\">A payroll register</option><option value=\"A stock certificate\">A stock certificate</option></select></div><div class=\"tbs-question\"><label for=\"isc-m3-tbs1-f4\">Limitation of the supplied Type 1 report</label><select id=\"isc-m3-tbs1-f4\"><option value=\"It does not establish full-year operating effectiveness\">It does not establish full-year operating effectiveness</option><option value=\"It automatically covers every day of the year\">It automatically covers every day of the year</option><option value=\"It guarantees no exceptions\">It guarantees no exceptions</option><option value=\"Its receipt date extends its scope\">Its receipt date extends its scope</option></select></div></section>",
+  "metadata": {
+    "section": "isc",
+    "blueprintYear": 2026,
+    "areaId": "isc-III",
+    "groupId": "A",
+    "topicId": "isc-soc-report-types",
+    "taskIds": [
+      "isc-soc-report-types.task-1",
+      "isc-soc-report-types.task-2",
+      "isc-soc-report-types.task-3"
+    ],
+    "skill": "analysis",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      },
+      {
+        "title": "NIST Cybersecurity Framework",
+        "url": "https://www.nist.gov/cyberframework"
+      },
+      {
+        "title": "AICPA SOC resources",
+        "url": "https://www.aicpa-cima.com/resources/landing/system-and-organization-controls-soc-suite-of-services"
+      }
+    ]
+  },
+  "difficulty": "advanced",
+  "fields": [
+    {
+      "id": "isc-m3-tbs1-f1",
+      "label": "Report family for A",
+      "type": "select",
+      "options": [
+        {
+          "value": "SOC 1",
+          "label": "SOC 1"
+        },
+        {
+          "value": "Only SOC 3",
+          "label": "Only SOC 3"
+        },
+        {
+          "value": "A tax return",
+          "label": "A tax return"
+        },
+        {
+          "value": "A marketing brochure",
+          "label": "A marketing brochure"
+        }
+      ],
+      "correct": "SOC 1",
+      "explanation": "The need concerns financial-reporting controls.",
+      "topicId": "isc-soc-report-types"
+    },
+    {
+      "id": "isc-m3-tbs1-f2",
+      "label": "Report family for B",
+      "type": "select",
+      "options": [
+        {
+          "value": "SOC 2",
+          "label": "SOC 2"
+        },
+        {
+          "value": "Only a financial statement compilation",
+          "label": "Only a financial statement compilation"
+        },
+        {
+          "value": "An income-tax opinion",
+          "label": "An income-tax opinion"
+        },
+        {
+          "value": "No assurance report can address controls",
+          "label": "No assurance report can address controls"
+        }
+      ],
+      "correct": "SOC 2",
+      "explanation": "SOC 2 addresses applicable Trust Services Criteria.",
+      "topicId": "isc-soc-report-types"
+    },
+    {
+      "id": "isc-m3-tbs1-f3",
+      "label": "Report family for C",
+      "type": "select",
+      "options": [
+        {
+          "value": "SOC 3",
+          "label": "SOC 3"
+        },
+        {
+          "value": "Only a restricted detailed workpaper",
+          "label": "Only a restricted detailed workpaper"
+        },
+        {
+          "value": "A payroll register",
+          "label": "A payroll register"
+        },
+        {
+          "value": "A stock certificate",
+          "label": "A stock certificate"
+        }
+      ],
+      "correct": "SOC 3",
+      "explanation": "SOC 3 is intended for general use.",
+      "topicId": "isc-soc-report-types"
+    },
+    {
+      "id": "isc-m3-tbs1-f4",
+      "label": "Limitation of the supplied Type 1 report",
+      "type": "select",
+      "options": [
+        {
+          "value": "It does not establish full-year operating effectiveness",
+          "label": "It does not establish full-year operating effectiveness"
+        },
+        {
+          "value": "It automatically covers every day of the year",
+          "label": "It automatically covers every day of the year"
+        },
+        {
+          "value": "It guarantees no exceptions",
+          "label": "It guarantees no exceptions"
+        },
+        {
+          "value": "Its receipt date extends its scope",
+          "label": "Its receipt date extends its scope"
+        }
+      ],
+      "correct": "It does not establish full-year operating effectiveness",
+      "explanation": "At-a-date design coverage differs from period operating-effectiveness evidence.",
+      "topicId": "isc-soc-report-types"
+    }
+  ],
+  "exhibits": [
+    {
+      "id": "isc-m3-tbs1-ex1",
+      "title": "Needs",
+      "html": "<p>A: Controls relevant to outsourced payroll financial reporting. B: Security and availability controls over a hosted application. C: General-use Trust Services communication.</p>"
+    },
+    {
+      "id": "isc-m3-tbs1-ex2",
+      "title": "Available report",
+      "html": "<p>A supplied Type 1 report is dated June 30. The user needs evidence of operating effectiveness from January through December.</p>"
+    }
+  ],
+  "explanation": "<h3>Report family for A</h3><p>The need concerns financial-reporting controls.</p><h3>Report family for B</h3><p>SOC 2 addresses applicable Trust Services Criteria.</p><h3>Report family for C</h3><p>SOC 3 is intended for general use.</p><h3>Limitation of the supplied Type 1 report</h3><p>At-a-date design coverage differs from period operating-effectiveness evidence.</p>"
+}

@@ -1,0 +1,158 @@
+{
+  "id": "aud-m4-tbs3",
+  "courseId": "aud",
+  "moduleId": 4,
+  "number": 3,
+  "title": "Report drafting review",
+  "html": "<div class=\"course-intro-card\"><h2>Report drafting review</h2><p>Identify the correct reporting concept for each drafting note.</p></div><section class=\"quiz-card\"><h3>Required responses</h3><div class=\"tbs-question\"><label for=\"aud-m4-tbs3-f1\">Reporting concept for A</label><select id=\"aud-m4-tbs3-f1\"><option value=\"Potential critical audit matter\">Potential critical audit matter</option><option value=\"A separate guaranteed valuation opinion\">A separate guaranteed valuation opinion</option><option value=\"A tax return certification\">A tax return certification</option><option value=\"Automatic disclaimer\">Automatic disclaimer</option></select></div><div class=\"tbs-question\"><label for=\"aud-m4-tbs3-f2\">Reporting concept for B</label><select id=\"aud-m4-tbs3-f2\"><option value=\"Emphasis of matter\">Emphasis of matter</option><option value=\"Automatic adverse opinion\">Automatic adverse opinion</option><option value=\"An omitted basis section\">An omitted basis section</option><option value=\"A management representation\">A management representation</option></select></div><div class=\"tbs-question\"><label for=\"aud-m4-tbs3-f3\">Framework for C</label><select id=\"aud-m4-tbs3-f3\"><option value=\"Special-purpose tax basis\">Special-purpose tax basis</option><option value=\"U.S. GAAP automatically\">U.S. GAAP automatically</option><option value=\"A sampling framework\">A sampling framework</option><option value=\"No financial-reporting framework\">No financial-reporting framework</option></select></div><div class=\"tbs-question\"><label for=\"aud-m4-tbs3-f4\">Correction required for D</label><select id=\"aud-m4-tbs3-f4\"><option value=\"Evaluate the opinion modification separately\">Evaluate the opinion modification separately</option><option value=\"Use the CAM to cure the departure\">Use the CAM to cure the departure</option><option value=\"Delete the opinion section\">Delete the opinion section</option><option value=\"Let management choose the audit opinion\">Let management choose the audit opinion</option></select></div></section>",
+  "metadata": {
+    "section": "aud",
+    "blueprintYear": 2026,
+    "areaId": "aud-IV",
+    "groupId": "A-B",
+    "topicId": "aud-audit-report-elements",
+    "taskIds": [
+      "aud-audit-report-elements.task-1",
+      "aud-audit-report-elements.task-2",
+      "aud-audit-report-elements.task-3"
+    ],
+    "skill": "analysis",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      },
+      {
+        "title": "AICPA auditing standards",
+        "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+      },
+      {
+        "title": "PCAOB standards",
+        "url": "https://pcaobus.org/oversight/standards"
+      }
+    ]
+  },
+  "difficulty": "advanced",
+  "fields": [
+    {
+      "id": "aud-m4-tbs3-f1",
+      "label": "Reporting concept for A",
+      "type": "select",
+      "options": [
+        {
+          "value": "Potential critical audit matter",
+          "label": "Potential critical audit matter"
+        },
+        {
+          "value": "A separate guaranteed valuation opinion",
+          "label": "A separate guaranteed valuation opinion"
+        },
+        {
+          "value": "A tax return certification",
+          "label": "A tax return certification"
+        },
+        {
+          "value": "Automatic disclaimer",
+          "label": "Automatic disclaimer"
+        }
+      ],
+      "correct": "Potential critical audit matter",
+      "explanation": "The facts fit the CAM evaluation criteria.",
+      "topicId": "aud-audit-report-elements"
+    },
+    {
+      "id": "aud-m4-tbs3-f2",
+      "label": "Reporting concept for B",
+      "type": "select",
+      "options": [
+        {
+          "value": "Emphasis of matter",
+          "label": "Emphasis of matter"
+        },
+        {
+          "value": "Automatic adverse opinion",
+          "label": "Automatic adverse opinion"
+        },
+        {
+          "value": "An omitted basis section",
+          "label": "An omitted basis section"
+        },
+        {
+          "value": "A management representation",
+          "label": "A management representation"
+        }
+      ],
+      "correct": "Emphasis of matter",
+      "explanation": "The paragraph draws attention to an appropriately disclosed fundamental matter.",
+      "topicId": "aud-audit-report-elements"
+    },
+    {
+      "id": "aud-m4-tbs3-f3",
+      "label": "Framework for C",
+      "type": "select",
+      "options": [
+        {
+          "value": "Special-purpose tax basis",
+          "label": "Special-purpose tax basis"
+        },
+        {
+          "value": "U.S. GAAP automatically",
+          "label": "U.S. GAAP automatically"
+        },
+        {
+          "value": "A sampling framework",
+          "label": "A sampling framework"
+        },
+        {
+          "value": "No financial-reporting framework",
+          "label": "No financial-reporting framework"
+        }
+      ],
+      "correct": "Special-purpose tax basis",
+      "explanation": "Tax-basis statements use a special-purpose framework.",
+      "topicId": "aud-audit-report-elements"
+    },
+    {
+      "id": "aud-m4-tbs3-f4",
+      "label": "Correction required for D",
+      "type": "select",
+      "options": [
+        {
+          "value": "Evaluate the opinion modification separately",
+          "label": "Evaluate the opinion modification separately"
+        },
+        {
+          "value": "Use the CAM to cure the departure",
+          "label": "Use the CAM to cure the departure"
+        },
+        {
+          "value": "Delete the opinion section",
+          "label": "Delete the opinion section"
+        },
+        {
+          "value": "Let management choose the audit opinion",
+          "label": "Let management choose the audit opinion"
+        }
+      ],
+      "correct": "Evaluate the opinion modification separately",
+      "explanation": "CAM communication does not replace required opinion modification.",
+      "topicId": "aud-audit-report-elements"
+    }
+  ],
+  "exhibits": [
+    {
+      "id": "aud-m4-tbs3-ex1",
+      "title": "Drafting notes",
+      "html": "<p>A: A material issuer estimate required especially challenging judgment and was communicated to the audit committee. B: The report highlights an appropriately disclosed matter fundamental to understanding the statements. C: Financial statements are prepared on a tax basis. D: The draft suggests a CAM can replace a qualification for a known departure.</p>"
+    },
+    {
+      "id": "aud-m4-tbs3-ex2",
+      "title": "Instructions",
+      "html": "<p>Assume the relevant engagement standard permits or requires the report sections described. Focus on their function rather than copying a report template.</p>"
+    }
+  ],
+  "explanation": "<h3>Reporting concept for A</h3><p>The facts fit the CAM evaluation criteria.</p><h3>Reporting concept for B</h3><p>The paragraph draws attention to an appropriately disclosed fundamental matter.</p><h3>Framework for C</h3><p>Tax-basis statements use a special-purpose framework.</p><h3>Correction required for D</h3><p>CAM communication does not replace required opinion modification.</p>"
+}

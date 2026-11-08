@@ -1,0 +1,88 @@
+{
+  "id": "far-m6-l8",
+  "courseId": "far",
+  "moduleId": 6,
+  "number": 8,
+  "title": "Not-for-Profit Accounting Final Review",
+  "description": "Review contributions, donor restrictions, conditional gifts, donated services, endowments, and pledges.",
+  "url": "/learn/far/modules/6/lessons/8",
+  "html": "<h2> The NFP Big Picture </h2> <p> Not-for-profit accounting questions often revolve around one central issue: </p> <div class=\"formula-box\"> WHO IMPOSED THE LIMITATION AND IS IT A RESTRICTION OR A CONDITION? </div> <p> Correctly identifying those two concepts solves a large portion of NFP contribution questions. </p> <h2> Net Asset Classes </h2> <p> NFP financial statements generally present two classes of net assets. </p> <div class=\"formula-box\"> NET ASSETS ↓ WITHOUT DONOR RESTRICTIONS + WITH DONOR RESTRICTIONS </div> <h2> Who Creates a Donor Restriction? </h2> <p> A donor-imposed restriction can limit how or when contributed resources may be used. </p> <p> Internal decisions by the board generally do not create donor-restricted net assets. </p> <div class=\"formula-box\"> DONOR LIMITATION → MAY CREATE DONOR-RESTRICTED NET ASSETS BOARD DESIGNATION → GENERALLY REMAINS WITHOUT DONOR RESTRICTIONS </div> <h2> Restrictions vs Conditions </h2> <p> These terms are not interchangeable. </p> <div class=\"formula-box\"> RESTRICTION → LIMITS HOW OR WHEN RESOURCES MAY BE USED CONDITION → MUST BE OVERCOME BEFORE ENTITLEMENT EXISTS </div> <h2> Conditional Contribution </h2> <p> A contribution is generally conditional when the agreement includes: </p> <div class=\"formula-box\"> A BARRIER + RIGHT OF RETURN OR RIGHT OF RELEASE </div> <p> Until the barrier is substantially overcome, the organization generally does not recognize contribution revenue. </p> <h2> Example — Conditional Grant </h2> <p> An organization receives <strong>$100,000 cash</strong> from a donor. </p> <p> The organization must provide services to <strong>500 participants</strong>, and the donor has the right to require repayment if the requirement is not met. </p> <p> Only 300 participants have been served. </p> <div class=\"formula-box\"> BARRIER NOT YET OVERCOME → NO CONTRIBUTION REVENUE YET </div> <p> Because the cash has already been received, the organization generally records a liability. </p> <div class=\"financial-example\"> <div> <span>Cash</span> <strong>+ $100,000</strong> </div> <div> <span>Refundable Advance / Liability</span> <strong>+ $100,000</strong> </div> <div> <span>Contribution Revenue</span> <strong>$0</strong> </div> </div> <h2> Once the Condition Is Met </h2> <p> When the barrier is overcome, the contribution becomes unconditional. </p> <p> At that point, the organization evaluates whether a donor restriction still applies. </p> <div class=\"formula-box\"> CONDITION SATISFIED → RECOGNIZE CONTRIBUTION THEN DETERMINE WHETHER DONOR RESTRICTION EXISTS </div> <h2> Unconditional Contributions </h2> <p> An unconditional contribution is generally recognized when the donor makes the promise or transfers the resources, subject to measurement requirements. </p> <h2> Restricted Contribution Example </h2> <p> A donor gives an organization <strong>$150,000</strong> specifically for a scholarship program. </p> <div class=\"formula-box\"> CONTRIBUTION REVENUE = $150,000 CLASSIFICATION = WITH DONOR RESTRICTIONS </div> <h2> Release From Restriction </h2> <p> When the organization satisfies the donor's purpose or time restriction, the restriction is released. </p> <p> This is a reclassification between net asset classes, not new contribution revenue. </p> <div class=\"formula-box\"> WITH DONOR RESTRICTIONS ↓ WITHOUT DONOR RESTRICTIONS </div> <h2> Example — Release </h2> <p> The organization spends <strong>$60,000</strong> on the qualifying scholarship program. </p> <div class=\"formula-box\"> RELEASE FROM RESTRICTION = $60,000 </div> <p> The organization does not recognize another $60,000 of contribution revenue simply because the restriction was satisfied. </p> <h2> Promises to Give </h2> <p> Unconditional promises to give are generally recognized when made. </p> <div class=\"formula-box\"> UNCONDITIONAL PROMISE → RECOGNIZE CONDITIONAL PROMISE → WAIT UNTIL THE BARRIER IS SUBSTANTIALLY OVERCOME </div> <h2> Long-Term Pledges </h2> <p> An unconditional pledge expected to be collected over multiple years may require present-value measurement. </p> <div class=\"example-box\"> <p> Face amount of pledge: <strong>$200,000</strong> </p> <p> Present value: <strong>$176,000</strong> </p> </div> <div class=\"formula-box\"> INITIAL CONTRIBUTION RECEIVABLE = $176,000 </div> <h2> Donated Services </h2> <p> Donated services are not automatically recognized simply because volunteers provided them. </p> <p> Contributed services are generally recognized when they: </p> <div class=\"formula-box\"> CREATE OR ENHANCE A NONFINANCIAL ASSET OR REQUIRE SPECIALIZED SKILLS + ARE PROVIDED BY PERSONS POSSESSING THOSE SKILLS + WOULD OTHERWISE NEED TO BE PURCHASED </div> <h2> Example — Donated Legal Services </h2> <p> An attorney provides legal services with a fair value of <strong>$25,000</strong>. </p> <p> The organization would otherwise have hired an attorney to perform those services. </p> <div class=\"financial-example\"> <div> <span>Contribution Revenue</span> <strong>+ $25,000</strong> </div> <div> <span>Legal Expense</span> <strong>+ $25,000</strong> </div> <div> <span>Net Assets</span> <strong>No Net Change</strong> </div> </div> <h2> Routine Volunteer Services </h2> <p> Routine volunteer services that do not meet the recognition criteria generally are not recognized as contribution revenue or expense. </p> <div class=\"formula-box\"> VOLUNTEER TIME ≠ AUTOMATIC RECOGNITION </div> <h2> Donated Noncash Assets </h2> <p> Contributed nonfinancial assets such as equipment, supplies, or property are generally recognized at fair value, subject to applicable accounting guidance. </p> <div class=\"example-box\"> <p> Donated equipment fair value: <strong>$70,000</strong> </p> </div> <div class=\"formula-box\"> EQUIPMENT = $70,000 CONTRIBUTION REVENUE = $70,000 </div> <h2> Endowments </h2> <p> Endowment accounting depends heavily on whether the restriction was imposed by the donor or internally by the organization. </p> <div class=\"formula-box\"> DONOR-RESTRICTED ENDOWMENT → NET ASSETS WITH DONOR RESTRICTIONS BOARD-DESIGNATED ENDOWMENT → GENERALLY NET ASSETS WITHOUT DONOR RESTRICTIONS </div> <h2> Investment Return </h2> <p> Investment income associated with an endowment must be classified according to applicable donor restrictions and governing requirements. </p> <p> Do not automatically assume that all investment income is unrestricted. </p> <h2> Example — Restricted Endowment Return </h2> <p> A donor-restricted endowment earns: </p> <div class=\"example-box\"> <p> Interest and dividends: <strong>$20,000</strong> </p> <p> Appreciation: <strong>$15,000</strong> </p> <p> Donor requires returns to support scholarships. </p> </div> <div class=\"formula-box\"> TOTAL INVESTMENT RETURN = $20,000 + $15,000 = $35,000 </div> <p> The classification of that return reflects the donor restriction until the applicable restriction is satisfied. </p> <h2> NFP Financial Statements </h2> <p> Core NFP financial statements commonly include: </p> <div class=\"formula-box\"> STATEMENT OF FINANCIAL POSITION STATEMENT OF ACTIVITIES STATEMENT OF CASH FLOWS </div> <h2> Statement of Activities </h2> <p> The statement of activities reports changes in the organization's net assets. </p> <div class=\"formula-box\"> REVENUES + GAINS − EXPENSES − LOSSES = CHANGE IN NET ASSETS </div> <h2> Functional Expense Classification </h2> <p> Expenses may be classified by function. </p> <div class=\"formula-box\"> PROGRAM SERVICES + SUPPORTING SERVICES </div> <p> Supporting services can include management and general activities and fundraising. </p> <h2> Natural Expense Classification </h2> <p> Natural classification describes what type of cost was incurred. </p> <div class=\"formula-box\"> EXAMPLES: SALARIES RENT DEPRECIATION SUPPLIES INTEREST </div> <h2> Functional vs Natural </h2> <div class=\"formula-box\"> FUNCTION → WHY WAS THE COST INCURRED? NATURE → WHAT TYPE OF COST WAS IT? </div> <h2> Integrated NFP Example </h2> <p> Beginning net assets: </p> <div class=\"example-box\"> <p> Without donor restrictions: <strong>$500,000</strong> </p> <p> With donor restrictions: <strong>$180,000</strong> </p> </div> <p> During the year: </p> <div class=\"example-box\"> <p> Unrestricted contribution: <strong>$100,000</strong> </p> <p> Restricted contribution: <strong>$90,000</strong> </p> <p> Qualifying restricted spending: <strong>$50,000</strong> </p> <p> Other expenses: <strong>$70,000</strong> </p> </div> <h2> Ending Restricted Net Assets </h2> <div class=\"formula-box\"> $180,000 + $90,000 − $50,000 = $220,000 </div> <h2> Ending Unrestricted Net Assets </h2> <div class=\"formula-box\"> $500,000 + $100,000 + $50,000 RELEASE − $70,000 EXPENSES = $580,000 </div> <h2> NFP Decision Strategy </h2> <div class=\"formula-box\"> ASK: 1. IS THIS A CONTRIBUTION OR AN EXCHANGE TRANSACTION? 2. IS THE CONTRIBUTION CONDITIONAL? 3. IF UNCONDITIONAL, IS THERE A DONOR RESTRICTION? 4. HAS THE RESTRICTION BEEN SATISFIED? 5. DOES THE TRANSACTION AFFECT REVENUE, EXPENSE, OR ONLY NET-ASSET CLASSIFICATION? </div> <h2> Common FAR Traps </h2> <div class=\"formula-box\"> CONDITION ≠ RESTRICTION BOARD DESIGNATION ≠ DONOR RESTRICTION RELEASE FROM RESTRICTION ≠ NEW REVENUE DONATED SERVICES ≠ AUTOMATIC RECOGNITION </div> <div class=\"key-points\"> <h3> Key Takeaways </h3> <ul> <li> NFPs report net assets with donor restrictions and without donor restrictions. </li> <li> Board designations generally do not create donor-restricted net assets. </li> <li> A conditional contribution generally requires both a barrier and a right of return or release. </li> <li> Once a contribution becomes unconditional, donor restrictions are evaluated separately. </li> <li> Satisfaction of a donor restriction generally results in a reclassification, not additional contribution revenue. </li> <li> Unconditional promises to give are generally recognized when made. </li> <li> Qualifying donated professional services are recognized at fair value. </li> <li> Donor-restricted endowments remain within net assets with donor restrictions until applicable restrictions are met. </li> <li> Functional classification describes why a cost was incurred; natural classification describes the type of cost. </li> </ul> </div>",
+  "quiz": {
+    "id": "far-m6-l8-check",
+    "courseId": "far",
+    "moduleId": 6,
+    "lessonId": "far-m6-l8",
+    "topic": "General review",
+    "prompt": "A donor gives an NFP $120,000 restricted for a specific education program. During the year, the NFP spends $45,000 on qualifying program costs. Ignoring all other activity, how much of the original contribution remains in net assets with donor restrictions?",
+    "choices": [
+      {
+        "id": "far-m6-l8-check-a0",
+        "text": "$45,000"
+      },
+      {
+        "id": "far-m6-l8-check-a1",
+        "text": "$120,000"
+      },
+      {
+        "id": "far-m6-l8-check-a2",
+        "text": "$75,000"
+      },
+      {
+        "id": "far-m6-l8-check-a3",
+        "text": "$165,000"
+      }
+    ],
+    "correctChoiceId": "far-m6-l8-check-a2",
+    "explanation": "The organization initially recognizes the $120,000 contribution within net assets with donor restrictions. When $45,000 is spent for the donor-specified purpose, that amount is released from restriction. The remaining donor-restricted amount is $120,000 − $45,000 = $75,000.",
+    "difficulty": "foundation",
+    "metadata": {
+      "section": "far",
+      "blueprintYear": 2026,
+      "areaId": "far-I",
+      "groupId": "module-6",
+      "topicId": "far-not-for-profit-accounting-final-review",
+      "taskIds": [
+        "far-not-for-profit-accounting-final-review.task-1",
+        "far-not-for-profit-accounting-final-review.task-2",
+        "far-not-for-profit-accounting-final-review.task-3"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "section": "far",
+    "blueprintYear": 2026,
+    "areaId": "far-I",
+    "groupId": "module-6",
+    "topicId": "far-not-for-profit-accounting-final-review",
+    "taskIds": [
+      "far-not-for-profit-accounting-final-review.task-1",
+      "far-not-for-profit-accounting-final-review.task-2",
+      "far-not-for-profit-accounting-final-review.task-3"
+    ],
+    "skill": "application",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      }
+    ]
+  },
+  "objectives": [
+    "Explain not-for-profit accounting final review and its underlying principles.",
+    "Apply the topic to a financial-reporting scenario.",
+    "Evaluate common errors and their financial-statement effects."
+  ]
+}

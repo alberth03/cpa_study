@@ -1,0 +1,90 @@
+{
+  "id": "bar-m2-tbs1",
+  "courseId": "bar",
+  "moduleId": 2,
+  "number": 1,
+  "title": "Bundle revenue workpaper",
+  "html": "<div class=\"course-intro-card\"><h2>Bundle revenue workpaper</h2><p>Allocate a contract price and determine revenue recognized to date.</p></div><section class=\"quiz-card\"><h3>Required responses</h3><div class=\"tbs-question\"><label for=\"bar-m2-tbs1-f1\">Price allocated to equipment</label><input id=\"bar-m2-tbs1-f1\" type=\"text\"></div><div class=\"tbs-question\"><label for=\"bar-m2-tbs1-f2\">Price allocated to support</label><input id=\"bar-m2-tbs1-f2\" type=\"text\"></div><div class=\"tbs-question\"><label for=\"bar-m2-tbs1-f3\">Support revenue after three months</label><input id=\"bar-m2-tbs1-f3\" type=\"text\"></div><div class=\"tbs-question\"><label for=\"bar-m2-tbs1-f4\">Total recognized revenue</label><input id=\"bar-m2-tbs1-f4\" type=\"text\"></div></section>",
+  "metadata": {
+    "section": "bar",
+    "blueprintYear": 2026,
+    "areaId": "bar-II",
+    "groupId": "C",
+    "topicId": "bar-advanced-revenue",
+    "taskIds": [
+      "bar-advanced-revenue.task-1",
+      "bar-advanced-revenue.task-2",
+      "bar-advanced-revenue.task-3"
+    ],
+    "skill": "analysis",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      },
+      {
+        "title": "FASB accounting standards",
+        "url": "https://asc.fasb.org/"
+      },
+      {
+        "title": "GASB standards",
+        "url": "https://www.gasb.org/standards-and-implementation"
+      }
+    ]
+  },
+  "difficulty": "advanced",
+  "fields": [
+    {
+      "id": "bar-m2-tbs1-f1",
+      "label": "Price allocated to equipment",
+      "type": "number",
+      "options": [],
+      "correct": 120000,
+      "explanation": "$180,000 × $150,000/$225,000 = $120,000.",
+      "topicId": "bar-advanced-revenue"
+    },
+    {
+      "id": "bar-m2-tbs1-f2",
+      "label": "Price allocated to support",
+      "type": "number",
+      "options": [],
+      "correct": 60000,
+      "explanation": "The remaining one third is $60,000.",
+      "topicId": "bar-advanced-revenue"
+    },
+    {
+      "id": "bar-m2-tbs1-f3",
+      "label": "Support revenue after three months",
+      "type": "number",
+      "options": [],
+      "correct": 15000,
+      "explanation": "$60,000 × 3/12 = $15,000.",
+      "topicId": "bar-advanced-revenue"
+    },
+    {
+      "id": "bar-m2-tbs1-f4",
+      "label": "Total recognized revenue",
+      "type": "number",
+      "options": [],
+      "correct": 135000,
+      "explanation": "$120,000 equipment plus $15,000 support.",
+      "topicId": "bar-advanced-revenue"
+    }
+  ],
+  "exhibits": [
+    {
+      "id": "bar-m2-tbs1-ex1",
+      "title": "Contract",
+      "html": "<p>Transaction price $180,000. Distinct equipment standalone price $150,000; distinct support standalone price $75,000. No allocation exception applies.</p>"
+    },
+    {
+      "id": "bar-m2-tbs1-ex2",
+      "title": "Performance",
+      "html": "<p>Equipment control transfers at inception. Support is provided evenly over 12 months. Three months have elapsed; collectibility and contract criteria are satisfied.</p>"
+    }
+  ],
+  "explanation": "<h3>Price allocated to equipment</h3><p>$180,000 × $150,000/$225,000 = $120,000.</p><h3>Price allocated to support</h3><p>The remaining one third is $60,000.</p><h3>Support revenue after three months</h3><p>$60,000 × 3/12 = $15,000.</p><h3>Total recognized revenue</h3><p>$120,000 equipment plus $15,000 support.</p>"
+}

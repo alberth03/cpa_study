@@ -1,0 +1,95 @@
+{
+  "id": "reg-m3-tbs2",
+  "courseId": "reg",
+  "moduleId": 3,
+  "number": 2,
+  "title": "Cost recovery using supplied assumptions",
+  "html": "<div class=\"course-intro-card\"><h2>Cost recovery using supplied assumptions</h2><p>Prepare a deduction schedule using only the rates and limits explicitly provided for this training case.</p></div><section class=\"quiz-card\"><h3>Required responses</h3><div class=\"tbs-question\"><label for=\"reg-m3-tbs2-f1\">Basis after Section 179</label><input id=\"reg-m3-tbs2-f1\" type=\"text\"></div><div class=\"tbs-question\"><label for=\"reg-m3-tbs2-f2\">Bonus deduction under the supplied rate</label><input id=\"reg-m3-tbs2-f2\" type=\"text\"></div><div class=\"tbs-question\"><label for=\"reg-m3-tbs2-f3\">Ordinary first-year depreciation</label><input id=\"reg-m3-tbs2-f3\" type=\"text\"></div><div class=\"tbs-question\"><label for=\"reg-m3-tbs2-f4\">Adjusted basis after all stated deductions</label><input id=\"reg-m3-tbs2-f4\" type=\"text\"></div></section>",
+  "metadata": {
+    "section": "reg",
+    "blueprintYear": 2026,
+    "areaId": "reg-III",
+    "groupId": "B",
+    "topicId": "reg-property-depreciation",
+    "taskIds": [
+      "reg-property-depreciation.task-1",
+      "reg-property-depreciation.task-2",
+      "reg-property-depreciation.task-3"
+    ],
+    "skill": "analysis",
+    "validFrom": "2026-07-01",
+    "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      },
+      {
+        "title": "Internal Revenue Code",
+        "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+      },
+      {
+        "title": "IRS tax publications",
+        "url": "https://www.irs.gov/publications"
+      },
+      {
+        "title": "Circular 230",
+        "url": "https://www.irs.gov/tax-professionals/circular-230-tax-professionals"
+      }
+    ]
+  },
+  "difficulty": "advanced",
+  "fields": [
+    {
+      "id": "reg-m3-tbs2-f1",
+      "label": "Basis after Section 179",
+      "type": "number",
+      "options": [],
+      "correct": 120000,
+      "explanation": "$160,000 − $40,000 = $120,000.",
+      "topicId": "reg-property-depreciation"
+    },
+    {
+      "id": "reg-m3-tbs2-f2",
+      "label": "Bonus deduction under the supplied rate",
+      "type": "number",
+      "options": [],
+      "correct": 60000,
+      "explanation": "50% × $120,000 = $60,000.",
+      "topicId": "reg-property-depreciation"
+    },
+    {
+      "id": "reg-m3-tbs2-f3",
+      "label": "Ordinary first-year depreciation",
+      "type": "number",
+      "options": [],
+      "correct": 12000,
+      "explanation": "20% × ($120,000 − $60,000) = $12,000.",
+      "topicId": "reg-property-depreciation"
+    },
+    {
+      "id": "reg-m3-tbs2-f4",
+      "label": "Adjusted basis after all stated deductions",
+      "type": "number",
+      "options": [],
+      "correct": 48000,
+      "explanation": "$160,000 − $40,000 − $60,000 − $12,000 = $48,000.",
+      "topicId": "reg-property-depreciation"
+    }
+  ],
+  "exhibits": [
+    {
+      "id": "reg-m3-tbs2-ex1",
+      "title": "Asset and elected deduction",
+      "html": "<p>Eligible equipment basis is $160,000. The permitted Section 179 deduction is $40,000. No taxable-income or other limitation changes that amount.</p>"
+    },
+    {
+      "id": "reg-m3-tbs2-ex2",
+      "title": "Supplied training rates",
+      "html": "<p>For this exercise, bonus depreciation is 50% of basis remaining after Section 179. Ordinary first-year depreciation is 20% of the remaining basis after bonus. These supplied rates are not a universal statement of current bonus law.</p>"
+    }
+  ],
+  "explanation": "<h3>Basis after Section 179</h3><p>$160,000 − $40,000 = $120,000.</p><h3>Bonus deduction under the supplied rate</h3><p>50% × $120,000 = $60,000.</p><h3>Ordinary first-year depreciation</h3><p>20% × ($120,000 − $60,000) = $12,000.</p><h3>Adjusted basis after all stated deductions</h3><p>$160,000 − $40,000 − $60,000 − $12,000 = $48,000.</p>"
+}

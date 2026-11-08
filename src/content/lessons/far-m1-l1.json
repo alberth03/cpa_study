@@ -1,0 +1,88 @@
+{
+  "id": "far-m1-l1",
+  "courseId": "far",
+  "moduleId": 1,
+  "number": 1,
+  "title": "Financial Statements & General-Purpose Reporting",
+  "description": "Master the purpose, structure and relationships of the primary financial statements and general-purpose financial reporting.",
+  "url": "/learn/far/modules/1/lessons/1",
+  "html": "<h2> The purpose of financial reporting </h2> <p> General-purpose financial reporting provides financial information that is useful to existing and potential investors, lenders and other creditors when they make decisions about providing resources to an entity. </p> <p> FAR requires more than memorizing the names of financial statements. </p> <p> You need to understand what each statement reports, how the statements connect and how transactions flow through them. </p> <div class=\"key-points\"> <h3>CPA mindset</h3> <p> When a transaction occurs, ask: </p> <ol> <li> What accounts changed? </li> <li> Which financial statement is affected? </li> <li> Does the transaction affect income, equity, cash, or more than one statement? </li> <li> Is additional disclosure required? </li> </ol> </div> <h2> The primary financial statements </h2> <div class=\"statement-grid\"> <div class=\"statement-card\"> <h3> Balance Sheet </h3> <p> Reports assets, liabilities and stockholders' equity at a specific date. </p> <div class=\"formula-box\"> Assets = Liabilities + Equity </div> </div> <div class=\"statement-card\"> <h3> Income Statement </h3> <p> Reports revenues, expenses, gains and losses included in net income for a period of time. </p> <div class=\"formula-box\"> Revenues and Gains − Expenses and Losses = Net Income </div> </div> <div class=\"statement-card\"> <h3> Statement of Comprehensive Income </h3> <p> Reports comprehensive income, which includes net income plus other comprehensive income. </p> <div class=\"formula-box\"> Comprehensive Income = Net Income + OCI </div> </div> <div class=\"statement-card\"> <h3> Statement of Cash Flows </h3> <p> Explains changes in cash and cash equivalents through operating, investing and financing activities. </p> </div> <div class=\"statement-card\"> <h3> Statement of Changes in Equity </h3> <p> Explains changes in equity accounts during the reporting period. </p> </div> <div class=\"statement-card\"> <h3> Notes to Financial Statements </h3> <p> Provide information necessary to understand amounts, policies, uncertainties and other matters presented in the financial statements. </p> </div> </div> <h2> Point in time vs period of time </h2> <p> This distinction is very important. </p> <div class=\"comparison-grid\"> <div class=\"comparison-card\"> <h3> Point in Time </h3> <p> Balance Sheet </p> <p> Example: December 31, 20X6 </p> </div> <div class=\"comparison-card\"> <h3> Period of Time </h3> <p> Income Statement </p> <p> Comprehensive Income </p> <p> Cash Flows </p> <p> Changes in Equity </p> </div> </div> <div class=\"key-points\"> <h3>CPA trap</h3> <p> The balance sheet reports a financial position at a particular date. </p> <p> Statements such as the income statement report activity occurring during a period. </p> </div> <h2> How the statements connect </h2> <p> The statements are not independent documents. Information flows between them. </p> <h3> Example </h3> <p> Assume a corporation earns <strong>$100,000</strong> of net income and declares <strong>$30,000</strong> of dividends during the year. </p> <div class=\"formula-box\"> Increase in Retained Earnings = Net Income − Dividends </div> <div class=\"formula-box\"> $100,000 − $30,000 = $70,000 increase </div> <p> The $100,000 net income comes from the income statement. </p> <p> That income affects retained earnings, which is an equity account reported on the balance sheet. </p> <p> Dividends reduce retained earnings but are not expenses on the income statement. </p> <div class=\"key-points\"> <h3>Important CPA distinction</h3> <p> <strong>Dividends ≠ Expense</strong> </p> <p> Dividends are distributions to owners and generally reduce retained earnings. </p> </div> <h2> Accrual accounting matters </h2> <p> Financial statements prepared under accrual accounting do not simply report cash receipts and cash payments. </p> <div class=\"example-box\"> <h3>Example</h3> <p> A company performs <strong>$40,000 of services</strong> in December and collects the cash in January. </p> <p> Assuming the applicable revenue recognition requirements have been satisfied in December, December financial reporting recognizes: </p> <div class=\"journal-entry\"> <div class=\"journal-row journal-header\"> <div>Account</div> <div>Debit</div> <div>Credit</div> </div> <div class=\"journal-row\"> <div> Accounts Receivable </div> <div> $40,000 </div> <div> — </div> </div> <div class=\"journal-row credit-row\"> <div> Revenue </div> <div> — </div> <div> $40,000 </div> </div> </div> </div> <p> The income statement therefore reports the revenue in December even though December cash did not increase. </p> <p> The balance sheet reports the related Accounts Receivable. </p> <h2> Financial statement articulation </h2> <p> The financial statements should tell a connected financial story. </p> <div class=\"key-points\"> <ul> <li> Net income affects retained earnings. </li> <li> OCI affects accumulated other comprehensive income within equity. </li> <li> Ending cash on the statement of cash flows should reconcile to the cash reported on the balance sheet. </li> <li> Equity transactions flow through the statement of changes in equity and ending balance-sheet equity. </li> </ul> </div> <h2> Notes are part of financial reporting </h2> <p> A number on the face of a financial statement may not provide enough information by itself. </p> <p> Notes can explain accounting policies, significant estimates, debt terms, contingencies, commitments and other relevant information. </p> <p> FAR questions may therefore require you to determine not only the correct amount, but also how an item should be presented or disclosed. </p> <h2> Worked CPA-style example </h2> <p> Assume the following during the year: </p> <div class=\"financial-example\"> <div> <span> Beginning Retained Earnings </span> <strong> $250,000 </strong> </div> <div> <span> Net Income </span> <strong> $90,000 </strong> </div> <div> <span> Dividends </span> <strong> ($20,000) </strong> </div> </div> <h3> Step 1 — Begin with retained earnings </h3> <div class=\"formula-box\"> $250,000 </div> <h3> Step 2 — Add net income </h3> <div class=\"formula-box\"> $250,000 + $90,000 = $340,000 </div> <h3> Step 3 — Subtract dividends </h3> <div class=\"formula-box\"> $340,000 − $20,000 = $320,000 </div> <p> Ending retained earnings is <strong>$320,000</strong>. </p> <div class=\"key-points\"> <h3>Why this matters</h3> <p> This question connects the income statement to equity and ultimately to the balance sheet. </p> <p> FAR frequently tests relationships between accounts and statements rather than isolated definitions. </p> </div> <h2> What you should know after this lesson </h2> <div class=\"key-points\"> <ul> <li> Know what each primary financial statement reports. </li> <li> Distinguish point-in-time reporting from period reporting. </li> <li> Understand that accrual income and cash flow are different measures. </li> <li> Understand how net income, retained earnings and equity connect. </li> <li> Understand that dividends are not income-statement expenses. </li> <li> Understand the role of financial statement notes and disclosures. </li> <li> Think about presentation and disclosure in addition to calculation. </li> </ul> </div>",
+  "quiz": {
+    "id": "far-m1-l1-check",
+    "courseId": "far",
+    "moduleId": 1,
+    "lessonId": "far-m1-l1",
+    "topic": "General review",
+    "prompt": "A corporation begins the year with $400,000 of retained earnings, reports $120,000 of net income and declares $35,000 of dividends. What is ending retained earnings?",
+    "choices": [
+      {
+        "id": "far-m1-l1-check-a0",
+        "text": "$245,000"
+      },
+      {
+        "id": "far-m1-l1-check-a1",
+        "text": "$365,000"
+      },
+      {
+        "id": "far-m1-l1-check-a2",
+        "text": "$485,000"
+      },
+      {
+        "id": "far-m1-l1-check-a3",
+        "text": "$555,000"
+      }
+    ],
+    "correctChoiceId": "far-m1-l1-check-a2",
+    "explanation": "Ending retained earnings equals beginning retained earnings plus net income minus dividends: $400,000 + $120,000 − $35,000 = $485,000.",
+    "difficulty": "foundation",
+    "metadata": {
+      "section": "far",
+      "blueprintYear": 2026,
+      "areaId": "far-I",
+      "groupId": "module-1",
+      "topicId": "far-financial-statements-general-purpose-reporting",
+      "taskIds": [
+        "far-financial-statements-general-purpose-reporting.task-1",
+        "far-financial-statements-general-purpose-reporting.task-2",
+        "far-financial-statements-general-purpose-reporting.task-3"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "section": "far",
+    "blueprintYear": 2026,
+    "areaId": "far-I",
+    "groupId": "module-1",
+    "topicId": "far-financial-statements-general-purpose-reporting",
+    "taskIds": [
+      "far-financial-statements-general-purpose-reporting.task-1",
+      "far-financial-statements-general-purpose-reporting.task-2",
+      "far-financial-statements-general-purpose-reporting.task-3"
+    ],
+    "skill": "application",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      }
+    ]
+  },
+  "objectives": [
+    "Explain financial statements & general-purpose reporting and its underlying principles.",
+    "Apply the topic to a financial-reporting scenario.",
+    "Evaluate common errors and their financial-statement effects."
+  ]
+}

@@ -1,0 +1,1883 @@
+{
+  "id": "reg-m4-practice",
+  "title": "Individual Federal Taxation Practice",
+  "courseId": "reg",
+  "moduleId": 4,
+  "selection": "per-lesson",
+  "feedback": "immediate",
+  "passPercent": 80,
+  "questions": [
+    {
+      "id": "reg-m4-l1-q1",
+      "courseId": "reg",
+      "moduleId": 4,
+      "lessonId": "reg-m4-l1",
+      "topic": "Gross Income, Exclusions & Investment Income",
+      "prompt": "An individual receives a genuine $20,000 cash gift from a parent. What is the general recipient income-tax treatment?",
+      "choices": [
+        {
+          "id": "reg-m4-l1-q1-a0",
+          "text": "Include it as wages."
+        },
+        {
+          "id": "reg-m4-l1-q1-a1",
+          "text": "Include it as business sales."
+        },
+        {
+          "id": "reg-m4-l1-q1-a2",
+          "text": "Deduct it as a capital loss."
+        },
+        {
+          "id": "reg-m4-l1-q1-a3",
+          "text": "Exclude the gift from gross income."
+        }
+      ],
+      "correctChoiceId": "reg-m4-l1-q1-a3",
+      "explanation": "A genuine gift is generally excluded from the recipient’s gross income; transfer-tax issues are separate.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "reg",
+        "blueprintYear": 2026,
+        "areaId": "reg-IV",
+        "groupId": "A",
+        "topicId": "reg-individual-income",
+        "taskIds": [
+          "reg-individual-income.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Circular 230",
+            "url": "https://www.irs.gov/tax-professionals/circular-230-tax-professionals"
+          }
+        ]
+      }
+    },
+    {
+      "id": "reg-m4-l1-q2",
+      "courseId": "reg",
+      "moduleId": 4,
+      "lessonId": "reg-m4-l1",
+      "topic": "Gross Income, Exclusions & Investment Income",
+      "prompt": "Taxable compensation is $70,000, taxable interest is $2,000, and qualifying municipal interest is $1,000. Ignoring other items, what is regular federal gross income?",
+      "choices": [
+        {
+          "id": "reg-m4-l1-q2-a0",
+          "text": "$72,000."
+        },
+        {
+          "id": "reg-m4-l1-q2-a1",
+          "text": "$73,000."
+        },
+        {
+          "id": "reg-m4-l1-q2-a2",
+          "text": "$70,000."
+        },
+        {
+          "id": "reg-m4-l1-q2-a3",
+          "text": "$71,000."
+        }
+      ],
+      "correctChoiceId": "reg-m4-l1-q2-a0",
+      "explanation": "Include compensation and taxable interest; the stated qualifying municipal interest is excluded for this calculation.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "reg",
+        "blueprintYear": 2026,
+        "areaId": "reg-IV",
+        "groupId": "A",
+        "topicId": "reg-individual-income",
+        "taskIds": [
+          "reg-individual-income.task-2"
+        ],
+        "skill": "application",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Circular 230",
+            "url": "https://www.irs.gov/tax-professionals/circular-230-tax-professionals"
+          }
+        ]
+      }
+    },
+    {
+      "id": "reg-m4-l1-q3",
+      "courseId": "reg",
+      "moduleId": 4,
+      "lessonId": "reg-m4-l1",
+      "topic": "Gross Income, Exclusions & Investment Income",
+      "prompt": "Digital assets worth $8,000 are received for services and later sold for $9,500. No fees apply. What is the later gain?",
+      "choices": [
+        {
+          "id": "reg-m4-l1-q3-a0",
+          "text": "$9,500."
+        },
+        {
+          "id": "reg-m4-l1-q3-a1",
+          "text": "$1,500."
+        },
+        {
+          "id": "reg-m4-l1-q3-a2",
+          "text": "$8,000."
+        },
+        {
+          "id": "reg-m4-l1-q3-a3",
+          "text": "$17,500."
+        }
+      ],
+      "correctChoiceId": "reg-m4-l1-q3-a1",
+      "explanation": "The service value becomes basis under the stated facts; later proceeds minus $8,000 basis equals $1,500.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "reg",
+        "blueprintYear": 2026,
+        "areaId": "reg-IV",
+        "groupId": "A",
+        "topicId": "reg-individual-income",
+        "taskIds": [
+          "reg-individual-income.task-3"
+        ],
+        "skill": "application",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Circular 230",
+            "url": "https://www.irs.gov/tax-professionals/circular-230-tax-professionals"
+          }
+        ]
+      }
+    },
+    {
+      "id": "reg-m4-l1-q4",
+      "courseId": "reg",
+      "moduleId": 4,
+      "lessonId": "reg-m4-l1",
+      "topic": "Gross Income, Exclusions & Investment Income",
+      "prompt": "Investment stock with adjusted basis $12,000 is sold for $17,000. What is gain before holding-period characterization?",
+      "choices": [
+        {
+          "id": "reg-m4-l1-q4-a0",
+          "text": "$17,000."
+        },
+        {
+          "id": "reg-m4-l1-q4-a1",
+          "text": "$12,000."
+        },
+        {
+          "id": "reg-m4-l1-q4-a2",
+          "text": "$5,000."
+        },
+        {
+          "id": "reg-m4-l1-q4-a3",
+          "text": "$29,000."
+        }
+      ],
+      "correctChoiceId": "reg-m4-l1-q4-a2",
+      "explanation": "Gain is proceeds less adjusted basis.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "reg",
+        "blueprintYear": 2026,
+        "areaId": "reg-IV",
+        "groupId": "A",
+        "topicId": "reg-individual-income",
+        "taskIds": [
+          "reg-individual-income.task-1"
+        ],
+        "skill": "application",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Circular 230",
+            "url": "https://www.irs.gov/tax-professionals/circular-230-tax-professionals"
+          }
+        ]
+      }
+    },
+    {
+      "id": "reg-m4-l1-q5",
+      "courseId": "reg",
+      "moduleId": 4,
+      "lessonId": "reg-m4-l1",
+      "topic": "Gross Income, Exclusions & Investment Income",
+      "prompt": "A single taxpayer has a $9,000 net capital loss and no special rules apply. What is the general maximum current deduction against ordinary income?",
+      "choices": [
+        {
+          "id": "reg-m4-l1-q5-a0",
+          "text": "$9,000."
+        },
+        {
+          "id": "reg-m4-l1-q5-a1",
+          "text": "$6,000."
+        },
+        {
+          "id": "reg-m4-l1-q5-a2",
+          "text": "Zero in every case."
+        },
+        {
+          "id": "reg-m4-l1-q5-a3",
+          "text": "$3,000."
+        }
+      ],
+      "correctChoiceId": "reg-m4-l1-q5-a3",
+      "explanation": "The general annual ordinary-income offset is $3,000 for a single individual, with unused loss carried forward.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "reg",
+        "blueprintYear": 2026,
+        "areaId": "reg-IV",
+        "groupId": "A",
+        "topicId": "reg-individual-income",
+        "taskIds": [
+          "reg-individual-income.task-2"
+        ],
+        "skill": "application",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Circular 230",
+            "url": "https://www.irs.gov/tax-professionals/circular-230-tax-professionals"
+          }
+        ]
+      }
+    },
+    {
+      "id": "reg-m4-l1-q6",
+      "courseId": "reg",
+      "moduleId": 4,
+      "lessonId": "reg-m4-l1",
+      "topic": "Gross Income, Exclusions & Investment Income",
+      "prompt": "Which statement about a newly enacted deduction for qualifying receipts is sound?",
+      "choices": [
+        {
+          "id": "reg-m4-l1-q6-a0",
+          "text": "Analyze the deduction separately from inclusion and employment-tax treatment."
+        },
+        {
+          "id": "reg-m4-l1-q6-a1",
+          "text": "The receipt is automatically excluded from every tax."
+        },
+        {
+          "id": "reg-m4-l1-q6-a2",
+          "text": "All reporting records become unnecessary."
+        },
+        {
+          "id": "reg-m4-l1-q6-a3",
+          "text": "The deduction applies identically in every year."
+        }
+      ],
+      "correctChoiceId": "reg-m4-l1-q6-a0",
+      "explanation": "Inclusion, deductions, and other tax regimes can differ; evaluate the specific provision and period.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "reg",
+        "blueprintYear": 2026,
+        "areaId": "reg-IV",
+        "groupId": "A",
+        "topicId": "reg-individual-income",
+        "taskIds": [
+          "reg-individual-income.task-3"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Circular 230",
+            "url": "https://www.irs.gov/tax-professionals/circular-230-tax-professionals"
+          }
+        ]
+      }
+    },
+    {
+      "id": "reg-m4-l1-q7",
+      "courseId": "reg",
+      "moduleId": 4,
+      "lessonId": "reg-m4-l1",
+      "topic": "Gross Income, Exclusions & Investment Income",
+      "prompt": "Prepare an income summary using the classifications and assumptions supplied. Receipts: Wages $90,000; taxable bank interest $3,000; qualifying municipal interest $2,000; genuine cash gift $15,000. Digital assets worth $4,000 were received for taxable consulting services. Later sale: Those digital assets were later sold for $5,500 with no fees. Include the service income and later gain; ignore deductions and special rates. Required: Taxable wages and bank interest.",
+      "choices": [
+        {
+          "id": "reg-m4-l1-q7-a0",
+          "text": "95000"
+        },
+        {
+          "id": "reg-m4-l1-q7-a1",
+          "text": "93000"
+        },
+        {
+          "id": "reg-m4-l1-q7-a2",
+          "text": "108000"
+        },
+        {
+          "id": "reg-m4-l1-q7-a3",
+          "text": "90000"
+        }
+      ],
+      "correctChoiceId": "reg-m4-l1-q7-a1",
+      "explanation": "$90,000 + $3,000 = $93,000.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "reg",
+        "blueprintYear": 2026,
+        "areaId": "reg-IV",
+        "groupId": "A",
+        "topicId": "reg-individual-income",
+        "taskIds": [
+          "reg-individual-income.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Circular 230",
+            "url": "https://www.irs.gov/tax-professionals/circular-230-tax-professionals"
+          }
+        ]
+      },
+      "familyId": "reg-m4-tbs1"
+    },
+    {
+      "id": "reg-m4-l1-q8",
+      "courseId": "reg",
+      "moduleId": 4,
+      "lessonId": "reg-m4-l1",
+      "topic": "Gross Income, Exclusions & Investment Income",
+      "prompt": "Prepare an income summary using the classifications and assumptions supplied. Receipts: Wages $90,000; taxable bank interest $3,000; qualifying municipal interest $2,000; genuine cash gift $15,000. Digital assets worth $4,000 were received for taxable consulting services. Later sale: Those digital assets were later sold for $5,500 with no fees. Include the service income and later gain; ignore deductions and special rates. Required: Consulting income on digital-asset receipt.",
+      "choices": [
+        {
+          "id": "reg-m4-l1-q8-a0",
+          "text": "5500"
+        },
+        {
+          "id": "reg-m4-l1-q8-a1",
+          "text": "1500"
+        },
+        {
+          "id": "reg-m4-l1-q8-a2",
+          "text": "4000"
+        },
+        {
+          "id": "reg-m4-l1-q8-a3",
+          "text": "0"
+        }
+      ],
+      "correctChoiceId": "reg-m4-l1-q8-a2",
+      "explanation": "Use fair value of the assets when received for services.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "reg",
+        "blueprintYear": 2026,
+        "areaId": "reg-IV",
+        "groupId": "A",
+        "topicId": "reg-individual-income",
+        "taskIds": [
+          "reg-individual-income.task-2"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Circular 230",
+            "url": "https://www.irs.gov/tax-professionals/circular-230-tax-professionals"
+          }
+        ]
+      },
+      "familyId": "reg-m4-tbs1"
+    },
+    {
+      "id": "reg-m4-l1-q9",
+      "courseId": "reg",
+      "moduleId": 4,
+      "lessonId": "reg-m4-l1",
+      "topic": "Gross Income, Exclusions & Investment Income",
+      "prompt": "Prepare an income summary using the classifications and assumptions supplied. Receipts: Wages $90,000; taxable bank interest $3,000; qualifying municipal interest $2,000; genuine cash gift $15,000. Digital assets worth $4,000 were received for taxable consulting services. Later sale: Those digital assets were later sold for $5,500 with no fees. Include the service income and later gain; ignore deductions and special rates. Required: Gain on the later digital-asset sale.",
+      "choices": [
+        {
+          "id": "reg-m4-l1-q9-a0",
+          "text": "5500"
+        },
+        {
+          "id": "reg-m4-l1-q9-a1",
+          "text": "4000"
+        },
+        {
+          "id": "reg-m4-l1-q9-a2",
+          "text": "9500"
+        },
+        {
+          "id": "reg-m4-l1-q9-a3",
+          "text": "1500"
+        }
+      ],
+      "correctChoiceId": "reg-m4-l1-q9-a3",
+      "explanation": "$5,500 proceeds less $4,000 basis = $1,500.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "reg",
+        "blueprintYear": 2026,
+        "areaId": "reg-IV",
+        "groupId": "A",
+        "topicId": "reg-individual-income",
+        "taskIds": [
+          "reg-individual-income.task-3"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Circular 230",
+            "url": "https://www.irs.gov/tax-professionals/circular-230-tax-professionals"
+          }
+        ]
+      },
+      "familyId": "reg-m4-tbs1"
+    },
+    {
+      "id": "reg-m4-l1-q10",
+      "courseId": "reg",
+      "moduleId": 4,
+      "lessonId": "reg-m4-l1",
+      "topic": "Gross Income, Exclusions & Investment Income",
+      "prompt": "Prepare an income summary using the classifications and assumptions supplied. Receipts: Wages $90,000; taxable bank interest $3,000; qualifying municipal interest $2,000; genuine cash gift $15,000. Digital assets worth $4,000 were received for taxable consulting services. Later sale: Those digital assets were later sold for $5,500 with no fees. Include the service income and later gain; ignore deductions and special rates. Required: Total income included under the supplied assumptions.",
+      "choices": [
+        {
+          "id": "reg-m4-l1-q10-a0",
+          "text": "98500"
+        },
+        {
+          "id": "reg-m4-l1-q10-a1",
+          "text": "100500"
+        },
+        {
+          "id": "reg-m4-l1-q10-a2",
+          "text": "113500"
+        },
+        {
+          "id": "reg-m4-l1-q10-a3",
+          "text": "93000"
+        }
+      ],
+      "correctChoiceId": "reg-m4-l1-q10-a0",
+      "explanation": "$93,000 + $4,000 + $1,500 = $98,500; the stated gift and qualifying municipal interest are excluded.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "reg",
+        "blueprintYear": 2026,
+        "areaId": "reg-IV",
+        "groupId": "A",
+        "topicId": "reg-individual-income",
+        "taskIds": [
+          "reg-individual-income.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Circular 230",
+            "url": "https://www.irs.gov/tax-professionals/circular-230-tax-professionals"
+          }
+        ]
+      },
+      "familyId": "reg-m4-tbs1"
+    },
+    {
+      "id": "reg-m4-l2-q1",
+      "courseId": "reg",
+      "moduleId": 4,
+      "lessonId": "reg-m4-l2",
+      "topic": "AGI, Itemized Deductions & Taxable Income",
+      "prompt": "Gross income is $120,000 and allowable adjustments for AGI total $10,000. What is AGI?",
+      "choices": [
+        {
+          "id": "reg-m4-l2-q1-a0",
+          "text": "$110,000."
+        },
+        {
+          "id": "reg-m4-l2-q1-a1",
+          "text": "$120,000."
+        },
+        {
+          "id": "reg-m4-l2-q1-a2",
+          "text": "$130,000."
+        },
+        {
+          "id": "reg-m4-l2-q1-a3",
+          "text": "$10,000."
+        }
+      ],
+      "correctChoiceId": "reg-m4-l2-q1-a0",
+      "explanation": "AGI equals gross income less allowable adjustments.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "reg",
+        "blueprintYear": 2026,
+        "areaId": "reg-IV",
+        "groupId": "B-C",
+        "topicId": "reg-individual-deductions",
+        "taskIds": [
+          "reg-individual-deductions.task-1"
+        ],
+        "skill": "application",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Circular 230",
+            "url": "https://www.irs.gov/tax-professionals/circular-230-tax-professionals"
+          }
+        ]
+      }
+    },
+    {
+      "id": "reg-m4-l2-q2",
+      "courseId": "reg",
+      "moduleId": 4,
+      "lessonId": "reg-m4-l2",
+      "topic": "AGI, Itemized Deductions & Taxable Income",
+      "prompt": "A taxpayer may choose between allowed itemized deductions of $14,000 and a supplied standard deduction of $16,100. Which amount ordinarily minimizes taxable income?",
+      "choices": [
+        {
+          "id": "reg-m4-l2-q2-a0",
+          "text": "$14,000."
+        },
+        {
+          "id": "reg-m4-l2-q2-a1",
+          "text": "$16,100."
+        },
+        {
+          "id": "reg-m4-l2-q2-a2",
+          "text": "$30,100."
+        },
+        {
+          "id": "reg-m4-l2-q2-a3",
+          "text": "$2,100."
+        }
+      ],
+      "correctChoiceId": "reg-m4-l2-q2-a1",
+      "explanation": "Use the larger permitted alternative, not both.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "reg",
+        "blueprintYear": 2026,
+        "areaId": "reg-IV",
+        "groupId": "B-C",
+        "topicId": "reg-individual-deductions",
+        "taskIds": [
+          "reg-individual-deductions.task-2"
+        ],
+        "skill": "application",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Circular 230",
+            "url": "https://www.irs.gov/tax-professionals/circular-230-tax-professionals"
+          }
+        ]
+      }
+    },
+    {
+      "id": "reg-m4-l2-q3",
+      "courseId": "reg",
+      "moduleId": 4,
+      "lessonId": "reg-m4-l2",
+      "topic": "AGI, Itemized Deductions & Taxable Income",
+      "prompt": "AGI is $90,000 and the allowed deduction after AGI is $20,000. No other deductions apply. What is taxable income?",
+      "choices": [
+        {
+          "id": "reg-m4-l2-q3-a0",
+          "text": "$90,000."
+        },
+        {
+          "id": "reg-m4-l2-q3-a1",
+          "text": "$110,000."
+        },
+        {
+          "id": "reg-m4-l2-q3-a2",
+          "text": "$70,000."
+        },
+        {
+          "id": "reg-m4-l2-q3-a3",
+          "text": "$20,000."
+        }
+      ],
+      "correctChoiceId": "reg-m4-l2-q3-a2",
+      "explanation": "$90,000 − $20,000 = $70,000.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "reg",
+        "blueprintYear": 2026,
+        "areaId": "reg-IV",
+        "groupId": "B-C",
+        "topicId": "reg-individual-deductions",
+        "taskIds": [
+          "reg-individual-deductions.task-3"
+        ],
+        "skill": "application",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Circular 230",
+            "url": "https://www.irs.gov/tax-professionals/circular-230-tax-professionals"
+          }
+        ]
+      }
+    },
+    {
+      "id": "reg-m4-l2-q4",
+      "courseId": "reg",
+      "moduleId": 4,
+      "lessonId": "reg-m4-l2",
+      "topic": "AGI, Itemized Deductions & Taxable Income",
+      "prompt": "Which description distinguishes a deduction from a credit?",
+      "choices": [
+        {
+          "id": "reg-m4-l2-q4-a0",
+          "text": "Both always reduce tax dollar for dollar."
+        },
+        {
+          "id": "reg-m4-l2-q4-a1",
+          "text": "A credit always increases gross income."
+        },
+        {
+          "id": "reg-m4-l2-q4-a2",
+          "text": "A deduction always creates a refund equal to its amount."
+        },
+        {
+          "id": "reg-m4-l2-q4-a3",
+          "text": "A deduction reduces the tax base; a credit generally reduces tax liability."
+        }
+      ],
+      "correctChoiceId": "reg-m4-l2-q4-a3",
+      "explanation": "The tax benefit of a deduction depends on tax rates; credits operate against tax under their rules.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "reg",
+        "blueprintYear": 2026,
+        "areaId": "reg-IV",
+        "groupId": "B-C",
+        "topicId": "reg-individual-deductions",
+        "taskIds": [
+          "reg-individual-deductions.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Circular 230",
+            "url": "https://www.irs.gov/tax-professionals/circular-230-tax-professionals"
+          }
+        ]
+      }
+    },
+    {
+      "id": "reg-m4-l2-q5",
+      "courseId": "reg",
+      "moduleId": 4,
+      "lessonId": "reg-m4-l2",
+      "topic": "AGI, Itemized Deductions & Taxable Income",
+      "prompt": "A problem states that a charitable deduction is already limited to the allowable amount. What should the student do?",
+      "choices": [
+        {
+          "id": "reg-m4-l2-q5-a0",
+          "text": "Use the supplied allowed amount unless other stated facts require another adjustment."
+        },
+        {
+          "id": "reg-m4-l2-q5-a1",
+          "text": "Apply every remembered percentage limit again."
+        },
+        {
+          "id": "reg-m4-l2-q5-a2",
+          "text": "Deduct the original contribution and the allowed amount."
+        },
+        {
+          "id": "reg-m4-l2-q5-a3",
+          "text": "Ignore the contribution entirely."
+        }
+      ],
+      "correctChoiceId": "reg-m4-l2-q5-a0",
+      "explanation": "Respect supplied assumptions and avoid double-limiting or double-counting.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "reg",
+        "blueprintYear": 2026,
+        "areaId": "reg-IV",
+        "groupId": "B-C",
+        "topicId": "reg-individual-deductions",
+        "taskIds": [
+          "reg-individual-deductions.task-2"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Circular 230",
+            "url": "https://www.irs.gov/tax-professionals/circular-230-tax-professionals"
+          }
+        ]
+      }
+    },
+    {
+      "id": "reg-m4-l2-q6",
+      "courseId": "reg",
+      "moduleId": 4,
+      "lessonId": "reg-m4-l2",
+      "topic": "AGI, Itemized Deductions & Taxable Income",
+      "prompt": "Why must a SALT deduction problem specify the relevant law and facts?",
+      "choices": [
+        {
+          "id": "reg-m4-l2-q6-a0",
+          "text": "The limit is identical for all taxpayers forever."
+        },
+        {
+          "id": "reg-m4-l2-q6-a1",
+          "text": "Dollar limits and phase-out rules can change and may depend on taxpayer circumstances."
+        },
+        {
+          "id": "reg-m4-l2-q6-a2",
+          "text": "Only state names determine deductibility."
+        },
+        {
+          "id": "reg-m4-l2-q6-a3",
+          "text": "The deduction is always a refundable credit."
+        }
+      ],
+      "correctChoiceId": "reg-m4-l2-q6-a1",
+      "explanation": "Time-sensitive provisions require versioned assumptions and appropriate taxpayer facts.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "reg",
+        "blueprintYear": 2026,
+        "areaId": "reg-IV",
+        "groupId": "B-C",
+        "topicId": "reg-individual-deductions",
+        "taskIds": [
+          "reg-individual-deductions.task-3"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Circular 230",
+            "url": "https://www.irs.gov/tax-professionals/circular-230-tax-professionals"
+          }
+        ]
+      }
+    },
+    {
+      "id": "reg-m4-l2-q7",
+      "courseId": "reg",
+      "moduleId": 4,
+      "lessonId": "reg-m4-l2",
+      "topic": "AGI, Itemized Deductions & Taxable Income",
+      "prompt": "Compute AGI and taxable income using the expressly allowed amounts. Income and adjustments: Gross income is $150,000. Adjustments allowed for AGI total $12,000. Deductions: Allowed itemized deductions after all applicable limits total $24,000. The supplied standard deduction alternative is $16,100. An additional separately allowed deduction is $6,000. No other limitations apply. Required: Adjusted gross income.",
+      "choices": [
+        {
+          "id": "reg-m4-l2-q7-a0",
+          "text": "150000"
+        },
+        {
+          "id": "reg-m4-l2-q7-a1",
+          "text": "162000"
+        },
+        {
+          "id": "reg-m4-l2-q7-a2",
+          "text": "138000"
+        },
+        {
+          "id": "reg-m4-l2-q7-a3",
+          "text": "126000"
+        }
+      ],
+      "correctChoiceId": "reg-m4-l2-q7-a2",
+      "explanation": "$150,000 − $12,000 = $138,000.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "reg",
+        "blueprintYear": 2026,
+        "areaId": "reg-IV",
+        "groupId": "B-C",
+        "topicId": "reg-individual-deductions",
+        "taskIds": [
+          "reg-individual-deductions.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Circular 230",
+            "url": "https://www.irs.gov/tax-professionals/circular-230-tax-professionals"
+          }
+        ]
+      },
+      "familyId": "reg-m4-tbs2"
+    },
+    {
+      "id": "reg-m4-l2-q8",
+      "courseId": "reg",
+      "moduleId": 4,
+      "lessonId": "reg-m4-l2",
+      "topic": "AGI, Itemized Deductions & Taxable Income",
+      "prompt": "Compute AGI and taxable income using the expressly allowed amounts. Income and adjustments: Gross income is $150,000. Adjustments allowed for AGI total $12,000. Deductions: Allowed itemized deductions after all applicable limits total $24,000. The supplied standard deduction alternative is $16,100. An additional separately allowed deduction is $6,000. No other limitations apply. Required: Selected itemized or standard deduction.",
+      "choices": [
+        {
+          "id": "reg-m4-l2-q8-a0",
+          "text": "16100"
+        },
+        {
+          "id": "reg-m4-l2-q8-a1",
+          "text": "40100"
+        },
+        {
+          "id": "reg-m4-l2-q8-a2",
+          "text": "7900"
+        },
+        {
+          "id": "reg-m4-l2-q8-a3",
+          "text": "24000"
+        }
+      ],
+      "correctChoiceId": "reg-m4-l2-q8-a3",
+      "explanation": "The allowed itemized deduction is larger.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "reg",
+        "blueprintYear": 2026,
+        "areaId": "reg-IV",
+        "groupId": "B-C",
+        "topicId": "reg-individual-deductions",
+        "taskIds": [
+          "reg-individual-deductions.task-2"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Circular 230",
+            "url": "https://www.irs.gov/tax-professionals/circular-230-tax-professionals"
+          }
+        ]
+      },
+      "familyId": "reg-m4-tbs2"
+    },
+    {
+      "id": "reg-m4-l2-q9",
+      "courseId": "reg",
+      "moduleId": 4,
+      "lessonId": "reg-m4-l2",
+      "topic": "AGI, Itemized Deductions & Taxable Income",
+      "prompt": "Compute AGI and taxable income using the expressly allowed amounts. Income and adjustments: Gross income is $150,000. Adjustments allowed for AGI total $12,000. Deductions: Allowed itemized deductions after all applicable limits total $24,000. The supplied standard deduction alternative is $16,100. An additional separately allowed deduction is $6,000. No other limitations apply. Required: Total deductions from AGI in this case.",
+      "choices": [
+        {
+          "id": "reg-m4-l2-q9-a0",
+          "text": "30000"
+        },
+        {
+          "id": "reg-m4-l2-q9-a1",
+          "text": "24000"
+        },
+        {
+          "id": "reg-m4-l2-q9-a2",
+          "text": "22100"
+        },
+        {
+          "id": "reg-m4-l2-q9-a3",
+          "text": "46100"
+        }
+      ],
+      "correctChoiceId": "reg-m4-l2-q9-a0",
+      "explanation": "$24,000 plus the separate $6,000 allowed deduction.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "reg",
+        "blueprintYear": 2026,
+        "areaId": "reg-IV",
+        "groupId": "B-C",
+        "topicId": "reg-individual-deductions",
+        "taskIds": [
+          "reg-individual-deductions.task-3"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Circular 230",
+            "url": "https://www.irs.gov/tax-professionals/circular-230-tax-professionals"
+          }
+        ]
+      },
+      "familyId": "reg-m4-tbs2"
+    },
+    {
+      "id": "reg-m4-l2-q10",
+      "courseId": "reg",
+      "moduleId": 4,
+      "lessonId": "reg-m4-l2",
+      "topic": "AGI, Itemized Deductions & Taxable Income",
+      "prompt": "Compute AGI and taxable income using the expressly allowed amounts. Income and adjustments: Gross income is $150,000. Adjustments allowed for AGI total $12,000. Deductions: Allowed itemized deductions after all applicable limits total $24,000. The supplied standard deduction alternative is $16,100. An additional separately allowed deduction is $6,000. No other limitations apply. Required: Taxable income.",
+      "choices": [
+        {
+          "id": "reg-m4-l2-q10-a0",
+          "text": "114000"
+        },
+        {
+          "id": "reg-m4-l2-q10-a1",
+          "text": "108000"
+        },
+        {
+          "id": "reg-m4-l2-q10-a2",
+          "text": "120000"
+        },
+        {
+          "id": "reg-m4-l2-q10-a3",
+          "text": "138000"
+        }
+      ],
+      "correctChoiceId": "reg-m4-l2-q10-a1",
+      "explanation": "$138,000 − $30,000 = $108,000.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "reg",
+        "blueprintYear": 2026,
+        "areaId": "reg-IV",
+        "groupId": "B-C",
+        "topicId": "reg-individual-deductions",
+        "taskIds": [
+          "reg-individual-deductions.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Circular 230",
+            "url": "https://www.irs.gov/tax-professionals/circular-230-tax-professionals"
+          }
+        ]
+      },
+      "familyId": "reg-m4-tbs2"
+    },
+    {
+      "id": "reg-m4-l3-q1",
+      "courseId": "reg",
+      "moduleId": 4,
+      "lessonId": "reg-m4-l3",
+      "topic": "Filing Status, Credits, Payments & Return Review",
+      "prompt": "Tax before a permitted nonrefundable credit is $2,000 and the credit is $3,000. Ignore carryforwards and other rules. What is tax after that credit?",
+      "choices": [
+        {
+          "id": "reg-m4-l3-q1-a0",
+          "text": "Negative $1,000 automatically."
+        },
+        {
+          "id": "reg-m4-l3-q1-a1",
+          "text": "Zero."
+        },
+        {
+          "id": "reg-m4-l3-q1-a2",
+          "text": "$1,000."
+        },
+        {
+          "id": "reg-m4-l3-q1-a3",
+          "text": "$5,000."
+        }
+      ],
+      "correctChoiceId": "reg-m4-l3-q1-a1",
+      "explanation": "A nonrefundable credit generally reduces the relevant tax only to zero under these assumptions.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "reg",
+        "blueprintYear": 2026,
+        "areaId": "reg-IV",
+        "groupId": "D-E",
+        "topicId": "reg-individual-filing-credits",
+        "taskIds": [
+          "reg-individual-filing-credits.task-1"
+        ],
+        "skill": "application",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Circular 230",
+            "url": "https://www.irs.gov/tax-professionals/circular-230-tax-professionals"
+          }
+        ]
+      }
+    },
+    {
+      "id": "reg-m4-l3-q2",
+      "courseId": "reg",
+      "moduleId": 4,
+      "lessonId": "reg-m4-l3",
+      "topic": "Filing Status, Credits, Payments & Return Review",
+      "prompt": "Tax after nonrefundable credits is $7,000. Withholding is $6,000 and a refundable credit is $2,000. What is the refund?",
+      "choices": [
+        {
+          "id": "reg-m4-l3-q2-a0",
+          "text": "$7,000."
+        },
+        {
+          "id": "reg-m4-l3-q2-a1",
+          "text": "$2,000."
+        },
+        {
+          "id": "reg-m4-l3-q2-a2",
+          "text": "$1,000."
+        },
+        {
+          "id": "reg-m4-l3-q2-a3",
+          "text": "No refund because all credits are nonrefundable."
+        }
+      ],
+      "correctChoiceId": "reg-m4-l3-q2-a2",
+      "explanation": "Payments and refundable credits total $8,000 against $7,000 tax.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "reg",
+        "blueprintYear": 2026,
+        "areaId": "reg-IV",
+        "groupId": "D-E",
+        "topicId": "reg-individual-filing-credits",
+        "taskIds": [
+          "reg-individual-filing-credits.task-2"
+        ],
+        "skill": "application",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Circular 230",
+            "url": "https://www.irs.gov/tax-professionals/circular-230-tax-professionals"
+          }
+        ]
+      }
+    },
+    {
+      "id": "reg-m4-l3-q3",
+      "courseId": "reg",
+      "moduleId": 4,
+      "lessonId": "reg-m4-l3",
+      "topic": "Filing Status, Credits, Payments & Return Review",
+      "prompt": "Which fact is generally relevant to head-of-household eligibility?",
+      "choices": [
+        {
+          "id": "reg-m4-l3-q3-a0",
+          "text": "Choosing the lowest rate without household facts."
+        },
+        {
+          "id": "reg-m4-l3-q3-a1",
+          "text": "Being employed full time alone."
+        },
+        {
+          "id": "reg-m4-l3-q3-a2",
+          "text": "Having any roommate."
+        },
+        {
+          "id": "reg-m4-l3-q3-a3",
+          "text": "Paying more than half the cost of maintaining a home for a qualifying person, along with other required conditions."
+        }
+      ],
+      "correctChoiceId": "reg-m4-l3-q3-a3",
+      "explanation": "The status depends on specified marital, qualifying-person, and household-support rules.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "reg",
+        "blueprintYear": 2026,
+        "areaId": "reg-IV",
+        "groupId": "D-E",
+        "topicId": "reg-individual-filing-credits",
+        "taskIds": [
+          "reg-individual-filing-credits.task-3"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Circular 230",
+            "url": "https://www.irs.gov/tax-professionals/circular-230-tax-professionals"
+          }
+        ]
+      }
+    },
+    {
+      "id": "reg-m4-l3-q4",
+      "courseId": "reg",
+      "moduleId": 4,
+      "lessonId": "reg-m4-l3",
+      "topic": "Filing Status, Credits, Payments & Return Review",
+      "prompt": "Under supplied safe-harbor assumptions, the annual required payment is the lesser of 90% of $20,000 current tax or 100% of $16,000 prior tax. What is it?",
+      "choices": [
+        {
+          "id": "reg-m4-l3-q4-a0",
+          "text": "$16,000."
+        },
+        {
+          "id": "reg-m4-l3-q4-a1",
+          "text": "$18,000."
+        },
+        {
+          "id": "reg-m4-l3-q4-a2",
+          "text": "$20,000."
+        },
+        {
+          "id": "reg-m4-l3-q4-a3",
+          "text": "$36,000."
+        }
+      ],
+      "correctChoiceId": "reg-m4-l3-q4-a0",
+      "explanation": "Compare $18,000 with $16,000 and use the lesser under the stated assumptions.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "reg",
+        "blueprintYear": 2026,
+        "areaId": "reg-IV",
+        "groupId": "D-E",
+        "topicId": "reg-individual-filing-credits",
+        "taskIds": [
+          "reg-individual-filing-credits.task-1"
+        ],
+        "skill": "application",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Circular 230",
+            "url": "https://www.irs.gov/tax-professionals/circular-230-tax-professionals"
+          }
+        ]
+      }
+    },
+    {
+      "id": "reg-m4-l3-q5",
+      "courseId": "reg",
+      "moduleId": 4,
+      "lessonId": "reg-m4-l3",
+      "topic": "Filing Status, Credits, Payments & Return Review",
+      "prompt": "If the required annual payment is $16,000 and qualifying withholding is $8,000, what additional annual estimated payments are needed under the supplied assumptions?",
+      "choices": [
+        {
+          "id": "reg-m4-l3-q5-a0",
+          "text": "$16,000."
+        },
+        {
+          "id": "reg-m4-l3-q5-a1",
+          "text": "$8,000."
+        },
+        {
+          "id": "reg-m4-l3-q5-a2",
+          "text": "$24,000."
+        },
+        {
+          "id": "reg-m4-l3-q5-a3",
+          "text": "Zero in every case."
+        }
+      ],
+      "correctChoiceId": "reg-m4-l3-q5-a1",
+      "explanation": "$16,000 required less $8,000 withholding leaves $8,000.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "reg",
+        "blueprintYear": 2026,
+        "areaId": "reg-IV",
+        "groupId": "D-E",
+        "topicId": "reg-individual-filing-credits",
+        "taskIds": [
+          "reg-individual-filing-credits.task-2"
+        ],
+        "skill": "application",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Circular 230",
+            "url": "https://www.irs.gov/tax-professionals/circular-230-tax-professionals"
+          }
+        ]
+      }
+    },
+    {
+      "id": "reg-m4-l3-q6",
+      "courseId": "reg",
+      "moduleId": 4,
+      "lessonId": "reg-m4-l3",
+      "topic": "Filing Status, Credits, Payments & Return Review",
+      "prompt": "Which statement about a joint return is generally accurate?",
+      "choices": [
+        {
+          "id": "reg-m4-l3-q6-a0",
+          "text": "Each spouse is always liable for exactly half."
+        },
+        {
+          "id": "reg-m4-l3-q6-a1",
+          "text": "It eliminates all payment obligations."
+        },
+        {
+          "id": "reg-m4-l3-q6-a2",
+          "text": "It can create joint and several liability, subject to applicable relief provisions."
+        },
+        {
+          "id": "reg-m4-l3-q6-a3",
+          "text": "It automatically qualifies every credit."
+        }
+      ],
+      "correctChoiceId": "reg-m4-l3-q6-a2",
+      "explanation": "Joint-return liability and relief rules require separate analysis from filing convenience.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "reg",
+        "blueprintYear": 2026,
+        "areaId": "reg-IV",
+        "groupId": "D-E",
+        "topicId": "reg-individual-filing-credits",
+        "taskIds": [
+          "reg-individual-filing-credits.task-3"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Circular 230",
+            "url": "https://www.irs.gov/tax-professionals/circular-230-tax-professionals"
+          }
+        ]
+      }
+    },
+    {
+      "id": "reg-m4-l3-q7",
+      "courseId": "reg",
+      "moduleId": 4,
+      "lessonId": "reg-m4-l3",
+      "topic": "Filing Status, Credits, Payments & Return Review",
+      "prompt": "Complete a tax-payment summary using credits and payments that are already determined to be allowable. Tax and credits: Tax before credits is $12,000. Allowed nonrefundable credits total $3,000. Allowed refundable credits total $2,000. Payments: Federal withholding is $6,000 and estimated payments are $4,500. Ignore other taxes, penalties, and offsets. Required: Tax after nonrefundable credits.",
+      "choices": [
+        {
+          "id": "reg-m4-l3-q7-a0",
+          "text": "12000"
+        },
+        {
+          "id": "reg-m4-l3-q7-a1",
+          "text": "7000"
+        },
+        {
+          "id": "reg-m4-l3-q7-a2",
+          "text": "15000"
+        },
+        {
+          "id": "reg-m4-l3-q7-a3",
+          "text": "9000"
+        }
+      ],
+      "correctChoiceId": "reg-m4-l3-q7-a3",
+      "explanation": "$12,000 − $3,000 = $9,000.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "reg",
+        "blueprintYear": 2026,
+        "areaId": "reg-IV",
+        "groupId": "D-E",
+        "topicId": "reg-individual-filing-credits",
+        "taskIds": [
+          "reg-individual-filing-credits.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Circular 230",
+            "url": "https://www.irs.gov/tax-professionals/circular-230-tax-professionals"
+          }
+        ]
+      },
+      "familyId": "reg-m4-tbs3"
+    },
+    {
+      "id": "reg-m4-l3-q8",
+      "courseId": "reg",
+      "moduleId": 4,
+      "lessonId": "reg-m4-l3",
+      "topic": "Filing Status, Credits, Payments & Return Review",
+      "prompt": "Complete a tax-payment summary using credits and payments that are already determined to be allowable. Tax and credits: Tax before credits is $12,000. Allowed nonrefundable credits total $3,000. Allowed refundable credits total $2,000. Payments: Federal withholding is $6,000 and estimated payments are $4,500. Ignore other taxes, penalties, and offsets. Required: Withholding plus estimated payments.",
+      "choices": [
+        {
+          "id": "reg-m4-l3-q8-a0",
+          "text": "10500"
+        },
+        {
+          "id": "reg-m4-l3-q8-a1",
+          "text": "6000"
+        },
+        {
+          "id": "reg-m4-l3-q8-a2",
+          "text": "4500"
+        },
+        {
+          "id": "reg-m4-l3-q8-a3",
+          "text": "12500"
+        }
+      ],
+      "correctChoiceId": "reg-m4-l3-q8-a0",
+      "explanation": "$6,000 + $4,500 = $10,500.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "reg",
+        "blueprintYear": 2026,
+        "areaId": "reg-IV",
+        "groupId": "D-E",
+        "topicId": "reg-individual-filing-credits",
+        "taskIds": [
+          "reg-individual-filing-credits.task-2"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Circular 230",
+            "url": "https://www.irs.gov/tax-professionals/circular-230-tax-professionals"
+          }
+        ]
+      },
+      "familyId": "reg-m4-tbs3"
+    },
+    {
+      "id": "reg-m4-l3-q9",
+      "courseId": "reg",
+      "moduleId": 4,
+      "lessonId": "reg-m4-l3",
+      "topic": "Filing Status, Credits, Payments & Return Review",
+      "prompt": "Complete a tax-payment summary using credits and payments that are already determined to be allowable. Tax and credits: Tax before credits is $12,000. Allowed nonrefundable credits total $3,000. Allowed refundable credits total $2,000. Payments: Federal withholding is $6,000 and estimated payments are $4,500. Ignore other taxes, penalties, and offsets. Required: Total payments and refundable credits.",
+      "choices": [
+        {
+          "id": "reg-m4-l3-q9-a0",
+          "text": "10500"
+        },
+        {
+          "id": "reg-m4-l3-q9-a1",
+          "text": "12500"
+        },
+        {
+          "id": "reg-m4-l3-q9-a2",
+          "text": "9000"
+        },
+        {
+          "id": "reg-m4-l3-q9-a3",
+          "text": "14500"
+        }
+      ],
+      "correctChoiceId": "reg-m4-l3-q9-a1",
+      "explanation": "$10,500 + $2,000 = $12,500.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "reg",
+        "blueprintYear": 2026,
+        "areaId": "reg-IV",
+        "groupId": "D-E",
+        "topicId": "reg-individual-filing-credits",
+        "taskIds": [
+          "reg-individual-filing-credits.task-3"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Circular 230",
+            "url": "https://www.irs.gov/tax-professionals/circular-230-tax-professionals"
+          }
+        ]
+      },
+      "familyId": "reg-m4-tbs3"
+    },
+    {
+      "id": "reg-m4-l3-q10",
+      "courseId": "reg",
+      "moduleId": 4,
+      "lessonId": "reg-m4-l3",
+      "topic": "Filing Status, Credits, Payments & Return Review",
+      "prompt": "Complete a tax-payment summary using credits and payments that are already determined to be allowable. Tax and credits: Tax before credits is $12,000. Allowed nonrefundable credits total $3,000. Allowed refundable credits total $2,000. Payments: Federal withholding is $6,000 and estimated payments are $4,500. Ignore other taxes, penalties, and offsets. Required: Refund.",
+      "choices": [
+        {
+          "id": "reg-m4-l3-q10-a0",
+          "text": "1500"
+        },
+        {
+          "id": "reg-m4-l3-q10-a1",
+          "text": "2000"
+        },
+        {
+          "id": "reg-m4-l3-q10-a2",
+          "text": "3500"
+        },
+        {
+          "id": "reg-m4-l3-q10-a3",
+          "text": "9000"
+        }
+      ],
+      "correctChoiceId": "reg-m4-l3-q10-a2",
+      "explanation": "$12,500 credits/payments less $9,000 tax = $3,500.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "reg",
+        "blueprintYear": 2026,
+        "areaId": "reg-IV",
+        "groupId": "D-E",
+        "topicId": "reg-individual-filing-credits",
+        "taskIds": [
+          "reg-individual-filing-credits.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Circular 230",
+            "url": "https://www.irs.gov/tax-professionals/circular-230-tax-professionals"
+          }
+        ]
+      },
+      "familyId": "reg-m4-tbs3"
+    }
+  ]
+}

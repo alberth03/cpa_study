@@ -1,0 +1,158 @@
+{
+  "id": "aud-m1-tbs4",
+  "courseId": "aud",
+  "moduleId": 1,
+  "number": 4,
+  "title": "Quality review findings",
+  "html": "<div class=\"course-intro-card\"><h2>Quality review findings</h2><p>Complete a reviewer’s action matrix for a nonissuer audit.</p></div><section class=\"quiz-card\"><h3>Required responses</h3><div class=\"tbs-question\"><label for=\"aud-m1-tbs4-f1\">Action for finding A</label><select id=\"aud-m1-tbs4-f1\"><option value=\"Document procedures, evidence, and the significant judgment\">Document procedures, evidence, and the significant judgment</option><option value=\"Rely only on memory\">Rely only on memory</option><option value=\"Delete the estimate from the file\">Delete the estimate from the file</option><option value=\"Treat the checklist as conclusive\">Treat the checklist as conclusive</option></select></div><div class=\"tbs-question\"><label for=\"aud-m1-tbs4-f2\">Classification considered for finding B</label><select id=\"aud-m1-tbs4-f2\"><option value=\"Material weakness\">Material weakness</option><option value=\"Automatically trivial\">Automatically trivial</option><option value=\"Only a sampling error\">Only a sampling error</option><option value=\"No deficiency without an actual error\">No deficiency without an actual error</option></select></div><div class=\"tbs-question\"><label for=\"aud-m1-tbs4-f3\">Action for finding C</label><select id=\"aud-m1-tbs4-f3\"><option value=\"Complete the required written communication\">Complete the required written communication</option><option value=\"Treat all oral discussion as sufficient\">Treat all oral discussion as sufficient</option><option value=\"Communicate only next year\">Communicate only next year</option><option value=\"Disclose publicly instead\">Disclose publicly instead</option></select></div><div class=\"tbs-question\"><label for=\"aud-m1-tbs4-f4\">Action for finding D</label><select id=\"aud-m1-tbs4-f4\"><option value=\"Finish required review and resolve issues before issuance\">Finish required review and resolve issues before issuance</option><option value=\"Issue now and review later\">Issue now and review later</option><option value=\"Assign the opinion to the client\">Assign the opinion to the client</option><option value=\"Omit the review from documentation\">Omit the review from documentation</option></select></div></section>",
+  "metadata": {
+    "section": "aud",
+    "blueprintYear": 2026,
+    "areaId": "aud-I",
+    "groupId": "E-F-G",
+    "topicId": "aud-audit-documentation-quality",
+    "taskIds": [
+      "aud-audit-documentation-quality.task-1",
+      "aud-audit-documentation-quality.task-2",
+      "aud-audit-documentation-quality.task-3"
+    ],
+    "skill": "analysis",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      },
+      {
+        "title": "AICPA auditing standards",
+        "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+      },
+      {
+        "title": "PCAOB standards",
+        "url": "https://pcaobus.org/oversight/standards"
+      }
+    ]
+  },
+  "difficulty": "advanced",
+  "fields": [
+    {
+      "id": "aud-m1-tbs4-f1",
+      "label": "Action for finding A",
+      "type": "select",
+      "options": [
+        {
+          "value": "Document procedures, evidence, and the significant judgment",
+          "label": "Document procedures, evidence, and the significant judgment"
+        },
+        {
+          "value": "Rely only on memory",
+          "label": "Rely only on memory"
+        },
+        {
+          "value": "Delete the estimate from the file",
+          "label": "Delete the estimate from the file"
+        },
+        {
+          "value": "Treat the checklist as conclusive",
+          "label": "Treat the checklist as conclusive"
+        }
+      ],
+      "correct": "Document procedures, evidence, and the significant judgment",
+      "explanation": "The file must support significant judgments and conclusions.",
+      "topicId": "aud-audit-documentation-quality"
+    },
+    {
+      "id": "aud-m1-tbs4-f2",
+      "label": "Classification considered for finding B",
+      "type": "select",
+      "options": [
+        {
+          "value": "Material weakness",
+          "label": "Material weakness"
+        },
+        {
+          "value": "Automatically trivial",
+          "label": "Automatically trivial"
+        },
+        {
+          "value": "Only a sampling error",
+          "label": "Only a sampling error"
+        },
+        {
+          "value": "No deficiency without an actual error",
+          "label": "No deficiency without an actual error"
+        }
+      ],
+      "correct": "Material weakness",
+      "explanation": "A reasonable possibility of an undetected material misstatement meets the material-weakness concept.",
+      "topicId": "aud-audit-documentation-quality"
+    },
+    {
+      "id": "aud-m1-tbs4-f3",
+      "label": "Action for finding C",
+      "type": "select",
+      "options": [
+        {
+          "value": "Complete the required written communication",
+          "label": "Complete the required written communication"
+        },
+        {
+          "value": "Treat all oral discussion as sufficient",
+          "label": "Treat all oral discussion as sufficient"
+        },
+        {
+          "value": "Communicate only next year",
+          "label": "Communicate only next year"
+        },
+        {
+          "value": "Disclose publicly instead",
+          "label": "Disclose publicly instead"
+        }
+      ],
+      "correct": "Complete the required written communication",
+      "explanation": "Oral discussion does not replace a required written communication.",
+      "topicId": "aud-audit-documentation-quality"
+    },
+    {
+      "id": "aud-m1-tbs4-f4",
+      "label": "Action for finding D",
+      "type": "select",
+      "options": [
+        {
+          "value": "Finish required review and resolve issues before issuance",
+          "label": "Finish required review and resolve issues before issuance"
+        },
+        {
+          "value": "Issue now and review later",
+          "label": "Issue now and review later"
+        },
+        {
+          "value": "Assign the opinion to the client",
+          "label": "Assign the opinion to the client"
+        },
+        {
+          "value": "Omit the review from documentation",
+          "label": "Omit the review from documentation"
+        }
+      ],
+      "correct": "Finish required review and resolve issues before issuance",
+      "explanation": "Required quality procedures must precede issuance.",
+      "topicId": "aud-audit-documentation-quality"
+    }
+  ],
+  "exhibits": [
+    {
+      "id": "aud-m1-tbs4-ex1",
+      "title": "Review findings",
+      "html": "<p>A: A material estimate conclusion has no documented reasoning. B: A control failure could permit a material misstatement with a reasonable possibility. C: A required written governance communication was only discussed orally. D: A required quality review remains unfinished on the planned issuance date.</p>"
+    },
+    {
+      "id": "aud-m1-tbs4-ex2",
+      "title": "Scope",
+      "html": "<p>Assume the applicable standards require the written communication and engagement quality review described. Evaluate required actions rather than legal liability or a future damages claim.</p>"
+    }
+  ],
+  "explanation": "<h3>Action for finding A</h3><p>The file must support significant judgments and conclusions.</p><h3>Classification considered for finding B</h3><p>A reasonable possibility of an undetected material misstatement meets the material-weakness concept.</p><h3>Action for finding C</h3><p>Oral discussion does not replace a required written communication.</p><h3>Action for finding D</h3><p>Required quality procedures must precede issuance.</p>"
+}

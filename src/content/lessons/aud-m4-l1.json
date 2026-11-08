@@ -1,0 +1,103 @@
+{
+  "id": "aud-m4-l1",
+  "courseId": "aud",
+  "moduleId": 4,
+  "number": 1,
+  "title": "Unmodified, Qualified, Adverse & Disclaimer Opinions",
+  "description": "Distinguish known misstatement from insufficient evidence.",
+  "url": "/learn/aud/modules/4/lessons/1",
+  "metadata": {
+    "section": "aud",
+    "blueprintYear": 2026,
+    "areaId": "aud-IV",
+    "groupId": "A",
+    "topicId": "aud-audit-opinions",
+    "taskIds": [
+      "aud-audit-opinions.task-1",
+      "aud-audit-opinions.task-2",
+      "aud-audit-opinions.task-3"
+    ],
+    "skill": "application",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      },
+      {
+        "title": "AICPA auditing standards",
+        "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+      },
+      {
+        "title": "PCAOB standards",
+        "url": "https://pcaobus.org/oversight/standards"
+      }
+    ]
+  },
+  "html": "<h2>Learning objectives</h2><ul><li>Distinguish known misstatement from insufficient evidence.</li><li>Evaluate materiality and pervasiveness in opinion decisions.</li><li>Explain why an emphasis paragraph cannot cure a modified-opinion issue.</li></ul><h2>Understand the concepts</h2><p>A reporting decision begins with two questions: has sufficient appropriate evidence been obtained, and are the financial statements materially misstated? A known departure from the reporting framework differs from uncertainty caused by unavailable evidence. The distinction determines which forms of opinion are appropriate.</p><p>A material but not pervasive misstatement ordinarily leads to a qualified opinion. A material and pervasive misstatement ordinarily leads to an adverse opinion. If sufficient evidence cannot be obtained, a qualified opinion addresses possible effects that are material but not pervasive; a disclaimer addresses possible effects that are both material and pervasive. Consider the applicable standard and whether withdrawal is permitted or required.</p><p>Pervasive effects are not confined to specific elements, could represent a substantial proportion of the statements, or are fundamental to users’ understanding of disclosures. Pervasiveness is not a mechanical percentage test. Explain the affected balances, relationships, and disclosure implications.</p><p>An emphasis-of-matter paragraph draws attention to an appropriately presented or disclosed matter of fundamental importance; it does not replace a required modified opinion. Likewise, a critical audit matter or key audit matter is not a separate opinion and does not cure a known accounting departure.</p><div class=\"example-box\"><h3>The same balance, different reporting causes</h3><p>In Case A, sufficient evidence shows a material but not pervasive inventory valuation departure. In Case B, no evidence can be obtained for a pervasive portion of assets and related earnings.</p><ol><li>Case A is a known misstatement: a qualified opinion is ordinarily appropriate.</li><li>Case B is an evidence limitation with potentially material and pervasive effects: consider a disclaimer.</li><li>Do not use an emphasis paragraph as a substitute for either reporting consequence.</li></ol></div><div class=\"key-points\"><h3>Common mistakes to avoid</h3><ul><li>Adverse and disclaimer opinions address different problems.</li><li>Materiality and pervasiveness are distinct judgments.</li><li>An extra explanatory paragraph cannot fix misstated financial statements.</li></ul></div><h2>Apply and connect</h2><p>After solving the worked case, explain which facts determine the result and how a changed assumption would change your conclusion. Use the module questions to test fresh applications, then complete the related simulation before reviewing its solution.</p>",
+  "objectives": [
+    "Distinguish known misstatement from insufficient evidence.",
+    "Evaluate materiality and pervasiveness in opinion decisions.",
+    "Explain why an emphasis paragraph cannot cure a modified-opinion issue."
+  ],
+  "quiz": {
+    "id": "aud-m4-l1-q1",
+    "courseId": "aud",
+    "moduleId": 4,
+    "lessonId": "aud-m4-l1",
+    "topic": "Unmodified, Qualified, Adverse & Disclaimer Opinions",
+    "prompt": "Sufficient evidence establishes a material, pervasive departure from the reporting framework. Which opinion is ordinarily appropriate?",
+    "choices": [
+      {
+        "id": "aud-m4-l1-q1-a0",
+        "text": "Disclaimer solely because the error is known."
+      },
+      {
+        "id": "aud-m4-l1-q1-a1",
+        "text": "Unmodified with no discussion."
+      },
+      {
+        "id": "aud-m4-l1-q1-a2",
+        "text": "A compilation report."
+      },
+      {
+        "id": "aud-m4-l1-q1-a3",
+        "text": "Adverse."
+      }
+    ],
+    "correctChoiceId": "aud-m4-l1-q1-a3",
+    "explanation": "An adverse opinion addresses a known material and pervasive misstatement.",
+    "difficulty": "application",
+    "metadata": {
+      "section": "aud",
+      "blueprintYear": 2026,
+      "areaId": "aud-IV",
+      "groupId": "A",
+      "topicId": "aud-audit-opinions",
+      "taskIds": [
+        "aud-audit-opinions.task-1"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        },
+        {
+          "title": "AICPA auditing standards",
+          "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+        },
+        {
+          "title": "PCAOB standards",
+          "url": "https://pcaobus.org/oversight/standards"
+        }
+      ]
+    }
+  },
+  "relatedSimulation": "aud-m4-tbs1"
+}

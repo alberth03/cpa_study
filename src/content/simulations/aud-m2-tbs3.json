@@ -1,0 +1,107 @@
+{
+  "id": "aud-m2-tbs3",
+  "courseId": "aud",
+  "moduleId": 2,
+  "number": 3,
+  "title": "Materiality and proposed adjustments",
+  "html": "<div class=\"course-intro-card\"><h2>Materiality and proposed adjustments</h2><p>Prepare a materiality worksheet and evaluate an uncorrected-adjustment schedule.</p></div><section class=\"quiz-card\"><h3>Required responses</h3><div class=\"tbs-question\"><label for=\"aud-m2-tbs3-f1\">Overall materiality</label><input id=\"aud-m2-tbs3-f1\" type=\"text\"></div><div class=\"tbs-question\"><label for=\"aud-m2-tbs3-f2\">Performance materiality</label><input id=\"aud-m2-tbs3-f2\" type=\"text\"></div><div class=\"tbs-question\"><label for=\"aud-m2-tbs3-f3\">Aggregate understatement from A, B, and C</label><input id=\"aud-m2-tbs3-f3\" type=\"text\"></div><div class=\"tbs-question\"><label for=\"aud-m2-tbs3-f4\">Treatment of the covenant adjustment</label><select id=\"aud-m2-tbs3-f4\"><option value=\"Evaluate qualitative significance despite its size\">Evaluate qualitative significance despite its size</option><option value=\"Ignore it solely because it is small\">Ignore it solely because it is small</option><option value=\"Automatically exclude deliberate entries\">Automatically exclude deliberate entries</option><option value=\"Treat it as an audit fee\">Treat it as an audit fee</option></select></div></section>",
+  "metadata": {
+    "section": "aud",
+    "blueprintYear": 2026,
+    "areaId": "aud-II",
+    "groupId": "D-E",
+    "topicId": "aud-materiality-fraud-response",
+    "taskIds": [
+      "aud-materiality-fraud-response.task-1",
+      "aud-materiality-fraud-response.task-2",
+      "aud-materiality-fraud-response.task-3"
+    ],
+    "skill": "analysis",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      },
+      {
+        "title": "AICPA auditing standards",
+        "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+      },
+      {
+        "title": "PCAOB standards",
+        "url": "https://pcaobus.org/oversight/standards"
+      }
+    ]
+  },
+  "difficulty": "advanced",
+  "fields": [
+    {
+      "id": "aud-m2-tbs3-f1",
+      "label": "Overall materiality",
+      "type": "number",
+      "options": [],
+      "correct": 200000,
+      "explanation": "$4,000,000 × 5% = $200,000.",
+      "topicId": "aud-materiality-fraud-response"
+    },
+    {
+      "id": "aud-m2-tbs3-f2",
+      "label": "Performance materiality",
+      "type": "number",
+      "options": [],
+      "correct": 130000,
+      "explanation": "$200,000 × 65% = $130,000.",
+      "topicId": "aud-materiality-fraud-response"
+    },
+    {
+      "id": "aud-m2-tbs3-f3",
+      "label": "Aggregate understatement from A, B, and C",
+      "type": "number",
+      "options": [],
+      "correct": 215000,
+      "explanation": "$90,000 + $70,000 + $55,000 = $215,000.",
+      "topicId": "aud-materiality-fraud-response"
+    },
+    {
+      "id": "aud-m2-tbs3-f4",
+      "label": "Treatment of the covenant adjustment",
+      "type": "select",
+      "options": [
+        {
+          "value": "Evaluate qualitative significance despite its size",
+          "label": "Evaluate qualitative significance despite its size"
+        },
+        {
+          "value": "Ignore it solely because it is small",
+          "label": "Ignore it solely because it is small"
+        },
+        {
+          "value": "Automatically exclude deliberate entries",
+          "label": "Automatically exclude deliberate entries"
+        },
+        {
+          "value": "Treat it as an audit fee",
+          "label": "Treat it as an audit fee"
+        }
+      ],
+      "correct": "Evaluate qualitative significance despite its size",
+      "explanation": "Intent and covenant effects can be qualitatively material.",
+      "topicId": "aud-materiality-fraud-response"
+    }
+  ],
+  "exhibits": [
+    {
+      "id": "aud-m2-tbs3-ex1",
+      "title": "Planning policy for this case",
+      "html": "<p>Pretax income: $4,000,000. Overall materiality: 5% of pretax income. Performance materiality: 65% of overall materiality. The policy is supplied for this exercise.</p>"
+    },
+    {
+      "id": "aud-m2-tbs3-ex2",
+      "title": "Uncorrected expense understatements",
+      "html": "<p>Accrual A: $90,000. Accrual B: $70,000. Accrual C: $55,000. An additional deliberate $8,000 adjustment changes a covenant outcome.</p>"
+    }
+  ],
+  "explanation": "<h3>Overall materiality</h3><p>$4,000,000 × 5% = $200,000.</p><h3>Performance materiality</h3><p>$200,000 × 65% = $130,000.</p><h3>Aggregate understatement from A, B, and C</h3><p>$90,000 + $70,000 + $55,000 = $215,000.</p><h3>Treatment of the covenant adjustment</h3><p>Intent and covenant effects can be qualitatively material.</p>"
+}

@@ -1,0 +1,491 @@
+{
+  "id": "intermediate-m6-quiz",
+  "title": "Intermediate Module 6 Quiz",
+  "courseId": "intermediate",
+  "moduleId": 6,
+  "selection": "all",
+  "feedback": "immediate",
+  "passPercent": 80,
+  "questions": [
+    {
+      "id": "intermediate-m6-q1",
+      "courseId": "intermediate",
+      "moduleId": 6,
+      "topic": "Revenue Recognition Overview",
+      "prompt": "Which statement best describes the core principle of revenue recognition?",
+      "choices": [
+        {
+          "id": "intermediate-m6-q1-a0",
+          "text": "Revenue is recognized whenever cash is received"
+        },
+        {
+          "id": "intermediate-m6-q1-a1",
+          "text": "Revenue is recognized when or as promised goods or services are transferred to customers"
+        },
+        {
+          "id": "intermediate-m6-q1-a2",
+          "text": "Revenue is recognized when management prepares financial statements"
+        },
+        {
+          "id": "intermediate-m6-q1-a3",
+          "text": "Revenue is recognized only at year-end"
+        }
+      ],
+      "correctChoiceId": "intermediate-m6-q1-a1",
+      "explanation": "Revenue is recognized when or as performance obligations are satisfied by transferring promised goods or services to customers.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "intermediate",
+        "blueprintYear": 2026,
+        "areaId": "intermediate-I",
+        "groupId": "6",
+        "topicId": "intermediate-intermediate-general",
+        "taskIds": [
+          "intermediate-intermediate-general.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "intermediate-m6-q2",
+      "courseId": "intermediate",
+      "moduleId": 6,
+      "topic": "Five-Step Model",
+      "prompt": "Which step comes immediately after identifying the performance obligations in a contract?",
+      "choices": [
+        {
+          "id": "intermediate-m6-q2-a0",
+          "text": "Recognize revenue"
+        },
+        {
+          "id": "intermediate-m6-q2-a1",
+          "text": "Determine the transaction price"
+        },
+        {
+          "id": "intermediate-m6-q2-a2",
+          "text": "Collect cash"
+        },
+        {
+          "id": "intermediate-m6-q2-a3",
+          "text": "Prepare the income statement"
+        }
+      ],
+      "correctChoiceId": "intermediate-m6-q2-a1",
+      "explanation": "Step 3 of the revenue recognition model is determining the transaction price.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "intermediate",
+        "blueprintYear": 2026,
+        "areaId": "intermediate-I",
+        "groupId": "6",
+        "topicId": "intermediate-intermediate-general",
+        "taskIds": [
+          "intermediate-intermediate-general.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "intermediate-m6-q3",
+      "courseId": "intermediate",
+      "moduleId": 6,
+      "topic": "Contracts",
+      "prompt": "Which item is an important consideration when determining whether an arrangement qualifies as a contract with a customer?",
+      "choices": [
+        {
+          "id": "intermediate-m6-q3-a0",
+          "text": "The company must already have received all cash"
+        },
+        {
+          "id": "intermediate-m6-q3-a1",
+          "text": "The parties' rights and payment terms can be identified"
+        },
+        {
+          "id": "intermediate-m6-q3-a2",
+          "text": "The contract must contain exactly one performance obligation"
+        },
+        {
+          "id": "intermediate-m6-q3-a3",
+          "text": "Revenue must already have been recognized"
+        }
+      ],
+      "correctChoiceId": "intermediate-m6-q3-a1",
+      "explanation": "Identifiable rights and payment terms are among the important criteria used when evaluating a contract with a customer.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "intermediate",
+        "blueprintYear": 2026,
+        "areaId": "intermediate-I",
+        "groupId": "6",
+        "topicId": "intermediate-intermediate-general",
+        "taskIds": [
+          "intermediate-intermediate-general.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "intermediate-m6-q4",
+      "courseId": "intermediate",
+      "moduleId": 6,
+      "topic": "Performance Obligations",
+      "prompt": "Why must a company identify distinct performance obligations?",
+      "choices": [
+        {
+          "id": "intermediate-m6-q4-a0",
+          "text": "Because each obligation may receive an allocation of the transaction price and be recognized at a different time"
+        },
+        {
+          "id": "intermediate-m6-q4-a1",
+          "text": "Because every contract must contain at least five obligations"
+        },
+        {
+          "id": "intermediate-m6-q4-a2",
+          "text": "Because performance obligations determine income tax rates"
+        },
+        {
+          "id": "intermediate-m6-q4-a3",
+          "text": "Because each obligation must be paid for separately in cash"
+        }
+      ],
+      "correctChoiceId": "intermediate-m6-q4-a0",
+      "explanation": "Separate performance obligations may receive different allocations of consideration and may be satisfied at different times.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "intermediate",
+        "blueprintYear": 2026,
+        "areaId": "intermediate-I",
+        "groupId": "6",
+        "topicId": "intermediate-intermediate-general",
+        "taskIds": [
+          "intermediate-intermediate-general.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "intermediate-m6-q5",
+      "courseId": "intermediate",
+      "moduleId": 6,
+      "topic": "Transaction Price",
+      "prompt": "Which item is most clearly an example of variable consideration?",
+      "choices": [
+        {
+          "id": "intermediate-m6-q5-a0",
+          "text": "A guaranteed fixed contract price"
+        },
+        {
+          "id": "intermediate-m6-q5-a1",
+          "text": "A performance bonus dependent on achieving a target"
+        },
+        {
+          "id": "intermediate-m6-q5-a2",
+          "text": "Cash already in the company's bank account"
+        },
+        {
+          "id": "intermediate-m6-q5-a3",
+          "text": "The carrying amount of equipment"
+        }
+      ],
+      "correctChoiceId": "intermediate-m6-q5-a1",
+      "explanation": "A performance bonus depends on an uncertain future outcome and is therefore an example of variable consideration.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "intermediate",
+        "blueprintYear": 2026,
+        "areaId": "intermediate-I",
+        "groupId": "6",
+        "topicId": "intermediate-intermediate-general",
+        "taskIds": [
+          "intermediate-intermediate-general.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "intermediate-m6-q6",
+      "courseId": "intermediate",
+      "moduleId": 6,
+      "topic": "Transaction Price Allocation",
+      "prompt": "Product A has a standalone selling price of $900 and Service B has a standalone selling price of $600. The total contract price is $1,200. How much of the transaction price is allocated to Product A?",
+      "choices": [
+        {
+          "id": "intermediate-m6-q6-a0",
+          "text": "$480"
+        },
+        {
+          "id": "intermediate-m6-q6-a1",
+          "text": "$600"
+        },
+        {
+          "id": "intermediate-m6-q6-a2",
+          "text": "$720"
+        },
+        {
+          "id": "intermediate-m6-q6-a3",
+          "text": "$900"
+        }
+      ],
+      "correctChoiceId": "intermediate-m6-q6-a2",
+      "explanation": "Total standalone selling prices are $1,500. Product A represents 60% ($900 ÷ $1,500). Therefore, $1,200 × 60% = $720.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "intermediate",
+        "blueprintYear": 2026,
+        "areaId": "intermediate-I",
+        "groupId": "6",
+        "topicId": "intermediate-intermediate-general",
+        "taskIds": [
+          "intermediate-intermediate-general.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "intermediate-m6-q7",
+      "courseId": "intermediate",
+      "moduleId": 6,
+      "topic": "Transaction Price Allocation",
+      "prompt": "A contract price of $2,000 is allocated between two performance obligations whose standalone selling prices are $1,500 and $500. How much is allocated to the second obligation?",
+      "choices": [
+        {
+          "id": "intermediate-m6-q7-a0",
+          "text": "$250"
+        },
+        {
+          "id": "intermediate-m6-q7-a1",
+          "text": "$500"
+        },
+        {
+          "id": "intermediate-m6-q7-a2",
+          "text": "$1,000"
+        },
+        {
+          "id": "intermediate-m6-q7-a3",
+          "text": "$1,500"
+        }
+      ],
+      "correctChoiceId": "intermediate-m6-q7-a1",
+      "explanation": "The second obligation represents $500 ÷ $2,000 = 25% of total standalone selling prices. $2,000 × 25% = $500.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "intermediate",
+        "blueprintYear": 2026,
+        "areaId": "intermediate-I",
+        "groupId": "6",
+        "topicId": "intermediate-intermediate-general",
+        "taskIds": [
+          "intermediate-intermediate-general.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "intermediate-m6-q8",
+      "courseId": "intermediate",
+      "moduleId": 6,
+      "topic": "Revenue Recognition Timing",
+      "prompt": "If a performance obligation does not satisfy the criteria for recognition over time, revenue is generally recognized:",
+      "choices": [
+        {
+          "id": "intermediate-m6-q8-a0",
+          "text": "When the contract is signed"
+        },
+        {
+          "id": "intermediate-m6-q8-a1",
+          "text": "When cash is received"
+        },
+        {
+          "id": "intermediate-m6-q8-a2",
+          "text": "At a point in time when control transfers"
+        },
+        {
+          "id": "intermediate-m6-q8-a3",
+          "text": "Only at the end of the fiscal year"
+        }
+      ],
+      "correctChoiceId": "intermediate-m6-q8-a2",
+      "explanation": "If a performance obligation is not satisfied over time, it is satisfied at a point in time when control of the promised good or service transfers.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "intermediate",
+        "blueprintYear": 2026,
+        "areaId": "intermediate-I",
+        "groupId": "6",
+        "topicId": "intermediate-intermediate-general",
+        "taskIds": [
+          "intermediate-intermediate-general.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "intermediate-m6-q9",
+      "courseId": "intermediate",
+      "moduleId": 6,
+      "topic": "Over-Time Revenue",
+      "prompt": "A qualifying service contract has a transaction price of $48,000 and is satisfied evenly over 12 months. How much revenue is recognized after five months?",
+      "choices": [
+        {
+          "id": "intermediate-m6-q9-a0",
+          "text": "$4,000"
+        },
+        {
+          "id": "intermediate-m6-q9-a1",
+          "text": "$20,000"
+        },
+        {
+          "id": "intermediate-m6-q9-a2",
+          "text": "$24,000"
+        },
+        {
+          "id": "intermediate-m6-q9-a3",
+          "text": "$48,000"
+        }
+      ],
+      "correctChoiceId": "intermediate-m6-q9-a1",
+      "explanation": "$48,000 ÷ 12 = $4,000 per month. $4,000 × 5 months = $20,000.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "intermediate",
+        "blueprintYear": 2026,
+        "areaId": "intermediate-I",
+        "groupId": "6",
+        "topicId": "intermediate-intermediate-general",
+        "taskIds": [
+          "intermediate-intermediate-general.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "intermediate-m6-q10",
+      "courseId": "intermediate",
+      "moduleId": 6,
+      "topic": "Revenue Recognition Application",
+      "prompt": "A customer pays $24,000 in advance for a qualifying 12-month service that is provided evenly over the contract period. After three months, how much revenue should be recognized?",
+      "choices": [
+        {
+          "id": "intermediate-m6-q10-a0",
+          "text": "$0"
+        },
+        {
+          "id": "intermediate-m6-q10-a1",
+          "text": "$2,000"
+        },
+        {
+          "id": "intermediate-m6-q10-a2",
+          "text": "$6,000"
+        },
+        {
+          "id": "intermediate-m6-q10-a3",
+          "text": "$24,000"
+        }
+      ],
+      "correctChoiceId": "intermediate-m6-q10-a2",
+      "explanation": "Cash receipt does not determine the timing of revenue. $24,000 ÷ 12 = $2,000 per month. After three months, $6,000 has been earned.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "intermediate",
+        "blueprintYear": 2026,
+        "areaId": "intermediate-I",
+        "groupId": "6",
+        "topicId": "intermediate-intermediate-general",
+        "taskIds": [
+          "intermediate-intermediate-general.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,2951 @@
+{
+  "id": "far-m2-practice",
+  "title": "FAR Module 2 Practice",
+  "courseId": "far",
+  "moduleId": 2,
+  "selection": "per-lesson",
+  "feedback": "immediate",
+  "passPercent": 80,
+  "questions": [
+    {
+      "id": "far-m2-q1",
+      "courseId": "far",
+      "moduleId": 2,
+      "lessonId": "far-m2-l1",
+      "topic": "Cash & Cash Equivalents",
+      "prompt": "Which item should generally be included in cash and cash equivalents?",
+      "choices": [
+        {
+          "id": "far-m2-q1-a0",
+          "text": "A Treasury bill purchased with two months remaining until maturity"
+        },
+        {
+          "id": "far-m2-q1-a1",
+          "text": "Common stock held for short-term appreciation"
+        },
+        {
+          "id": "far-m2-q1-a2",
+          "text": "A five-year corporate bond purchased one month before year-end"
+        },
+        {
+          "id": "far-m2-q1-a3",
+          "text": "A restricted deposit that cannot be used for normal operations"
+        }
+      ],
+      "correctChoiceId": "far-m2-q1-a0",
+      "explanation": "Cash equivalents are short-term, highly liquid investments that are readily convertible to known amounts of cash and generally have an original maturity of three months or less when acquired.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-II",
+        "groupId": "module-2",
+        "topicId": "far-cash-cash-equivalents",
+        "taskIds": [
+          "far-cash-cash-equivalents.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m2-q2",
+      "courseId": "far",
+      "moduleId": 2,
+      "lessonId": "far-m2-l1",
+      "topic": "Cash & Cash Equivalents",
+      "prompt": "Which item appearing on a bank reconciliation generally requires an adjusting entry on the company's books?",
+      "choices": [
+        {
+          "id": "far-m2-q2-a0",
+          "text": "Deposit in transit"
+        },
+        {
+          "id": "far-m2-q2-a1",
+          "text": "Bank service charge"
+        },
+        {
+          "id": "far-m2-q2-a2",
+          "text": "Outstanding check"
+        },
+        {
+          "id": "far-m2-q2-a3",
+          "text": "Bank error that understated the bank balance"
+        }
+      ],
+      "correctChoiceId": "far-m2-q2-a1",
+      "explanation": "A bank service charge has been recorded by the bank but may not yet have been recorded by the company. Therefore, the company's books must generally be adjusted.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-II",
+        "groupId": "module-2",
+        "topicId": "far-cash-cash-equivalents",
+        "taskIds": [
+          "far-cash-cash-equivalents.task-2"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m2-q3",
+      "courseId": "far",
+      "moduleId": 2,
+      "lessonId": "far-m2-l1",
+      "topic": "Cash & Cash Equivalents",
+      "prompt": "A company has a bank balance of $48,000, deposits in transit of $7,000, and outstanding checks of $9,000. What is the adjusted bank balance?",
+      "choices": [
+        {
+          "id": "far-m2-q3-a0",
+          "text": "$39,000"
+        },
+        {
+          "id": "far-m2-q3-a1",
+          "text": "$41,000"
+        },
+        {
+          "id": "far-m2-q3-a2",
+          "text": "$46,000"
+        },
+        {
+          "id": "far-m2-q3-a3",
+          "text": "$64,000"
+        }
+      ],
+      "correctChoiceId": "far-m2-q3-a2",
+      "explanation": "Adjusted bank balance equals $48,000 plus $7,000 of deposits in transit minus $9,000 of outstanding checks, resulting in $46,000.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-II",
+        "groupId": "module-2",
+        "topicId": "far-cash-cash-equivalents",
+        "taskIds": [
+          "far-cash-cash-equivalents.task-3"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m2-q4",
+      "courseId": "far",
+      "moduleId": 2,
+      "lessonId": "far-m2-l1",
+      "topic": "Cash & Cash Equivalents",
+      "prompt": "How are outstanding checks generally treated on a bank reconciliation?",
+      "choices": [
+        {
+          "id": "far-m2-q4-a0",
+          "text": "Added to the book balance"
+        },
+        {
+          "id": "far-m2-q4-a1",
+          "text": "Deducted from the book balance"
+        },
+        {
+          "id": "far-m2-q4-a2",
+          "text": "Added to the bank balance"
+        },
+        {
+          "id": "far-m2-q4-a3",
+          "text": "Deducted from the bank balance"
+        }
+      ],
+      "correctChoiceId": "far-m2-q4-a3",
+      "explanation": "Outstanding checks have already been recorded by the company but have not yet cleared the bank. They are therefore deducted from the bank statement balance.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-II",
+        "groupId": "module-2",
+        "topicId": "far-cash-cash-equivalents",
+        "taskIds": [
+          "far-cash-cash-equivalents.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m2-q5",
+      "courseId": "far",
+      "moduleId": 2,
+      "lessonId": "far-m2-l2",
+      "topic": "Accounts Receivable",
+      "prompt": "Accounts receivable are $250,000 and the allowance for credit losses has a $12,000 credit balance. What is the net realizable value of accounts receivable?",
+      "choices": [
+        {
+          "id": "far-m2-q5-a0",
+          "text": "$238,000"
+        },
+        {
+          "id": "far-m2-q5-a1",
+          "text": "$250,000"
+        },
+        {
+          "id": "far-m2-q5-a2",
+          "text": "$262,000"
+        },
+        {
+          "id": "far-m2-q5-a3",
+          "text": "$12,000"
+        }
+      ],
+      "correctChoiceId": "far-m2-q5-a0",
+      "explanation": "Net realizable value equals gross accounts receivable minus the allowance for credit losses: $250,000 minus $12,000 equals $238,000.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-II",
+        "groupId": "module-2",
+        "topicId": "far-accounts-receivable",
+        "taskIds": [
+          "far-accounts-receivable.task-2"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m2-q6",
+      "courseId": "far",
+      "moduleId": 2,
+      "lessonId": "far-m2-l2",
+      "topic": "Accounts Receivable",
+      "prompt": "What is the immediate effect of writing off a specific receivable against an existing allowance for credit losses?",
+      "choices": [
+        {
+          "id": "far-m2-q6-a0",
+          "text": "Credit loss expense increases"
+        },
+        {
+          "id": "far-m2-q6-a1",
+          "text": "Net realizable value generally remains unchanged"
+        },
+        {
+          "id": "far-m2-q6-a2",
+          "text": "Net realizable value decreases"
+        },
+        {
+          "id": "far-m2-q6-a3",
+          "text": "Revenue decreases"
+        }
+      ],
+      "correctChoiceId": "far-m2-q6-a1",
+      "explanation": "A write-off reduces both Accounts Receivable and the Allowance for Credit Losses by the same amount. Therefore, net realizable value generally remains unchanged.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-II",
+        "groupId": "module-2",
+        "topicId": "far-accounts-receivable",
+        "taskIds": [
+          "far-accounts-receivable.task-3"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m2-q7",
+      "courseId": "far",
+      "moduleId": 2,
+      "lessonId": "far-m2-l2",
+      "topic": "Accounts Receivable",
+      "prompt": "A company's aging analysis indicates that the required ending allowance for credit losses is $18,000. Before adjustment, the allowance has a $5,000 credit balance. What adjustment is required?",
+      "choices": [
+        {
+          "id": "far-m2-q7-a0",
+          "text": "$5,000"
+        },
+        {
+          "id": "far-m2-q7-a1",
+          "text": "$18,000"
+        },
+        {
+          "id": "far-m2-q7-a2",
+          "text": "$13,000"
+        },
+        {
+          "id": "far-m2-q7-a3",
+          "text": "$23,000"
+        }
+      ],
+      "correctChoiceId": "far-m2-q7-a2",
+      "explanation": "The allowance must increase from its existing $5,000 credit balance to the required $18,000 credit balance. The adjustment is therefore $13,000.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-II",
+        "groupId": "module-2",
+        "topicId": "far-accounts-receivable",
+        "taskIds": [
+          "far-accounts-receivable.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m2-q8",
+      "courseId": "far",
+      "moduleId": 2,
+      "lessonId": "far-m2-l2",
+      "topic": "Accounts Receivable",
+      "prompt": "A company determines that a specific $9,000 accounts receivable balance is uncollectible and writes it off against an existing allowance for credit losses. What is the immediate effect of the write-off on gross accounts receivable and net realizable value?",
+      "choices": [
+        {
+          "id": "far-m2-q8-a0",
+          "text": "Gross accounts receivable decreases by $9,000, and net realizable value generally remains unchanged"
+        },
+        {
+          "id": "far-m2-q8-a1",
+          "text": "Gross accounts receivable and net realizable value both decrease by $9,000"
+        },
+        {
+          "id": "far-m2-q8-a2",
+          "text": "Gross accounts receivable remains unchanged, but net realizable value decreases by $9,000"
+        },
+        {
+          "id": "far-m2-q8-a3",
+          "text": "Gross accounts receivable decreases by $9,000, and net realizable value increases by $9,000"
+        }
+      ],
+      "correctChoiceId": "far-m2-q8-a0",
+      "explanation": "The write-off reduces both gross Accounts Receivable and the Allowance for Credit Losses by $9,000. Because both amounts decrease equally, net realizable value generally remains unchanged.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-II",
+        "groupId": "module-2",
+        "topicId": "far-accounts-receivable",
+        "taskIds": [
+          "far-accounts-receivable.task-2"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m2-q9",
+      "courseId": "far",
+      "moduleId": 2,
+      "lessonId": "far-m2-l3",
+      "topic": "Inventory",
+      "prompt": "Goods are shipped FOB shipping point on December 30 and received by the buyer on January 3. Who generally owns the goods on December 31?",
+      "choices": [
+        {
+          "id": "far-m2-q9-a0",
+          "text": "The buyer"
+        },
+        {
+          "id": "far-m2-q9-a1",
+          "text": "The seller"
+        },
+        {
+          "id": "far-m2-q9-a2",
+          "text": "The shipping company"
+        },
+        {
+          "id": "far-m2-q9-a3",
+          "text": "Neither party until delivery"
+        }
+      ],
+      "correctChoiceId": "far-m2-q9-a0",
+      "explanation": "Under FOB shipping point terms, ownership generally transfers to the buyer when the seller ships the goods.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-II",
+        "groupId": "module-2",
+        "topicId": "far-inventory",
+        "taskIds": [
+          "far-inventory.task-3"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m2-q10",
+      "courseId": "far",
+      "moduleId": 2,
+      "lessonId": "far-m2-l3",
+      "topic": "Inventory",
+      "prompt": "Inventory held by a consignee on behalf of another company should generally be included in whose inventory?",
+      "choices": [
+        {
+          "id": "far-m2-q10-a0",
+          "text": "The consignee's inventory"
+        },
+        {
+          "id": "far-m2-q10-a1",
+          "text": "The consignor's inventory"
+        },
+        {
+          "id": "far-m2-q10-a2",
+          "text": "Both companies' inventory"
+        },
+        {
+          "id": "far-m2-q10-a3",
+          "text": "Neither company's inventory"
+        }
+      ],
+      "correctChoiceId": "far-m2-q10-a1",
+      "explanation": "The consignor retains ownership of goods held on consignment. Therefore, the consignor generally includes the goods in inventory.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-II",
+        "groupId": "module-2",
+        "topicId": "far-inventory",
+        "taskIds": [
+          "far-inventory.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m2-q11",
+      "courseId": "far",
+      "moduleId": 2,
+      "lessonId": "far-m2-l3",
+      "topic": "Inventory",
+      "prompt": "During a period of rising purchase prices, FIFO will generally produce which result compared with LIFO?",
+      "choices": [
+        {
+          "id": "far-m2-q11-a0",
+          "text": "Higher cost of goods sold and lower ending inventory"
+        },
+        {
+          "id": "far-m2-q11-a1",
+          "text": "Lower net income and lower ending inventory"
+        },
+        {
+          "id": "far-m2-q11-a2",
+          "text": "Lower cost of goods sold and higher ending inventory"
+        },
+        {
+          "id": "far-m2-q11-a3",
+          "text": "Exactly the same results as LIFO"
+        }
+      ],
+      "correctChoiceId": "far-m2-q11-a2",
+      "explanation": "With rising prices, FIFO assigns older, lower costs to cost of goods sold and newer, higher costs to ending inventory. This generally produces lower COGS and higher ending inventory than LIFO.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-II",
+        "groupId": "module-2",
+        "topicId": "far-inventory",
+        "taskIds": [
+          "far-inventory.task-2"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m2-q12",
+      "courseId": "far",
+      "moduleId": 2,
+      "lessonId": "far-m2-l3",
+      "topic": "Inventory",
+      "prompt": "Estimated selling price of inventory is $75,000. Reasonably predictable costs of completion, disposal, and transportation total $9,000. What is net realizable value?",
+      "choices": [
+        {
+          "id": "far-m2-q12-a0",
+          "text": "$75,000"
+        },
+        {
+          "id": "far-m2-q12-a1",
+          "text": "$84,000"
+        },
+        {
+          "id": "far-m2-q12-a2",
+          "text": "$9,000"
+        },
+        {
+          "id": "far-m2-q12-a3",
+          "text": "$66,000"
+        }
+      ],
+      "correctChoiceId": "far-m2-q12-a3",
+      "explanation": "Net realizable value equals estimated selling price minus reasonably predictable costs of completion, disposal, and transportation: $75,000 minus $9,000 equals $66,000.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-II",
+        "groupId": "module-2",
+        "topicId": "far-inventory",
+        "taskIds": [
+          "far-inventory.task-3"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m2-q13",
+      "courseId": "far",
+      "moduleId": 2,
+      "lessonId": "far-m2-l4",
+      "topic": "Property, Plant & Equipment",
+      "prompt": "Which expenditure associated with newly purchased equipment should generally be capitalized?",
+      "choices": [
+        {
+          "id": "far-m2-q13-a0",
+          "text": "Freight and installation costs necessary to prepare the equipment for use"
+        },
+        {
+          "id": "far-m2-q13-a1",
+          "text": "Routine maintenance performed six months after installation"
+        },
+        {
+          "id": "far-m2-q13-a2",
+          "text": "Normal employee training costs"
+        },
+        {
+          "id": "far-m2-q13-a3",
+          "text": "Advertising related to the new equipment"
+        }
+      ],
+      "correctChoiceId": "far-m2-q13-a0",
+      "explanation": "Costs necessary to acquire an asset and prepare it for its intended use, such as freight and installation, are generally included in the asset's cost.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-II",
+        "groupId": "module-2",
+        "topicId": "far-property-plant-equipment",
+        "taskIds": [
+          "far-property-plant-equipment.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m2-q14",
+      "courseId": "far",
+      "moduleId": 2,
+      "lessonId": "far-m2-l4",
+      "topic": "Property, Plant & Equipment",
+      "prompt": "Equipment costs $150,000, has an estimated residual value of $30,000, and has a six-year useful life. What is annual straight-line depreciation?",
+      "choices": [
+        {
+          "id": "far-m2-q14-a0",
+          "text": "$25,000"
+        },
+        {
+          "id": "far-m2-q14-a1",
+          "text": "$20,000"
+        },
+        {
+          "id": "far-m2-q14-a2",
+          "text": "$30,000"
+        },
+        {
+          "id": "far-m2-q14-a3",
+          "text": "$15,000"
+        }
+      ],
+      "correctChoiceId": "far-m2-q14-a1",
+      "explanation": "The depreciable base is $150,000 minus $30,000, or $120,000. Dividing by six years gives annual straight-line depreciation of $20,000.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-II",
+        "groupId": "module-2",
+        "topicId": "far-property-plant-equipment",
+        "taskIds": [
+          "far-property-plant-equipment.task-2"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m2-q15",
+      "courseId": "far",
+      "moduleId": 2,
+      "lessonId": "far-m2-l4",
+      "topic": "Property, Plant & Equipment",
+      "prompt": "Equipment costing $100,000 has accumulated depreciation of $70,000 and is sold for $36,000. What should the company recognize?",
+      "choices": [
+        {
+          "id": "far-m2-q15-a0",
+          "text": "$36,000 gain"
+        },
+        {
+          "id": "far-m2-q15-a1",
+          "text": "$6,000 loss"
+        },
+        {
+          "id": "far-m2-q15-a2",
+          "text": "$6,000 gain"
+        },
+        {
+          "id": "far-m2-q15-a3",
+          "text": "$30,000 gain"
+        }
+      ],
+      "correctChoiceId": "far-m2-q15-a2",
+      "explanation": "The carrying amount is $100,000 minus $70,000, or $30,000. Selling it for $36,000 creates a $6,000 gain.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-II",
+        "groupId": "module-2",
+        "topicId": "far-property-plant-equipment",
+        "taskIds": [
+          "far-property-plant-equipment.task-3"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m2-q16",
+      "courseId": "far",
+      "moduleId": 2,
+      "lessonId": "far-m2-l4",
+      "topic": "Property, Plant & Equipment",
+      "prompt": "Under the U.S. GAAP impairment model for long-lived assets held and used, what generally occurs first when impairment is indicated?",
+      "choices": [
+        {
+          "id": "far-m2-q16-a0",
+          "text": "The asset is immediately written to zero"
+        },
+        {
+          "id": "far-m2-q16-a1",
+          "text": "Fair value is compared directly with historical cost"
+        },
+        {
+          "id": "far-m2-q16-a2",
+          "text": "The asset is automatically classified as held for sale"
+        },
+        {
+          "id": "far-m2-q16-a3",
+          "text": "Carrying amount is tested for recoverability using undiscounted cash flows"
+        }
+      ],
+      "correctChoiceId": "far-m2-q16-a3",
+      "explanation": "For long-lived assets held and used, U.S. GAAP generally begins with a recoverability test comparing carrying amount with undiscounted expected cash flows.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-II",
+        "groupId": "module-2",
+        "topicId": "far-property-plant-equipment",
+        "taskIds": [
+          "far-property-plant-equipment.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m2-q17",
+      "courseId": "far",
+      "moduleId": 2,
+      "lessonId": "far-m2-l5",
+      "topic": "Intangible Assets",
+      "prompt": "A company purchases a patent for $160,000 that is expected to provide economic benefits for eight years. Assuming no residual value, what is annual straight-line amortization?",
+      "choices": [
+        {
+          "id": "far-m2-q17-a0",
+          "text": "$20,000"
+        },
+        {
+          "id": "far-m2-q17-a1",
+          "text": "$10,000"
+        },
+        {
+          "id": "far-m2-q17-a2",
+          "text": "$16,000"
+        },
+        {
+          "id": "far-m2-q17-a3",
+          "text": "$8,000"
+        }
+      ],
+      "correctChoiceId": "far-m2-q17-a0",
+      "explanation": "Annual amortization is $160,000 divided by the eight-year useful life, resulting in $20,000.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-II",
+        "groupId": "module-2",
+        "topicId": "far-intangible-assets",
+        "taskIds": [
+          "far-intangible-assets.task-2"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m2-q18",
+      "courseId": "far",
+      "moduleId": 2,
+      "lessonId": "far-m2-l5",
+      "topic": "Intangible Assets",
+      "prompt": "A company purchases a patent for $240,000. The patent has a remaining legal life of 15 years, but the company expects the patent to generate economic benefits for only 10 years. Assuming no residual value, what annual amortization expense should generally be recognized?",
+      "choices": [
+        {
+          "id": "far-m2-q18-a0",
+          "text": "$16,000"
+        },
+        {
+          "id": "far-m2-q18-a1",
+          "text": "$24,000"
+        },
+        {
+          "id": "far-m2-q18-a2",
+          "text": "$20,000"
+        },
+        {
+          "id": "far-m2-q18-a3",
+          "text": "$0"
+        }
+      ],
+      "correctChoiceId": "far-m2-q18-a1",
+      "explanation": "A finite-lived intangible asset is generally amortized over its useful life, considering legal, contractual, regulatory, and economic factors. Because the expected economic life is 10 years, annual amortization is $240,000 ÷ 10 = $24,000.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-II",
+        "groupId": "module-2",
+        "topicId": "far-intangible-assets",
+        "taskIds": [
+          "far-intangible-assets.task-3"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m2-q19",
+      "courseId": "far",
+      "moduleId": 2,
+      "lessonId": "far-m2-l5",
+      "topic": "Intangible Assets",
+      "prompt": "A finite-lived intangible asset has a carrying amount of $180,000. Events indicate possible impairment. Expected undiscounted future cash flows are $150,000, and the asset's fair value is $125,000. Under the U.S. GAAP long-lived asset impairment model, what impairment loss should generally be recognized?",
+      "choices": [
+        {
+          "id": "far-m2-q19-a0",
+          "text": "$0"
+        },
+        {
+          "id": "far-m2-q19-a1",
+          "text": "$30,000"
+        },
+        {
+          "id": "far-m2-q19-a2",
+          "text": "$55,000"
+        },
+        {
+          "id": "far-m2-q19-a3",
+          "text": "$125,000"
+        }
+      ],
+      "correctChoiceId": "far-m2-q19-a2",
+      "explanation": "Because the $180,000 carrying amount exceeds the $150,000 of undiscounted future cash flows, the asset fails the recoverability test. The impairment loss is then measured as carrying amount minus fair value: $180,000 − $125,000 = $55,000.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-II",
+        "groupId": "module-2",
+        "topicId": "far-intangible-assets",
+        "taskIds": [
+          "far-intangible-assets.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m2-q20",
+      "courseId": "far",
+      "moduleId": 2,
+      "lessonId": "far-m2-l5",
+      "topic": "Intangible Assets",
+      "prompt": "Which statement about an indefinite-lived intangible asset is generally correct?",
+      "choices": [
+        {
+          "id": "far-m2-q20-a0",
+          "text": "It must be amortized over exactly 10 years"
+        },
+        {
+          "id": "far-m2-q20-a1",
+          "text": "It must be immediately written off"
+        },
+        {
+          "id": "far-m2-q20-a2",
+          "text": "It is treated as inventory"
+        },
+        {
+          "id": "far-m2-q20-a3",
+          "text": "It generally is not amortized but is subject to impairment testing"
+        }
+      ],
+      "correctChoiceId": "far-m2-q20-a3",
+      "explanation": "An indefinite-lived intangible asset generally is not amortized because there is no foreseeable limit on the period of expected cash flows. It is instead subject to impairment testing.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-II",
+        "groupId": "module-2",
+        "topicId": "far-intangible-assets",
+        "taskIds": [
+          "far-intangible-assets.task-2"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m2-q21",
+      "courseId": "far",
+      "moduleId": 2,
+      "lessonId": "far-m2-l6",
+      "topic": "Current Liabilities",
+      "prompt": "A $300,000 note bears interest at 6% annually. Two months of interest have accrued at year-end. What amount of interest payable should be recognized?",
+      "choices": [
+        {
+          "id": "far-m2-q21-a0",
+          "text": "$3,000"
+        },
+        {
+          "id": "far-m2-q21-a1",
+          "text": "$18,000"
+        },
+        {
+          "id": "far-m2-q21-a2",
+          "text": "$6,000"
+        },
+        {
+          "id": "far-m2-q21-a3",
+          "text": "$1,500"
+        }
+      ],
+      "correctChoiceId": "far-m2-q21-a0",
+      "explanation": "$300,000 × 6% × 2/12 equals $3,000 of accrued interest.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-II",
+        "groupId": "module-2",
+        "topicId": "far-current-liabilities",
+        "taskIds": [
+          "far-current-liabilities.task-3"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m2-q22",
+      "courseId": "far",
+      "moduleId": 2,
+      "lessonId": "far-m2-l6",
+      "topic": "Current Liabilities",
+      "prompt": "A company receives cash from a customer before satisfying the related performance obligation. What should generally be recognized initially?",
+      "choices": [
+        {
+          "id": "far-m2-q22-a0",
+          "text": "Revenue"
+        },
+        {
+          "id": "far-m2-q22-a1",
+          "text": "A contract liability or unearned revenue"
+        },
+        {
+          "id": "far-m2-q22-a2",
+          "text": "A gain"
+        },
+        {
+          "id": "far-m2-q22-a3",
+          "text": "Additional paid-in capital"
+        }
+      ],
+      "correctChoiceId": "far-m2-q22-a1",
+      "explanation": "When payment is received before the company satisfies the related performance obligation, the company generally recognizes a liability until the revenue is earned.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-II",
+        "groupId": "module-2",
+        "topicId": "far-current-liabilities",
+        "taskIds": [
+          "far-current-liabilities.task-1"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m2-q23",
+      "courseId": "far",
+      "moduleId": 2,
+      "lessonId": "far-m2-l6",
+      "topic": "Current Liabilities",
+      "prompt": "A company has $900,000 of long-term debt, of which $120,000 is due during the next year. Assuming no classification exception applies, what amount should generally be reported as current?",
+      "choices": [
+        {
+          "id": "far-m2-q23-a0",
+          "text": "$780,000"
+        },
+        {
+          "id": "far-m2-q23-a1",
+          "text": "$900,000"
+        },
+        {
+          "id": "far-m2-q23-a2",
+          "text": "$120,000"
+        },
+        {
+          "id": "far-m2-q23-a3",
+          "text": "$0"
+        }
+      ],
+      "correctChoiceId": "far-m2-q23-a2",
+      "explanation": "The $120,000 principal payment due during the next year is generally classified as a current liability when no applicable exception supports long-term classification.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-II",
+        "groupId": "module-2",
+        "topicId": "far-current-liabilities",
+        "taskIds": [
+          "far-current-liabilities.task-2"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m2-q24",
+      "courseId": "far",
+      "moduleId": 2,
+      "lessonId": "far-m2-l6",
+      "topic": "Current Liabilities",
+      "prompt": "Employees earned $14,000 of wages before year-end that will be paid next year. Which entry is generally required at year-end?",
+      "choices": [
+        {
+          "id": "far-m2-q24-a0",
+          "text": "Debit Cash and credit Wage Expense"
+        },
+        {
+          "id": "far-m2-q24-a1",
+          "text": "Debit Wages Payable and credit Cash"
+        },
+        {
+          "id": "far-m2-q24-a2",
+          "text": "Debit Wages Payable and credit Wage Expense"
+        },
+        {
+          "id": "far-m2-q24-a3",
+          "text": "Debit Wage Expense and credit Wages Payable"
+        }
+      ],
+      "correctChoiceId": "far-m2-q24-a3",
+      "explanation": "Because the employees have already earned the wages, the company recognizes Wage Expense and an accrued Wages Payable liability.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-II",
+        "groupId": "module-2",
+        "topicId": "far-current-liabilities",
+        "taskIds": [
+          "far-current-liabilities.task-3"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m2-q25",
+      "courseId": "far",
+      "moduleId": 2,
+      "lessonId": "far-m2-l7",
+      "topic": "Long-Term Debt",
+      "prompt": "A bond's stated interest rate is 9% and the market rate at issuance is 7%. The bond will generally be issued:",
+      "choices": [
+        {
+          "id": "far-m2-q25-a0",
+          "text": "At a premium"
+        },
+        {
+          "id": "far-m2-q25-a1",
+          "text": "At a discount"
+        },
+        {
+          "id": "far-m2-q25-a2",
+          "text": "At exactly zero carrying value"
+        },
+        {
+          "id": "far-m2-q25-a3",
+          "text": "Without recognizing interest"
+        }
+      ],
+      "correctChoiceId": "far-m2-q25-a0",
+      "explanation": "Because the bond pays a stated rate above the market rate, investors are generally willing to pay more than face value, resulting in a premium.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-II",
+        "groupId": "module-2",
+        "topicId": "far-long-term-debt",
+        "taskIds": [
+          "far-long-term-debt.task-1"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m2-q26",
+      "courseId": "far",
+      "moduleId": 2,
+      "lessonId": "far-m2-l7",
+      "topic": "Long-Term Debt",
+      "prompt": "Under the effective-interest method, interest expense on a bond is generally calculated using:",
+      "choices": [
+        {
+          "id": "far-m2-q26-a0",
+          "text": "Face value multiplied only by the stated rate"
+        },
+        {
+          "id": "far-m2-q26-a1",
+          "text": "Beginning carrying amount multiplied by the effective market rate"
+        },
+        {
+          "id": "far-m2-q26-a2",
+          "text": "Ending carrying amount multiplied by the stated rate"
+        },
+        {
+          "id": "far-m2-q26-a3",
+          "text": "Face value minus cash interest"
+        }
+      ],
+      "correctChoiceId": "far-m2-q26-a1",
+      "explanation": "Under the effective-interest method, interest expense is based on the beginning carrying amount of the debt multiplied by the effective interest rate for the period.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-II",
+        "groupId": "module-2",
+        "topicId": "far-long-term-debt",
+        "taskIds": [
+          "far-long-term-debt.task-2"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m2-q27",
+      "courseId": "far",
+      "moduleId": 2,
+      "lessonId": "far-m2-l7",
+      "topic": "Long-Term Debt",
+      "prompt": "A bond issued at a discount has interest expense of $42,000 and cash interest paid of $35,000. How much discount is amortized?",
+      "choices": [
+        {
+          "id": "far-m2-q27-a0",
+          "text": "$42,000"
+        },
+        {
+          "id": "far-m2-q27-a1",
+          "text": "$35,000"
+        },
+        {
+          "id": "far-m2-q27-a2",
+          "text": "$7,000"
+        },
+        {
+          "id": "far-m2-q27-a3",
+          "text": "$77,000"
+        }
+      ],
+      "correctChoiceId": "far-m2-q27-a2",
+      "explanation": "For a discount bond, discount amortization equals interest expense minus cash interest: $42,000 minus $35,000 equals $7,000.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-II",
+        "groupId": "module-2",
+        "topicId": "far-long-term-debt",
+        "taskIds": [
+          "far-long-term-debt.task-3"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m2-q28",
+      "courseId": "far",
+      "moduleId": 2,
+      "lessonId": "far-m2-l7",
+      "topic": "Long-Term Debt",
+      "prompt": "A company's debt has a net carrying amount of $520,000 and is reacquired for $545,000. What is recognized on extinguishment?",
+      "choices": [
+        {
+          "id": "far-m2-q28-a0",
+          "text": "$545,000 gain"
+        },
+        {
+          "id": "far-m2-q28-a1",
+          "text": "$25,000 gain"
+        },
+        {
+          "id": "far-m2-q28-a2",
+          "text": "No gain or loss"
+        },
+        {
+          "id": "far-m2-q28-a3",
+          "text": "$25,000 loss"
+        }
+      ],
+      "correctChoiceId": "far-m2-q28-a3",
+      "explanation": "The reacquisition price exceeds the debt's carrying amount by $25,000. Therefore, the company recognizes a $25,000 loss.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-II",
+        "groupId": "module-2",
+        "topicId": "far-long-term-debt",
+        "taskIds": [
+          "far-long-term-debt.task-1"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m2-q29",
+      "courseId": "far",
+      "moduleId": 2,
+      "lessonId": "far-m2-l8",
+      "topic": "Contingencies & Commitments",
+      "prompt": "A litigation loss is probable and can be reasonably estimated at $200,000. What is generally required under U.S. GAAP?",
+      "choices": [
+        {
+          "id": "far-m2-q29-a0",
+          "text": "Accrue the $200,000 loss"
+        },
+        {
+          "id": "far-m2-q29-a1",
+          "text": "Ignore the matter until cash is paid"
+        },
+        {
+          "id": "far-m2-q29-a2",
+          "text": "Record the amount directly in equity"
+        },
+        {
+          "id": "far-m2-q29-a3",
+          "text": "Recognize a gain"
+        }
+      ],
+      "correctChoiceId": "far-m2-q29-a0",
+      "explanation": "A loss contingency is generally accrued when it is probable that a liability has been incurred or an asset impaired and the amount can be reasonably estimated.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-III",
+        "groupId": "module-2",
+        "topicId": "far-contingencies-commitments",
+        "taskIds": [
+          "far-contingencies-commitments.task-2"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m2-q30",
+      "courseId": "far",
+      "moduleId": 2,
+      "lessonId": "far-m2-l8",
+      "topic": "Contingencies & Commitments",
+      "prompt": "A probable loss is estimated to range from $60,000 to $100,000, and no amount in the range is a better estimate than another. What amount should generally be accrued?",
+      "choices": [
+        {
+          "id": "far-m2-q30-a0",
+          "text": "$0"
+        },
+        {
+          "id": "far-m2-q30-a1",
+          "text": "$60,000"
+        },
+        {
+          "id": "far-m2-q30-a2",
+          "text": "$80,000"
+        },
+        {
+          "id": "far-m2-q30-a3",
+          "text": "$100,000"
+        }
+      ],
+      "correctChoiceId": "far-m2-q30-a1",
+      "explanation": "When no amount within a probable and reasonably estimable range is a better estimate than another, U.S. GAAP generally requires accrual of the minimum amount in the range.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-III",
+        "groupId": "module-2",
+        "topicId": "far-contingencies-commitments",
+        "taskIds": [
+          "far-contingencies-commitments.task-3"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m2-q31",
+      "courseId": "far",
+      "moduleId": 2,
+      "lessonId": "far-m2-l8",
+      "topic": "Contingencies & Commitments",
+      "prompt": "A material loss contingency is reasonably possible but not probable. What is the general accounting treatment?",
+      "choices": [
+        {
+          "id": "far-m2-q31-a0",
+          "text": "Recognize the maximum possible liability"
+        },
+        {
+          "id": "far-m2-q31-a1",
+          "text": "Accrue the minimum possible amount"
+        },
+        {
+          "id": "far-m2-q31-a2",
+          "text": "Generally disclose the contingency without accrual"
+        },
+        {
+          "id": "far-m2-q31-a3",
+          "text": "Recognize revenue"
+        }
+      ],
+      "correctChoiceId": "far-m2-q31-a2",
+      "explanation": "A reasonably possible material loss contingency generally requires disclosure but not accrual.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-III",
+        "groupId": "module-2",
+        "topicId": "far-contingencies-commitments",
+        "taskIds": [
+          "far-contingencies-commitments.task-1"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m2-q32",
+      "courseId": "far",
+      "moduleId": 2,
+      "lessonId": "far-m2-l8",
+      "topic": "Contingencies & Commitments",
+      "prompt": "How are gain contingencies generally treated before realization?",
+      "choices": [
+        {
+          "id": "far-m2-q32-a0",
+          "text": "They are always recorded as revenue"
+        },
+        {
+          "id": "far-m2-q32-a1",
+          "text": "They are always recorded in OCI"
+        },
+        {
+          "id": "far-m2-q32-a2",
+          "text": "They are recorded as liabilities"
+        },
+        {
+          "id": "far-m2-q32-a3",
+          "text": "They generally are not recognized before realization"
+        }
+      ],
+      "correctChoiceId": "far-m2-q32-a3",
+      "explanation": "Gain contingencies generally are not recognized before realization because recognizing them too early could result in premature recognition of income.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-III",
+        "groupId": "module-2",
+        "topicId": "far-contingencies-commitments",
+        "taskIds": [
+          "far-contingencies-commitments.task-2"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m2-q33",
+      "courseId": "far",
+      "moduleId": 2,
+      "lessonId": "far-m2-l9",
+      "topic": "Investments",
+      "prompt": "How is a held-to-maturity debt security generally measured?",
+      "choices": [
+        {
+          "id": "far-m2-q33-a0",
+          "text": "At amortized cost"
+        },
+        {
+          "id": "far-m2-q33-a1",
+          "text": "At fair value with changes in net income"
+        },
+        {
+          "id": "far-m2-q33-a2",
+          "text": "At fair value with all changes in retained earnings"
+        },
+        {
+          "id": "far-m2-q33-a3",
+          "text": "At liquidation value"
+        }
+      ],
+      "correctChoiceId": "far-m2-q33-a0",
+      "explanation": "Held-to-maturity debt securities are generally reported at amortized cost when the investor has the positive intent and ability to hold them to maturity.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-II",
+        "groupId": "module-2",
+        "topicId": "far-investments",
+        "taskIds": [
+          "far-investments.task-3"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m2-q34",
+      "courseId": "far",
+      "moduleId": 2,
+      "lessonId": "far-m2-l9",
+      "topic": "Investments",
+      "prompt": "Where are unrealized holding gains and losses on trading debt securities generally recognized?",
+      "choices": [
+        {
+          "id": "far-m2-q34-a0",
+          "text": "Other comprehensive income"
+        },
+        {
+          "id": "far-m2-q34-a1",
+          "text": "Net income"
+        },
+        {
+          "id": "far-m2-q34-a2",
+          "text": "Additional paid-in capital"
+        },
+        {
+          "id": "far-m2-q34-a3",
+          "text": "They are never recognized"
+        }
+      ],
+      "correctChoiceId": "far-m2-q34-a1",
+      "explanation": "Trading debt securities are generally measured at fair value, with unrealized holding gains and losses recognized in current earnings.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-II",
+        "groupId": "module-2",
+        "topicId": "far-investments",
+        "taskIds": [
+          "far-investments.task-1"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m2-q35",
+      "courseId": "far",
+      "moduleId": 2,
+      "lessonId": "far-m2-l9",
+      "topic": "Investments",
+      "prompt": "An available-for-sale debt security experiences a $20,000 unrealized holding gain unrelated to credit losses. Where is that gain generally reported?",
+      "choices": [
+        {
+          "id": "far-m2-q35-a0",
+          "text": "Retained earnings directly"
+        },
+        {
+          "id": "far-m2-q35-a1",
+          "text": "Revenue"
+        },
+        {
+          "id": "far-m2-q35-a2",
+          "text": "Other comprehensive income"
+        },
+        {
+          "id": "far-m2-q35-a3",
+          "text": "Additional paid-in capital"
+        }
+      ],
+      "correctChoiceId": "far-m2-q35-a2",
+      "explanation": "Unrealized holding gains and losses on available-for-sale debt securities generally are recognized in other comprehensive income, subject to the applicable credit-loss guidance.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-II",
+        "groupId": "module-2",
+        "topicId": "far-investments",
+        "taskIds": [
+          "far-investments.task-2"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m2-q36",
+      "courseId": "far",
+      "moduleId": 2,
+      "lessonId": "far-m2-l9",
+      "topic": "Investments",
+      "prompt": "Under the equity method, how are cash dividends received from the investee generally treated by the investor?",
+      "choices": [
+        {
+          "id": "far-m2-q36-a0",
+          "text": "As additional investment income"
+        },
+        {
+          "id": "far-m2-q36-a1",
+          "text": "As an increase in goodwill"
+        },
+        {
+          "id": "far-m2-q36-a2",
+          "text": "As an increase in the investment account"
+        },
+        {
+          "id": "far-m2-q36-a3",
+          "text": "As a reduction of the investment account"
+        }
+      ],
+      "correctChoiceId": "far-m2-q36-a3",
+      "explanation": "Under the equity method, dividends generally represent a return of investment and therefore reduce the carrying amount of the investment.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-II",
+        "groupId": "module-2",
+        "topicId": "far-investments",
+        "taskIds": [
+          "far-investments.task-3"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m2-q37",
+      "courseId": "far",
+      "moduleId": 2,
+      "lessonId": "far-m2-l10",
+      "topic": "Equity Accounts",
+      "prompt": "A corporation issues 5,000 shares of $4 par common stock for $12 per share. How much additional paid-in capital is recognized?",
+      "choices": [
+        {
+          "id": "far-m2-q37-a0",
+          "text": "$40,000"
+        },
+        {
+          "id": "far-m2-q37-a1",
+          "text": "$20,000"
+        },
+        {
+          "id": "far-m2-q37-a2",
+          "text": "$60,000"
+        },
+        {
+          "id": "far-m2-q37-a3",
+          "text": "$80,000"
+        }
+      ],
+      "correctChoiceId": "far-m2-q37-a0",
+      "explanation": "Cash received is 5,000 × $12 = $60,000. Common Stock is credited for 5,000 × $4 = $20,000. The remaining $40,000 is credited to additional paid-in capital.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-I",
+        "groupId": "module-2",
+        "topicId": "far-equity-accounts",
+        "taskIds": [
+          "far-equity-accounts.task-1"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m2-q38",
+      "courseId": "far",
+      "moduleId": 2,
+      "lessonId": "far-m2-l10",
+      "topic": "Equity Accounts",
+      "prompt": "What is the general effect of purchasing treasury stock under the cost method?",
+      "choices": [
+        {
+          "id": "far-m2-q38-a0",
+          "text": "Total stockholders' equity increases"
+        },
+        {
+          "id": "far-m2-q38-a1",
+          "text": "Total stockholders' equity decreases"
+        },
+        {
+          "id": "far-m2-q38-a2",
+          "text": "Net income increases"
+        },
+        {
+          "id": "far-m2-q38-a3",
+          "text": "Total liabilities increase"
+        }
+      ],
+      "correctChoiceId": "far-m2-q38-a1",
+      "explanation": "Treasury stock is generally a contra-equity account. Purchasing treasury shares therefore reduces total stockholders' equity.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-I",
+        "groupId": "module-2",
+        "topicId": "far-equity-accounts",
+        "taskIds": [
+          "far-equity-accounts.task-2"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m2-q39",
+      "courseId": "far",
+      "moduleId": 2,
+      "lessonId": "far-m2-l10",
+      "topic": "Equity Accounts",
+      "prompt": "Beginning retained earnings are $420,000. Net income is $95,000 and dividends are $35,000. What is ending retained earnings?",
+      "choices": [
+        {
+          "id": "far-m2-q39-a0",
+          "text": "$515,000"
+        },
+        {
+          "id": "far-m2-q39-a1",
+          "text": "$455,000"
+        },
+        {
+          "id": "far-m2-q39-a2",
+          "text": "$480,000"
+        },
+        {
+          "id": "far-m2-q39-a3",
+          "text": "$550,000"
+        }
+      ],
+      "correctChoiceId": "far-m2-q39-a2",
+      "explanation": "Ending retained earnings equals $420,000 plus $95,000 of net income minus $35,000 of dividends, resulting in $480,000.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-I",
+        "groupId": "module-2",
+        "topicId": "far-equity-accounts",
+        "taskIds": [
+          "far-equity-accounts.task-3"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m2-q40",
+      "courseId": "far",
+      "moduleId": 2,
+      "lessonId": "far-m2-l10",
+      "topic": "Equity Accounts",
+      "prompt": "A corporation has 300,000 shares issued and 45,000 shares held as treasury stock. How many shares are outstanding?",
+      "choices": [
+        {
+          "id": "far-m2-q40-a0",
+          "text": "300,000"
+        },
+        {
+          "id": "far-m2-q40-a1",
+          "text": "345,000"
+        },
+        {
+          "id": "far-m2-q40-a2",
+          "text": "45,000"
+        },
+        {
+          "id": "far-m2-q40-a3",
+          "text": "255,000"
+        }
+      ],
+      "correctChoiceId": "far-m2-q40-a3",
+      "explanation": "Outstanding shares equal issued shares minus treasury shares: 300,000 minus 45,000 equals 255,000.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-I",
+        "groupId": "module-2",
+        "topicId": "far-equity-accounts",
+        "taskIds": [
+          "far-equity-accounts.task-1"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m2-q41",
+      "courseId": "far",
+      "moduleId": 2,
+      "lessonId": "far-m2-l1",
+      "topic": "Cash & Cash Equivalents",
+      "prompt": "At December 31, a company has unrestricted checking deposits of $85,000, petty cash of $2,000, a Treasury bill purchased 45 days before maturity for $30,000, and $40,000 of cash restricted for construction of a building expected to begin in two years. What amount should generally be included with unrestricted cash and cash equivalents?",
+      "choices": [
+        {
+          "id": "far-m2-q41-a0",
+          "text": "$157,000"
+        },
+        {
+          "id": "far-m2-q41-a1",
+          "text": "$117,000"
+        },
+        {
+          "id": "far-m2-q41-a2",
+          "text": "$87,000"
+        },
+        {
+          "id": "far-m2-q41-a3",
+          "text": "$115,000"
+        }
+      ],
+      "correctChoiceId": "far-m2-q41-a1",
+      "explanation": "Unrestricted checking deposits of $85,000, petty cash of $2,000, and the qualifying $30,000 Treasury bill are included, for a total of $117,000. The $40,000 restricted for a long-term construction purpose generally should not be included with unrestricted cash and cash equivalents.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-II",
+        "groupId": "module-2",
+        "topicId": "far-cash-cash-equivalents",
+        "taskIds": [
+          "far-cash-cash-equivalents.task-2"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m2-q42",
+      "courseId": "far",
+      "moduleId": 2,
+      "lessonId": "far-m2-l1",
+      "topic": "Cash & Cash Equivalents",
+      "prompt": "A company's bank statement shows $96,000. Deposits in transit are $14,000, outstanding checks are $21,000, and the bank incorrectly deducted another company's $3,000 check from the company's account. What is the adjusted bank balance?",
+      "choices": [
+        {
+          "id": "far-m2-q42-a0",
+          "text": "$86,000"
+        },
+        {
+          "id": "far-m2-q42-a1",
+          "text": "$92,000"
+        },
+        {
+          "id": "far-m2-q42-a2",
+          "text": "$89,000"
+        },
+        {
+          "id": "far-m2-q42-a3",
+          "text": "$110,000"
+        }
+      ],
+      "correctChoiceId": "far-m2-q42-a1",
+      "explanation": "Adjusted bank balance is $96,000 + $14,000 − $21,000 + $3,000 = $92,000. The bank error is added back because the company should not have been charged for another company's check.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-II",
+        "groupId": "module-2",
+        "topicId": "far-cash-cash-equivalents",
+        "taskIds": [
+          "far-cash-cash-equivalents.task-3"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m2-q43",
+      "courseId": "far",
+      "moduleId": 2,
+      "lessonId": "far-m2-l2",
+      "topic": "Accounts Receivable",
+      "prompt": "At year-end, Accounts Receivable is $500,000. An aging analysis indicates that the required ending Allowance for Credit Losses is $28,000. Before adjustment, the allowance has a $4,000 debit balance. What credit loss expense should be recognized?",
+      "choices": [
+        {
+          "id": "far-m2-q43-a0",
+          "text": "$24,000"
+        },
+        {
+          "id": "far-m2-q43-a1",
+          "text": "$28,000"
+        },
+        {
+          "id": "far-m2-q43-a2",
+          "text": "$32,000"
+        },
+        {
+          "id": "far-m2-q43-a3",
+          "text": "$4,000"
+        }
+      ],
+      "correctChoiceId": "far-m2-q43-a2",
+      "explanation": "The allowance must move from a $4,000 debit balance to a $28,000 credit balance. Therefore, the required adjustment and credit loss expense is $32,000.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-II",
+        "groupId": "module-2",
+        "topicId": "far-accounts-receivable",
+        "taskIds": [
+          "far-accounts-receivable.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m2-q44",
+      "courseId": "far",
+      "moduleId": 2,
+      "lessonId": "far-m2-l2",
+      "topic": "Accounts Receivable",
+      "prompt": "Beginning Accounts Receivable was $210,000. Credit sales during the year were $900,000, cash collections were $840,000, and $15,000 of receivables were written off. What is ending gross Accounts Receivable?",
+      "choices": [
+        {
+          "id": "far-m2-q44-a0",
+          "text": "$255,000"
+        },
+        {
+          "id": "far-m2-q44-a1",
+          "text": "$270,000"
+        },
+        {
+          "id": "far-m2-q44-a2",
+          "text": "$285,000"
+        },
+        {
+          "id": "far-m2-q44-a3",
+          "text": "$225,000"
+        }
+      ],
+      "correctChoiceId": "far-m2-q44-a0",
+      "explanation": "Ending Accounts Receivable = $210,000 + $900,000 − $840,000 − $15,000 = $255,000.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-II",
+        "groupId": "module-2",
+        "topicId": "far-accounts-receivable",
+        "taskIds": [
+          "far-accounts-receivable.task-2"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m2-q45",
+      "courseId": "far",
+      "moduleId": 2,
+      "lessonId": "far-m2-l3",
+      "topic": "Inventory",
+      "prompt": "Inventory accounted for using FIFO has a cost of $140,000 and a net realizable value of $126,000. Under the applicable lower-of-cost-and-NRV guidance, at what amount should the inventory generally be reported?",
+      "choices": [
+        {
+          "id": "far-m2-q45-a0",
+          "text": "$140,000"
+        },
+        {
+          "id": "far-m2-q45-a1",
+          "text": "$133,000"
+        },
+        {
+          "id": "far-m2-q45-a2",
+          "text": "$126,000"
+        },
+        {
+          "id": "far-m2-q45-a3",
+          "text": "$14,000"
+        }
+      ],
+      "correctChoiceId": "far-m2-q45-a2",
+      "explanation": "Inventory measured using FIFO is generally subject to the lower of cost and net realizable value. Because NRV of $126,000 is below cost of $140,000, the inventory is reported at $126,000.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-II",
+        "groupId": "module-2",
+        "topicId": "far-inventory",
+        "taskIds": [
+          "far-inventory.task-3"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m2-q46",
+      "courseId": "far",
+      "moduleId": 2,
+      "lessonId": "far-m2-l3",
+      "topic": "Inventory",
+      "prompt": "Inventory measured using LIFO has a cost of $120,000. Replacement cost is $102,000, net realizable value is $110,000, and a normal profit margin is $12,000. Under the lower-of-cost-or-market approach applicable to LIFO inventory, what amount is generally used as market?",
+      "choices": [
+        {
+          "id": "far-m2-q46-a0",
+          "text": "$98,000"
+        },
+        {
+          "id": "far-m2-q46-a1",
+          "text": "$102,000"
+        },
+        {
+          "id": "far-m2-q46-a2",
+          "text": "$110,000"
+        },
+        {
+          "id": "far-m2-q46-a3",
+          "text": "$120,000"
+        }
+      ],
+      "correctChoiceId": "far-m2-q46-a1",
+      "explanation": "Designated market is generally replacement cost constrained by a ceiling of NRV and a floor of NRV minus normal profit margin. The ceiling is $110,000 and the floor is $98,000. Replacement cost of $102,000 falls within that range, so market is $102,000.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-II",
+        "groupId": "module-2",
+        "topicId": "far-inventory",
+        "taskIds": [
+          "far-inventory.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m2-q47",
+      "courseId": "far",
+      "moduleId": 2,
+      "lessonId": "far-m2-l3",
+      "topic": "Inventory",
+      "prompt": "Ending inventory for Year 1 is understated by $25,000, and the error is not corrected until after Year 2. Assuming no other errors, what is the effect on Year 1 net income and Year 2 net income?",
+      "choices": [
+        {
+          "id": "far-m2-q47-a0",
+          "text": "Year 1 overstated $25,000; Year 2 understated $25,000"
+        },
+        {
+          "id": "far-m2-q47-a1",
+          "text": "Both years understated $25,000"
+        },
+        {
+          "id": "far-m2-q47-a2",
+          "text": "Year 1 understated $25,000; Year 2 overstated $25,000"
+        },
+        {
+          "id": "far-m2-q47-a3",
+          "text": "Neither year's net income is affected"
+        }
+      ],
+      "correctChoiceId": "far-m2-q47-a2",
+      "explanation": "Understated ending inventory overstates Year 1 cost of goods sold and understates Year 1 net income by $25,000. That understated ending inventory becomes understated beginning inventory in Year 2, causing Year 2 COGS to be understated and Year 2 net income to be overstated by $25,000.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-II",
+        "groupId": "module-2",
+        "topicId": "far-inventory",
+        "taskIds": [
+          "far-inventory.task-2"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m2-q48",
+      "courseId": "far",
+      "moduleId": 2,
+      "lessonId": "far-m2-l4",
+      "topic": "Property, Plant & Equipment",
+      "prompt": "A company purchases equipment for $300,000 and pays $12,000 freight, $18,000 installation, $5,000 employee training, and $4,000 for routine maintenance after the equipment is placed in service. What amount should generally be capitalized as the equipment's initial cost?",
+      "choices": [
+        {
+          "id": "far-m2-q48-a0",
+          "text": "$339,000"
+        },
+        {
+          "id": "far-m2-q48-a1",
+          "text": "$330,000"
+        },
+        {
+          "id": "far-m2-q48-a2",
+          "text": "$335,000"
+        },
+        {
+          "id": "far-m2-q48-a3",
+          "text": "$300,000"
+        }
+      ],
+      "correctChoiceId": "far-m2-q48-a1",
+      "explanation": "The equipment's cost includes the $300,000 purchase price, $12,000 freight, and $18,000 installation necessary to prepare it for use, totaling $330,000. Employee training and subsequent routine maintenance are generally expensed.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-II",
+        "groupId": "module-2",
+        "topicId": "far-property-plant-equipment",
+        "taskIds": [
+          "far-property-plant-equipment.task-3"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m2-q49",
+      "courseId": "far",
+      "moduleId": 2,
+      "lessonId": "far-m2-l4",
+      "topic": "Property, Plant & Equipment",
+      "prompt": "A long-lived asset held and used has a carrying amount of $620,000. Expected undiscounted future cash flows are $570,000 and fair value is $510,000. What impairment loss should generally be recognized under U.S. GAAP?",
+      "choices": [
+        {
+          "id": "far-m2-q49-a0",
+          "text": "$50,000"
+        },
+        {
+          "id": "far-m2-q49-a1",
+          "text": "$60,000"
+        },
+        {
+          "id": "far-m2-q49-a2",
+          "text": "$110,000"
+        },
+        {
+          "id": "far-m2-q49-a3",
+          "text": "$0"
+        }
+      ],
+      "correctChoiceId": "far-m2-q49-a2",
+      "explanation": "Because carrying amount of $620,000 exceeds undiscounted cash flows of $570,000, the asset is not recoverable. The impairment loss is measured as carrying amount minus fair value: $620,000 − $510,000 = $110,000.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-II",
+        "groupId": "module-2",
+        "topicId": "far-property-plant-equipment",
+        "taskIds": [
+          "far-property-plant-equipment.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m2-q50",
+      "courseId": "far",
+      "moduleId": 2,
+      "lessonId": "far-m2-l4",
+      "topic": "Property, Plant & Equipment",
+      "prompt": "When the recognition requirements for an asset retirement obligation are met, what is the general initial accounting effect?",
+      "choices": [
+        {
+          "id": "far-m2-q50-a0",
+          "text": "Recognize only an immediate operating expense"
+        },
+        {
+          "id": "far-m2-q50-a1",
+          "text": "Recognize a liability and generally capitalize a corresponding asset retirement cost"
+        },
+        {
+          "id": "far-m2-q50-a2",
+          "text": "Recognize only a reduction of retained earnings"
+        },
+        {
+          "id": "far-m2-q50-a3",
+          "text": "Make no entry until the asset is physically retired"
+        }
+      ],
+      "correctChoiceId": "far-m2-q50-a1",
+      "explanation": "When the applicable recognition requirements are met, an asset retirement obligation is recognized as a liability and a corresponding asset retirement cost is generally capitalized as part of the related long-lived asset.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-II",
+        "groupId": "module-2",
+        "topicId": "far-property-plant-equipment",
+        "taskIds": [
+          "far-property-plant-equipment.task-2"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m2-q51",
+      "courseId": "far",
+      "moduleId": 2,
+      "lessonId": "far-m2-l5",
+      "topic": "Intangible Assets",
+      "prompt": "A company purchases a finite-lived license for $360,000. Its contractual life is 12 years, but renewal is uncertain and the company expects economic benefits for only 8 years. Assuming no residual value, what annual amortization should generally be recognized?",
+      "choices": [
+        {
+          "id": "far-m2-q51-a0",
+          "text": "$30,000"
+        },
+        {
+          "id": "far-m2-q51-a1",
+          "text": "$45,000"
+        },
+        {
+          "id": "far-m2-q51-a2",
+          "text": "$0"
+        },
+        {
+          "id": "far-m2-q51-a3",
+          "text": "$60,000"
+        }
+      ],
+      "correctChoiceId": "far-m2-q51-a1",
+      "explanation": "A finite-lived intangible is amortized over its useful life. Based on an expected economic life of eight years, annual amortization is $360,000 ÷ 8 = $45,000.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-II",
+        "groupId": "module-2",
+        "topicId": "far-intangible-assets",
+        "taskIds": [
+          "far-intangible-assets.task-3"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m2-q52",
+      "courseId": "far",
+      "moduleId": 2,
+      "lessonId": "far-m2-l5",
+      "topic": "Intangible Assets",
+      "prompt": "A finite-lived intangible asset has a carrying amount of $250,000. An impairment indicator exists, but expected undiscounted future cash flows are $275,000. Fair value is $220,000. Under the U.S. GAAP held-and-used impairment model, what impairment loss should generally be recognized?",
+      "choices": [
+        {
+          "id": "far-m2-q52-a0",
+          "text": "$30,000"
+        },
+        {
+          "id": "far-m2-q52-a1",
+          "text": "$55,000"
+        },
+        {
+          "id": "far-m2-q52-a2",
+          "text": "$250,000"
+        },
+        {
+          "id": "far-m2-q52-a3",
+          "text": "$0"
+        }
+      ],
+      "correctChoiceId": "far-m2-q52-a3",
+      "explanation": "The carrying amount of $250,000 does not exceed the $275,000 of expected undiscounted future cash flows, so the asset passes the recoverability test. No impairment loss is recognized even though fair value is below carrying amount.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-II",
+        "groupId": "module-2",
+        "topicId": "far-intangible-assets",
+        "taskIds": [
+          "far-intangible-assets.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m2-q53",
+      "courseId": "far",
+      "moduleId": 2,
+      "lessonId": "far-m2-l6",
+      "topic": "Current Liabilities",
+      "prompt": "At December 31, a company has a $600,000 short-term obligation due in February. Before the financial statements are issued, the company completes a qualifying long-term refinancing of the entire obligation and had intended to refinance it on a long-term basis. Assuming the applicable U.S. GAAP requirements are satisfied, how should the obligation generally be classified?",
+      "choices": [
+        {
+          "id": "far-m2-q53-a0",
+          "text": "Entirely current"
+        },
+        {
+          "id": "far-m2-q53-a1",
+          "text": "Entirely long-term"
+        },
+        {
+          "id": "far-m2-q53-a2",
+          "text": "Half current and half long-term"
+        },
+        {
+          "id": "far-m2-q53-a3",
+          "text": "As stockholders' equity"
+        }
+      ],
+      "correctChoiceId": "far-m2-q53-a1",
+      "explanation": "A short-term obligation may qualify for long-term classification when the entity intends to refinance it on a long-term basis and demonstrates the ability to do so under the applicable U.S. GAAP requirements, including through a qualifying completed refinancing before the financial statements are issued.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-II",
+        "groupId": "module-2",
+        "topicId": "far-current-liabilities",
+        "taskIds": [
+          "far-current-liabilities.task-2"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m2-q54",
+      "courseId": "far",
+      "moduleId": 2,
+      "lessonId": "far-m2-l6",
+      "topic": "Current Liabilities",
+      "prompt": "At year-end, a company has accounts payable of $140,000, accrued wages of $35,000, unearned revenue expected to be earned next year of $50,000, and a $90,000 principal payment on long-term debt due next year. Assuming no classification exceptions apply, what total current liabilities arise from these items?",
+      "choices": [
+        {
+          "id": "far-m2-q54-a0",
+          "text": "$225,000"
+        },
+        {
+          "id": "far-m2-q54-a1",
+          "text": "$275,000"
+        },
+        {
+          "id": "far-m2-q54-a2",
+          "text": "$315,000"
+        },
+        {
+          "id": "far-m2-q54-a3",
+          "text": "$365,000"
+        }
+      ],
+      "correctChoiceId": "far-m2-q54-a2",
+      "explanation": "Total current liabilities are $140,000 + $35,000 + $50,000 + $90,000 = $315,000.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-II",
+        "groupId": "module-2",
+        "topicId": "far-current-liabilities",
+        "taskIds": [
+          "far-current-liabilities.task-3"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m2-q55",
+      "courseId": "far",
+      "moduleId": 2,
+      "lessonId": "far-m2-l7",
+      "topic": "Long-Term Debt",
+      "prompt": "A bond has a beginning carrying amount of $760,000, a face value of $800,000, a stated annual rate of 5%, and an effective annual rate of 7%. Interest is paid annually. What is the bond's ending carrying amount after one year?",
+      "choices": [
+        {
+          "id": "far-m2-q55-a0",
+          "text": "$773,200"
+        },
+        {
+          "id": "far-m2-q55-a1",
+          "text": "$760,000"
+        },
+        {
+          "id": "far-m2-q55-a2",
+          "text": "$746,800"
+        },
+        {
+          "id": "far-m2-q55-a3",
+          "text": "$800,000"
+        }
+      ],
+      "correctChoiceId": "far-m2-q55-a0",
+      "explanation": "Cash interest is $800,000 × 5% = $40,000. Interest expense is $760,000 × 7% = $53,200. Discount amortization is $13,200, so ending carrying amount is $760,000 + $13,200 = $773,200.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-II",
+        "groupId": "module-2",
+        "topicId": "far-long-term-debt",
+        "taskIds": [
+          "far-long-term-debt.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m2-q56",
+      "courseId": "far",
+      "moduleId": 2,
+      "lessonId": "far-m2-l7",
+      "topic": "Long-Term Debt",
+      "prompt": "A bond issued at a premium has a beginning carrying amount of $1,060,000, face value of $1,000,000, stated annual rate of 8%, and effective annual rate of 6%. Interest is paid annually. What is the ending carrying amount after one year?",
+      "choices": [
+        {
+          "id": "far-m2-q56-a0",
+          "text": "$1,080,000"
+        },
+        {
+          "id": "far-m2-q56-a1",
+          "text": "$1,043,600"
+        },
+        {
+          "id": "far-m2-q56-a2",
+          "text": "$1,063,600"
+        },
+        {
+          "id": "far-m2-q56-a3",
+          "text": "$983,600"
+        }
+      ],
+      "correctChoiceId": "far-m2-q56-a1",
+      "explanation": "Cash interest is $1,000,000 × 8% = $80,000. Interest expense is $1,060,000 × 6% = $63,600. Premium amortization is $16,400, reducing carrying amount to $1,043,600.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-II",
+        "groupId": "module-2",
+        "topicId": "far-long-term-debt",
+        "taskIds": [
+          "far-long-term-debt.task-2"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m2-q57",
+      "courseId": "far",
+      "moduleId": 2,
+      "lessonId": "far-m2-l8",
+      "topic": "Contingencies & Commitments",
+      "prompt": "A company has a firm, noncancelable commitment to purchase inventory for $250,000. Before delivery, the applicable measurement amount of the inventory falls to $210,000, and the decline results in a recognized loss under U.S. GAAP. What loss should the company recognize?",
+      "choices": [
+        {
+          "id": "far-m2-q57-a0",
+          "text": "$0"
+        },
+        {
+          "id": "far-m2-q57-a1",
+          "text": "$40,000"
+        },
+        {
+          "id": "far-m2-q57-a2",
+          "text": "$210,000"
+        },
+        {
+          "id": "far-m2-q57-a3",
+          "text": "$250,000"
+        }
+      ],
+      "correctChoiceId": "far-m2-q57-a1",
+      "explanation": "The expected loss is the $40,000 difference between the $250,000 contract price and the $210,000 applicable measurement amount, assuming the recognition requirements for the loss on the purchase commitment are satisfied.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-III",
+        "groupId": "module-2",
+        "topicId": "far-contingencies-commitments",
+        "taskIds": [
+          "far-contingencies-commitments.task-3"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m2-q58",
+      "courseId": "far",
+      "moduleId": 2,
+      "lessonId": "far-m2-l9",
+      "topic": "Investments",
+      "prompt": "An equity security within the general equity-investment guidance has a readily determinable fair value. Its carrying amount before year-end adjustment is $180,000 and its fair value is $205,000. Where is the $25,000 unrealized gain generally recognized?",
+      "choices": [
+        {
+          "id": "far-m2-q58-a0",
+          "text": "Other comprehensive income"
+        },
+        {
+          "id": "far-m2-q58-a1",
+          "text": "Additional paid-in capital"
+        },
+        {
+          "id": "far-m2-q58-a2",
+          "text": "Net income"
+        },
+        {
+          "id": "far-m2-q58-a3",
+          "text": "Directly in retained earnings without affecting income"
+        }
+      ],
+      "correctChoiceId": "far-m2-q58-a2",
+      "explanation": "Equity securities within the general U.S. GAAP equity-investment guidance and with readily determinable fair values are generally measured at fair value, with changes in fair value recognized in net income.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-II",
+        "groupId": "module-2",
+        "topicId": "far-investments",
+        "taskIds": [
+          "far-investments.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m2-q59",
+      "courseId": "far",
+      "moduleId": 2,
+      "lessonId": "far-m2-l9",
+      "topic": "Investments",
+      "prompt": "An investor owns 30% of an investee and appropriately applies the equity method. The investee reports $200,000 of net income and pays total dividends of $50,000. What is the net increase in the investor's investment account from these two events?",
+      "choices": [
+        {
+          "id": "far-m2-q59-a0",
+          "text": "$45,000"
+        },
+        {
+          "id": "far-m2-q59-a1",
+          "text": "$60,000"
+        },
+        {
+          "id": "far-m2-q59-a2",
+          "text": "$15,000"
+        },
+        {
+          "id": "far-m2-q59-a3",
+          "text": "$75,000"
+        }
+      ],
+      "correctChoiceId": "far-m2-q59-a0",
+      "explanation": "The investor recognizes 30% of $200,000, or $60,000, as an increase in the investment account. Dividends reduce the investment by 30% of $50,000, or $15,000. The net increase is $45,000.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-II",
+        "groupId": "module-2",
+        "topicId": "far-investments",
+        "taskIds": [
+          "far-investments.task-2"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m2-q60",
+      "courseId": "far",
+      "moduleId": 2,
+      "lessonId": "far-m2-l10",
+      "topic": "Equity Accounts",
+      "prompt": "A corporation has 20,000 shares of $100 par, 6% cumulative preferred stock outstanding. No dividends were declared last year. If the corporation declares $300,000 of dividends this year, how much is available to common shareholders after satisfying the current-year preferred dividend and dividends in arrears?",
+      "choices": [
+        {
+          "id": "far-m2-q60-a0",
+          "text": "$60,000"
+        },
+        {
+          "id": "far-m2-q60-a1",
+          "text": "$120,000"
+        },
+        {
+          "id": "far-m2-q60-a2",
+          "text": "$180,000"
+        },
+        {
+          "id": "far-m2-q60-a3",
+          "text": "$300,000"
+        }
+      ],
+      "correctChoiceId": "far-m2-q60-a0",
+      "explanation": "Annual preferred dividends are 20,000 × $100 × 6% = $120,000. Because the preferred stock is cumulative and one prior year is in arrears, preferred shareholders receive $240,000 before common shareholders. Of the $300,000 declared, $60,000 remains for common shareholders.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-I",
+        "groupId": "module-2",
+        "topicId": "far-equity-accounts",
+        "taskIds": [
+          "far-equity-accounts.task-3"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    }
+  ]
+}

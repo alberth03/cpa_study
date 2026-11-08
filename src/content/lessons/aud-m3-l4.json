@@ -1,0 +1,103 @@
+{
+  "id": "aud-m3-l4",
+  "courseId": "aud",
+  "moduleId": 3,
+  "number": 4,
+  "title": "Confirmations, Cash, Receivables & Inventory",
+  "description": "Evaluate evidence relevance and reliability in context.",
+  "url": "/learn/aud/modules/3/lessons/4",
+  "metadata": {
+    "section": "aud",
+    "blueprintYear": 2026,
+    "areaId": "aud-III",
+    "groupId": "B-D",
+    "topicId": "aud-audit-evidence",
+    "taskIds": [
+      "aud-audit-evidence.task-1",
+      "aud-audit-evidence.task-2",
+      "aud-audit-evidence.task-3"
+    ],
+    "skill": "application",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      },
+      {
+        "title": "AICPA auditing standards",
+        "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+      },
+      {
+        "title": "PCAOB standards",
+        "url": "https://pcaobus.org/oversight/standards"
+      }
+    ]
+  },
+  "html": "<h2>Learning objectives</h2><ul><li>Evaluate evidence relevance and reliability in context.</li><li>Maintain control over confirmation requests and responses.</li><li>Select appropriate inventory observation and alternative procedures.</li></ul><h2>Understand the concepts</h2><p>Evidence quality depends on relevance and reliability, not simply quantity. Evidence from knowledgeable independent sources obtained directly by the auditor is generally more reliable than unsupported internal representations, but circumstances matter. A confirmation can be unreliable if routed through management or if the respondent lacks relevant knowledge. More low-quality evidence does not automatically compensate for a serious quality defect.</p><p>The auditor controls confirmation selection, preparation, sending, and receipt. Investigate exceptions and doubtful responses. Nonresponses to positive requests ordinarily require alternative procedures when appropriate, such as examining subsequent cash receipts and underlying shipping documents. A nonresponse is not confirmation that the balance is correct. Negative confirmations are appropriate only when their specific conditions are met, including low assessed risk and a sufficiently reliable population.</p><p>For inventory, observing physical counts includes evaluating management’s instructions, observing procedures, inspecting inventory, performing test counts, and reconciling count information to final records. Floor-to-sheet counts address completeness; sheet-to-floor counts address existence. Observation alone does not establish valuation, ownership of consigned goods, or the adequacy of obsolete-stock reserves.</p><p>Bank confirmations, cutoff statements, reconciliations, and subsequent activity can jointly support cash and debt assertions. Investigate reconciling items and unusual transfers; a confirmed bank balance does not automatically prove the book reconciliation is correct. Choose procedures that answer the specific assertion and account for timing.</p><div class=\"example-box\"><h3>A positive confirmation that never returns</h3><p>A material customer does not reply. Management offers to mark the balance confirmed because the customer is longstanding.</p><ol><li>Do not treat the missing reply as affirmative evidence.</li><li>Perform suitable alternative procedures, such as verifying subsequent receipt and the related sale.</li><li>Evaluate whether sufficient appropriate evidence has been obtained and the implications of any unresolved amount.</li></ol></div><div class=\"key-points\"><h3>Common mistakes to avoid</h3><ul><li>A nonresponse is not a positive confirmation.</li><li>Physical inventory observation does not settle valuation.</li><li>The auditor must control the confirmation process.</li></ul></div><h2>Apply and connect</h2><p>After solving the worked case, explain which facts determine the result and how a changed assumption would change your conclusion. Use the module questions to test fresh applications, then complete the related simulation before reviewing its solution.</p>",
+  "objectives": [
+    "Evaluate evidence relevance and reliability in context.",
+    "Maintain control over confirmation requests and responses.",
+    "Select appropriate inventory observation and alternative procedures."
+  ],
+  "quiz": {
+    "id": "aud-m3-l4-q1",
+    "courseId": "aud",
+    "moduleId": 3,
+    "lessonId": "aud-m3-l4",
+    "topic": "Confirmations, Cash, Receivables & Inventory",
+    "prompt": "A positive receivables confirmation receives no response. What is ordinarily appropriate?",
+    "choices": [
+      {
+        "id": "aud-m3-l4-q1-a0",
+        "text": "Treat silence as agreement."
+      },
+      {
+        "id": "aud-m3-l4-q1-a1",
+        "text": "Perform suitable alternative procedures and evaluate the remaining evidence gap."
+      },
+      {
+        "id": "aud-m3-l4-q1-a2",
+        "text": "Ask management to sign for the customer."
+      },
+      {
+        "id": "aud-m3-l4-q1-a3",
+        "text": "Delete the receivable from the sample without replacement or evaluation."
+      }
+    ],
+    "correctChoiceId": "aud-m3-l4-q1-a1",
+    "explanation": "Nonresponses require follow-up or alternatives when appropriate; silence is not affirmative evidence.",
+    "difficulty": "advanced",
+    "metadata": {
+      "section": "aud",
+      "blueprintYear": 2026,
+      "areaId": "aud-III",
+      "groupId": "B-D",
+      "topicId": "aud-audit-evidence",
+      "taskIds": [
+        "aud-audit-evidence.task-1"
+      ],
+      "skill": "analysis",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        },
+        {
+          "title": "AICPA auditing standards",
+          "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+        },
+        {
+          "title": "PCAOB standards",
+          "url": "https://pcaobus.org/oversight/standards"
+        }
+      ]
+    }
+  },
+  "relatedSimulation": "aud-m3-tbs4"
+}

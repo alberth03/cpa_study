@@ -1,0 +1,141 @@
+{
+  "id": "aud-m2-tbs1",
+  "courseId": "aud",
+  "moduleId": 2,
+  "number": 1,
+  "title": "Risk-to-response planning matrix",
+  "html": "<div class=\"course-intro-card\"><h2>Risk-to-response planning matrix</h2><p>A distributor is entering a new market and implementing a new ERP. Match each issue to the appropriate audit concept or response.</p></div><section class=\"quiz-card\"><h3>Required responses</h3><div class=\"tbs-question\"><label for=\"aud-m2-tbs1-f1\">Risk associated with estimate susceptibility before controls</label><select id=\"aud-m2-tbs1-f1\"><option value=\"Inherent risk\">Inherent risk</option><option value=\"Detection risk\">Detection risk</option><option value=\"Engagement fee risk\">Engagement fee risk</option><option value=\"No audit risk\">No audit risk</option></select></div><div class=\"tbs-question\"><label for=\"aud-m2-tbs1-f2\">Risk associated with ineffective approval controls</label><select id=\"aud-m2-tbs1-f2\"><option value=\"Control risk\">Control risk</option><option value=\"Detection risk\">Detection risk</option><option value=\"Only sampling risk\">Only sampling risk</option><option value=\"No financial-reporting implication\">No financial-reporting implication</option></select></div><div class=\"tbs-question\"><label for=\"aud-m2-tbs1-f3\">Illustrative detection risk, as a percentage</label><input id=\"aud-m2-tbs1-f3\" type=\"text\"></div><div class=\"tbs-question\"><label for=\"aud-m2-tbs1-f4\">Response to post-conversion risks</label><select id=\"aud-m2-tbs1-f4\"><option value=\"Reassess timing and add appropriate post-conversion procedures\">Reassess timing and add appropriate post-conversion procedures</option><option value=\"Rely entirely on pre-conversion work\">Rely entirely on pre-conversion work</option><option value=\"Assume the ERP improves every control\">Assume the ERP improves every control</option><option value=\"Reduce evidence because management is busy\">Reduce evidence because management is busy</option></select></div></section>",
+  "metadata": {
+    "section": "aud",
+    "blueprintYear": 2026,
+    "areaId": "aud-II",
+    "groupId": "A-B-E",
+    "topicId": "aud-audit-risk-planning",
+    "taskIds": [
+      "aud-audit-risk-planning.task-1",
+      "aud-audit-risk-planning.task-2",
+      "aud-audit-risk-planning.task-3"
+    ],
+    "skill": "analysis",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      },
+      {
+        "title": "AICPA auditing standards",
+        "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+      },
+      {
+        "title": "PCAOB standards",
+        "url": "https://pcaobus.org/oversight/standards"
+      }
+    ]
+  },
+  "difficulty": "advanced",
+  "fields": [
+    {
+      "id": "aud-m2-tbs1-f1",
+      "label": "Risk associated with estimate susceptibility before controls",
+      "type": "select",
+      "options": [
+        {
+          "value": "Inherent risk",
+          "label": "Inherent risk"
+        },
+        {
+          "value": "Detection risk",
+          "label": "Detection risk"
+        },
+        {
+          "value": "Engagement fee risk",
+          "label": "Engagement fee risk"
+        },
+        {
+          "value": "No audit risk",
+          "label": "No audit risk"
+        }
+      ],
+      "correct": "Inherent risk",
+      "explanation": "Estimate complexity affects inherent susceptibility.",
+      "topicId": "aud-audit-risk-planning"
+    },
+    {
+      "id": "aud-m2-tbs1-f2",
+      "label": "Risk associated with ineffective approval controls",
+      "type": "select",
+      "options": [
+        {
+          "value": "Control risk",
+          "label": "Control risk"
+        },
+        {
+          "value": "Detection risk",
+          "label": "Detection risk"
+        },
+        {
+          "value": "Only sampling risk",
+          "label": "Only sampling risk"
+        },
+        {
+          "value": "No financial-reporting implication",
+          "label": "No financial-reporting implication"
+        }
+      ],
+      "correct": "Control risk",
+      "explanation": "Relevant controls may fail to prevent or detect errors.",
+      "topicId": "aud-audit-risk-planning"
+    },
+    {
+      "id": "aud-m2-tbs1-f3",
+      "label": "Illustrative detection risk, as a percentage",
+      "type": "number",
+      "options": [],
+      "correct": 10,
+      "explanation": "3% ÷ (60% × 50%) = 10%.",
+      "topicId": "aud-audit-risk-planning"
+    },
+    {
+      "id": "aud-m2-tbs1-f4",
+      "label": "Response to post-conversion risks",
+      "type": "select",
+      "options": [
+        {
+          "value": "Reassess timing and add appropriate post-conversion procedures",
+          "label": "Reassess timing and add appropriate post-conversion procedures"
+        },
+        {
+          "value": "Rely entirely on pre-conversion work",
+          "label": "Rely entirely on pre-conversion work"
+        },
+        {
+          "value": "Assume the ERP improves every control",
+          "label": "Assume the ERP improves every control"
+        },
+        {
+          "value": "Reduce evidence because management is busy",
+          "label": "Reduce evidence because management is busy"
+        }
+      ],
+      "correct": "Reassess timing and add appropriate post-conversion procedures",
+      "explanation": "Evidence from the old system may not address risks in the new system.",
+      "topicId": "aud-audit-risk-planning"
+    }
+  ],
+  "exhibits": [
+    {
+      "id": "aud-m2-tbs1-ex1",
+      "title": "Planning observations",
+      "html": "<p>Complex warranty estimates require substantial judgment. The new ERP has not implemented approval controls. A lender covenant increases pressure to overstate earnings. The team initially planned interim testing before the ERP conversion.</p>"
+    },
+    {
+      "id": "aud-m2-tbs1-ex2",
+      "title": "Illustrative risk inputs",
+      "html": "<p>For one assertion, acceptable audit risk is 3%, inherent risk is 60%, and control risk is 50%. These percentages are a teaching illustration, not a prescribed audit formula for every engagement.</p>"
+    }
+  ],
+  "explanation": "<h3>Risk associated with estimate susceptibility before controls</h3><p>Estimate complexity affects inherent susceptibility.</p><h3>Risk associated with ineffective approval controls</h3><p>Relevant controls may fail to prevent or detect errors.</p><h3>Illustrative detection risk, as a percentage</h3><p>3% ÷ (60% × 50%) = 10%.</p><h3>Response to post-conversion risks</h3><p>Evidence from the old system may not address risks in the new system.</p>"
+}

@@ -1,0 +1,88 @@
+{
+  "id": "fundamentals-l5",
+  "courseId": "fundamentals",
+  "moduleId": 0,
+  "number": 5,
+  "title": "T-Accounts",
+  "description": "Visualize how debits and credits affect accounts.",
+  "url": "/learn/fundamentals/lessons/5",
+  "html": "<h2>What is a T-account?</h2> <p> A T-account is a simple visual way to show increases and decreases in an account. </p> <p> The left side is always the <strong>debit side</strong> and the right side is always the <strong>credit side</strong>. </p> <div class=\"t-account\"> <div class=\"t-title\">Cash</div> <div class=\"t-sides\"> <div> <strong>Debit</strong> <span>Left Side</span> </div> <div> <strong>Credit</strong> <span>Right Side</span> </div> </div> </div> <div class=\"key-points\"> <h3>Important</h3> <p> Debit always means LEFT. </p> <p> Credit always means RIGHT. </p> <p> But whether the account increases or decreases depends on the account type. </p> </div> <h2>Example: Receiving cash</h2> <p> Suppose a business receives <strong>$5,000 cash</strong> from its owner. </p> <p> Cash is an asset. Assets increase with debits. </p> <div class=\"t-account\"> <div class=\"t-title\">Cash</div> <div class=\"t-sides\"> <div> <strong>Debit</strong> <span>$5,000</span> </div> <div> <strong>Credit</strong> <span>—</span> </div> </div> </div> <h2>Example: Paying cash</h2> <p> Now suppose the business pays <strong>$1,000 rent</strong>. </p> <p> Cash decreases. Because Cash is an asset, a decrease is recorded with a credit. </p> <div class=\"t-account\"> <div class=\"t-title\">Cash</div> <div class=\"t-sides\"> <div> <strong>Debit</strong> <span>$5,000</span> </div> <div> <strong>Credit</strong> <span>$1,000</span> </div> </div> </div> <div class=\"example-box\"> <h3>Ending Cash Balance</h3> <p> $5,000 debit − $1,000 credit = <strong>$4,000 debit balance</strong>. </p> </div> <div class=\"key-points\"> <h3>Remember</h3> <ul> <li>Debit = left.</li> <li>Credit = right.</li> <li>Assets normally have debit balances.</li> <li>Liabilities normally have credit balances.</li> <li>Equity normally has a credit balance.</li> <li>Revenue normally has a credit balance.</li> <li>Expenses normally have debit balances.</li> </ul> </div>",
+  "quiz": {
+    "id": "fundamentals-l5-check",
+    "courseId": "fundamentals",
+    "moduleId": 0,
+    "lessonId": "fundamentals-l5",
+    "topic": "General review",
+    "prompt": "Cash has a $9,000 debit and a $2,500 credit. What is the ending balance?",
+    "choices": [
+      {
+        "id": "fundamentals-l5-check-a0",
+        "text": "$11,500 debit"
+      },
+      {
+        "id": "fundamentals-l5-check-a1",
+        "text": "$6,500 debit"
+      },
+      {
+        "id": "fundamentals-l5-check-a2",
+        "text": "$6,500 credit"
+      },
+      {
+        "id": "fundamentals-l5-check-a3",
+        "text": "$2,500 credit"
+      }
+    ],
+    "correctChoiceId": "fundamentals-l5-check-a1",
+    "explanation": "Cash is an asset. $9,000 debit minus $2,500 credit gives a $6,500 debit balance.",
+    "difficulty": "foundation",
+    "metadata": {
+      "section": "fundamentals",
+      "blueprintYear": 2026,
+      "areaId": "fundamentals-I",
+      "groupId": "module-0",
+      "topicId": "fundamentals-t-accounts",
+      "taskIds": [
+        "fundamentals-t-accounts.task-1",
+        "fundamentals-t-accounts.task-2",
+        "fundamentals-t-accounts.task-3"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "section": "fundamentals",
+    "blueprintYear": 2026,
+    "areaId": "fundamentals-I",
+    "groupId": "module-0",
+    "topicId": "fundamentals-t-accounts",
+    "taskIds": [
+      "fundamentals-t-accounts.task-1",
+      "fundamentals-t-accounts.task-2",
+      "fundamentals-t-accounts.task-3"
+    ],
+    "skill": "application",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      }
+    ]
+  },
+  "objectives": [
+    "Explain t-accounts and its underlying principles.",
+    "Apply the topic to a financial-reporting scenario.",
+    "Evaluate common errors and their financial-statement effects."
+  ]
+}

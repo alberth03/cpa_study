@@ -1,0 +1,88 @@
+{
+  "id": "far-m3-l5",
+  "courseId": "far",
+  "moduleId": 3,
+  "number": 5,
+  "title": "Fair Value Measurements",
+  "description": "Analyze fair value measurement concepts, valuation inputs, and the fair value hierarchy.",
+  "url": "/learn/far/modules/3/lessons/5",
+  "html": "<h2> Fair Value Measurements </h2> <p> Fair value measurement focuses on the price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants. </p> <div class=\"key-points\"> <strong> Core Idea: </strong> <p> Fair value is a market-based measurement, not an entity-specific measurement. </p> </div> <h3> 1. Exit Price </h3> <p> Fair value is generally based on an <strong>exit price</strong>. </p> <p> For an asset, think about the price the company would receive to sell the asset. </p> <p> For a liability, think about the price the company would pay to transfer the liability. </p> <div class=\"financial-example\"> <div> <span> Asset </span> <strong> Price Received to Sell </strong> </div> <div> <span> Liability </span> <strong> Price Paid to Transfer </strong> </div> </div> <h3> 2. Principal Market </h3> <p> Fair value is generally measured using the principal market for the asset or liability. </p> <p> The principal market is the market with the greatest volume and level of activity for the asset or liability. </p> <h3> 3. Most Advantageous Market </h3> <p> If there is no principal market, the entity generally considers the most advantageous market to which it has access. </p> <p> This is the market that maximizes the amount received to sell an asset or minimizes the amount paid to transfer a liability, after considering transaction costs. </p> <h3> 4. Transaction Costs </h3> <p> Transaction costs are generally not included as an adjustment to the fair value measurement itself because they are not an attribute of the asset or liability. </p> <p> Transportation costs are different when location is an attribute of the asset. </p> <div class=\"key-points\"> <strong> CPA Distinction: </strong> <p> Transaction costs generally do not reduce fair value, but necessary transportation costs may affect the measurement when location is an asset characteristic. </p> </div> <h3> 5. Fair Value Hierarchy </h3> <p> Valuation inputs are classified into three levels. </p> <div class=\"financial-example\"> <div> <span> Level 1 </span> <strong> Quoted Prices in Active Markets </strong> </div> <div> <span> Level 2 </span> <strong> Other Observable Inputs </strong> </div> <div> <span> Level 3 </span> <strong> Unobservable Inputs </strong> </div> </div> <h3> Level 1 Inputs </h3> <p> Level 1 inputs are quoted prices in active markets for identical assets or liabilities that the reporting entity can access at the measurement date. </p> <div class=\"example-box\"> <strong> Example </strong> <p> A company owns publicly traded shares. The identical shares have an observable quoted market price on an active exchange. </p> <p> That quoted price is generally a <strong>Level 1 input</strong>. </p> </div> <h3> Level 2 Inputs </h3> <p> Level 2 includes observable inputs other than quoted Level 1 prices. </p> <p> Examples may include: </p> <ul> <li> Quoted prices for similar assets </li> <li> Observable interest rates </li> <li> Yield curves </li> <li> Other market-corroborated inputs </li> </ul> <h3> Level 3 Inputs </h3> <p> Level 3 inputs are unobservable inputs used when relevant observable market information is not available. </p> <p> These measurements may rely more heavily on valuation models and assumptions that market participants would use. </p> <div class=\"example-box\"> <strong> Example </strong> <p> A highly specialized asset has no active market and little observable market data. Management uses a valuation model containing significant unobservable assumptions. </p> <p> Those significant assumptions are generally <strong>Level 3 inputs</strong>. </p> </div> <h3> 6. Valuation Techniques </h3> <p> Common approaches used to measure fair value include: </p> <div class=\"financial-example\"> <div> <span> Market Approach </span> <strong> Market Transaction Information </strong> </div> <div> <span> Income Approach </span> <strong> Present Value / Future Amounts </strong> </div> <div> <span> Cost Approach </span> <strong> Current Replacement Capacity </strong> </div> </div> <h3> CPA Exam Memory Rule </h3> <div class=\"formula-box\"> Level 1 → Identical + Active Market Level 2 → Observable Level 3 → Unobservable </div> <div class=\"key-points\"> <h3> Key Takeaways </h3> <ul> <li> Fair value is generally an exit-price measurement. </li> <li> Fair value reflects assumptions of market participants. </li> <li> The principal market is generally used when one exists. </li> <li> Level 1 provides quoted prices for identical items in active markets. </li> <li> Level 2 consists primarily of other observable inputs. </li> <li> Level 3 consists of unobservable inputs. </li> <li> The hierarchy prioritizes observable market information over unobservable assumptions. </li> </ul> </div>",
+  "quiz": {
+    "id": "far-m3-l5-check",
+    "courseId": "far",
+    "moduleId": 3,
+    "lessonId": "far-m3-l5",
+    "topic": "General review",
+    "prompt": "A company owns shares of publicly traded common stock. An unadjusted quoted price for identical shares is available in an active market that the company can access on the measurement date. What level of the fair value hierarchy does this input represent?",
+    "choices": [
+      {
+        "id": "far-m3-l5-check-a0",
+        "text": "Level 3"
+      },
+      {
+        "id": "far-m3-l5-check-a1",
+        "text": "Level 2"
+      },
+      {
+        "id": "far-m3-l5-check-a2",
+        "text": "Level 1"
+      },
+      {
+        "id": "far-m3-l5-check-a3",
+        "text": "The input is outside the fair value hierarchy"
+      }
+    ],
+    "correctChoiceId": "far-m3-l5-check-a2",
+    "explanation": "An unadjusted quoted price in an active market for an identical asset that the entity can access is a Level 1 input.",
+    "difficulty": "foundation",
+    "metadata": {
+      "section": "far",
+      "blueprintYear": 2026,
+      "areaId": "far-III",
+      "groupId": "module-3",
+      "topicId": "far-fair-value-measurements",
+      "taskIds": [
+        "far-fair-value-measurements.task-1",
+        "far-fair-value-measurements.task-2",
+        "far-fair-value-measurements.task-3"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "section": "far",
+    "blueprintYear": 2026,
+    "areaId": "far-III",
+    "groupId": "module-3",
+    "topicId": "far-fair-value-measurements",
+    "taskIds": [
+      "far-fair-value-measurements.task-1",
+      "far-fair-value-measurements.task-2",
+      "far-fair-value-measurements.task-3"
+    ],
+    "skill": "application",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      }
+    ]
+  },
+  "objectives": [
+    "Explain fair value measurements and its underlying principles.",
+    "Apply the topic to a financial-reporting scenario.",
+    "Evaluate common errors and their financial-statement effects."
+  ]
+}

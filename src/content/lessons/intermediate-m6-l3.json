@@ -1,0 +1,88 @@
+{
+  "id": "intermediate-m6-l3",
+  "courseId": "intermediate",
+  "moduleId": 6,
+  "number": 3,
+  "title": "Determining Transaction Price",
+  "description": "Understand fixed consideration, variable consideration and the amount expected from a contract.",
+  "url": "/learn/intermediate/modules/6/lessons/3",
+  "html": "<h2>Step 3 — Determine the transaction price</h2> <p> The transaction price is the amount of consideration the company expects to be entitled to in exchange for transferring promised goods or services. </p> <h2>Fixed consideration</h2> <p> Sometimes the price is straightforward. </p> <div class=\"example-box\"> <p> A company agrees to provide consulting services for a fixed price of <strong>$20,000</strong>. </p> <p> If there are no other relevant pricing adjustments, the transaction price may simply be $20,000. </p> </div> <h2>Variable consideration</h2> <p> Some contracts contain amounts that can vary. </p> <div class=\"key-points\"> <h3>Examples</h3> <ul> <li>Bonuses</li> <li>Performance incentives</li> <li>Refunds</li> <li>Rebates</li> <li>Price concessions</li> <li>Penalties</li> </ul> </div> <div class=\"example-box\"> <h3>Example — Performance bonus</h3> <p> A contractor will receive: </p> <p> <strong>$100,000 fixed payment</strong> </p> <p> plus a potential <strong>$10,000 performance bonus</strong>. </p> <p> The company must evaluate the variable portion under the applicable revenue recognition guidance. </p> </div> <h2>Variable consideration constraint</h2> <p> Variable consideration cannot simply be included without considering uncertainty. </p> <p> The model contains a constraint intended to reduce the risk of recognizing revenue that may later require a significant reversal. </p> <h2>Amounts collected for others</h2> <p> The transaction price generally excludes amounts collected on behalf of third parties. </p> <div class=\"key-points\"> <h3>CPA thinking</h3> <p> Don't automatically assume that the number printed on a contract is the amount of revenue. </p> <p> First determine what consideration the company expects to be entitled to under the model. </p> </div>",
+  "quiz": {
+    "id": "intermediate-m6-l3-check",
+    "courseId": "intermediate",
+    "moduleId": 6,
+    "lessonId": "intermediate-m6-l3",
+    "topic": "General review",
+    "prompt": "Which item is an example of variable consideration?",
+    "choices": [
+      {
+        "id": "intermediate-m6-l3-check-a0",
+        "text": "A fixed $5,000 contract price with no adjustments"
+      },
+      {
+        "id": "intermediate-m6-l3-check-a1",
+        "text": "A performance bonus dependent on achieving a target"
+      },
+      {
+        "id": "intermediate-m6-l3-check-a2",
+        "text": "The company's cash balance"
+      },
+      {
+        "id": "intermediate-m6-l3-check-a3",
+        "text": "Common stock issued by the company"
+      }
+    ],
+    "correctChoiceId": "intermediate-m6-l3-check-a1",
+    "explanation": "Performance bonuses are a common example of variable consideration because the amount ultimately received depends on an uncertain outcome.",
+    "difficulty": "foundation",
+    "metadata": {
+      "section": "intermediate",
+      "blueprintYear": 2026,
+      "areaId": "intermediate-I",
+      "groupId": "module-6",
+      "topicId": "intermediate-determining-transaction-price",
+      "taskIds": [
+        "intermediate-determining-transaction-price.task-1",
+        "intermediate-determining-transaction-price.task-2",
+        "intermediate-determining-transaction-price.task-3"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "section": "intermediate",
+    "blueprintYear": 2026,
+    "areaId": "intermediate-I",
+    "groupId": "module-6",
+    "topicId": "intermediate-determining-transaction-price",
+    "taskIds": [
+      "intermediate-determining-transaction-price.task-1",
+      "intermediate-determining-transaction-price.task-2",
+      "intermediate-determining-transaction-price.task-3"
+    ],
+    "skill": "application",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      }
+    ]
+  },
+  "objectives": [
+    "Explain determining transaction price and its underlying principles.",
+    "Apply the topic to a financial-reporting scenario.",
+    "Evaluate common errors and their financial-statement effects."
+  ]
+}

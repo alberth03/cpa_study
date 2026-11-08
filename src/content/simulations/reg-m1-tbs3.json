@@ -1,0 +1,163 @@
+{
+  "id": "reg-m1-tbs3",
+  "courseId": "reg",
+  "moduleId": 1,
+  "number": 3,
+  "title": "Authority and confidentiality review",
+  "html": "<div class=\"course-intro-card\"><h2>Authority and confidentiality review</h2><p>Identify the appropriate principle for each proposed research or disclosure decision.</p></div><section class=\"quiz-card\"><h3>Required responses</h3><div class=\"tbs-question\"><label for=\"reg-m1-tbs3-f1\">Research response to the blog conflict</label><select id=\"reg-m1-tbs3-f1\"><option value=\"Apply and analyze the controlling authority\">Apply and analyze the controlling authority</option><option value=\"Use the blog if shorter\">Use the blog if shorter</option><option value=\"Let the client choose the law\">Let the client choose the law</option><option value=\"Treat every source as equal\">Treat every source as equal</option></select></div><div class=\"tbs-question\"><label for=\"reg-m1-tbs3-f2\">Privilege explanation</label><select id=\"reg-m1-tbs3-f2\"><option value=\"Protection is limited and depends on the applicable law\">Protection is limited and depends on the applicable law</option><option value=\"Every communication is absolutely privileged\">Every communication is absolutely privileged</option><option value=\"Payment alone creates privilege\">Payment alone creates privilege</option><option value=\"No confidentiality duties exist\">No confidentiality duties exist</option></select></div><div class=\"tbs-question\"><label for=\"reg-m1-tbs3-f3\">Response to the lender</label><select id=\"reg-m1-tbs3-f3\"><option value=\"Evaluate consent and applicable disclosure rules\">Evaluate consent and applicable disclosure rules</option><option value=\"Send automatically\">Send automatically</option><option value=\"Publish the return\">Publish the return</option><option value=\"Assume reputation is authorization\">Assume reputation is authorization</option></select></div><div class=\"tbs-question\"><label for=\"reg-m1-tbs3-f4\">Court-decision research step</label><select id=\"reg-m1-tbs3-f4\"><option value=\"Check jurisdiction, facts, and subsequent developments\">Check jurisdiction, facts, and subsequent developments</option><option value=\"Use only favorable holdings\">Use only favorable holdings</option><option value=\"Ignore newer law\">Ignore newer law</option><option value=\"Count pages as authority\">Count pages as authority</option></select></div></section>",
+  "metadata": {
+    "section": "reg",
+    "blueprintYear": 2026,
+    "areaId": "reg-I",
+    "groupId": "C-D",
+    "topicId": "reg-tax-authority-confidentiality",
+    "taskIds": [
+      "reg-tax-authority-confidentiality.task-1",
+      "reg-tax-authority-confidentiality.task-2",
+      "reg-tax-authority-confidentiality.task-3"
+    ],
+    "skill": "analysis",
+    "validFrom": "2026-07-01",
+    "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      },
+      {
+        "title": "Internal Revenue Code",
+        "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+      },
+      {
+        "title": "IRS tax publications",
+        "url": "https://www.irs.gov/publications"
+      },
+      {
+        "title": "Circular 230",
+        "url": "https://www.irs.gov/tax-professionals/circular-230-tax-professionals"
+      }
+    ]
+  },
+  "difficulty": "advanced",
+  "fields": [
+    {
+      "id": "reg-m1-tbs3-f1",
+      "label": "Research response to the blog conflict",
+      "type": "select",
+      "options": [
+        {
+          "value": "Apply and analyze the controlling authority",
+          "label": "Apply and analyze the controlling authority"
+        },
+        {
+          "value": "Use the blog if shorter",
+          "label": "Use the blog if shorter"
+        },
+        {
+          "value": "Let the client choose the law",
+          "label": "Let the client choose the law"
+        },
+        {
+          "value": "Treat every source as equal",
+          "label": "Treat every source as equal"
+        }
+      ],
+      "correct": "Apply and analyze the controlling authority",
+      "explanation": "Informal summaries do not override controlling law.",
+      "topicId": "reg-tax-authority-confidentiality"
+    },
+    {
+      "id": "reg-m1-tbs3-f2",
+      "label": "Privilege explanation",
+      "type": "select",
+      "options": [
+        {
+          "value": "Protection is limited and depends on the applicable law",
+          "label": "Protection is limited and depends on the applicable law"
+        },
+        {
+          "value": "Every communication is absolutely privileged",
+          "label": "Every communication is absolutely privileged"
+        },
+        {
+          "value": "Payment alone creates privilege",
+          "label": "Payment alone creates privilege"
+        },
+        {
+          "value": "No confidentiality duties exist",
+          "label": "No confidentiality duties exist"
+        }
+      ],
+      "correct": "Protection is limited and depends on the applicable law",
+      "explanation": "Privilege and confidentiality have defined, different scopes.",
+      "topicId": "reg-tax-authority-confidentiality"
+    },
+    {
+      "id": "reg-m1-tbs3-f3",
+      "label": "Response to the lender",
+      "type": "select",
+      "options": [
+        {
+          "value": "Evaluate consent and applicable disclosure rules",
+          "label": "Evaluate consent and applicable disclosure rules"
+        },
+        {
+          "value": "Send automatically",
+          "label": "Send automatically"
+        },
+        {
+          "value": "Publish the return",
+          "label": "Publish the return"
+        },
+        {
+          "value": "Assume reputation is authorization",
+          "label": "Assume reputation is authorization"
+        }
+      ],
+      "correct": "Evaluate consent and applicable disclosure rules",
+      "explanation": "Disclosure must be permitted under the applicable duties and rules.",
+      "topicId": "reg-tax-authority-confidentiality"
+    },
+    {
+      "id": "reg-m1-tbs3-f4",
+      "label": "Court-decision research step",
+      "type": "select",
+      "options": [
+        {
+          "value": "Check jurisdiction, facts, and subsequent developments",
+          "label": "Check jurisdiction, facts, and subsequent developments"
+        },
+        {
+          "value": "Use only favorable holdings",
+          "label": "Use only favorable holdings"
+        },
+        {
+          "value": "Ignore newer law",
+          "label": "Ignore newer law"
+        },
+        {
+          "value": "Count pages as authority",
+          "label": "Count pages as authority"
+        }
+      ],
+      "correct": "Check jurisdiction, facts, and subsequent developments",
+      "explanation": "A decision’s relevance and precedential value require context.",
+      "topicId": "reg-tax-authority-confidentiality"
+    }
+  ],
+  "exhibits": [
+    {
+      "id": "reg-m1-tbs3-ex1",
+      "title": "File notes",
+      "html": "<p>A staff member chooses a blog over a controlling statute. A client calls all CPA communications privileged. A lender asks for a return without consent. A manager relies on a court decision without checking jurisdiction or later law.</p>"
+    },
+    {
+      "id": "reg-m1-tbs3-ex2",
+      "title": "Required approach",
+      "html": "<p>Use applicable authority, distinguish legal protections, and evaluate permitted disclosures.</p>"
+    }
+  ],
+  "explanation": "<h3>Research response to the blog conflict</h3><p>Informal summaries do not override controlling law.</p><h3>Privilege explanation</h3><p>Privilege and confidentiality have defined, different scopes.</p><h3>Response to the lender</h3><p>Disclosure must be permitted under the applicable duties and rules.</p><h3>Court-decision research step</h3><p>A decision’s relevance and precedential value require context.</p>"
+}

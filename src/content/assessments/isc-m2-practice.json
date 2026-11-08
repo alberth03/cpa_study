@@ -1,0 +1,2881 @@
+{
+  "id": "isc-m2-practice",
+  "title": "Security, Confidentiality & Privacy Practice",
+  "courseId": "isc",
+  "moduleId": 2,
+  "selection": "per-lesson",
+  "feedback": "immediate",
+  "passPercent": 80,
+  "questions": [
+    {
+      "id": "isc-m2-l1-q1",
+      "courseId": "isc",
+      "moduleId": 2,
+      "lessonId": "isc-m2-l1",
+      "topic": "Identity, Authentication, Authorization & Access Reviews",
+      "prompt": "Which function determines what an authenticated user may do?",
+      "choices": [
+        {
+          "id": "isc-m2-l1-q1-a0",
+          "text": "Identification alone."
+        },
+        {
+          "id": "isc-m2-l1-q1-a1",
+          "text": "Authorization."
+        },
+        {
+          "id": "isc-m2-l1-q1-a2",
+          "text": "Only encryption."
+        },
+        {
+          "id": "isc-m2-l1-q1-a3",
+          "text": "Only backup scheduling."
+        }
+      ],
+      "correctChoiceId": "isc-m2-l1-q1-a1",
+      "explanation": "Authorization governs permitted actions.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "isc",
+        "blueprintYear": 2026,
+        "areaId": "isc-II",
+        "groupId": "B-C",
+        "topicId": "isc-identity-access",
+        "taskIds": [
+          "isc-identity-access.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "NIST Cybersecurity Framework",
+            "url": "https://www.nist.gov/cyberframework"
+          },
+          {
+            "title": "AICPA SOC resources",
+            "url": "https://www.aicpa-cima.com/resources/landing/system-and-organization-controls-soc-suite-of-services"
+          }
+        ]
+      }
+    },
+    {
+      "id": "isc-m2-l1-q2",
+      "courseId": "isc",
+      "moduleId": 2,
+      "lessonId": "isc-m2-l1",
+      "topic": "Identity, Authentication, Authorization & Access Reviews",
+      "prompt": "Which combination represents distinct authentication-factor categories?",
+      "choices": [
+        {
+          "id": "isc-m2-l1-q2-a0",
+          "text": "Two passwords."
+        },
+        {
+          "id": "isc-m2-l1-q2-a1",
+          "text": "A password and a second memorized phrase only."
+        },
+        {
+          "id": "isc-m2-l1-q2-a2",
+          "text": "A password and a possession-based security token."
+        },
+        {
+          "id": "isc-m2-l1-q2-a3",
+          "text": "Two usernames."
+        }
+      ],
+      "correctChoiceId": "isc-m2-l1-q2-a2",
+      "explanation": "Knowledge and possession are separate factor categories.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "isc",
+        "blueprintYear": 2026,
+        "areaId": "isc-II",
+        "groupId": "B-C",
+        "topicId": "isc-identity-access",
+        "taskIds": [
+          "isc-identity-access.task-2"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "NIST Cybersecurity Framework",
+            "url": "https://www.nist.gov/cyberframework"
+          },
+          {
+            "title": "AICPA SOC resources",
+            "url": "https://www.aicpa-cima.com/resources/landing/system-and-organization-controls-soc-suite-of-services"
+          }
+        ]
+      }
+    },
+    {
+      "id": "isc-m2-l1-q3",
+      "courseId": "isc",
+      "moduleId": 2,
+      "lessonId": "isc-m2-l1",
+      "topic": "Identity, Authentication, Authorization & Access Reviews",
+      "prompt": "What does least privilege mean?",
+      "choices": [
+        {
+          "id": "isc-m2-l1-q3-a0",
+          "text": "Give every employee administrator access."
+        },
+        {
+          "id": "isc-m2-l1-q3-a1",
+          "text": "Never review access again."
+        },
+        {
+          "id": "isc-m2-l1-q3-a2",
+          "text": "Use one shared account for all staff."
+        },
+        {
+          "id": "isc-m2-l1-q3-a3",
+          "text": "Grant only the access needed for authorized responsibilities."
+        }
+      ],
+      "correctChoiceId": "isc-m2-l1-q3-a3",
+      "explanation": "Least privilege limits unnecessary permissions.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "isc",
+        "blueprintYear": 2026,
+        "areaId": "isc-II",
+        "groupId": "B-C",
+        "topicId": "isc-identity-access",
+        "taskIds": [
+          "isc-identity-access.task-3"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "NIST Cybersecurity Framework",
+            "url": "https://www.nist.gov/cyberframework"
+          },
+          {
+            "title": "AICPA SOC resources",
+            "url": "https://www.aicpa-cima.com/resources/landing/system-and-organization-controls-soc-suite-of-services"
+          }
+        ]
+      }
+    },
+    {
+      "id": "isc-m2-l1-q4",
+      "courseId": "isc",
+      "moduleId": 2,
+      "lessonId": "isc-m2-l1",
+      "topic": "Identity, Authentication, Authorization & Access Reviews",
+      "prompt": "Why are shared privileged accounts a concern?",
+      "choices": [
+        {
+          "id": "isc-m2-l1-q4-a0",
+          "text": "They weaken individual accountability and access control."
+        },
+        {
+          "id": "isc-m2-l1-q4-a1",
+          "text": "They guarantee stronger audit trails."
+        },
+        {
+          "id": "isc-m2-l1-q4-a2",
+          "text": "They eliminate authorization requirements."
+        },
+        {
+          "id": "isc-m2-l1-q4-a3",
+          "text": "They prevent misuse automatically."
+        }
+      ],
+      "correctChoiceId": "isc-m2-l1-q4-a0",
+      "explanation": "Shared credentials make actions harder to attribute and govern.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "isc",
+        "blueprintYear": 2026,
+        "areaId": "isc-II",
+        "groupId": "B-C",
+        "topicId": "isc-identity-access",
+        "taskIds": [
+          "isc-identity-access.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "NIST Cybersecurity Framework",
+            "url": "https://www.nist.gov/cyberframework"
+          },
+          {
+            "title": "AICPA SOC resources",
+            "url": "https://www.aicpa-cima.com/resources/landing/system-and-organization-controls-soc-suite-of-services"
+          }
+        ]
+      }
+    },
+    {
+      "id": "isc-m2-l1-q5",
+      "courseId": "isc",
+      "moduleId": 2,
+      "lessonId": "isc-m2-l1",
+      "topic": "Identity, Authentication, Authorization & Access Reviews",
+      "prompt": "An employee changes roles but retains incompatible old privileges. What should occur?",
+      "choices": [
+        {
+          "id": "isc-m2-l1-q5-a0",
+          "text": "Keep all privileges permanently."
+        },
+        {
+          "id": "isc-m2-l1-q5-a1",
+          "text": "Reevaluate and remove unnecessary or conflicting access."
+        },
+        {
+          "id": "isc-m2-l1-q5-a2",
+          "text": "Assume a new job title changes system permissions automatically."
+        },
+        {
+          "id": "isc-m2-l1-q5-a3",
+          "text": "Disable logging to reduce complexity."
+        }
+      ],
+      "correctChoiceId": "isc-m2-l1-q5-a1",
+      "explanation": "Mover controls must update actual entitlements.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "isc",
+        "blueprintYear": 2026,
+        "areaId": "isc-II",
+        "groupId": "B-C",
+        "topicId": "isc-identity-access",
+        "taskIds": [
+          "isc-identity-access.task-2"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "NIST Cybersecurity Framework",
+            "url": "https://www.nist.gov/cyberframework"
+          },
+          {
+            "title": "AICPA SOC resources",
+            "url": "https://www.aicpa-cima.com/resources/landing/system-and-organization-controls-soc-suite-of-services"
+          }
+        ]
+      }
+    },
+    {
+      "id": "isc-m2-l1-q6",
+      "courseId": "isc",
+      "moduleId": 2,
+      "lessonId": "isc-m2-l1",
+      "topic": "Identity, Authentication, Authorization & Access Reviews",
+      "prompt": "A quarterly review excludes administrator accounts. What is the control concern?",
+      "choices": [
+        {
+          "id": "isc-m2-l1-q6-a0",
+          "text": "Administrator access never needs review."
+        },
+        {
+          "id": "isc-m2-l1-q6-a1",
+          "text": "Only the report title matters."
+        },
+        {
+          "id": "isc-m2-l1-q6-a2",
+          "text": "The reviewed access population is incomplete."
+        },
+        {
+          "id": "isc-m2-l1-q6-a3",
+          "text": "The review is complete because most users were included."
+        }
+      ],
+      "correctChoiceId": "isc-m2-l1-q6-a2",
+      "explanation": "Privileged accounts are important to a complete access review.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "isc",
+        "blueprintYear": 2026,
+        "areaId": "isc-II",
+        "groupId": "B-C",
+        "topicId": "isc-identity-access",
+        "taskIds": [
+          "isc-identity-access.task-3"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "NIST Cybersecurity Framework",
+            "url": "https://www.nist.gov/cyberframework"
+          },
+          {
+            "title": "AICPA SOC resources",
+            "url": "https://www.aicpa-cima.com/resources/landing/system-and-organization-controls-soc-suite-of-services"
+          }
+        ]
+      }
+    },
+    {
+      "id": "isc-m2-l1-q7",
+      "courseId": "isc",
+      "moduleId": 2,
+      "lessonId": "isc-m2-l1",
+      "topic": "Identity, Authentication, Authorization & Access Reviews",
+      "prompt": "Evaluate four findings from a user-access review. User listing: A terminated user remains active. A transferred employee retains vendor creation and payment approval. All administrators share one account. The review listing excludes service accounts. Objective: Access should be authorized, appropriate to current duties, attributable, and periodically reviewed using a complete population. Required: Control needed for the terminated user.",
+      "choices": [
+        {
+          "id": "isc-m2-l1-q7-a0",
+          "text": "Permanent retention of login rights"
+        },
+        {
+          "id": "isc-m2-l1-q7-a1",
+          "text": "A new shared password"
+        },
+        {
+          "id": "isc-m2-l1-q7-a2",
+          "text": "No action"
+        },
+        {
+          "id": "isc-m2-l1-q7-a3",
+          "text": "Timely deprovisioning"
+        }
+      ],
+      "correctChoiceId": "isc-m2-l1-q7-a3",
+      "explanation": "Leaver controls should remove unnecessary access promptly.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "isc",
+        "blueprintYear": 2026,
+        "areaId": "isc-II",
+        "groupId": "B-C",
+        "topicId": "isc-identity-access",
+        "taskIds": [
+          "isc-identity-access.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "NIST Cybersecurity Framework",
+            "url": "https://www.nist.gov/cyberframework"
+          },
+          {
+            "title": "AICPA SOC resources",
+            "url": "https://www.aicpa-cima.com/resources/landing/system-and-organization-controls-soc-suite-of-services"
+          }
+        ]
+      },
+      "familyId": "isc-m2-tbs1"
+    },
+    {
+      "id": "isc-m2-l1-q8",
+      "courseId": "isc",
+      "moduleId": 2,
+      "lessonId": "isc-m2-l1",
+      "topic": "Identity, Authentication, Authorization & Access Reviews",
+      "prompt": "Evaluate four findings from a user-access review. User listing: A terminated user remains active. A transferred employee retains vendor creation and payment approval. All administrators share one account. The review listing excludes service accounts. Objective: Access should be authorized, appropriate to current duties, attributable, and periodically reviewed using a complete population. Required: Concern with the transferred employee.",
+      "choices": [
+        {
+          "id": "isc-m2-l1-q8-a0",
+          "text": "Incompatible retained privileges"
+        },
+        {
+          "id": "isc-m2-l1-q8-a1",
+          "text": "Guaranteed segregation of duties"
+        },
+        {
+          "id": "isc-m2-l1-q8-a2",
+          "text": "Only a job-title formatting issue"
+        },
+        {
+          "id": "isc-m2-l1-q8-a3",
+          "text": "No authorization risk"
+        }
+      ],
+      "correctChoiceId": "isc-m2-l1-q8-a0",
+      "explanation": "Role changes must address actual combined entitlements.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "isc",
+        "blueprintYear": 2026,
+        "areaId": "isc-II",
+        "groupId": "B-C",
+        "topicId": "isc-identity-access",
+        "taskIds": [
+          "isc-identity-access.task-2"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "NIST Cybersecurity Framework",
+            "url": "https://www.nist.gov/cyberframework"
+          },
+          {
+            "title": "AICPA SOC resources",
+            "url": "https://www.aicpa-cima.com/resources/landing/system-and-organization-controls-soc-suite-of-services"
+          }
+        ]
+      },
+      "familyId": "isc-m2-tbs1"
+    },
+    {
+      "id": "isc-m2-l1-q9",
+      "courseId": "isc",
+      "moduleId": 2,
+      "lessonId": "isc-m2-l1",
+      "topic": "Identity, Authentication, Authorization & Access Reviews",
+      "prompt": "Evaluate four findings from a user-access review. User listing: A terminated user remains active. A transferred employee retains vendor creation and payment approval. All administrators share one account. The review listing excludes service accounts. Objective: Access should be authorized, appropriate to current duties, attributable, and periodically reviewed using a complete population. Required: Concern with the shared administrator account.",
+      "choices": [
+        {
+          "id": "isc-m2-l1-q9-a0",
+          "text": "Automatic least privilege"
+        },
+        {
+          "id": "isc-m2-l1-q9-a1",
+          "text": "Weak individual accountability"
+        },
+        {
+          "id": "isc-m2-l1-q9-a2",
+          "text": "Perfect attribution"
+        },
+        {
+          "id": "isc-m2-l1-q9-a3",
+          "text": "No need for logs"
+        }
+      ],
+      "correctChoiceId": "isc-m2-l1-q9-a1",
+      "explanation": "Shared credentials obscure who performed an action.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "isc",
+        "blueprintYear": 2026,
+        "areaId": "isc-II",
+        "groupId": "B-C",
+        "topicId": "isc-identity-access",
+        "taskIds": [
+          "isc-identity-access.task-3"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "NIST Cybersecurity Framework",
+            "url": "https://www.nist.gov/cyberframework"
+          },
+          {
+            "title": "AICPA SOC resources",
+            "url": "https://www.aicpa-cima.com/resources/landing/system-and-organization-controls-soc-suite-of-services"
+          }
+        ]
+      },
+      "familyId": "isc-m2-tbs1"
+    },
+    {
+      "id": "isc-m2-l1-q10",
+      "courseId": "isc",
+      "moduleId": 2,
+      "lessonId": "isc-m2-l1",
+      "topic": "Identity, Authentication, Authorization & Access Reviews",
+      "prompt": "Evaluate four findings from a user-access review. User listing: A terminated user remains active. A transferred employee retains vendor creation and payment approval. All administrators share one account. The review listing excludes service accounts. Objective: Access should be authorized, appropriate to current duties, attributable, and periodically reviewed using a complete population. Required: Concern with omitted service accounts.",
+      "choices": [
+        {
+          "id": "isc-m2-l1-q10-a0",
+          "text": "All nonhuman accounts are risk-free"
+        },
+        {
+          "id": "isc-m2-l1-q10-a1",
+          "text": "A guaranteed effective review"
+        },
+        {
+          "id": "isc-m2-l1-q10-a2",
+          "text": "Incomplete review population"
+        },
+        {
+          "id": "isc-m2-l1-q10-a3",
+          "text": "Only backup timing"
+        }
+      ],
+      "correctChoiceId": "isc-m2-l1-q10-a2",
+      "explanation": "Relevant service identities also require governance.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "isc",
+        "blueprintYear": 2026,
+        "areaId": "isc-II",
+        "groupId": "B-C",
+        "topicId": "isc-identity-access",
+        "taskIds": [
+          "isc-identity-access.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "NIST Cybersecurity Framework",
+            "url": "https://www.nist.gov/cyberframework"
+          },
+          {
+            "title": "AICPA SOC resources",
+            "url": "https://www.aicpa-cima.com/resources/landing/system-and-organization-controls-soc-suite-of-services"
+          }
+        ]
+      },
+      "familyId": "isc-m2-tbs1"
+    },
+    {
+      "id": "isc-m2-l2-q1",
+      "courseId": "isc",
+      "moduleId": 2,
+      "lessonId": "isc-m2-l2",
+      "topic": "Threats, Vulnerabilities, Monitoring & Incident Response",
+      "prompt": "What is a vulnerability?",
+      "choices": [
+        {
+          "id": "isc-m2-l2-q1-a0",
+          "text": "Every confirmed security incident."
+        },
+        {
+          "id": "isc-m2-l2-q1-a1",
+          "text": "A guarantee of loss."
+        },
+        {
+          "id": "isc-m2-l2-q1-a2",
+          "text": "A weakness that could be exploited or contribute to an adverse event."
+        },
+        {
+          "id": "isc-m2-l2-q1-a3",
+          "text": "Only an authorized business process."
+        }
+      ],
+      "correctChoiceId": "isc-m2-l2-q1-a2",
+      "explanation": "A vulnerability is a weakness, not necessarily an incident or realized loss.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "isc",
+        "blueprintYear": 2026,
+        "areaId": "isc-II",
+        "groupId": "B-C",
+        "topicId": "isc-security-threats-response",
+        "taskIds": [
+          "isc-security-threats-response.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "NIST Cybersecurity Framework",
+            "url": "https://www.nist.gov/cyberframework"
+          },
+          {
+            "title": "AICPA SOC resources",
+            "url": "https://www.aicpa-cima.com/resources/landing/system-and-organization-controls-soc-suite-of-services"
+          }
+        ]
+      }
+    },
+    {
+      "id": "isc-m2-l2-q2",
+      "courseId": "isc",
+      "moduleId": 2,
+      "lessonId": "isc-m2-l2",
+      "topic": "Threats, Vulnerabilities, Monitoring & Incident Response",
+      "prompt": "Which is primarily a detective control?",
+      "choices": [
+        {
+          "id": "isc-m2-l2-q2-a0",
+          "text": "Only prohibiting access in advance."
+        },
+        {
+          "id": "isc-m2-l2-q2-a1",
+          "text": "Only restoring backups after failure."
+        },
+        {
+          "id": "isc-m2-l2-q2-a2",
+          "text": "Only assigning a job title."
+        },
+        {
+          "id": "isc-m2-l2-q2-a3",
+          "text": "Monitoring and investigating anomalous access."
+        }
+      ],
+      "correctChoiceId": "isc-m2-l2-q2-a3",
+      "explanation": "Detection identifies potentially adverse events for investigation.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "isc",
+        "blueprintYear": 2026,
+        "areaId": "isc-II",
+        "groupId": "B-C",
+        "topicId": "isc-security-threats-response",
+        "taskIds": [
+          "isc-security-threats-response.task-2"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "NIST Cybersecurity Framework",
+            "url": "https://www.nist.gov/cyberframework"
+          },
+          {
+            "title": "AICPA SOC resources",
+            "url": "https://www.aicpa-cima.com/resources/landing/system-and-organization-controls-soc-suite-of-services"
+          }
+        ]
+      }
+    },
+    {
+      "id": "isc-m2-l2-q3",
+      "courseId": "isc",
+      "moduleId": 2,
+      "lessonId": "isc-m2-l2",
+      "topic": "Threats, Vulnerabilities, Monitoring & Incident Response",
+      "prompt": "Which activity belongs in incident response?",
+      "choices": [
+        {
+          "id": "isc-m2-l2-q3-a0",
+          "text": "Containment and analysis while preserving relevant evidence."
+        },
+        {
+          "id": "isc-m2-l2-q3-a1",
+          "text": "Automatically deleting all logs."
+        },
+        {
+          "id": "isc-m2-l2-q3-a2",
+          "text": "Ignoring business stakeholders."
+        },
+        {
+          "id": "isc-m2-l2-q3-a3",
+          "text": "Restoring every system without checking the cause."
+        }
+      ],
+      "correctChoiceId": "isc-m2-l2-q3-a0",
+      "explanation": "Response combines analysis, containment, recovery, and evidence considerations.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "isc",
+        "blueprintYear": 2026,
+        "areaId": "isc-II",
+        "groupId": "B-C",
+        "topicId": "isc-security-threats-response",
+        "taskIds": [
+          "isc-security-threats-response.task-3"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "NIST Cybersecurity Framework",
+            "url": "https://www.nist.gov/cyberframework"
+          },
+          {
+            "title": "AICPA SOC resources",
+            "url": "https://www.aicpa-cima.com/resources/landing/system-and-organization-controls-soc-suite-of-services"
+          }
+        ]
+      }
+    },
+    {
+      "id": "isc-m2-l2-q4",
+      "courseId": "isc",
+      "moduleId": 2,
+      "lessonId": "isc-m2-l2",
+      "topic": "Threats, Vulnerabilities, Monitoring & Incident Response",
+      "prompt": "What is a key purpose of lessons learned after an incident?",
+      "choices": [
+        {
+          "id": "isc-m2-l2-q4-a0",
+          "text": "Prove every future incident is impossible."
+        },
+        {
+          "id": "isc-m2-l2-q4-a1",
+          "text": "Improve controls and response processes."
+        },
+        {
+          "id": "isc-m2-l2-q4-a2",
+          "text": "Eliminate documentation."
+        },
+        {
+          "id": "isc-m2-l2-q4-a3",
+          "text": "Avoid all remediation."
+        }
+      ],
+      "correctChoiceId": "isc-m2-l2-q4-a1",
+      "explanation": "Post-incident review turns findings into improvements.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "isc",
+        "blueprintYear": 2026,
+        "areaId": "isc-II",
+        "groupId": "B-C",
+        "topicId": "isc-security-threats-response",
+        "taskIds": [
+          "isc-security-threats-response.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "NIST Cybersecurity Framework",
+            "url": "https://www.nist.gov/cyberframework"
+          },
+          {
+            "title": "AICPA SOC resources",
+            "url": "https://www.aicpa-cima.com/resources/landing/system-and-organization-controls-soc-suite-of-services"
+          }
+        ]
+      }
+    },
+    {
+      "id": "isc-m2-l2-q5",
+      "courseId": "isc",
+      "moduleId": 2,
+      "lessonId": "isc-m2-l2",
+      "topic": "Threats, Vulnerabilities, Monitoring & Incident Response",
+      "prompt": "A critical internet-facing vulnerability and a low-impact isolated finding are discovered. What should guide priority?",
+      "choices": [
+        {
+          "id": "isc-m2-l2-q5-a0",
+          "text": "Only the alphabetical order of system names."
+        },
+        {
+          "id": "isc-m2-l2-q5-a1",
+          "text": "Only the number of screenshots."
+        },
+        {
+          "id": "isc-m2-l2-q5-a2",
+          "text": "Risk, exposure, impact, and relevant remediation factors."
+        },
+        {
+          "id": "isc-m2-l2-q5-a3",
+          "text": "Always fix the easiest issue first regardless of risk."
+        }
+      ],
+      "correctChoiceId": "isc-m2-l2-q5-a2",
+      "explanation": "Risk-based prioritization considers the actual exposure and consequences.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "isc",
+        "blueprintYear": 2026,
+        "areaId": "isc-II",
+        "groupId": "B-C",
+        "topicId": "isc-security-threats-response",
+        "taskIds": [
+          "isc-security-threats-response.task-2"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "NIST Cybersecurity Framework",
+            "url": "https://www.nist.gov/cyberframework"
+          },
+          {
+            "title": "AICPA SOC resources",
+            "url": "https://www.aicpa-cima.com/resources/landing/system-and-organization-controls-soc-suite-of-services"
+          }
+        ]
+      }
+    },
+    {
+      "id": "isc-m2-l2-q6",
+      "courseId": "isc",
+      "moduleId": 2,
+      "lessonId": "isc-m2-l2",
+      "topic": "Threats, Vulnerabilities, Monitoring & Incident Response",
+      "prompt": "A system produces extensive logs but no one reviews or investigates alerts. What is the concern?",
+      "choices": [
+        {
+          "id": "isc-m2-l2-q6-a0",
+          "text": "Logging volume alone proves control effectiveness."
+        },
+        {
+          "id": "isc-m2-l2-q6-a1",
+          "text": "No monitoring is needed if logs exist."
+        },
+        {
+          "id": "isc-m2-l2-q6-a2",
+          "text": "The records automatically prevent incidents."
+        },
+        {
+          "id": "isc-m2-l2-q6-a3",
+          "text": "Detection and escalation may be ineffective despite data collection."
+        }
+      ],
+      "correctChoiceId": "isc-m2-l2-q6-a3",
+      "explanation": "Collection alone is not a complete detective control.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "isc",
+        "blueprintYear": 2026,
+        "areaId": "isc-II",
+        "groupId": "B-C",
+        "topicId": "isc-security-threats-response",
+        "taskIds": [
+          "isc-security-threats-response.task-3"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "NIST Cybersecurity Framework",
+            "url": "https://www.nist.gov/cyberframework"
+          },
+          {
+            "title": "AICPA SOC resources",
+            "url": "https://www.aicpa-cima.com/resources/landing/system-and-organization-controls-soc-suite-of-services"
+          }
+        ]
+      }
+    },
+    {
+      "id": "isc-m2-l2-q7",
+      "courseId": "isc",
+      "moduleId": 2,
+      "lessonId": "isc-m2-l2",
+      "topic": "Threats, Vulnerabilities, Monitoring & Incident Response",
+      "prompt": "Select appropriate actions during a suspected security incident. Observed event: A monitoring alert shows unusual privileged access to confidential records. The team has not confirmed the scope. A technician proposes deleting logs and immediately rebuilding every affected system. Response objectives: Protect the business, preserve useful evidence, determine scope, contain the event, remediate causes, and recover through the approved process. Required: First response to the alert.",
+      "choices": [
+        {
+          "id": "isc-m2-l2-q7-a0",
+          "text": "Validate and triage while preserving relevant evidence"
+        },
+        {
+          "id": "isc-m2-l2-q7-a1",
+          "text": "Assume the alert is always false"
+        },
+        {
+          "id": "isc-m2-l2-q7-a2",
+          "text": "Publish confidential records"
+        },
+        {
+          "id": "isc-m2-l2-q7-a3",
+          "text": "Ignore the alert until month-end"
+        }
+      ],
+      "correctChoiceId": "isc-m2-l2-q7-a0",
+      "explanation": "Initial analysis establishes the incident’s nature and supports an appropriate response.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "isc",
+        "blueprintYear": 2026,
+        "areaId": "isc-II",
+        "groupId": "B-C",
+        "topicId": "isc-security-threats-response",
+        "taskIds": [
+          "isc-security-threats-response.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "NIST Cybersecurity Framework",
+            "url": "https://www.nist.gov/cyberframework"
+          },
+          {
+            "title": "AICPA SOC resources",
+            "url": "https://www.aicpa-cima.com/resources/landing/system-and-organization-controls-soc-suite-of-services"
+          }
+        ]
+      },
+      "familyId": "isc-m2-tbs2"
+    },
+    {
+      "id": "isc-m2-l2-q8",
+      "courseId": "isc",
+      "moduleId": 2,
+      "lessonId": "isc-m2-l2",
+      "topic": "Threats, Vulnerabilities, Monitoring & Incident Response",
+      "prompt": "Select appropriate actions during a suspected security incident. Observed event: A monitoring alert shows unusual privileged access to confidential records. The team has not confirmed the scope. A technician proposes deleting logs and immediately rebuilding every affected system. Response objectives: Protect the business, preserve useful evidence, determine scope, contain the event, remediate causes, and recover through the approved process. Required: Response to proposed log deletion.",
+      "choices": [
+        {
+          "id": "isc-m2-l2-q8-a0",
+          "text": "Delete all records immediately"
+        },
+        {
+          "id": "isc-m2-l2-q8-a1",
+          "text": "Preserve relevant evidence under the response plan"
+        },
+        {
+          "id": "isc-m2-l2-q8-a2",
+          "text": "Disable all accountability"
+        },
+        {
+          "id": "isc-m2-l2-q8-a3",
+          "text": "Treat logs as always irrelevant"
+        }
+      ],
+      "correctChoiceId": "isc-m2-l2-q8-a1",
+      "explanation": "Uncontrolled deletion can impede investigation and legal obligations.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "isc",
+        "blueprintYear": 2026,
+        "areaId": "isc-II",
+        "groupId": "B-C",
+        "topicId": "isc-security-threats-response",
+        "taskIds": [
+          "isc-security-threats-response.task-2"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "NIST Cybersecurity Framework",
+            "url": "https://www.nist.gov/cyberframework"
+          },
+          {
+            "title": "AICPA SOC resources",
+            "url": "https://www.aicpa-cima.com/resources/landing/system-and-organization-controls-soc-suite-of-services"
+          }
+        ]
+      },
+      "familyId": "isc-m2-tbs2"
+    },
+    {
+      "id": "isc-m2-l2-q9",
+      "courseId": "isc",
+      "moduleId": 2,
+      "lessonId": "isc-m2-l2",
+      "topic": "Threats, Vulnerabilities, Monitoring & Incident Response",
+      "prompt": "Select appropriate actions during a suspected security incident. Observed event: A monitoring alert shows unusual privileged access to confidential records. The team has not confirmed the scope. A technician proposes deleting logs and immediately rebuilding every affected system. Response objectives: Protect the business, preserve useful evidence, determine scope, contain the event, remediate causes, and recover through the approved process. Required: Objective of containment.",
+      "choices": [
+        {
+          "id": "isc-m2-l2-q9-a0",
+          "text": "Guarantee no prior data was affected"
+        },
+        {
+          "id": "isc-m2-l2-q9-a1",
+          "text": "Replace all analysis"
+        },
+        {
+          "id": "isc-m2-l2-q9-a2",
+          "text": "Limit further harm while coordinating the response"
+        },
+        {
+          "id": "isc-m2-l2-q9-a3",
+          "text": "Eliminate recovery planning"
+        }
+      ],
+      "correctChoiceId": "isc-m2-l2-q9-a2",
+      "explanation": "Containment limits ongoing impact without replacing investigation.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "isc",
+        "blueprintYear": 2026,
+        "areaId": "isc-II",
+        "groupId": "B-C",
+        "topicId": "isc-security-threats-response",
+        "taskIds": [
+          "isc-security-threats-response.task-3"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "NIST Cybersecurity Framework",
+            "url": "https://www.nist.gov/cyberframework"
+          },
+          {
+            "title": "AICPA SOC resources",
+            "url": "https://www.aicpa-cima.com/resources/landing/system-and-organization-controls-soc-suite-of-services"
+          }
+        ]
+      },
+      "familyId": "isc-m2-tbs2"
+    },
+    {
+      "id": "isc-m2-l2-q10",
+      "courseId": "isc",
+      "moduleId": 2,
+      "lessonId": "isc-m2-l2",
+      "topic": "Threats, Vulnerabilities, Monitoring & Incident Response",
+      "prompt": "Select appropriate actions during a suspected security incident. Observed event: A monitoring alert shows unusual privileged access to confidential records. The team has not confirmed the scope. A technician proposes deleting logs and immediately rebuilding every affected system. Response objectives: Protect the business, preserve useful evidence, determine scope, contain the event, remediate causes, and recover through the approved process. Required: Post-recovery action.",
+      "choices": [
+        {
+          "id": "isc-m2-l2-q10-a0",
+          "text": "Assume rebuilding prevents every recurrence"
+        },
+        {
+          "id": "isc-m2-l2-q10-a1",
+          "text": "Discard the incident record"
+        },
+        {
+          "id": "isc-m2-l2-q10-a2",
+          "text": "Stop monitoring permanently"
+        },
+        {
+          "id": "isc-m2-l2-q10-a3",
+          "text": "Review causes and improve controls and procedures"
+        }
+      ],
+      "correctChoiceId": "isc-m2-l2-q10-a3",
+      "explanation": "Lessons learned support sustained improvement.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "isc",
+        "blueprintYear": 2026,
+        "areaId": "isc-II",
+        "groupId": "B-C",
+        "topicId": "isc-security-threats-response",
+        "taskIds": [
+          "isc-security-threats-response.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "NIST Cybersecurity Framework",
+            "url": "https://www.nist.gov/cyberframework"
+          },
+          {
+            "title": "AICPA SOC resources",
+            "url": "https://www.aicpa-cima.com/resources/landing/system-and-organization-controls-soc-suite-of-services"
+          }
+        ]
+      },
+      "familyId": "isc-m2-tbs2"
+    },
+    {
+      "id": "isc-m2-l3-q1",
+      "courseId": "isc",
+      "moduleId": 2,
+      "lessonId": "isc-m2-l3",
+      "topic": "Confidentiality, Encryption, Classification & Key Management",
+      "prompt": "Which transformation is designed to be reversible with a key?",
+      "choices": [
+        {
+          "id": "isc-m2-l3-q1-a0",
+          "text": "A one-way cryptographic hash."
+        },
+        {
+          "id": "isc-m2-l3-q1-a1",
+          "text": "A file name."
+        },
+        {
+          "id": "isc-m2-l3-q1-a2",
+          "text": "A checksum label without a process."
+        },
+        {
+          "id": "isc-m2-l3-q1-a3",
+          "text": "Encryption."
+        }
+      ],
+      "correctChoiceId": "isc-m2-l3-q1-a3",
+      "explanation": "Encryption protects recoverable information using keys.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "isc",
+        "blueprintYear": 2026,
+        "areaId": "isc-II",
+        "groupId": "B-C",
+        "topicId": "isc-confidentiality-encryption",
+        "taskIds": [
+          "isc-confidentiality-encryption.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "NIST Cybersecurity Framework",
+            "url": "https://www.nist.gov/cyberframework"
+          },
+          {
+            "title": "AICPA SOC resources",
+            "url": "https://www.aicpa-cima.com/resources/landing/system-and-organization-controls-soc-suite-of-services"
+          }
+        ]
+      }
+    },
+    {
+      "id": "isc-m2-l3-q2",
+      "courseId": "isc",
+      "moduleId": 2,
+      "lessonId": "isc-m2-l3",
+      "topic": "Confidentiality, Encryption, Classification & Key Management",
+      "prompt": "Which approach is appropriate for password verification storage?",
+      "choices": [
+        {
+          "id": "isc-m2-l3-q2-a0",
+          "text": "A suitable salted password-hashing scheme."
+        },
+        {
+          "id": "isc-m2-l3-q2-a1",
+          "text": "Plaintext passwords."
+        },
+        {
+          "id": "isc-m2-l3-q2-a2",
+          "text": "A shared reversible key stored with every password."
+        },
+        {
+          "id": "isc-m2-l3-q2-a3",
+          "text": "Only the user’s name."
+        }
+      ],
+      "correctChoiceId": "isc-m2-l3-q2-a0",
+      "explanation": "Password hashing is designed for verification without storing recoverable plaintext passwords.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "isc",
+        "blueprintYear": 2026,
+        "areaId": "isc-II",
+        "groupId": "B-C",
+        "topicId": "isc-confidentiality-encryption",
+        "taskIds": [
+          "isc-confidentiality-encryption.task-2"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "NIST Cybersecurity Framework",
+            "url": "https://www.nist.gov/cyberframework"
+          },
+          {
+            "title": "AICPA SOC resources",
+            "url": "https://www.aicpa-cima.com/resources/landing/system-and-organization-controls-soc-suite-of-services"
+          }
+        ]
+      }
+    },
+    {
+      "id": "isc-m2-l3-q3",
+      "courseId": "isc",
+      "moduleId": 2,
+      "lessonId": "isc-m2-l3",
+      "topic": "Confidentiality, Encryption, Classification & Key Management",
+      "prompt": "What is a purpose of data classification?",
+      "choices": [
+        {
+          "id": "isc-m2-l3-q3-a0",
+          "text": "Guarantee no employee can ever misuse data."
+        },
+        {
+          "id": "isc-m2-l3-q3-a1",
+          "text": "Determine handling and protection requirements based on sensitivity."
+        },
+        {
+          "id": "isc-m2-l3-q3-a2",
+          "text": "Replace every access control."
+        },
+        {
+          "id": "isc-m2-l3-q3-a3",
+          "text": "Decide only the font size."
+        }
+      ],
+      "correctChoiceId": "isc-m2-l3-q3-a1",
+      "explanation": "Classification guides protection and lifecycle controls.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "isc",
+        "blueprintYear": 2026,
+        "areaId": "isc-II",
+        "groupId": "B-C",
+        "topicId": "isc-confidentiality-encryption",
+        "taskIds": [
+          "isc-confidentiality-encryption.task-3"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "NIST Cybersecurity Framework",
+            "url": "https://www.nist.gov/cyberframework"
+          },
+          {
+            "title": "AICPA SOC resources",
+            "url": "https://www.aicpa-cima.com/resources/landing/system-and-organization-controls-soc-suite-of-services"
+          }
+        ]
+      }
+    },
+    {
+      "id": "isc-m2-l3-q4",
+      "courseId": "isc",
+      "moduleId": 2,
+      "lessonId": "isc-m2-l3",
+      "topic": "Confidentiality, Encryption, Classification & Key Management",
+      "prompt": "Which activity belongs to key management?",
+      "choices": [
+        {
+          "id": "isc-m2-l3-q4-a0",
+          "text": "Only naming encrypted files."
+        },
+        {
+          "id": "isc-m2-l3-q4-a1",
+          "text": "Only changing folder colors."
+        },
+        {
+          "id": "isc-m2-l3-q4-a2",
+          "text": "Controlled key generation, access, rotation, and revocation."
+        },
+        {
+          "id": "isc-m2-l3-q4-a3",
+          "text": "Only printing passwords."
+        }
+      ],
+      "correctChoiceId": "isc-m2-l3-q4-a2",
+      "explanation": "Keys need lifecycle governance and protection.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "isc",
+        "blueprintYear": 2026,
+        "areaId": "isc-II",
+        "groupId": "B-C",
+        "topicId": "isc-confidentiality-encryption",
+        "taskIds": [
+          "isc-confidentiality-encryption.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "NIST Cybersecurity Framework",
+            "url": "https://www.nist.gov/cyberframework"
+          },
+          {
+            "title": "AICPA SOC resources",
+            "url": "https://www.aicpa-cima.com/resources/landing/system-and-organization-controls-soc-suite-of-services"
+          }
+        ]
+      }
+    },
+    {
+      "id": "isc-m2-l3-q5",
+      "courseId": "isc",
+      "moduleId": 2,
+      "lessonId": "isc-m2-l3",
+      "topic": "Confidentiality, Encryption, Classification & Key Management",
+      "prompt": "Encrypted confidential data and its decryption key are available to the same unauthorized users. What is the concern?",
+      "choices": [
+        {
+          "id": "isc-m2-l3-q5-a0",
+          "text": "Encryption guarantees protection regardless of key access."
+        },
+        {
+          "id": "isc-m2-l3-q5-a1",
+          "text": "The key is irrelevant."
+        },
+        {
+          "id": "isc-m2-l3-q5-a2",
+          "text": "Hashing the file name solves every issue."
+        },
+        {
+          "id": "isc-m2-l3-q5-a3",
+          "text": "Key exposure undermines the intended confidentiality protection."
+        }
+      ],
+      "correctChoiceId": "isc-m2-l3-q5-a3",
+      "explanation": "Users with the key can recover plaintext.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "isc",
+        "blueprintYear": 2026,
+        "areaId": "isc-II",
+        "groupId": "B-C",
+        "topicId": "isc-confidentiality-encryption",
+        "taskIds": [
+          "isc-confidentiality-encryption.task-2"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "NIST Cybersecurity Framework",
+            "url": "https://www.nist.gov/cyberframework"
+          },
+          {
+            "title": "AICPA SOC resources",
+            "url": "https://www.aicpa-cima.com/resources/landing/system-and-organization-controls-soc-suite-of-services"
+          }
+        ]
+      }
+    },
+    {
+      "id": "isc-m2-l3-q6",
+      "courseId": "isc",
+      "moduleId": 2,
+      "lessonId": "isc-m2-l3",
+      "topic": "Confidentiality, Encryption, Classification & Key Management",
+      "prompt": "A confidential backup reaches the end of its required retention period. What should be evaluated?",
+      "choices": [
+        {
+          "id": "isc-m2-l3-q6-a0",
+          "text": "Authorized secure disposal consistent with policy and obligations."
+        },
+        {
+          "id": "isc-m2-l3-q6-a1",
+          "text": "Permanent retention of every copy without review."
+        },
+        {
+          "id": "isc-m2-l3-q6-a2",
+          "text": "Public posting before deletion."
+        },
+        {
+          "id": "isc-m2-l3-q6-a3",
+          "text": "Ignoring all backup copies."
+        }
+      ],
+      "correctChoiceId": "isc-m2-l3-q6-a0",
+      "explanation": "Retention and secure disposal should cover backups as well as active data.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "isc",
+        "blueprintYear": 2026,
+        "areaId": "isc-II",
+        "groupId": "B-C",
+        "topicId": "isc-confidentiality-encryption",
+        "taskIds": [
+          "isc-confidentiality-encryption.task-3"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "NIST Cybersecurity Framework",
+            "url": "https://www.nist.gov/cyberframework"
+          },
+          {
+            "title": "AICPA SOC resources",
+            "url": "https://www.aicpa-cima.com/resources/landing/system-and-organization-controls-soc-suite-of-services"
+          }
+        ]
+      }
+    },
+    {
+      "id": "isc-m2-l3-q7",
+      "courseId": "isc",
+      "moduleId": 2,
+      "lessonId": "isc-m2-l3",
+      "topic": "Confidentiality, Encryption, Classification & Key Management",
+      "prompt": "Evaluate design weaknesses in a data-export service. Service design: Confidential records are encrypted at rest. All support users can retrieve both ciphertext and keys. Passwords are stored in plaintext. Backup copies are never included in retention reviews. Protection goals: Only authorized users should recover confidential data, credentials should be protected appropriately, and retention/disposal should cover all relevant copies. Required: Main key-management improvement.",
+      "choices": [
+        {
+          "id": "isc-m2-l3-q7-a0",
+          "text": "Give every user all keys"
+        },
+        {
+          "id": "isc-m2-l3-q7-a1",
+          "text": "Restrict and monitor key access separately as appropriate"
+        },
+        {
+          "id": "isc-m2-l3-q7-a2",
+          "text": "Publish the keys"
+        },
+        {
+          "id": "isc-m2-l3-q7-a3",
+          "text": "Ignore recovery permissions"
+        }
+      ],
+      "correctChoiceId": "isc-m2-l3-q7-a1",
+      "explanation": "Control over key material is essential to encryption effectiveness.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "isc",
+        "blueprintYear": 2026,
+        "areaId": "isc-II",
+        "groupId": "B-C",
+        "topicId": "isc-confidentiality-encryption",
+        "taskIds": [
+          "isc-confidentiality-encryption.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "NIST Cybersecurity Framework",
+            "url": "https://www.nist.gov/cyberframework"
+          },
+          {
+            "title": "AICPA SOC resources",
+            "url": "https://www.aicpa-cima.com/resources/landing/system-and-organization-controls-soc-suite-of-services"
+          }
+        ]
+      },
+      "familyId": "isc-m2-tbs3"
+    },
+    {
+      "id": "isc-m2-l3-q8",
+      "courseId": "isc",
+      "moduleId": 2,
+      "lessonId": "isc-m2-l3",
+      "topic": "Confidentiality, Encryption, Classification & Key Management",
+      "prompt": "Evaluate design weaknesses in a data-export service. Service design: Confidential records are encrypted at rest. All support users can retrieve both ciphertext and keys. Passwords are stored in plaintext. Backup copies are never included in retention reviews. Protection goals: Only authorized users should recover confidential data, credentials should be protected appropriately, and retention/disposal should cover all relevant copies. Required: Password-storage improvement.",
+      "choices": [
+        {
+          "id": "isc-m2-l3-q8-a0",
+          "text": "Keep plaintext for convenience"
+        },
+        {
+          "id": "isc-m2-l3-q8-a1",
+          "text": "Email all passwords to support"
+        },
+        {
+          "id": "isc-m2-l3-q8-a2",
+          "text": "Use a suitable salted password-hashing scheme"
+        },
+        {
+          "id": "isc-m2-l3-q8-a3",
+          "text": "Use the username as the password"
+        }
+      ],
+      "correctChoiceId": "isc-m2-l3-q8-a2",
+      "explanation": "Password verification should not require plaintext storage.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "isc",
+        "blueprintYear": 2026,
+        "areaId": "isc-II",
+        "groupId": "B-C",
+        "topicId": "isc-confidentiality-encryption",
+        "taskIds": [
+          "isc-confidentiality-encryption.task-2"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "NIST Cybersecurity Framework",
+            "url": "https://www.nist.gov/cyberframework"
+          },
+          {
+            "title": "AICPA SOC resources",
+            "url": "https://www.aicpa-cima.com/resources/landing/system-and-organization-controls-soc-suite-of-services"
+          }
+        ]
+      },
+      "familyId": "isc-m2-tbs3"
+    },
+    {
+      "id": "isc-m2-l3-q9",
+      "courseId": "isc",
+      "moduleId": 2,
+      "lessonId": "isc-m2-l3",
+      "topic": "Confidentiality, Encryption, Classification & Key Management",
+      "prompt": "Evaluate design weaknesses in a data-export service. Service design: Confidential records are encrypted at rest. All support users can retrieve both ciphertext and keys. Passwords are stored in plaintext. Backup copies are never included in retention reviews. Protection goals: Only authorized users should recover confidential data, credentials should be protected appropriately, and retention/disposal should cover all relevant copies. Required: Retention improvement.",
+      "choices": [
+        {
+          "id": "isc-m2-l3-q9-a0",
+          "text": "Ignore all copies after export"
+        },
+        {
+          "id": "isc-m2-l3-q9-a1",
+          "text": "Retain everything forever automatically"
+        },
+        {
+          "id": "isc-m2-l3-q9-a2",
+          "text": "Delete without checking obligations"
+        },
+        {
+          "id": "isc-m2-l3-q9-a3",
+          "text": "Include backups in authorized retention and disposal controls"
+        }
+      ],
+      "correctChoiceId": "isc-m2-l3-q9-a3",
+      "explanation": "Lifecycle controls need to cover relevant copies and obligations.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "isc",
+        "blueprintYear": 2026,
+        "areaId": "isc-II",
+        "groupId": "B-C",
+        "topicId": "isc-confidentiality-encryption",
+        "taskIds": [
+          "isc-confidentiality-encryption.task-3"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "NIST Cybersecurity Framework",
+            "url": "https://www.nist.gov/cyberframework"
+          },
+          {
+            "title": "AICPA SOC resources",
+            "url": "https://www.aicpa-cima.com/resources/landing/system-and-organization-controls-soc-suite-of-services"
+          }
+        ]
+      },
+      "familyId": "isc-m2-tbs3"
+    },
+    {
+      "id": "isc-m2-l3-q10",
+      "courseId": "isc",
+      "moduleId": 2,
+      "lessonId": "isc-m2-l3",
+      "topic": "Confidentiality, Encryption, Classification & Key Management",
+      "prompt": "Evaluate design weaknesses in a data-export service. Service design: Confidential records are encrypted at rest. All support users can retrieve both ciphertext and keys. Passwords are stored in plaintext. Backup copies are never included in retention reviews. Protection goals: Only authorized users should recover confidential data, credentials should be protected appropriately, and retention/disposal should cover all relevant copies. Required: Effect of broad plaintext export privileges.",
+      "choices": [
+        {
+          "id": "isc-m2-l3-q10-a0",
+          "text": "Access control still matters even when storage is encrypted"
+        },
+        {
+          "id": "isc-m2-l3-q10-a1",
+          "text": "Encryption eliminates authorization needs"
+        },
+        {
+          "id": "isc-m2-l3-q10-a2",
+          "text": "All support users are automatically entitled"
+        },
+        {
+          "id": "isc-m2-l3-q10-a3",
+          "text": "No monitoring is relevant"
+        }
+      ],
+      "correctChoiceId": "isc-m2-l3-q10-a0",
+      "explanation": "Authorized decryption pathways can expose data if permissions are excessive.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "isc",
+        "blueprintYear": 2026,
+        "areaId": "isc-II",
+        "groupId": "B-C",
+        "topicId": "isc-confidentiality-encryption",
+        "taskIds": [
+          "isc-confidentiality-encryption.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "NIST Cybersecurity Framework",
+            "url": "https://www.nist.gov/cyberframework"
+          },
+          {
+            "title": "AICPA SOC resources",
+            "url": "https://www.aicpa-cima.com/resources/landing/system-and-organization-controls-soc-suite-of-services"
+          }
+        ]
+      },
+      "familyId": "isc-m2-tbs3"
+    },
+    {
+      "id": "isc-m2-l4-q1",
+      "courseId": "isc",
+      "moduleId": 2,
+      "lessonId": "isc-m2-l4",
+      "topic": "Privacy, HIPAA, GDPR & Payment-Card Requirements",
+      "prompt": "Which concept focuses on the collection, use, retention, and disclosure of personal information?",
+      "choices": [
+        {
+          "id": "isc-m2-l4-q1-a0",
+          "text": "Privacy."
+        },
+        {
+          "id": "isc-m2-l4-q1-a1",
+          "text": "Only physical inventory valuation."
+        },
+        {
+          "id": "isc-m2-l4-q1-a2",
+          "text": "Only common-stock ownership."
+        },
+        {
+          "id": "isc-m2-l4-q1-a3",
+          "text": "Only audit sampling."
+        }
+      ],
+      "correctChoiceId": "isc-m2-l4-q1-a0",
+      "explanation": "Privacy addresses the personal-information lifecycle and applicable commitments.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "isc",
+        "blueprintYear": 2026,
+        "areaId": "isc-II",
+        "groupId": "A",
+        "topicId": "isc-privacy-regulation",
+        "taskIds": [
+          "isc-privacy-regulation.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "NIST Cybersecurity Framework",
+            "url": "https://www.nist.gov/cyberframework"
+          },
+          {
+            "title": "AICPA SOC resources",
+            "url": "https://www.aicpa-cima.com/resources/landing/system-and-organization-controls-soc-suite-of-services"
+          }
+        ]
+      }
+    },
+    {
+      "id": "isc-m2-l4-q2",
+      "courseId": "isc",
+      "moduleId": 2,
+      "lessonId": "isc-m2-l4",
+      "topic": "Privacy, HIPAA, GDPR & Payment-Card Requirements",
+      "prompt": "HIPAA scope generally requires evaluating which relationship?",
+      "choices": [
+        {
+          "id": "isc-m2-l4-q2-a0",
+          "text": "Whether any employee once visited a doctor."
+        },
+        {
+          "id": "isc-m2-l4-q2-a1",
+          "text": "Covered-entity or business-associate status and applicable activities."
+        },
+        {
+          "id": "isc-m2-l4-q2-a2",
+          "text": "Whether the company uses a spreadsheet."
+        },
+        {
+          "id": "isc-m2-l4-q2-a3",
+          "text": "Whether a website contains a health word."
+        }
+      ],
+      "correctChoiceId": "isc-m2-l4-q2-a1",
+      "explanation": "HIPAA has defined scope and does not automatically cover every health-related fact everywhere.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "isc",
+        "blueprintYear": 2026,
+        "areaId": "isc-II",
+        "groupId": "A",
+        "topicId": "isc-privacy-regulation",
+        "taskIds": [
+          "isc-privacy-regulation.task-2"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "NIST Cybersecurity Framework",
+            "url": "https://www.nist.gov/cyberframework"
+          },
+          {
+            "title": "AICPA SOC resources",
+            "url": "https://www.aicpa-cima.com/resources/landing/system-and-organization-controls-soc-suite-of-services"
+          }
+        ]
+      }
+    },
+    {
+      "id": "isc-m2-l4-q3",
+      "courseId": "isc",
+      "moduleId": 2,
+      "lessonId": "isc-m2-l4",
+      "topic": "Privacy, HIPAA, GDPR & Payment-Card Requirements",
+      "prompt": "What is PCI DSS?",
+      "choices": [
+        {
+          "id": "isc-m2-l4-q3-a0",
+          "text": "A universal substitute for every privacy law."
+        },
+        {
+          "id": "isc-m2-l4-q3-a1",
+          "text": "A guarantee of no breaches."
+        },
+        {
+          "id": "isc-m2-l4-q3-a2",
+          "text": "A payment-card data security standard with a defined scope."
+        },
+        {
+          "id": "isc-m2-l4-q3-a3",
+          "text": "A financial-statement reporting framework."
+        }
+      ],
+      "correctChoiceId": "isc-m2-l4-q3-a2",
+      "explanation": "PCI DSS addresses payment-card data security; other obligations can also apply.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "isc",
+        "blueprintYear": 2026,
+        "areaId": "isc-II",
+        "groupId": "A",
+        "topicId": "isc-privacy-regulation",
+        "taskIds": [
+          "isc-privacy-regulation.task-3"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "NIST Cybersecurity Framework",
+            "url": "https://www.nist.gov/cyberframework"
+          },
+          {
+            "title": "AICPA SOC resources",
+            "url": "https://www.aicpa-cima.com/resources/landing/system-and-organization-controls-soc-suite-of-services"
+          }
+        ]
+      }
+    },
+    {
+      "id": "isc-m2-l4-q4",
+      "courseId": "isc",
+      "moduleId": 2,
+      "lessonId": "isc-m2-l4",
+      "topic": "Privacy, HIPAA, GDPR & Payment-Card Requirements",
+      "prompt": "Which privacy principle limits collection to information needed for the stated purpose under applicable requirements?",
+      "choices": [
+        {
+          "id": "isc-m2-l4-q4-a0",
+          "text": "Unlimited accumulation."
+        },
+        {
+          "id": "isc-m2-l4-q4-a1",
+          "text": "Automatic public disclosure."
+        },
+        {
+          "id": "isc-m2-l4-q4-a2",
+          "text": "Unrestricted secondary use."
+        },
+        {
+          "id": "isc-m2-l4-q4-a3",
+          "text": "Data minimization."
+        }
+      ],
+      "correctChoiceId": "isc-m2-l4-q4-a3",
+      "explanation": "Minimization reduces unnecessary personal-data processing.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "isc",
+        "blueprintYear": 2026,
+        "areaId": "isc-II",
+        "groupId": "A",
+        "topicId": "isc-privacy-regulation",
+        "taskIds": [
+          "isc-privacy-regulation.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "NIST Cybersecurity Framework",
+            "url": "https://www.nist.gov/cyberframework"
+          },
+          {
+            "title": "AICPA SOC resources",
+            "url": "https://www.aicpa-cima.com/resources/landing/system-and-organization-controls-soc-suite-of-services"
+          }
+        ]
+      }
+    },
+    {
+      "id": "isc-m2-l4-q5",
+      "courseId": "isc",
+      "moduleId": 2,
+      "lessonId": "isc-m2-l4",
+      "topic": "Privacy, HIPAA, GDPR & Payment-Card Requirements",
+      "prompt": "A company sends personal data to a processor without defining responsibilities or safeguards. What is appropriate?",
+      "choices": [
+        {
+          "id": "isc-m2-l4-q5-a0",
+          "text": "Evaluate applicable processor obligations and establish suitable terms and controls."
+        },
+        {
+          "id": "isc-m2-l4-q5-a1",
+          "text": "Assume outsourcing removes all duties."
+        },
+        {
+          "id": "isc-m2-l4-q5-a2",
+          "text": "Ignore where data is processed."
+        },
+        {
+          "id": "isc-m2-l4-q5-a3",
+          "text": "Treat a vendor logo as sufficient evidence."
+        }
+      ],
+      "correctChoiceId": "isc-m2-l4-q5-a0",
+      "explanation": "Third-party processing requires governance under applicable obligations.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "isc",
+        "blueprintYear": 2026,
+        "areaId": "isc-II",
+        "groupId": "A",
+        "topicId": "isc-privacy-regulation",
+        "taskIds": [
+          "isc-privacy-regulation.task-2"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "NIST Cybersecurity Framework",
+            "url": "https://www.nist.gov/cyberframework"
+          },
+          {
+            "title": "AICPA SOC resources",
+            "url": "https://www.aicpa-cima.com/resources/landing/system-and-organization-controls-soc-suite-of-services"
+          }
+        ]
+      }
+    },
+    {
+      "id": "isc-m2-l4-q6",
+      "courseId": "isc",
+      "moduleId": 2,
+      "lessonId": "isc-m2-l4",
+      "topic": "Privacy, HIPAA, GDPR & Payment-Card Requirements",
+      "prompt": "Why map personal-data flows before assessing privacy controls?",
+      "choices": [
+        {
+          "id": "isc-m2-l4-q6-a0",
+          "text": "To avoid identifying obligations."
+        },
+        {
+          "id": "isc-m2-l4-q6-a1",
+          "text": "To understand collection, uses, recipients, locations, and retention."
+        },
+        {
+          "id": "isc-m2-l4-q6-a2",
+          "text": "To guarantee legal compliance automatically."
+        },
+        {
+          "id": "isc-m2-l4-q6-a3",
+          "text": "To replace every user notice."
+        }
+      ],
+      "correctChoiceId": "isc-m2-l4-q6-a1",
+      "explanation": "A data map supports scope and control evaluation.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "isc",
+        "blueprintYear": 2026,
+        "areaId": "isc-II",
+        "groupId": "A",
+        "topicId": "isc-privacy-regulation",
+        "taskIds": [
+          "isc-privacy-regulation.task-3"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "NIST Cybersecurity Framework",
+            "url": "https://www.nist.gov/cyberframework"
+          },
+          {
+            "title": "AICPA SOC resources",
+            "url": "https://www.aicpa-cima.com/resources/landing/system-and-organization-controls-soc-suite-of-services"
+          }
+        ]
+      }
+    },
+    {
+      "id": "isc-m2-l4-q7",
+      "courseId": "isc",
+      "moduleId": 2,
+      "lessonId": "isc-m2-l4",
+      "topic": "Privacy, HIPAA, GDPR & Payment-Card Requirements",
+      "prompt": "Identify the appropriate scope and control considerations for a new customer platform. Platform facts: The company collects personal information beyond the stated service need, uses an external processor, stores payment-card data, and assumes HIPAA applies solely because a form has a health-related field. Assessment objective: Determine applicable requirements from actual activities and relationships, and evaluate data handling across its lifecycle. Required: Control concern with unnecessary collection.",
+      "choices": [
+        {
+          "id": "isc-m2-l4-q7-a0",
+          "text": "Automatic audit assurance"
+        },
+        {
+          "id": "isc-m2-l4-q7-a1",
+          "text": "Only server purchase cost"
+        },
+        {
+          "id": "isc-m2-l4-q7-a2",
+          "text": "Data minimization and purpose limitation"
+        },
+        {
+          "id": "isc-m2-l4-q7-a3",
+          "text": "No privacy concern"
+        }
+      ],
+      "correctChoiceId": "isc-m2-l4-q7-a2",
+      "explanation": "Unnecessary collection may exceed the legitimate purpose and increase risk.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "isc",
+        "blueprintYear": 2026,
+        "areaId": "isc-II",
+        "groupId": "A",
+        "topicId": "isc-privacy-regulation",
+        "taskIds": [
+          "isc-privacy-regulation.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "NIST Cybersecurity Framework",
+            "url": "https://www.nist.gov/cyberframework"
+          },
+          {
+            "title": "AICPA SOC resources",
+            "url": "https://www.aicpa-cima.com/resources/landing/system-and-organization-controls-soc-suite-of-services"
+          }
+        ]
+      },
+      "familyId": "isc-m2-tbs4"
+    },
+    {
+      "id": "isc-m2-l4-q8",
+      "courseId": "isc",
+      "moduleId": 2,
+      "lessonId": "isc-m2-l4",
+      "topic": "Privacy, HIPAA, GDPR & Payment-Card Requirements",
+      "prompt": "Identify the appropriate scope and control considerations for a new customer platform. Platform facts: The company collects personal information beyond the stated service need, uses an external processor, stores payment-card data, and assumes HIPAA applies solely because a form has a health-related field. Assessment objective: Determine applicable requirements from actual activities and relationships, and evaluate data handling across its lifecycle. Required: Scope to evaluate for payment-card data.",
+      "choices": [
+        {
+          "id": "isc-m2-l4-q8-a0",
+          "text": "Only a stock-exchange rule"
+        },
+        {
+          "id": "isc-m2-l4-q8-a1",
+          "text": "No standards can apply"
+        },
+        {
+          "id": "isc-m2-l4-q8-a2",
+          "text": "PCI automatically replaces all privacy law"
+        },
+        {
+          "id": "isc-m2-l4-q8-a3",
+          "text": "Applicable PCI DSS requirements and other obligations"
+        }
+      ],
+      "correctChoiceId": "isc-m2-l4-q8-a3",
+      "explanation": "Card-data security has defined requirements that can coexist with other duties.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "isc",
+        "blueprintYear": 2026,
+        "areaId": "isc-II",
+        "groupId": "A",
+        "topicId": "isc-privacy-regulation",
+        "taskIds": [
+          "isc-privacy-regulation.task-2"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "NIST Cybersecurity Framework",
+            "url": "https://www.nist.gov/cyberframework"
+          },
+          {
+            "title": "AICPA SOC resources",
+            "url": "https://www.aicpa-cima.com/resources/landing/system-and-organization-controls-soc-suite-of-services"
+          }
+        ]
+      },
+      "familyId": "isc-m2-tbs4"
+    },
+    {
+      "id": "isc-m2-l4-q9",
+      "courseId": "isc",
+      "moduleId": 2,
+      "lessonId": "isc-m2-l4",
+      "topic": "Privacy, HIPAA, GDPR & Payment-Card Requirements",
+      "prompt": "Identify the appropriate scope and control considerations for a new customer platform. Platform facts: The company collects personal information beyond the stated service need, uses an external processor, stores payment-card data, and assumes HIPAA applies solely because a form has a health-related field. Assessment objective: Determine applicable requirements from actual activities and relationships, and evaluate data handling across its lifecycle. Required: HIPAA scoping approach.",
+      "choices": [
+        {
+          "id": "isc-m2-l4-q9-a0",
+          "text": "Evaluate covered-entity, business-associate, and activity facts"
+        },
+        {
+          "id": "isc-m2-l4-q9-a1",
+          "text": "Assume any health word establishes scope"
+        },
+        {
+          "id": "isc-m2-l4-q9-a2",
+          "text": "Assume HIPAA never applies"
+        },
+        {
+          "id": "isc-m2-l4-q9-a3",
+          "text": "Use only the server location"
+        }
+      ],
+      "correctChoiceId": "isc-m2-l4-q9-a0",
+      "explanation": "Scope depends on the legal relationships and activities.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "isc",
+        "blueprintYear": 2026,
+        "areaId": "isc-II",
+        "groupId": "A",
+        "topicId": "isc-privacy-regulation",
+        "taskIds": [
+          "isc-privacy-regulation.task-3"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "NIST Cybersecurity Framework",
+            "url": "https://www.nist.gov/cyberframework"
+          },
+          {
+            "title": "AICPA SOC resources",
+            "url": "https://www.aicpa-cima.com/resources/landing/system-and-organization-controls-soc-suite-of-services"
+          }
+        ]
+      },
+      "familyId": "isc-m2-tbs4"
+    },
+    {
+      "id": "isc-m2-l4-q10",
+      "courseId": "isc",
+      "moduleId": 2,
+      "lessonId": "isc-m2-l4",
+      "topic": "Privacy, HIPAA, GDPR & Payment-Card Requirements",
+      "prompt": "Identify the appropriate scope and control considerations for a new customer platform. Platform facts: The company collects personal information beyond the stated service need, uses an external processor, stores payment-card data, and assumes HIPAA applies solely because a form has a health-related field. Assessment objective: Determine applicable requirements from actual activities and relationships, and evaluate data handling across its lifecycle. Required: Third-party processing response.",
+      "choices": [
+        {
+          "id": "isc-m2-l4-q10-a0",
+          "text": "Assume the vendor assumes all liability"
+        },
+        {
+          "id": "isc-m2-l4-q10-a1",
+          "text": "Document responsibilities, safeguards, and oversight"
+        },
+        {
+          "id": "isc-m2-l4-q10-a2",
+          "text": "Ignore contracts"
+        },
+        {
+          "id": "isc-m2-l4-q10-a3",
+          "text": "Permit every secondary use automatically"
+        }
+      ],
+      "correctChoiceId": "isc-m2-l4-q10-a1",
+      "explanation": "Processor governance is part of the privacy-control system.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "isc",
+        "blueprintYear": 2026,
+        "areaId": "isc-II",
+        "groupId": "A",
+        "topicId": "isc-privacy-regulation",
+        "taskIds": [
+          "isc-privacy-regulation.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "NIST Cybersecurity Framework",
+            "url": "https://www.nist.gov/cyberframework"
+          },
+          {
+            "title": "AICPA SOC resources",
+            "url": "https://www.aicpa-cima.com/resources/landing/system-and-organization-controls-soc-suite-of-services"
+          }
+        ]
+      },
+      "familyId": "isc-m2-tbs4"
+    },
+    {
+      "id": "isc-m2-l5-q1",
+      "courseId": "isc",
+      "moduleId": 2,
+      "lessonId": "isc-m2-l5",
+      "topic": "Security Frameworks, Risk Assessment & Control Evaluation",
+      "prompt": "Which function is explicitly part of NIST CSF 2.0?",
+      "choices": [
+        {
+          "id": "isc-m2-l5-q1-a0",
+          "text": "Only Invoice."
+        },
+        {
+          "id": "isc-m2-l5-q1-a1",
+          "text": "Govern."
+        },
+        {
+          "id": "isc-m2-l5-q1-a2",
+          "text": "Only Depreciate."
+        },
+        {
+          "id": "isc-m2-l5-q1-a3",
+          "text": "Only Consolidate."
+        }
+      ],
+      "correctChoiceId": "isc-m2-l5-q1-a1",
+      "explanation": "Govern is one of the six CSF 2.0 functions.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "isc",
+        "blueprintYear": 2026,
+        "areaId": "isc-II",
+        "groupId": "A-B-C",
+        "topicId": "isc-security-frameworks-controls",
+        "taskIds": [
+          "isc-security-frameworks-controls.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "NIST Cybersecurity Framework",
+            "url": "https://www.nist.gov/cyberframework"
+          },
+          {
+            "title": "AICPA SOC resources",
+            "url": "https://www.aicpa-cima.com/resources/landing/system-and-organization-controls-soc-suite-of-services"
+          }
+        ]
+      }
+    },
+    {
+      "id": "isc-m2-l5-q2",
+      "courseId": "isc",
+      "moduleId": 2,
+      "lessonId": "isc-m2-l5",
+      "topic": "Security Frameworks, Risk Assessment & Control Evaluation",
+      "prompt": "What is residual risk?",
+      "choices": [
+        {
+          "id": "isc-m2-l5-q2-a0",
+          "text": "Risk before every control in all cases."
+        },
+        {
+          "id": "isc-m2-l5-q2-a1",
+          "text": "A guarantee of no loss."
+        },
+        {
+          "id": "isc-m2-l5-q2-a2",
+          "text": "Risk remaining after considering the relevant controls or responses."
+        },
+        {
+          "id": "isc-m2-l5-q2-a3",
+          "text": "Only the number of open tickets."
+        }
+      ],
+      "correctChoiceId": "isc-m2-l5-q2-a2",
+      "explanation": "Residual risk reflects the effect of risk responses and controls.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "isc",
+        "blueprintYear": 2026,
+        "areaId": "isc-II",
+        "groupId": "A-B-C",
+        "topicId": "isc-security-frameworks-controls",
+        "taskIds": [
+          "isc-security-frameworks-controls.task-2"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "NIST Cybersecurity Framework",
+            "url": "https://www.nist.gov/cyberframework"
+          },
+          {
+            "title": "AICPA SOC resources",
+            "url": "https://www.aicpa-cima.com/resources/landing/system-and-organization-controls-soc-suite-of-services"
+          }
+        ]
+      }
+    },
+    {
+      "id": "isc-m2-l5-q3",
+      "courseId": "isc",
+      "moduleId": 2,
+      "lessonId": "isc-m2-l5",
+      "topic": "Security Frameworks, Risk Assessment & Control Evaluation",
+      "prompt": "What does operating effectiveness address?",
+      "choices": [
+        {
+          "id": "isc-m2-l5-q3-a0",
+          "text": "Only whether a policy was written."
+        },
+        {
+          "id": "isc-m2-l5-q3-a1",
+          "text": "Only whether a control name sounds suitable."
+        },
+        {
+          "id": "isc-m2-l5-q3-a2",
+          "text": "Only the cost of implementation."
+        },
+        {
+          "id": "isc-m2-l5-q3-a3",
+          "text": "Whether a control worked as intended over the relevant period."
+        }
+      ],
+      "correctChoiceId": "isc-m2-l5-q3-a3",
+      "explanation": "Operation requires evidence of actual performance.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "isc",
+        "blueprintYear": 2026,
+        "areaId": "isc-II",
+        "groupId": "A-B-C",
+        "topicId": "isc-security-frameworks-controls",
+        "taskIds": [
+          "isc-security-frameworks-controls.task-3"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "NIST Cybersecurity Framework",
+            "url": "https://www.nist.gov/cyberframework"
+          },
+          {
+            "title": "AICPA SOC resources",
+            "url": "https://www.aicpa-cima.com/resources/landing/system-and-organization-controls-soc-suite-of-services"
+          }
+        ]
+      }
+    },
+    {
+      "id": "isc-m2-l5-q4",
+      "courseId": "isc",
+      "moduleId": 2,
+      "lessonId": "isc-m2-l5",
+      "topic": "Security Frameworks, Risk Assessment & Control Evaluation",
+      "prompt": "What does design suitability ask?",
+      "choices": [
+        {
+          "id": "isc-m2-l5-q4-a0",
+          "text": "Whether the described control can address its intended objective."
+        },
+        {
+          "id": "isc-m2-l5-q4-a1",
+          "text": "Whether every future incident is impossible."
+        },
+        {
+          "id": "isc-m2-l5-q4-a2",
+          "text": "Whether the entity is profitable."
+        },
+        {
+          "id": "isc-m2-l5-q4-a3",
+          "text": "Whether the policy has a signature alone."
+        }
+      ],
+      "correctChoiceId": "isc-m2-l5-q4-a0",
+      "explanation": "Design links control activities to objectives and risks.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "isc",
+        "blueprintYear": 2026,
+        "areaId": "isc-II",
+        "groupId": "A-B-C",
+        "topicId": "isc-security-frameworks-controls",
+        "taskIds": [
+          "isc-security-frameworks-controls.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "NIST Cybersecurity Framework",
+            "url": "https://www.nist.gov/cyberframework"
+          },
+          {
+            "title": "AICPA SOC resources",
+            "url": "https://www.aicpa-cima.com/resources/landing/system-and-organization-controls-soc-suite-of-services"
+          }
+        ]
+      }
+    },
+    {
+      "id": "isc-m2-l5-q5",
+      "courseId": "isc",
+      "moduleId": 2,
+      "lessonId": "isc-m2-l5",
+      "topic": "Security Frameworks, Risk Assessment & Control Evaluation",
+      "prompt": "An access-review control omits the very privileged accounts it is meant to review. What is the issue?",
+      "choices": [
+        {
+          "id": "isc-m2-l5-q5-a0",
+          "text": "The review is effective because it is monthly."
+        },
+        {
+          "id": "isc-m2-l5-q5-a1",
+          "text": "The control population does not support the objective."
+        },
+        {
+          "id": "isc-m2-l5-q5-a2",
+          "text": "Only document retention matters."
+        },
+        {
+          "id": "isc-m2-l5-q5-a3",
+          "text": "All omitted accounts are automatically low risk."
+        }
+      ],
+      "correctChoiceId": "isc-m2-l5-q5-a1",
+      "explanation": "Frequency cannot cure a population that misses the relevant risk.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "isc",
+        "blueprintYear": 2026,
+        "areaId": "isc-II",
+        "groupId": "A-B-C",
+        "topicId": "isc-security-frameworks-controls",
+        "taskIds": [
+          "isc-security-frameworks-controls.task-2"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "NIST Cybersecurity Framework",
+            "url": "https://www.nist.gov/cyberframework"
+          },
+          {
+            "title": "AICPA SOC resources",
+            "url": "https://www.aicpa-cima.com/resources/landing/system-and-organization-controls-soc-suite-of-services"
+          }
+        ]
+      }
+    },
+    {
+      "id": "isc-m2-l5-q6",
+      "courseId": "isc",
+      "moduleId": 2,
+      "lessonId": "isc-m2-l5",
+      "topic": "Security Frameworks, Risk Assessment & Control Evaluation",
+      "prompt": "What should an evaluator do with a control exception?",
+      "choices": [
+        {
+          "id": "isc-m2-l5-q6-a0",
+          "text": "Ignore it if most samples passed."
+        },
+        {
+          "id": "isc-m2-l5-q6-a1",
+          "text": "Automatically assume every system failed."
+        },
+        {
+          "id": "isc-m2-l5-q6-a2",
+          "text": "Investigate its cause, extent, significance, and any relevant compensating controls."
+        },
+        {
+          "id": "isc-m2-l5-q6-a3",
+          "text": "Delete it from the sample."
+        }
+      ],
+      "correctChoiceId": "isc-m2-l5-q6-a2",
+      "explanation": "Exceptions require contextual evaluation rather than automatic dismissal or overgeneralization.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "isc",
+        "blueprintYear": 2026,
+        "areaId": "isc-II",
+        "groupId": "A-B-C",
+        "topicId": "isc-security-frameworks-controls",
+        "taskIds": [
+          "isc-security-frameworks-controls.task-3"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "NIST Cybersecurity Framework",
+            "url": "https://www.nist.gov/cyberframework"
+          },
+          {
+            "title": "AICPA SOC resources",
+            "url": "https://www.aicpa-cima.com/resources/landing/system-and-organization-controls-soc-suite-of-services"
+          }
+        ]
+      }
+    },
+    {
+      "id": "isc-m2-l5-q7",
+      "courseId": "isc",
+      "moduleId": 2,
+      "lessonId": "isc-m2-l5",
+      "topic": "Security Frameworks, Risk Assessment & Control Evaluation",
+      "prompt": "Evaluate an organization’s security-control claims. Claims: Management maps policies to a framework and calls that proof of effectiveness. A monthly privileged-access review excludes administrators. A detective alert has no assigned responder. A sample exception is deleted because most items passed. Evaluation approach: Connect control design and actual operation to specific risks, objectives, evidence, and exception follow-up. Required: Framework-mapping conclusion.",
+      "choices": [
+        {
+          "id": "isc-m2-l5-q7-a0",
+          "text": "Mapping guarantees effective operation"
+        },
+        {
+          "id": "isc-m2-l5-q7-a1",
+          "text": "Policies eliminate all incidents"
+        },
+        {
+          "id": "isc-m2-l5-q7-a2",
+          "text": "No testing is ever needed"
+        },
+        {
+          "id": "isc-m2-l5-q7-a3",
+          "text": "Mapping alone does not prove operating effectiveness"
+        }
+      ],
+      "correctChoiceId": "isc-m2-l5-q7-a3",
+      "explanation": "Framework alignment is an organizing step, not operating evidence.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "isc",
+        "blueprintYear": 2026,
+        "areaId": "isc-II",
+        "groupId": "A-B-C",
+        "topicId": "isc-security-frameworks-controls",
+        "taskIds": [
+          "isc-security-frameworks-controls.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "NIST Cybersecurity Framework",
+            "url": "https://www.nist.gov/cyberframework"
+          },
+          {
+            "title": "AICPA SOC resources",
+            "url": "https://www.aicpa-cima.com/resources/landing/system-and-organization-controls-soc-suite-of-services"
+          }
+        ]
+      },
+      "familyId": "isc-m2-tbs5"
+    },
+    {
+      "id": "isc-m2-l5-q8",
+      "courseId": "isc",
+      "moduleId": 2,
+      "lessonId": "isc-m2-l5",
+      "topic": "Security Frameworks, Risk Assessment & Control Evaluation",
+      "prompt": "Evaluate an organization’s security-control claims. Claims: Management maps policies to a framework and calls that proof of effectiveness. A monthly privileged-access review excludes administrators. A detective alert has no assigned responder. A sample exception is deleted because most items passed. Evaluation approach: Connect control design and actual operation to specific risks, objectives, evidence, and exception follow-up. Required: Access-review design concern.",
+      "choices": [
+        {
+          "id": "isc-m2-l5-q8-a0",
+          "text": "Incomplete relevant population"
+        },
+        {
+          "id": "isc-m2-l5-q8-a1",
+          "text": "Excessively complete review"
+        },
+        {
+          "id": "isc-m2-l5-q8-a2",
+          "text": "Automatic least privilege"
+        },
+        {
+          "id": "isc-m2-l5-q8-a3",
+          "text": "No issue if done monthly"
+        }
+      ],
+      "correctChoiceId": "isc-m2-l5-q8-a0",
+      "explanation": "Administrators are central to the privileged-access objective.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "isc",
+        "blueprintYear": 2026,
+        "areaId": "isc-II",
+        "groupId": "A-B-C",
+        "topicId": "isc-security-frameworks-controls",
+        "taskIds": [
+          "isc-security-frameworks-controls.task-2"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "NIST Cybersecurity Framework",
+            "url": "https://www.nist.gov/cyberframework"
+          },
+          {
+            "title": "AICPA SOC resources",
+            "url": "https://www.aicpa-cima.com/resources/landing/system-and-organization-controls-soc-suite-of-services"
+          }
+        ]
+      },
+      "familyId": "isc-m2-tbs5"
+    },
+    {
+      "id": "isc-m2-l5-q9",
+      "courseId": "isc",
+      "moduleId": 2,
+      "lessonId": "isc-m2-l5",
+      "topic": "Security Frameworks, Risk Assessment & Control Evaluation",
+      "prompt": "Evaluate an organization’s security-control claims. Claims: Management maps policies to a framework and calls that proof of effectiveness. A monthly privileged-access review excludes administrators. A detective alert has no assigned responder. A sample exception is deleted because most items passed. Evaluation approach: Connect control design and actual operation to specific risks, objectives, evidence, and exception follow-up. Required: Alert-response weakness.",
+      "choices": [
+        {
+          "id": "isc-m2-l5-q9-a0",
+          "text": "Guaranteed timely response"
+        },
+        {
+          "id": "isc-m2-l5-q9-a1",
+          "text": "No defined investigation and escalation responsibility"
+        },
+        {
+          "id": "isc-m2-l5-q9-a2",
+          "text": "Only a storage-capacity issue"
+        },
+        {
+          "id": "isc-m2-l5-q9-a3",
+          "text": "No risk because an alert exists"
+        }
+      ],
+      "correctChoiceId": "isc-m2-l5-q9-a1",
+      "explanation": "Detection needs an actionable response process.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "isc",
+        "blueprintYear": 2026,
+        "areaId": "isc-II",
+        "groupId": "A-B-C",
+        "topicId": "isc-security-frameworks-controls",
+        "taskIds": [
+          "isc-security-frameworks-controls.task-3"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "NIST Cybersecurity Framework",
+            "url": "https://www.nist.gov/cyberframework"
+          },
+          {
+            "title": "AICPA SOC resources",
+            "url": "https://www.aicpa-cima.com/resources/landing/system-and-organization-controls-soc-suite-of-services"
+          }
+        ]
+      },
+      "familyId": "isc-m2-tbs5"
+    },
+    {
+      "id": "isc-m2-l5-q10",
+      "courseId": "isc",
+      "moduleId": 2,
+      "lessonId": "isc-m2-l5",
+      "topic": "Security Frameworks, Risk Assessment & Control Evaluation",
+      "prompt": "Evaluate an organization’s security-control claims. Claims: Management maps policies to a framework and calls that proof of effectiveness. A monthly privileged-access review excludes administrators. A detective alert has no assigned responder. A sample exception is deleted because most items passed. Evaluation approach: Connect control design and actual operation to specific risks, objectives, evidence, and exception follow-up. Required: Appropriate exception treatment.",
+      "choices": [
+        {
+          "id": "isc-m2-l5-q10-a0",
+          "text": "Delete it"
+        },
+        {
+          "id": "isc-m2-l5-q10-a1",
+          "text": "Assume majority success resolves every concern"
+        },
+        {
+          "id": "isc-m2-l5-q10-a2",
+          "text": "Investigate and evaluate the exception"
+        },
+        {
+          "id": "isc-m2-l5-q10-a3",
+          "text": "Hide it from reviewers"
+        }
+      ],
+      "correctChoiceId": "isc-m2-l5-q10-a2",
+      "explanation": "Exceptions must remain part of the evidence evaluation.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "isc",
+        "blueprintYear": 2026,
+        "areaId": "isc-II",
+        "groupId": "A-B-C",
+        "topicId": "isc-security-frameworks-controls",
+        "taskIds": [
+          "isc-security-frameworks-controls.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "NIST Cybersecurity Framework",
+            "url": "https://www.nist.gov/cyberframework"
+          },
+          {
+            "title": "AICPA SOC resources",
+            "url": "https://www.aicpa-cima.com/resources/landing/system-and-organization-controls-soc-suite-of-services"
+          }
+        ]
+      },
+      "familyId": "isc-m2-tbs5"
+    }
+  ]
+}

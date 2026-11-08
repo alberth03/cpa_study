@@ -1,0 +1,69 @@
+{
+  "id": "far-m5-tbs2",
+  "moduleId": 5,
+  "number": 2,
+  "title": "FAR Module 5 · TBS 2",
+  "fields": [
+    {
+      "id": "far-m5-tbs2-jan-revenue",
+      "label": "1. Contribution Revenue Recognized at January 1",
+      "type": "number",
+      "options": [],
+      "correct": 0
+    },
+    {
+      "id": "far-m5-tbs2-jan-liability",
+      "label": "2. Liability Reported at January 1",
+      "type": "number",
+      "options": [],
+      "correct": 180000
+    },
+    {
+      "id": "far-m5-tbs2-june-revenue",
+      "label": "3. Contribution Revenue Recognized at June 30",
+      "type": "number",
+      "options": [],
+      "correct": 0
+    },
+    {
+      "id": "far-m5-tbs2-earned",
+      "label": "4. Contribution Revenue Recognized When Condition Is Satisfied",
+      "type": "number",
+      "options": [],
+      "correct": 180000
+    },
+    {
+      "id": "far-m5-tbs2-restriction",
+      "label": "5. After Recognition: Enter 1 if With Donor Restrictions, 0 if Without Donor Restrictions",
+      "type": "number",
+      "options": [],
+      "correct": 1
+    }
+  ],
+  "html": "<section class=\"exam-page\"> <div class=\"course-intro-card\"> <span class=\"exam-badge\"> TASK-BASED SIMULATION </span> <h2> Contribution Recognition Analysis </h2> <p> Analyze a conditional contribution before and after the required barrier has been substantially overcome. </p> </div> <div class=\"quiz-card\"> <h2> Scenario </h2> <p> Bright Future Foundation receives <strong>$180,000 cash</strong> from a donor on January 1. </p> <p> Under the agreement: </p> <div class=\"key-points\"> <ul> <li> Bright Future must provide job-training services to at least <strong>600 qualifying participants</strong>. </li> <li> If the target is not achieved, the donor may require the <strong>$180,000 to be returned</strong>. </li> <li> At June 30, only <strong>350 participants</strong> have been served. </li> <li> By December 31, Bright Future has served <strong>650 participants</strong> and has substantially overcome the required barrier. </li> <li> Once earned, the donor requires the resources to be used only for workforce-development programs. </li> </ul> </div> <h2> Required </h2> <div class=\"financial-example\"> <div> <span> 1. Contribution Revenue Recognized at January 1 </span> <input type=\"number\" id=\"far-m5-tbs2-jan-revenue\" placeholder=\"Enter amount\"> </div> <div> <span> 2. Liability Reported at January 1 </span> <input type=\"number\" id=\"far-m5-tbs2-jan-liability\" placeholder=\"Enter amount\"> </div> <div> <span> 3. Contribution Revenue Recognized at June 30 </span> <input type=\"number\" id=\"far-m5-tbs2-june-revenue\" placeholder=\"Enter amount\"> </div> <div> <span> 4. Contribution Revenue Recognized When Condition Is Satisfied </span> <input type=\"number\" id=\"far-m5-tbs2-earned\" placeholder=\"Enter amount\"> </div> <div> <span> 5. After Recognition: Enter 1 if With Donor Restrictions, 0 if Without Donor Restrictions </span> <input type=\"number\" id=\"far-m5-tbs2-restriction\" placeholder=\"Enter 1 or 0\"> </div> </div> <div id=\"far-m5-tbs2-result\"></div> </div> </section>",
+  "explanation": "<div class=\"result-correct\"> <h3> January 1 </h3> <p> Bright Future received cash, but the measurable service barrier had not yet been satisfied. </p> <p> The donor also has a right of return. </p> <div class=\"formula-box\"> Contribution Revenue = $0 Liability = $180,000 </div> <h3> June 30 </h3> <p> Only 350 of the required 600 participants have been served. </p> <p> The required barrier therefore has not yet been substantially overcome. </p> <div class=\"formula-box\"> Contribution Revenue = $0 </div> <h3> December 31 </h3> <p> Bright Future has served 650 participants and substantially overcome the required contribution barrier. </p> <div class=\"formula-box\"> Contribution Revenue = $180,000 </div> <h3> Donor Restriction </h3> <p> Once the contribution is recognized, the donor still requires the resources to be used for workforce-development programs. </p> <div class=\"formula-box\"> WITH DONOR RESTRICTIONS Correct Entry = 1 </div> <div class=\"key-points\"> <h3> CPA Takeaway </h3> <ul> <li> Barrier + right of return → conditional contribution. </li> <li> Cash received before satisfaction → generally a liability. </li> <li> Barrier substantially overcome → recognize contribution revenue. </li> <li> After recognition, separately evaluate donor restrictions. </li> </ul> </div> </div>",
+  "courseId": "far",
+  "difficulty": "advanced",
+  "metadata": {
+    "section": "far",
+    "blueprintYear": 2026,
+    "areaId": "far-I",
+    "groupId": "module-5",
+    "topicId": "far-contributions-donor-restrictions",
+    "taskIds": [
+      "far-contributions-donor-restrictions.task-1",
+      "far-contributions-donor-restrictions.task-2",
+      "far-contributions-donor-restrictions.task-3"
+    ],
+    "skill": "analysis",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      }
+    ]
+  }
+}

@@ -1,0 +1,491 @@
+{
+  "id": "intermediate-m2-quiz",
+  "title": "Intermediate Module 2 Quiz",
+  "courseId": "intermediate",
+  "moduleId": 2,
+  "selection": "all",
+  "feedback": "immediate",
+  "passPercent": 80,
+  "questions": [
+    {
+      "id": "intermediate-m2-q1",
+      "courseId": "intermediate",
+      "moduleId": 2,
+      "topic": "Cash & Cash Equivalents",
+      "prompt": "Which item is most likely to qualify as a cash equivalent?",
+      "choices": [
+        {
+          "id": "intermediate-m2-q1-a0",
+          "text": "Common stock held for five years"
+        },
+        {
+          "id": "intermediate-m2-q1-a1",
+          "text": "A Treasury bill purchased with two months remaining to maturity"
+        },
+        {
+          "id": "intermediate-m2-q1-a2",
+          "text": "Accounts Receivable"
+        },
+        {
+          "id": "intermediate-m2-q1-a3",
+          "text": "A five-year corporate bond"
+        }
+      ],
+      "correctChoiceId": "intermediate-m2-q1-a1",
+      "explanation": "Cash equivalents are highly liquid short-term investments, generally with original maturities of three months or less.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "intermediate",
+        "blueprintYear": 2026,
+        "areaId": "intermediate-I",
+        "groupId": "2",
+        "topicId": "intermediate-intermediate-general",
+        "taskIds": [
+          "intermediate-intermediate-general.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "intermediate-m2-q2",
+      "courseId": "intermediate",
+      "moduleId": 2,
+      "topic": "Cash & Cash Equivalents",
+      "prompt": "Which item would generally NOT be considered cash?",
+      "choices": [
+        {
+          "id": "intermediate-m2-q2-a0",
+          "text": "Currency"
+        },
+        {
+          "id": "intermediate-m2-q2-a1",
+          "text": "Checking account balance"
+        },
+        {
+          "id": "intermediate-m2-q2-a2",
+          "text": "Postdated customer check"
+        },
+        {
+          "id": "intermediate-m2-q2-a3",
+          "text": "Undeposited valid customer check"
+        }
+      ],
+      "correctChoiceId": "intermediate-m2-q2-a2",
+      "explanation": "A postdated check is generally not available for immediate use and is not normally treated as cash.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "intermediate",
+        "blueprintYear": 2026,
+        "areaId": "intermediate-I",
+        "groupId": "2",
+        "topicId": "intermediate-intermediate-general",
+        "taskIds": [
+          "intermediate-intermediate-general.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "intermediate-m2-q3",
+      "courseId": "intermediate",
+      "moduleId": 2,
+      "topic": "Bank Reconciliation",
+      "prompt": "A bank statement shows $25,000. Deposits in transit are $4,000 and outstanding checks are $6,000. What is the adjusted bank balance?",
+      "choices": [
+        {
+          "id": "intermediate-m2-q3-a0",
+          "text": "$15,000"
+        },
+        {
+          "id": "intermediate-m2-q3-a1",
+          "text": "$23,000"
+        },
+        {
+          "id": "intermediate-m2-q3-a2",
+          "text": "$27,000"
+        },
+        {
+          "id": "intermediate-m2-q3-a3",
+          "text": "$35,000"
+        }
+      ],
+      "correctChoiceId": "intermediate-m2-q3-a1",
+      "explanation": "$25,000 + $4,000 − $6,000 = $23,000.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "intermediate",
+        "blueprintYear": 2026,
+        "areaId": "intermediate-I",
+        "groupId": "2",
+        "topicId": "intermediate-intermediate-general",
+        "taskIds": [
+          "intermediate-intermediate-general.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "intermediate-m2-q4",
+      "courseId": "intermediate",
+      "moduleId": 2,
+      "topic": "Bank Reconciliation",
+      "prompt": "Which item usually requires a book-side journal entry?",
+      "choices": [
+        {
+          "id": "intermediate-m2-q4-a0",
+          "text": "Deposit in transit"
+        },
+        {
+          "id": "intermediate-m2-q4-a1",
+          "text": "Outstanding check"
+        },
+        {
+          "id": "intermediate-m2-q4-a2",
+          "text": "Bank service charge"
+        },
+        {
+          "id": "intermediate-m2-q4-a3",
+          "text": "Check already recorded correctly by the company"
+        }
+      ],
+      "correctChoiceId": "intermediate-m2-q4-a2",
+      "explanation": "A bank service charge may appear first on the bank statement and therefore requires the company to record it.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "intermediate",
+        "blueprintYear": 2026,
+        "areaId": "intermediate-I",
+        "groupId": "2",
+        "topicId": "intermediate-intermediate-general",
+        "taskIds": [
+          "intermediate-intermediate-general.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "intermediate-m2-q5",
+      "courseId": "intermediate",
+      "moduleId": 2,
+      "topic": "Accounts Receivable",
+      "prompt": "A company provides $9,000 of services on account. Which account is debited?",
+      "choices": [
+        {
+          "id": "intermediate-m2-q5-a0",
+          "text": "Cash"
+        },
+        {
+          "id": "intermediate-m2-q5-a1",
+          "text": "Accounts Receivable"
+        },
+        {
+          "id": "intermediate-m2-q5-a2",
+          "text": "Service Revenue"
+        },
+        {
+          "id": "intermediate-m2-q5-a3",
+          "text": "Accounts Payable"
+        }
+      ],
+      "correctChoiceId": "intermediate-m2-q5-a1",
+      "explanation": "Accounts Receivable increases because the customer owes the company money.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "intermediate",
+        "blueprintYear": 2026,
+        "areaId": "intermediate-I",
+        "groupId": "2",
+        "topicId": "intermediate-intermediate-general",
+        "taskIds": [
+          "intermediate-intermediate-general.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "intermediate-m2-q6",
+      "courseId": "intermediate",
+      "moduleId": 2,
+      "topic": "Accounts Receivable",
+      "prompt": "When a customer pays an existing Accounts Receivable balance, what happens?",
+      "choices": [
+        {
+          "id": "intermediate-m2-q6-a0",
+          "text": "Cash increases and Accounts Receivable decreases"
+        },
+        {
+          "id": "intermediate-m2-q6-a1",
+          "text": "Revenue increases again"
+        },
+        {
+          "id": "intermediate-m2-q6-a2",
+          "text": "Accounts Payable decreases"
+        },
+        {
+          "id": "intermediate-m2-q6-a3",
+          "text": "Expense increases"
+        }
+      ],
+      "correctChoiceId": "intermediate-m2-q6-a0",
+      "explanation": "Collection increases Cash and decreases Accounts Receivable. Revenue was recognized earlier.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "intermediate",
+        "blueprintYear": 2026,
+        "areaId": "intermediate-I",
+        "groupId": "2",
+        "topicId": "intermediate-intermediate-general",
+        "taskIds": [
+          "intermediate-intermediate-general.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "intermediate-m2-q7",
+      "courseId": "intermediate",
+      "moduleId": 2,
+      "topic": "Credit Losses",
+      "prompt": "Accounts Receivable is $120,000 and the Allowance for Credit Losses is $7,000. What is net Accounts Receivable?",
+      "choices": [
+        {
+          "id": "intermediate-m2-q7-a0",
+          "text": "$113,000"
+        },
+        {
+          "id": "intermediate-m2-q7-a1",
+          "text": "$120,000"
+        },
+        {
+          "id": "intermediate-m2-q7-a2",
+          "text": "$127,000"
+        },
+        {
+          "id": "intermediate-m2-q7-a3",
+          "text": "$7,000"
+        }
+      ],
+      "correctChoiceId": "intermediate-m2-q7-a0",
+      "explanation": "Net Accounts Receivable equals $120,000 − $7,000 = $113,000.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "intermediate",
+        "blueprintYear": 2026,
+        "areaId": "intermediate-I",
+        "groupId": "2",
+        "topicId": "intermediate-intermediate-general",
+        "taskIds": [
+          "intermediate-intermediate-general.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "intermediate-m2-q8",
+      "courseId": "intermediate",
+      "moduleId": 2,
+      "topic": "Credit Losses",
+      "prompt": "Under the allowance method, writing off a specific uncollectible account generally does what?",
+      "choices": [
+        {
+          "id": "intermediate-m2-q8-a0",
+          "text": "Creates a new credit loss expense immediately"
+        },
+        {
+          "id": "intermediate-m2-q8-a1",
+          "text": "Debits Allowance for Credit Losses and credits Accounts Receivable"
+        },
+        {
+          "id": "intermediate-m2-q8-a2",
+          "text": "Debits Cash and credits Revenue"
+        },
+        {
+          "id": "intermediate-m2-q8-a3",
+          "text": "Increases net Accounts Receivable"
+        }
+      ],
+      "correctChoiceId": "intermediate-m2-q8-a1",
+      "explanation": "The write-off reduces both Accounts Receivable and the allowance. The expected loss was generally recognized earlier.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "intermediate",
+        "blueprintYear": 2026,
+        "areaId": "intermediate-I",
+        "groupId": "2",
+        "topicId": "intermediate-intermediate-general",
+        "taskIds": [
+          "intermediate-intermediate-general.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "intermediate-m2-q9",
+      "courseId": "intermediate",
+      "moduleId": 2,
+      "topic": "Notes Receivable",
+      "prompt": "How much interest is earned on a $40,000, 6% note held for six months?",
+      "choices": [
+        {
+          "id": "intermediate-m2-q9-a0",
+          "text": "$1,200"
+        },
+        {
+          "id": "intermediate-m2-q9-a1",
+          "text": "$2,400"
+        },
+        {
+          "id": "intermediate-m2-q9-a2",
+          "text": "$4,800"
+        },
+        {
+          "id": "intermediate-m2-q9-a3",
+          "text": "$600"
+        }
+      ],
+      "correctChoiceId": "intermediate-m2-q9-a0",
+      "explanation": "$40,000 × 6% × 6/12 = $1,200.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "intermediate",
+        "blueprintYear": 2026,
+        "areaId": "intermediate-I",
+        "groupId": "2",
+        "topicId": "intermediate-intermediate-general",
+        "taskIds": [
+          "intermediate-intermediate-general.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "intermediate-m2-q10",
+      "courseId": "intermediate",
+      "moduleId": 2,
+      "topic": "Notes Receivable",
+      "prompt": "A $10,000, 8%, one-year note matures. How much total cash is collected if all interest is paid at maturity?",
+      "choices": [
+        {
+          "id": "intermediate-m2-q10-a0",
+          "text": "$10,000"
+        },
+        {
+          "id": "intermediate-m2-q10-a1",
+          "text": "$10,080"
+        },
+        {
+          "id": "intermediate-m2-q10-a2",
+          "text": "$10,800"
+        },
+        {
+          "id": "intermediate-m2-q10-a3",
+          "text": "$18,000"
+        }
+      ],
+      "correctChoiceId": "intermediate-m2-q10-a2",
+      "explanation": "$10,000 principal + $800 interest = $10,800.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "intermediate",
+        "blueprintYear": 2026,
+        "areaId": "intermediate-I",
+        "groupId": "2",
+        "topicId": "intermediate-intermediate-general",
+        "taskIds": [
+          "intermediate-intermediate-general.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    }
+  ]
+}

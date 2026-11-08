@@ -1,0 +1,2307 @@
+{
+  "id": "aud-m1-practice",
+  "title": "Ethics, Responsibilities & Engagement Foundations Practice",
+  "courseId": "aud",
+  "moduleId": 1,
+  "selection": "per-lesson",
+  "feedback": "immediate",
+  "passPercent": 80,
+  "questions": [
+    {
+      "id": "aud-m1-l1-q1",
+      "courseId": "aud",
+      "moduleId": 1,
+      "lessonId": "aud-m1-l1",
+      "topic": "Ethics, Independence & Professional Conduct",
+      "prompt": "A covered audit team member directly owns $300 of the client’s common stock. What is the most appropriate independence conclusion?",
+      "choices": [
+        {
+          "id": "aud-m1-l1-q1-a0",
+          "text": "Independence is impaired despite the small amount."
+        },
+        {
+          "id": "aud-m1-l1-q1-a1",
+          "text": "Independence is preserved because the investment is immaterial."
+        },
+        {
+          "id": "aud-m1-l1-q1-a2",
+          "text": "Only disclosure to the audit committee is necessary."
+        },
+        {
+          "id": "aud-m1-l1-q1-a3",
+          "text": "Independence is impaired only if dividends are received."
+        }
+      ],
+      "correctChoiceId": "aud-m1-l1-q1-a0",
+      "explanation": "A covered member’s direct financial interest is prohibited. Neither a small balance, disclosure, nor the absence of dividends removes the interest.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "aud",
+        "blueprintYear": 2026,
+        "areaId": "aud-I",
+        "groupId": "A",
+        "topicId": "aud-auditor-independence",
+        "taskIds": [
+          "aud-auditor-independence.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "AICPA auditing standards",
+            "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+          },
+          {
+            "title": "PCAOB standards",
+            "url": "https://pcaobus.org/oversight/standards"
+          }
+        ]
+      }
+    },
+    {
+      "id": "aud-m1-l1-q2",
+      "courseId": "aud",
+      "moduleId": 1,
+      "lessonId": "aud-m1-l1",
+      "topic": "Ethics, Independence & Professional Conduct",
+      "prompt": "A nonissuer asks its auditor to approve all vendor payments during a controller vacancy. Which response is appropriate?",
+      "choices": [
+        {
+          "id": "aud-m1-l1-q2-a0",
+          "text": "Accept if the audit partner later reviews the payments."
+        },
+        {
+          "id": "aud-m1-l1-q2-a1",
+          "text": "Decline to authorize transactions because that is a management responsibility."
+        },
+        {
+          "id": "aud-m1-l1-q2-a2",
+          "text": "Accept because the vacancy is temporary."
+        },
+        {
+          "id": "aud-m1-l1-q2-a3",
+          "text": "Accept if the client signs a waiver."
+        }
+      ],
+      "correctChoiceId": "aud-m1-l1-q2-a1",
+      "explanation": "Authorizing transactions is management participation. A subsequent review, temporary arrangement, or waiver does not make the auditor independent.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "aud",
+        "blueprintYear": 2026,
+        "areaId": "aud-I",
+        "groupId": "A",
+        "topicId": "aud-auditor-independence",
+        "taskIds": [
+          "aud-auditor-independence.task-2"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "AICPA auditing standards",
+            "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+          },
+          {
+            "title": "PCAOB standards",
+            "url": "https://pcaobus.org/oversight/standards"
+          }
+        ]
+      }
+    },
+    {
+      "id": "aud-m1-l1-q3",
+      "courseId": "aud",
+      "moduleId": 1,
+      "lessonId": "aud-m1-l1",
+      "topic": "Ethics, Independence & Professional Conduct",
+      "prompt": "Which statement best describes independence in appearance?",
+      "choices": [
+        {
+          "id": "aud-m1-l1-q3-a0",
+          "text": "The auditor personally believes no bias exists."
+        },
+        {
+          "id": "aud-m1-l1-q3-a1",
+          "text": "The audit firm has never received a client complaint."
+        },
+        {
+          "id": "aud-m1-l1-q3-a2",
+          "text": "A reasonable, informed third party would view the auditor as able to act objectively."
+        },
+        {
+          "id": "aud-m1-l1-q3-a3",
+          "text": "Every team member uses identical professional judgments."
+        }
+      ],
+      "correctChoiceId": "aud-m1-l1-q3-a2",
+      "explanation": "Appearance evaluates the informed third party’s perspective. Personal confidence is independence of mind and is not sufficient by itself.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "aud",
+        "blueprintYear": 2026,
+        "areaId": "aud-I",
+        "groupId": "A",
+        "topicId": "aud-auditor-independence",
+        "taskIds": [
+          "aud-auditor-independence.task-3"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "AICPA auditing standards",
+            "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+          },
+          {
+            "title": "PCAOB standards",
+            "url": "https://pcaobus.org/oversight/standards"
+          }
+        ]
+      }
+    },
+    {
+      "id": "aud-m1-l1-q4",
+      "courseId": "aud",
+      "moduleId": 1,
+      "lessonId": "aud-m1-l1",
+      "topic": "Ethics, Independence & Professional Conduct",
+      "prompt": "An audit senior proposes uploading identifiable client payroll to an unapproved public AI service. The client engagement letter is silent. What should happen first?",
+      "choices": [
+        {
+          "id": "aud-m1-l1-q4-a0",
+          "text": "Upload because the tool promises an accurate answer."
+        },
+        {
+          "id": "aud-m1-l1-q4-a1",
+          "text": "Upload after replacing only the company’s name."
+        },
+        {
+          "id": "aud-m1-l1-q4-a2",
+          "text": "Upload because all professional tools are covered by the audit opinion."
+        },
+        {
+          "id": "aud-m1-l1-q4-a3",
+          "text": "Evaluate confidentiality and authorization requirements before sending the data."
+        }
+      ],
+      "correctChoiceId": "aud-m1-l1-q4-a3",
+      "explanation": "Professional confidentiality applies to automated third-party tools. Accuracy, superficial anonymization, and the existence of an engagement do not establish authorization or adequate protection.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "aud",
+        "blueprintYear": 2026,
+        "areaId": "aud-I",
+        "groupId": "A",
+        "topicId": "aud-auditor-independence",
+        "taskIds": [
+          "aud-auditor-independence.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "AICPA auditing standards",
+            "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+          },
+          {
+            "title": "PCAOB standards",
+            "url": "https://pcaobus.org/oversight/standards"
+          }
+        ]
+      }
+    },
+    {
+      "id": "aud-m1-l1-q5",
+      "courseId": "aud",
+      "moduleId": 1,
+      "lessonId": "aud-m1-l1",
+      "topic": "Ethics, Independence & Professional Conduct",
+      "prompt": "A situation is expressly prohibited by an applicable independence rule. Can the conceptual framework authorize it after safeguards are documented?",
+      "choices": [
+        {
+          "id": "aud-m1-l1-q5-a0",
+          "text": "No; a framework cannot override an express prohibition."
+        },
+        {
+          "id": "aud-m1-l1-q5-a1",
+          "text": "Yes, if two partners approve the safeguards."
+        },
+        {
+          "id": "aud-m1-l1-q5-a2",
+          "text": "Yes, if the client is privately held."
+        },
+        {
+          "id": "aud-m1-l1-q5-a3",
+          "text": "Only if the prohibited service is inexpensive."
+        }
+      ],
+      "correctChoiceId": "aud-m1-l1-q5-a0",
+      "explanation": "The framework addresses threats when the rules permit an evaluation. It is not an exception to a direct prohibition.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "aud",
+        "blueprintYear": 2026,
+        "areaId": "aud-I",
+        "groupId": "A",
+        "topicId": "aud-auditor-independence",
+        "taskIds": [
+          "aud-auditor-independence.task-2"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "AICPA auditing standards",
+            "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+          },
+          {
+            "title": "PCAOB standards",
+            "url": "https://pcaobus.org/oversight/standards"
+          }
+        ]
+      }
+    },
+    {
+      "id": "aud-m1-l1-q6",
+      "courseId": "aud",
+      "moduleId": 1,
+      "lessonId": "aud-m1-l1",
+      "topic": "Ethics, Independence & Professional Conduct",
+      "prompt": "A firm audits an issuer and proposes a service permitted under an AICPA nonissuer interpretation. What additional evaluation is required?",
+      "choices": [
+        {
+          "id": "aud-m1-l1-q6-a0",
+          "text": "No evaluation because AICPA permissions control every audit."
+        },
+        {
+          "id": "aud-m1-l1-q6-a1",
+          "text": "Apply the relevant SEC and PCAOB restrictions and audit-committee requirements."
+        },
+        {
+          "id": "aud-m1-l1-q6-a2",
+          "text": "Only evaluate whether fees exceed audit fees."
+        },
+        {
+          "id": "aud-m1-l1-q6-a3",
+          "text": "Only confirm that the engagement partner is a CPA."
+        }
+      ],
+      "correctChoiceId": "aud-m1-l1-q6-a1",
+      "explanation": "Issuer engagements can be subject to additional or more restrictive independence requirements; nonissuer permissions are not portable without analysis.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "aud",
+        "blueprintYear": 2026,
+        "areaId": "aud-I",
+        "groupId": "A",
+        "topicId": "aud-auditor-independence",
+        "taskIds": [
+          "aud-auditor-independence.task-3"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "AICPA auditing standards",
+            "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+          },
+          {
+            "title": "PCAOB standards",
+            "url": "https://pcaobus.org/oversight/standards"
+          }
+        ]
+      }
+    },
+    {
+      "id": "aud-m1-l1-q7",
+      "courseId": "aud",
+      "moduleId": 1,
+      "lessonId": "aud-m1-l1",
+      "topic": "Ethics, Independence & Professional Conduct",
+      "prompt": "You are the ethics reviewer for a firm considering four proposed arrangements for a nonissuer financial-statement audit. Determine the appropriate conclusion for each fact pattern. Proposed arrangements: A: The engagement partner directly owns 20 client shares. B: The firm will prepare a proposed depreciation schedule; a competent controller chooses methods and accepts responsibility. C: An auditor will sign purchase orders for the client. D: Confidential customer data will be sent to a public tool without authorization. Evaluation instructions: Assume all individuals described are covered members. No exception applies to direct interests or management responsibilities. For permitted nonattest assistance, management must oversee, evaluate, and accept the results. Required: Arrangement A: appropriate conclusion.",
+      "choices": [
+        {
+          "id": "aud-m1-l1-q7-a0",
+          "text": "Permitted because shares are immaterial"
+        },
+        {
+          "id": "aud-m1-l1-q7-a1",
+          "text": "Permitted with client consent"
+        },
+        {
+          "id": "aud-m1-l1-q7-a2",
+          "text": "Prohibited direct financial interest"
+        },
+        {
+          "id": "aud-m1-l1-q7-a3",
+          "text": "Management responsibility"
+        }
+      ],
+      "correctChoiceId": "aud-m1-l1-q7-a2",
+      "explanation": "A covered partner’s direct interest impairs independence.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "aud",
+        "blueprintYear": 2026,
+        "areaId": "aud-I",
+        "groupId": "A",
+        "topicId": "aud-auditor-independence",
+        "taskIds": [
+          "aud-auditor-independence.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "AICPA auditing standards",
+            "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+          },
+          {
+            "title": "PCAOB standards",
+            "url": "https://pcaobus.org/oversight/standards"
+          }
+        ]
+      },
+      "familyId": "aud-m1-tbs1"
+    },
+    {
+      "id": "aud-m1-l1-q8",
+      "courseId": "aud",
+      "moduleId": 1,
+      "lessonId": "aud-m1-l1",
+      "topic": "Ethics, Independence & Professional Conduct",
+      "prompt": "You are the ethics reviewer for a firm considering four proposed arrangements for a nonissuer financial-statement audit. Determine the appropriate conclusion for each fact pattern. Proposed arrangements: A: The engagement partner directly owns 20 client shares. B: The firm will prepare a proposed depreciation schedule; a competent controller chooses methods and accepts responsibility. C: An auditor will sign purchase orders for the client. D: Confidential customer data will be sent to a public tool without authorization. Evaluation instructions: Assume all individuals described are covered members. No exception applies to direct interests or management responsibilities. For permitted nonattest assistance, management must oversee, evaluate, and accept the results. Required: Arrangement B: appropriate conclusion.",
+      "choices": [
+        {
+          "id": "aud-m1-l1-q8-a0",
+          "text": "Automatically prohibited for every nonissuer"
+        },
+        {
+          "id": "aud-m1-l1-q8-a1",
+          "text": "No professional responsibilities apply"
+        },
+        {
+          "id": "aud-m1-l1-q8-a2",
+          "text": "Client waiver substitutes for oversight"
+        },
+        {
+          "id": "aud-m1-l1-q8-a3",
+          "text": "Evaluate and document nonattest safeguards"
+        }
+      ],
+      "correctChoiceId": "aud-m1-l1-q8-a3",
+      "explanation": "Management retains responsibility, so evaluate the service and applicable safeguards.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "aud",
+        "blueprintYear": 2026,
+        "areaId": "aud-I",
+        "groupId": "A",
+        "topicId": "aud-auditor-independence",
+        "taskIds": [
+          "aud-auditor-independence.task-2"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "AICPA auditing standards",
+            "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+          },
+          {
+            "title": "PCAOB standards",
+            "url": "https://pcaobus.org/oversight/standards"
+          }
+        ]
+      },
+      "familyId": "aud-m1-tbs1"
+    },
+    {
+      "id": "aud-m1-l1-q9",
+      "courseId": "aud",
+      "moduleId": 1,
+      "lessonId": "aud-m1-l1",
+      "topic": "Ethics, Independence & Professional Conduct",
+      "prompt": "You are the ethics reviewer for a firm considering four proposed arrangements for a nonissuer financial-statement audit. Determine the appropriate conclusion for each fact pattern. Proposed arrangements: A: The engagement partner directly owns 20 client shares. B: The firm will prepare a proposed depreciation schedule; a competent controller chooses methods and accepts responsibility. C: An auditor will sign purchase orders for the client. D: Confidential customer data will be sent to a public tool without authorization. Evaluation instructions: Assume all individuals described are covered members. No exception applies to direct interests or management responsibilities. For permitted nonattest assistance, management must oversee, evaluate, and accept the results. Required: Arrangement C: primary issue.",
+      "choices": [
+        {
+          "id": "aud-m1-l1-q9-a0",
+          "text": "Assuming management responsibility"
+        },
+        {
+          "id": "aud-m1-l1-q9-a1",
+          "text": "Only an immaterial financial interest"
+        },
+        {
+          "id": "aud-m1-l1-q9-a2",
+          "text": "No independence issue"
+        },
+        {
+          "id": "aud-m1-l1-q9-a3",
+          "text": "A required audit procedure"
+        }
+      ],
+      "correctChoiceId": "aud-m1-l1-q9-a0",
+      "explanation": "Signing purchase orders authorizes client transactions.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "aud",
+        "blueprintYear": 2026,
+        "areaId": "aud-I",
+        "groupId": "A",
+        "topicId": "aud-auditor-independence",
+        "taskIds": [
+          "aud-auditor-independence.task-3"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "AICPA auditing standards",
+            "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+          },
+          {
+            "title": "PCAOB standards",
+            "url": "https://pcaobus.org/oversight/standards"
+          }
+        ]
+      },
+      "familyId": "aud-m1-tbs1"
+    },
+    {
+      "id": "aud-m1-l1-q10",
+      "courseId": "aud",
+      "moduleId": 1,
+      "lessonId": "aud-m1-l1",
+      "topic": "Ethics, Independence & Professional Conduct",
+      "prompt": "You are the ethics reviewer for a firm considering four proposed arrangements for a nonissuer financial-statement audit. Determine the appropriate conclusion for each fact pattern. Proposed arrangements: A: The engagement partner directly owns 20 client shares. B: The firm will prepare a proposed depreciation schedule; a competent controller chooses methods and accepts responsibility. C: An auditor will sign purchase orders for the client. D: Confidential customer data will be sent to a public tool without authorization. Evaluation instructions: Assume all individuals described are covered members. No exception applies to direct interests or management responsibilities. For permitted nonattest assistance, management must oversee, evaluate, and accept the results. Required: Arrangement D: required first action.",
+      "choices": [
+        {
+          "id": "aud-m1-l1-q10-a0",
+          "text": "Upload because the data is useful"
+        },
+        {
+          "id": "aud-m1-l1-q10-a1",
+          "text": "Resolve authorization and confidentiality protections"
+        },
+        {
+          "id": "aud-m1-l1-q10-a2",
+          "text": "Obtain only the tool’s accuracy score"
+        },
+        {
+          "id": "aud-m1-l1-q10-a3",
+          "text": "Delay documentation until after upload"
+        }
+      ],
+      "correctChoiceId": "aud-m1-l1-q10-a1",
+      "explanation": "Confidentiality duties apply before sharing client data with a third party.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "aud",
+        "blueprintYear": 2026,
+        "areaId": "aud-I",
+        "groupId": "A",
+        "topicId": "aud-auditor-independence",
+        "taskIds": [
+          "aud-auditor-independence.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "AICPA auditing standards",
+            "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+          },
+          {
+            "title": "PCAOB standards",
+            "url": "https://pcaobus.org/oversight/standards"
+          }
+        ]
+      },
+      "familyId": "aud-m1-tbs1"
+    },
+    {
+      "id": "aud-m1-l2-q1",
+      "courseId": "aud",
+      "moduleId": 1,
+      "lessonId": "aud-m1-l2",
+      "topic": "Skepticism, Judgment & Audit Responsibilities",
+      "prompt": "An auditor accepts management’s explanation despite contradictory shipping documents because the CFO has always been honest. Which concern is most direct?",
+      "choices": [
+        {
+          "id": "aud-m1-l2-q1-a0",
+          "text": "Excessive substantive testing."
+        },
+        {
+          "id": "aud-m1-l2-q1-a1",
+          "text": "Insufficient professional skepticism."
+        },
+        {
+          "id": "aud-m1-l2-q1-a2",
+          "text": "A prohibited audit opinion on a profitable client."
+        },
+        {
+          "id": "aud-m1-l2-q1-a3",
+          "text": "A need to assume all management statements are fraudulent."
+        }
+      ],
+      "correctChoiceId": "aud-m1-l2-q1-a1",
+      "explanation": "Past honesty does not resolve current inconsistent evidence. Skepticism requires follow-up without automatically assuming dishonesty.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "aud",
+        "blueprintYear": 2026,
+        "areaId": "aud-I",
+        "groupId": "B",
+        "topicId": "aud-professional-skepticism",
+        "taskIds": [
+          "aud-professional-skepticism.task-1"
+        ],
+        "skill": "evaluation",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "AICPA auditing standards",
+            "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+          },
+          {
+            "title": "PCAOB standards",
+            "url": "https://pcaobus.org/oversight/standards"
+          }
+        ]
+      }
+    },
+    {
+      "id": "aud-m1-l2-q2",
+      "courseId": "aud",
+      "moduleId": 1,
+      "lessonId": "aud-m1-l2",
+      "topic": "Skepticism, Judgment & Audit Responsibilities",
+      "prompt": "Who is responsible for preparing the financial statements and maintaining relevant internal control?",
+      "choices": [
+        {
+          "id": "aud-m1-l2-q2-a0",
+          "text": "The external auditor alone."
+        },
+        {
+          "id": "aud-m1-l2-q2-a1",
+          "text": "The auditor’s specialist."
+        },
+        {
+          "id": "aud-m1-l2-q2-a2",
+          "text": "Management."
+        },
+        {
+          "id": "aud-m1-l2-q2-a3",
+          "text": "The external confirmation respondent."
+        }
+      ],
+      "correctChoiceId": "aud-m1-l2-q2-a2",
+      "explanation": "Management owns financial reporting and control responsibilities. The external auditor evaluates and reports rather than assuming those duties.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "aud",
+        "blueprintYear": 2026,
+        "areaId": "aud-I",
+        "groupId": "B",
+        "topicId": "aud-professional-skepticism",
+        "taskIds": [
+          "aud-professional-skepticism.task-2"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "AICPA auditing standards",
+            "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+          },
+          {
+            "title": "PCAOB standards",
+            "url": "https://pcaobus.org/oversight/standards"
+          }
+        ]
+      }
+    },
+    {
+      "id": "aud-m1-l2-q3",
+      "courseId": "aud",
+      "moduleId": 1,
+      "lessonId": "aud-m1-l2",
+      "topic": "Skepticism, Judgment & Audit Responsibilities",
+      "prompt": "Which description of a financial-statement audit is most accurate?",
+      "choices": [
+        {
+          "id": "aud-m1-l2-q3-a0",
+          "text": "It guarantees that all fraud has been detected."
+        },
+        {
+          "id": "aud-m1-l2-q3-a1",
+          "text": "It guarantees that the entity will remain solvent."
+        },
+        {
+          "id": "aud-m1-l2-q3-a2",
+          "text": "It certifies that every transaction is correct."
+        },
+        {
+          "id": "aud-m1-l2-q3-a3",
+          "text": "It provides reasonable assurance about material misstatement of the statements as a whole."
+        }
+      ],
+      "correctChoiceId": "aud-m1-l2-q3-a3",
+      "explanation": "An audit provides high, not absolute, assurance and focuses on material misstatement, not a guarantee of transaction accuracy or business success.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "aud",
+        "blueprintYear": 2026,
+        "areaId": "aud-I",
+        "groupId": "B",
+        "topicId": "aud-professional-skepticism",
+        "taskIds": [
+          "aud-professional-skepticism.task-3"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "AICPA auditing standards",
+            "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+          },
+          {
+            "title": "PCAOB standards",
+            "url": "https://pcaobus.org/oversight/standards"
+          }
+        ]
+      }
+    },
+    {
+      "id": "aud-m1-l2-q4",
+      "courseId": "aud",
+      "moduleId": 1,
+      "lessonId": "aud-m1-l2",
+      "topic": "Skepticism, Judgment & Audit Responsibilities",
+      "prompt": "A team searches only for evidence supporting its initial conclusion that a reserve is adequate. Which bias is most apparent?",
+      "choices": [
+        {
+          "id": "aud-m1-l2-q4-a0",
+          "text": "Confirmation bias."
+        },
+        {
+          "id": "aud-m1-l2-q4-a1",
+          "text": "An unavoidable legal prohibition."
+        },
+        {
+          "id": "aud-m1-l2-q4-a2",
+          "text": "Random sampling risk."
+        },
+        {
+          "id": "aud-m1-l2-q4-a3",
+          "text": "A required use of management representations."
+        }
+      ],
+      "correctChoiceId": "aud-m1-l2-q4-a0",
+      "explanation": "Selective support for an initial conclusion is confirmation bias. Consider alternative assumptions and contradictory evidence.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "aud",
+        "blueprintYear": 2026,
+        "areaId": "aud-I",
+        "groupId": "B",
+        "topicId": "aud-professional-skepticism",
+        "taskIds": [
+          "aud-professional-skepticism.task-1"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "AICPA auditing standards",
+            "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+          },
+          {
+            "title": "PCAOB standards",
+            "url": "https://pcaobus.org/oversight/standards"
+          }
+        ]
+      }
+    },
+    {
+      "id": "aud-m1-l2-q5",
+      "courseId": "aud",
+      "moduleId": 1,
+      "lessonId": "aud-m1-l2",
+      "topic": "Skepticism, Judgment & Audit Responsibilities",
+      "prompt": "A company has strong approval controls, but its CEO can post unrestricted top-side entries. What is the appropriate response?",
+      "choices": [
+        {
+          "id": "aud-m1-l2-q5-a0",
+          "text": "Conclude fraud risk is eliminated by the approvals."
+        },
+        {
+          "id": "aud-m1-l2-q5-a1",
+          "text": "Assess and respond to management-override risk."
+        },
+        {
+          "id": "aud-m1-l2-q5-a2",
+          "text": "Ignore entries if the company is profitable."
+        },
+        {
+          "id": "aud-m1-l2-q5-a3",
+          "text": "Replace all substantive procedures with the CEO’s written representation."
+        }
+      ],
+      "correctChoiceId": "aud-m1-l2-q5-a1",
+      "explanation": "Management may bypass ordinary controls. The auditor must address override, including relevant entries and unusual transactions.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "aud",
+        "blueprintYear": 2026,
+        "areaId": "aud-I",
+        "groupId": "B",
+        "topicId": "aud-professional-skepticism",
+        "taskIds": [
+          "aud-professional-skepticism.task-2"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "AICPA auditing standards",
+            "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+          },
+          {
+            "title": "PCAOB standards",
+            "url": "https://pcaobus.org/oversight/standards"
+          }
+        ]
+      }
+    },
+    {
+      "id": "aud-m1-l2-q6",
+      "courseId": "aud",
+      "moduleId": 1,
+      "lessonId": "aud-m1-l2",
+      "topic": "Skepticism, Judgment & Audit Responsibilities",
+      "prompt": "An auditor identifies evidence that the CEO may have intentionally misstated revenue. Whom should the auditor consider communicating with directly?",
+      "choices": [
+        {
+          "id": "aud-m1-l2-q6-a0",
+          "text": "Only the employee who entered the transaction."
+        },
+        {
+          "id": "aud-m1-l2-q6-a1",
+          "text": "Only customers who bought the product."
+        },
+        {
+          "id": "aud-m1-l2-q6-a2",
+          "text": "Those charged with governance at an appropriate level."
+        },
+        {
+          "id": "aud-m1-l2-q6-a3",
+          "text": "No one until the auditor can guarantee fraud occurred."
+        }
+      ],
+      "correctChoiceId": "aud-m1-l2-q6-a2",
+      "explanation": "The level of implicated management affects escalation. Appropriate governance communication is not conditioned on proving every element of a legal fraud claim.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "aud",
+        "blueprintYear": 2026,
+        "areaId": "aud-I",
+        "groupId": "B",
+        "topicId": "aud-professional-skepticism",
+        "taskIds": [
+          "aud-professional-skepticism.task-3"
+        ],
+        "skill": "evaluation",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "AICPA auditing standards",
+            "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+          },
+          {
+            "title": "PCAOB standards",
+            "url": "https://pcaobus.org/oversight/standards"
+          }
+        ]
+      }
+    },
+    {
+      "id": "aud-m1-l2-q7",
+      "courseId": "aud",
+      "moduleId": 1,
+      "lessonId": "aud-m1-l2",
+      "topic": "Skepticism, Judgment & Audit Responsibilities",
+      "prompt": "Review four statements from the engagement file and identify the best corrective action. File excerpts: 1. The CFO was reliable last year, so contrary evidence was disregarded. 2. The team has promised investors that the company will never fail. 3. A senior selected only documents supporting the original reserve. 4. The CEO can override normal journal approval. Required approach: Base the audit on sufficient appropriate evidence, maintain a questioning mind, distinguish audit assurance from investment guarantees, and address management override. Required: Correct the treatment of contrary evidence.",
+      "choices": [
+        {
+          "id": "aud-m1-l2-q7-a0",
+          "text": "Rely on past honesty"
+        },
+        {
+          "id": "aud-m1-l2-q7-a1",
+          "text": "Ignore nonfinancial records"
+        },
+        {
+          "id": "aud-m1-l2-q7-a2",
+          "text": "Assume fraud without further work"
+        },
+        {
+          "id": "aud-m1-l2-q7-a3",
+          "text": "Investigate and resolve the inconsistency"
+        }
+      ],
+      "correctChoiceId": "aud-m1-l2-q7-a3",
+      "explanation": "Skepticism requires investigating the inconsistent evidence.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "aud",
+        "blueprintYear": 2026,
+        "areaId": "aud-I",
+        "groupId": "B",
+        "topicId": "aud-professional-skepticism",
+        "taskIds": [
+          "aud-professional-skepticism.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "AICPA auditing standards",
+            "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+          },
+          {
+            "title": "PCAOB standards",
+            "url": "https://pcaobus.org/oversight/standards"
+          }
+        ]
+      },
+      "familyId": "aud-m1-tbs2"
+    },
+    {
+      "id": "aud-m1-l2-q8",
+      "courseId": "aud",
+      "moduleId": 1,
+      "lessonId": "aud-m1-l2",
+      "topic": "Skepticism, Judgment & Audit Responsibilities",
+      "prompt": "Review four statements from the engagement file and identify the best corrective action. File excerpts: 1. The CFO was reliable last year, so contrary evidence was disregarded. 2. The team has promised investors that the company will never fail. 3. A senior selected only documents supporting the original reserve. 4. The CEO can override normal journal approval. Required approach: Base the audit on sufficient appropriate evidence, maintain a questioning mind, distinguish audit assurance from investment guarantees, and address management override. Required: Correct the assurance promise.",
+      "choices": [
+        {
+          "id": "aud-m1-l2-q8-a0",
+          "text": "Explain reasonable assurance about material misstatement"
+        },
+        {
+          "id": "aud-m1-l2-q8-a1",
+          "text": "Guarantee solvency"
+        },
+        {
+          "id": "aud-m1-l2-q8-a2",
+          "text": "Guarantee every transaction"
+        },
+        {
+          "id": "aud-m1-l2-q8-a3",
+          "text": "Withdraw all audit objectives"
+        }
+      ],
+      "correctChoiceId": "aud-m1-l2-q8-a0",
+      "explanation": "The audit does not guarantee business success.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "aud",
+        "blueprintYear": 2026,
+        "areaId": "aud-I",
+        "groupId": "B",
+        "topicId": "aud-professional-skepticism",
+        "taskIds": [
+          "aud-professional-skepticism.task-2"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "AICPA auditing standards",
+            "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+          },
+          {
+            "title": "PCAOB standards",
+            "url": "https://pcaobus.org/oversight/standards"
+          }
+        ]
+      },
+      "familyId": "aud-m1-tbs2"
+    },
+    {
+      "id": "aud-m1-l2-q9",
+      "courseId": "aud",
+      "moduleId": 1,
+      "lessonId": "aud-m1-l2",
+      "topic": "Skepticism, Judgment & Audit Responsibilities",
+      "prompt": "Review four statements from the engagement file and identify the best corrective action. File excerpts: 1. The CFO was reliable last year, so contrary evidence was disregarded. 2. The team has promised investors that the company will never fail. 3. A senior selected only documents supporting the original reserve. 4. The CEO can override normal journal approval. Required approach: Base the audit on sufficient appropriate evidence, maintain a questioning mind, distinguish audit assurance from investment guarantees, and address management override. Required: Identify the bias in the reserve testing.",
+      "choices": [
+        {
+          "id": "aud-m1-l2-q9-a0",
+          "text": "Sampling precision"
+        },
+        {
+          "id": "aud-m1-l2-q9-a1",
+          "text": "Confirmation bias"
+        },
+        {
+          "id": "aud-m1-l2-q9-a2",
+          "text": "A financial statement assertion"
+        },
+        {
+          "id": "aud-m1-l2-q9-a3",
+          "text": "An independence safeguard"
+        }
+      ],
+      "correctChoiceId": "aud-m1-l2-q9-a1",
+      "explanation": "The senior sought only evidence consistent with the initial belief.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "aud",
+        "blueprintYear": 2026,
+        "areaId": "aud-I",
+        "groupId": "B",
+        "topicId": "aud-professional-skepticism",
+        "taskIds": [
+          "aud-professional-skepticism.task-3"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "AICPA auditing standards",
+            "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+          },
+          {
+            "title": "PCAOB standards",
+            "url": "https://pcaobus.org/oversight/standards"
+          }
+        ]
+      },
+      "familyId": "aud-m1-tbs2"
+    },
+    {
+      "id": "aud-m1-l2-q10",
+      "courseId": "aud",
+      "moduleId": 1,
+      "lessonId": "aud-m1-l2",
+      "topic": "Skepticism, Judgment & Audit Responsibilities",
+      "prompt": "Review four statements from the engagement file and identify the best corrective action. File excerpts: 1. The CFO was reliable last year, so contrary evidence was disregarded. 2. The team has promised investors that the company will never fail. 3. A senior selected only documents supporting the original reserve. 4. The CEO can override normal journal approval. Required approach: Base the audit on sufficient appropriate evidence, maintain a questioning mind, distinguish audit assurance from investment guarantees, and address management override. Required: Respond to the CEO’s unrestricted entries.",
+      "choices": [
+        {
+          "id": "aud-m1-l2-q10-a0",
+          "text": "Eliminate substantive testing"
+        },
+        {
+          "id": "aud-m1-l2-q10-a1",
+          "text": "Rely only on ordinary approvals"
+        },
+        {
+          "id": "aud-m1-l2-q10-a2",
+          "text": "Perform procedures addressing management override"
+        },
+        {
+          "id": "aud-m1-l2-q10-a3",
+          "text": "Accept an oral assurance"
+        }
+      ],
+      "correctChoiceId": "aud-m1-l2-q10-a2",
+      "explanation": "Ordinary controls do not eliminate management-override risk.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "aud",
+        "blueprintYear": 2026,
+        "areaId": "aud-I",
+        "groupId": "B",
+        "topicId": "aud-professional-skepticism",
+        "taskIds": [
+          "aud-professional-skepticism.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "AICPA auditing standards",
+            "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+          },
+          {
+            "title": "PCAOB standards",
+            "url": "https://pcaobus.org/oversight/standards"
+          }
+        ]
+      },
+      "familyId": "aud-m1-tbs2"
+    },
+    {
+      "id": "aud-m1-l3-q1",
+      "courseId": "aud",
+      "moduleId": 1,
+      "lessonId": "aud-m1-l3",
+      "topic": "Engagement Scope, Acceptance & Written Terms",
+      "prompt": "Which engagement reports specified procedures and factual findings without an opinion or assurance conclusion?",
+      "choices": [
+        {
+          "id": "aud-m1-l3-q1-a0",
+          "text": "Financial-statement audit."
+        },
+        {
+          "id": "aud-m1-l3-q1-a1",
+          "text": "Financial-statement review."
+        },
+        {
+          "id": "aud-m1-l3-q1-a2",
+          "text": "Agreed-upon procedures."
+        },
+        {
+          "id": "aud-m1-l3-q1-a3",
+          "text": "An examination of an assertion."
+        }
+      ],
+      "correctChoiceId": "aud-m1-l3-q1-a2",
+      "explanation": "Agreed-upon procedures reports what was done and found. An audit or examination expresses reasonable assurance; a review expresses limited assurance.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "aud",
+        "blueprintYear": 2026,
+        "areaId": "aud-I",
+        "groupId": "C-D",
+        "topicId": "aud-engagement-acceptance",
+        "taskIds": [
+          "aud-engagement-acceptance.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "AICPA auditing standards",
+            "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+          },
+          {
+            "title": "PCAOB standards",
+            "url": "https://pcaobus.org/oversight/standards"
+          }
+        ]
+      }
+    },
+    {
+      "id": "aud-m1-l3-q2",
+      "courseId": "aud",
+      "moduleId": 1,
+      "lessonId": "aud-m1-l3",
+      "topic": "Engagement Scope, Acceptance & Written Terms",
+      "prompt": "Management will not acknowledge responsibility for preparing the financial statements. What does this affect?",
+      "choices": [
+        {
+          "id": "aud-m1-l3-q2-a0",
+          "text": "Only the auditor’s choice of sample size."
+        },
+        {
+          "id": "aud-m1-l3-q2-a1",
+          "text": "Only the wording of an invoice."
+        },
+        {
+          "id": "aud-m1-l3-q2-a2",
+          "text": "Nothing if the company has a controller."
+        },
+        {
+          "id": "aud-m1-l3-q2-a3",
+          "text": "An essential precondition for accepting the audit."
+        }
+      ],
+      "correctChoiceId": "aud-m1-l3-q2-a3",
+      "explanation": "Management’s acknowledgment of its responsibilities is an engagement precondition and cannot be replaced by auditor preparation of the statements.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "aud",
+        "blueprintYear": 2026,
+        "areaId": "aud-I",
+        "groupId": "C-D",
+        "topicId": "aud-engagement-acceptance",
+        "taskIds": [
+          "aud-engagement-acceptance.task-2"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "AICPA auditing standards",
+            "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+          },
+          {
+            "title": "PCAOB standards",
+            "url": "https://pcaobus.org/oversight/standards"
+          }
+        ]
+      }
+    },
+    {
+      "id": "aud-m1-l3-q3",
+      "courseId": "aud",
+      "moduleId": 1,
+      "lessonId": "aud-m1-l3",
+      "topic": "Engagement Scope, Acceptance & Written Terms",
+      "prompt": "Before contacting a predecessor auditor about a prospective audit client, the successor should ordinarily obtain what?",
+      "choices": [
+        {
+          "id": "aud-m1-l3-q3-a0",
+          "text": "The prospective client’s permission to communicate."
+        },
+        {
+          "id": "aud-m1-l3-q3-a1",
+          "text": "The stock exchange’s approval."
+        },
+        {
+          "id": "aud-m1-l3-q3-a2",
+          "text": "A signed unmodified opinion."
+        },
+        {
+          "id": "aud-m1-l3-q3-a3",
+          "text": "A guarantee that no disagreements occurred."
+        }
+      ],
+      "correctChoiceId": "aud-m1-l3-q3-a0",
+      "explanation": "Client authorization permits relevant predecessor communications. The successor uses the resulting information to assess acceptance.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "aud",
+        "blueprintYear": 2026,
+        "areaId": "aud-I",
+        "groupId": "C-D",
+        "topicId": "aud-engagement-acceptance",
+        "taskIds": [
+          "aud-engagement-acceptance.task-3"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "AICPA auditing standards",
+            "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+          },
+          {
+            "title": "PCAOB standards",
+            "url": "https://pcaobus.org/oversight/standards"
+          }
+        ]
+      }
+    },
+    {
+      "id": "aud-m1-l3-q4",
+      "courseId": "aud",
+      "moduleId": 1,
+      "lessonId": "aud-m1-l3",
+      "topic": "Engagement Scope, Acceptance & Written Terms",
+      "prompt": "A client asks to change an audit to a review solely because missing records would cause a modified opinion. Which response is best?",
+      "choices": [
+        {
+          "id": "aud-m1-l3-q4-a0",
+          "text": "Accept because a review requires less evidence."
+        },
+        {
+          "id": "aud-m1-l3-q4-a1",
+          "text": "Do not accept the change as a way to avoid the audit reporting consequence."
+        },
+        {
+          "id": "aud-m1-l3-q4-a2",
+          "text": "Accept if the fee is unchanged."
+        },
+        {
+          "id": "aud-m1-l3-q4-a3",
+          "text": "Issue the audit opinion without mentioning the missing evidence."
+        }
+      ],
+      "correctChoiceId": "aud-m1-l3-q4-a1",
+      "explanation": "A change intended to bypass an audit limitation is not a reasonable justification for downgrading assurance.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "aud",
+        "blueprintYear": 2026,
+        "areaId": "aud-I",
+        "groupId": "C-D",
+        "topicId": "aud-engagement-acceptance",
+        "taskIds": [
+          "aud-engagement-acceptance.task-1"
+        ],
+        "skill": "evaluation",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "AICPA auditing standards",
+            "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+          },
+          {
+            "title": "PCAOB standards",
+            "url": "https://pcaobus.org/oversight/standards"
+          }
+        ]
+      }
+    },
+    {
+      "id": "aud-m1-l3-q5",
+      "courseId": "aud",
+      "moduleId": 1,
+      "lessonId": "aud-m1-l3",
+      "topic": "Engagement Scope, Acceptance & Written Terms",
+      "prompt": "Which service ordinarily provides limited assurance on historical financial statements through inquiry and analytical procedures?",
+      "choices": [
+        {
+          "id": "aud-m1-l3-q5-a0",
+          "text": "A compilation."
+        },
+        {
+          "id": "aud-m1-l3-q5-a1",
+          "text": "A financial-statement preparation engagement."
+        },
+        {
+          "id": "aud-m1-l3-q5-a2",
+          "text": "A financial-statement review."
+        },
+        {
+          "id": "aud-m1-l3-q5-a3",
+          "text": "An agreed-upon procedures engagement."
+        }
+      ],
+      "correctChoiceId": "aud-m1-l3-q5-a2",
+      "explanation": "A review provides limited assurance. Preparation, compilation, and agreed-upon procedures do not provide this assurance conclusion.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "aud",
+        "blueprintYear": 2026,
+        "areaId": "aud-I",
+        "groupId": "C-D",
+        "topicId": "aud-engagement-acceptance",
+        "taskIds": [
+          "aud-engagement-acceptance.task-2"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "AICPA auditing standards",
+            "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+          },
+          {
+            "title": "PCAOB standards",
+            "url": "https://pcaobus.org/oversight/standards"
+          }
+        ]
+      }
+    },
+    {
+      "id": "aud-m1-l3-q6",
+      "courseId": "aud",
+      "moduleId": 1,
+      "lessonId": "aud-m1-l3",
+      "topic": "Engagement Scope, Acceptance & Written Terms",
+      "prompt": "Which item belongs in a financial-statement audit engagement letter?",
+      "choices": [
+        {
+          "id": "aud-m1-l3-q6-a0",
+          "text": "A promise that all fraud will be detected."
+        },
+        {
+          "id": "aud-m1-l3-q6-a1",
+          "text": "A guarantee of an unmodified opinion."
+        },
+        {
+          "id": "aud-m1-l3-q6-a2",
+          "text": "A waiver of access to material supporting records."
+        },
+        {
+          "id": "aud-m1-l3-q6-a3",
+          "text": "Management and auditor responsibilities and the applicable reporting framework."
+        }
+      ],
+      "correctChoiceId": "aud-m1-l3-q6-a3",
+      "explanation": "Written terms clarify responsibilities and scope without guaranteeing an outcome or waiving required evidence.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "aud",
+        "blueprintYear": 2026,
+        "areaId": "aud-I",
+        "groupId": "C-D",
+        "topicId": "aud-engagement-acceptance",
+        "taskIds": [
+          "aud-engagement-acceptance.task-3"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "AICPA auditing standards",
+            "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+          },
+          {
+            "title": "PCAOB standards",
+            "url": "https://pcaobus.org/oversight/standards"
+          }
+        ]
+      }
+    },
+    {
+      "id": "aud-m1-l3-q7",
+      "courseId": "aud",
+      "moduleId": 1,
+      "lessonId": "aud-m1-l3",
+      "topic": "Engagement Scope, Acceptance & Written Terms",
+      "prompt": "Classify the requested services and decide whether proposed acceptance terms are appropriate. Service requests: Client A wants an opinion with reasonable assurance on annual statements. Client B wants limited assurance on historical statements. Client C wants only findings from inventory-count procedures agreed by the parties. Client D will refuse all access to material debt agreements. Acceptance criteria: Assume no law requires accepting Client D. Management must acknowledge its financial-reporting responsibility and provide information and access necessary for the engagement. Required: Appropriate service for Client A.",
+      "choices": [
+        {
+          "id": "aud-m1-l3-q7-a0",
+          "text": "Audit"
+        },
+        {
+          "id": "aud-m1-l3-q7-a1",
+          "text": "Compilation"
+        },
+        {
+          "id": "aud-m1-l3-q7-a2",
+          "text": "Preparation"
+        },
+        {
+          "id": "aud-m1-l3-q7-a3",
+          "text": "Agreed-upon procedures"
+        }
+      ],
+      "correctChoiceId": "aud-m1-l3-q7-a0",
+      "explanation": "An audit provides reasonable assurance and an opinion.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "aud",
+        "blueprintYear": 2026,
+        "areaId": "aud-I",
+        "groupId": "C-D",
+        "topicId": "aud-engagement-acceptance",
+        "taskIds": [
+          "aud-engagement-acceptance.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "AICPA auditing standards",
+            "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+          },
+          {
+            "title": "PCAOB standards",
+            "url": "https://pcaobus.org/oversight/standards"
+          }
+        ]
+      },
+      "familyId": "aud-m1-tbs3"
+    },
+    {
+      "id": "aud-m1-l3-q8",
+      "courseId": "aud",
+      "moduleId": 1,
+      "lessonId": "aud-m1-l3",
+      "topic": "Engagement Scope, Acceptance & Written Terms",
+      "prompt": "Classify the requested services and decide whether proposed acceptance terms are appropriate. Service requests: Client A wants an opinion with reasonable assurance on annual statements. Client B wants limited assurance on historical statements. Client C wants only findings from inventory-count procedures agreed by the parties. Client D will refuse all access to material debt agreements. Acceptance criteria: Assume no law requires accepting Client D. Management must acknowledge its financial-reporting responsibility and provide information and access necessary for the engagement. Required: Appropriate service for Client B.",
+      "choices": [
+        {
+          "id": "aud-m1-l3-q8-a0",
+          "text": "Compilation"
+        },
+        {
+          "id": "aud-m1-l3-q8-a1",
+          "text": "Review"
+        },
+        {
+          "id": "aud-m1-l3-q8-a2",
+          "text": "Preparation"
+        },
+        {
+          "id": "aud-m1-l3-q8-a3",
+          "text": "Agreed-upon procedures"
+        }
+      ],
+      "correctChoiceId": "aud-m1-l3-q8-a1",
+      "explanation": "A review provides limited assurance on historical statements.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "aud",
+        "blueprintYear": 2026,
+        "areaId": "aud-I",
+        "groupId": "C-D",
+        "topicId": "aud-engagement-acceptance",
+        "taskIds": [
+          "aud-engagement-acceptance.task-2"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "AICPA auditing standards",
+            "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+          },
+          {
+            "title": "PCAOB standards",
+            "url": "https://pcaobus.org/oversight/standards"
+          }
+        ]
+      },
+      "familyId": "aud-m1-tbs3"
+    },
+    {
+      "id": "aud-m1-l3-q9",
+      "courseId": "aud",
+      "moduleId": 1,
+      "lessonId": "aud-m1-l3",
+      "topic": "Engagement Scope, Acceptance & Written Terms",
+      "prompt": "Classify the requested services and decide whether proposed acceptance terms are appropriate. Service requests: Client A wants an opinion with reasonable assurance on annual statements. Client B wants limited assurance on historical statements. Client C wants only findings from inventory-count procedures agreed by the parties. Client D will refuse all access to material debt agreements. Acceptance criteria: Assume no law requires accepting Client D. Management must acknowledge its financial-reporting responsibility and provide information and access necessary for the engagement. Required: Appropriate service for Client C.",
+      "choices": [
+        {
+          "id": "aud-m1-l3-q9-a0",
+          "text": "Audit"
+        },
+        {
+          "id": "aud-m1-l3-q9-a1",
+          "text": "Review"
+        },
+        {
+          "id": "aud-m1-l3-q9-a2",
+          "text": "Agreed-upon procedures"
+        },
+        {
+          "id": "aud-m1-l3-q9-a3",
+          "text": "Compilation"
+        }
+      ],
+      "correctChoiceId": "aud-m1-l3-q9-a2",
+      "explanation": "The practitioner reports the specified procedures and findings.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "aud",
+        "blueprintYear": 2026,
+        "areaId": "aud-I",
+        "groupId": "C-D",
+        "topicId": "aud-engagement-acceptance",
+        "taskIds": [
+          "aud-engagement-acceptance.task-3"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "AICPA auditing standards",
+            "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+          },
+          {
+            "title": "PCAOB standards",
+            "url": "https://pcaobus.org/oversight/standards"
+          }
+        ]
+      },
+      "familyId": "aud-m1-tbs3"
+    },
+    {
+      "id": "aud-m1-l3-q10",
+      "courseId": "aud",
+      "moduleId": 1,
+      "lessonId": "aud-m1-l3",
+      "topic": "Engagement Scope, Acceptance & Written Terms",
+      "prompt": "Classify the requested services and decide whether proposed acceptance terms are appropriate. Service requests: Client A wants an opinion with reasonable assurance on annual statements. Client B wants limited assurance on historical statements. Client C wants only findings from inventory-count procedures agreed by the parties. Client D will refuse all access to material debt agreements. Acceptance criteria: Assume no law requires accepting Client D. Management must acknowledge its financial-reporting responsibility and provide information and access necessary for the engagement. Required: Best response to Client D’s restriction.",
+      "choices": [
+        {
+          "id": "aud-m1-l3-q10-a0",
+          "text": "Promise an unmodified opinion"
+        },
+        {
+          "id": "aud-m1-l3-q10-a1",
+          "text": "Accept without documenting it"
+        },
+        {
+          "id": "aud-m1-l3-q10-a2",
+          "text": "Replace debt evidence with the fee agreement"
+        },
+        {
+          "id": "aud-m1-l3-q10-a3",
+          "text": "Resolve the restriction before accepting"
+        }
+      ],
+      "correctChoiceId": "aud-m1-l3-q10-a3",
+      "explanation": "A material pre-acceptance scope restriction undermines the engagement preconditions.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "aud",
+        "blueprintYear": 2026,
+        "areaId": "aud-I",
+        "groupId": "C-D",
+        "topicId": "aud-engagement-acceptance",
+        "taskIds": [
+          "aud-engagement-acceptance.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "AICPA auditing standards",
+            "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+          },
+          {
+            "title": "PCAOB standards",
+            "url": "https://pcaobus.org/oversight/standards"
+          }
+        ]
+      },
+      "familyId": "aud-m1-tbs3"
+    },
+    {
+      "id": "aud-m1-l4-q1",
+      "courseId": "aud",
+      "moduleId": 1,
+      "lessonId": "aud-m1-l4",
+      "topic": "Documentation, Governance Communication & Quality",
+      "prompt": "Audit documentation should be understandable to which person?",
+      "choices": [
+        {
+          "id": "aud-m1-l4-q1-a0",
+          "text": "Only the original preparer."
+        },
+        {
+          "id": "aud-m1-l4-q1-a1",
+          "text": "Only the client’s CFO."
+        },
+        {
+          "id": "aud-m1-l4-q1-a2",
+          "text": "Only a securities lawyer who designed the audit plan."
+        },
+        {
+          "id": "aud-m1-l4-q1-a3",
+          "text": "An experienced auditor with no previous connection to the engagement."
+        }
+      ],
+      "correctChoiceId": "aud-m1-l4-q1-a3",
+      "explanation": "Documentation must permit an experienced auditor unfamiliar with the engagement to understand the work and conclusions.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "aud",
+        "blueprintYear": 2026,
+        "areaId": "aud-I",
+        "groupId": "E-F-G",
+        "topicId": "aud-audit-documentation-quality",
+        "taskIds": [
+          "aud-audit-documentation-quality.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "AICPA auditing standards",
+            "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+          },
+          {
+            "title": "PCAOB standards",
+            "url": "https://pcaobus.org/oversight/standards"
+          }
+        ]
+      }
+    },
+    {
+      "id": "aud-m1-l4-q2",
+      "courseId": "aud",
+      "moduleId": 1,
+      "lessonId": "aud-m1-l4",
+      "topic": "Documentation, Governance Communication & Quality",
+      "prompt": "A control deficiency creates a reasonable possibility that a material misstatement will not be detected and corrected timely. No actual misstatement has been found. How is it evaluated?",
+      "choices": [
+        {
+          "id": "aud-m1-l4-q2-a0",
+          "text": "It can be a material weakness despite the absence of an observed misstatement."
+        },
+        {
+          "id": "aud-m1-l4-q2-a1",
+          "text": "It cannot exceed a trivial deficiency."
+        },
+        {
+          "id": "aud-m1-l4-q2-a2",
+          "text": "It is automatically a qualified opinion on the financial statements."
+        },
+        {
+          "id": "aud-m1-l4-q2-a3",
+          "text": "It is irrelevant until fraud occurs."
+        }
+      ],
+      "correctChoiceId": "aud-m1-l4-q2-a0",
+      "explanation": "The classification considers potential magnitude and likelihood. It does not require an actual misstatement and does not automatically determine the financial-statement opinion.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "aud",
+        "blueprintYear": 2026,
+        "areaId": "aud-I",
+        "groupId": "E-F-G",
+        "topicId": "aud-audit-documentation-quality",
+        "taskIds": [
+          "aud-audit-documentation-quality.task-2"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "AICPA auditing standards",
+            "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+          },
+          {
+            "title": "PCAOB standards",
+            "url": "https://pcaobus.org/oversight/standards"
+          }
+        ]
+      }
+    },
+    {
+      "id": "aud-m1-l4-q3",
+      "courseId": "aud",
+      "moduleId": 1,
+      "lessonId": "aud-m1-l4",
+      "topic": "Documentation, Governance Communication & Quality",
+      "prompt": "A required engagement quality review identifies an unresolved significant judgment before the report date. What should the partner do?",
+      "choices": [
+        {
+          "id": "aud-m1-l4-q3-a0",
+          "text": "Issue the report and resolve it next year."
+        },
+        {
+          "id": "aud-m1-l4-q3-a1",
+          "text": "Resolve the matter and complete the required review before report issuance."
+        },
+        {
+          "id": "aud-m1-l4-q3-a2",
+          "text": "Transfer all engagement responsibility to the reviewer."
+        },
+        {
+          "id": "aud-m1-l4-q3-a3",
+          "text": "Delete the reviewer’s comment."
+        }
+      ],
+      "correctChoiceId": "aud-m1-l4-q3-a1",
+      "explanation": "Required review procedures and differences of opinion must be addressed before issuance; responsibility is not transferred or avoided.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "aud",
+        "blueprintYear": 2026,
+        "areaId": "aud-I",
+        "groupId": "E-F-G",
+        "topicId": "aud-audit-documentation-quality",
+        "taskIds": [
+          "aud-audit-documentation-quality.task-3"
+        ],
+        "skill": "evaluation",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "AICPA auditing standards",
+            "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+          },
+          {
+            "title": "PCAOB standards",
+            "url": "https://pcaobus.org/oversight/standards"
+          }
+        ]
+      }
+    },
+    {
+      "id": "aud-m1-l4-q4",
+      "courseId": "aud",
+      "moduleId": 1,
+      "lessonId": "aud-m1-l4",
+      "topic": "Documentation, Governance Communication & Quality",
+      "prompt": "Which statement best distinguishes a significant deficiency from a material weakness?",
+      "choices": [
+        {
+          "id": "aud-m1-l4-q4-a0",
+          "text": "A significant deficiency always requires a larger dollar error."
+        },
+        {
+          "id": "aud-m1-l4-q4-a1",
+          "text": "A material weakness exists only after fraud is proven."
+        },
+        {
+          "id": "aud-m1-l4-q4-a2",
+          "text": "A significant deficiency is less severe but important enough for governance attention."
+        },
+        {
+          "id": "aud-m1-l4-q4-a3",
+          "text": "The two labels have identical meanings."
+        }
+      ],
+      "correctChoiceId": "aud-m1-l4-q4-a2",
+      "explanation": "The distinction is based on severity and potential misstatement. Governance attention can be warranted below material-weakness severity.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "aud",
+        "blueprintYear": 2026,
+        "areaId": "aud-I",
+        "groupId": "E-F-G",
+        "topicId": "aud-audit-documentation-quality",
+        "taskIds": [
+          "aud-audit-documentation-quality.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "AICPA auditing standards",
+            "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+          },
+          {
+            "title": "PCAOB standards",
+            "url": "https://pcaobus.org/oversight/standards"
+          }
+        ]
+      }
+    },
+    {
+      "id": "aud-m1-l4-q5",
+      "courseId": "aud",
+      "moduleId": 1,
+      "lessonId": "aud-m1-l4",
+      "topic": "Documentation, Governance Communication & Quality",
+      "prompt": "A team has contradictory evidence about an accounting estimate. What should the file document?",
+      "choices": [
+        {
+          "id": "aud-m1-l4-q5-a0",
+          "text": "Only the evidence supporting management."
+        },
+        {
+          "id": "aud-m1-l4-q5-a1",
+          "text": "Only an oral assurance from the partner."
+        },
+        {
+          "id": "aud-m1-l4-q5-a2",
+          "text": "A statement that contrary evidence was unnecessary."
+        },
+        {
+          "id": "aud-m1-l4-q5-a3",
+          "text": "The inconsistency, follow-up work, and basis for the conclusion."
+        }
+      ],
+      "correctChoiceId": "aud-m1-l4-q5-a3",
+      "explanation": "A defensible file shows how contradictory evidence was resolved and why the conclusion is supported.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "aud",
+        "blueprintYear": 2026,
+        "areaId": "aud-I",
+        "groupId": "E-F-G",
+        "topicId": "aud-audit-documentation-quality",
+        "taskIds": [
+          "aud-audit-documentation-quality.task-2"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "AICPA auditing standards",
+            "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+          },
+          {
+            "title": "PCAOB standards",
+            "url": "https://pcaobus.org/oversight/standards"
+          }
+        ]
+      }
+    },
+    {
+      "id": "aud-m1-l4-q6",
+      "courseId": "aud",
+      "moduleId": 1,
+      "lessonId": "aud-m1-l4",
+      "topic": "Documentation, Governance Communication & Quality",
+      "prompt": "An auditor orally discusses a material weakness with the CFO. A written communication is required by the applicable standard. What remains necessary?",
+      "choices": [
+        {
+          "id": "aud-m1-l4-q6-a0",
+          "text": "Prepare and deliver the required written communication to the appropriate recipients."
+        },
+        {
+          "id": "aud-m1-l4-q6-a1",
+          "text": "Nothing, because oral communication always suffices."
+        },
+        {
+          "id": "aud-m1-l4-q6-a2",
+          "text": "Publish client details on a public website."
+        },
+        {
+          "id": "aud-m1-l4-q6-a3",
+          "text": "Wait until the weakness causes a loss."
+        }
+      ],
+      "correctChoiceId": "aud-m1-l4-q6-a0",
+      "explanation": "Required written communication remains necessary despite useful oral discussions. Confidentiality and timeliness still apply.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "aud",
+        "blueprintYear": 2026,
+        "areaId": "aud-I",
+        "groupId": "E-F-G",
+        "topicId": "aud-audit-documentation-quality",
+        "taskIds": [
+          "aud-audit-documentation-quality.task-3"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "AICPA auditing standards",
+            "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+          },
+          {
+            "title": "PCAOB standards",
+            "url": "https://pcaobus.org/oversight/standards"
+          }
+        ]
+      }
+    },
+    {
+      "id": "aud-m1-l4-q7",
+      "courseId": "aud",
+      "moduleId": 1,
+      "lessonId": "aud-m1-l4",
+      "topic": "Documentation, Governance Communication & Quality",
+      "prompt": "Complete a reviewer’s action matrix for a nonissuer audit. Review findings: A: A material estimate conclusion has no documented reasoning. B: A control failure could permit a material misstatement with a reasonable possibility. C: A required written governance communication was only discussed orally. D: A required quality review remains unfinished on the planned issuance date. Scope: Assume the applicable standards require the written communication and engagement quality review described. Evaluate required actions rather than legal liability or a future damages claim. Required: Action for finding A.",
+      "choices": [
+        {
+          "id": "aud-m1-l4-q7-a0",
+          "text": "Rely only on memory"
+        },
+        {
+          "id": "aud-m1-l4-q7-a1",
+          "text": "Document procedures, evidence, and the significant judgment"
+        },
+        {
+          "id": "aud-m1-l4-q7-a2",
+          "text": "Delete the estimate from the file"
+        },
+        {
+          "id": "aud-m1-l4-q7-a3",
+          "text": "Treat the checklist as conclusive"
+        }
+      ],
+      "correctChoiceId": "aud-m1-l4-q7-a1",
+      "explanation": "The file must support significant judgments and conclusions.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "aud",
+        "blueprintYear": 2026,
+        "areaId": "aud-I",
+        "groupId": "E-F-G",
+        "topicId": "aud-audit-documentation-quality",
+        "taskIds": [
+          "aud-audit-documentation-quality.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "AICPA auditing standards",
+            "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+          },
+          {
+            "title": "PCAOB standards",
+            "url": "https://pcaobus.org/oversight/standards"
+          }
+        ]
+      },
+      "familyId": "aud-m1-tbs4"
+    },
+    {
+      "id": "aud-m1-l4-q8",
+      "courseId": "aud",
+      "moduleId": 1,
+      "lessonId": "aud-m1-l4",
+      "topic": "Documentation, Governance Communication & Quality",
+      "prompt": "Complete a reviewer’s action matrix for a nonissuer audit. Review findings: A: A material estimate conclusion has no documented reasoning. B: A control failure could permit a material misstatement with a reasonable possibility. C: A required written governance communication was only discussed orally. D: A required quality review remains unfinished on the planned issuance date. Scope: Assume the applicable standards require the written communication and engagement quality review described. Evaluate required actions rather than legal liability or a future damages claim. Required: Classification considered for finding B.",
+      "choices": [
+        {
+          "id": "aud-m1-l4-q8-a0",
+          "text": "Automatically trivial"
+        },
+        {
+          "id": "aud-m1-l4-q8-a1",
+          "text": "Only a sampling error"
+        },
+        {
+          "id": "aud-m1-l4-q8-a2",
+          "text": "Material weakness"
+        },
+        {
+          "id": "aud-m1-l4-q8-a3",
+          "text": "No deficiency without an actual error"
+        }
+      ],
+      "correctChoiceId": "aud-m1-l4-q8-a2",
+      "explanation": "A reasonable possibility of an undetected material misstatement meets the material-weakness concept.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "aud",
+        "blueprintYear": 2026,
+        "areaId": "aud-I",
+        "groupId": "E-F-G",
+        "topicId": "aud-audit-documentation-quality",
+        "taskIds": [
+          "aud-audit-documentation-quality.task-2"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "AICPA auditing standards",
+            "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+          },
+          {
+            "title": "PCAOB standards",
+            "url": "https://pcaobus.org/oversight/standards"
+          }
+        ]
+      },
+      "familyId": "aud-m1-tbs4"
+    },
+    {
+      "id": "aud-m1-l4-q9",
+      "courseId": "aud",
+      "moduleId": 1,
+      "lessonId": "aud-m1-l4",
+      "topic": "Documentation, Governance Communication & Quality",
+      "prompt": "Complete a reviewer’s action matrix for a nonissuer audit. Review findings: A: A material estimate conclusion has no documented reasoning. B: A control failure could permit a material misstatement with a reasonable possibility. C: A required written governance communication was only discussed orally. D: A required quality review remains unfinished on the planned issuance date. Scope: Assume the applicable standards require the written communication and engagement quality review described. Evaluate required actions rather than legal liability or a future damages claim. Required: Action for finding C.",
+      "choices": [
+        {
+          "id": "aud-m1-l4-q9-a0",
+          "text": "Treat all oral discussion as sufficient"
+        },
+        {
+          "id": "aud-m1-l4-q9-a1",
+          "text": "Communicate only next year"
+        },
+        {
+          "id": "aud-m1-l4-q9-a2",
+          "text": "Disclose publicly instead"
+        },
+        {
+          "id": "aud-m1-l4-q9-a3",
+          "text": "Complete the required written communication"
+        }
+      ],
+      "correctChoiceId": "aud-m1-l4-q9-a3",
+      "explanation": "Oral discussion does not replace a required written communication.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "aud",
+        "blueprintYear": 2026,
+        "areaId": "aud-I",
+        "groupId": "E-F-G",
+        "topicId": "aud-audit-documentation-quality",
+        "taskIds": [
+          "aud-audit-documentation-quality.task-3"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "AICPA auditing standards",
+            "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+          },
+          {
+            "title": "PCAOB standards",
+            "url": "https://pcaobus.org/oversight/standards"
+          }
+        ]
+      },
+      "familyId": "aud-m1-tbs4"
+    },
+    {
+      "id": "aud-m1-l4-q10",
+      "courseId": "aud",
+      "moduleId": 1,
+      "lessonId": "aud-m1-l4",
+      "topic": "Documentation, Governance Communication & Quality",
+      "prompt": "Complete a reviewer’s action matrix for a nonissuer audit. Review findings: A: A material estimate conclusion has no documented reasoning. B: A control failure could permit a material misstatement with a reasonable possibility. C: A required written governance communication was only discussed orally. D: A required quality review remains unfinished on the planned issuance date. Scope: Assume the applicable standards require the written communication and engagement quality review described. Evaluate required actions rather than legal liability or a future damages claim. Required: Action for finding D.",
+      "choices": [
+        {
+          "id": "aud-m1-l4-q10-a0",
+          "text": "Finish required review and resolve issues before issuance"
+        },
+        {
+          "id": "aud-m1-l4-q10-a1",
+          "text": "Issue now and review later"
+        },
+        {
+          "id": "aud-m1-l4-q10-a2",
+          "text": "Assign the opinion to the client"
+        },
+        {
+          "id": "aud-m1-l4-q10-a3",
+          "text": "Omit the review from documentation"
+        }
+      ],
+      "correctChoiceId": "aud-m1-l4-q10-a0",
+      "explanation": "Required quality procedures must precede issuance.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "aud",
+        "blueprintYear": 2026,
+        "areaId": "aud-I",
+        "groupId": "E-F-G",
+        "topicId": "aud-audit-documentation-quality",
+        "taskIds": [
+          "aud-audit-documentation-quality.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "AICPA auditing standards",
+            "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+          },
+          {
+            "title": "PCAOB standards",
+            "url": "https://pcaobus.org/oversight/standards"
+          }
+        ]
+      },
+      "familyId": "aud-m1-tbs4"
+    }
+  ]
+}

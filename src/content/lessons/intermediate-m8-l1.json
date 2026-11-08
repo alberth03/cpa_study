@@ -1,0 +1,88 @@
+{
+  "id": "intermediate-m8-l1",
+  "courseId": "intermediate",
+  "moduleId": 8,
+  "number": 1,
+  "title": "Stockholders' Equity Fundamentals",
+  "description": "Understand the major components of stockholders' equity and how transactions affect them.",
+  "url": "/learn/intermediate/modules/8/lessons/1",
+  "html": "<h2>What is stockholders' equity?</h2> <p> Stockholders' equity represents the residual interest in a corporation's assets after deducting its liabilities. </p> <div class=\"formula-box\"> Assets − Liabilities = Stockholders' Equity </div> <h2>Major components</h2> <div class=\"key-points\"> <ul> <li>Common Stock</li> <li>Preferred Stock, when applicable</li> <li>Additional Paid-In Capital</li> <li>Retained Earnings</li> <li>Accumulated Other Comprehensive Income or Loss</li> <li>Treasury Stock</li> </ul> </div> <h2>Contributed capital</h2> <p> Contributed capital generally represents amounts invested by shareholders in exchange for shares. </p> <h2>Retained earnings</h2> <p> Retained earnings generally represents accumulated earnings of the corporation that have not been distributed to shareholders as dividends. </p> <div class=\"example-box\"> <h3>Simple retained earnings example</h3> <p> Beginning Retained Earnings = $100,000 </p> <p> Net Income = $30,000 </p> <p> Dividends = $8,000 </p> <div class=\"formula-box\"> Ending Retained Earnings = $100,000 + $30,000 − $8,000 = $122,000 </div> </div> <h2>Treasury stock</h2> <p> Treasury stock consists of a corporation's own shares that were issued and later reacquired. </p> <p> Treasury stock is generally presented as a reduction of stockholders' equity rather than as an asset. </p> <div class=\"key-points\"> <h3>Remember</h3> <p> Assets − Liabilities = Equity </p> <p> Net income generally increases retained earnings. </p> <p> Dividends generally reduce retained earnings. </p> <p> Treasury stock generally reduces total stockholders' equity. </p> </div>",
+  "quiz": {
+    "id": "intermediate-m8-l1-check",
+    "courseId": "intermediate",
+    "moduleId": 8,
+    "lessonId": "intermediate-m8-l1",
+    "topic": "General review",
+    "prompt": "Beginning retained earnings is $80,000, net income is $25,000 and dividends are $10,000. What is ending retained earnings?",
+    "choices": [
+      {
+        "id": "intermediate-m8-l1-check-a0",
+        "text": "$65,000"
+      },
+      {
+        "id": "intermediate-m8-l1-check-a1",
+        "text": "$95,000"
+      },
+      {
+        "id": "intermediate-m8-l1-check-a2",
+        "text": "$105,000"
+      },
+      {
+        "id": "intermediate-m8-l1-check-a3",
+        "text": "$115,000"
+      }
+    ],
+    "correctChoiceId": "intermediate-m8-l1-check-a1",
+    "explanation": "$80,000 + $25,000 − $10,000 = $95,000 ending retained earnings.",
+    "difficulty": "foundation",
+    "metadata": {
+      "section": "intermediate",
+      "blueprintYear": 2026,
+      "areaId": "intermediate-I",
+      "groupId": "module-8",
+      "topicId": "intermediate-stockholders-equity-fundamentals",
+      "taskIds": [
+        "intermediate-stockholders-equity-fundamentals.task-1",
+        "intermediate-stockholders-equity-fundamentals.task-2",
+        "intermediate-stockholders-equity-fundamentals.task-3"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "section": "intermediate",
+    "blueprintYear": 2026,
+    "areaId": "intermediate-I",
+    "groupId": "module-8",
+    "topicId": "intermediate-stockholders-equity-fundamentals",
+    "taskIds": [
+      "intermediate-stockholders-equity-fundamentals.task-1",
+      "intermediate-stockholders-equity-fundamentals.task-2",
+      "intermediate-stockholders-equity-fundamentals.task-3"
+    ],
+    "skill": "application",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      }
+    ]
+  },
+  "objectives": [
+    "Explain stockholders' equity fundamentals and its underlying principles.",
+    "Apply the topic to a financial-reporting scenario.",
+    "Evaluate common errors and their financial-statement effects."
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "id": "reg-m2-tbs2",
+  "courseId": "reg",
+  "moduleId": 2,
+  "number": 2,
+  "title": "Creditor-rights analysis",
+  "html": "<div class=\"course-intro-card\"><h2>Creditor-rights analysis</h2><p>Evaluate a secured-credit file and a subsequent bankruptcy event.</p></div><section class=\"quiz-card\"><h3>Required responses</h3><div class=\"tbs-question\"><label for=\"reg-m2-tbs2-f1\">Concept supported by value, debtor rights, and valid agreement</label><select id=\"reg-m2-tbs2-f1\"><option value=\"Attachment\">Attachment</option><option value=\"Automatic discharge\">Automatic discharge</option><option value=\"Tax exemption\">Tax exemption</option><option value=\"Audit assurance\">Audit assurance</option></select></div><div class=\"tbs-question\"><label for=\"reg-m2-tbs2-f2\">Ordinary priority under the given facts</label><select id=\"reg-m2-tbs2-f2\"><option value=\"Lender A\">Lender A</option><option value=\"Lender B\">Lender B</option><option value=\"Neither interest can attach\">Neither interest can attach</option><option value=\"Priority is decided only by loan size\">Priority is decided only by loan size</option></select></div><div class=\"tbs-question\"><label for=\"reg-m2-tbs2-f3\">Response to B’s proposed seizure</label><select id=\"reg-m2-tbs2-f3\"><option value=\"Evaluate the stay and obtain any necessary relief\">Evaluate the stay and obtain any necessary relief</option><option value=\"Seize automatically\">Seize automatically</option><option value=\"Ignore bankruptcy filings\">Ignore bankruptcy filings</option><option value=\"Destroy the financing statement\">Destroy the financing statement</option></select></div><div class=\"tbs-question\"><label for=\"reg-m2-tbs2-f4\">Correct the analyst’s statement</label><select id=\"reg-m2-tbs2-f4\"><option value=\"Discharge and lien treatment require separate statutory analysis\">Discharge and lien treatment require separate statutory analysis</option><option value=\"Every lien always disappears\">Every lien always disappears</option><option value=\"No debt can ever be discharged\">No debt can ever be discharged</option><option value=\"Only interest rates matter\">Only interest rates matter</option></select></div></section>",
+  "metadata": {
+    "section": "reg",
+    "blueprintYear": 2026,
+    "areaId": "reg-II",
+    "groupId": "C-D",
+    "topicId": "reg-secured-credit-bankruptcy",
+    "taskIds": [
+      "reg-secured-credit-bankruptcy.task-1",
+      "reg-secured-credit-bankruptcy.task-2",
+      "reg-secured-credit-bankruptcy.task-3"
+    ],
+    "skill": "analysis",
+    "validFrom": "2026-07-01",
+    "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      },
+      {
+        "title": "Internal Revenue Code",
+        "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+      },
+      {
+        "title": "IRS tax publications",
+        "url": "https://www.irs.gov/publications"
+      },
+      {
+        "title": "Circular 230",
+        "url": "https://www.irs.gov/tax-professionals/circular-230-tax-professionals"
+      }
+    ]
+  },
+  "difficulty": "advanced",
+  "fields": [
+    {
+      "id": "reg-m2-tbs2-f1",
+      "label": "Concept supported by value, debtor rights, and valid agreement",
+      "type": "select",
+      "options": [
+        {
+          "value": "Attachment",
+          "label": "Attachment"
+        },
+        {
+          "value": "Automatic discharge",
+          "label": "Automatic discharge"
+        },
+        {
+          "value": "Tax exemption",
+          "label": "Tax exemption"
+        },
+        {
+          "value": "Audit assurance",
+          "label": "Audit assurance"
+        }
+      ],
+      "correct": "Attachment",
+      "explanation": "These are core attachment elements under the assumed rules.",
+      "topicId": "reg-secured-credit-bankruptcy"
+    },
+    {
+      "id": "reg-m2-tbs2-f2",
+      "label": "Ordinary priority under the given facts",
+      "type": "select",
+      "options": [
+        {
+          "value": "Lender A",
+          "label": "Lender A"
+        },
+        {
+          "value": "Lender B",
+          "label": "Lender B"
+        },
+        {
+          "value": "Neither interest can attach",
+          "label": "Neither interest can attach"
+        },
+        {
+          "value": "Priority is decided only by loan size",
+          "label": "Priority is decided only by loan size"
+        }
+      ],
+      "correct": "Lender A",
+      "explanation": "A has the earlier qualifying filing/perfection date.",
+      "topicId": "reg-secured-credit-bankruptcy"
+    },
+    {
+      "id": "reg-m2-tbs2-f3",
+      "label": "Response to B’s proposed seizure",
+      "type": "select",
+      "options": [
+        {
+          "value": "Evaluate the stay and obtain any necessary relief",
+          "label": "Evaluate the stay and obtain any necessary relief"
+        },
+        {
+          "value": "Seize automatically",
+          "label": "Seize automatically"
+        },
+        {
+          "value": "Ignore bankruptcy filings",
+          "label": "Ignore bankruptcy filings"
+        },
+        {
+          "value": "Destroy the financing statement",
+          "label": "Destroy the financing statement"
+        }
+      ],
+      "correct": "Evaluate the stay and obtain any necessary relief",
+      "explanation": "The stay constrains collection activity.",
+      "topicId": "reg-secured-credit-bankruptcy"
+    },
+    {
+      "id": "reg-m2-tbs2-f4",
+      "label": "Correct the analyst’s statement",
+      "type": "select",
+      "options": [
+        {
+          "value": "Discharge and lien treatment require separate statutory analysis",
+          "label": "Discharge and lien treatment require separate statutory analysis"
+        },
+        {
+          "value": "Every lien always disappears",
+          "label": "Every lien always disappears"
+        },
+        {
+          "value": "No debt can ever be discharged",
+          "label": "No debt can ever be discharged"
+        },
+        {
+          "value": "Only interest rates matter",
+          "label": "Only interest rates matter"
+        }
+      ],
+      "correct": "Discharge and lien treatment require separate statutory analysis",
+      "explanation": "Bankruptcy protections and exceptions are not universal cancellation rules.",
+      "topicId": "reg-secured-credit-bankruptcy"
+    }
+  ],
+  "exhibits": [
+    {
+      "id": "reg-m2-tbs2-ex1",
+      "title": "Credit agreements",
+      "html": "<p>Both lenders gave value and obtained valid security agreements covering debtor-owned equipment. A filed and perfected on January 5; B filed and perfected on February 10. No priority exception applies.</p>"
+    },
+    {
+      "id": "reg-m2-tbs2-ex2",
+      "title": "Bankruptcy event",
+      "html": "<p>The debtor later files a petition that triggers an automatic stay. B proposes immediately seizing the equipment without evaluating relief or exceptions. A junior analyst states that discharge always removes every lien.</p>"
+    }
+  ],
+  "explanation": "<h3>Concept supported by value, debtor rights, and valid agreement</h3><p>These are core attachment elements under the assumed rules.</p><h3>Ordinary priority under the given facts</h3><p>A has the earlier qualifying filing/perfection date.</p><h3>Response to B’s proposed seizure</h3><p>The stay constrains collection activity.</p><h3>Correct the analyst’s statement</h3><p>Bankruptcy protections and exceptions are not universal cancellation rules.</p>"
+}

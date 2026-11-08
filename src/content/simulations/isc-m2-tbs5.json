@@ -1,0 +1,158 @@
+{
+  "id": "isc-m2-tbs5",
+  "courseId": "isc",
+  "moduleId": 2,
+  "number": 5,
+  "title": "Control design and effectiveness review",
+  "html": "<div class=\"course-intro-card\"><h2>Control design and effectiveness review</h2><p>Evaluate an organization’s security-control claims.</p></div><section class=\"quiz-card\"><h3>Required responses</h3><div class=\"tbs-question\"><label for=\"isc-m2-tbs5-f1\">Framework-mapping conclusion</label><select id=\"isc-m2-tbs5-f1\"><option value=\"Mapping alone does not prove operating effectiveness\">Mapping alone does not prove operating effectiveness</option><option value=\"Mapping guarantees effective operation\">Mapping guarantees effective operation</option><option value=\"Policies eliminate all incidents\">Policies eliminate all incidents</option><option value=\"No testing is ever needed\">No testing is ever needed</option></select></div><div class=\"tbs-question\"><label for=\"isc-m2-tbs5-f2\">Access-review design concern</label><select id=\"isc-m2-tbs5-f2\"><option value=\"Incomplete relevant population\">Incomplete relevant population</option><option value=\"Excessively complete review\">Excessively complete review</option><option value=\"Automatic least privilege\">Automatic least privilege</option><option value=\"No issue if done monthly\">No issue if done monthly</option></select></div><div class=\"tbs-question\"><label for=\"isc-m2-tbs5-f3\">Alert-response weakness</label><select id=\"isc-m2-tbs5-f3\"><option value=\"No defined investigation and escalation responsibility\">No defined investigation and escalation responsibility</option><option value=\"Guaranteed timely response\">Guaranteed timely response</option><option value=\"Only a storage-capacity issue\">Only a storage-capacity issue</option><option value=\"No risk because an alert exists\">No risk because an alert exists</option></select></div><div class=\"tbs-question\"><label for=\"isc-m2-tbs5-f4\">Appropriate exception treatment</label><select id=\"isc-m2-tbs5-f4\"><option value=\"Investigate and evaluate the exception\">Investigate and evaluate the exception</option><option value=\"Delete it\">Delete it</option><option value=\"Assume majority success resolves every concern\">Assume majority success resolves every concern</option><option value=\"Hide it from reviewers\">Hide it from reviewers</option></select></div></section>",
+  "metadata": {
+    "section": "isc",
+    "blueprintYear": 2026,
+    "areaId": "isc-II",
+    "groupId": "A-B-C",
+    "topicId": "isc-security-frameworks-controls",
+    "taskIds": [
+      "isc-security-frameworks-controls.task-1",
+      "isc-security-frameworks-controls.task-2",
+      "isc-security-frameworks-controls.task-3"
+    ],
+    "skill": "analysis",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      },
+      {
+        "title": "NIST Cybersecurity Framework",
+        "url": "https://www.nist.gov/cyberframework"
+      },
+      {
+        "title": "AICPA SOC resources",
+        "url": "https://www.aicpa-cima.com/resources/landing/system-and-organization-controls-soc-suite-of-services"
+      }
+    ]
+  },
+  "difficulty": "advanced",
+  "fields": [
+    {
+      "id": "isc-m2-tbs5-f1",
+      "label": "Framework-mapping conclusion",
+      "type": "select",
+      "options": [
+        {
+          "value": "Mapping alone does not prove operating effectiveness",
+          "label": "Mapping alone does not prove operating effectiveness"
+        },
+        {
+          "value": "Mapping guarantees effective operation",
+          "label": "Mapping guarantees effective operation"
+        },
+        {
+          "value": "Policies eliminate all incidents",
+          "label": "Policies eliminate all incidents"
+        },
+        {
+          "value": "No testing is ever needed",
+          "label": "No testing is ever needed"
+        }
+      ],
+      "correct": "Mapping alone does not prove operating effectiveness",
+      "explanation": "Framework alignment is an organizing step, not operating evidence.",
+      "topicId": "isc-security-frameworks-controls"
+    },
+    {
+      "id": "isc-m2-tbs5-f2",
+      "label": "Access-review design concern",
+      "type": "select",
+      "options": [
+        {
+          "value": "Incomplete relevant population",
+          "label": "Incomplete relevant population"
+        },
+        {
+          "value": "Excessively complete review",
+          "label": "Excessively complete review"
+        },
+        {
+          "value": "Automatic least privilege",
+          "label": "Automatic least privilege"
+        },
+        {
+          "value": "No issue if done monthly",
+          "label": "No issue if done monthly"
+        }
+      ],
+      "correct": "Incomplete relevant population",
+      "explanation": "Administrators are central to the privileged-access objective.",
+      "topicId": "isc-security-frameworks-controls"
+    },
+    {
+      "id": "isc-m2-tbs5-f3",
+      "label": "Alert-response weakness",
+      "type": "select",
+      "options": [
+        {
+          "value": "No defined investigation and escalation responsibility",
+          "label": "No defined investigation and escalation responsibility"
+        },
+        {
+          "value": "Guaranteed timely response",
+          "label": "Guaranteed timely response"
+        },
+        {
+          "value": "Only a storage-capacity issue",
+          "label": "Only a storage-capacity issue"
+        },
+        {
+          "value": "No risk because an alert exists",
+          "label": "No risk because an alert exists"
+        }
+      ],
+      "correct": "No defined investigation and escalation responsibility",
+      "explanation": "Detection needs an actionable response process.",
+      "topicId": "isc-security-frameworks-controls"
+    },
+    {
+      "id": "isc-m2-tbs5-f4",
+      "label": "Appropriate exception treatment",
+      "type": "select",
+      "options": [
+        {
+          "value": "Investigate and evaluate the exception",
+          "label": "Investigate and evaluate the exception"
+        },
+        {
+          "value": "Delete it",
+          "label": "Delete it"
+        },
+        {
+          "value": "Assume majority success resolves every concern",
+          "label": "Assume majority success resolves every concern"
+        },
+        {
+          "value": "Hide it from reviewers",
+          "label": "Hide it from reviewers"
+        }
+      ],
+      "correct": "Investigate and evaluate the exception",
+      "explanation": "Exceptions must remain part of the evidence evaluation.",
+      "topicId": "isc-security-frameworks-controls"
+    }
+  ],
+  "exhibits": [
+    {
+      "id": "isc-m2-tbs5-ex1",
+      "title": "Claims",
+      "html": "<p>Management maps policies to a framework and calls that proof of effectiveness. A monthly privileged-access review excludes administrators. A detective alert has no assigned responder. A sample exception is deleted because most items passed.</p>"
+    },
+    {
+      "id": "isc-m2-tbs5-ex2",
+      "title": "Evaluation approach",
+      "html": "<p>Connect control design and actual operation to specific risks, objectives, evidence, and exception follow-up.</p>"
+    }
+  ],
+  "explanation": "<h3>Framework-mapping conclusion</h3><p>Framework alignment is an organizing step, not operating evidence.</p><h3>Access-review design concern</h3><p>Administrators are central to the privileged-access objective.</p><h3>Alert-response weakness</h3><p>Detection needs an actionable response process.</p><h3>Appropriate exception treatment</h3><p>Exceptions must remain part of the evidence evaluation.</p>"
+}

@@ -1,0 +1,95 @@
+{
+  "id": "reg-m5-tbs1",
+  "courseId": "reg",
+  "moduleId": 5,
+  "number": 1,
+  "title": "Corporate return and distribution schedule",
+  "html": "<div class=\"course-intro-card\"><h2>Corporate return and distribution schedule</h2><p>Reconcile taxable income and a shareholder distribution under the supplied simplified assumptions.</p></div><section class=\"quiz-card\"><h3>Required responses</h3><div class=\"tbs-question\"><label for=\"reg-m5-tbs1-f1\">Corporate taxable income</label><input id=\"reg-m5-tbs1-f1\" type=\"text\"></div><div class=\"tbs-question\"><label for=\"reg-m5-tbs1-f2\">Tax before credits</label><input id=\"reg-m5-tbs1-f2\" type=\"text\"></div><div class=\"tbs-question\"><label for=\"reg-m5-tbs1-f3\">Dividend portion of the distribution</label><input id=\"reg-m5-tbs1-f3\" type=\"text\"></div><div class=\"tbs-question\"><label for=\"reg-m5-tbs1-f4\">Gain after dividend and basis recovery</label><input id=\"reg-m5-tbs1-f4\" type=\"text\"></div></section>",
+  "metadata": {
+    "section": "reg",
+    "blueprintYear": 2026,
+    "areaId": "reg-V",
+    "groupId": "A-B",
+    "topicId": "reg-entity-corporations",
+    "taskIds": [
+      "reg-entity-corporations.task-1",
+      "reg-entity-corporations.task-2",
+      "reg-entity-corporations.task-3"
+    ],
+    "skill": "analysis",
+    "validFrom": "2026-07-01",
+    "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      },
+      {
+        "title": "Internal Revenue Code",
+        "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+      },
+      {
+        "title": "IRS tax publications",
+        "url": "https://www.irs.gov/publications"
+      },
+      {
+        "title": "Circular 230",
+        "url": "https://www.irs.gov/tax-professionals/circular-230-tax-professionals"
+      }
+    ]
+  },
+  "difficulty": "advanced",
+  "fields": [
+    {
+      "id": "reg-m5-tbs1-f1",
+      "label": "Corporate taxable income",
+      "type": "number",
+      "options": [],
+      "correct": 470000,
+      "explanation": "$500,000 − $20,000 + $15,000 − $25,000 = $470,000.",
+      "topicId": "reg-entity-corporations"
+    },
+    {
+      "id": "reg-m5-tbs1-f2",
+      "label": "Tax before credits",
+      "type": "number",
+      "options": [],
+      "correct": 98700,
+      "explanation": "$470,000 × 21% = $98,700.",
+      "topicId": "reg-entity-corporations"
+    },
+    {
+      "id": "reg-m5-tbs1-f3",
+      "label": "Dividend portion of the distribution",
+      "type": "number",
+      "options": [],
+      "correct": 50000,
+      "explanation": "The distribution is a dividend to the extent of the stated earnings and profits.",
+      "topicId": "reg-entity-corporations"
+    },
+    {
+      "id": "reg-m5-tbs1-f4",
+      "label": "Gain after dividend and basis recovery",
+      "type": "number",
+      "options": [],
+      "correct": 10000,
+      "explanation": "$80,000 − $50,000 − $20,000 = $10,000.",
+      "topicId": "reg-entity-corporations"
+    }
+  ],
+  "exhibits": [
+    {
+      "id": "reg-m5-tbs1-ex1",
+      "title": "Corporate income",
+      "html": "<p>Book income $500,000 includes $20,000 tax-exempt interest and $15,000 nondeductible expenses. Additional allowed tax depreciation exceeds book depreciation by $25,000. No other differences apply. Use a 21% tax rate.</p>"
+    },
+    {
+      "id": "reg-m5-tbs1-ex2",
+      "title": "Distribution",
+      "html": "<p>A single cash distribution is $80,000. Applicable earnings and profits are $50,000; stock basis is $20,000. No special distribution rule applies.</p>"
+    }
+  ],
+  "explanation": "<h3>Corporate taxable income</h3><p>$500,000 − $20,000 + $15,000 − $25,000 = $470,000.</p><h3>Tax before credits</h3><p>$470,000 × 21% = $98,700.</p><h3>Dividend portion of the distribution</h3><p>The distribution is a dividend to the extent of the stated earnings and profits.</p><h3>Gain after dividend and basis recovery</h3><p>$80,000 − $50,000 − $20,000 = $10,000.</p>"
+}

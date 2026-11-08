@@ -1,0 +1,90 @@
+{
+  "id": "bar-m2-tbs2",
+  "courseId": "bar",
+  "moduleId": 2,
+  "number": 2,
+  "title": "Lease measurement review",
+  "html": "<div class=\"course-intro-card\"><h2>Lease measurement review</h2><p>Review the lessee’s commencement amounts and first-year liability schedule.</p></div><section class=\"quiz-card\"><h3>Required responses</h3><div class=\"tbs-question\"><label for=\"bar-m2-tbs2-f1\">Initial ROU asset</label><input id=\"bar-m2-tbs2-f1\" type=\"text\"></div><div class=\"tbs-question\"><label for=\"bar-m2-tbs2-f2\">First-year interest</label><input id=\"bar-m2-tbs2-f2\" type=\"text\"></div><div class=\"tbs-question\"><label for=\"bar-m2-tbs2-f3\">Principal reduction</label><input id=\"bar-m2-tbs2-f3\" type=\"text\"></div><div class=\"tbs-question\"><label for=\"bar-m2-tbs2-f4\">Ending lease liability</label><input id=\"bar-m2-tbs2-f4\" type=\"text\"></div></section>",
+  "metadata": {
+    "section": "bar",
+    "blueprintYear": 2026,
+    "areaId": "bar-II",
+    "groupId": "G",
+    "topicId": "bar-advanced-leases",
+    "taskIds": [
+      "bar-advanced-leases.task-1",
+      "bar-advanced-leases.task-2",
+      "bar-advanced-leases.task-3"
+    ],
+    "skill": "analysis",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      },
+      {
+        "title": "FASB accounting standards",
+        "url": "https://asc.fasb.org/"
+      },
+      {
+        "title": "GASB standards",
+        "url": "https://www.gasb.org/standards-and-implementation"
+      }
+    ]
+  },
+  "difficulty": "advanced",
+  "fields": [
+    {
+      "id": "bar-m2-tbs2-f1",
+      "label": "Initial ROU asset",
+      "type": "number",
+      "options": [],
+      "correct": 250000,
+      "explanation": "$240,000 + $12,000 + $4,000 − $6,000 = $250,000.",
+      "topicId": "bar-advanced-leases"
+    },
+    {
+      "id": "bar-m2-tbs2-f2",
+      "label": "First-year interest",
+      "type": "number",
+      "options": [],
+      "correct": 12000,
+      "explanation": "$240,000 × 5% = $12,000.",
+      "topicId": "bar-advanced-leases"
+    },
+    {
+      "id": "bar-m2-tbs2-f3",
+      "label": "Principal reduction",
+      "type": "number",
+      "options": [],
+      "correct": 48000,
+      "explanation": "$60,000 payment − $12,000 interest = $48,000.",
+      "topicId": "bar-advanced-leases"
+    },
+    {
+      "id": "bar-m2-tbs2-f4",
+      "label": "Ending lease liability",
+      "type": "number",
+      "options": [],
+      "correct": 192000,
+      "explanation": "$240,000 − $48,000 = $192,000.",
+      "topicId": "bar-advanced-leases"
+    }
+  ],
+  "exhibits": [
+    {
+      "id": "bar-m2-tbs2-ex1",
+      "title": "Commencement",
+      "html": "<p>Present value of unpaid included payments $240,000. Prepayment $12,000; qualifying initial direct costs $4,000; lease incentive $6,000.</p>"
+    },
+    {
+      "id": "bar-m2-tbs2-ex2",
+      "title": "First year",
+      "html": "<p>Interest rate 5%; year-end cash payment $60,000. No modification or remeasurement applies.</p>"
+    }
+  ],
+  "explanation": "<h3>Initial ROU asset</h3><p>$240,000 + $12,000 + $4,000 − $6,000 = $250,000.</p><h3>First-year interest</h3><p>$240,000 × 5% = $12,000.</p><h3>Principal reduction</h3><p>$60,000 payment − $12,000 interest = $48,000.</p><h3>Ending lease liability</h3><p>$240,000 − $48,000 = $192,000.</p>"
+}

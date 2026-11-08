@@ -1,0 +1,88 @@
+{
+  "id": "intermediate-m9-l3",
+  "courseId": "intermediate",
+  "moduleId": 9,
+  "number": 3,
+  "title": "Deferred Tax Assets & Liabilities",
+  "description": "Understand how temporary differences can create future taxable or deductible amounts.",
+  "url": "/learn/intermediate/modules/9/lessons/3",
+  "html": "<h2>Future tax consequences</h2> <p> Temporary differences can create future taxable amounts or future deductible amounts. </p> <p> This leads us to deferred tax liabilities and deferred tax assets. </p> <h2>Deferred Tax Liability</h2> <div class=\"key-points\"> <p> A taxable temporary difference generally creates a <strong>Deferred Tax Liability (DTL)</strong>. </p> <p> Think: <strong>more tax expected in a future period</strong> because of the reversal. </p> </div> <h2>Deferred Tax Asset</h2> <div class=\"key-points\"> <p> A deductible temporary difference generally creates a <strong>Deferred Tax Asset (DTA)</strong>. </p> <p> Think: <strong>future tax deduction or tax benefit</strong> associated with the reversal. </p> </div> <h2>Basic calculation</h2> <p> For our introductory examples, assume a single enacted tax rate applies when the temporary difference reverses. </p> <div class=\"formula-box\"> Deferred Tax Amount = Temporary Difference × Applicable Enacted Tax Rate </div> <h2>DTL example</h2> <p> Assume a taxable temporary difference is <strong>$50,000</strong>. </p> <p> Assume the enacted tax rate expected to apply when it reverses is <strong>25%</strong>. </p> <div class=\"formula-box\"> $50,000 × 25% = $12,500 DTL </div> <h2>DTA example</h2> <p> Assume a deductible temporary difference is <strong>$40,000</strong>. </p> <p> Assume the applicable enacted tax rate is <strong>25%</strong>. </p> <div class=\"formula-box\"> $40,000 × 25% = $10,000 DTA </div> <div class=\"comparison-grid\"> <div class=\"comparison-card\"> <h3>DTL</h3> <p>Taxable temporary difference</p> <p>Future taxable amount</p> </div> <div class=\"comparison-card\"> <h3>DTA</h3> <p>Deductible temporary difference</p> <p>Future deductible amount</p> </div> </div> <h2>Important caution</h2> <p> Deferred tax accounting can become considerably more complex than simply multiplying one difference by one rate. </p> <p> At CPA level, we will work with tax bases, multiple temporary differences, changes in enacted tax rates and the realizability of deferred tax assets. </p> <div class=\"key-points\"> <h3>For now memorize the direction</h3> <p> Taxable temporary difference → DTL </p> <p> Deductible temporary difference → DTA </p> </div>",
+  "quiz": {
+    "id": "intermediate-m9-l3-check",
+    "courseId": "intermediate",
+    "moduleId": 9,
+    "lessonId": "intermediate-m9-l3",
+    "topic": "General review",
+    "prompt": "A deductible temporary difference is $80,000 and the applicable enacted tax rate is 25%. Ignoring other considerations, what deferred tax amount results?",
+    "choices": [
+      {
+        "id": "intermediate-m9-l3-check-a0",
+        "text": "$20,000 Deferred Tax Asset"
+      },
+      {
+        "id": "intermediate-m9-l3-check-a1",
+        "text": "$20,000 Deferred Tax Liability"
+      },
+      {
+        "id": "intermediate-m9-l3-check-a2",
+        "text": "$80,000 Deferred Tax Asset"
+      },
+      {
+        "id": "intermediate-m9-l3-check-a3",
+        "text": "$100,000 Deferred Tax Liability"
+      }
+    ],
+    "correctChoiceId": "intermediate-m9-l3-check-a0",
+    "explanation": "$80,000 × 25% = $20,000. A deductible temporary difference generally gives rise to a deferred tax asset.",
+    "difficulty": "foundation",
+    "metadata": {
+      "section": "intermediate",
+      "blueprintYear": 2026,
+      "areaId": "intermediate-I",
+      "groupId": "module-9",
+      "topicId": "intermediate-deferred-tax-assets-liabilities",
+      "taskIds": [
+        "intermediate-deferred-tax-assets-liabilities.task-1",
+        "intermediate-deferred-tax-assets-liabilities.task-2",
+        "intermediate-deferred-tax-assets-liabilities.task-3"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "section": "intermediate",
+    "blueprintYear": 2026,
+    "areaId": "intermediate-I",
+    "groupId": "module-9",
+    "topicId": "intermediate-deferred-tax-assets-liabilities",
+    "taskIds": [
+      "intermediate-deferred-tax-assets-liabilities.task-1",
+      "intermediate-deferred-tax-assets-liabilities.task-2",
+      "intermediate-deferred-tax-assets-liabilities.task-3"
+    ],
+    "skill": "application",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      }
+    ]
+  },
+  "objectives": [
+    "Explain deferred tax assets & liabilities and its underlying principles.",
+    "Apply the topic to a financial-reporting scenario.",
+    "Evaluate common errors and their financial-statement effects."
+  ]
+}

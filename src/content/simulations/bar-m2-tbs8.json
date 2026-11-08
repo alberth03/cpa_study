@@ -1,0 +1,90 @@
+{
+  "id": "bar-m2-tbs8",
+  "courseId": "bar",
+  "moduleId": 2,
+  "number": 8,
+  "title": "Segment coverage and plan reporting",
+  "html": "<div class=\"course-intro-card\"><h2>Segment coverage and plan reporting</h2><p>Complete a segment coverage check and an independent plan net-asset schedule.</p></div><section class=\"quiz-card\"><h3>Required responses</h3><div class=\"tbs-question\"><label for=\"bar-m2-tbs8-f1\">Required external revenue coverage, in millions</label><input id=\"bar-m2-tbs8-f1\" type=\"text\"></div><div class=\"tbs-question\"><label for=\"bar-m2-tbs8-f2\">Additional required coverage, in millions</label><input id=\"bar-m2-tbs8-f2\" type=\"text\"></div><div class=\"tbs-question\"><label for=\"bar-m2-tbs8-f3\">Plan additions from contributions and return</label><input id=\"bar-m2-tbs8-f3\" type=\"text\"></div><div class=\"tbs-question\"><label for=\"bar-m2-tbs8-f4\">Ending plan net assets</label><input id=\"bar-m2-tbs8-f4\" type=\"text\"></div></section>",
+  "metadata": {
+    "section": "bar",
+    "blueprintYear": 2026,
+    "areaId": "bar-II",
+    "groupId": "H-I",
+    "topicId": "bar-segments-benefit-plans",
+    "taskIds": [
+      "bar-segments-benefit-plans.task-1",
+      "bar-segments-benefit-plans.task-2",
+      "bar-segments-benefit-plans.task-3"
+    ],
+    "skill": "analysis",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      },
+      {
+        "title": "FASB accounting standards",
+        "url": "https://asc.fasb.org/"
+      },
+      {
+        "title": "GASB standards",
+        "url": "https://www.gasb.org/standards-and-implementation"
+      }
+    ]
+  },
+  "difficulty": "advanced",
+  "fields": [
+    {
+      "id": "bar-m2-tbs8-f1",
+      "label": "Required external revenue coverage, in millions",
+      "type": "number",
+      "options": [],
+      "correct": 600,
+      "explanation": "75% × $800 million = $600 million.",
+      "topicId": "bar-segments-benefit-plans"
+    },
+    {
+      "id": "bar-m2-tbs8-f2",
+      "label": "Additional required coverage, in millions",
+      "type": "number",
+      "options": [],
+      "correct": 80,
+      "explanation": "$600 million − $520 million = $80 million.",
+      "topicId": "bar-segments-benefit-plans"
+    },
+    {
+      "id": "bar-m2-tbs8-f3",
+      "label": "Plan additions from contributions and return",
+      "type": "number",
+      "options": [],
+      "correct": 400000,
+      "explanation": "$300,000 + $100,000 = $400,000.",
+      "topicId": "bar-segments-benefit-plans"
+    },
+    {
+      "id": "bar-m2-tbs8-f4",
+      "label": "Ending plan net assets",
+      "type": "number",
+      "options": [],
+      "correct": 2130000,
+      "explanation": "$2,000,000 + $400,000 − $250,000 − $20,000 = $2,130,000.",
+      "topicId": "bar-segments-benefit-plans"
+    }
+  ],
+  "exhibits": [
+    {
+      "id": "bar-m2-tbs8-ex1",
+      "title": "Segment information",
+      "html": "<p>Total external revenue $800 million; current reportable segments cover $520 million. Apply a supplied 75% external-revenue coverage requirement.</p>"
+    },
+    {
+      "id": "bar-m2-tbs8-ex2",
+      "title": "Benefit plan",
+      "html": "<p>Beginning net assets $2,000,000; contributions $300,000; investment return $100,000; benefits $250,000; administration $20,000.</p>"
+    }
+  ],
+  "explanation": "<h3>Required external revenue coverage, in millions</h3><p>75% × $800 million = $600 million.</p><h3>Additional required coverage, in millions</h3><p>$600 million − $520 million = $80 million.</p><h3>Plan additions from contributions and return</h3><p>$300,000 + $100,000 = $400,000.</p><h3>Ending plan net assets</h3><p>$2,000,000 + $400,000 − $250,000 − $20,000 = $2,130,000.</p>"
+}

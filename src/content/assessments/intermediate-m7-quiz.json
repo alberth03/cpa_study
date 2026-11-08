@@ -1,0 +1,491 @@
+{
+  "id": "intermediate-m7-quiz",
+  "title": "Intermediate Module 7 Quiz",
+  "courseId": "intermediate",
+  "moduleId": 7,
+  "selection": "all",
+  "feedback": "immediate",
+  "passPercent": 80,
+  "questions": [
+    {
+      "id": "intermediate-m7-q1",
+      "courseId": "intermediate",
+      "moduleId": 7,
+      "topic": "Lease Fundamentals",
+      "prompt": "From a lessee's perspective, what does a right-of-use asset generally represent?",
+      "choices": [
+        {
+          "id": "intermediate-m7-q1-a0",
+          "text": "Ownership of every leased asset"
+        },
+        {
+          "id": "intermediate-m7-q1-a1",
+          "text": "The lessee's right to use the underlying asset during the lease term"
+        },
+        {
+          "id": "intermediate-m7-q1-a2",
+          "text": "The obligation to make lease payments"
+        },
+        {
+          "id": "intermediate-m7-q1-a3",
+          "text": "Revenue earned from the lease"
+        }
+      ],
+      "correctChoiceId": "intermediate-m7-q1-a1",
+      "explanation": "The ROU asset represents the lessee's right to use the underlying asset during the lease term.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "intermediate",
+        "blueprintYear": 2026,
+        "areaId": "intermediate-I",
+        "groupId": "7",
+        "topicId": "intermediate-intermediate-general",
+        "taskIds": [
+          "intermediate-intermediate-general.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "intermediate-m7-q2",
+      "courseId": "intermediate",
+      "moduleId": 7,
+      "topic": "Lease Fundamentals",
+      "prompt": "What does a lease liability generally represent for a lessee?",
+      "choices": [
+        {
+          "id": "intermediate-m7-q2-a0",
+          "text": "The obligation to make lease payments"
+        },
+        {
+          "id": "intermediate-m7-q2-a1",
+          "text": "The fair value of the lessee"
+        },
+        {
+          "id": "intermediate-m7-q2-a2",
+          "text": "Accumulated depreciation"
+        },
+        {
+          "id": "intermediate-m7-q2-a3",
+          "text": "Revenue owed by customers"
+        }
+      ],
+      "correctChoiceId": "intermediate-m7-q2-a0",
+      "explanation": "The lease liability represents the lessee's obligation associated with its lease payments.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "intermediate",
+        "blueprintYear": 2026,
+        "areaId": "intermediate-I",
+        "groupId": "7",
+        "topicId": "intermediate-intermediate-general",
+        "taskIds": [
+          "intermediate-intermediate-general.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "intermediate-m7-q3",
+      "courseId": "intermediate",
+      "moduleId": 7,
+      "topic": "Lease Classification",
+      "prompt": "Which fact is an indicator of finance lease classification for a lessee?",
+      "choices": [
+        {
+          "id": "intermediate-m7-q3-a0",
+          "text": "The lease transfers ownership of the underlying asset to the lessee by the end of the lease term"
+        },
+        {
+          "id": "intermediate-m7-q3-a1",
+          "text": "The lessee pays ordinary utility costs"
+        },
+        {
+          "id": "intermediate-m7-q3-a2",
+          "text": "The asset has an alternative use to the lessor"
+        },
+        {
+          "id": "intermediate-m7-q3-a3",
+          "text": "The lease has no payment requirements"
+        }
+      ],
+      "correctChoiceId": "intermediate-m7-q3-a0",
+      "explanation": "Transfer of ownership by the end of the lease term is one of the finance lease classification criteria.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "intermediate",
+        "blueprintYear": 2026,
+        "areaId": "intermediate-I",
+        "groupId": "7",
+        "topicId": "intermediate-intermediate-general",
+        "taskIds": [
+          "intermediate-intermediate-general.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "intermediate-m7-q4",
+      "courseId": "intermediate",
+      "moduleId": 7,
+      "topic": "Lease Classification",
+      "prompt": "If none of the finance lease classification criteria are met, a lessee generally classifies the lease as:",
+      "choices": [
+        {
+          "id": "intermediate-m7-q4-a0",
+          "text": "A sales-type lease"
+        },
+        {
+          "id": "intermediate-m7-q4-a1",
+          "text": "An operating lease"
+        },
+        {
+          "id": "intermediate-m7-q4-a2",
+          "text": "Accounts payable"
+        },
+        {
+          "id": "intermediate-m7-q4-a3",
+          "text": "Unearned revenue"
+        }
+      ],
+      "correctChoiceId": "intermediate-m7-q4-a1",
+      "explanation": "For a lessee, a lease that does not meet any finance lease classification criterion is generally classified as an operating lease.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "intermediate",
+        "blueprintYear": 2026,
+        "areaId": "intermediate-I",
+        "groupId": "7",
+        "topicId": "intermediate-intermediate-general",
+        "taskIds": [
+          "intermediate-intermediate-general.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "intermediate-m7-q5",
+      "courseId": "intermediate",
+      "moduleId": 7,
+      "topic": "Initial Measurement",
+      "prompt": "A lease requires a single payment of $31,500 one year from today. The applicable annual discount rate is 5%. What is the present value?",
+      "choices": [
+        {
+          "id": "intermediate-m7-q5-a0",
+          "text": "$30,000"
+        },
+        {
+          "id": "intermediate-m7-q5-a1",
+          "text": "$31,500"
+        },
+        {
+          "id": "intermediate-m7-q5-a2",
+          "text": "$33,075"
+        },
+        {
+          "id": "intermediate-m7-q5-a3",
+          "text": "$29,925"
+        }
+      ],
+      "correctChoiceId": "intermediate-m7-q5-a0",
+      "explanation": "$31,500 ÷ 1.05 = $30,000.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "intermediate",
+        "blueprintYear": 2026,
+        "areaId": "intermediate-I",
+        "groupId": "7",
+        "topicId": "intermediate-intermediate-general",
+        "taskIds": [
+          "intermediate-intermediate-general.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "intermediate-m7-q6",
+      "courseId": "intermediate",
+      "moduleId": 7,
+      "topic": "Initial Measurement",
+      "prompt": "Which statement about the initial ROU asset and lease liability is most accurate?",
+      "choices": [
+        {
+          "id": "intermediate-m7-q6-a0",
+          "text": "They must always be exactly equal"
+        },
+        {
+          "id": "intermediate-m7-q6-a1",
+          "text": "The ROU asset can never exceed the liability"
+        },
+        {
+          "id": "intermediate-m7-q6-a2",
+          "text": "The lease liability is based on the present value of applicable unpaid lease payments, while the ROU asset may require additional adjustments"
+        },
+        {
+          "id": "intermediate-m7-q6-a3",
+          "text": "The ROU asset is always the fair value of the underlying asset"
+        }
+      ],
+      "correctChoiceId": "intermediate-m7-q6-a2",
+      "explanation": "The initial ROU asset begins with the lease liability measurement but may be adjusted for items such as certain prepayments, incentives and initial direct costs.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "intermediate",
+        "blueprintYear": 2026,
+        "areaId": "intermediate-I",
+        "groupId": "7",
+        "topicId": "intermediate-intermediate-general",
+        "taskIds": [
+          "intermediate-intermediate-general.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "intermediate-m7-q7",
+      "courseId": "intermediate",
+      "moduleId": 7,
+      "topic": "Finance Lease",
+      "prompt": "A finance lease has a beginning liability of $100,000, an annual discount rate of 6%, and a $25,000 year-end payment. What amount of the payment reduces principal?",
+      "choices": [
+        {
+          "id": "intermediate-m7-q7-a0",
+          "text": "$6,000"
+        },
+        {
+          "id": "intermediate-m7-q7-a1",
+          "text": "$19,000"
+        },
+        {
+          "id": "intermediate-m7-q7-a2",
+          "text": "$25,000"
+        },
+        {
+          "id": "intermediate-m7-q7-a3",
+          "text": "$31,000"
+        }
+      ],
+      "correctChoiceId": "intermediate-m7-q7-a1",
+      "explanation": "Interest = $100,000 × 6% = $6,000. Principal reduction = $25,000 − $6,000 = $19,000.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "intermediate",
+        "blueprintYear": 2026,
+        "areaId": "intermediate-I",
+        "groupId": "7",
+        "topicId": "intermediate-intermediate-general",
+        "taskIds": [
+          "intermediate-intermediate-general.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "intermediate-m7-q8",
+      "courseId": "intermediate",
+      "moduleId": 7,
+      "topic": "Finance Lease",
+      "prompt": "Using the same lease — beginning liability $100,000, 6% rate and $25,000 year-end payment — what is the ending lease liability?",
+      "choices": [
+        {
+          "id": "intermediate-m7-q8-a0",
+          "text": "$75,000"
+        },
+        {
+          "id": "intermediate-m7-q8-a1",
+          "text": "$81,000"
+        },
+        {
+          "id": "intermediate-m7-q8-a2",
+          "text": "$94,000"
+        },
+        {
+          "id": "intermediate-m7-q8-a3",
+          "text": "$106,000"
+        }
+      ],
+      "correctChoiceId": "intermediate-m7-q8-a1",
+      "explanation": "Beginning liability $100,000 + $6,000 interest − $25,000 payment = $81,000 ending liability.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "intermediate",
+        "blueprintYear": 2026,
+        "areaId": "intermediate-I",
+        "groupId": "7",
+        "topicId": "intermediate-intermediate-general",
+        "taskIds": [
+          "intermediate-intermediate-general.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "intermediate-m7-q9",
+      "courseId": "intermediate",
+      "moduleId": 7,
+      "topic": "Operating Lease",
+      "prompt": "An operating lease liability begins at $80,000. The annual discount rate is 5%, and a $20,000 payment is made at year-end. What is the ending liability?",
+      "choices": [
+        {
+          "id": "intermediate-m7-q9-a0",
+          "text": "$60,000"
+        },
+        {
+          "id": "intermediate-m7-q9-a1",
+          "text": "$64,000"
+        },
+        {
+          "id": "intermediate-m7-q9-a2",
+          "text": "$76,000"
+        },
+        {
+          "id": "intermediate-m7-q9-a3",
+          "text": "$84,000"
+        }
+      ],
+      "correctChoiceId": "intermediate-m7-q9-a1",
+      "explanation": "Interest accretion = $80,000 × 5% = $4,000. Ending liability = $80,000 + $4,000 − $20,000 = $64,000.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "intermediate",
+        "blueprintYear": 2026,
+        "areaId": "intermediate-I",
+        "groupId": "7",
+        "topicId": "intermediate-intermediate-general",
+        "taskIds": [
+          "intermediate-intermediate-general.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "intermediate-m7-q10",
+      "courseId": "intermediate",
+      "moduleId": 7,
+      "topic": "Finance vs Operating",
+      "prompt": "Which statement best describes the expense pattern taught for lessee finance and operating leases?",
+      "choices": [
+        {
+          "id": "intermediate-m7-q10-a0",
+          "text": "Neither type produces expense"
+        },
+        {
+          "id": "intermediate-m7-q10-a1",
+          "text": "Finance leases generally recognize interest and ROU asset amortization separately, while operating leases generally produce a single lease cost"
+        },
+        {
+          "id": "intermediate-m7-q10-a2",
+          "text": "Operating leases recognize only interest expense"
+        },
+        {
+          "id": "intermediate-m7-q10-a3",
+          "text": "Finance and operating leases always have identical expense presentation"
+        }
+      ],
+      "correctChoiceId": "intermediate-m7-q10-a1",
+      "explanation": "Finance leases generally recognize interest on the liability and amortization of the ROU asset separately. Operating leases generally recognize a single lease cost.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "intermediate",
+        "blueprintYear": 2026,
+        "areaId": "intermediate-I",
+        "groupId": "7",
+        "topicId": "intermediate-intermediate-general",
+        "taskIds": [
+          "intermediate-intermediate-general.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    }
+  ]
+}

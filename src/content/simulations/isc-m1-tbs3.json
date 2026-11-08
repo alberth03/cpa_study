@@ -1,0 +1,107 @@
+{
+  "id": "isc-m1-tbs3",
+  "courseId": "isc",
+  "moduleId": 1,
+  "number": 3,
+  "title": "Data extraction quality check",
+  "html": "<div class=\"course-intro-card\"><h2>Data extraction quality check</h2><p>Evaluate a reporting extract before using it for financial analysis.</p></div><section class=\"quiz-card\"><h3>Required responses</h3><div class=\"tbs-question\"><label for=\"isc-m1-tbs3-f1\">Number of source invoices missing before the join</label><input id=\"isc-m1-tbs3-f1\" type=\"text\"></div><div class=\"tbs-question\"><label for=\"isc-m1-tbs3-f2\">Difference from the source total before the join</label><input id=\"isc-m1-tbs3-f2\" type=\"text\"></div><div class=\"tbs-question\"><label for=\"isc-m1-tbs3-f3\">Additional overstatement caused by the duplicate invoice</label><input id=\"isc-m1-tbs3-f3\" type=\"text\"></div><div class=\"tbs-question\"><label for=\"isc-m1-tbs3-f4\">Required remediation</label><select id=\"isc-m1-tbs3-f4\"><option value=\"Correct joins and filters and reconcile counts and totals\">Correct joins and filters and reconcile counts and totals</option><option value=\"Accept the chart as reliable\">Accept the chart as reliable</option><option value=\"Ignore unmatched records\">Ignore unmatched records</option><option value=\"Assume all differences cancel\">Assume all differences cancel</option></select></div></section>",
+  "metadata": {
+    "section": "isc",
+    "blueprintYear": 2026,
+    "areaId": "isc-I",
+    "groupId": "B",
+    "topicId": "isc-data-management-sql",
+    "taskIds": [
+      "isc-data-management-sql.task-1",
+      "isc-data-management-sql.task-2",
+      "isc-data-management-sql.task-3"
+    ],
+    "skill": "analysis",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      },
+      {
+        "title": "NIST Cybersecurity Framework",
+        "url": "https://www.nist.gov/cyberframework"
+      },
+      {
+        "title": "AICPA SOC resources",
+        "url": "https://www.aicpa-cima.com/resources/landing/system-and-organization-controls-soc-suite-of-services"
+      }
+    ]
+  },
+  "difficulty": "advanced",
+  "fields": [
+    {
+      "id": "isc-m1-tbs3-f1",
+      "label": "Number of source invoices missing before the join",
+      "type": "number",
+      "options": [],
+      "correct": 50,
+      "explanation": "1,000 − 950 = 50 invoices.",
+      "topicId": "isc-data-management-sql"
+    },
+    {
+      "id": "isc-m1-tbs3-f2",
+      "label": "Difference from the source total before the join",
+      "type": "number",
+      "options": [],
+      "correct": 25000,
+      "explanation": "$500,000 − $475,000 = $25,000.",
+      "topicId": "isc-data-management-sql"
+    },
+    {
+      "id": "isc-m1-tbs3-f3",
+      "label": "Additional overstatement caused by the duplicate invoice",
+      "type": "number",
+      "options": [],
+      "correct": 2000,
+      "explanation": "One extra occurrence adds $2,000.",
+      "topicId": "isc-data-management-sql"
+    },
+    {
+      "id": "isc-m1-tbs3-f4",
+      "label": "Required remediation",
+      "type": "select",
+      "options": [
+        {
+          "value": "Correct joins and filters and reconcile counts and totals",
+          "label": "Correct joins and filters and reconcile counts and totals"
+        },
+        {
+          "value": "Accept the chart as reliable",
+          "label": "Accept the chart as reliable"
+        },
+        {
+          "value": "Ignore unmatched records",
+          "label": "Ignore unmatched records"
+        },
+        {
+          "value": "Assume all differences cancel",
+          "label": "Assume all differences cancel"
+        }
+      ],
+      "correct": "Correct joins and filters and reconcile counts and totals",
+      "explanation": "Both omitted and duplicated records must be addressed.",
+      "topicId": "isc-data-management-sql"
+    }
+  ],
+  "exhibits": [
+    {
+      "id": "isc-m1-tbs3-ex1",
+      "title": "Source and output",
+      "html": "<p>The source has 1,000 invoices totaling $500,000. The extract has 950 unique invoice IDs totaling $475,000 before a join. A customer-address join duplicates one $2,000 invoice.</p>"
+    },
+    {
+      "id": "isc-m1-tbs3-ex2",
+      "title": "Query review",
+      "html": "<p>An inner join omits customers without an address, and the date filter excludes the last day of the period.</p>"
+    }
+  ],
+  "explanation": "<h3>Number of source invoices missing before the join</h3><p>1,000 − 950 = 50 invoices.</p><h3>Difference from the source total before the join</h3><p>$500,000 − $475,000 = $25,000.</p><h3>Additional overstatement caused by the duplicate invoice</h3><p>One extra occurrence adds $2,000.</p><h3>Required remediation</h3><p>Both omitted and duplicated records must be addressed.</p>"
+}

@@ -1,0 +1,113 @@
+{
+  "id": "reg-m2-l1",
+  "courseId": "reg",
+  "moduleId": 2,
+  "number": 1,
+  "title": "Contracts, Agency, Performance & Remedies",
+  "description": "Identify contract formation and enforceability issues.",
+  "url": "/learn/reg/modules/2/lessons/1",
+  "metadata": {
+    "section": "reg",
+    "blueprintYear": 2026,
+    "areaId": "reg-II",
+    "groupId": "A-B",
+    "topicId": "reg-contracts-agency",
+    "taskIds": [
+      "reg-contracts-agency.task-1",
+      "reg-contracts-agency.task-2",
+      "reg-contracts-agency.task-3"
+    ],
+    "skill": "application",
+    "validFrom": "2026-07-01",
+    "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      },
+      {
+        "title": "Internal Revenue Code",
+        "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+      },
+      {
+        "title": "IRS tax publications",
+        "url": "https://www.irs.gov/publications"
+      },
+      {
+        "title": "Circular 230",
+        "url": "https://www.irs.gov/tax-professionals/circular-230-tax-professionals"
+      }
+    ]
+  },
+  "html": "<h2>Learning objectives</h2><ul><li>Identify contract formation and enforceability issues.</li><li>Distinguish actual authority, apparent authority, and ratification.</li><li>Apply breach, discharge, and remedy principles.</li></ul><h2>Understand the concepts</h2><p>A contract generally requires an offer, acceptance, consideration, and parties with capacity, with a lawful purpose. The governing law matters: common law and the UCC rules for sales of goods differ in important respects. A writing may be required by the applicable statute of frauds, subject to exceptions. For UCC questions, identify whether the parties are merchants and apply the jurisdictional assumptions supplied.</p><p>Actual authority comes from the principal’s manifestations to the agent. Apparent authority arises from the principal’s manifestations to a third party that reasonably lead it to believe the agent is authorized. An agent’s unsupported claim cannot create apparent authority alone. Ratification can bind the principal to a previously unauthorized act when its requirements, including appropriate knowledge and acceptance, are satisfied.</p><p>Performance can discharge obligations, as can agreement or operation of law in appropriate circumstances. A material breach may excuse the other party’s remaining performance. Remedies aim to protect the legally recognized interest, often expectation damages, subject to causation, foreseeability, reasonable certainty, and mitigation. Specific performance is more likely when money is inadequate, such as unique property; it is not the routine remedy for every service contract.</p><p>An agent owes duties such as loyalty and reasonable care to the principal. Contract liability depends on authority and whether the principal is disclosed; tort liability depends on facts such as the actor, employment relationship, and scope of employment. Do not assume that using the word contractor resolves every legal classification.</p><div class=\"example-box\"><h3>A purchasing agent and a principal’s conduct</h3><p>A company repeatedly tells suppliers that its purchasing manager may order ordinary inventory. It privately limits the manager to $10,000, but never informs a supplier that reasonably relies on the company’s prior manifestations.</p><ol><li>Private instructions define actual authority between principal and agent.</li><li>The supplier may rely on apparent authority created by the principal’s manifestations.</li><li>Evaluate the full facts and applicable law rather than treating an undisclosed internal limit as automatically binding on the supplier.</li></ol></div><div class=\"key-points\"><h3>Common mistakes to avoid</h3><ul><li>An agent cannot create apparent authority solely by claiming it.</li><li>Contract formation and enforceability are distinct inquiries.</li><li>Mitigation does not require unreasonable efforts or accepting every substitute.</li></ul></div><h2>Apply and connect</h2><p>After solving the worked case, explain which facts determine the result and how a changed assumption would change your conclusion. Use the module questions to test fresh applications, then complete the related simulation before reviewing its solution.</p>",
+  "objectives": [
+    "Identify contract formation and enforceability issues.",
+    "Distinguish actual authority, apparent authority, and ratification.",
+    "Apply breach, discharge, and remedy principles."
+  ],
+  "quiz": {
+    "id": "reg-m2-l1-q1",
+    "courseId": "reg",
+    "moduleId": 2,
+    "lessonId": "reg-m2-l1",
+    "topic": "Contracts, Agency, Performance & Remedies",
+    "prompt": "Apparent authority primarily arises from whose manifestations to a third party?",
+    "choices": [
+      {
+        "id": "reg-m2-l1-q1-a0",
+        "text": "Only the agent’s unsupported claims."
+      },
+      {
+        "id": "reg-m2-l1-q1-a1",
+        "text": "The principal’s."
+      },
+      {
+        "id": "reg-m2-l1-q1-a2",
+        "text": "Only the third party’s hopes."
+      },
+      {
+        "id": "reg-m2-l1-q1-a3",
+        "text": "Only a court clerk’s statements."
+      }
+    ],
+    "correctChoiceId": "reg-m2-l1-q1-a1",
+    "explanation": "The third party’s reasonable belief must be traceable to manifestations of the principal.",
+    "difficulty": "foundation",
+    "metadata": {
+      "section": "reg",
+      "blueprintYear": 2026,
+      "areaId": "reg-II",
+      "groupId": "A-B",
+      "topicId": "reg-contracts-agency",
+      "taskIds": [
+        "reg-contracts-agency.task-1"
+      ],
+      "skill": "remembering",
+      "validFrom": "2026-07-01",
+      "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        },
+        {
+          "title": "Internal Revenue Code",
+          "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+        },
+        {
+          "title": "IRS tax publications",
+          "url": "https://www.irs.gov/publications"
+        },
+        {
+          "title": "Circular 230",
+          "url": "https://www.irs.gov/tax-professionals/circular-230-tax-professionals"
+        }
+      ]
+    }
+  },
+  "relatedSimulation": "reg-m2-tbs1"
+}

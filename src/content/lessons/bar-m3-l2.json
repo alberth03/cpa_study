@@ -1,0 +1,103 @@
+{
+  "id": "bar-m3-l2",
+  "courseId": "bar",
+  "moduleId": 3,
+  "number": 2,
+  "title": "Modified Accrual & Governmental Fund Statements",
+  "description": "Explain modified accrual & governmental fund statements.",
+  "url": "/learn/bar/modules/3/lessons/2",
+  "metadata": {
+    "section": "bar",
+    "blueprintYear": 2026,
+    "areaId": "bar-III",
+    "groupId": "A-B-C",
+    "topicId": "bar-government-modified-accrual",
+    "taskIds": [
+      "bar-government-modified-accrual.task-1",
+      "bar-government-modified-accrual.task-2",
+      "bar-government-modified-accrual.task-3"
+    ],
+    "skill": "application",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      },
+      {
+        "title": "FASB accounting standards",
+        "url": "https://asc.fasb.org/"
+      },
+      {
+        "title": "GASB standards",
+        "url": "https://www.gasb.org/standards-and-implementation"
+      }
+    ]
+  },
+  "html": "<h2>Modified Accrual Accounting</h2><h2> Modified Accrual Accounting </h2> <p> Governmental funds use the <strong>modified accrual basis of accounting</strong> together with the <strong>current financial resources measurement focus</strong>. </p> <p> The key question is not simply whether revenue has been earned. Governmental funds focus on whether financial resources are available to finance current-period expenditures. </p> <h2> Revenue Recognition </h2> <p> Under modified accrual, revenue is generally recognized when it is: </p> <div class=\"formula-box\"> MEASURABLE + AVAILABLE = RECOGNIZE REVENUE </div> <h2> Measurable </h2> <p> Revenue is measurable when the government can reasonably determine the amount. </p> <h2> Available </h2> <p> Available generally means the revenue is collectible within the current period or soon enough afterward to pay liabilities of the current period. </p> <div class=\"key-points\"> <p> The exact availability period can depend on the government's policy and the type of revenue. </p> </div> <h2> Property Tax Example </h2> <p> Assume a government levies property taxes of <strong>$500,000</strong>. </p> <p> At year-end, <strong>$470,000</strong> qualifies for recognition under the government's measurable-and-available criteria. </p> <p> The remaining <strong>$30,000</strong> is measurable but is not expected to be collected soon enough to satisfy the government's availability criterion. </p> <div class=\"financial-example\"> <div> <span> Revenue Recognized </span> <strong> $470,000 </strong> </div> <div> <span> Not Yet Recognized as Revenue </span> <strong> $30,000 </strong> </div> </div> <p> The unavailable portion is generally reported as a <strong>deferred inflow of resources</strong> rather than current-period governmental fund revenue. </p> <h2> Expenditures </h2> <p> Governmental funds generally recognize <strong>expenditures</strong> rather than expenses. </p> <p> Expenditures are generally recognized when a related fund liability is incurred, subject to important exceptions for certain long-term items. </p> <div class=\"key-points\"> <p> Because governmental funds focus on current financial resources, certain expenditures related to long-term obligations are generally recognized when payment is due or when the obligation is expected to require the use of current financial resources. </p> </div> <div class=\"financial-example\"> <div> <span> Governmental Funds </span> <strong> Expenditures </strong> </div> <div> <span> Government-Wide Statements </span> <strong> Expenses </strong> </div> </div> <h2> Capital Asset Purchase </h2> <p> Suppose a governmental fund purchases equipment for <strong>$100,000</strong>. </p> <p> In the governmental fund financial statements: </p> <div class=\"formula-box\"> $100,000 CAPITAL OUTLAY EXPENDITURE </div> <p> The governmental fund generally does not record the equipment as a capital asset. </p> <p> At the government-wide level, however, the equipment is generally capitalized and subsequently depreciated. </p> <h2> Long-Term Debt Proceeds </h2> <p> Suppose a governmental fund receives <strong>$1,000,000</strong> from issuing long-term bonds. </p> <p> The governmental fund generally does not recognize a long-term liability for the bonds. Instead, the proceeds are generally reported as an <strong>other financing source</strong>. </p> <div class=\"formula-box\"> BOND PROCEEDS ≠ GOVERNMENTAL FUND REVENUE BOND PROCEEDS = OTHER FINANCING SOURCE </div> <p> The long-term liability is generally reported in the government-wide financial statements. </p> <h2> Principal Payments </h2> <p> When a governmental fund pays principal on general long-term debt, the payment is generally reported as an <strong>expenditure</strong>. </p> <p> This differs from accrual accounting, where repayment of principal reduces a liability rather than creating an expense. </p> <h2> Modified Accrual vs. Accrual </h2> <div class=\"financial-example\"> <div> <span> Governmental Funds </span> <strong> Current Financial Resources + Modified Accrual </strong> </div> <div> <span> Government-Wide </span> <strong> Economic Resources + Accrual </strong> </div> </div> <h2> CPA Memory Rules </h2> <div class=\"key-points\"> <ul> <li> Revenue → measurable + available. </li> <li> Governmental funds → expenditures, not expenses. </li> <li> Capital asset purchase → expenditure in governmental funds. </li> <li> Long-term bond proceeds → other financing source in governmental funds. </li> <li> Governmental funds generally do not report general capital assets or general long-term liabilities. </li> </ul> </div> <div class=\"formula-box\"> GOVERNMENTAL FUND Revenue = Measurable + Available Capital Purchase = Expenditure Bond Proceeds = Other Financing Source </div> <h2> Key Takeaway </h2> <p> When you see a governmental fund question, think about <strong>current financial resources</strong>. This explains why modified accrual treatment differs from normal business accrual accounting. </p><h2>Governmental Fund Financial Statements</h2><h2> Governmental Fund Financial Statements </h2> <p> Governmental funds generally present two major financial statements: </p> <div class=\"financial-example\"> <div> <span>Balance Sheet</span> <strong> Assets + Deferred Outflows of Resources − Liabilities − Deferred Inflows of Resources = Fund Balance </strong> </div> <div> <span>Operating Statement</span> <strong> Revenues − Expenditures + Other Financing Sources/Uses </strong> </div> </div> <h2> Governmental Funds Balance Sheet </h2> <p> The governmental funds balance sheet reflects the <strong>current financial resources measurement focus</strong>. </p> <p> Therefore, it generally reports current financial assets and related liabilities rather than the government's complete economic resources. </p> <div class=\"key-points\"> <h3> Usually NOT Reported Here </h3> <ul> <li> General capital assets </li> <li> General long-term liabilities </li> </ul> </div> <p> Those items are generally reported in the government-wide financial statements instead. </p> <h2> Fund Balance Classifications </h2> <p> Governmental fund balance is classified according to the nature of constraints placed on how resources may be used. </p> <div class=\"financial-example\"> <div> <span>Nonspendable</span> <strong> Not in Spendable Form or Legally Required to Remain Intact </strong> </div> <div> <span>Restricted</span> <strong> Externally Enforceable Restrictions </strong> </div> <div> <span>Committed</span> <strong> Constraint Imposed by Government's Highest-Level Decision-Making Authority </strong> </div> <div> <span>Assigned</span> <strong> Intended for a Particular Purpose </strong> </div> <div> <span>Unassigned</span> <strong> Residual Classification </strong> </div> </div> <h2> Nonspendable Fund Balance </h2> <p> Resources are nonspendable when they cannot currently be spent because they are not in spendable form or must legally remain intact. </p> <div class=\"example-box\"> <strong> Examples </strong> <p> Inventories, prepaid items, and the principal of certain permanent funds may be nonspendable. </p> </div> <h2> Restricted Fund Balance </h2> <p> Restricted fund balance results from constraints imposed by external parties or through law. </p> <div class=\"example-box\"> <strong> Example </strong> <p> Grant money that may legally be used only for a specified program may be restricted. </p> </div> <h2> Committed vs. Assigned </h2> <p> <strong>Committed</strong> resources are constrained by formal action of the government's highest-level decision-making authority. </p> <p> <strong>Assigned</strong> resources reflect an intended use but do not meet the stronger criteria for restricted or committed classification. </p> <h2> Unassigned Fund Balance </h2> <p> Unassigned fund balance is generally the residual classification for the General Fund. </p> <div class=\"key-points\"> <p> Unassigned fund balance is generally used as the residual classification in the General Fund. Other governmental funds may report a negative unassigned amount when expenditures exceed amounts available in the classifications applicable to that fund. </p> </div> <h2> Statement of Revenues, Expenditures, and Changes in Fund Balances </h2> <p> This statement explains how governmental fund balances changed during the period. </p> <div class=\"formula-box\"> REVENUES − EXPENDITURES = EXCESS (DEFICIENCY) OF REVENUES OVER EXPENDITURES + OTHER FINANCING SOURCES − OTHER FINANCING USES = NET CHANGE IN FUND BALANCE </div> <h2> Other Financing Sources and Uses </h2> <p> Certain financing transactions are reported separately from revenues and expenditures. </p> <div class=\"key-points\"> <ul> <li> Proceeds from long-term debt are generally an <strong>other financing source</strong>. </li> <li> Transfers in are generally other financing sources. </li> <li> Transfers out are generally other financing uses. </li> </ul> </div> <h2> Quick Example </h2> <p> Assume a governmental fund reports: </p> <div class=\"financial-example\"> <div> <span>Revenues</span> <strong>$900,000</strong> </div> <div> <span>Expenditures</span> <strong>$820,000</strong> </div> <div> <span>Bond Proceeds</span> <strong>$150,000</strong> </div> <div> <span>Transfer Out</span> <strong>$30,000</strong> </div> </div> <div class=\"formula-box\"> $900,000 − $820,000 + $150,000 − $30,000 = $200,000 Net Increase in Fund Balance </div> <h2> CPA Exam Traps </h2> <div class=\"key-points\"> <ul> <li> Bond proceeds are not governmental fund revenue. </li> <li> Transfers are not revenues or expenditures. </li> <li> General capital assets generally do not appear on the governmental funds balance sheet. </li> <li> General long-term debt generally does not appear as a governmental fund long-term liability. </li> </ul> </div> <h2> Memory Rule </h2> <div class=\"formula-box\"> GOVERNMENTAL FUNDS: Balance Sheet → Current Financial Resources Operating Statement → Revenues + Expenditures Financing → Other Financing Sources / Uses </div> <h2> Key Takeaway </h2> <p> Keep governmental fund reporting separate from government-wide reporting. The fund statements emphasize current financial resources, while government-wide statements later convert the information to an economic-resources perspective. </p>",
+  "objectives": [
+    "Explain modified accrual & governmental fund statements.",
+    "Apply measurement-focus and basis-of-accounting differences.",
+    "Prepare and reconcile appropriate governmental reporting amounts."
+  ],
+  "quiz": {
+    "id": "bar-m3-l2-q1",
+    "courseId": "bar",
+    "moduleId": 3,
+    "lessonId": "bar-m3-l2",
+    "topic": "Modified Accrual & Governmental Fund Statements",
+    "prompt": "Under modified accrual accounting, revenue is generally recognized when it is:",
+    "choices": [
+      {
+        "id": "bar-m3-l2-q1-a0",
+        "text": "Earned and collectible within five years"
+      },
+      {
+        "id": "bar-m3-l2-q1-a1",
+        "text": "Received in cash"
+      },
+      {
+        "id": "bar-m3-l2-q1-a2",
+        "text": "Approved in the budget"
+      },
+      {
+        "id": "bar-m3-l2-q1-a3",
+        "text": "Measurable and available"
+      }
+    ],
+    "correctChoiceId": "bar-m3-l2-q1-a3",
+    "explanation": "Governmental fund revenue generally must be both measurable and available.",
+    "difficulty": "foundation",
+    "metadata": {
+      "section": "bar",
+      "blueprintYear": 2026,
+      "areaId": "bar-III",
+      "groupId": "A-B-C",
+      "topicId": "bar-government-modified-accrual",
+      "taskIds": [
+        "bar-government-modified-accrual.task-1"
+      ],
+      "skill": "remembering",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        },
+        {
+          "title": "FASB accounting standards",
+          "url": "https://asc.fasb.org/"
+        },
+        {
+          "title": "GASB standards",
+          "url": "https://www.gasb.org/standards-and-implementation"
+        }
+      ]
+    }
+  },
+  "relatedSimulation": "bar-m3-tbs2"
+}

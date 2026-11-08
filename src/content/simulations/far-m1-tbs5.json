@@ -1,0 +1,55 @@
+{
+  "id": "far-m1-tbs5",
+  "moduleId": 1,
+  "number": 5,
+  "title": "TBS 5 · Cash-to-Accrual Conversion",
+  "fields": [
+    {
+      "id": "tbs5-q1",
+      "label": "1. Accrual-Basis Revenue",
+      "type": "number",
+      "options": [],
+      "correct": 515000
+    },
+    {
+      "id": "tbs5-q2",
+      "label": "2. Accrual-Basis Operating Expenses",
+      "type": "number",
+      "options": [],
+      "correct": 288000
+    },
+    {
+      "id": "tbs5-q3",
+      "label": "3. Accrual-Basis Net Income",
+      "type": "number",
+      "options": [],
+      "correct": 227000
+    }
+  ],
+  "html": "<section class=\"lesson-page\"> <div class=\"course-intro-card\"> <span class=\"exam-badge\"> TASK-BASED SIMULATION </span> <h2> Cash-to-Accrual Conversion </h2> <p> Convert cash-basis amounts to accrual-basis revenue, expenses, and net income. </p> </div> <div class=\"tbs-data-card\"> <h3> Company Information </h3> <div class=\"tbs-data-row\"> <span> Cash Collected from Customers </span> <strong> $500,000 </strong> </div> <div class=\"tbs-data-row\"> <span> Beginning Accounts Receivable </span> <strong> $40,000 </strong> </div> <div class=\"tbs-data-row\"> <span> Ending Accounts Receivable </span> <strong> $55,000 </strong> </div> <div class=\"tbs-data-row\"> <span> Cash Paid for Operating Expenses </span> <strong> $280,000 </strong> </div> <div class=\"tbs-data-row\"> <span> Beginning Accounts Payable </span> <strong> $30,000 </strong> </div> <div class=\"tbs-data-row\"> <span> Ending Accounts Payable </span> <strong> $38,000 </strong> </div> </div> <div class=\"tbs-data-card\"> <h3> Required </h3> <div class=\"tbs-question\"> <label for=\"tbs5-q1\"> 1. Accrual-Basis Revenue </label> <input type=\"number\" id=\"tbs5-q1\" class=\"tbs-input\" placeholder=\"Enter amount\"> </div> <div class=\"tbs-question\"> <label for=\"tbs5-q2\"> 2. Accrual-Basis Operating Expenses </label> <input type=\"number\" id=\"tbs5-q2\" class=\"tbs-input\" placeholder=\"Enter amount\"> </div> <div class=\"tbs-question\"> <label for=\"tbs5-q3\"> 3. Accrual-Basis Net Income </label> <input type=\"number\" id=\"tbs5-q3\" class=\"tbs-input\" placeholder=\"Enter amount\"> </div> </div> <div id=\"tbs5-result\"></div> </section>",
+  "explanation": "<div class=\"tbs-results\"> <div class=\"key-points\"> <h3> Correct Answers </h3> <p> 1. Accrual-Basis Revenue: <strong>$515,000</strong> </p> <p> 2. Accrual-Basis Operating Expenses: <strong>$288,000</strong> </p> <p> 3. Accrual-Basis Net Income: <strong>$227,000</strong> </p> </div> <div class=\"example-box\"> <h3> Revenue Conversion </h3> <div class=\"formula-box\"> Cash Collected + Ending A/R − Beginning A/R = $500,000 + $55,000 − $40,000 = $515,000 </div> <h3> Expense Conversion </h3> <div class=\"formula-box\"> Cash Paid + Ending A/P − Beginning A/P = $280,000 + $38,000 − $30,000 = $288,000 </div> <h3> Net Income </h3> <div class=\"formula-box\"> $515,000 − $288,000 = $227,000 </div> </div> </div>",
+  "courseId": "far",
+  "difficulty": "advanced",
+  "metadata": {
+    "section": "far",
+    "blueprintYear": 2026,
+    "areaId": "far-III",
+    "groupId": "module-1",
+    "topicId": "far-subsequent-events",
+    "taskIds": [
+      "far-subsequent-events.task-1",
+      "far-subsequent-events.task-2",
+      "far-subsequent-events.task-3"
+    ],
+    "skill": "analysis",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      }
+    ]
+  }
+}

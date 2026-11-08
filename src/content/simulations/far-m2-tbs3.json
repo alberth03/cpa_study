@@ -1,0 +1,62 @@
+{
+  "id": "far-m2-tbs3",
+  "moduleId": 2,
+  "number": 3,
+  "title": "FAR Module 2 · TBS 3",
+  "fields": [
+    {
+      "id": "far-m2-tbs3-owned",
+      "label": "1. Inventory Owned Before Valuation Adjustment",
+      "type": "number",
+      "options": [],
+      "correct": 331000
+    },
+    {
+      "id": "far-m2-tbs3-writedown",
+      "label": "2. Inventory Write-Down",
+      "type": "number",
+      "options": [],
+      "correct": 7000
+    },
+    {
+      "id": "far-m2-tbs3-final",
+      "label": "3. Final Reported Inventory",
+      "type": "number",
+      "options": [],
+      "correct": 324000
+    },
+    {
+      "id": "far-m2-tbs3-expense",
+      "label": "4. Increase in Expense From the Inventory Write-Down",
+      "type": "number",
+      "options": [],
+      "correct": 7000
+    }
+  ],
+  "html": "<section class=\"exam-page\"> <div class=\"course-intro-card\"> <span class=\"exam-badge\"> TASK-BASED SIMULATION </span> <h2> Inventory Ownership &amp; Valuation </h2> <p> Determine the inventory owned at year-end and apply the appropriate valuation adjustment. </p> </div> <div class=\"quiz-card\"> <h2> Scenario </h2> <p> Redwood Corp. uses the <strong>FIFO inventory method</strong>. At December 31, Redwood's physical inventory count totaled <strong>$310,000</strong>. </p> <p> The following items require analysis: </p> <div class=\"key-points\"> <ul> <li> The physical count includes <strong>$18,000</strong> of merchandise held by Redwood on consignment for another company. </li> <li> Merchandise costing <strong>$24,000</strong> was purchased FOB shipping point and shipped to Redwood on December 29. The goods were still in transit at December 31 and were not included in the physical count. </li> <li> Merchandise costing <strong>$15,000</strong> was sold by Redwood FOB destination on December 30. The customer received the goods on January 3. The goods were not included in Redwood's physical count. </li> </ul> </div> <h2> Valuation Information </h2> <p> After correcting the inventory ownership items above, Redwood determines that one group of inventory has: </p> <div class=\"financial-example\"> <div> <span> Cost </span> <strong> $80,000 </strong> </div> <div> <span> Net Realizable Value </span> <strong> $73,000 </strong> </div> </div> <p> Assume the remaining inventory has net realizable value at or above cost and requires no write-down. </p> <h2> Required </h2> <div class=\"financial-example\"> <div> <span> 1. Inventory Owned Before Valuation Adjustment </span> <input type=\"number\" id=\"far-m2-tbs3-owned\" placeholder=\"Enter amount\"> </div> <div> <span> 2. Inventory Write-Down </span> <input type=\"number\" id=\"far-m2-tbs3-writedown\" placeholder=\"Enter amount\"> </div> <div> <span> 3. Final Reported Inventory </span> <input type=\"number\" id=\"far-m2-tbs3-final\" placeholder=\"Enter amount\"> </div> <div> <span> 4. Increase in Expense From the Inventory Write-Down </span> <input type=\"number\" id=\"far-m2-tbs3-expense\" placeholder=\"Enter amount\"> </div> </div> <div id=\"far-m2-tbs3-result\"></div> </div> </section>",
+  "explanation": "<div class=\"result-correct\"> <h3> Step 1 — Correct the Physical Count </h3> <p> Start with the physical inventory count: </p> <div class=\"formula-box\"> $310,000 </div> <p> The $18,000 of consigned merchandise belongs to another company, so Redwood must exclude it. </p> <div class=\"formula-box\"> $310,000 − $18,000 = $292,000 </div> <p> The $24,000 purchase was shipped FOB shipping point. Ownership passed to Redwood when the seller shipped the goods, so it must be included. </p> <div class=\"formula-box\"> $292,000 + $24,000 = $316,000 </div> <p> The $15,000 sale was shipped FOB destination. Because the customer had not yet received the goods at December 31, Redwood still owned them. </p> <div class=\"formula-box\"> $316,000 + $15,000 = $331,000 </div> <p> <strong> Inventory Owned Before Valuation: $331,000 </strong> </p> <h3> Step 2 — Apply Lower of Cost and NRV </h3> <p> The affected inventory has cost of $80,000 and net realizable value of $73,000. </p> <div class=\"formula-box\"> $80,000 − $73,000 = $7,000 Write-Down </div> <p> <strong> Inventory Write-Down: $7,000 </strong> </p> <h3> Step 3 — Final Inventory </h3> <div class=\"formula-box\"> $331,000 − $7,000 = $324,000 </div> <p> <strong> Final Reported Inventory: $324,000 </strong> </p> <h3> Step 4 — Income Statement Effect </h3> <p> The $7,000 inventory write-down creates a $7,000 loss or expense, reducing current-period income. </p> <p> <strong> Increase in Expense: $7,000 </strong> </p> <div class=\"key-points\"> <h3> CPA Takeaway </h3> <ul> <li> Consigned goods belong to the consignor, not the consignee. </li> <li> FOB shipping point generally transfers ownership when goods are shipped. </li> <li> FOB destination generally transfers ownership when the buyer receives the goods. </li> <li> For this FIFO inventory, when NRV falls below cost, inventory is written down to NRV. </li> </ul> </div> </div>",
+  "courseId": "far",
+  "difficulty": "advanced",
+  "metadata": {
+    "section": "far",
+    "blueprintYear": 2026,
+    "areaId": "far-II",
+    "groupId": "module-2",
+    "topicId": "far-intangible-assets",
+    "taskIds": [
+      "far-intangible-assets.task-1",
+      "far-intangible-assets.task-2",
+      "far-intangible-assets.task-3"
+    ],
+    "skill": "analysis",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      }
+    ]
+  }
+}

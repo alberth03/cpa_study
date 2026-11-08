@@ -1,0 +1,91 @@
+{
+  "id": "tcp-m1-tbs2",
+  "courseId": "tcp",
+  "moduleId": 1,
+  "number": 2,
+  "title": "Layered loss-limitation workpaper",
+  "html": "<div class=\"course-intro-card\"><h2>Layered loss-limitation workpaper</h2><p>Apply the stated loss limitations in sequence.</p></div><section class=\"quiz-card\"><h3>Required responses</h3><div class=\"tbs-question\"><label for=\"tcp-m1-tbs2-f1\">Loss suspended at the basis stage</label><input id=\"tcp-m1-tbs2-f1\" type=\"text\"></div><div class=\"tbs-question\"><label for=\"tcp-m1-tbs2-f2\">Additional loss suspended at the at-risk stage</label><input id=\"tcp-m1-tbs2-f2\" type=\"text\"></div><div class=\"tbs-question\"><label for=\"tcp-m1-tbs2-f3\">Additional loss suspended at the passive stage</label><input id=\"tcp-m1-tbs2-f3\" type=\"text\"></div><div class=\"tbs-question\"><label for=\"tcp-m1-tbs2-f4\">Currently deductible loss</label><input id=\"tcp-m1-tbs2-f4\" type=\"text\"></div></section>",
+  "metadata": {
+    "section": "tcp",
+    "blueprintYear": 2026,
+    "areaId": "tcp-I",
+    "groupId": "B",
+    "topicId": "tcp-at-risk-passive-losses",
+    "taskIds": [
+      "tcp-at-risk-passive-losses.task-1",
+      "tcp-at-risk-passive-losses.task-2",
+      "tcp-at-risk-passive-losses.task-3"
+    ],
+    "skill": "analysis",
+    "validFrom": "2026-07-01",
+    "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      },
+      {
+        "title": "IRS tax publications",
+        "url": "https://www.irs.gov/publications"
+      },
+      {
+        "title": "Internal Revenue Code",
+        "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+      }
+    ]
+  },
+  "difficulty": "advanced",
+  "fields": [
+    {
+      "id": "tcp-m1-tbs2-f1",
+      "label": "Loss suspended at the basis stage",
+      "type": "number",
+      "options": [],
+      "correct": 15000,
+      "explanation": "$80,000 − $65,000 = $15,000.",
+      "topicId": "tcp-at-risk-passive-losses"
+    },
+    {
+      "id": "tcp-m1-tbs2-f2",
+      "label": "Additional loss suspended at the at-risk stage",
+      "type": "number",
+      "options": [],
+      "correct": 20000,
+      "explanation": "$65,000 − $45,000 = $20,000.",
+      "topicId": "tcp-at-risk-passive-losses"
+    },
+    {
+      "id": "tcp-m1-tbs2-f3",
+      "label": "Additional loss suspended at the passive stage",
+      "type": "number",
+      "options": [],
+      "correct": 25000,
+      "explanation": "$45,000 − $20,000 = $25,000.",
+      "topicId": "tcp-at-risk-passive-losses"
+    },
+    {
+      "id": "tcp-m1-tbs2-f4",
+      "label": "Currently deductible loss",
+      "type": "number",
+      "options": [],
+      "correct": 20000,
+      "explanation": "Only $20,000 passes all three supplied limitations.",
+      "topicId": "tcp-at-risk-passive-losses"
+    }
+  ],
+  "exhibits": [
+    {
+      "id": "tcp-m1-tbs2-ex1",
+      "title": "Loss and capacities",
+      "html": "<p>Allocated loss $80,000. Available basis $65,000. At-risk capacity for the loss passing basis is $45,000.</p>"
+    },
+    {
+      "id": "tcp-m1-tbs2-ex2",
+      "title": "Passive limitations",
+      "html": "<p>The activity is passive for this taxpayer. Available passive income is $20,000. No exception, disposition release, or other limitation applies.</p>"
+    }
+  ],
+  "explanation": "<h3>Loss suspended at the basis stage</h3><p>$80,000 − $65,000 = $15,000.</p><h3>Additional loss suspended at the at-risk stage</h3><p>$65,000 − $45,000 = $20,000.</p><h3>Additional loss suspended at the passive stage</h3><p>$45,000 − $20,000 = $25,000.</p><h3>Currently deductible loss</h3><p>Only $20,000 passes all three supplied limitations.</p>"
+}

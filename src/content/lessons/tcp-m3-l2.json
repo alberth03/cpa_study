@@ -1,0 +1,105 @@
+{
+  "id": "tcp-m3-l2",
+  "courseId": "tcp",
+  "moduleId": 3,
+  "number": 2,
+  "title": "Formation, Asset Versus Stock Transactions & Liquidation",
+  "description": "Evaluate formation qualification and boot.",
+  "url": "/learn/tcp/modules/3/lessons/2",
+  "metadata": {
+    "section": "tcp",
+    "blueprintYear": 2026,
+    "areaId": "tcp-III",
+    "groupId": "B",
+    "topicId": "tcp-formation-restructuring",
+    "taskIds": [
+      "tcp-formation-restructuring.task-1",
+      "tcp-formation-restructuring.task-2",
+      "tcp-formation-restructuring.task-3"
+    ],
+    "skill": "application",
+    "validFrom": "2026-07-01",
+    "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      },
+      {
+        "title": "IRS tax publications",
+        "url": "https://www.irs.gov/publications"
+      },
+      {
+        "title": "Internal Revenue Code",
+        "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+      }
+    ]
+  },
+  "html": "<h2>Learning objectives</h2><ul><li>Evaluate formation qualification and boot.</li><li>Compare buyer and seller consequences of asset and stock structures.</li><li>Identify entity and owner effects in liquidation planning.</li></ul><h2>Understand the concepts</h2><p>Formation provisions can defer gain when their requirements are satisfied, but services, boot, liabilities, control, and anti-abuse rules can change the result. In a qualifying Section 351 exchange with boot, recognized gain is generally limited to the appropriate amount of realized gain and boot under the stated facts. Basis rules preserve deferred gain rather than making it disappear.</p><p>Asset and stock acquisitions can produce different tax bases, attributes, liabilities, and tax layers. A buyer may value stepped-up asset basis while a seller may prefer a different character or tax layer. Certain elections can alter the analysis when requirements are met. Negotiation should consider both parties and the actual available legal structures.</p><p>A C corporation’s taxable asset sale or liquidating distribution can produce entity-level consequences and shareholder-level consequences under applicable rules. Pass-through structures have different interactions with owner basis and special taxes. Do not assume every liquidation is tax-free or every restructuring qualifies as a reorganization solely because management uses that word.</p><div class=\"example-box\"><h3>Boot in a qualifying formation</h3><p>Property with basis $60,000 and value $100,000 is transferred for stock worth $90,000 and $10,000 cash. Assume all Section 351 requirements are met and no liabilities or other complications.</p><ol><li>Realized gain is $40,000.</li><li>Recognized gain is limited to $10,000 boot.</li><li>Stock basis is $60,000 − $10,000 cash + $10,000 gain = $60,000.</li></ol></div><div class=\"key-points\"><h3>Common mistakes to avoid</h3><ul><li>A transaction label does not establish statutory qualification.</li><li>Buyer and seller preferences can conflict.</li><li>Deferred gain is usually preserved through basis rules.</li></ul></div><h2>Apply and connect</h2><p>After solving the worked case, explain which facts determine the result and how a changed assumption would change your conclusion. Use the module questions to test fresh applications, then complete the related simulation before reviewing its solution.</p>",
+  "objectives": [
+    "Evaluate formation qualification and boot.",
+    "Compare buyer and seller consequences of asset and stock structures.",
+    "Identify entity and owner effects in liquidation planning."
+  ],
+  "quiz": {
+    "id": "tcp-m3-l2-q1",
+    "courseId": "tcp",
+    "moduleId": 3,
+    "lessonId": "tcp-m3-l2",
+    "topic": "Formation, Asset Versus Stock Transactions & Liquidation",
+    "prompt": "A qualifying Section 351 exchange has realized gain $50,000 and cash boot $12,000, with no other complications. What gain is recognized?",
+    "choices": [
+      {
+        "id": "tcp-m3-l2-q1-a0",
+        "text": "$50,000."
+      },
+      {
+        "id": "tcp-m3-l2-q1-a1",
+        "text": "$38,000."
+      },
+      {
+        "id": "tcp-m3-l2-q1-a2",
+        "text": "Zero regardless of boot."
+      },
+      {
+        "id": "tcp-m3-l2-q1-a3",
+        "text": "$12,000."
+      }
+    ],
+    "correctChoiceId": "tcp-m3-l2-q1-a3",
+    "explanation": "Under the supplied rules, recognized gain is limited to the lesser of realized gain and boot.",
+    "difficulty": "application",
+    "metadata": {
+      "section": "tcp",
+      "blueprintYear": 2026,
+      "areaId": "tcp-III",
+      "groupId": "B",
+      "topicId": "tcp-formation-restructuring",
+      "taskIds": [
+        "tcp-formation-restructuring.task-1"
+      ],
+      "skill": "application",
+      "validFrom": "2026-07-01",
+      "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        },
+        {
+          "title": "IRS tax publications",
+          "url": "https://www.irs.gov/publications"
+        },
+        {
+          "title": "Internal Revenue Code",
+          "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+        }
+      ]
+    }
+  },
+  "relatedSimulation": "tcp-m3-tbs2"
+}

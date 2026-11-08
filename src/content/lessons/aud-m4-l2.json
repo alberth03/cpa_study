@@ -1,0 +1,103 @@
+{
+  "id": "aud-m4-l2",
+  "courseId": "aud",
+  "moduleId": 4,
+  "number": 2,
+  "title": "Subsequent Events, Going Concern & Written Representations",
+  "description": "Evaluate evidence arising after the reporting date.",
+  "url": "/learn/aud/modules/4/lessons/2",
+  "metadata": {
+    "section": "aud",
+    "blueprintYear": 2026,
+    "areaId": "aud-IV",
+    "groupId": "A-E",
+    "topicId": "aud-audit-completion",
+    "taskIds": [
+      "aud-audit-completion.task-1",
+      "aud-audit-completion.task-2",
+      "aud-audit-completion.task-3"
+    ],
+    "skill": "application",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      },
+      {
+        "title": "AICPA auditing standards",
+        "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+      },
+      {
+        "title": "PCAOB standards",
+        "url": "https://pcaobus.org/oversight/standards"
+      }
+    ]
+  },
+  "html": "<h2>Learning objectives</h2><ul><li>Evaluate evidence arising after the reporting date.</li><li>Assess going-concern disclosures and management plans.</li><li>Understand the role and timing of written representations.</li></ul><h2>Understand the concepts</h2><p>Subsequent-event procedures seek evidence about events between the financial-statement date and the auditor’s report date. Events providing additional evidence about conditions existing at the statement date may require adjustment. Events arising from new conditions ordinarily do not adjust that date’s amounts but may require disclosure. The reporting framework and the facts determine the accounting.</p><p>Evaluate management’s going-concern assessment and plans using the applicable framework and auditing standard. Consider recurring losses, negative cash flows, financing difficulties, covenant breaches, and other conditions. Assess whether mitigating plans are feasible and supported. Do not treat a management intention to refinance as an executed financing agreement. Assessment periods and reporting terminology can differ for issuers and nonissuers.</p><p>If substantial doubt remains and disclosure is adequate, an unmodified opinion with the appropriate separate going-concern reporting may be possible under the applicable standard. Inadequate disclosure is a reporting-framework departure and can require a modified opinion. Going-concern reporting is not a guarantee of survival or failure.</p><p>Written representations ordinarily cover all periods referred to in the report and are dated as of the auditor’s report date. They supplement other evidence rather than replace it. Refusal to provide fundamental representations can create a serious limitation. When a later event is reflected through dual dating, the auditor limits the extension of subsequent-event responsibility to the identified event rather than automatically extending responsibility for every event.</p><div class=\"example-box\"><h3>Evidence about an existing receivable</h3><p>A customer with severe financial distress at December 31 files bankruptcy in January before the report date. Separately, a February fire destroys a previously sound facility.</p><ol><li>The bankruptcy may provide evidence about year-end receivable valuation.</li><li>The fire is a new condition and may require disclosure rather than adjusting December asset values.</li><li>Evaluate materiality, the framework, and the information available before concluding.</li></ol></div><div class=\"key-points\"><h3>Common mistakes to avoid</h3><ul><li>Not every later event changes year-end amounts.</li><li>Management plans require evidence of feasibility.</li><li>Representations should not be used as substitutes for available external evidence.</li></ul></div><h2>Apply and connect</h2><p>After solving the worked case, explain which facts determine the result and how a changed assumption would change your conclusion. Use the module questions to test fresh applications, then complete the related simulation before reviewing its solution.</p>",
+  "objectives": [
+    "Evaluate evidence arising after the reporting date.",
+    "Assess going-concern disclosures and management plans.",
+    "Understand the role and timing of written representations."
+  ],
+  "quiz": {
+    "id": "aud-m4-l2-q1",
+    "courseId": "aud",
+    "moduleId": 4,
+    "lessonId": "aud-m4-l2",
+    "topic": "Subsequent Events, Going Concern & Written Representations",
+    "prompt": "A post-year-end bankruptcy confirms severe customer financial distress existing at year-end. What accounting implication should the auditor evaluate?",
+    "choices": [
+      {
+        "id": "aud-m4-l2-q1-a0",
+        "text": "Adjustment of the year-end receivable valuation."
+      },
+      {
+        "id": "aud-m4-l2-q1-a1",
+        "text": "Automatic recognition only in the following year."
+      },
+      {
+        "id": "aud-m4-l2-q1-a2",
+        "text": "No consideration before report issuance."
+      },
+      {
+        "id": "aud-m4-l2-q1-a3",
+        "text": "An automatic adverse opinion in every case."
+      }
+    ],
+    "correctChoiceId": "aud-m4-l2-q1-a0",
+    "explanation": "The later event may provide evidence about a condition already existing at the reporting date.",
+    "difficulty": "advanced",
+    "metadata": {
+      "section": "aud",
+      "blueprintYear": 2026,
+      "areaId": "aud-IV",
+      "groupId": "A-E",
+      "topicId": "aud-audit-completion",
+      "taskIds": [
+        "aud-audit-completion.task-1"
+      ],
+      "skill": "analysis",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        },
+        {
+          "title": "AICPA auditing standards",
+          "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+        },
+        {
+          "title": "PCAOB standards",
+          "url": "https://pcaobus.org/oversight/standards"
+        }
+      ]
+    }
+  },
+  "relatedSimulation": "aud-m4-tbs2"
+}

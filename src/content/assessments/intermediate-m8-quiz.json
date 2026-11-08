@@ -1,0 +1,491 @@
+{
+  "id": "intermediate-m8-quiz",
+  "title": "Intermediate Module 8 Quiz",
+  "courseId": "intermediate",
+  "moduleId": 8,
+  "selection": "all",
+  "feedback": "immediate",
+  "passPercent": 80,
+  "questions": [
+    {
+      "id": "intermediate-m8-q1",
+      "courseId": "intermediate",
+      "moduleId": 8,
+      "topic": "Stockholders' Equity",
+      "prompt": "Beginning retained earnings is $200,000. Net income is $75,000 and dividends are $25,000. What is ending retained earnings?",
+      "choices": [
+        {
+          "id": "intermediate-m8-q1-a0",
+          "text": "$150,000"
+        },
+        {
+          "id": "intermediate-m8-q1-a1",
+          "text": "$200,000"
+        },
+        {
+          "id": "intermediate-m8-q1-a2",
+          "text": "$250,000"
+        },
+        {
+          "id": "intermediate-m8-q1-a3",
+          "text": "$300,000"
+        }
+      ],
+      "correctChoiceId": "intermediate-m8-q1-a2",
+      "explanation": "$200,000 + $75,000 − $25,000 = $250,000.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "intermediate",
+        "blueprintYear": 2026,
+        "areaId": "intermediate-I",
+        "groupId": "8",
+        "topicId": "intermediate-intermediate-general",
+        "taskIds": [
+          "intermediate-intermediate-general.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "intermediate-m8-q2",
+      "courseId": "intermediate",
+      "moduleId": 8,
+      "topic": "Common Stock",
+      "prompt": "A company issues 20,000 shares of $2 par common stock for $10 per share. How much is credited to Additional Paid-In Capital?",
+      "choices": [
+        {
+          "id": "intermediate-m8-q2-a0",
+          "text": "$40,000"
+        },
+        {
+          "id": "intermediate-m8-q2-a1",
+          "text": "$160,000"
+        },
+        {
+          "id": "intermediate-m8-q2-a2",
+          "text": "$200,000"
+        },
+        {
+          "id": "intermediate-m8-q2-a3",
+          "text": "$240,000"
+        }
+      ],
+      "correctChoiceId": "intermediate-m8-q2-a1",
+      "explanation": "Cash received = 20,000 × $10 = $200,000. Common Stock = 20,000 × $2 = $40,000. APIC = $160,000.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "intermediate",
+        "blueprintYear": 2026,
+        "areaId": "intermediate-I",
+        "groupId": "8",
+        "topicId": "intermediate-intermediate-general",
+        "taskIds": [
+          "intermediate-intermediate-general.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "intermediate-m8-q3",
+      "courseId": "intermediate",
+      "moduleId": 8,
+      "topic": "Preferred Stock",
+      "prompt": "A corporation has 5,000 shares of $100 par, 6% cumulative preferred stock. What is the annual preferred dividend?",
+      "choices": [
+        {
+          "id": "intermediate-m8-q3-a0",
+          "text": "$6,000"
+        },
+        {
+          "id": "intermediate-m8-q3-a1",
+          "text": "$30,000"
+        },
+        {
+          "id": "intermediate-m8-q3-a2",
+          "text": "$50,000"
+        },
+        {
+          "id": "intermediate-m8-q3-a3",
+          "text": "$500,000"
+        }
+      ],
+      "correctChoiceId": "intermediate-m8-q3-a1",
+      "explanation": "5,000 × $100 × 6% = $30,000 annual preferred dividend.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "intermediate",
+        "blueprintYear": 2026,
+        "areaId": "intermediate-I",
+        "groupId": "8",
+        "topicId": "intermediate-intermediate-general",
+        "taskIds": [
+          "intermediate-intermediate-general.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "intermediate-m8-q4",
+      "courseId": "intermediate",
+      "moduleId": 8,
+      "topic": "Treasury Stock",
+      "prompt": "A corporation has 120,000 issued common shares and 15,000 treasury shares. How many shares are outstanding?",
+      "choices": [
+        {
+          "id": "intermediate-m8-q4-a0",
+          "text": "105,000"
+        },
+        {
+          "id": "intermediate-m8-q4-a1",
+          "text": "120,000"
+        },
+        {
+          "id": "intermediate-m8-q4-a2",
+          "text": "135,000"
+        },
+        {
+          "id": "intermediate-m8-q4-a3",
+          "text": "15,000"
+        }
+      ],
+      "correctChoiceId": "intermediate-m8-q4-a0",
+      "explanation": "Outstanding shares = 120,000 issued − 15,000 treasury = 105,000.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "intermediate",
+        "blueprintYear": 2026,
+        "areaId": "intermediate-I",
+        "groupId": "8",
+        "topicId": "intermediate-intermediate-general",
+        "taskIds": [
+          "intermediate-intermediate-general.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "intermediate-m8-q5",
+      "courseId": "intermediate",
+      "moduleId": 8,
+      "topic": "Treasury Stock",
+      "prompt": "Under the cost method, a corporation repurchases 4,000 of its own shares for $18 per share. At what amount is Treasury Stock initially recorded?",
+      "choices": [
+        {
+          "id": "intermediate-m8-q5-a0",
+          "text": "$18,000"
+        },
+        {
+          "id": "intermediate-m8-q5-a1",
+          "text": "$22,000"
+        },
+        {
+          "id": "intermediate-m8-q5-a2",
+          "text": "$72,000"
+        },
+        {
+          "id": "intermediate-m8-q5-a3",
+          "text": "$4,000"
+        }
+      ],
+      "correctChoiceId": "intermediate-m8-q5-a2",
+      "explanation": "4,000 shares × $18 = $72,000. Under the cost method, Treasury Stock is recorded at reacquisition cost.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "intermediate",
+        "blueprintYear": 2026,
+        "areaId": "intermediate-I",
+        "groupId": "8",
+        "topicId": "intermediate-intermediate-general",
+        "taskIds": [
+          "intermediate-intermediate-general.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "intermediate-m8-q6",
+      "courseId": "intermediate",
+      "moduleId": 8,
+      "topic": "Dividends",
+      "prompt": "Which date associated with a cash dividend generally requires no journal entry merely because that date occurs?",
+      "choices": [
+        {
+          "id": "intermediate-m8-q6-a0",
+          "text": "Declaration date"
+        },
+        {
+          "id": "intermediate-m8-q6-a1",
+          "text": "Record date"
+        },
+        {
+          "id": "intermediate-m8-q6-a2",
+          "text": "Payment date"
+        },
+        {
+          "id": "intermediate-m8-q6-a3",
+          "text": "Both declaration and payment dates"
+        }
+      ],
+      "correctChoiceId": "intermediate-m8-q6-a1",
+      "explanation": "The record date identifies shareholders entitled to receive the dividend, but generally does not itself require a journal entry.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "intermediate",
+        "blueprintYear": 2026,
+        "areaId": "intermediate-I",
+        "groupId": "8",
+        "topicId": "intermediate-intermediate-general",
+        "taskIds": [
+          "intermediate-intermediate-general.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "intermediate-m8-q7",
+      "courseId": "intermediate",
+      "moduleId": 8,
+      "topic": "Basic EPS",
+      "prompt": "A company reports net income of $620,000 and preferred dividends of $20,000. Weighted-average common shares are 150,000. What is basic EPS?",
+      "choices": [
+        {
+          "id": "intermediate-m8-q7-a0",
+          "text": "$3.87"
+        },
+        {
+          "id": "intermediate-m8-q7-a1",
+          "text": "$4.00"
+        },
+        {
+          "id": "intermediate-m8-q7-a2",
+          "text": "$4.13"
+        },
+        {
+          "id": "intermediate-m8-q7-a3",
+          "text": "$4.27"
+        }
+      ],
+      "correctChoiceId": "intermediate-m8-q7-a1",
+      "explanation": "Income available to common shareholders = $620,000 − $20,000 = $600,000. Basic EPS = $600,000 ÷ 150,000 = $4.00.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "intermediate",
+        "blueprintYear": 2026,
+        "areaId": "intermediate-I",
+        "groupId": "8",
+        "topicId": "intermediate-intermediate-general",
+        "taskIds": [
+          "intermediate-intermediate-general.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "intermediate-m8-q8",
+      "courseId": "intermediate",
+      "moduleId": 8,
+      "topic": "Weighted-Average Shares",
+      "prompt": "A company has 100,000 common shares outstanding on January 1 and issues 60,000 additional shares on July 1. What are weighted-average common shares for the year?",
+      "choices": [
+        {
+          "id": "intermediate-m8-q8-a0",
+          "text": "100,000"
+        },
+        {
+          "id": "intermediate-m8-q8-a1",
+          "text": "130,000"
+        },
+        {
+          "id": "intermediate-m8-q8-a2",
+          "text": "160,000"
+        },
+        {
+          "id": "intermediate-m8-q8-a3",
+          "text": "80,000"
+        }
+      ],
+      "correctChoiceId": "intermediate-m8-q8-a1",
+      "explanation": "100,000 × 12/12 = 100,000. The new 60,000 shares were outstanding for six months: 60,000 × 6/12 = 30,000. Total weighted-average shares = 130,000.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "intermediate",
+        "blueprintYear": 2026,
+        "areaId": "intermediate-I",
+        "groupId": "8",
+        "topicId": "intermediate-intermediate-general",
+        "taskIds": [
+          "intermediate-intermediate-general.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "intermediate-m8-q9",
+      "courseId": "intermediate",
+      "moduleId": 8,
+      "topic": "Basic EPS",
+      "prompt": "Net income is $540,000 and there are no preferred dividends. A company had 120,000 shares outstanding all year and issued another 60,000 shares on October 1. What is basic EPS?",
+      "choices": [
+        {
+          "id": "intermediate-m8-q9-a0",
+          "text": "$3.00"
+        },
+        {
+          "id": "intermediate-m8-q9-a1",
+          "text": "$4.00"
+        },
+        {
+          "id": "intermediate-m8-q9-a2",
+          "text": "$4.24"
+        },
+        {
+          "id": "intermediate-m8-q9-a3",
+          "text": "$4.50"
+        }
+      ],
+      "correctChoiceId": "intermediate-m8-q9-a1",
+      "explanation": "The 60,000 new shares were outstanding for 3/12 of the year: 60,000 × 3/12 = 15,000. Weighted-average shares = 120,000 + 15,000 = 135,000. EPS = $540,000 ÷ 135,000 = $4.00.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "intermediate",
+        "blueprintYear": 2026,
+        "areaId": "intermediate-I",
+        "groupId": "8",
+        "topicId": "intermediate-intermediate-general",
+        "taskIds": [
+          "intermediate-intermediate-general.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "intermediate-m8-q10",
+      "courseId": "intermediate",
+      "moduleId": 8,
+      "topic": "Diluted EPS",
+      "prompt": "Which statement about potentially dilutive securities is correct?",
+      "choices": [
+        {
+          "id": "intermediate-m8-q10-a0",
+          "text": "Every potentially dilutive security must always be included"
+        },
+        {
+          "id": "intermediate-m8-q10-a1",
+          "text": "Antidilutive effects are excluded from diluted EPS"
+        },
+        {
+          "id": "intermediate-m8-q10-a2",
+          "text": "Options and convertible debt always use the same calculation method"
+        },
+        {
+          "id": "intermediate-m8-q10-a3",
+          "text": "Diluted EPS ignores potential common shares"
+        }
+      ],
+      "correctChoiceId": "intermediate-m8-q10-a1",
+      "explanation": "Potential common shares are included only when their effect is dilutive. Antidilutive effects are excluded.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "intermediate",
+        "blueprintYear": 2026,
+        "areaId": "intermediate-I",
+        "groupId": "8",
+        "topicId": "intermediate-intermediate-general",
+        "taskIds": [
+          "intermediate-intermediate-general.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    }
+  ]
+}

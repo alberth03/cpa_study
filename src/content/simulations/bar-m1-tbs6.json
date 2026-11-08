@@ -1,0 +1,124 @@
+{
+  "id": "bar-m1-tbs6",
+  "courseId": "bar",
+  "moduleId": 1,
+  "number": 6,
+  "title": "Strategic performance and valuation memo",
+  "html": "<div class=\"course-intro-card\"><h2>Strategic performance and valuation memo</h2><p>Prepare an enterprise-to-equity bridge and identify performance-management implications.</p></div><section class=\"quiz-card\"><h3>Required responses</h3><div class=\"tbs-question\"><label for=\"bar-m1-tbs6-f1\">Enterprise value</label><input id=\"bar-m1-tbs6-f1\" type=\"text\"></div><div class=\"tbs-question\"><label for=\"bar-m1-tbs6-f2\">Equity value</label><input id=\"bar-m1-tbs6-f2\" type=\"text\"></div><div class=\"tbs-question\"><label for=\"bar-m1-tbs6-f3\">Improve the shipment incentive</label><select id=\"bar-m1-tbs6-f3\"><option value=\"Include quality and customer-outcome measures aligned with strategy\">Include quality and customer-outcome measures aligned with strategy</option><option value=\"Ignore returns\">Ignore returns</option><option value=\"Reward volume regardless of consequences\">Reward volume regardless of consequences</option><option value=\"Remove all performance monitoring\">Remove all performance monitoring</option></select></div><div class=\"tbs-question\"><label for=\"bar-m1-tbs6-f4\">Response to supplier risk</label><select id=\"bar-m1-tbs6-f4\"><option value=\"Assess business effects, response options, and monitoring\">Assess business effects, response options, and monitoring</option><option value=\"Ignore all nonfinancial risk\">Ignore all nonfinancial risk</option><option value=\"Assume risk identification is the entire process\">Assume risk identification is the entire process</option><option value=\"Increase the valuation multiple automatically\">Increase the valuation multiple automatically</option></select></div></section>",
+  "metadata": {
+    "section": "bar",
+    "blueprintYear": 2026,
+    "areaId": "bar-I",
+    "groupId": "A-B",
+    "topicId": "bar-performance-risk-valuation",
+    "taskIds": [
+      "bar-performance-risk-valuation.task-1",
+      "bar-performance-risk-valuation.task-2",
+      "bar-performance-risk-valuation.task-3"
+    ],
+    "skill": "analysis",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      },
+      {
+        "title": "FASB accounting standards",
+        "url": "https://asc.fasb.org/"
+      },
+      {
+        "title": "GASB standards",
+        "url": "https://www.gasb.org/standards-and-implementation"
+      }
+    ]
+  },
+  "difficulty": "advanced",
+  "fields": [
+    {
+      "id": "bar-m1-tbs6-f1",
+      "label": "Enterprise value",
+      "type": "number",
+      "options": [],
+      "correct": 20000000,
+      "explanation": "$4,000,000 × 5 = $20,000,000.",
+      "topicId": "bar-performance-risk-valuation"
+    },
+    {
+      "id": "bar-m1-tbs6-f2",
+      "label": "Equity value",
+      "type": "number",
+      "options": [],
+      "correct": 15000000,
+      "explanation": "$20,000,000 − $7,000,000 + $2,000,000 = $15,000,000.",
+      "topicId": "bar-performance-risk-valuation"
+    },
+    {
+      "id": "bar-m1-tbs6-f3",
+      "label": "Improve the shipment incentive",
+      "type": "select",
+      "options": [
+        {
+          "value": "Include quality and customer-outcome measures aligned with strategy",
+          "label": "Include quality and customer-outcome measures aligned with strategy"
+        },
+        {
+          "value": "Ignore returns",
+          "label": "Ignore returns"
+        },
+        {
+          "value": "Reward volume regardless of consequences",
+          "label": "Reward volume regardless of consequences"
+        },
+        {
+          "value": "Remove all performance monitoring",
+          "label": "Remove all performance monitoring"
+        }
+      ],
+      "correct": "Include quality and customer-outcome measures aligned with strategy",
+      "explanation": "Balanced measures reduce incentives to sacrifice long-term outcomes.",
+      "topicId": "bar-performance-risk-valuation"
+    },
+    {
+      "id": "bar-m1-tbs6-f4",
+      "label": "Response to supplier risk",
+      "type": "select",
+      "options": [
+        {
+          "value": "Assess business effects, response options, and monitoring",
+          "label": "Assess business effects, response options, and monitoring"
+        },
+        {
+          "value": "Ignore all nonfinancial risk",
+          "label": "Ignore all nonfinancial risk"
+        },
+        {
+          "value": "Assume risk identification is the entire process",
+          "label": "Assume risk identification is the entire process"
+        },
+        {
+          "value": "Increase the valuation multiple automatically",
+          "label": "Increase the valuation multiple automatically"
+        }
+      ],
+      "correct": "Assess business effects, response options, and monitoring",
+      "explanation": "ERM connects the risk to strategy and practical responses.",
+      "topicId": "bar-performance-risk-valuation"
+    }
+  ],
+  "exhibits": [
+    {
+      "id": "bar-m1-tbs6-ex1",
+      "title": "Valuation inputs",
+      "html": "<p>EBITDA $4,000,000; supplied EV/EBITDA multiple 5×; debt $7,000,000; excess cash $2,000,000. Ignore other claims.</p>"
+    },
+    {
+      "id": "bar-m1-tbs6-ex2",
+      "title": "Strategy observations",
+      "html": "<p>Management rewards shipment volume but ignores returns and service quality. A key supplier faces a material disruption risk.</p>"
+    }
+  ],
+  "explanation": "<h3>Enterprise value</h3><p>$4,000,000 × 5 = $20,000,000.</p><h3>Equity value</h3><p>$20,000,000 − $7,000,000 + $2,000,000 = $15,000,000.</p><h3>Improve the shipment incentive</h3><p>Balanced measures reduce incentives to sacrifice long-term outcomes.</p><h3>Response to supplier risk</h3><p>ERM connects the risk to strategy and practical responses.</p>"
+}

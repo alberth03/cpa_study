@@ -1,0 +1,1763 @@
+{
+  "id": "tcp-m4-practice",
+  "title": "Advanced Property Transactions Practice",
+  "courseId": "tcp",
+  "moduleId": 4,
+  "selection": "per-lesson",
+  "feedback": "immediate",
+  "passPercent": 80,
+  "questions": [
+    {
+      "id": "tcp-m4-l1-q1",
+      "courseId": "tcp",
+      "moduleId": 4,
+      "lessonId": "tcp-m4-l1",
+      "topic": "Like-Kind Exchanges, Boot & Replacement Basis",
+      "prompt": "Which property can potentially qualify under the general modern Section 1031 scope, if all requirements are met?",
+      "choices": [
+        {
+          "id": "tcp-m4-l1-q1-a0",
+          "text": "Every personal automobile."
+        },
+        {
+          "id": "tcp-m4-l1-q1-a1",
+          "text": "Inventory held for sale in every case."
+        },
+        {
+          "id": "tcp-m4-l1-q1-a2",
+          "text": "Any publicly traded stock."
+        },
+        {
+          "id": "tcp-m4-l1-q1-a3",
+          "text": "Real property held for business or investment."
+        }
+      ],
+      "correctChoiceId": "tcp-m4-l1-q1-a3",
+      "explanation": "The provision generally concerns qualifying real property under the applicable rules.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "tcp",
+        "blueprintYear": 2026,
+        "areaId": "tcp-IV",
+        "groupId": "A",
+        "topicId": "tcp-property-like-kind",
+        "taskIds": [
+          "tcp-property-like-kind.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          }
+        ]
+      }
+    },
+    {
+      "id": "tcp-m4-l1-q2",
+      "courseId": "tcp",
+      "moduleId": 4,
+      "lessonId": "tcp-m4-l1",
+      "topic": "Like-Kind Exchanges, Boot & Replacement Basis",
+      "prompt": "Old basis is $80,000; replacement property value $130,000; cash boot $10,000. No other items apply. What is realized gain?",
+      "choices": [
+        {
+          "id": "tcp-m4-l1-q2-a0",
+          "text": "$60,000."
+        },
+        {
+          "id": "tcp-m4-l1-q2-a1",
+          "text": "$50,000."
+        },
+        {
+          "id": "tcp-m4-l1-q2-a2",
+          "text": "$10,000."
+        },
+        {
+          "id": "tcp-m4-l1-q2-a3",
+          "text": "$140,000."
+        }
+      ],
+      "correctChoiceId": "tcp-m4-l1-q2-a0",
+      "explanation": "Total amount realized $140,000 less $80,000 basis.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "tcp",
+        "blueprintYear": 2026,
+        "areaId": "tcp-IV",
+        "groupId": "A",
+        "topicId": "tcp-property-like-kind",
+        "taskIds": [
+          "tcp-property-like-kind.task-2"
+        ],
+        "skill": "application",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          }
+        ]
+      }
+    },
+    {
+      "id": "tcp-m4-l1-q3",
+      "courseId": "tcp",
+      "moduleId": 4,
+      "lessonId": "tcp-m4-l1",
+      "topic": "Like-Kind Exchanges, Boot & Replacement Basis",
+      "prompt": "The qualifying exchange has $60,000 realized gain and $10,000 cash boot. What is recognized gain under the stated simple rules?",
+      "choices": [
+        {
+          "id": "tcp-m4-l1-q3-a0",
+          "text": "$60,000."
+        },
+        {
+          "id": "tcp-m4-l1-q3-a1",
+          "text": "$10,000."
+        },
+        {
+          "id": "tcp-m4-l1-q3-a2",
+          "text": "$50,000."
+        },
+        {
+          "id": "tcp-m4-l1-q3-a3",
+          "text": "Zero regardless of boot."
+        }
+      ],
+      "correctChoiceId": "tcp-m4-l1-q3-a1",
+      "explanation": "Cash boot triggers recognition up to realized gain.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "tcp",
+        "blueprintYear": 2026,
+        "areaId": "tcp-IV",
+        "groupId": "A",
+        "topicId": "tcp-property-like-kind",
+        "taskIds": [
+          "tcp-property-like-kind.task-3"
+        ],
+        "skill": "application",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          }
+        ]
+      }
+    },
+    {
+      "id": "tcp-m4-l1-q4",
+      "courseId": "tcp",
+      "moduleId": 4,
+      "lessonId": "tcp-m4-l1",
+      "topic": "Like-Kind Exchanges, Boot & Replacement Basis",
+      "prompt": "Replacement value is $130,000 and deferred gain $50,000. What is replacement basis?",
+      "choices": [
+        {
+          "id": "tcp-m4-l1-q4-a0",
+          "text": "$130,000."
+        },
+        {
+          "id": "tcp-m4-l1-q4-a1",
+          "text": "$180,000."
+        },
+        {
+          "id": "tcp-m4-l1-q4-a2",
+          "text": "$80,000."
+        },
+        {
+          "id": "tcp-m4-l1-q4-a3",
+          "text": "$50,000."
+        }
+      ],
+      "correctChoiceId": "tcp-m4-l1-q4-a2",
+      "explanation": "Replacement value less deferred gain preserves the unrecognized gain.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "tcp",
+        "blueprintYear": 2026,
+        "areaId": "tcp-IV",
+        "groupId": "A",
+        "topicId": "tcp-property-like-kind",
+        "taskIds": [
+          "tcp-property-like-kind.task-1"
+        ],
+        "skill": "application",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          }
+        ]
+      }
+    },
+    {
+      "id": "tcp-m4-l1-q5",
+      "courseId": "tcp",
+      "moduleId": 4,
+      "lessonId": "tcp-m4-l1",
+      "topic": "Like-Kind Exchanges, Boot & Replacement Basis",
+      "prompt": "Why must deferred-exchange dates and receipt-of-proceeds facts be examined?",
+      "choices": [
+        {
+          "id": "tcp-m4-l1-q5-a0",
+          "text": "Dates never matter."
+        },
+        {
+          "id": "tcp-m4-l1-q5-a1",
+          "text": "Any reinvestment at any time is tax-free."
+        },
+        {
+          "id": "tcp-m4-l1-q5-a2",
+          "text": "Only the asset’s name matters."
+        },
+        {
+          "id": "tcp-m4-l1-q5-a3",
+          "text": "Qualification depends on specific legal requirements, not merely an intent to reinvest."
+        }
+      ],
+      "correctChoiceId": "tcp-m4-l1-q5-a3",
+      "explanation": "The exchange must satisfy statutory and regulatory conditions.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "tcp",
+        "blueprintYear": 2026,
+        "areaId": "tcp-IV",
+        "groupId": "A",
+        "topicId": "tcp-property-like-kind",
+        "taskIds": [
+          "tcp-property-like-kind.task-2"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          }
+        ]
+      }
+    },
+    {
+      "id": "tcp-m4-l1-q6",
+      "courseId": "tcp",
+      "moduleId": 4,
+      "lessonId": "tcp-m4-l1",
+      "topic": "Like-Kind Exchanges, Boot & Replacement Basis",
+      "prompt": "What happens to deferred gain economically through a lower replacement basis?",
+      "choices": [
+        {
+          "id": "tcp-m4-l1-q6-a0",
+          "text": "It can be recognized in a later taxable disposition."
+        },
+        {
+          "id": "tcp-m4-l1-q6-a1",
+          "text": "It automatically becomes a refundable credit."
+        },
+        {
+          "id": "tcp-m4-l1-q6-a2",
+          "text": "It always disappears permanently."
+        },
+        {
+          "id": "tcp-m4-l1-q6-a3",
+          "text": "It is immediately deducted as an expense."
+        }
+      ],
+      "correctChoiceId": "tcp-m4-l1-q6-a0",
+      "explanation": "Deferral changes timing and is preserved in basis.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "tcp",
+        "blueprintYear": 2026,
+        "areaId": "tcp-IV",
+        "groupId": "A",
+        "topicId": "tcp-property-like-kind",
+        "taskIds": [
+          "tcp-property-like-kind.task-3"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          }
+        ]
+      }
+    },
+    {
+      "id": "tcp-m4-l1-q7",
+      "courseId": "tcp",
+      "moduleId": 4,
+      "lessonId": "tcp-m4-l1",
+      "topic": "Like-Kind Exchanges, Boot & Replacement Basis",
+      "prompt": "Compute the gain and basis consequences of an exchange that satisfies all stated Section 1031 requirements. Property transferred: Adjusted basis $150,000; fair value $240,000. Consideration: Qualifying replacement real property worth $210,000 plus cash boot $30,000. No liabilities, expenses, or other complications. Required: Realized gain.",
+      "choices": [
+        {
+          "id": "tcp-m4-l1-q7-a0",
+          "text": "60000"
+        },
+        {
+          "id": "tcp-m4-l1-q7-a1",
+          "text": "90000"
+        },
+        {
+          "id": "tcp-m4-l1-q7-a2",
+          "text": "30000"
+        },
+        {
+          "id": "tcp-m4-l1-q7-a3",
+          "text": "240000"
+        }
+      ],
+      "correctChoiceId": "tcp-m4-l1-q7-a1",
+      "explanation": "$240,000 total value received less $150,000 basis.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "tcp",
+        "blueprintYear": 2026,
+        "areaId": "tcp-IV",
+        "groupId": "A",
+        "topicId": "tcp-property-like-kind",
+        "taskIds": [
+          "tcp-property-like-kind.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          }
+        ]
+      },
+      "familyId": "tcp-m4-tbs1"
+    },
+    {
+      "id": "tcp-m4-l1-q8",
+      "courseId": "tcp",
+      "moduleId": 4,
+      "lessonId": "tcp-m4-l1",
+      "topic": "Like-Kind Exchanges, Boot & Replacement Basis",
+      "prompt": "Compute the gain and basis consequences of an exchange that satisfies all stated Section 1031 requirements. Property transferred: Adjusted basis $150,000; fair value $240,000. Consideration: Qualifying replacement real property worth $210,000 plus cash boot $30,000. No liabilities, expenses, or other complications. Required: Recognized gain.",
+      "choices": [
+        {
+          "id": "tcp-m4-l1-q8-a0",
+          "text": "90000"
+        },
+        {
+          "id": "tcp-m4-l1-q8-a1",
+          "text": "60000"
+        },
+        {
+          "id": "tcp-m4-l1-q8-a2",
+          "text": "30000"
+        },
+        {
+          "id": "tcp-m4-l1-q8-a3",
+          "text": "0"
+        }
+      ],
+      "correctChoiceId": "tcp-m4-l1-q8-a2",
+      "explanation": "Recognize the $30,000 cash boot, limited by realized gain.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "tcp",
+        "blueprintYear": 2026,
+        "areaId": "tcp-IV",
+        "groupId": "A",
+        "topicId": "tcp-property-like-kind",
+        "taskIds": [
+          "tcp-property-like-kind.task-2"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          }
+        ]
+      },
+      "familyId": "tcp-m4-tbs1"
+    },
+    {
+      "id": "tcp-m4-l1-q9",
+      "courseId": "tcp",
+      "moduleId": 4,
+      "lessonId": "tcp-m4-l1",
+      "topic": "Like-Kind Exchanges, Boot & Replacement Basis",
+      "prompt": "Compute the gain and basis consequences of an exchange that satisfies all stated Section 1031 requirements. Property transferred: Adjusted basis $150,000; fair value $240,000. Consideration: Qualifying replacement real property worth $210,000 plus cash boot $30,000. No liabilities, expenses, or other complications. Required: Deferred gain.",
+      "choices": [
+        {
+          "id": "tcp-m4-l1-q9-a0",
+          "text": "90000"
+        },
+        {
+          "id": "tcp-m4-l1-q9-a1",
+          "text": "30000"
+        },
+        {
+          "id": "tcp-m4-l1-q9-a2",
+          "text": "150000"
+        },
+        {
+          "id": "tcp-m4-l1-q9-a3",
+          "text": "60000"
+        }
+      ],
+      "correctChoiceId": "tcp-m4-l1-q9-a3",
+      "explanation": "$90,000 − $30,000 = $60,000.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "tcp",
+        "blueprintYear": 2026,
+        "areaId": "tcp-IV",
+        "groupId": "A",
+        "topicId": "tcp-property-like-kind",
+        "taskIds": [
+          "tcp-property-like-kind.task-3"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          }
+        ]
+      },
+      "familyId": "tcp-m4-tbs1"
+    },
+    {
+      "id": "tcp-m4-l1-q10",
+      "courseId": "tcp",
+      "moduleId": 4,
+      "lessonId": "tcp-m4-l1",
+      "topic": "Like-Kind Exchanges, Boot & Replacement Basis",
+      "prompt": "Compute the gain and basis consequences of an exchange that satisfies all stated Section 1031 requirements. Property transferred: Adjusted basis $150,000; fair value $240,000. Consideration: Qualifying replacement real property worth $210,000 plus cash boot $30,000. No liabilities, expenses, or other complications. Required: Replacement-property basis.",
+      "choices": [
+        {
+          "id": "tcp-m4-l1-q10-a0",
+          "text": "150000"
+        },
+        {
+          "id": "tcp-m4-l1-q10-a1",
+          "text": "210000"
+        },
+        {
+          "id": "tcp-m4-l1-q10-a2",
+          "text": "180000"
+        },
+        {
+          "id": "tcp-m4-l1-q10-a3",
+          "text": "120000"
+        }
+      ],
+      "correctChoiceId": "tcp-m4-l1-q10-a0",
+      "explanation": "$210,000 replacement value less $60,000 deferred gain.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "tcp",
+        "blueprintYear": 2026,
+        "areaId": "tcp-IV",
+        "groupId": "A",
+        "topicId": "tcp-property-like-kind",
+        "taskIds": [
+          "tcp-property-like-kind.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          }
+        ]
+      },
+      "familyId": "tcp-m4-tbs1"
+    },
+    {
+      "id": "tcp-m4-l2-q1",
+      "courseId": "tcp",
+      "moduleId": 4,
+      "lessonId": "tcp-m4-l2",
+      "topic": "Installment Sales & Involuntary Conversions",
+      "prompt": "Eligible debt-free land sells for $400,000 with basis $240,000 and selling costs $20,000. What is gross profit?",
+      "choices": [
+        {
+          "id": "tcp-m4-l2-q1-a0",
+          "text": "$140,000."
+        },
+        {
+          "id": "tcp-m4-l2-q1-a1",
+          "text": "$160,000."
+        },
+        {
+          "id": "tcp-m4-l2-q1-a2",
+          "text": "$400,000."
+        },
+        {
+          "id": "tcp-m4-l2-q1-a3",
+          "text": "$260,000."
+        }
+      ],
+      "correctChoiceId": "tcp-m4-l2-q1-a0",
+      "explanation": "$400,000 − $240,000 − $20,000 = $140,000.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "tcp",
+        "blueprintYear": 2026,
+        "areaId": "tcp-IV",
+        "groupId": "A",
+        "topicId": "tcp-property-installment-conversion",
+        "taskIds": [
+          "tcp-property-installment-conversion.task-1"
+        ],
+        "skill": "application",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          }
+        ]
+      }
+    },
+    {
+      "id": "tcp-m4-l2-q2",
+      "courseId": "tcp",
+      "moduleId": 4,
+      "lessonId": "tcp-m4-l2",
+      "topic": "Installment Sales & Involuntary Conversions",
+      "prompt": "Gross profit is $140,000 and contract price $400,000. What is the gross-profit percentage?",
+      "choices": [
+        {
+          "id": "tcp-m4-l2-q2-a0",
+          "text": "65%."
+        },
+        {
+          "id": "tcp-m4-l2-q2-a1",
+          "text": "35%."
+        },
+        {
+          "id": "tcp-m4-l2-q2-a2",
+          "text": "40%."
+        },
+        {
+          "id": "tcp-m4-l2-q2-a3",
+          "text": "14%."
+        }
+      ],
+      "correctChoiceId": "tcp-m4-l2-q2-a1",
+      "explanation": "$140,000 ÷ $400,000 = 35%.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "tcp",
+        "blueprintYear": 2026,
+        "areaId": "tcp-IV",
+        "groupId": "A",
+        "topicId": "tcp-property-installment-conversion",
+        "taskIds": [
+          "tcp-property-installment-conversion.task-2"
+        ],
+        "skill": "application",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          }
+        ]
+      }
+    },
+    {
+      "id": "tcp-m4-l2-q3",
+      "courseId": "tcp",
+      "moduleId": 4,
+      "lessonId": "tcp-m4-l2",
+      "topic": "Installment Sales & Involuntary Conversions",
+      "prompt": "Eligible principal collections are $100,000 and the gross-profit percentage is 35%. What is installment gain?",
+      "choices": [
+        {
+          "id": "tcp-m4-l2-q3-a0",
+          "text": "$100,000."
+        },
+        {
+          "id": "tcp-m4-l2-q3-a1",
+          "text": "$65,000."
+        },
+        {
+          "id": "tcp-m4-l2-q3-a2",
+          "text": "$35,000."
+        },
+        {
+          "id": "tcp-m4-l2-q3-a3",
+          "text": "$140,000."
+        }
+      ],
+      "correctChoiceId": "tcp-m4-l2-q3-a2",
+      "explanation": "Apply the ratio to qualifying principal collected.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "tcp",
+        "blueprintYear": 2026,
+        "areaId": "tcp-IV",
+        "groupId": "A",
+        "topicId": "tcp-property-installment-conversion",
+        "taskIds": [
+          "tcp-property-installment-conversion.task-3"
+        ],
+        "skill": "application",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          }
+        ]
+      }
+    },
+    {
+      "id": "tcp-m4-l2-q4",
+      "courseId": "tcp",
+      "moduleId": 4,
+      "lessonId": "tcp-m4-l2",
+      "topic": "Installment Sales & Involuntary Conversions",
+      "prompt": "How is stated interest received on an installment obligation generally treated in the simple model?",
+      "choices": [
+        {
+          "id": "tcp-m4-l2-q4-a0",
+          "text": "Always multiplied by the gross-profit percentage as principal."
+        },
+        {
+          "id": "tcp-m4-l2-q4-a1",
+          "text": "Always tax-free."
+        },
+        {
+          "id": "tcp-m4-l2-q4-a2",
+          "text": "Always a reduction of basis only."
+        },
+        {
+          "id": "tcp-m4-l2-q4-a3",
+          "text": "Separately from principal used in the installment-gain calculation."
+        }
+      ],
+      "correctChoiceId": "tcp-m4-l2-q4-a3",
+      "explanation": "Interest and principal have distinct tax treatment.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "tcp",
+        "blueprintYear": 2026,
+        "areaId": "tcp-IV",
+        "groupId": "A",
+        "topicId": "tcp-property-installment-conversion",
+        "taskIds": [
+          "tcp-property-installment-conversion.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          }
+        ]
+      }
+    },
+    {
+      "id": "tcp-m4-l2-q5",
+      "courseId": "tcp",
+      "moduleId": 4,
+      "lessonId": "tcp-m4-l2",
+      "topic": "Installment Sales & Involuntary Conversions",
+      "prompt": "A qualifying involuntary conversion produces $200,000 proceeds, basis $120,000, and $180,000 qualifying replacement cost. Under the stated reinvestment rule, what gain is recognized?",
+      "choices": [
+        {
+          "id": "tcp-m4-l2-q5-a0",
+          "text": "$20,000."
+        },
+        {
+          "id": "tcp-m4-l2-q5-a1",
+          "text": "$80,000."
+        },
+        {
+          "id": "tcp-m4-l2-q5-a2",
+          "text": "$60,000."
+        },
+        {
+          "id": "tcp-m4-l2-q5-a3",
+          "text": "Zero regardless of reinvestment."
+        }
+      ],
+      "correctChoiceId": "tcp-m4-l2-q5-a0",
+      "explanation": "The $20,000 unreinvested amount limits current recognition under the supplied assumptions.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "tcp",
+        "blueprintYear": 2026,
+        "areaId": "tcp-IV",
+        "groupId": "A",
+        "topicId": "tcp-property-installment-conversion",
+        "taskIds": [
+          "tcp-property-installment-conversion.task-2"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          }
+        ]
+      }
+    },
+    {
+      "id": "tcp-m4-l2-q6",
+      "courseId": "tcp",
+      "moduleId": 4,
+      "lessonId": "tcp-m4-l2",
+      "topic": "Installment Sales & Involuntary Conversions",
+      "prompt": "If replacement cost is $180,000 and deferred gain $60,000, what is replacement basis?",
+      "choices": [
+        {
+          "id": "tcp-m4-l2-q6-a0",
+          "text": "$180,000."
+        },
+        {
+          "id": "tcp-m4-l2-q6-a1",
+          "text": "$120,000."
+        },
+        {
+          "id": "tcp-m4-l2-q6-a2",
+          "text": "$240,000."
+        },
+        {
+          "id": "tcp-m4-l2-q6-a3",
+          "text": "$60,000."
+        }
+      ],
+      "correctChoiceId": "tcp-m4-l2-q6-a1",
+      "explanation": "Cost less deferred gain equals $120,000.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "tcp",
+        "blueprintYear": 2026,
+        "areaId": "tcp-IV",
+        "groupId": "A",
+        "topicId": "tcp-property-installment-conversion",
+        "taskIds": [
+          "tcp-property-installment-conversion.task-3"
+        ],
+        "skill": "application",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          }
+        ]
+      }
+    },
+    {
+      "id": "tcp-m4-l2-q7",
+      "courseId": "tcp",
+      "moduleId": 4,
+      "lessonId": "tcp-m4-l2",
+      "topic": "Installment Sales & Involuntary Conversions",
+      "prompt": "Compute an eligible installment sale of nondepreciable investment land. Sale terms: Selling price and contract price $500,000. Adjusted basis $300,000. Qualifying selling costs $25,000. No assumed debt or recapture. Collections: Current-year principal collections $200,000. Interest is separately stated and excluded from the requested computations. Required: Gross profit.",
+      "choices": [
+        {
+          "id": "tcp-m4-l2-q7-a0",
+          "text": "200000"
+        },
+        {
+          "id": "tcp-m4-l2-q7-a1",
+          "text": "500000"
+        },
+        {
+          "id": "tcp-m4-l2-q7-a2",
+          "text": "175000"
+        },
+        {
+          "id": "tcp-m4-l2-q7-a3",
+          "text": "325000"
+        }
+      ],
+      "correctChoiceId": "tcp-m4-l2-q7-a2",
+      "explanation": "$500,000 − $300,000 − $25,000 = $175,000.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "tcp",
+        "blueprintYear": 2026,
+        "areaId": "tcp-IV",
+        "groupId": "A",
+        "topicId": "tcp-property-installment-conversion",
+        "taskIds": [
+          "tcp-property-installment-conversion.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          }
+        ]
+      },
+      "familyId": "tcp-m4-tbs2"
+    },
+    {
+      "id": "tcp-m4-l2-q8",
+      "courseId": "tcp",
+      "moduleId": 4,
+      "lessonId": "tcp-m4-l2",
+      "topic": "Installment Sales & Involuntary Conversions",
+      "prompt": "Compute an eligible installment sale of nondepreciable investment land. Sale terms: Selling price and contract price $500,000. Adjusted basis $300,000. Qualifying selling costs $25,000. No assumed debt or recapture. Collections: Current-year principal collections $200,000. Interest is separately stated and excluded from the requested computations. Required: Gross-profit percentage.",
+      "choices": [
+        {
+          "id": "tcp-m4-l2-q8-a0",
+          "text": "40"
+        },
+        {
+          "id": "tcp-m4-l2-q8-a1",
+          "text": "65"
+        },
+        {
+          "id": "tcp-m4-l2-q8-a2",
+          "text": "17.5"
+        },
+        {
+          "id": "tcp-m4-l2-q8-a3",
+          "text": "35"
+        }
+      ],
+      "correctChoiceId": "tcp-m4-l2-q8-a3",
+      "explanation": "$175,000 ÷ $500,000 = 35%.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "tcp",
+        "blueprintYear": 2026,
+        "areaId": "tcp-IV",
+        "groupId": "A",
+        "topicId": "tcp-property-installment-conversion",
+        "taskIds": [
+          "tcp-property-installment-conversion.task-2"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          }
+        ]
+      },
+      "familyId": "tcp-m4-tbs2"
+    },
+    {
+      "id": "tcp-m4-l2-q9",
+      "courseId": "tcp",
+      "moduleId": 4,
+      "lessonId": "tcp-m4-l2",
+      "topic": "Installment Sales & Involuntary Conversions",
+      "prompt": "Compute an eligible installment sale of nondepreciable investment land. Sale terms: Selling price and contract price $500,000. Adjusted basis $300,000. Qualifying selling costs $25,000. No assumed debt or recapture. Collections: Current-year principal collections $200,000. Interest is separately stated and excluded from the requested computations. Required: Current installment gain.",
+      "choices": [
+        {
+          "id": "tcp-m4-l2-q9-a0",
+          "text": "70000"
+        },
+        {
+          "id": "tcp-m4-l2-q9-a1",
+          "text": "200000"
+        },
+        {
+          "id": "tcp-m4-l2-q9-a2",
+          "text": "175000"
+        },
+        {
+          "id": "tcp-m4-l2-q9-a3",
+          "text": "130000"
+        }
+      ],
+      "correctChoiceId": "tcp-m4-l2-q9-a0",
+      "explanation": "$200,000 principal × 35% = $70,000.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "tcp",
+        "blueprintYear": 2026,
+        "areaId": "tcp-IV",
+        "groupId": "A",
+        "topicId": "tcp-property-installment-conversion",
+        "taskIds": [
+          "tcp-property-installment-conversion.task-3"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          }
+        ]
+      },
+      "familyId": "tcp-m4-tbs2"
+    },
+    {
+      "id": "tcp-m4-l2-q10",
+      "courseId": "tcp",
+      "moduleId": 4,
+      "lessonId": "tcp-m4-l2",
+      "topic": "Installment Sales & Involuntary Conversions",
+      "prompt": "Compute an eligible installment sale of nondepreciable investment land. Sale terms: Selling price and contract price $500,000. Adjusted basis $300,000. Qualifying selling costs $25,000. No assumed debt or recapture. Collections: Current-year principal collections $200,000. Interest is separately stated and excluded from the requested computations. Required: Basis recovery included in current principal.",
+      "choices": [
+        {
+          "id": "tcp-m4-l2-q10-a0",
+          "text": "70000"
+        },
+        {
+          "id": "tcp-m4-l2-q10-a1",
+          "text": "130000"
+        },
+        {
+          "id": "tcp-m4-l2-q10-a2",
+          "text": "300000"
+        },
+        {
+          "id": "tcp-m4-l2-q10-a3",
+          "text": "200000"
+        }
+      ],
+      "correctChoiceId": "tcp-m4-l2-q10-a1",
+      "explanation": "$200,000 collected less $70,000 gain = $130,000 basis recovery.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "tcp",
+        "blueprintYear": 2026,
+        "areaId": "tcp-IV",
+        "groupId": "A",
+        "topicId": "tcp-property-installment-conversion",
+        "taskIds": [
+          "tcp-property-installment-conversion.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          }
+        ]
+      },
+      "familyId": "tcp-m4-tbs2"
+    },
+    {
+      "id": "tcp-m4-l3-q1",
+      "courseId": "tcp",
+      "moduleId": 4,
+      "lessonId": "tcp-m4-l3",
+      "topic": "Wash Sales, Gain Character & Disposition Planning",
+      "prompt": "Stock basis is $20,000 and sale proceeds $14,000. The loss is disallowed by a qualifying wash sale. Replacement cost is $16,000. What is replacement basis under the ordinary rule?",
+      "choices": [
+        {
+          "id": "tcp-m4-l3-q1-a0",
+          "text": "$16,000."
+        },
+        {
+          "id": "tcp-m4-l3-q1-a1",
+          "text": "$22,000."
+        },
+        {
+          "id": "tcp-m4-l3-q1-a2",
+          "text": "$10,000."
+        },
+        {
+          "id": "tcp-m4-l3-q1-a3",
+          "text": "$36,000."
+        }
+      ],
+      "correctChoiceId": "tcp-m4-l3-q1-a1",
+      "explanation": "Add the $6,000 disallowed loss to $16,000 replacement cost.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "tcp",
+        "blueprintYear": 2026,
+        "areaId": "tcp-IV",
+        "groupId": "A",
+        "topicId": "tcp-property-character-planning",
+        "taskIds": [
+          "tcp-property-character-planning.task-1"
+        ],
+        "skill": "application",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          }
+        ]
+      }
+    },
+    {
+      "id": "tcp-m4-l3-q2",
+      "courseId": "tcp",
+      "moduleId": 4,
+      "lessonId": "tcp-m4-l3",
+      "topic": "Wash Sales, Gain Character & Disposition Planning",
+      "prompt": "What purchase window is generally relevant to a wash-sale analysis?",
+      "choices": [
+        {
+          "id": "tcp-m4-l3-q2-a0",
+          "text": "Only the day after the sale."
+        },
+        {
+          "id": "tcp-m4-l3-q2-a1",
+          "text": "Only the next calendar year."
+        },
+        {
+          "id": "tcp-m4-l3-q2-a2",
+          "text": "The relevant 30-day periods before and after the loss sale."
+        },
+        {
+          "id": "tcp-m4-l3-q2-a3",
+          "text": "Only the holding period of the original shares."
+        }
+      ],
+      "correctChoiceId": "tcp-m4-l3-q2-a2",
+      "explanation": "Both pre-sale and post-sale acquisitions can matter.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "tcp",
+        "blueprintYear": 2026,
+        "areaId": "tcp-IV",
+        "groupId": "A",
+        "topicId": "tcp-property-character-planning",
+        "taskIds": [
+          "tcp-property-character-planning.task-2"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          }
+        ]
+      }
+    },
+    {
+      "id": "tcp-m4-l3-q3",
+      "courseId": "tcp",
+      "moduleId": 4,
+      "lessonId": "tcp-m4-l3",
+      "topic": "Wash Sales, Gain Character & Disposition Planning",
+      "prompt": "A supplied Section 1231 analysis has $60,000 net gain and $25,000 subject to ordinary treatment under the lookback rule. What remains for the stated long-term capital treatment?",
+      "choices": [
+        {
+          "id": "tcp-m4-l3-q3-a0",
+          "text": "$60,000."
+        },
+        {
+          "id": "tcp-m4-l3-q3-a1",
+          "text": "$25,000."
+        },
+        {
+          "id": "tcp-m4-l3-q3-a2",
+          "text": "$85,000."
+        },
+        {
+          "id": "tcp-m4-l3-q3-a3",
+          "text": "$35,000."
+        }
+      ],
+      "correctChoiceId": "tcp-m4-l3-q3-a3",
+      "explanation": "$60,000 − $25,000 = $35,000.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "tcp",
+        "blueprintYear": 2026,
+        "areaId": "tcp-IV",
+        "groupId": "A",
+        "topicId": "tcp-property-character-planning",
+        "taskIds": [
+          "tcp-property-character-planning.task-3"
+        ],
+        "skill": "application",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          }
+        ]
+      }
+    },
+    {
+      "id": "tcp-m4-l3-q4",
+      "courseId": "tcp",
+      "moduleId": 4,
+      "lessonId": "tcp-m4-l3",
+      "topic": "Wash Sales, Gain Character & Disposition Planning",
+      "prompt": "Why evaluate depreciation recapture before concluding that business-property gain is capital?",
+      "choices": [
+        {
+          "id": "tcp-m4-l3-q4-a0",
+          "text": "Recapture can require ordinary-income treatment for part of the gain."
+        },
+        {
+          "id": "tcp-m4-l3-q4-a1",
+          "text": "All long-held business assets always produce capital gain."
+        },
+        {
+          "id": "tcp-m4-l3-q4-a2",
+          "text": "Depreciation never affects gain character."
+        },
+        {
+          "id": "tcp-m4-l3-q4-a3",
+          "text": "Only sale proceeds matter."
+        }
+      ],
+      "correctChoiceId": "tcp-m4-l3-q4-a0",
+      "explanation": "Character rules apply in a sequence and can override a simple holding-period conclusion.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "tcp",
+        "blueprintYear": 2026,
+        "areaId": "tcp-IV",
+        "groupId": "A",
+        "topicId": "tcp-property-character-planning",
+        "taskIds": [
+          "tcp-property-character-planning.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          }
+        ]
+      }
+    },
+    {
+      "id": "tcp-m4-l3-q5",
+      "courseId": "tcp",
+      "moduleId": 4,
+      "lessonId": "tcp-m4-l3",
+      "topic": "Wash Sales, Gain Character & Disposition Planning",
+      "prompt": "A qualifying home sale has $300,000 gain and a supplied applicable exclusion of $250,000. No other adjustment applies. What gain remains recognized?",
+      "choices": [
+        {
+          "id": "tcp-m4-l3-q5-a0",
+          "text": "$300,000."
+        },
+        {
+          "id": "tcp-m4-l3-q5-a1",
+          "text": "$50,000."
+        },
+        {
+          "id": "tcp-m4-l3-q5-a2",
+          "text": "$250,000."
+        },
+        {
+          "id": "tcp-m4-l3-q5-a3",
+          "text": "Zero regardless of the exclusion limit."
+        }
+      ],
+      "correctChoiceId": "tcp-m4-l3-q5-a1",
+      "explanation": "$300,000 − $250,000 = $50,000.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "tcp",
+        "blueprintYear": 2026,
+        "areaId": "tcp-IV",
+        "groupId": "A",
+        "topicId": "tcp-property-character-planning",
+        "taskIds": [
+          "tcp-property-character-planning.task-2"
+        ],
+        "skill": "application",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          }
+        ]
+      }
+    },
+    {
+      "id": "tcp-m4-l3-q6",
+      "courseId": "tcp",
+      "moduleId": 4,
+      "lessonId": "tcp-m4-l3",
+      "topic": "Wash Sales, Gain Character & Disposition Planning",
+      "prompt": "What must be established before applying a principal-residence gain exclusion?",
+      "choices": [
+        {
+          "id": "tcp-m4-l3-q6-a0",
+          "text": "Only that the seller calls the property a home."
+        },
+        {
+          "id": "tcp-m4-l3-q6-a1",
+          "text": "Only the mortgage balance."
+        },
+        {
+          "id": "tcp-m4-l3-q6-a2",
+          "text": "The applicable ownership, use, timing, and other eligibility requirements."
+        },
+        {
+          "id": "tcp-m4-l3-q6-a3",
+          "text": "Only the buyer’s intended use."
+        }
+      ],
+      "correctChoiceId": "tcp-m4-l3-q6-a2",
+      "explanation": "Exclusion eligibility depends on substantive statutory conditions.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "tcp",
+        "blueprintYear": 2026,
+        "areaId": "tcp-IV",
+        "groupId": "A",
+        "topicId": "tcp-property-character-planning",
+        "taskIds": [
+          "tcp-property-character-planning.task-3"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          }
+        ]
+      }
+    },
+    {
+      "id": "tcp-m4-l3-q7",
+      "courseId": "tcp",
+      "moduleId": 4,
+      "lessonId": "tcp-m4-l3",
+      "topic": "Wash Sales, Gain Character & Disposition Planning",
+      "prompt": "Complete three independent disposition calculations under the supplied rules. Wash sale: Stock basis $30,000; loss-sale proceeds $22,000; qualifying substantially identical replacement cost $25,000. The full loss is disallowed and added to replacement basis. Other dispositions: A Section 1231 schedule shows $90,000 net gain, of which $35,000 receives ordinary treatment under the supplied lookback analysis. A qualifying residence sale has $320,000 gain and an applicable $250,000 exclusion. Required: Disallowed stock loss.",
+      "choices": [
+        {
+          "id": "tcp-m4-l3-q7-a0",
+          "text": "22000"
+        },
+        {
+          "id": "tcp-m4-l3-q7-a1",
+          "text": "30000"
+        },
+        {
+          "id": "tcp-m4-l3-q7-a2",
+          "text": "5000"
+        },
+        {
+          "id": "tcp-m4-l3-q7-a3",
+          "text": "8000"
+        }
+      ],
+      "correctChoiceId": "tcp-m4-l3-q7-a3",
+      "explanation": "$30,000 − $22,000 = $8,000.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "tcp",
+        "blueprintYear": 2026,
+        "areaId": "tcp-IV",
+        "groupId": "A",
+        "topicId": "tcp-property-character-planning",
+        "taskIds": [
+          "tcp-property-character-planning.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          }
+        ]
+      },
+      "familyId": "tcp-m4-tbs3"
+    },
+    {
+      "id": "tcp-m4-l3-q8",
+      "courseId": "tcp",
+      "moduleId": 4,
+      "lessonId": "tcp-m4-l3",
+      "topic": "Wash Sales, Gain Character & Disposition Planning",
+      "prompt": "Complete three independent disposition calculations under the supplied rules. Wash sale: Stock basis $30,000; loss-sale proceeds $22,000; qualifying substantially identical replacement cost $25,000. The full loss is disallowed and added to replacement basis. Other dispositions: A Section 1231 schedule shows $90,000 net gain, of which $35,000 receives ordinary treatment under the supplied lookback analysis. A qualifying residence sale has $320,000 gain and an applicable $250,000 exclusion. Required: Replacement stock basis.",
+      "choices": [
+        {
+          "id": "tcp-m4-l3-q8-a0",
+          "text": "33000"
+        },
+        {
+          "id": "tcp-m4-l3-q8-a1",
+          "text": "25000"
+        },
+        {
+          "id": "tcp-m4-l3-q8-a2",
+          "text": "17000"
+        },
+        {
+          "id": "tcp-m4-l3-q8-a3",
+          "text": "38000"
+        }
+      ],
+      "correctChoiceId": "tcp-m4-l3-q8-a0",
+      "explanation": "$25,000 replacement cost + $8,000 disallowed loss.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "tcp",
+        "blueprintYear": 2026,
+        "areaId": "tcp-IV",
+        "groupId": "A",
+        "topicId": "tcp-property-character-planning",
+        "taskIds": [
+          "tcp-property-character-planning.task-2"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          }
+        ]
+      },
+      "familyId": "tcp-m4-tbs3"
+    },
+    {
+      "id": "tcp-m4-l3-q9",
+      "courseId": "tcp",
+      "moduleId": 4,
+      "lessonId": "tcp-m4-l3",
+      "topic": "Wash Sales, Gain Character & Disposition Planning",
+      "prompt": "Complete three independent disposition calculations under the supplied rules. Wash sale: Stock basis $30,000; loss-sale proceeds $22,000; qualifying substantially identical replacement cost $25,000. The full loss is disallowed and added to replacement basis. Other dispositions: A Section 1231 schedule shows $90,000 net gain, of which $35,000 receives ordinary treatment under the supplied lookback analysis. A qualifying residence sale has $320,000 gain and an applicable $250,000 exclusion. Required: Section 1231 gain remaining for the stated capital treatment.",
+      "choices": [
+        {
+          "id": "tcp-m4-l3-q9-a0",
+          "text": "90000"
+        },
+        {
+          "id": "tcp-m4-l3-q9-a1",
+          "text": "55000"
+        },
+        {
+          "id": "tcp-m4-l3-q9-a2",
+          "text": "35000"
+        },
+        {
+          "id": "tcp-m4-l3-q9-a3",
+          "text": "125000"
+        }
+      ],
+      "correctChoiceId": "tcp-m4-l3-q9-a1",
+      "explanation": "$90,000 − $35,000 = $55,000.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "tcp",
+        "blueprintYear": 2026,
+        "areaId": "tcp-IV",
+        "groupId": "A",
+        "topicId": "tcp-property-character-planning",
+        "taskIds": [
+          "tcp-property-character-planning.task-3"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          }
+        ]
+      },
+      "familyId": "tcp-m4-tbs3"
+    },
+    {
+      "id": "tcp-m4-l3-q10",
+      "courseId": "tcp",
+      "moduleId": 4,
+      "lessonId": "tcp-m4-l3",
+      "topic": "Wash Sales, Gain Character & Disposition Planning",
+      "prompt": "Complete three independent disposition calculations under the supplied rules. Wash sale: Stock basis $30,000; loss-sale proceeds $22,000; qualifying substantially identical replacement cost $25,000. The full loss is disallowed and added to replacement basis. Other dispositions: A Section 1231 schedule shows $90,000 net gain, of which $35,000 receives ordinary treatment under the supplied lookback analysis. A qualifying residence sale has $320,000 gain and an applicable $250,000 exclusion. Required: Recognized residence gain after the supplied exclusion.",
+      "choices": [
+        {
+          "id": "tcp-m4-l3-q10-a0",
+          "text": "320000"
+        },
+        {
+          "id": "tcp-m4-l3-q10-a1",
+          "text": "250000"
+        },
+        {
+          "id": "tcp-m4-l3-q10-a2",
+          "text": "70000"
+        },
+        {
+          "id": "tcp-m4-l3-q10-a3",
+          "text": "0"
+        }
+      ],
+      "correctChoiceId": "tcp-m4-l3-q10-a2",
+      "explanation": "$320,000 − $250,000 = $70,000.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "tcp",
+        "blueprintYear": 2026,
+        "areaId": "tcp-IV",
+        "groupId": "A",
+        "topicId": "tcp-property-character-planning",
+        "taskIds": [
+          "tcp-property-character-planning.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          }
+        ]
+      },
+      "familyId": "tcp-m4-tbs3"
+    }
+  ]
+}

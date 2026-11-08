@@ -1,0 +1,105 @@
+{
+  "id": "tcp-m2-l1",
+  "courseId": "tcp",
+  "moduleId": 2,
+  "number": 1,
+  "title": "Corporate Losses, Limitations & Book–Tax Reconciliation",
+  "description": "Apply supplied NOL and ownership-change limits.",
+  "url": "/learn/tcp/modules/2/lessons/1",
+  "metadata": {
+    "section": "tcp",
+    "blueprintYear": 2026,
+    "areaId": "tcp-II",
+    "groupId": "A",
+    "topicId": "tcp-corporate-loss-compliance",
+    "taskIds": [
+      "tcp-corporate-loss-compliance.task-1",
+      "tcp-corporate-loss-compliance.task-2",
+      "tcp-corporate-loss-compliance.task-3"
+    ],
+    "skill": "application",
+    "validFrom": "2026-07-01",
+    "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      },
+      {
+        "title": "IRS tax publications",
+        "url": "https://www.irs.gov/publications"
+      },
+      {
+        "title": "Internal Revenue Code",
+        "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+      }
+    ]
+  },
+  "html": "<h2>Learning objectives</h2><ul><li>Apply supplied NOL and ownership-change limits.</li><li>Distinguish corporate capital-loss and ordinary-loss treatment.</li><li>Review schedules without double-counting tax adjustments.</li></ul><h2>Understand the concepts</h2><p>Corporate tax compliance requires reconciling book income, taxable income, separate limitations, carryforwards, and tax attributes. Permanent and temporary differences have different implications. Use tax-basis schedules and authoritative support rather than assuming book balances are tax balances.</p><p>The use of net operating losses depends on the loss year and applicable law. Post-2017 NOLs generally have an 80%-of-taxable-income limitation under the relevant current rules, with exceptions and special periods. Ownership changes may impose an additional Section 382 limitation. A case supplies the relevant capacities so the interaction can be calculated without silently assuming every loss has the same character or year.</p><p>Corporate capital losses generally offset capital gains rather than ordinary income, with applicable carryback and carryforward rules. Keep capital-loss attributes separate from NOLs. Track expiration, ownership changes, ordering, and prior use so a carryforward is not deducted twice. Review return schedules against source data and prior returns.</p><div class=\"example-box\"><h3>Two limits on NOL use</h3><p>NOL carryforward is $130,000, taxable income before the NOL is $100,000, the applicable percentage limit is 80%, and a supplied ownership-change limit is $30,000.</p><ol><li>The percentage limit permits $80,000.</li><li>The additional ownership-change limit permits only $30,000.</li><li>Deduct $30,000, leaving $70,000 taxable income and $100,000 carryforward, ignoring other rules.</li></ol></div><div class=\"key-points\"><h3>Common mistakes to avoid</h3><ul><li>The NOL’s year and type matter.</li><li>A corporate capital loss is not automatically an ordinary-income deduction.</li><li>Apply each relevant limit and track attributes separately.</li></ul></div><h2>Apply and connect</h2><p>After solving the worked case, explain which facts determine the result and how a changed assumption would change your conclusion. Use the module questions to test fresh applications, then complete the related simulation before reviewing its solution.</p>",
+  "objectives": [
+    "Apply supplied NOL and ownership-change limits.",
+    "Distinguish corporate capital-loss and ordinary-loss treatment.",
+    "Review schedules without double-counting tax adjustments."
+  ],
+  "quiz": {
+    "id": "tcp-m2-l1-q1",
+    "courseId": "tcp",
+    "moduleId": 2,
+    "lessonId": "tcp-m2-l1",
+    "topic": "Corporate Losses, Limitations & Book–Tax Reconciliation",
+    "prompt": "A qualifying NOL is $150,000 and the supplied 80% limit applies to $100,000 taxable income before NOL. No other limits apply. What deduction is allowed?",
+    "choices": [
+      {
+        "id": "tcp-m2-l1-q1-a0",
+        "text": "$100,000."
+      },
+      {
+        "id": "tcp-m2-l1-q1-a1",
+        "text": "$80,000."
+      },
+      {
+        "id": "tcp-m2-l1-q1-a2",
+        "text": "$150,000."
+      },
+      {
+        "id": "tcp-m2-l1-q1-a3",
+        "text": "$20,000."
+      }
+    ],
+    "correctChoiceId": "tcp-m2-l1-q1-a1",
+    "explanation": "80% × $100,000 = $80,000, below the available NOL.",
+    "difficulty": "application",
+    "metadata": {
+      "section": "tcp",
+      "blueprintYear": 2026,
+      "areaId": "tcp-II",
+      "groupId": "A",
+      "topicId": "tcp-corporate-loss-compliance",
+      "taskIds": [
+        "tcp-corporate-loss-compliance.task-1"
+      ],
+      "skill": "application",
+      "validFrom": "2026-07-01",
+      "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        },
+        {
+          "title": "IRS tax publications",
+          "url": "https://www.irs.gov/publications"
+        },
+        {
+          "title": "Internal Revenue Code",
+          "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+        }
+      ]
+    }
+  },
+  "relatedSimulation": "tcp-m2-tbs1"
+}

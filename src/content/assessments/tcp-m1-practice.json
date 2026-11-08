@@ -1,0 +1,2347 @@
+{
+  "id": "tcp-m1-practice",
+  "title": "Individual Tax Planning & Personal Finance Practice",
+  "courseId": "tcp",
+  "moduleId": 1,
+  "selection": "per-lesson",
+  "feedback": "immediate",
+  "passPercent": 80,
+  "questions": [
+    {
+      "id": "tcp-m1-l1-q1",
+      "courseId": "tcp",
+      "moduleId": 1,
+      "lessonId": "tcp-m1-l1",
+      "topic": "Equity Compensation, Estimated Tax & Multiyear Planning",
+      "prompt": "2,000 nonqualified options are exercised at $15 when stock is worth $25. Under the stated spread-inclusion rule, what is compensation?",
+      "choices": [
+        {
+          "id": "tcp-m1-l1-q1-a0",
+          "text": "$20,000."
+        },
+        {
+          "id": "tcp-m1-l1-q1-a1",
+          "text": "$50,000."
+        },
+        {
+          "id": "tcp-m1-l1-q1-a2",
+          "text": "$30,000."
+        },
+        {
+          "id": "tcp-m1-l1-q1-a3",
+          "text": "$10,000."
+        }
+      ],
+      "correctChoiceId": "tcp-m1-l1-q1-a0",
+      "explanation": "2,000 × ($25 − $15) = $20,000.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "tcp",
+        "blueprintYear": 2026,
+        "areaId": "tcp-I",
+        "groupId": "A",
+        "topicId": "tcp-individual-advanced-planning",
+        "taskIds": [
+          "tcp-individual-advanced-planning.task-1"
+        ],
+        "skill": "application",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          }
+        ]
+      }
+    },
+    {
+      "id": "tcp-m1-l1-q2",
+      "courseId": "tcp",
+      "moduleId": 1,
+      "lessonId": "tcp-m1-l1",
+      "topic": "Equity Compensation, Estimated Tax & Multiyear Planning",
+      "prompt": "The same exercise requires $30,000 cash and creates $20,000 compensation. What is stock basis under the supplied assumptions?",
+      "choices": [
+        {
+          "id": "tcp-m1-l1-q2-a0",
+          "text": "$30,000."
+        },
+        {
+          "id": "tcp-m1-l1-q2-a1",
+          "text": "$50,000."
+        },
+        {
+          "id": "tcp-m1-l1-q2-a2",
+          "text": "$20,000."
+        },
+        {
+          "id": "tcp-m1-l1-q2-a3",
+          "text": "$10,000."
+        }
+      ],
+      "correctChoiceId": "tcp-m1-l1-q2-a1",
+      "explanation": "Cash plus the included compensation produces $50,000 basis.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "tcp",
+        "blueprintYear": 2026,
+        "areaId": "tcp-I",
+        "groupId": "A",
+        "topicId": "tcp-individual-advanced-planning",
+        "taskIds": [
+          "tcp-individual-advanced-planning.task-2"
+        ],
+        "skill": "application",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          }
+        ]
+      }
+    },
+    {
+      "id": "tcp-m1-l1-q3",
+      "courseId": "tcp",
+      "moduleId": 1,
+      "lessonId": "tcp-m1-l1",
+      "topic": "Equity Compensation, Estimated Tax & Multiyear Planning",
+      "prompt": "A safe harbor requires the lesser of 90% of $50,000 current tax or 110% of $30,000 prior tax. What is required annual payment?",
+      "choices": [
+        {
+          "id": "tcp-m1-l1-q3-a0",
+          "text": "$45,000."
+        },
+        {
+          "id": "tcp-m1-l1-q3-a1",
+          "text": "$50,000."
+        },
+        {
+          "id": "tcp-m1-l1-q3-a2",
+          "text": "$33,000."
+        },
+        {
+          "id": "tcp-m1-l1-q3-a3",
+          "text": "$30,000."
+        }
+      ],
+      "correctChoiceId": "tcp-m1-l1-q3-a2",
+      "explanation": "Compare $45,000 with $33,000.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "tcp",
+        "blueprintYear": 2026,
+        "areaId": "tcp-I",
+        "groupId": "A",
+        "topicId": "tcp-individual-advanced-planning",
+        "taskIds": [
+          "tcp-individual-advanced-planning.task-3"
+        ],
+        "skill": "application",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          }
+        ]
+      }
+    },
+    {
+      "id": "tcp-m1-l1-q4",
+      "courseId": "tcp",
+      "moduleId": 1,
+      "lessonId": "tcp-m1-l1",
+      "topic": "Equity Compensation, Estimated Tax & Multiyear Planning",
+      "prompt": "A legally permitted $10,000 deduction can be taken this year at a 32% rate or next year at 24%. Ignore time value and other effects. What is the additional tax saving from taking it this year?",
+      "choices": [
+        {
+          "id": "tcp-m1-l1-q4-a0",
+          "text": "$3,200."
+        },
+        {
+          "id": "tcp-m1-l1-q4-a1",
+          "text": "$2,400."
+        },
+        {
+          "id": "tcp-m1-l1-q4-a2",
+          "text": "$5,600."
+        },
+        {
+          "id": "tcp-m1-l1-q4-a3",
+          "text": "$800."
+        }
+      ],
+      "correctChoiceId": "tcp-m1-l1-q4-a3",
+      "explanation": "The rate difference is 8%; 8% of $10,000 is $800.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "tcp",
+        "blueprintYear": 2026,
+        "areaId": "tcp-I",
+        "groupId": "A",
+        "topicId": "tcp-individual-advanced-planning",
+        "taskIds": [
+          "tcp-individual-advanced-planning.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          }
+        ]
+      }
+    },
+    {
+      "id": "tcp-m1-l1-q5",
+      "courseId": "tcp",
+      "moduleId": 1,
+      "lessonId": "tcp-m1-l1",
+      "topic": "Equity Compensation, Estimated Tax & Multiyear Planning",
+      "prompt": "Which principle can restrict deferring cash-method income that is already available without substantial restriction?",
+      "choices": [
+        {
+          "id": "tcp-m1-l1-q5-a0",
+          "text": "Constructive receipt."
+        },
+        {
+          "id": "tcp-m1-l1-q5-a1",
+          "text": "An arbitrary choice of spreadsheet year."
+        },
+        {
+          "id": "tcp-m1-l1-q5-a2",
+          "text": "Only the client’s preference."
+        },
+        {
+          "id": "tcp-m1-l1-q5-a3",
+          "text": "The length of an invoice."
+        }
+      ],
+      "correctChoiceId": "tcp-m1-l1-q5-a0",
+      "explanation": "A timing strategy must satisfy the applicable tax doctrines.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "tcp",
+        "blueprintYear": 2026,
+        "areaId": "tcp-I",
+        "groupId": "A",
+        "topicId": "tcp-individual-advanced-planning",
+        "taskIds": [
+          "tcp-individual-advanced-planning.task-2"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          }
+        ]
+      }
+    },
+    {
+      "id": "tcp-m1-l1-q6",
+      "courseId": "tcp",
+      "moduleId": 1,
+      "lessonId": "tcp-m1-l1",
+      "topic": "Equity Compensation, Estimated Tax & Multiyear Planning",
+      "prompt": "Why analyze ISO exercise separately for regular tax and AMT?",
+      "choices": [
+        {
+          "id": "tcp-m1-l1-q6-a0",
+          "text": "AMT never applies to equity compensation."
+        },
+        {
+          "id": "tcp-m1-l1-q6-a1",
+          "text": "The same transaction can have different effects under the two systems."
+        },
+        {
+          "id": "tcp-m1-l1-q6-a2",
+          "text": "Every option is taxed identically."
+        },
+        {
+          "id": "tcp-m1-l1-q6-a3",
+          "text": "Only the employee’s job title matters."
+        }
+      ],
+      "correctChoiceId": "tcp-m1-l1-q6-a1",
+      "explanation": "Incentive-option rules can create distinct regular-tax and alternative-minimum-tax consequences.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "tcp",
+        "blueprintYear": 2026,
+        "areaId": "tcp-I",
+        "groupId": "A",
+        "topicId": "tcp-individual-advanced-planning",
+        "taskIds": [
+          "tcp-individual-advanced-planning.task-3"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          }
+        ]
+      }
+    },
+    {
+      "id": "tcp-m1-l1-q7",
+      "courseId": "tcp",
+      "moduleId": 1,
+      "lessonId": "tcp-m1-l1",
+      "topic": "Equity Compensation, Estimated Tax & Multiyear Planning",
+      "prompt": "Prepare compensation, basis, and estimated-payment amounts under the supplied rules. Option exercise: 1,500 nonqualified options are exercised at $12 when stock value is $32. The spread is ordinary compensation; basis includes exercise cash and compensation. Estimated tax: Required annual payment is the lesser of 90% of $60,000 projected current tax and 110% of $40,000 prior tax. Qualifying withholding is $30,000. Ignore timing differences among installments. Required: Option compensation income.",
+      "choices": [
+        {
+          "id": "tcp-m1-l1-q7-a0",
+          "text": "48000"
+        },
+        {
+          "id": "tcp-m1-l1-q7-a1",
+          "text": "18000"
+        },
+        {
+          "id": "tcp-m1-l1-q7-a2",
+          "text": "30000"
+        },
+        {
+          "id": "tcp-m1-l1-q7-a3",
+          "text": "20000"
+        }
+      ],
+      "correctChoiceId": "tcp-m1-l1-q7-a2",
+      "explanation": "1,500 × ($32 − $12) = $30,000.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "tcp",
+        "blueprintYear": 2026,
+        "areaId": "tcp-I",
+        "groupId": "A",
+        "topicId": "tcp-individual-advanced-planning",
+        "taskIds": [
+          "tcp-individual-advanced-planning.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          }
+        ]
+      },
+      "familyId": "tcp-m1-tbs1"
+    },
+    {
+      "id": "tcp-m1-l1-q8",
+      "courseId": "tcp",
+      "moduleId": 1,
+      "lessonId": "tcp-m1-l1",
+      "topic": "Equity Compensation, Estimated Tax & Multiyear Planning",
+      "prompt": "Prepare compensation, basis, and estimated-payment amounts under the supplied rules. Option exercise: 1,500 nonqualified options are exercised at $12 when stock value is $32. The spread is ordinary compensation; basis includes exercise cash and compensation. Estimated tax: Required annual payment is the lesser of 90% of $60,000 projected current tax and 110% of $40,000 prior tax. Qualifying withholding is $30,000. Ignore timing differences among installments. Required: Stock basis after exercise.",
+      "choices": [
+        {
+          "id": "tcp-m1-l1-q8-a0",
+          "text": "30000"
+        },
+        {
+          "id": "tcp-m1-l1-q8-a1",
+          "text": "18000"
+        },
+        {
+          "id": "tcp-m1-l1-q8-a2",
+          "text": "66000"
+        },
+        {
+          "id": "tcp-m1-l1-q8-a3",
+          "text": "48000"
+        }
+      ],
+      "correctChoiceId": "tcp-m1-l1-q8-a3",
+      "explanation": "$18,000 exercise cash plus $30,000 compensation = $48,000.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "tcp",
+        "blueprintYear": 2026,
+        "areaId": "tcp-I",
+        "groupId": "A",
+        "topicId": "tcp-individual-advanced-planning",
+        "taskIds": [
+          "tcp-individual-advanced-planning.task-2"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          }
+        ]
+      },
+      "familyId": "tcp-m1-tbs1"
+    },
+    {
+      "id": "tcp-m1-l1-q9",
+      "courseId": "tcp",
+      "moduleId": 1,
+      "lessonId": "tcp-m1-l1",
+      "topic": "Equity Compensation, Estimated Tax & Multiyear Planning",
+      "prompt": "Prepare compensation, basis, and estimated-payment amounts under the supplied rules. Option exercise: 1,500 nonqualified options are exercised at $12 when stock value is $32. The spread is ordinary compensation; basis includes exercise cash and compensation. Estimated tax: Required annual payment is the lesser of 90% of $60,000 projected current tax and 110% of $40,000 prior tax. Qualifying withholding is $30,000. Ignore timing differences among installments. Required: Required annual tax payment.",
+      "choices": [
+        {
+          "id": "tcp-m1-l1-q9-a0",
+          "text": "44000"
+        },
+        {
+          "id": "tcp-m1-l1-q9-a1",
+          "text": "54000"
+        },
+        {
+          "id": "tcp-m1-l1-q9-a2",
+          "text": "60000"
+        },
+        {
+          "id": "tcp-m1-l1-q9-a3",
+          "text": "40000"
+        }
+      ],
+      "correctChoiceId": "tcp-m1-l1-q9-a0",
+      "explanation": "The lesser of $54,000 and $44,000 is $44,000.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "tcp",
+        "blueprintYear": 2026,
+        "areaId": "tcp-I",
+        "groupId": "A",
+        "topicId": "tcp-individual-advanced-planning",
+        "taskIds": [
+          "tcp-individual-advanced-planning.task-3"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          }
+        ]
+      },
+      "familyId": "tcp-m1-tbs1"
+    },
+    {
+      "id": "tcp-m1-l1-q10",
+      "courseId": "tcp",
+      "moduleId": 1,
+      "lessonId": "tcp-m1-l1",
+      "topic": "Equity Compensation, Estimated Tax & Multiyear Planning",
+      "prompt": "Prepare compensation, basis, and estimated-payment amounts under the supplied rules. Option exercise: 1,500 nonqualified options are exercised at $12 when stock value is $32. The spread is ordinary compensation; basis includes exercise cash and compensation. Estimated tax: Required annual payment is the lesser of 90% of $60,000 projected current tax and 110% of $40,000 prior tax. Qualifying withholding is $30,000. Ignore timing differences among installments. Required: Additional estimated payments after withholding.",
+      "choices": [
+        {
+          "id": "tcp-m1-l1-q10-a0",
+          "text": "24000"
+        },
+        {
+          "id": "tcp-m1-l1-q10-a1",
+          "text": "14000"
+        },
+        {
+          "id": "tcp-m1-l1-q10-a2",
+          "text": "44000"
+        },
+        {
+          "id": "tcp-m1-l1-q10-a3",
+          "text": "30000"
+        }
+      ],
+      "correctChoiceId": "tcp-m1-l1-q10-a1",
+      "explanation": "$44,000 required less $30,000 withholding = $14,000.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "tcp",
+        "blueprintYear": 2026,
+        "areaId": "tcp-I",
+        "groupId": "A",
+        "topicId": "tcp-individual-advanced-planning",
+        "taskIds": [
+          "tcp-individual-advanced-planning.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          }
+        ]
+      },
+      "familyId": "tcp-m1-tbs1"
+    },
+    {
+      "id": "tcp-m1-l2-q1",
+      "courseId": "tcp",
+      "moduleId": 1,
+      "lessonId": "tcp-m1-l2",
+      "topic": "Basis, At-Risk & Passive-Activity Loss Limitations",
+      "prompt": "A $40,000 pass-through loss is limited by $25,000 basis before other rules. What is basis-suspended loss?",
+      "choices": [
+        {
+          "id": "tcp-m1-l2-q1-a0",
+          "text": "$40,000."
+        },
+        {
+          "id": "tcp-m1-l2-q1-a1",
+          "text": "$15,000."
+        },
+        {
+          "id": "tcp-m1-l2-q1-a2",
+          "text": "$25,000."
+        },
+        {
+          "id": "tcp-m1-l2-q1-a3",
+          "text": "Zero."
+        }
+      ],
+      "correctChoiceId": "tcp-m1-l2-q1-a1",
+      "explanation": "The loss exceeds available basis by $15,000.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "tcp",
+        "blueprintYear": 2026,
+        "areaId": "tcp-I",
+        "groupId": "B",
+        "topicId": "tcp-at-risk-passive-losses",
+        "taskIds": [
+          "tcp-at-risk-passive-losses.task-1"
+        ],
+        "skill": "application",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          }
+        ]
+      }
+    },
+    {
+      "id": "tcp-m1-l2-q2",
+      "courseId": "tcp",
+      "moduleId": 1,
+      "lessonId": "tcp-m1-l2",
+      "topic": "Basis, At-Risk & Passive-Activity Loss Limitations",
+      "prompt": "After the basis limit, $25,000 loss remains. At-risk capacity is $18,000. What additional amount is suspended by at-risk rules?",
+      "choices": [
+        {
+          "id": "tcp-m1-l2-q2-a0",
+          "text": "$18,000."
+        },
+        {
+          "id": "tcp-m1-l2-q2-a1",
+          "text": "$25,000."
+        },
+        {
+          "id": "tcp-m1-l2-q2-a2",
+          "text": "$7,000."
+        },
+        {
+          "id": "tcp-m1-l2-q2-a3",
+          "text": "$43,000."
+        }
+      ],
+      "correctChoiceId": "tcp-m1-l2-q2-a2",
+      "explanation": "$25,000 − $18,000 = $7,000.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "tcp",
+        "blueprintYear": 2026,
+        "areaId": "tcp-I",
+        "groupId": "B",
+        "topicId": "tcp-at-risk-passive-losses",
+        "taskIds": [
+          "tcp-at-risk-passive-losses.task-2"
+        ],
+        "skill": "application",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          }
+        ]
+      }
+    },
+    {
+      "id": "tcp-m1-l2-q3",
+      "courseId": "tcp",
+      "moduleId": 1,
+      "lessonId": "tcp-m1-l2",
+      "topic": "Basis, At-Risk & Passive-Activity Loss Limitations",
+      "prompt": "A passive loss of $18,000 reaches the passive-activity stage, and passive income is $6,000. No exception applies. What is currently allowed?",
+      "choices": [
+        {
+          "id": "tcp-m1-l2-q3-a0",
+          "text": "$18,000."
+        },
+        {
+          "id": "tcp-m1-l2-q3-a1",
+          "text": "$12,000."
+        },
+        {
+          "id": "tcp-m1-l2-q3-a2",
+          "text": "Zero regardless of passive income."
+        },
+        {
+          "id": "tcp-m1-l2-q3-a3",
+          "text": "$6,000."
+        }
+      ],
+      "correctChoiceId": "tcp-m1-l2-q3-a3",
+      "explanation": "The supplied passive income supports $6,000 of loss.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "tcp",
+        "blueprintYear": 2026,
+        "areaId": "tcp-I",
+        "groupId": "B",
+        "topicId": "tcp-at-risk-passive-losses",
+        "taskIds": [
+          "tcp-at-risk-passive-losses.task-3"
+        ],
+        "skill": "application",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          }
+        ]
+      }
+    },
+    {
+      "id": "tcp-m1-l2-q4",
+      "courseId": "tcp",
+      "moduleId": 1,
+      "lessonId": "tcp-m1-l2",
+      "topic": "Basis, At-Risk & Passive-Activity Loss Limitations",
+      "prompt": "Which sequence generally applies to a pass-through loss subject to all three limits?",
+      "choices": [
+        {
+          "id": "tcp-m1-l2-q4-a0",
+          "text": "Basis, then at risk, then passive activity."
+        },
+        {
+          "id": "tcp-m1-l2-q4-a1",
+          "text": "Passive activity before every basis computation."
+        },
+        {
+          "id": "tcp-m1-l2-q4-a2",
+          "text": "At risk only; basis never matters."
+        },
+        {
+          "id": "tcp-m1-l2-q4-a3",
+          "text": "Any sequence gives the same suspended categories."
+        }
+      ],
+      "correctChoiceId": "tcp-m1-l2-q4-a0",
+      "explanation": "The ordering determines both allowed losses and the separate carryforwards.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "tcp",
+        "blueprintYear": 2026,
+        "areaId": "tcp-I",
+        "groupId": "B",
+        "topicId": "tcp-at-risk-passive-losses",
+        "taskIds": [
+          "tcp-at-risk-passive-losses.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          }
+        ]
+      }
+    },
+    {
+      "id": "tcp-m1-l2-q5",
+      "courseId": "tcp",
+      "moduleId": 1,
+      "lessonId": "tcp-m1-l2",
+      "topic": "Basis, At-Risk & Passive-Activity Loss Limitations",
+      "prompt": "Does any partial disposition automatically release all suspended passive losses?",
+      "choices": [
+        {
+          "id": "tcp-m1-l2-q5-a0",
+          "text": "Yes, any sale of one unit releases everything."
+        },
+        {
+          "id": "tcp-m1-l2-q5-a1",
+          "text": "No; the qualifying-disposition rules and facts must be evaluated."
+        },
+        {
+          "id": "tcp-m1-l2-q5-a2",
+          "text": "Only the sale price matters."
+        },
+        {
+          "id": "tcp-m1-l2-q5-a3",
+          "text": "Passive losses can never be released."
+        }
+      ],
+      "correctChoiceId": "tcp-m1-l2-q5-a1",
+      "explanation": "Disposition relief has specific requirements.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "tcp",
+        "blueprintYear": 2026,
+        "areaId": "tcp-I",
+        "groupId": "B",
+        "topicId": "tcp-at-risk-passive-losses",
+        "taskIds": [
+          "tcp-at-risk-passive-losses.task-2"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          }
+        ]
+      }
+    },
+    {
+      "id": "tcp-m1-l2-q6",
+      "courseId": "tcp",
+      "moduleId": 1,
+      "lessonId": "tcp-m1-l2",
+      "topic": "Basis, At-Risk & Passive-Activity Loss Limitations",
+      "prompt": "Why maintain separate loss-suspension schedules?",
+      "choices": [
+        {
+          "id": "tcp-m1-l2-q6-a0",
+          "text": "All suspended losses are identical forever."
+        },
+        {
+          "id": "tcp-m1-l2-q6-a1",
+          "text": "Schedules create extra deductions automatically."
+        },
+        {
+          "id": "tcp-m1-l2-q6-a2",
+          "text": "Different limitations have different release conditions and ordering."
+        },
+        {
+          "id": "tcp-m1-l2-q6-a3",
+          "text": "Only the file name matters."
+        }
+      ],
+      "correctChoiceId": "tcp-m1-l2-q6-a2",
+      "explanation": "Separate tracking prevents incorrect deductions and carryforwards.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "tcp",
+        "blueprintYear": 2026,
+        "areaId": "tcp-I",
+        "groupId": "B",
+        "topicId": "tcp-at-risk-passive-losses",
+        "taskIds": [
+          "tcp-at-risk-passive-losses.task-3"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          }
+        ]
+      }
+    },
+    {
+      "id": "tcp-m1-l2-q7",
+      "courseId": "tcp",
+      "moduleId": 1,
+      "lessonId": "tcp-m1-l2",
+      "topic": "Basis, At-Risk & Passive-Activity Loss Limitations",
+      "prompt": "Apply the stated loss limitations in sequence. Loss and capacities: Allocated loss $80,000. Available basis $65,000. At-risk capacity for the loss passing basis is $45,000. Passive limitations: The activity is passive for this taxpayer. Available passive income is $20,000. No exception, disposition release, or other limitation applies. Required: Loss suspended at the basis stage.",
+      "choices": [
+        {
+          "id": "tcp-m1-l2-q7-a0",
+          "text": "65000"
+        },
+        {
+          "id": "tcp-m1-l2-q7-a1",
+          "text": "35000"
+        },
+        {
+          "id": "tcp-m1-l2-q7-a2",
+          "text": "80000"
+        },
+        {
+          "id": "tcp-m1-l2-q7-a3",
+          "text": "15000"
+        }
+      ],
+      "correctChoiceId": "tcp-m1-l2-q7-a3",
+      "explanation": "$80,000 − $65,000 = $15,000.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "tcp",
+        "blueprintYear": 2026,
+        "areaId": "tcp-I",
+        "groupId": "B",
+        "topicId": "tcp-at-risk-passive-losses",
+        "taskIds": [
+          "tcp-at-risk-passive-losses.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          }
+        ]
+      },
+      "familyId": "tcp-m1-tbs2"
+    },
+    {
+      "id": "tcp-m1-l2-q8",
+      "courseId": "tcp",
+      "moduleId": 1,
+      "lessonId": "tcp-m1-l2",
+      "topic": "Basis, At-Risk & Passive-Activity Loss Limitations",
+      "prompt": "Apply the stated loss limitations in sequence. Loss and capacities: Allocated loss $80,000. Available basis $65,000. At-risk capacity for the loss passing basis is $45,000. Passive limitations: The activity is passive for this taxpayer. Available passive income is $20,000. No exception, disposition release, or other limitation applies. Required: Additional loss suspended at the at-risk stage.",
+      "choices": [
+        {
+          "id": "tcp-m1-l2-q8-a0",
+          "text": "20000"
+        },
+        {
+          "id": "tcp-m1-l2-q8-a1",
+          "text": "45000"
+        },
+        {
+          "id": "tcp-m1-l2-q8-a2",
+          "text": "35000"
+        },
+        {
+          "id": "tcp-m1-l2-q8-a3",
+          "text": "15000"
+        }
+      ],
+      "correctChoiceId": "tcp-m1-l2-q8-a0",
+      "explanation": "$65,000 − $45,000 = $20,000.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "tcp",
+        "blueprintYear": 2026,
+        "areaId": "tcp-I",
+        "groupId": "B",
+        "topicId": "tcp-at-risk-passive-losses",
+        "taskIds": [
+          "tcp-at-risk-passive-losses.task-2"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          }
+        ]
+      },
+      "familyId": "tcp-m1-tbs2"
+    },
+    {
+      "id": "tcp-m1-l2-q9",
+      "courseId": "tcp",
+      "moduleId": 1,
+      "lessonId": "tcp-m1-l2",
+      "topic": "Basis, At-Risk & Passive-Activity Loss Limitations",
+      "prompt": "Apply the stated loss limitations in sequence. Loss and capacities: Allocated loss $80,000. Available basis $65,000. At-risk capacity for the loss passing basis is $45,000. Passive limitations: The activity is passive for this taxpayer. Available passive income is $20,000. No exception, disposition release, or other limitation applies. Required: Additional loss suspended at the passive stage.",
+      "choices": [
+        {
+          "id": "tcp-m1-l2-q9-a0",
+          "text": "20000"
+        },
+        {
+          "id": "tcp-m1-l2-q9-a1",
+          "text": "25000"
+        },
+        {
+          "id": "tcp-m1-l2-q9-a2",
+          "text": "45000"
+        },
+        {
+          "id": "tcp-m1-l2-q9-a3",
+          "text": "60000"
+        }
+      ],
+      "correctChoiceId": "tcp-m1-l2-q9-a1",
+      "explanation": "$45,000 − $20,000 = $25,000.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "tcp",
+        "blueprintYear": 2026,
+        "areaId": "tcp-I",
+        "groupId": "B",
+        "topicId": "tcp-at-risk-passive-losses",
+        "taskIds": [
+          "tcp-at-risk-passive-losses.task-3"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          }
+        ]
+      },
+      "familyId": "tcp-m1-tbs2"
+    },
+    {
+      "id": "tcp-m1-l2-q10",
+      "courseId": "tcp",
+      "moduleId": 1,
+      "lessonId": "tcp-m1-l2",
+      "topic": "Basis, At-Risk & Passive-Activity Loss Limitations",
+      "prompt": "Apply the stated loss limitations in sequence. Loss and capacities: Allocated loss $80,000. Available basis $65,000. At-risk capacity for the loss passing basis is $45,000. Passive limitations: The activity is passive for this taxpayer. Available passive income is $20,000. No exception, disposition release, or other limitation applies. Required: Currently deductible loss.",
+      "choices": [
+        {
+          "id": "tcp-m1-l2-q10-a0",
+          "text": "80000"
+        },
+        {
+          "id": "tcp-m1-l2-q10-a1",
+          "text": "65000"
+        },
+        {
+          "id": "tcp-m1-l2-q10-a2",
+          "text": "20000"
+        },
+        {
+          "id": "tcp-m1-l2-q10-a3",
+          "text": "45000"
+        }
+      ],
+      "correctChoiceId": "tcp-m1-l2-q10-a2",
+      "explanation": "Only $20,000 passes all three supplied limitations.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "tcp",
+        "blueprintYear": 2026,
+        "areaId": "tcp-I",
+        "groupId": "B",
+        "topicId": "tcp-at-risk-passive-losses",
+        "taskIds": [
+          "tcp-at-risk-passive-losses.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          }
+        ]
+      },
+      "familyId": "tcp-m1-tbs2"
+    },
+    {
+      "id": "tcp-m1-l3-q1",
+      "courseId": "tcp",
+      "moduleId": 1,
+      "lessonId": "tcp-m1-l3",
+      "topic": "Retirement, Education, Gifts & After-Tax Investing",
+      "prompt": "A taxable bond yields 8% and the applicable tax rate is 25%. Ignore other effects. What is after-tax yield?",
+      "choices": [
+        {
+          "id": "tcp-m1-l3-q1-a0",
+          "text": "8%."
+        },
+        {
+          "id": "tcp-m1-l3-q1-a1",
+          "text": "2%."
+        },
+        {
+          "id": "tcp-m1-l3-q1-a2",
+          "text": "6%."
+        },
+        {
+          "id": "tcp-m1-l3-q1-a3",
+          "text": "10%."
+        }
+      ],
+      "correctChoiceId": "tcp-m1-l3-q1-a2",
+      "explanation": "8% × (1 − 25%) = 6%.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "tcp",
+        "blueprintYear": 2026,
+        "areaId": "tcp-I",
+        "groupId": "C-D",
+        "topicId": "tcp-personal-financial-planning",
+        "taskIds": [
+          "tcp-personal-financial-planning.task-1"
+        ],
+        "skill": "application",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          }
+        ]
+      }
+    },
+    {
+      "id": "tcp-m1-l3-q2",
+      "courseId": "tcp",
+      "moduleId": 1,
+      "lessonId": "tcp-m1-l3",
+      "topic": "Retirement, Education, Gifts & After-Tax Investing",
+      "prompt": "A qualifying tax-exempt yield is 4% and the supplied tax rate is 20%. What is tax-equivalent yield?",
+      "choices": [
+        {
+          "id": "tcp-m1-l3-q2-a0",
+          "text": "4%."
+        },
+        {
+          "id": "tcp-m1-l3-q2-a1",
+          "text": "3.2%."
+        },
+        {
+          "id": "tcp-m1-l3-q2-a2",
+          "text": "20%."
+        },
+        {
+          "id": "tcp-m1-l3-q2-a3",
+          "text": "5%."
+        }
+      ],
+      "correctChoiceId": "tcp-m1-l3-q2-a3",
+      "explanation": "4% ÷ (1 − 20%) = 5%.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "tcp",
+        "blueprintYear": 2026,
+        "areaId": "tcp-I",
+        "groupId": "C-D",
+        "topicId": "tcp-personal-financial-planning",
+        "taskIds": [
+          "tcp-personal-financial-planning.task-2"
+        ],
+        "skill": "application",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          }
+        ]
+      }
+    },
+    {
+      "id": "tcp-m1-l3-q3",
+      "courseId": "tcp",
+      "moduleId": 1,
+      "lessonId": "tcp-m1-l3",
+      "topic": "Retirement, Education, Gifts & After-Tax Investing",
+      "prompt": "Under qualifying Roth treatment, what is a central distinction from a deductible traditional arrangement?",
+      "choices": [
+        {
+          "id": "tcp-m1-l3-q3-a0",
+          "text": "Contributions are after tax and qualified distributions can be tax-free."
+        },
+        {
+          "id": "tcp-m1-l3-q3-a1",
+          "text": "Every contribution is deductible and every distribution tax-free without conditions."
+        },
+        {
+          "id": "tcp-m1-l3-q3-a2",
+          "text": "No eligibility rules apply."
+        },
+        {
+          "id": "tcp-m1-l3-q3-a3",
+          "text": "There are no distribution conditions."
+        }
+      ],
+      "correctChoiceId": "tcp-m1-l3-q3-a0",
+      "explanation": "The tax timing and qualification requirements differ.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "tcp",
+        "blueprintYear": 2026,
+        "areaId": "tcp-I",
+        "groupId": "C-D",
+        "topicId": "tcp-personal-financial-planning",
+        "taskIds": [
+          "tcp-personal-financial-planning.task-3"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          }
+        ]
+      }
+    },
+    {
+      "id": "tcp-m1-l3-q4",
+      "courseId": "tcp",
+      "moduleId": 1,
+      "lessonId": "tcp-m1-l3",
+      "topic": "Retirement, Education, Gifts & After-Tax Investing",
+      "prompt": "A gift is $50,000 and the supplied applicable annual exclusion is $19,000. No other exclusion applies. What is taxable gift before available unified credit?",
+      "choices": [
+        {
+          "id": "tcp-m1-l3-q4-a0",
+          "text": "$50,000."
+        },
+        {
+          "id": "tcp-m1-l3-q4-a1",
+          "text": "$31,000."
+        },
+        {
+          "id": "tcp-m1-l3-q4-a2",
+          "text": "$19,000."
+        },
+        {
+          "id": "tcp-m1-l3-q4-a3",
+          "text": "Zero automatically."
+        }
+      ],
+      "correctChoiceId": "tcp-m1-l3-q4-a1",
+      "explanation": "$50,000 − $19,000 = $31,000; available credit is considered separately.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "tcp",
+        "blueprintYear": 2026,
+        "areaId": "tcp-I",
+        "groupId": "C-D",
+        "topicId": "tcp-personal-financial-planning",
+        "taskIds": [
+          "tcp-personal-financial-planning.task-1"
+        ],
+        "skill": "application",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          }
+        ]
+      }
+    },
+    {
+      "id": "tcp-m1-l3-q5",
+      "courseId": "tcp",
+      "moduleId": 1,
+      "lessonId": "tcp-m1-l3",
+      "topic": "Retirement, Education, Gifts & After-Tax Investing",
+      "prompt": "Does a taxable gift necessarily create current gift tax payable?",
+      "choices": [
+        {
+          "id": "tcp-m1-l3-q5-a0",
+          "text": "Yes, taxable gift and tax payable are identical."
+        },
+        {
+          "id": "tcp-m1-l3-q5-a1",
+          "text": "Only cash gifts are ever relevant."
+        },
+        {
+          "id": "tcp-m1-l3-q5-a2",
+          "text": "No; available credits and other applicable rules must be considered."
+        },
+        {
+          "id": "tcp-m1-l3-q5-a3",
+          "text": "Gift tax is always the recipient’s income tax."
+        }
+      ],
+      "correctChoiceId": "tcp-m1-l3-q5-a2",
+      "explanation": "Taxable transfers and the eventual tax payment are different calculations.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "tcp",
+        "blueprintYear": 2026,
+        "areaId": "tcp-I",
+        "groupId": "C-D",
+        "topicId": "tcp-personal-financial-planning",
+        "taskIds": [
+          "tcp-personal-financial-planning.task-2"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          }
+        ]
+      }
+    },
+    {
+      "id": "tcp-m1-l3-q6",
+      "courseId": "tcp",
+      "moduleId": 1,
+      "lessonId": "tcp-m1-l3",
+      "topic": "Retirement, Education, Gifts & After-Tax Investing",
+      "prompt": "Why evaluate beneficiary designations and legal ownership in estate planning?",
+      "choices": [
+        {
+          "id": "tcp-m1-l3-q6-a0",
+          "text": "Only current investment yield matters."
+        },
+        {
+          "id": "tcp-m1-l3-q6-a1",
+          "text": "A will overrides every possible designation automatically."
+        },
+        {
+          "id": "tcp-m1-l3-q6-a2",
+          "text": "Ownership never affects tax or transfer consequences."
+        },
+        {
+          "id": "tcp-m1-l3-q6-a3",
+          "text": "They affect who receives assets and how transfers operate."
+        }
+      ],
+      "correctChoiceId": "tcp-m1-l3-q6-a3",
+      "explanation": "Planning requires the actual legal transfer structure, not tax calculations alone.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "tcp",
+        "blueprintYear": 2026,
+        "areaId": "tcp-I",
+        "groupId": "C-D",
+        "topicId": "tcp-personal-financial-planning",
+        "taskIds": [
+          "tcp-personal-financial-planning.task-3"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          }
+        ]
+      }
+    },
+    {
+      "id": "tcp-m1-l3-q7",
+      "courseId": "tcp",
+      "moduleId": 1,
+      "lessonId": "tcp-m1-l3",
+      "topic": "Retirement, Education, Gifts & After-Tax Investing",
+      "prompt": "Compare two investments and compute a gift under the supplied assumptions. Investments: Taxable bond yield 7%; qualifying tax-exempt bond yield 5%; supplied marginal rate 30%. Assume equal risk and ignore state tax and other effects. Gift: Cash gift $70,000; supplied annual exclusion $19,000. No gift splitting or other exclusion. Compute taxable gift before available unified credit. Required: Taxable bond after-tax yield, percent.",
+      "choices": [
+        {
+          "id": "tcp-m1-l3-q7-a0",
+          "text": "4.9"
+        },
+        {
+          "id": "tcp-m1-l3-q7-a1",
+          "text": "7"
+        },
+        {
+          "id": "tcp-m1-l3-q7-a2",
+          "text": "2.1"
+        },
+        {
+          "id": "tcp-m1-l3-q7-a3",
+          "text": "5"
+        }
+      ],
+      "correctChoiceId": "tcp-m1-l3-q7-a0",
+      "explanation": "7% × 70% = 4.9%.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "tcp",
+        "blueprintYear": 2026,
+        "areaId": "tcp-I",
+        "groupId": "C-D",
+        "topicId": "tcp-personal-financial-planning",
+        "taskIds": [
+          "tcp-personal-financial-planning.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          }
+        ]
+      },
+      "familyId": "tcp-m1-tbs3"
+    },
+    {
+      "id": "tcp-m1-l3-q8",
+      "courseId": "tcp",
+      "moduleId": 1,
+      "lessonId": "tcp-m1-l3",
+      "topic": "Retirement, Education, Gifts & After-Tax Investing",
+      "prompt": "Compare two investments and compute a gift under the supplied assumptions. Investments: Taxable bond yield 7%; qualifying tax-exempt bond yield 5%; supplied marginal rate 30%. Assume equal risk and ignore state tax and other effects. Gift: Cash gift $70,000; supplied annual exclusion $19,000. No gift splitting or other exclusion. Compute taxable gift before available unified credit. Required: Higher stated after-tax yield.",
+      "choices": [
+        {
+          "id": "tcp-m1-l3-q8-a0",
+          "text": "Taxable bond"
+        },
+        {
+          "id": "tcp-m1-l3-q8-a1",
+          "text": "Tax-exempt bond"
+        },
+        {
+          "id": "tcp-m1-l3-q8-a2",
+          "text": "Exactly equal"
+        },
+        {
+          "id": "tcp-m1-l3-q8-a3",
+          "text": "Cannot compare the supplied equal-risk assumptions"
+        }
+      ],
+      "correctChoiceId": "tcp-m1-l3-q8-a1",
+      "explanation": "The tax-exempt yield is 5%, above 4.9%.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "tcp",
+        "blueprintYear": 2026,
+        "areaId": "tcp-I",
+        "groupId": "C-D",
+        "topicId": "tcp-personal-financial-planning",
+        "taskIds": [
+          "tcp-personal-financial-planning.task-2"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          }
+        ]
+      },
+      "familyId": "tcp-m1-tbs3"
+    },
+    {
+      "id": "tcp-m1-l3-q9",
+      "courseId": "tcp",
+      "moduleId": 1,
+      "lessonId": "tcp-m1-l3",
+      "topic": "Retirement, Education, Gifts & After-Tax Investing",
+      "prompt": "Compare two investments and compute a gift under the supplied assumptions. Investments: Taxable bond yield 7%; qualifying tax-exempt bond yield 5%; supplied marginal rate 30%. Assume equal risk and ignore state tax and other effects. Gift: Cash gift $70,000; supplied annual exclusion $19,000. No gift splitting or other exclusion. Compute taxable gift before available unified credit. Required: Taxable gift before unified credit.",
+      "choices": [
+        {
+          "id": "tcp-m1-l3-q9-a0",
+          "text": "70000"
+        },
+        {
+          "id": "tcp-m1-l3-q9-a1",
+          "text": "19000"
+        },
+        {
+          "id": "tcp-m1-l3-q9-a2",
+          "text": "51000"
+        },
+        {
+          "id": "tcp-m1-l3-q9-a3",
+          "text": "89000"
+        }
+      ],
+      "correctChoiceId": "tcp-m1-l3-q9-a2",
+      "explanation": "$70,000 − $19,000 = $51,000.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "tcp",
+        "blueprintYear": 2026,
+        "areaId": "tcp-I",
+        "groupId": "C-D",
+        "topicId": "tcp-personal-financial-planning",
+        "taskIds": [
+          "tcp-personal-financial-planning.task-3"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          }
+        ]
+      },
+      "familyId": "tcp-m1-tbs3"
+    },
+    {
+      "id": "tcp-m1-l3-q10",
+      "courseId": "tcp",
+      "moduleId": 1,
+      "lessonId": "tcp-m1-l3",
+      "topic": "Retirement, Education, Gifts & After-Tax Investing",
+      "prompt": "Compare two investments and compute a gift under the supplied assumptions. Investments: Taxable bond yield 7%; qualifying tax-exempt bond yield 5%; supplied marginal rate 30%. Assume equal risk and ignore state tax and other effects. Gift: Cash gift $70,000; supplied annual exclusion $19,000. No gift splitting or other exclusion. Compute taxable gift before available unified credit. Required: Does that taxable gift alone establish current tax payable?.",
+      "choices": [
+        {
+          "id": "tcp-m1-l3-q10-a0",
+          "text": "Yes, the gift amount is the tax"
+        },
+        {
+          "id": "tcp-m1-l3-q10-a1",
+          "text": "Yes, the recipient owes wage tax"
+        },
+        {
+          "id": "tcp-m1-l3-q10-a2",
+          "text": "No transfer reporting can ever apply"
+        },
+        {
+          "id": "tcp-m1-l3-q10-a3",
+          "text": "No; evaluate available credit and other rules"
+        }
+      ],
+      "correctChoiceId": "tcp-m1-l3-q10-a3",
+      "explanation": "Taxable gift and tax payable are separate.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "tcp",
+        "blueprintYear": 2026,
+        "areaId": "tcp-I",
+        "groupId": "C-D",
+        "topicId": "tcp-personal-financial-planning",
+        "taskIds": [
+          "tcp-personal-financial-planning.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          }
+        ]
+      },
+      "familyId": "tcp-m1-tbs3"
+    },
+    {
+      "id": "tcp-m1-l4-q1",
+      "courseId": "tcp",
+      "moduleId": 1,
+      "lessonId": "tcp-m1-l4",
+      "topic": "Gift Exclusions, Gift Splitting & Basis Tradeoffs",
+      "prompt": "Qualifying $45,000 gifts are made to each of two recipients. The supplied annual exclusion is $19,000 per recipient. What are total taxable gifts before credit?",
+      "choices": [
+        {
+          "id": "tcp-m1-l4-q1-a0",
+          "text": "$90,000."
+        },
+        {
+          "id": "tcp-m1-l4-q1-a1",
+          "text": "$71,000."
+        },
+        {
+          "id": "tcp-m1-l4-q1-a2",
+          "text": "$26,000."
+        },
+        {
+          "id": "tcp-m1-l4-q1-a3",
+          "text": "$52,000."
+        }
+      ],
+      "correctChoiceId": "tcp-m1-l4-q1-a3",
+      "explanation": "Each gift leaves $26,000 after exclusion; two total $52,000.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "tcp",
+        "blueprintYear": 2026,
+        "areaId": "tcp-I",
+        "groupId": "C-D",
+        "topicId": "tcp-gift-estate-planning",
+        "taskIds": [
+          "tcp-gift-estate-planning.task-1"
+        ],
+        "skill": "application",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          }
+        ]
+      }
+    },
+    {
+      "id": "tcp-m1-l4-q2",
+      "courseId": "tcp",
+      "moduleId": 1,
+      "lessonId": "tcp-m1-l4",
+      "topic": "Gift Exclusions, Gift Splitting & Basis Tradeoffs",
+      "prompt": "A donor pays qualifying tuition directly to the institution. What separate rule should be evaluated?",
+      "choices": [
+        {
+          "id": "tcp-m1-l4-q2-a0",
+          "text": "The direct tuition-payment exclusion."
+        },
+        {
+          "id": "tcp-m1-l4-q2-a1",
+          "text": "Automatic wage treatment."
+        },
+        {
+          "id": "tcp-m1-l4-q2-a2",
+          "text": "An exclusion for every living expense."
+        },
+        {
+          "id": "tcp-m1-l4-q2-a3",
+          "text": "Only the donor’s stock basis."
+        }
+      ],
+      "correctChoiceId": "tcp-m1-l4-q2-a0",
+      "explanation": "Qualifying direct tuition payments can receive separate exclusion treatment.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "tcp",
+        "blueprintYear": 2026,
+        "areaId": "tcp-I",
+        "groupId": "C-D",
+        "topicId": "tcp-gift-estate-planning",
+        "taskIds": [
+          "tcp-gift-estate-planning.task-2"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          }
+        ]
+      }
+    },
+    {
+      "id": "tcp-m1-l4-q3",
+      "courseId": "tcp",
+      "moduleId": 1,
+      "lessonId": "tcp-m1-l4",
+      "topic": "Gift Exclusions, Gift Splitting & Basis Tradeoffs",
+      "prompt": "Does the direct tuition exclusion automatically cover room and board?",
+      "choices": [
+        {
+          "id": "tcp-m1-l4-q3-a0",
+          "text": "Yes, every education-related payment qualifies."
+        },
+        {
+          "id": "tcp-m1-l4-q3-a1",
+          "text": "No."
+        },
+        {
+          "id": "tcp-m1-l4-q3-a2",
+          "text": "Only if paid in cash."
+        },
+        {
+          "id": "tcp-m1-l4-q3-a3",
+          "text": "Only if the donor has no taxable income."
+        }
+      ],
+      "correctChoiceId": "tcp-m1-l4-q3-a1",
+      "explanation": "The tuition rule does not automatically extend to room and board.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "tcp",
+        "blueprintYear": 2026,
+        "areaId": "tcp-I",
+        "groupId": "C-D",
+        "topicId": "tcp-gift-estate-planning",
+        "taskIds": [
+          "tcp-gift-estate-planning.task-3"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          }
+        ]
+      }
+    },
+    {
+      "id": "tcp-m1-l4-q4",
+      "courseId": "tcp",
+      "moduleId": 1,
+      "lessonId": "tcp-m1-l4",
+      "topic": "Gift Exclusions, Gift Splitting & Basis Tradeoffs",
+      "prompt": "Eligible spouses elect gift splitting for a $100,000 qualifying gift. Use $19,000 annual exclusion per donor. What is combined taxable gift before credit?",
+      "choices": [
+        {
+          "id": "tcp-m1-l4-q4-a0",
+          "text": "$81,000."
+        },
+        {
+          "id": "tcp-m1-l4-q4-a1",
+          "text": "$100,000."
+        },
+        {
+          "id": "tcp-m1-l4-q4-a2",
+          "text": "$62,000."
+        },
+        {
+          "id": "tcp-m1-l4-q4-a3",
+          "text": "$31,000."
+        }
+      ],
+      "correctChoiceId": "tcp-m1-l4-q4-a2",
+      "explanation": "Each spouse has $50,000 less $19,000 exclusion; combined taxable gifts are $62,000.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "tcp",
+        "blueprintYear": 2026,
+        "areaId": "tcp-I",
+        "groupId": "C-D",
+        "topicId": "tcp-gift-estate-planning",
+        "taskIds": [
+          "tcp-gift-estate-planning.task-1"
+        ],
+        "skill": "application",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          }
+        ]
+      }
+    },
+    {
+      "id": "tcp-m1-l4-q5",
+      "courseId": "tcp",
+      "moduleId": 1,
+      "lessonId": "tcp-m1-l4",
+      "topic": "Gift Exclusions, Gift Splitting & Basis Tradeoffs",
+      "prompt": "Why can a lifetime gift of appreciated property differ from a transfer at death for income-tax purposes?",
+      "choices": [
+        {
+          "id": "tcp-m1-l4-q5-a0",
+          "text": "Every gift receives fair-value basis."
+        },
+        {
+          "id": "tcp-m1-l4-q5-a1",
+          "text": "Every inheritance retains original cost."
+        },
+        {
+          "id": "tcp-m1-l4-q5-a2",
+          "text": "Basis never affects gain."
+        },
+        {
+          "id": "tcp-m1-l4-q5-a3",
+          "text": "Gift and inherited basis rules can differ."
+        }
+      ],
+      "correctChoiceId": "tcp-m1-l4-q5-a3",
+      "explanation": "The recipient’s eventual gain depends on the applicable basis rules.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "tcp",
+        "blueprintYear": 2026,
+        "areaId": "tcp-I",
+        "groupId": "C-D",
+        "topicId": "tcp-gift-estate-planning",
+        "taskIds": [
+          "tcp-gift-estate-planning.task-2"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          }
+        ]
+      }
+    },
+    {
+      "id": "tcp-m1-l4-q6",
+      "courseId": "tcp",
+      "moduleId": 1,
+      "lessonId": "tcp-m1-l4",
+      "topic": "Gift Exclusions, Gift Splitting & Basis Tradeoffs",
+      "prompt": "A future-interest gift does not qualify for the annual exclusion under the stated facts. What is appropriate?",
+      "choices": [
+        {
+          "id": "tcp-m1-l4-q6-a0",
+          "text": "Do not apply the exclusion merely because the gift is small."
+        },
+        {
+          "id": "tcp-m1-l4-q6-a1",
+          "text": "Apply it to every gift automatically."
+        },
+        {
+          "id": "tcp-m1-l4-q6-a2",
+          "text": "Treat the gift as a corporate dividend."
+        },
+        {
+          "id": "tcp-m1-l4-q6-a3",
+          "text": "Ignore all reporting rules."
+        }
+      ],
+      "correctChoiceId": "tcp-m1-l4-q6-a0",
+      "explanation": "Eligibility conditions apply independently of amount.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "tcp",
+        "blueprintYear": 2026,
+        "areaId": "tcp-I",
+        "groupId": "C-D",
+        "topicId": "tcp-gift-estate-planning",
+        "taskIds": [
+          "tcp-gift-estate-planning.task-3"
+        ],
+        "skill": "application",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          }
+        ]
+      }
+    },
+    {
+      "id": "tcp-m1-l4-q7",
+      "courseId": "tcp",
+      "moduleId": 1,
+      "lessonId": "tcp-m1-l4",
+      "topic": "Gift Exclusions, Gift Splitting & Basis Tradeoffs",
+      "prompt": "Compute taxable gifts under the supplied exclusions and elections. Cash gifts: A donor gives $60,000 to each of two recipients as qualifying present interests. Use $19,000 exclusion per donee. Other transfers: Eligible spouses elect gift splitting for a $90,000 present-interest gift to a third recipient. Use $19,000 exclusion per spouse. A separate $25,000 tuition payment directly to a college satisfies the direct-payment exclusion. Required: Taxable gift per first two recipients before credit.",
+      "choices": [
+        {
+          "id": "tcp-m1-l4-q7-a0",
+          "text": "60000"
+        },
+        {
+          "id": "tcp-m1-l4-q7-a1",
+          "text": "41000"
+        },
+        {
+          "id": "tcp-m1-l4-q7-a2",
+          "text": "19000"
+        },
+        {
+          "id": "tcp-m1-l4-q7-a3",
+          "text": "22000"
+        }
+      ],
+      "correctChoiceId": "tcp-m1-l4-q7-a1",
+      "explanation": "$60,000 − $19,000 = $41,000 per recipient.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "tcp",
+        "blueprintYear": 2026,
+        "areaId": "tcp-I",
+        "groupId": "C-D",
+        "topicId": "tcp-gift-estate-planning",
+        "taskIds": [
+          "tcp-gift-estate-planning.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          }
+        ]
+      },
+      "familyId": "tcp-m1-tbs4"
+    },
+    {
+      "id": "tcp-m1-l4-q8",
+      "courseId": "tcp",
+      "moduleId": 1,
+      "lessonId": "tcp-m1-l4",
+      "topic": "Gift Exclusions, Gift Splitting & Basis Tradeoffs",
+      "prompt": "Compute taxable gifts under the supplied exclusions and elections. Cash gifts: A donor gives $60,000 to each of two recipients as qualifying present interests. Use $19,000 exclusion per donee. Other transfers: Eligible spouses elect gift splitting for a $90,000 present-interest gift to a third recipient. Use $19,000 exclusion per spouse. A separate $25,000 tuition payment directly to a college satisfies the direct-payment exclusion. Required: Combined taxable gifts to the first two recipients.",
+      "choices": [
+        {
+          "id": "tcp-m1-l4-q8-a0",
+          "text": "120000"
+        },
+        {
+          "id": "tcp-m1-l4-q8-a1",
+          "text": "101000"
+        },
+        {
+          "id": "tcp-m1-l4-q8-a2",
+          "text": "82000"
+        },
+        {
+          "id": "tcp-m1-l4-q8-a3",
+          "text": "41000"
+        }
+      ],
+      "correctChoiceId": "tcp-m1-l4-q8-a2",
+      "explanation": "Two × $41,000 = $82,000.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "tcp",
+        "blueprintYear": 2026,
+        "areaId": "tcp-I",
+        "groupId": "C-D",
+        "topicId": "tcp-gift-estate-planning",
+        "taskIds": [
+          "tcp-gift-estate-planning.task-2"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          }
+        ]
+      },
+      "familyId": "tcp-m1-tbs4"
+    },
+    {
+      "id": "tcp-m1-l4-q9",
+      "courseId": "tcp",
+      "moduleId": 1,
+      "lessonId": "tcp-m1-l4",
+      "topic": "Gift Exclusions, Gift Splitting & Basis Tradeoffs",
+      "prompt": "Compute taxable gifts under the supplied exclusions and elections. Cash gifts: A donor gives $60,000 to each of two recipients as qualifying present interests. Use $19,000 exclusion per donee. Other transfers: Eligible spouses elect gift splitting for a $90,000 present-interest gift to a third recipient. Use $19,000 exclusion per spouse. A separate $25,000 tuition payment directly to a college satisfies the direct-payment exclusion. Required: Combined taxable gift after splitting $90,000.",
+      "choices": [
+        {
+          "id": "tcp-m1-l4-q9-a0",
+          "text": "71000"
+        },
+        {
+          "id": "tcp-m1-l4-q9-a1",
+          "text": "90000"
+        },
+        {
+          "id": "tcp-m1-l4-q9-a2",
+          "text": "26000"
+        },
+        {
+          "id": "tcp-m1-l4-q9-a3",
+          "text": "52000"
+        }
+      ],
+      "correctChoiceId": "tcp-m1-l4-q9-a3",
+      "explanation": "Each spouse has $45,000 − $19,000 = $26,000; combined $52,000.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "tcp",
+        "blueprintYear": 2026,
+        "areaId": "tcp-I",
+        "groupId": "C-D",
+        "topicId": "tcp-gift-estate-planning",
+        "taskIds": [
+          "tcp-gift-estate-planning.task-3"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          }
+        ]
+      },
+      "familyId": "tcp-m1-tbs4"
+    },
+    {
+      "id": "tcp-m1-l4-q10",
+      "courseId": "tcp",
+      "moduleId": 1,
+      "lessonId": "tcp-m1-l4",
+      "topic": "Gift Exclusions, Gift Splitting & Basis Tradeoffs",
+      "prompt": "Compute taxable gifts under the supplied exclusions and elections. Cash gifts: A donor gives $60,000 to each of two recipients as qualifying present interests. Use $19,000 exclusion per donee. Other transfers: Eligible spouses elect gift splitting for a $90,000 present-interest gift to a third recipient. Use $19,000 exclusion per spouse. A separate $25,000 tuition payment directly to a college satisfies the direct-payment exclusion. Required: Taxable gift from the qualifying direct tuition payment.",
+      "choices": [
+        {
+          "id": "tcp-m1-l4-q10-a0",
+          "text": "0"
+        },
+        {
+          "id": "tcp-m1-l4-q10-a1",
+          "text": "25000"
+        },
+        {
+          "id": "tcp-m1-l4-q10-a2",
+          "text": "6000"
+        },
+        {
+          "id": "tcp-m1-l4-q10-a3",
+          "text": "19000"
+        }
+      ],
+      "correctChoiceId": "tcp-m1-l4-q10-a0",
+      "explanation": "The case expressly meets the separate tuition-payment exclusion.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "tcp",
+        "blueprintYear": 2026,
+        "areaId": "tcp-I",
+        "groupId": "C-D",
+        "topicId": "tcp-gift-estate-planning",
+        "taskIds": [
+          "tcp-gift-estate-planning.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          }
+        ]
+      },
+      "familyId": "tcp-m1-tbs4"
+    }
+  ]
+}

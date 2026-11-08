@@ -1,0 +1,88 @@
+{
+  "id": "far-m1-l3",
+  "courseId": "far",
+  "moduleId": 1,
+  "number": 3,
+  "title": "Income Statement & Comprehensive Income",
+  "description": "Prepare and analyze income statement presentation, continuing operations and other comprehensive income.",
+  "url": "/learn/far/modules/1/lessons/3",
+  "html": "<h2> Purpose of the income statement </h2> <p> The income statement reports an entity's financial performance over a period of time. </p> <p> At the CPA level, the important question is not simply whether an item increased or decreased equity. </p> <p> You must determine whether the item belongs in net income, other comprehensive income, or directly within equity. </p> <div class=\"formula-box\"> Revenues and Gains − Expenses and Losses = Net Income </div> <div class=\"key-points\"> <h3>CPA mindset</h3> <p> For every income-related item, ask: </p> <ol> <li> Is it recognized in the current period? </li> <li> Does it affect continuing operations? </li> <li> Is it part of discontinued operations? </li> <li> Does it belong in OCI instead of net income? </li> <li> Does it require separate presentation or disclosure? </li> </ol> </div> <h2> Continuing operations </h2> <p> Most revenues, expenses, gains and losses recognized during normal business activity ultimately affect income from continuing operations. </p> <div class=\"key-points\"> <h3>Examples</h3> <ul> <li> Sales or service revenue </li> <li> Cost of goods sold </li> <li> Selling expenses </li> <li> General and administrative expenses </li> <li> Depreciation and amortization expense </li> <li> Interest expense </li> <li> Many gains and losses </li> </ul> </div> <h2> Unusual or infrequent items </h2> <p> An unusual or infrequent event does not automatically get removed from continuing operations. </p> <p> Material items may require separate presentation or disclosure so users can understand their nature, but unusual does not mean \"outside net income.\" </p> <div class=\"key-points\"> <h3>CPA trap</h3> <p> Under U.S. GAAP, there is no separate extraordinary-items category. </p> <p> Do not classify an unusual loss as an \"extraordinary loss\" simply because it rarely occurs. </p> </div> <h2> Discontinued operations </h2> <p> Discontinued-operations reporting applies when the disposal or classification as held for sale of a component represents a strategic shift that has, or will have, a major effect on the entity's operations and financial results. </p> <p> When the requirements are satisfied, discontinued operations are presented separately from continuing operations. </p> <div class=\"formula-box\"> Income from Continuing Operations + Discontinued Operations, Net of Tax = Net Income </div> <div class=\"key-points\"> <h3>Important</h3> <p> Discontinued operations are generally presented net of applicable income tax effects. </p> </div> <h2> Worked discontinued-operations example </h2> <div class=\"example-box\"> <p> Income from continuing operations before income tax: <strong>$500,000</strong> </p> <p> Pretax loss from a qualifying discontinued operation: <strong>$100,000</strong> </p> <p> Assume a 25% income tax rate for this simplified example. </p> <h3> Step 1 — Continuing operations </h3> <div class=\"formula-box\"> $500,000 × (1 − 25%) = $375,000 </div> <h3> Step 2 — Discontinued operation </h3> <div class=\"formula-box\"> $100,000 × (1 − 25%) = $75,000 after-tax loss </div> <h3> Step 3 — Net income </h3> <div class=\"formula-box\"> $375,000 − $75,000 = $300,000 </div> </div> <h2> Comprehensive income </h2> <p> Net income does not capture every recognized change in equity arising from nonowner sources. </p> <p> Comprehensive income includes both net income and other comprehensive income. </p> <div class=\"formula-box\"> Comprehensive Income = Net Income + Other Comprehensive Income </div> <h2> Other comprehensive income </h2> <p> Certain items are recognized outside net income and instead enter other comprehensive income under the applicable accounting guidance. </p> <div class=\"key-points\"> <h3>OCI categories</h3> <ul> <li> Certain unrealized gains and losses on debt securities classified as available-for-sale </li> <li> Certain foreign currency translation adjustments </li> <li> Other items specifically required by U.S. GAAP to be reported in OCI rather than current-period net income </li> </ul> </div> <div class=\"key-points\"> <h3>CPA trap</h3> <p> Not every unrealized gain or loss belongs in OCI. </p> <p> Classification depends on the underlying accounting guidance for the specific item. </p> </div> <h2> OCI versus AOCI </h2> <p> These terms are related but are not identical. </p> <div class=\"comparison-grid\"> <div class=\"comparison-card\"> <h3> OCI </h3> <p> Other comprehensive income represents qualifying comprehensive-income items recognized during the current period. </p> </div> <div class=\"comparison-card\"> <h3> AOCI </h3> <p> Accumulated other comprehensive income is the cumulative balance of OCI items reported within stockholders' equity. </p> </div> </div> <div class=\"formula-box\"> Beginning AOCI + Current-Period OCI ± Applicable Reclassifications = Ending AOCI </div> <h2> Reclassification adjustments </h2> <p> Some amounts previously recognized in OCI may later be reclassified into net income when the applicable accounting requirements are satisfied. </p> <p> A reclassification adjustment helps prevent the same economic effect from being counted twice in comprehensive income. </p> <div class=\"key-points\"> <h3>CPA mindset</h3> <p> When you see an OCI question, track both: </p> <ul> <li> the current-period OCI effect, and </li> <li> the cumulative AOCI balance in equity. </li> </ul> </div> <h2> Presentation of comprehensive income </h2> <p> An entity may present comprehensive income in a single continuous statement or in two separate but consecutive statements, consistent with applicable presentation requirements. </p> <p> Regardless of format, net income and the components of OCI must remain distinguishable. </p> <h2> Owner transactions are different </h2> <p> Comprehensive income concerns changes in equity arising from nonowner sources. </p> <p> Contributions from owners and distributions to owners are therefore not components of comprehensive income. </p> <div class=\"comparison-grid\"> <div class=\"comparison-card\"> <h3> Included in Comprehensive Income </h3> <p> Net income </p> <p> Other comprehensive income </p> </div> <div class=\"comparison-card\"> <h3> Not Comprehensive Income </h3> <p> Issuing common stock </p> <p> Dividends to shareholders </p> <p> Other owner contributions and distributions </p> </div> </div> <h2> Worked comprehensive-income example </h2> <p> Assume a company reports: </p> <div class=\"financial-example\"> <div> <span> Net Income </span> <strong> $240,000 </strong> </div> <div> <span> Qualifying OCI Gain </span> <strong> $30,000 </strong> </div> <div> <span> Qualifying OCI Loss </span> <strong> ($12,000) </strong> </div> <div> <span> Dividends Declared </span> <strong> $20,000 </strong> </div> </div> <h3> Step 1 — Calculate OCI </h3> <div class=\"formula-box\"> $30,000 − $12,000 = $18,000 OCI </div> <h3> Step 2 — Calculate comprehensive income </h3> <div class=\"formula-box\"> $240,000 + $18,000 = $258,000 </div> <p> The $20,000 dividend is not subtracted when calculating comprehensive income because it is an owner distribution. </p> <div class=\"key-points\"> <h3>CPA trap</h3> <p> Dividends reduce retained earnings, but they do not reduce net income or comprehensive income. </p> </div> <h2> Income statement relationships </h2> <div class=\"key-points\"> <ul> <li> Net income ultimately affects retained earnings. </li> <li> OCI ultimately affects AOCI within equity. </li> <li> Net income + OCI = comprehensive income. </li> <li> Owner contributions and distributions are excluded from comprehensive income. </li> </ul> </div> <h2> What you should know after this lesson </h2> <div class=\"key-points\"> <ul> <li> Understand the role of continuing operations. </li> <li> Recognize that unusual items do not create an extraordinary-items category. </li> <li> Understand the basic presentation of qualifying discontinued operations. </li> <li> Distinguish net income from comprehensive income. </li> <li> Distinguish OCI from AOCI. </li> <li> Recognize major categories that can produce OCI. </li> <li> Understand the purpose of reclassification adjustments. </li> <li> Exclude owner transactions from comprehensive income. </li> </ul> </div>",
+  "quiz": {
+    "id": "far-m1-l3-check",
+    "courseId": "far",
+    "moduleId": 1,
+    "lessonId": "far-m1-l3",
+    "topic": "General review",
+    "prompt": "A company reports net income of $310,000, an $18,000 qualifying gain in other comprehensive income, a $7,000 qualifying loss in other comprehensive income, and $25,000 of dividends declared. What is comprehensive income?",
+    "choices": [
+      {
+        "id": "far-m1-l3-check-a0",
+        "text": "$296,000"
+      },
+      {
+        "id": "far-m1-l3-check-a1",
+        "text": "$346,000"
+      },
+      {
+        "id": "far-m1-l3-check-a2",
+        "text": "$328,000"
+      },
+      {
+        "id": "far-m1-l3-check-a3",
+        "text": "$321,000"
+      }
+    ],
+    "correctChoiceId": "far-m1-l3-check-a3",
+    "explanation": "Net OCI is $18,000 − $7,000 = $11,000. Comprehensive income is $310,000 + $11,000 = $321,000. Dividends are owner distributions and are not components of comprehensive income.",
+    "difficulty": "foundation",
+    "metadata": {
+      "section": "far",
+      "blueprintYear": 2026,
+      "areaId": "far-I",
+      "groupId": "module-1",
+      "topicId": "far-income-statement-comprehensive-income",
+      "taskIds": [
+        "far-income-statement-comprehensive-income.task-1",
+        "far-income-statement-comprehensive-income.task-2",
+        "far-income-statement-comprehensive-income.task-3"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "section": "far",
+    "blueprintYear": 2026,
+    "areaId": "far-I",
+    "groupId": "module-1",
+    "topicId": "far-income-statement-comprehensive-income",
+    "taskIds": [
+      "far-income-statement-comprehensive-income.task-1",
+      "far-income-statement-comprehensive-income.task-2",
+      "far-income-statement-comprehensive-income.task-3"
+    ],
+    "skill": "application",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      }
+    ]
+  },
+  "objectives": [
+    "Explain income statement & comprehensive income and its underlying principles.",
+    "Apply the topic to a financial-reporting scenario.",
+    "Evaluate common errors and their financial-statement effects."
+  ]
+}

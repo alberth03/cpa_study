@@ -1,0 +1,105 @@
+{
+  "id": "tcp-m3-l3",
+  "courseId": "tcp",
+  "moduleId": 3,
+  "number": 3,
+  "title": "Distribution Planning, Timing & Tax-Efficient Alternatives",
+  "description": "Compare legally available timing alternatives.",
+  "url": "/learn/tcp/modules/3/lessons/3",
+  "metadata": {
+    "section": "tcp",
+    "blueprintYear": 2026,
+    "areaId": "tcp-III",
+    "groupId": "A-B",
+    "topicId": "tcp-entity-tax-timing",
+    "taskIds": [
+      "tcp-entity-tax-timing.task-1",
+      "tcp-entity-tax-timing.task-2",
+      "tcp-entity-tax-timing.task-3"
+    ],
+    "skill": "application",
+    "validFrom": "2026-07-01",
+    "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      },
+      {
+        "title": "IRS tax publications",
+        "url": "https://www.irs.gov/publications"
+      },
+      {
+        "title": "Internal Revenue Code",
+        "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+      }
+    ]
+  },
+  "html": "<h2>Learning objectives</h2><ul><li>Compare legally available timing alternatives.</li><li>Evaluate distributions together with basis and tax attributes.</li><li>Separate tax savings from business and cash-flow consequences.</li></ul><h2>Understand the concepts</h2><p>Planning compares alternatives that are actually permitted by law. Consider when income is recognized, when deductions are allowed, applicable rates, limitations, and the time value of money. Accelerating a deduction can help at a higher current rate, but a limitation may defer the benefit. Deferring income may help when future rates are lower, but constructive receipt or other provisions can restrict the choice.</p><p>Distribution planning depends on entity type, owner basis, earnings and profits or other tax accounts, debt, and special rules. A large cash payment can create gain, a dividend, compensation, or another consequence depending on substance. A label such as loan or reimbursement does not establish treatment. Keep owner and entity tax consequences and cash needs in the same model.</p><p>Tax-efficient does not mean economically optimal. A strategy may save tax but sacrifice investment return, create liquidity problems, impose compliance costs, or concentrate risk. Compare after-tax present values and explain assumptions. A recommendation should be conditional on the facts and applicable tax period rather than treating one strategy as universally favorable.</p><div class=\"example-box\"><h3>Deduction timing comparison</h3><p>A legally deductible $50,000 expenditure can be paid this year at a 30% marginal rate or next year at 20%. Ignore time value and other effects.</p><ol><li>Current-year tax saving is $15,000.</li><li>Next-year saving is $10,000.</li><li>Acceleration provides $5,000 additional nominal tax saving, subject to the assumed legal availability and business effects.</li></ol></div><div class=\"key-points\"><h3>Common mistakes to avoid</h3><ul><li>A favorable model does not override recognition rules.</li><li>Distribution labels do not determine substance.</li><li>Tax savings should be compared with business and liquidity costs.</li></ul></div><h2>Apply and connect</h2><p>After solving the worked case, explain which facts determine the result and how a changed assumption would change your conclusion. Use the module questions to test fresh applications, then complete the related simulation before reviewing its solution.</p>",
+  "objectives": [
+    "Compare legally available timing alternatives.",
+    "Evaluate distributions together with basis and tax attributes.",
+    "Separate tax savings from business and cash-flow consequences."
+  ],
+  "quiz": {
+    "id": "tcp-m3-l3-q1",
+    "courseId": "tcp",
+    "moduleId": 3,
+    "lessonId": "tcp-m3-l3",
+    "topic": "Distribution Planning, Timing & Tax-Efficient Alternatives",
+    "prompt": "A legally available $40,000 deduction saves tax at 35% now or 25% next year. Ignore time value. What additional saving comes from taking it now?",
+    "choices": [
+      {
+        "id": "tcp-m3-l3-q1-a0",
+        "text": "$4,000."
+      },
+      {
+        "id": "tcp-m3-l3-q1-a1",
+        "text": "$14,000."
+      },
+      {
+        "id": "tcp-m3-l3-q1-a2",
+        "text": "$10,000."
+      },
+      {
+        "id": "tcp-m3-l3-q1-a3",
+        "text": "$24,000."
+      }
+    ],
+    "correctChoiceId": "tcp-m3-l3-q1-a0",
+    "explanation": "10% rate difference × $40,000 = $4,000.",
+    "difficulty": "application",
+    "metadata": {
+      "section": "tcp",
+      "blueprintYear": 2026,
+      "areaId": "tcp-III",
+      "groupId": "A-B",
+      "topicId": "tcp-entity-tax-timing",
+      "taskIds": [
+        "tcp-entity-tax-timing.task-1"
+      ],
+      "skill": "application",
+      "validFrom": "2026-07-01",
+      "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        },
+        {
+          "title": "IRS tax publications",
+          "url": "https://www.irs.gov/publications"
+        },
+        {
+          "title": "Internal Revenue Code",
+          "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+        }
+      ]
+    }
+  },
+  "relatedSimulation": "tcp-m3-tbs3"
+}

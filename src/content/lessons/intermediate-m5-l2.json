@@ -1,0 +1,88 @@
+{
+  "id": "intermediate-m5-l2",
+  "courseId": "intermediate",
+  "moduleId": 5,
+  "number": 2,
+  "title": "Contingencies & Commitments",
+  "description": "Learn when potential losses may require recognition or disclosure.",
+  "url": "/learn/intermediate/modules/5/lessons/2",
+  "html": "<h2>What is a contingency?</h2> <p> A contingency involves uncertainty about a possible future gain or loss that depends on the outcome of a future event. </p> <h2>Loss contingencies</h2> <p> Examples can include lawsuits, guarantees, environmental matters and certain other claims. </p> <div class=\"key-points\"> <h3>Two questions matter</h3> <ol> <li>How likely is the loss?</li> <li>Can the amount be reasonably estimated?</li> </ol> </div> <p> Depending on those factors and the applicable accounting guidance, a company may need to recognize a liability, disclose the matter, or sometimes do neither. </p> <div class=\"example-box\"> <h3>Example</h3> <p> A company is involved in a lawsuit. </p> <p> If the relevant recognition criteria are met and the loss can be reasonably estimated, a loss and liability may need to be recorded. </p> </div> <h2>Commitments</h2> <p> A commitment is generally an agreement to engage in a future transaction. </p> <p> A commitment does not automatically mean a liability should be recorded immediately. </p> <div class=\"key-points\"> <h3>Important</h3> <p> Contingency accounting depends heavily on the specific facts and applicable GAAP. </p> <p> At CPA level, we'll study the precise recognition and disclosure thresholds more deeply. </p> </div>",
+  "quiz": {
+    "id": "intermediate-m5-l2-check",
+    "courseId": "intermediate",
+    "moduleId": 5,
+    "lessonId": "intermediate-m5-l2",
+    "topic": "General review",
+    "prompt": "When evaluating a potential loss contingency, which two factors are especially important?",
+    "choices": [
+      {
+        "id": "intermediate-m5-l2-check-a0",
+        "text": "Revenue and gross profit"
+      },
+      {
+        "id": "intermediate-m5-l2-check-a1",
+        "text": "Probability of loss and ability to estimate the amount"
+      },
+      {
+        "id": "intermediate-m5-l2-check-a2",
+        "text": "Cash balance and inventory balance"
+      },
+      {
+        "id": "intermediate-m5-l2-check-a3",
+        "text": "Number of employees and tax rate"
+      }
+    ],
+    "correctChoiceId": "intermediate-m5-l2-check-a1",
+    "explanation": "The likelihood of the loss and whether the loss can be reasonably estimated are key considerations.",
+    "difficulty": "foundation",
+    "metadata": {
+      "section": "intermediate",
+      "blueprintYear": 2026,
+      "areaId": "intermediate-I",
+      "groupId": "module-5",
+      "topicId": "intermediate-contingencies-commitments",
+      "taskIds": [
+        "intermediate-contingencies-commitments.task-1",
+        "intermediate-contingencies-commitments.task-2",
+        "intermediate-contingencies-commitments.task-3"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "section": "intermediate",
+    "blueprintYear": 2026,
+    "areaId": "intermediate-I",
+    "groupId": "module-5",
+    "topicId": "intermediate-contingencies-commitments",
+    "taskIds": [
+      "intermediate-contingencies-commitments.task-1",
+      "intermediate-contingencies-commitments.task-2",
+      "intermediate-contingencies-commitments.task-3"
+    ],
+    "skill": "application",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      }
+    ]
+  },
+  "objectives": [
+    "Explain contingencies & commitments and its underlying principles.",
+    "Apply the topic to a financial-reporting scenario.",
+    "Evaluate common errors and their financial-statement effects."
+  ]
+}

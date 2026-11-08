@@ -1,0 +1,103 @@
+{
+  "id": "bar-m2-l3",
+  "courseId": "bar",
+  "moduleId": 2,
+  "number": 3,
+  "title": "Business Combinations, Goodwill & Noncontrolling Interests",
+  "description": "Apply the acquisition method to specified fair values.",
+  "url": "/learn/bar/modules/2/lessons/3",
+  "metadata": {
+    "section": "bar",
+    "blueprintYear": 2026,
+    "areaId": "bar-II",
+    "groupId": "E",
+    "topicId": "bar-business-combinations",
+    "taskIds": [
+      "bar-business-combinations.task-1",
+      "bar-business-combinations.task-2",
+      "bar-business-combinations.task-3"
+    ],
+    "skill": "application",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      },
+      {
+        "title": "FASB accounting standards",
+        "url": "https://asc.fasb.org/"
+      },
+      {
+        "title": "GASB standards",
+        "url": "https://www.gasb.org/standards-and-implementation"
+      }
+    ]
+  },
+  "html": "<h2>Learning objectives</h2><ul><li>Apply the acquisition method to specified fair values.</li><li>Compute goodwill or identify a bargain-purchase situation.</li><li>Distinguish acquisition costs from consideration and financing costs.</li></ul><h2>Understand the concepts</h2><p>A business combination accounted for under the acquisition method identifies the acquirer and acquisition date and recognizes identifiable acquired assets and assumed liabilities at the required measurements, generally acquisition-date fair value. Evaluate whether the acquired set is a business or an asset acquisition because the accounting can differ.</p><p>Goodwill generally reflects consideration transferred, fair value of noncontrolling interests, and any previously held interest, less recognized net identifiable assets. A negative residual requires reassessment before recognizing a bargain-purchase gain. Do not use the acquiree’s historical book equity as a substitute for required acquisition-date measurement.</p><p>Acquisition-related advisory costs are generally expensed, while debt and equity issuance costs follow their respective guidance. Contingent consideration and subsequent changes require classification-specific analysis. Noncontrolling interests represent equity interests not attributable to the parent in consolidated statements; they are not automatically a conventional liability.</p><div class=\"example-box\"><h3>Goodwill with a noncontrolling interest</h3><p>Consideration is $900,000, fair value of NCI $200,000, and fair value of identifiable net assets $950,000. No previously held interest applies.</p><ol><li>Aggregate consideration and NCI is $1,100,000.</li><li>Subtract $950,000 net identifiable assets.</li><li>Goodwill is $150,000.</li></ol></div><div class=\"key-points\"><h3>Common mistakes to avoid</h3><ul><li>Use required fair values rather than book equity alone.</li><li>Not every transaction cost is part of consideration.</li><li>Reassess measurements before recognizing a bargain-purchase gain.</li></ul></div><h2>Apply and connect</h2><p>After solving the worked case, explain which facts determine the result and how a changed assumption would change your conclusion. Use the module questions to test fresh applications, then complete the related simulation before reviewing its solution.</p>",
+  "objectives": [
+    "Apply the acquisition method to specified fair values.",
+    "Compute goodwill or identify a bargain-purchase situation.",
+    "Distinguish acquisition costs from consideration and financing costs."
+  ],
+  "quiz": {
+    "id": "bar-m2-l3-q1",
+    "courseId": "bar",
+    "moduleId": 2,
+    "lessonId": "bar-m2-l3",
+    "topic": "Business Combinations, Goodwill & Noncontrolling Interests",
+    "prompt": "Consideration is $800,000, NCI fair value $150,000, and net identifiable assets $850,000. What is goodwill?",
+    "choices": [
+      {
+        "id": "bar-m2-l3-q1-a0",
+        "text": "$50,000."
+      },
+      {
+        "id": "bar-m2-l3-q1-a1",
+        "text": "$950,000."
+      },
+      {
+        "id": "bar-m2-l3-q1-a2",
+        "text": "$150,000."
+      },
+      {
+        "id": "bar-m2-l3-q1-a3",
+        "text": "$100,000."
+      }
+    ],
+    "correctChoiceId": "bar-m2-l3-q1-a3",
+    "explanation": "$800,000 + $150,000 − $850,000 = $100,000.",
+    "difficulty": "application",
+    "metadata": {
+      "section": "bar",
+      "blueprintYear": 2026,
+      "areaId": "bar-II",
+      "groupId": "E",
+      "topicId": "bar-business-combinations",
+      "taskIds": [
+        "bar-business-combinations.task-1"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        },
+        {
+          "title": "FASB accounting standards",
+          "url": "https://asc.fasb.org/"
+        },
+        {
+          "title": "GASB standards",
+          "url": "https://www.gasb.org/standards-and-implementation"
+        }
+      ]
+    }
+  },
+  "relatedSimulation": "bar-m2-tbs3"
+}

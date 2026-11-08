@@ -1,0 +1,103 @@
+{
+  "id": "bar-m3-l1",
+  "courseId": "bar",
+  "moduleId": 3,
+  "number": 1,
+  "title": "Governmental Foundations & Fund Classification",
+  "description": "Explain governmental foundations & fund classification.",
+  "url": "/learn/bar/modules/3/lessons/1",
+  "metadata": {
+    "section": "bar",
+    "blueprintYear": 2026,
+    "areaId": "bar-III",
+    "groupId": "A-B-C",
+    "topicId": "bar-government-funds",
+    "taskIds": [
+      "bar-government-funds.task-1",
+      "bar-government-funds.task-2",
+      "bar-government-funds.task-3"
+    ],
+    "skill": "application",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      },
+      {
+        "title": "FASB accounting standards",
+        "url": "https://asc.fasb.org/"
+      },
+      {
+        "title": "GASB standards",
+        "url": "https://www.gasb.org/standards-and-implementation"
+      }
+    ]
+  },
+  "html": "<h2>Governmental Accounting Foundations</h2><h2> Why Governmental Accounting Is Different </h2> <p> State and local governments are not primarily designed to generate profit. Their financial reporting emphasizes accountability for public resources and compliance with legal and budgetary requirements. </p> <h2> The Two Reporting Perspectives </h2> <p> Governmental accounting uses two important reporting perspectives: </p> <div class=\"key-points\"> <h3> Fund Financial Statements </h3> <ul> <li> Report financial information by fund or fund category, depending on the applicable presentation requirements. </li> <li> Different fund categories may use different measurement focuses and bases of accounting. </li> <li> Emphasize accountability for specific resources and activities. </li> </ul> </div> <div class=\"key-points\"> <h3> Government-Wide Financial Statements </h3> <ul> <li> Present a broader view of the government's financial position. </li> <li> Use the economic resources measurement focus. </li> <li> Use accrual accounting. </li> </ul> </div> <h2> Three Major Fund Categories </h2> <div class=\"financial-example\"> <div> <span> Governmental Funds </span> <strong> Current Financial Resources + Modified Accrual </strong> </div> <div> <span> Proprietary Funds </span> <strong> Economic Resources + Accrual </strong> </div> <div> <span> Fiduciary Funds </span> <strong> Economic Resources + Accrual </strong> </div> </div> <h2> Governmental Funds </h2> <p> Governmental funds generally focus on <strong>current financial resources</strong>. They use the <strong>modified accrual basis</strong> of accounting. </p> <p> These funds are especially important for understanding how governments finance and provide public services. </p> <h2> Proprietary Funds </h2> <p> Proprietary funds account for activities that operate in a manner similar to businesses. </p> <p> They use the <strong>economic resources measurement focus</strong> and the <strong>accrual basis of accounting</strong>. </p> <h2> Fiduciary Funds </h2> <p> Fiduciary funds account for resources a government holds in a fiduciary capacity for others. </p> <p> They also use the economic resources measurement focus and accrual accounting. Fiduciary activities are generally excluded from government-wide financial statements because those resources are not available to support the government's own programs. </p> <h2> CPA Exam Shortcut </h2> <div class=\"key-points\"> <ul> <li> Governmental fund → current financial resources → modified accrual. </li> <li> Proprietary fund → economic resources → accrual. </li> <li> Fiduciary fund → economic resources → accrual. </li> <li> Government-wide → economic resources → accrual. </li> </ul> </div> <div class=\"formula-box\"> GOVERNMENTAL = Modified Accrual PROPRIETARY + FIDUCIARY = Accrual GOVERNMENT-WIDE = Accrual </div> <h2> Key Takeaway </h2> <p> Before solving a governmental accounting question, first identify <strong>which reporting level or fund category is involved</strong>. That tells you which measurement focus and basis of accounting generally apply. </p><h2>Governmental Funds</h2><h2> Governmental Funds </h2> <p> Governmental funds account for many of the core public-service activities of a state or local government. </p> <p> These funds generally use the <strong>current financial resources measurement focus</strong> and the <strong>modified accrual basis of accounting</strong>. </p> <h2> The Five Governmental Fund Types </h2> <div class=\"financial-example\"> <div> <span>General Fund</span> <strong>Primary Operating Fund</strong> </div> <div> <span>Special Revenue Fund</span> <strong>Restricted or Committed Revenue Sources</strong> </div> <div> <span>Capital Projects Fund</span> <strong>Capital Outlays for Capital Facilities and Other Capital Assets</strong> </div> <div> <span>Debt Service Fund</span> <strong>Principal and Interest on Governmental Debt</strong> </div> <div> <span>Permanent Fund</span> <strong>Principal Maintained; Earnings Support Government Programs</strong> </div> </div> <h2> 1. General Fund </h2> <p> The General Fund is the chief operating fund of a government. </p> <p> It accounts for resources not required to be reported in another fund. </p> <div class=\"key-points\"> <strong> Think: </strong> <p> Regular government operations such as administration, public safety, and other general services. </p> </div> <h2> 2. Special Revenue Funds </h2> <p> Special revenue funds account for specific revenue sources that are restricted or committed to expenditure for specified purposes other than debt service or capital projects. </p> <div class=\"example-box\"> <strong> Example </strong> <p> A dedicated tax legally restricted for road maintenance may be accounted for in a special revenue fund. </p> </div> <h2> 3. Capital Projects Funds </h2> <p> Capital projects funds generally account for financial resources used for capital outlays, including the acquisition or construction of capital facilities and other capital assets. </p> <p> A key FAR point is that governmental funds do not generally report capital assets themselves. </p> <div class=\"key-points\"> <p> The fund reports the financing and expenditures, while the capital asset is reported at the government-wide level. </p> </div> <h2> 4. Debt Service Funds </h2> <p> Debt service funds account for resources accumulated and used to pay principal and interest on general long-term governmental debt. </p> <p> Similar to capital assets, long-term governmental debt itself is generally reported at the government-wide level rather than as a long-term liability in governmental funds. </p> <h2> 5. Permanent Funds </h2> <p> Permanent funds account for resources whose principal is legally restricted so that only earnings may be used to support programs that benefit the government or its citizens. </p> <div class=\"example-box\"> <strong> Example </strong> <p> A donor gives a city $2 million and requires the principal to remain intact permanently, while investment earnings may be used to maintain public parks. </p> <p> This may be accounted for in a permanent fund. </p> </div> <h2> Capital Assets and Long-Term Debt </h2> <p> Governmental fund financial statements focus on current financial resources. </p> <p> Therefore, governmental funds generally do not report: </p> <ul> <li> Capital assets as fund assets </li> <li> Depreciation expense </li> <li> General long-term debt as a fund liability </li> </ul> <p> These items are generally reported in the government-wide financial statements. </p> <h2> Expenditures vs. Expenses </h2> <div class=\"financial-example\"> <div> <span>Governmental Fund</span> <strong>Expenditures</strong> </div> <div> <span>Government-Wide</span> <strong>Expenses</strong> </div> </div> <p> For example, when a governmental fund purchases equipment, the fund generally reports an <strong>expenditure</strong>. </p> <p> At the government-wide level, the equipment is generally capitalized and depreciated. </p> <h2> CPA Memory Rule </h2> <div class=\"formula-box\"> GENERAL → Regular Operations SPECIAL REVENUE → Restricted / Committed Revenue CAPITAL PROJECTS → Capital Outlays / Acquire or Construct Capital Assets DEBT SERVICE → Pay Governmental Debt PERMANENT → Principal Stays Intact </div> <div class=\"key-points\"> <h3> Key Takeaways </h3> <ul> <li> There are five governmental fund types. </li> <li> The General Fund is the primary operating fund. </li> <li> Capital projects funds finance major capital projects. </li> <li> Debt service funds handle principal and interest on governmental long-term debt. </li> <li> Governmental funds generally do not report capital assets or general long-term debt. </li> <li> Governmental funds use expenditures rather than expenses for many transactions. </li> </ul> </div>",
+  "objectives": [
+    "Explain governmental foundations & fund classification.",
+    "Apply measurement-focus and basis-of-accounting differences.",
+    "Prepare and reconcile appropriate governmental reporting amounts."
+  ],
+  "quiz": {
+    "id": "bar-m3-l1-q1",
+    "courseId": "bar",
+    "moduleId": 3,
+    "lessonId": "bar-m3-l1",
+    "topic": "Governmental Foundations & Fund Classification",
+    "prompt": "Which measurement focus and basis of accounting are generally used by governmental funds?",
+    "choices": [
+      {
+        "id": "bar-m3-l1-q1-a0",
+        "text": "Economic resources and accrual"
+      },
+      {
+        "id": "bar-m3-l1-q1-a1",
+        "text": "Current financial resources and cash basis"
+      },
+      {
+        "id": "bar-m3-l1-q1-a2",
+        "text": "Current financial resources and modified accrual"
+      },
+      {
+        "id": "bar-m3-l1-q1-a3",
+        "text": "Economic resources and modified accrual"
+      }
+    ],
+    "correctChoiceId": "bar-m3-l1-q1-a2",
+    "explanation": "Governmental funds generally use the current financial resources measurement focus and modified accrual basis of accounting.",
+    "difficulty": "foundation",
+    "metadata": {
+      "section": "bar",
+      "blueprintYear": 2026,
+      "areaId": "bar-III",
+      "groupId": "A-B-C",
+      "topicId": "bar-government-funds",
+      "taskIds": [
+        "bar-government-funds.task-1"
+      ],
+      "skill": "remembering",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        },
+        {
+          "title": "FASB accounting standards",
+          "url": "https://asc.fasb.org/"
+        },
+        {
+          "title": "GASB standards",
+          "url": "https://www.gasb.org/standards-and-implementation"
+        }
+      ]
+    }
+  },
+  "relatedSimulation": "bar-m3-tbs1"
+}

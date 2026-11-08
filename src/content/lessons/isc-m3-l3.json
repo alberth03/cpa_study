@@ -1,0 +1,103 @@
+{
+  "id": "isc-m3-l3",
+  "courseId": "isc",
+  "moduleId": 3,
+  "number": 3,
+  "title": "Subservice Organizations & Complementary User Controls",
+  "description": "Distinguish carve-out and inclusive methods.",
+  "url": "/learn/isc/modules/3/lessons/3",
+  "metadata": {
+    "section": "isc",
+    "blueprintYear": 2026,
+    "areaId": "isc-III",
+    "groupId": "A-B",
+    "topicId": "isc-soc-subservices-user-controls",
+    "taskIds": [
+      "isc-soc-subservices-user-controls.task-1",
+      "isc-soc-subservices-user-controls.task-2",
+      "isc-soc-subservices-user-controls.task-3"
+    ],
+    "skill": "application",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      },
+      {
+        "title": "NIST Cybersecurity Framework",
+        "url": "https://www.nist.gov/cyberframework"
+      },
+      {
+        "title": "AICPA SOC resources",
+        "url": "https://www.aicpa-cima.com/resources/landing/system-and-organization-controls-soc-suite-of-services"
+      }
+    ]
+  },
+  "html": "<h2>Learning objectives</h2><ul><li>Distinguish carve-out and inclusive methods.</li><li>Identify complementary user-entity and subservice controls.</li><li>Evaluate coverage gaps in outsourced chains.</li></ul><h2>Understand the concepts</h2><p>A service organization may rely on a subservice organization for part of its system. The inclusive method includes relevant subservice controls within the report’s described scope and evaluation. Under the carve-out method, those controls are excluded from the service auditor’s testing and opinion scope as described, although the system description explains relevant relationships and assumptions.</p><p>Complementary user-entity controls are controls the service organization assumes users implement for the objectives or criteria to be achieved. They may include access approvals, input authorization, reconciliations, or exception resolution. A favorable service-auditor report does not establish that each user implemented these controls.</p><p>Evaluate the chain of responsibilities and coverage periods. Obtain relevant evidence about carved-out services and bridge-period changes where needed. A bridge letter or management statement can provide information but does not automatically constitute the same evidence as a full period of independent testing. Understand what it says and what evidence is still required.</p><div class=\"example-box\"><h3>A payroll user ignores required approvals</h3><p>A payroll provider’s report assumes user entities approve employee master-data changes. The customer has no such approval control.</p><ol><li>Identify the complementary user control in the report.</li><li>Evaluate the customer’s missing control and its effect on reliance.</li><li>Perform appropriate additional work rather than assuming the provider’s report covers the omission.</li></ol></div><div class=\"key-points\"><h3>Common mistakes to avoid</h3><ul><li>Carve-out does not mean the outsourced process has no risk.</li><li>A user control is not automatically tested by the service auditor.</li><li>A bridge letter does not automatically extend independent operating-effectiveness coverage.</li></ul></div><h2>Apply and connect</h2><p>After solving the worked case, explain which facts determine the result and how a changed assumption would change your conclusion. Use the module questions to test fresh applications, then complete the related simulation before reviewing its solution.</p>",
+  "objectives": [
+    "Distinguish carve-out and inclusive methods.",
+    "Identify complementary user-entity and subservice controls.",
+    "Evaluate coverage gaps in outsourced chains."
+  ],
+  "quiz": {
+    "id": "isc-m3-l3-q1",
+    "courseId": "isc",
+    "moduleId": 3,
+    "lessonId": "isc-m3-l3",
+    "topic": "Subservice Organizations & Complementary User Controls",
+    "prompt": "Under a carve-out method, what happens to specified subservice controls?",
+    "choices": [
+      {
+        "id": "isc-m3-l3-q1-a0",
+        "text": "They are excluded from the service auditor’s described testing and opinion scope."
+      },
+      {
+        "id": "isc-m3-l3-q1-a1",
+        "text": "They are automatically tested in full."
+      },
+      {
+        "id": "isc-m3-l3-q1-a2",
+        "text": "They cease to exist."
+      },
+      {
+        "id": "isc-m3-l3-q1-a3",
+        "text": "They become user-entity tax deductions."
+      }
+    ],
+    "correctChoiceId": "isc-m3-l3-q1-a0",
+    "explanation": "The report explains the excluded subservice role and scope implications.",
+    "difficulty": "foundation",
+    "metadata": {
+      "section": "isc",
+      "blueprintYear": 2026,
+      "areaId": "isc-III",
+      "groupId": "A-B",
+      "topicId": "isc-soc-subservices-user-controls",
+      "taskIds": [
+        "isc-soc-subservices-user-controls.task-1"
+      ],
+      "skill": "remembering",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        },
+        {
+          "title": "NIST Cybersecurity Framework",
+          "url": "https://www.nist.gov/cyberframework"
+        },
+        {
+          "title": "AICPA SOC resources",
+          "url": "https://www.aicpa-cima.com/resources/landing/system-and-organization-controls-soc-suite-of-services"
+        }
+      ]
+    }
+  },
+  "relatedSimulation": "isc-m3-tbs3"
+}

@@ -1,0 +1,88 @@
+{
+  "id": "far-m6-l10",
+  "courseId": "far",
+  "moduleId": 6,
+  "number": 10,
+  "title": "FAR Exam Strategy & Final Comprehensive Review",
+  "description": "Review high-yield FAR relationships, common traps, integrated calculations, and exam-day problem solving.",
+  "url": "/learn/far/modules/6/lessons/10",
+  "html": "<h2> You Have Reached the FAR Final Review </h2> <p> At this stage, the goal is no longer to memorize isolated accounting rules. </p> <p> The goal is to recognize what a question is testing, identify the applicable accounting treatment, perform the calculation accurately, and follow the result through the financial statements. </p> <div class=\"formula-box\"> FAR SUCCESS = KNOW THE RULE + IDENTIFY THE ISSUE + CALCULATE ACCURATELY + UNDERSTAND THE FINANCIAL STATEMENT EFFECT </div> <h2> The Universal FAR Framework </h2> <p> When you encounter an unfamiliar-looking transaction, break it into four questions. </p> <div class=\"formula-box\"> 1. RECOGNITION SHOULD SOMETHING BE RECORDED? 2. MEASUREMENT AT WHAT AMOUNT? 3. PRESENTATION WHERE DOES IT APPEAR? 4. DISCLOSURE WHAT ADDITIONAL INFORMATION MUST BE PROVIDED? </div> <h2> Recognition </h2> <p> First determine whether the transaction or event meets the requirements for financial statement recognition. </p> <div class=\"formula-box\"> ASK: DOES AN ASSET EXIST? DOES A LIABILITY EXIST? HAS REVENUE BEEN EARNED? HAS AN EXPENSE OR LOSS BEEN INCURRED? </div> <h2> Measurement </h2> <p> Once an item should be recognized, determine the appropriate measurement basis. </p> <div class=\"formula-box\"> POSSIBLE MEASUREMENT CONCEPTS: HISTORICAL COST AMORTIZED COST FAIR VALUE NET REALIZABLE VALUE PRESENT VALUE ESTIMATED AMOUNT </div> <p> Do not choose a measurement basis simply because it appears reasonable. Apply the accounting rule for the specific item. </p> <h2> Presentation </h2> <p> FAR frequently tests where an amount belongs, not merely how much it is. </p> <div class=\"formula-box\"> CURRENT OR NONCURRENT? NET INCOME OR OCI? ASSET OR CONTRA-ASSET? LIABILITY OR EQUITY? </div> <h2> Disclosure </h2> <p> Some matters may require disclosure even when no amount is recognized. </p> <div class=\"formula-box\"> NO JOURNAL ENTRY DOES NOT ALWAYS MEAN NO FINANCIAL REPORTING CONSEQUENCE </div> <p> Loss contingencies and certain subsequent events are common examples. </p> <h2> Master the Accounting Equation </h2> <div class=\"formula-box\"> ASSETS = LIABILITIES + EQUITY </div> <p> When you are unsure about an adjustment, trace its effect through this equation. </p> <h2> Income Statement Connection </h2> <div class=\"formula-box\"> REVENUE ↑ → NET INCOME ↑ → EQUITY ↑ EXPENSE ↑ → NET INCOME ↓ → EQUITY ↓ </div> <p> This relationship can help you solve questions even when the journal entry is not immediately obvious. </p> <h2> Accrual Accounting </h2> <p> Never assume that revenue equals cash received or expense equals cash paid. </p> <div class=\"formula-box\"> RECOGNITION ≠ CASH MOVEMENT </div> <h2> Accrued Revenue </h2> <div class=\"formula-box\"> REVENUE EARNED BEFORE CASH RECEIVED → ASSET ↑ REVENUE ↑ </div> <h2> Accrued Expense </h2> <div class=\"formula-box\"> EXPENSE INCURRED BEFORE CASH PAID → LIABILITY ↑ EXPENSE ↑ </div> <h2> Deferred Revenue </h2> <div class=\"formula-box\"> CASH RECEIVED BEFORE PERFORMANCE → LIABILITY PERFORMANCE SATISFIED → LIABILITY ↓ REVENUE ↑ </div> <h2> Prepaid Expense </h2> <div class=\"formula-box\"> CASH PAID BEFORE BENEFIT CONSUMED → ASSET BENEFIT CONSUMED → ASSET ↓ EXPENSE ↑ </div> <h2> Inventory Formula </h2> <div class=\"formula-box\"> BEGINNING INVENTORY + PURCHASES − ENDING INVENTORY = COST OF GOODS SOLD </div> <p> Memorize the relationship rather than memorizing individual error rules. </p> <h2> Inventory Error Logic </h2> <div class=\"formula-box\"> ENDING INVENTORY ↑ → COGS ↓ → NET INCOME ↑ ENDING INVENTORY ↓ → COGS ↑ → NET INCOME ↓ </div> <h2> Receivables </h2> <div class=\"formula-box\"> NET ACCOUNTS RECEIVABLE = GROSS ACCOUNTS RECEIVABLE − ALLOWANCE FOR CREDIT LOSSES </div> <h2> Long-Lived Assets </h2> <div class=\"formula-box\"> CARRYING AMOUNT = COST − ACCUMULATED DEPRECIATION − APPLICABLE IMPAIRMENT </div> <h2> Straight-Line Depreciation </h2> <div class=\"formula-box\"> ANNUAL DEPRECIATION = COST − RESIDUAL VALUE ÷ USEFUL LIFE </div> <h2> Held-and-Used Asset Impairment </h2> <div class=\"formula-box\"> STEP 1: CARRYING AMOUNT VS UNDISCOUNTED EXPECTED FUTURE CASH FLOWS STEP 2: IF NOT RECOVERABLE → LOSS GENERALLY BASED ON CARRYING AMOUNT MINUS FAIR VALUE </div> <h2> Bonds </h2> <div class=\"formula-box\"> INTEREST EXPENSE = BEGINNING CARRYING AMOUNT × EFFECTIVE RATE CASH INTEREST = FACE VALUE × STATED RATE </div> <h2> Bond Direction Shortcut </h2> <div class=\"formula-box\"> DISCOUNT → CARRYING AMOUNT INCREASES TOWARD PAR PREMIUM → CARRYING AMOUNT DECREASES TOWARD PAR </div> <h2> Contingencies </h2> <div class=\"formula-box\"> PROBABLE + REASONABLY ESTIMABLE → ACCRUE REASONABLY POSSIBLE → GENERALLY DISCLOSE REMOTE → GENERALLY NEITHER </div> <h2> Accounting Changes </h2> <div class=\"formula-box\"> PRINCIPLE → GENERALLY RETROSPECTIVE ESTIMATE → PROSPECTIVE ERROR → CORRECT PRIOR PERIODS </div> <h2> Subsequent Events </h2> <div class=\"formula-box\"> CONDITION EXISTED AT YEAR-END? → GENERALLY ADJUST CONDITION AROSE AFTER YEAR-END? → GENERALLY DO NOT ADJUST BUT MATERIAL DISCLOSURE MAY BE REQUIRED </div> <h2> Investments </h2> <div class=\"formula-box\"> TRADING DEBT SECURITY → FAIR VALUE CHANGES IN NET INCOME AVAILABLE-FOR-SALE DEBT SECURITY → UNREALIZED HOLDING GAINS / LOSSES GENERALLY IN OCI HELD-TO-MATURITY → AMORTIZED COST </div> <h2> Equity Method </h2> <div class=\"formula-box\"> SHARE OF INVESTEE INCOME → INVESTMENT ↑ DIVIDENDS RECEIVED → INVESTMENT ↓ </div> <h2> Statement of Cash Flows </h2> <p> Separate the accounting effect from the cash-flow classification. </p> <div class=\"formula-box\"> OPERATING INVESTING FINANCING </div> <h2> Indirect Method Pattern </h2> <div class=\"formula-box\"> OPERATING ASSET ↑ → SUBTRACT OPERATING ASSET ↓ → ADD OPERATING LIABILITY ↑ → ADD OPERATING LIABILITY ↓ → SUBTRACT </div> <h2> Governmental Accounting Shortcut </h2> <p> Before doing anything else, identify which reporting level is being tested. </p> <div class=\"formula-box\"> GOVERNMENTAL FUND → CURRENT FINANCIAL RESOURCES + MODIFIED ACCRUAL GOVERNMENT-WIDE → ECONOMIC RESOURCES + ACCRUAL </div> <h2> Governmental Capital Assets and Debt </h2> <div class=\"formula-box\"> GOVERNMENTAL FUND: CAPITAL OUTLAY → EXPENDITURE GENERAL LONG-TERM BOND PROCEEDS → OTHER FINANCING SOURCE </div> <div class=\"formula-box\"> GOVERNMENT-WIDE: CAPITAL ASSET → CAPITALIZE LONG-TERM DEBT → LIABILITY </div> <h2> NFP Shortcut </h2> <div class=\"formula-box\"> FIRST: CONDITION? THEN: DONOR RESTRICTION? THEN: HAS RESTRICTION BEEN SATISFIED? </div> <h2> NFP Conditions vs Restrictions </h2> <div class=\"formula-box\"> CONDITION → AFFECTS WHETHER CONTRIBUTION IS RECOGNIZED RESTRICTION → AFFECTS HOW RECOGNIZED NET ASSETS ARE CLASSIFIED </div> <h2> Do Not Memorize Without Understanding </h2> <p> Formulas are useful, but FAR questions can change the facts. </p> <p> Understanding why the formula works is more reliable than memorizing a mechanical answer pattern. </p> <h2> MCQ Strategy </h2> <div class=\"formula-box\"> READ THE REQUIREMENT ↓ IDENTIFY THE TOPIC ↓ WRITE THE RULE / FORMULA ↓ USE ONLY RELEVANT FACTS ↓ CALCULATE ↓ CHECK WHETHER THE ANSWER MAKES ACCOUNTING SENSE </div> <h2> Watch for Distractors </h2> <p> CPA-style questions may provide information that is not needed for the required calculation. </p> <div class=\"formula-box\"> MORE NUMBERS ≠ USE EVERY NUMBER </div> <h2> Read the Requirement Carefully </h2> <p> A question may ask for: </p> <div class=\"formula-box\"> REVENUE NOT CASH CARRYING AMOUNT NOT FAIR VALUE EXPENSE NOT CASH PAYMENT CURRENT LIABILITY NOT TOTAL LIABILITY FUND-LEVEL AMOUNT NOT GOVERNMENT-WIDE AMOUNT </div> <p> Answer the exact question being asked. </p> <h2> TBS Strategy </h2> <p> Task-based simulations can contain much more information than MCQs. </p> <p> Break the simulation into smaller independent requirements. </p> <div class=\"formula-box\"> 1. READ THE REQUIREMENT 2. IDENTIFY THE RELEVANT EXHIBIT 3. SOLVE ONE CELL OR REQUIREMENT AT A TIME 4. CHECK SIGNS AND CLASSIFICATIONS 5. RECONCILE TOTALS 6. REVIEW BEFORE SUBMITTING </div> <h2> Do Not Let One TBS Destroy Your Time </h2> <p> If one requirement is difficult, continue solving the portions you can determine independently. </p> <div class=\"formula-box\"> ONE DIFFICULT CELL ≠ ENTIRE TBS LOST </div> <h2> Use Reasonableness Checks </h2> <p> Before accepting an answer, ask whether its direction makes sense. </p> <div class=\"formula-box\"> EXAMPLE: BOND DISCOUNT AMORTIZATION SHOULD MOVE CARRYING AMOUNT TOWARD FACE VALUE </div> <p> If your calculation moves it farther away, recheck your work. </p> <h2> Integrated Final Example </h2> <p> A company reports preliminary net income of <strong>$500,000</strong>. </p> <p> The following adjustments remain: </p> <div class=\"example-box\"> <p> Accrued salaries: <strong>$30,000</strong> </p> <p> Accrued revenue: <strong>$20,000</strong> </p> <p> Depreciation: <strong>$40,000</strong> </p> <p> Probable and estimable lawsuit loss: <strong>$15,000</strong> </p> <p> Ending inventory is understated: <strong>$10,000</strong> </p> </div> <h2> Solve Each Adjustment Separately </h2> <div class=\"formula-box\"> SALARIES − $30,000 ACCRUED REVENUE + $20,000 DEPRECIATION − $40,000 LAWSUIT − $15,000 INVENTORY UNDERSTATEMENT → COGS OVERSTATED → CORRECTING IT + $10,000 TO INCOME </div> <h2> Corrected Net Income </h2> <div class=\"formula-box\"> $500,000 − $30,000 + $20,000 − $40,000 − $15,000 + $10,000 = $445,000 </div> <h2> Final FAR Checklist </h2> <div class=\"formula-box\"> BEFORE FINALIZING AN ANSWER: ✓ CORRECT ACCOUNTING RULE? ✓ CORRECT PERIOD? ✓ CORRECT MEASUREMENT? ✓ CORRECT CLASSIFICATION? ✓ CORRECT SIGN? ✓ CORRECT FINANCIAL STATEMENT EFFECT? ✓ ANSWERED WHAT WAS ACTUALLY ASKED? </div> <h2> What Mastery Looks Like </h2> <p> FAR mastery does not mean that every question looks familiar. </p> <p> It means that when a new scenario appears, you can break it into accounting concepts you understand and work toward the answer. </p> <div class=\"formula-box\"> DON'T ASK: \"HAVE I SEEN THIS EXACT QUESTION?\" ASK: \"WHAT ACCOUNTING CONCEPT IS THIS TESTING?\" </div> <div class=\"key-points\"> <h3> Final Takeaways </h3> <ul> <li> Start with recognition, measurement, presentation, and disclosure. </li> <li> Trace transactions through the accounting equation and net income. </li> <li> Keep accrual accounting separate from cash movement. </li> <li> Understand relationships instead of memorizing isolated answers. </li> <li> For governmental questions, identify fund-level versus government-wide reporting first. </li> <li> For NFP contributions, separate conditions from donor restrictions. </li> <li> For cash flows, separate the income statement effect from the cash classification. </li> <li> Break large TBSs into individual requirements. </li> <li> Use reasonableness checks before finalizing calculations. </li> <li> Always answer the exact requirement presented by the question. </li> </ul> </div>",
+  "quiz": {
+    "id": "far-m6-l10-check",
+    "courseId": "far",
+    "moduleId": 6,
+    "lessonId": "far-m6-l10",
+    "topic": "General review",
+    "prompt": "A company reports preliminary net income of $500,000. It has unrecorded accrued salaries of $30,000, accrued revenue of $20,000, depreciation of $40,000, a probable and reasonably estimable lawsuit loss of $15,000, and ending inventory is understated by $10,000. What is corrected net income?",
+    "choices": [
+      {
+        "id": "far-m6-l10-check-a0",
+        "text": "$425,000"
+      },
+      {
+        "id": "far-m6-l10-check-a1",
+        "text": "$455,000"
+      },
+      {
+        "id": "far-m6-l10-check-a2",
+        "text": "$445,000"
+      },
+      {
+        "id": "far-m6-l10-check-a3",
+        "text": "$465,000"
+      }
+    ],
+    "correctChoiceId": "far-m6-l10-check-a2",
+    "explanation": "Corrected net income is $500,000 − $30,000 + $20,000 − $40,000 − $15,000 + $10,000 = $445,000. The inventory understatement caused COGS to be overstated, so correcting the inventory error increases income by $10,000.",
+    "difficulty": "foundation",
+    "metadata": {
+      "section": "far",
+      "blueprintYear": 2026,
+      "areaId": "far-I",
+      "groupId": "module-6",
+      "topicId": "far-far-exam-strategy-final-comprehensive-review",
+      "taskIds": [
+        "far-far-exam-strategy-final-comprehensive-review.task-1",
+        "far-far-exam-strategy-final-comprehensive-review.task-2",
+        "far-far-exam-strategy-final-comprehensive-review.task-3"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "section": "far",
+    "blueprintYear": 2026,
+    "areaId": "far-I",
+    "groupId": "module-6",
+    "topicId": "far-far-exam-strategy-final-comprehensive-review",
+    "taskIds": [
+      "far-far-exam-strategy-final-comprehensive-review.task-1",
+      "far-far-exam-strategy-final-comprehensive-review.task-2",
+      "far-far-exam-strategy-final-comprehensive-review.task-3"
+    ],
+    "skill": "application",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      }
+    ]
+  },
+  "objectives": [
+    "Explain far exam strategy & final comprehensive review and its underlying principles.",
+    "Apply the topic to a financial-reporting scenario.",
+    "Evaluate common errors and their financial-statement effects."
+  ]
+}

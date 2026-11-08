@@ -1,0 +1,88 @@
+{
+  "id": "far-m2-l6",
+  "courseId": "far",
+  "moduleId": 2,
+  "number": 6,
+  "title": "Current Liabilities",
+  "description": "Recognize and measure accounts payable, accrued liabilities, short-term obligations and other current liabilities.",
+  "url": "/learn/far/modules/2/lessons/6",
+  "html": "<h2> Current Liabilities </h2> <p> Current liabilities are obligations generally expected to be settled within the operating cycle or one year, depending on the applicable classification rules. For FAR, you should understand accounts payable, accrued liabilities, short-term notes, current maturities of long-term debt, and refinancing. </p> <h3> 1. Common Current Liabilities </h3> <div class=\"key-points\"> <ul> <li> Accounts payable </li> <li> Accrued wages and salaries </li> <li> Accrued interest </li> <li> Taxes payable </li> <li> Short-term notes payable </li> <li> Current maturities of long-term debt </li> <li> Unearned or deferred revenue expected to be recognized in the short term </li> </ul> </div> <h3> 2. Accounts Payable </h3> <p> Accounts payable generally represent amounts owed to suppliers for goods or services purchased on credit. </p> <div class=\"example-box\"> <h3> Example </h3> <p> A company purchases $18,000 of inventory on account. </p> <div class=\"formula-box\"> Debit Inventory $18,000 <br><br> Credit Accounts Payable $18,000 </div> </div> <h3> 3. Accrued Liabilities </h3> <p> An accrued liability exists when an expense has been incurred but has not yet been paid or recorded. </p> <div class=\"example-box\"> <h3> Accrued Wages </h3> <p> Employees have earned $9,000 of wages by December 31, but the company will pay them in January. </p> <div class=\"formula-box\"> Debit Wage Expense $9,000 <br><br> Credit Wages Payable $9,000 </div> </div> <h3> 4. Accrued Interest </h3> <p> Interest expense must generally be recognized as it accrues, even when the cash payment occurs later. </p> <div class=\"formula-box\"> Interest = Principal × Annual Interest Rate × Time </div> <div class=\"example-box\"> <h3> Example </h3> <p> A company has a $100,000 note with a 6% annual interest rate outstanding for three months at year-end. </p> <div class=\"formula-box\"> $100,000 × 6% × 3/12 = <strong>$1,500 accrued interest</strong> </div> </div> <h3> 5. Unearned Revenue </h3> <p> When cash is received before the company satisfies its performance obligation, the amount generally represents a liability rather than revenue at that time. </p> <div class=\"formula-box\"> When Cash Is Received: <br><br> Debit Cash <br> Credit Unearned Revenue </div> <p> As the company earns the revenue, the liability decreases and revenue is recognized. </p> <h3> 6. Current Maturities of Long-Term Debt </h3> <p> The portion of long-term debt that is due within the appropriate current classification period is generally reported as a current liability unless applicable accounting guidance supports long-term classification. </p> <div class=\"example-box\"> <h3> Example </h3> <p> A company has a $500,000 long-term loan. </p> <p> A principal payment of $80,000 is due during the next year. </p> <p> Assuming no exception applies: </p> <div class=\"formula-box\"> Current Liability: <strong>$80,000</strong> <br><br> Long-Term Liability: <strong>$420,000</strong> </div> </div> <h3> 7. Short-Term Obligations and Refinancing </h3> <p> A short-term obligation may qualify for long-term classification when the company intends to refinance the obligation on a long-term basis and demonstrates the ability to do so under applicable U.S. GAAP. </p> <div class=\"key-points\"> <p> The ability to refinance may generally be demonstrated before the financial statements are issued by: </p> <ul> <li> Completing a refinancing through issuance of long-term debt or equity securities. </li> <li> Entering into a qualifying financing agreement that permits the company to refinance the obligation on a long-term basis. </li> </ul> <p> If the required conditions are not met, the obligation is generally classified as current. </p> </div> <h3> 8. Payroll-Related Liabilities </h3> <p> Employers may have liabilities for amounts withheld from employee compensation as well as employer payroll-related obligations. </p> <div class=\"key-points\"> <ul> <li> Employee tax withholdings </li> <li> Employer payroll taxes </li> <li> Other employee deductions </li> <li> Accrued compensation </li> </ul> </div> <h3> 9. Compensated Absences </h3> <p> Certain employee absences, such as qualifying vacation benefits, can create an accrued liability when the applicable recognition requirements are satisfied. </p> <p> The accounting depends on the nature of the benefit and whether the employee's rights accumulate or vest under applicable guidance. </p> <h3> 10. CPA Exam Focus </h3> <div class=\"key-points\"> <ul> <li> Identify common current liabilities. </li> <li> Record accrued expenses correctly. </li> <li> Calculate accrued interest. </li> <li> Understand why advance customer payments can create liabilities. </li> <li> Separate current maturities from the remaining long-term portion of debt. </li> <li> Pay close attention to refinancing facts when determining debt classification. </li> </ul> </div>",
+  "quiz": {
+    "id": "far-m2-l6-check",
+    "courseId": "far",
+    "moduleId": 2,
+    "lessonId": "far-m2-l6",
+    "topic": "General review",
+    "prompt": "A company has a $240,000, 8% note payable. At December 31, four months of interest have accrued but will not be paid until the following year. How much interest payable should the company report at December 31?",
+    "choices": [
+      {
+        "id": "far-m2-l6-check-a0",
+        "text": "$4,800"
+      },
+      {
+        "id": "far-m2-l6-check-a1",
+        "text": "$6,400"
+      },
+      {
+        "id": "far-m2-l6-check-a2",
+        "text": "$12,800"
+      },
+      {
+        "id": "far-m2-l6-check-a3",
+        "text": "$19,200"
+      }
+    ],
+    "correctChoiceId": "far-m2-l6-check-a1",
+    "explanation": "Accrued interest equals principal multiplied by the annual interest rate multiplied by the fraction of the year outstanding: $240,000 × 8% × 4/12 = $6,400. The company recognizes both interest expense and interest payable for $6,400.",
+    "difficulty": "foundation",
+    "metadata": {
+      "section": "far",
+      "blueprintYear": 2026,
+      "areaId": "far-II",
+      "groupId": "module-2",
+      "topicId": "far-current-liabilities",
+      "taskIds": [
+        "far-current-liabilities.task-1",
+        "far-current-liabilities.task-2",
+        "far-current-liabilities.task-3"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "section": "far",
+    "blueprintYear": 2026,
+    "areaId": "far-II",
+    "groupId": "module-2",
+    "topicId": "far-current-liabilities",
+    "taskIds": [
+      "far-current-liabilities.task-1",
+      "far-current-liabilities.task-2",
+      "far-current-liabilities.task-3"
+    ],
+    "skill": "application",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      }
+    ]
+  },
+  "objectives": [
+    "Explain current liabilities and its underlying principles.",
+    "Apply the topic to a financial-reporting scenario.",
+    "Evaluate common errors and their financial-statement effects."
+  ]
+}

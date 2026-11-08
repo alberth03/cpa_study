@@ -1,0 +1,88 @@
+{
+  "id": "intermediate-m10-l2",
+  "courseId": "intermediate",
+  "moduleId": 10,
+  "number": 2,
+  "title": "Operating, Investing & Financing Activities",
+  "description": "Classify cash receipts and payments into the three major cash flow categories.",
+  "url": "/learn/intermediate/modules/10/lessons/2",
+  "html": "<h2>Operating activities</h2> <p> Operating activities generally include cash effects associated with transactions that enter into the determination of net income, except where classified elsewhere under applicable guidance. </p> <div class=\"key-points\"> <h3>Common examples</h3> <ul> <li>Cash collected from customers</li> <li>Cash paid to suppliers</li> <li>Cash paid to employees</li> <li>Other operating cash receipts and payments</li> </ul> </div> <h2>Investing activities</h2> <p> Investing activities generally involve acquiring and disposing of long-term assets and certain investments. </p> <div class=\"key-points\"> <h3>Examples</h3> <ul> <li>Purchase of property, plant and equipment</li> <li>Cash proceeds from sale of equipment</li> <li>Making certain loans to other entities</li> <li>Collection of principal on certain loans</li> </ul> </div> <h2>Financing activities</h2> <p> Financing activities generally involve obtaining resources from owners and creditors and returning resources to them. </p> <div class=\"key-points\"> <h3>Examples</h3> <ul> <li>Issuing common stock for cash</li> <li>Borrowing cash through debt</li> <li>Repaying debt principal</li> <li>Repurchasing company shares for cash</li> <li>Cash dividends paid to shareholders</li> </ul> </div> <h2>Classification example</h2> <div class=\"comparison-grid\"> <div class=\"comparison-card\"> <h3>Buy Equipment</h3> <p>Investing outflow</p> </div> <div class=\"comparison-card\"> <h3>Issue Stock</h3> <p>Financing inflow</p> </div> </div> <div class=\"comparison-grid\"> <div class=\"comparison-card\"> <h3>Collect from Customers</h3> <p>Operating inflow</p> </div> <div class=\"comparison-card\"> <h3>Repay Loan Principal</h3> <p>Financing outflow</p> </div> </div> <div class=\"key-points\"> <h3>CPA habit</h3> <p> Don't classify a cash flow merely because \"cash went in\" or \"cash went out.\" </p> <p> Ask what economic activity caused the cash flow. </p> </div>",
+  "quiz": {
+    "id": "intermediate-m10-l2-check",
+    "courseId": "intermediate",
+    "moduleId": 10,
+    "lessonId": "intermediate-m10-l2",
+    "topic": "General review",
+    "prompt": "A company pays $70,000 cash to purchase equipment. How is the payment generally classified on the statement of cash flows?",
+    "choices": [
+      {
+        "id": "intermediate-m10-l2-check-a0",
+        "text": "Operating inflow"
+      },
+      {
+        "id": "intermediate-m10-l2-check-a1",
+        "text": "Operating outflow"
+      },
+      {
+        "id": "intermediate-m10-l2-check-a2",
+        "text": "Investing outflow"
+      },
+      {
+        "id": "intermediate-m10-l2-check-a3",
+        "text": "Financing outflow"
+      }
+    ],
+    "correctChoiceId": "intermediate-m10-l2-check-a2",
+    "explanation": "Cash paid to acquire property, plant and equipment is generally an investing cash outflow.",
+    "difficulty": "foundation",
+    "metadata": {
+      "section": "intermediate",
+      "blueprintYear": 2026,
+      "areaId": "intermediate-I",
+      "groupId": "module-10",
+      "topicId": "intermediate-operating-investing-financing-activities",
+      "taskIds": [
+        "intermediate-operating-investing-financing-activities.task-1",
+        "intermediate-operating-investing-financing-activities.task-2",
+        "intermediate-operating-investing-financing-activities.task-3"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "section": "intermediate",
+    "blueprintYear": 2026,
+    "areaId": "intermediate-I",
+    "groupId": "module-10",
+    "topicId": "intermediate-operating-investing-financing-activities",
+    "taskIds": [
+      "intermediate-operating-investing-financing-activities.task-1",
+      "intermediate-operating-investing-financing-activities.task-2",
+      "intermediate-operating-investing-financing-activities.task-3"
+    ],
+    "skill": "application",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      }
+    ]
+  },
+  "objectives": [
+    "Explain operating, investing & financing activities and its underlying principles.",
+    "Apply the topic to a financial-reporting scenario.",
+    "Evaluate common errors and their financial-statement effects."
+  ]
+}

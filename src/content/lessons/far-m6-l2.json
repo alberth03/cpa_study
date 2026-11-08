@@ -1,0 +1,88 @@
+{
+  "id": "far-m6-l2",
+  "courseId": "far",
+  "moduleId": 6,
+  "number": 2,
+  "title": "Revenue, Receivables & Cash Flow Review",
+  "description": "Integrate revenue recognition, receivables, credit losses, cash collections, and cash flow effects.",
+  "url": "/learn/far/modules/6/lessons/2",
+  "html": "<h2> Connecting Revenue, Receivables, and Cash </h2> <p> Revenue recognition, accounts receivable, credit losses, and cash collections are closely connected, but they do not necessarily occur at the same time. </p> <div class=\"formula-box\"> REVENUE RECOGNITION ≠ CASH COLLECTION </div> <p> A company may recognize revenue before cash is collected, at the same time cash is collected, or after cash was collected in advance. </p> <h2> The Revenue Recognition Model </h2> <p> For revenue from contracts with customers, ASC 606 uses a five-step model. </p> <div class=\"formula-box\"> STEP 1 IDENTIFY THE CONTRACT STEP 2 IDENTIFY THE PERFORMANCE OBLIGATIONS STEP 3 DETERMINE THE TRANSACTION PRICE STEP 4 ALLOCATE THE TRANSACTION PRICE STEP 5 RECOGNIZE REVENUE WHEN (OR AS) PERFORMANCE OBLIGATIONS ARE SATISFIED </div> <h2> Revenue Before Cash Collection </h2> <p> Assume a company provides <strong>$40,000</strong> of services on account and has satisfied its performance obligation. </p> <div class=\"financial-example\"> <div> <span>Accounts Receivable</span> <strong>+ $40,000</strong> </div> <div> <span>Revenue</span> <strong>+ $40,000</strong> </div> <div> <span>Cash</span> <strong>No Immediate Effect</strong> </div> <div> <span>Net Income</span> <strong>+ $40,000</strong> </div> </div> <p> Revenue recognition increased income even though no cash was collected at that time. </p> <h2> Later Collection of the Receivable </h2> <p> If the customer later pays the <strong>$40,000</strong>: </p> <div class=\"financial-example\"> <div> <span>Cash</span> <strong>+ $40,000</strong> </div> <div> <span>Accounts Receivable</span> <strong>− $40,000</strong> </div> <div> <span>Revenue</span> <strong>No New Revenue</strong> </div> <div> <span>Net Income</span> <strong>No Effect</strong> </div> </div> <p> Collecting an existing receivable does not create revenue again. </p> <h2> Cash Collected Before Revenue </h2> <p> If cash is collected before the company satisfies the related performance obligation, the company generally records a <strong>contract liability</strong>. </p> <div class=\"formula-box\"> CASH RECEIVED BEFORE PERFORMANCE → CONTRACT LIABILITY </div> <p> When the performance obligation is later satisfied: </p> <div class=\"formula-box\"> REDUCE CONTRACT LIABILITY + RECOGNIZE REVENUE </div> <h2> Example — Advance Payment </h2> <p> A customer pays <strong>$60,000</strong> in advance. At year-end, the company has satisfied 40% of the related performance obligation. </p> <div class=\"formula-box\"> REVENUE RECOGNIZED = $60,000 × 40% = $24,000 CONTRACT LIABILITY REMAINING = $60,000 − $24,000 = $36,000 </div> <h2> Accounts Receivable and Credit Losses </h2> <p> Recording a receivable does not mean the company expects to collect every dollar. </p> <p> The allowance for credit losses reduces gross accounts receivable to the amount expected to be collected. </p> <div class=\"formula-box\"> NET ACCOUNTS RECEIVABLE = GROSS ACCOUNTS RECEIVABLE − ALLOWANCE FOR CREDIT LOSSES </div> <h2> Example — Required Allowance </h2> <p> Gross accounts receivable are <strong>$500,000</strong>. </p> <p> The required ending allowance for credit losses is <strong>$30,000</strong>. </p> <div class=\"formula-box\"> $500,000 − $30,000 = $470,000 NET ACCOUNTS RECEIVABLE </div> <h2> Adjusting the Allowance </h2> <p> FAR may give you an existing balance in the allowance account and ask for the required credit loss expense. </p> <div class=\"example-box\"> <p> Required ending allowance: <strong>$30,000 credit</strong> </p> <p> Existing allowance balance before adjustment: <strong>$8,000 credit</strong> </p> </div> <div class=\"formula-box\"> REQUIRED ADJUSTMENT = $30,000 − $8,000 = $22,000 </div> <p> The adjustment increases credit loss expense and increases the allowance by $22,000. </p> <h2> Watch for a Debit Balance </h2> <p> Suppose instead the allowance has a <strong>$4,000 debit balance</strong> before adjustment and the required ending credit balance is $30,000. </p> <div class=\"formula-box\"> REQUIRED ADJUSTMENT = $30,000 + $4,000 = $34,000 </div> <p> A pre-adjustment debit balance means the adjustment must first eliminate that debit and then establish the required credit balance. </p> <h2> Writing Off a Specific Account </h2> <p> Under the allowance method, writing off a specific uncollectible receivable reduces both accounts receivable and the allowance. </p> <div class=\"financial-example\"> <div> <span>Accounts Receivable</span> <strong>Decrease</strong> </div> <div> <span>Allowance for Credit Losses</span> <strong>Decrease</strong> </div> <div> <span>Net Accounts Receivable</span> <strong>No Immediate Effect</strong> </div> <div> <span>Credit Loss Expense</span> <strong>No New Expense</strong> </div> </div> <p> This is a common FAR trap. The expected loss was recognized through the allowance process, not when the specific account was later written off. </p> <h2> Revenue and the Statement of Cash Flows </h2> <p> Under the indirect method, the operating section begins with net income and adjusts for differences between accrual accounting and operating cash flows. </p> <div class=\"formula-box\"> INCREASE IN ACCOUNTS RECEIVABLE → SUBTRACT FROM NET INCOME DECREASE IN ACCOUNTS RECEIVABLE → ADD TO NET INCOME </div> <h2> Why? </h2> <p> An increase in accounts receivable generally means revenue recognized exceeded cash collected from customers. </p> <div class=\"example-box\"> <p> Net income: <strong>$200,000</strong> </p> <p> Accounts receivable increased: <strong>$25,000</strong> </p> </div> <div class=\"formula-box\"> $200,000 − $25,000 = $175,000 BEFORE CONSIDERING OTHER OPERATING ADJUSTMENTS </div> <h2> Contract Liabilities and Operating Cash Flow </h2> <p> An increase in a contract liability can occur when cash has been collected before the related revenue is recognized. </p> <p> Under the indirect method, an increase in an operating liability is generally added to net income when reconciling to operating cash flow. </p> <h2> Receivables Turnover </h2> <div class=\"formula-box\"> RECEIVABLES TURNOVER = NET CREDIT SALES ÷ AVERAGE NET ACCOUNTS RECEIVABLE </div> <p> A higher turnover generally indicates that receivables are being collected more quickly, although interpretation should consider the company's business and credit policies. </p> <h2> Average Collection Period </h2> <div class=\"formula-box\"> AVERAGE COLLECTION PERIOD ≈ 365 ÷ RECEIVABLES TURNOVER </div> <h2> Integrated Example </h2> <p> A company reports: </p> <div class=\"example-box\"> <p> Beginning accounts receivable: <strong>$80,000</strong> </p> <p> Ending accounts receivable: <strong>$110,000</strong> </p> <p> Revenue on account: <strong>$500,000</strong> </p> <p> Ignore write-offs and other adjustments. </p> </div> <p> The increase in receivables is: </p> <div class=\"formula-box\"> $110,000 − $80,000 = $30,000 </div> <p> Therefore, cash collected from customers is: </p> <div class=\"formula-box\"> $500,000 − $30,000 = $470,000 </div> <h2> FAR Problem-Solving Strategy </h2> <div class=\"formula-box\"> ASK THREE QUESTIONS: 1. WHEN WAS REVENUE EARNED? 2. WHEN WAS CASH COLLECTED? 3. WHAT HAPPENED TO THE RELATED RECEIVABLE OR LIABILITY? </div> <p> Separating those three events prevents many revenue and cash-flow mistakes. </p> <div class=\"key-points\"> <h3> Key Takeaways </h3> <ul> <li> Revenue recognition and cash collection can occur at different times. </li> <li> Collecting an existing receivable does not create additional revenue. </li> <li> Cash collected before performance generally creates a contract liability. </li> <li> Net receivables equal gross receivables less the allowance for credit losses. </li> <li> A write-off under the allowance method does not immediately change net receivables or create new credit loss expense. </li> <li> Under the indirect cash-flow method, increases in operating receivables generally reduce operating cash flow relative to net income. </li> </ul> </div>",
+  "quiz": {
+    "id": "far-m6-l2-check",
+    "courseId": "far",
+    "moduleId": 6,
+    "lessonId": "far-m6-l2",
+    "topic": "General review",
+    "prompt": "A company's accounts receivable increased by $30,000 during the year. The company reported $500,000 of revenue on account. Ignoring write-offs and other adjustments, how much cash was collected from customers?",
+    "choices": [
+      {
+        "id": "far-m6-l2-check-a0",
+        "text": "$530,000"
+      },
+      {
+        "id": "far-m6-l2-check-a1",
+        "text": "$470,000"
+      },
+      {
+        "id": "far-m6-l2-check-a2",
+        "text": "$500,000"
+      },
+      {
+        "id": "far-m6-l2-check-a3",
+        "text": "$30,000"
+      }
+    ],
+    "correctChoiceId": "far-m6-l2-check-a1",
+    "explanation": "Accounts receivable increased because revenue on account exceeded cash collections. Cash collected equals $500,000 of revenue on account minus the $30,000 increase in accounts receivable, or $470,000.",
+    "difficulty": "foundation",
+    "metadata": {
+      "section": "far",
+      "blueprintYear": 2026,
+      "areaId": "far-I",
+      "groupId": "module-6",
+      "topicId": "far-revenue-receivables-cash-flow-review",
+      "taskIds": [
+        "far-revenue-receivables-cash-flow-review.task-1",
+        "far-revenue-receivables-cash-flow-review.task-2",
+        "far-revenue-receivables-cash-flow-review.task-3"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "section": "far",
+    "blueprintYear": 2026,
+    "areaId": "far-I",
+    "groupId": "module-6",
+    "topicId": "far-revenue-receivables-cash-flow-review",
+    "taskIds": [
+      "far-revenue-receivables-cash-flow-review.task-1",
+      "far-revenue-receivables-cash-flow-review.task-2",
+      "far-revenue-receivables-cash-flow-review.task-3"
+    ],
+    "skill": "application",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      }
+    ]
+  },
+  "objectives": [
+    "Explain revenue, receivables & cash flow review and its underlying principles.",
+    "Apply the topic to a financial-reporting scenario.",
+    "Evaluate common errors and their financial-statement effects."
+  ]
+}

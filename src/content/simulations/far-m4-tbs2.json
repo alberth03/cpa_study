@@ -1,0 +1,69 @@
+{
+  "id": "far-m4-tbs2",
+  "moduleId": 4,
+  "number": 2,
+  "title": "FAR Module 4 · TBS 2",
+  "fields": [
+    {
+      "id": "far-m4-tbs2-item1",
+      "label": "1. Normal Government Operations",
+      "type": "number",
+      "options": [],
+      "correct": 3
+    },
+    {
+      "id": "far-m4-tbs2-item2",
+      "label": "2. New Courthouse Construction",
+      "type": "number",
+      "options": [],
+      "correct": 5
+    },
+    {
+      "id": "far-m4-tbs2-item3",
+      "label": "3. Water Utility",
+      "type": "number",
+      "options": [],
+      "correct": 1
+    },
+    {
+      "id": "far-m4-tbs2-item4",
+      "label": "4. Central Vehicle Maintenance",
+      "type": "number",
+      "options": [],
+      "correct": 4
+    },
+    {
+      "id": "far-m4-tbs2-item5",
+      "label": "5. Trust for Private Individuals",
+      "type": "number",
+      "options": [],
+      "correct": 2
+    }
+  ],
+  "html": "<section class=\"exam-page\"> <div class=\"course-intro-card\"> <span class=\"exam-badge\"> TASK-BASED SIMULATION </span> <h2> Identify the Correct Fund </h2> <p> Analyze each independent scenario and enter the number corresponding to the appropriate fund type. </p> </div> <div class=\"quiz-card\"> <h2> Fund Code </h2> <div class=\"financial-example\"> <div> <span>1</span> <strong>Enterprise Fund</strong> </div> <div> <span>2</span> <strong>Private-Purpose Trust Fund</strong> </div> <div> <span>3</span> <strong>General Fund</strong> </div> <div> <span>4</span> <strong>Internal Service Fund</strong> </div> <div> <span>5</span> <strong>Capital Projects Fund</strong> </div> </div> <h2> Scenarios </h2> <div class=\"key-points\"> <h3> Item 1 </h3> <p> A city accounts for its normal administrative operations, police, and general public services. </p> </div> <div class=\"key-points\"> <h3> Item 2 </h3> <p> A county accumulates resources specifically to construct a new courthouse. </p> </div> <div class=\"key-points\"> <h3> Item 3 </h3> <p> A city-owned water utility provides water to residents and charges customers based on usage. </p> </div> <div class=\"key-points\"> <h3> Item 4 </h3> <p> A centralized vehicle maintenance department services vehicles used by other city departments. </p> </div> <div class=\"key-points\"> <h3> Item 5 </h3> <p> A government administers trust resources for specific private individuals rather than for its own programs or citizens generally. </p> </div> <h2> Required </h2> <div class=\"financial-example\"> <div> <span> 1. Normal Government Operations </span> <input type=\"number\" id=\"far-m4-tbs2-item1\" placeholder=\"Enter fund code\"> </div> <div> <span> 2. New Courthouse Construction </span> <input type=\"number\" id=\"far-m4-tbs2-item2\" placeholder=\"Enter fund code\"> </div> <div> <span> 3. Water Utility </span> <input type=\"number\" id=\"far-m4-tbs2-item3\" placeholder=\"Enter fund code\"> </div> <div> <span> 4. Central Vehicle Maintenance </span> <input type=\"number\" id=\"far-m4-tbs2-item4\" placeholder=\"Enter fund code\"> </div> <div> <span> 5. Trust for Private Individuals </span> <input type=\"number\" id=\"far-m4-tbs2-item5\" placeholder=\"Enter fund code\"> </div> </div> <div id=\"far-m4-tbs2-result\"></div> </div> </section>",
+  "explanation": "<div class=\"result-correct\"> <h3> Item 1 — General Fund </h3> <p> The General Fund is generally the primary operating fund for normal governmental activities. </p> <div class=\"formula-box\"> Correct Code = 3 </div> <h3> Item 2 — Capital Projects Fund </h3> <p> Courthouse construction is generally accounted for in a Capital Projects Fund. </p> <div class=\"formula-box\"> Correct Code = 5 </div> <h3> Item 3 — Enterprise Fund </h3> <p> A water utility charging external customers is generally an Enterprise Fund activity. </p> <div class=\"formula-box\"> Correct Code = 1 </div> <h3> Item 4 — Internal Service Fund </h3> <p> A department primarily serving other departments of the same government is generally an Internal Service Fund. </p> <div class=\"formula-box\"> Correct Code = 4 </div> <h3> Item 5 — Private-Purpose Trust Fund </h3> <p> Trust resources benefiting specific private individuals are generally reported in a Private-Purpose Trust Fund. </p> <div class=\"formula-box\"> Correct Code = 2 </div> <div class=\"key-points\"> <h3> CPA Takeaway </h3> <ul> <li> General Fund → regular operations. </li> <li> Capital Projects → capital outlays / construction. </li> <li> Enterprise → external customers. </li> <li> Internal Service → internal departments. </li> <li> Private-Purpose Trust → specific outsiders. </li> </ul> </div> </div>",
+  "courseId": "far",
+  "difficulty": "advanced",
+  "metadata": {
+    "section": "far",
+    "blueprintYear": 2026,
+    "areaId": "far-I",
+    "groupId": "module-4",
+    "topicId": "far-modified-accrual-accounting",
+    "taskIds": [
+      "far-modified-accrual-accounting.task-1",
+      "far-modified-accrual-accounting.task-2",
+      "far-modified-accrual-accounting.task-3"
+    ],
+    "skill": "analysis",
+    "validFrom": "2026-01-01",
+    "supplementary": true,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      }
+    ]
+  }
+}

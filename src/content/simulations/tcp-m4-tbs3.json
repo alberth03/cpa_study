@@ -1,0 +1,91 @@
+{
+  "id": "tcp-m4-tbs3",
+  "courseId": "tcp",
+  "moduleId": 4,
+  "number": 3,
+  "title": "Disposition character and basis review",
+  "html": "<div class=\"course-intro-card\"><h2>Disposition character and basis review</h2><p>Complete three independent disposition calculations under the supplied rules.</p></div><section class=\"quiz-card\"><h3>Required responses</h3><div class=\"tbs-question\"><label for=\"tcp-m4-tbs3-f1\">Disallowed stock loss</label><input id=\"tcp-m4-tbs3-f1\" type=\"text\"></div><div class=\"tbs-question\"><label for=\"tcp-m4-tbs3-f2\">Replacement stock basis</label><input id=\"tcp-m4-tbs3-f2\" type=\"text\"></div><div class=\"tbs-question\"><label for=\"tcp-m4-tbs3-f3\">Section 1231 gain remaining for the stated capital treatment</label><input id=\"tcp-m4-tbs3-f3\" type=\"text\"></div><div class=\"tbs-question\"><label for=\"tcp-m4-tbs3-f4\">Recognized residence gain after the supplied exclusion</label><input id=\"tcp-m4-tbs3-f4\" type=\"text\"></div></section>",
+  "metadata": {
+    "section": "tcp",
+    "blueprintYear": 2026,
+    "areaId": "tcp-IV",
+    "groupId": "A",
+    "topicId": "tcp-property-character-planning",
+    "taskIds": [
+      "tcp-property-character-planning.task-1",
+      "tcp-property-character-planning.task-2",
+      "tcp-property-character-planning.task-3"
+    ],
+    "skill": "analysis",
+    "validFrom": "2026-07-01",
+    "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      },
+      {
+        "title": "IRS tax publications",
+        "url": "https://www.irs.gov/publications"
+      },
+      {
+        "title": "Internal Revenue Code",
+        "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+      }
+    ]
+  },
+  "difficulty": "advanced",
+  "fields": [
+    {
+      "id": "tcp-m4-tbs3-f1",
+      "label": "Disallowed stock loss",
+      "type": "number",
+      "options": [],
+      "correct": 8000,
+      "explanation": "$30,000 − $22,000 = $8,000.",
+      "topicId": "tcp-property-character-planning"
+    },
+    {
+      "id": "tcp-m4-tbs3-f2",
+      "label": "Replacement stock basis",
+      "type": "number",
+      "options": [],
+      "correct": 33000,
+      "explanation": "$25,000 replacement cost + $8,000 disallowed loss.",
+      "topicId": "tcp-property-character-planning"
+    },
+    {
+      "id": "tcp-m4-tbs3-f3",
+      "label": "Section 1231 gain remaining for the stated capital treatment",
+      "type": "number",
+      "options": [],
+      "correct": 55000,
+      "explanation": "$90,000 − $35,000 = $55,000.",
+      "topicId": "tcp-property-character-planning"
+    },
+    {
+      "id": "tcp-m4-tbs3-f4",
+      "label": "Recognized residence gain after the supplied exclusion",
+      "type": "number",
+      "options": [],
+      "correct": 70000,
+      "explanation": "$320,000 − $250,000 = $70,000.",
+      "topicId": "tcp-property-character-planning"
+    }
+  ],
+  "exhibits": [
+    {
+      "id": "tcp-m4-tbs3-ex1",
+      "title": "Wash sale",
+      "html": "<p>Stock basis $30,000; loss-sale proceeds $22,000; qualifying substantially identical replacement cost $25,000. The full loss is disallowed and added to replacement basis.</p>"
+    },
+    {
+      "id": "tcp-m4-tbs3-ex2",
+      "title": "Other dispositions",
+      "html": "<p>A Section 1231 schedule shows $90,000 net gain, of which $35,000 receives ordinary treatment under the supplied lookback analysis. A qualifying residence sale has $320,000 gain and an applicable $250,000 exclusion.</p>"
+    }
+  ],
+  "explanation": "<h3>Disallowed stock loss</h3><p>$30,000 − $22,000 = $8,000.</p><h3>Replacement stock basis</h3><p>$25,000 replacement cost + $8,000 disallowed loss.</p><h3>Section 1231 gain remaining for the stated capital treatment</h3><p>$90,000 − $35,000 = $55,000.</p><h3>Recognized residence gain after the supplied exclusion</h3><p>$320,000 − $250,000 = $70,000.</p>"
+}

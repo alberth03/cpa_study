@@ -1,0 +1,69 @@
+{
+  "id": "far-m4-tbs4",
+  "moduleId": 4,
+  "number": 4,
+  "title": "FAR Module 4 · TBS 4",
+  "fields": [
+    {
+      "id": "far-m4-tbs4-surplus",
+      "label": "1. Budgetary Surplus",
+      "type": "number",
+      "options": [],
+      "correct": 250000
+    },
+    {
+      "id": "far-m4-tbs4-encumbrance",
+      "label": "2. Encumbrance Recorded When Purchase Order Is Issued",
+      "type": "number",
+      "options": [],
+      "correct": 90000
+    },
+    {
+      "id": "far-m4-tbs4-po-expenditure",
+      "label": "3. Expenditure Recognized When Purchase Order Is Issued",
+      "type": "number",
+      "options": [],
+      "correct": 0
+    },
+    {
+      "id": "far-m4-tbs4-actual",
+      "label": "4. Actual Expenditure When Supplies Are Received",
+      "type": "number",
+      "options": [],
+      "correct": 87500
+    },
+    {
+      "id": "far-m4-tbs4-difference",
+      "label": "5. Difference Between Original Encumbrance and Actual Expenditure",
+      "type": "number",
+      "options": [],
+      "correct": 2500
+    }
+  ],
+  "html": "<section class=\"exam-page\"> <div class=\"course-intro-card\"> <span class=\"exam-badge\"> TASK-BASED SIMULATION </span> <h2> Budgetary Control Analysis </h2> <p> Analyze a governmental fund's adopted budget and purchase-order activity. </p> </div> <div class=\"quiz-card\"> <h2> Scenario </h2> <p> The City of Lakeside adopts the following General Fund budget: </p> <div class=\"financial-example\"> <div> <span>Estimated Revenues</span> <strong>$2,400,000</strong> </div> <div> <span>Appropriations</span> <strong>$2,150,000</strong> </div> </div> <p> During the year, Lakeside issues a purchase order for supplies estimated to cost <strong>$90,000</strong>. </p> <p> The supplies are later received with an actual invoice amount of <strong>$87,500</strong>. </p> <h2> Required </h2> <div class=\"financial-example\"> <div> <span> 1. Budgetary Surplus </span> <input type=\"number\" id=\"far-m4-tbs4-surplus\" placeholder=\"Enter amount\"> </div> <div> <span> 2. Encumbrance Recorded When Purchase Order Is Issued </span> <input type=\"number\" id=\"far-m4-tbs4-encumbrance\" placeholder=\"Enter amount\"> </div> <div> <span> 3. Expenditure Recognized When Purchase Order Is Issued </span> <input type=\"number\" id=\"far-m4-tbs4-po-expenditure\" placeholder=\"Enter amount\"> </div> <div> <span> 4. Actual Expenditure When Supplies Are Received </span> <input type=\"number\" id=\"far-m4-tbs4-actual\" placeholder=\"Enter amount\"> </div> <div> <span> 5. Difference Between Original Encumbrance and Actual Expenditure </span> <input type=\"number\" id=\"far-m4-tbs4-difference\" placeholder=\"Enter amount\"> </div> </div> <div id=\"far-m4-tbs4-result\"></div> </div> </section>",
+  "explanation": "<div class=\"result-correct\"> <h3> Step 1 — Budgetary Surplus </h3> <div class=\"formula-box\"> Estimated Revenues $2,400,000 − Appropriations $2,150,000 = $250,000 Budgetary Surplus </div> <h3> Step 2 — Purchase Order </h3> <p> The $90,000 purchase order creates an encumbrance. </p> <div class=\"formula-box\"> Encumbrance = $90,000 </div> <h3> Step 3 — Expenditure at Purchase-Order Stage </h3> <p> Merely issuing the purchase order does not generally create an expenditure. </p> <div class=\"formula-box\"> Expenditure = $0 </div> <h3> Step 4 — Goods Received </h3> <p> When the supplies are received, the original encumbrance is generally reversed and the actual expenditure is recorded. </p> <div class=\"formula-box\"> Actual Expenditure = $87,500 </div> <h3> Step 5 — Difference </h3> <div class=\"formula-box\"> Original Encumbrance $90,000 − Actual Expenditure $87,500 = $2,500 Difference </div> <div class=\"key-points\"> <h3> CPA Takeaway </h3> <ul> <li> Estimated revenues represent expected resources. </li> <li> Appropriations represent authorized spending. </li> <li> Purchase orders may create encumbrances. </li> <li> Encumbrances are not expenditures. </li> <li> Actual expenditures are recorded when the related obligation is incurred. </li> </ul> </div> </div>",
+  "courseId": "far",
+  "difficulty": "advanced",
+  "metadata": {
+    "section": "far",
+    "blueprintYear": 2026,
+    "areaId": "far-I",
+    "groupId": "module-4",
+    "topicId": "far-government-wide-financial-statements",
+    "taskIds": [
+      "far-government-wide-financial-statements.task-1",
+      "far-government-wide-financial-statements.task-2",
+      "far-government-wide-financial-statements.task-3"
+    ],
+    "skill": "analysis",
+    "validFrom": "2026-01-01",
+    "supplementary": true,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      }
+    ]
+  }
+}

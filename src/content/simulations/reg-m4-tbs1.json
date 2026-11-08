@@ -1,0 +1,95 @@
+{
+  "id": "reg-m4-tbs1",
+  "courseId": "reg",
+  "moduleId": 4,
+  "number": 1,
+  "title": "Individual income reconciliation",
+  "html": "<div class=\"course-intro-card\"><h2>Individual income reconciliation</h2><p>Prepare an income summary using the classifications and assumptions supplied.</p></div><section class=\"quiz-card\"><h3>Required responses</h3><div class=\"tbs-question\"><label for=\"reg-m4-tbs1-f1\">Taxable wages and bank interest</label><input id=\"reg-m4-tbs1-f1\" type=\"text\"></div><div class=\"tbs-question\"><label for=\"reg-m4-tbs1-f2\">Consulting income on digital-asset receipt</label><input id=\"reg-m4-tbs1-f2\" type=\"text\"></div><div class=\"tbs-question\"><label for=\"reg-m4-tbs1-f3\">Gain on the later digital-asset sale</label><input id=\"reg-m4-tbs1-f3\" type=\"text\"></div><div class=\"tbs-question\"><label for=\"reg-m4-tbs1-f4\">Total income included under the supplied assumptions</label><input id=\"reg-m4-tbs1-f4\" type=\"text\"></div></section>",
+  "metadata": {
+    "section": "reg",
+    "blueprintYear": 2026,
+    "areaId": "reg-IV",
+    "groupId": "A",
+    "topicId": "reg-individual-income",
+    "taskIds": [
+      "reg-individual-income.task-1",
+      "reg-individual-income.task-2",
+      "reg-individual-income.task-3"
+    ],
+    "skill": "analysis",
+    "validFrom": "2026-07-01",
+    "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      },
+      {
+        "title": "Internal Revenue Code",
+        "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+      },
+      {
+        "title": "IRS tax publications",
+        "url": "https://www.irs.gov/publications"
+      },
+      {
+        "title": "Circular 230",
+        "url": "https://www.irs.gov/tax-professionals/circular-230-tax-professionals"
+      }
+    ]
+  },
+  "difficulty": "advanced",
+  "fields": [
+    {
+      "id": "reg-m4-tbs1-f1",
+      "label": "Taxable wages and bank interest",
+      "type": "number",
+      "options": [],
+      "correct": 93000,
+      "explanation": "$90,000 + $3,000 = $93,000.",
+      "topicId": "reg-individual-income"
+    },
+    {
+      "id": "reg-m4-tbs1-f2",
+      "label": "Consulting income on digital-asset receipt",
+      "type": "number",
+      "options": [],
+      "correct": 4000,
+      "explanation": "Use fair value of the assets when received for services.",
+      "topicId": "reg-individual-income"
+    },
+    {
+      "id": "reg-m4-tbs1-f3",
+      "label": "Gain on the later digital-asset sale",
+      "type": "number",
+      "options": [],
+      "correct": 1500,
+      "explanation": "$5,500 proceeds less $4,000 basis = $1,500.",
+      "topicId": "reg-individual-income"
+    },
+    {
+      "id": "reg-m4-tbs1-f4",
+      "label": "Total income included under the supplied assumptions",
+      "type": "number",
+      "options": [],
+      "correct": 98500,
+      "explanation": "$93,000 + $4,000 + $1,500 = $98,500; the stated gift and qualifying municipal interest are excluded.",
+      "topicId": "reg-individual-income"
+    }
+  ],
+  "exhibits": [
+    {
+      "id": "reg-m4-tbs1-ex1",
+      "title": "Receipts",
+      "html": "<p>Wages $90,000; taxable bank interest $3,000; qualifying municipal interest $2,000; genuine cash gift $15,000. Digital assets worth $4,000 were received for taxable consulting services.</p>"
+    },
+    {
+      "id": "reg-m4-tbs1-ex2",
+      "title": "Later sale",
+      "html": "<p>Those digital assets were later sold for $5,500 with no fees. Include the service income and later gain; ignore deductions and special rates.</p>"
+    }
+  ],
+  "explanation": "<h3>Taxable wages and bank interest</h3><p>$90,000 + $3,000 = $93,000.</p><h3>Consulting income on digital-asset receipt</h3><p>Use fair value of the assets when received for services.</p><h3>Gain on the later digital-asset sale</h3><p>$5,500 proceeds less $4,000 basis = $1,500.</p><h3>Total income included under the supplied assumptions</h3><p>$93,000 + $4,000 + $1,500 = $98,500; the stated gift and qualifying municipal interest are excluded.</p>"
+}

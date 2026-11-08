@@ -1,0 +1,88 @@
+{
+  "id": "far-m3-l10",
+  "courseId": "far",
+  "moduleId": 3,
+  "number": 10,
+  "title": "Integrated Select Transactions Review",
+  "description": "Combine the major Module 3 topics in an integrated CPA-style review.",
+  "url": "/learn/far/modules/3/lessons/10",
+  "html": "<h2> Integrated Select Transactions Review </h2> <p> This lesson brings together the major rules from FAR Module 3 and focuses on recognizing which accounting treatment applies to different transactions. </p> <h3> 1. Accounting Changes &amp; Errors </h3> <div class=\"financial-example\"> <div> <span>Change in Accounting Principle</span> <strong>Generally Retrospective</strong> </div> <div> <span>Change in Accounting Estimate</span> <strong>Prospective</strong> </div> <div> <span>Change in Reporting Entity</span> <strong>Generally Retrospective</strong> </div> <div> <span>Material Prior-Period Error</span> <strong>Correct Prior Periods</strong> </div> </div> <div class=\"key-points\"> <strong> Quick Test: </strong> <p> New information usually points toward a change in estimate. Incorrect use or omission of information that was already available may indicate an error. </p> </div> <h3> 2. Contingencies </h3> <div class=\"formula-box\"> Probable + Reasonably Estimable → Accrue Reasonably Possible → Generally Disclose Remote → Generally Neither </div> <p> If a probable loss is estimated within a range and no amount is a better estimate than another, the minimum amount in the range is generally accrued. </p> <h3> 3. Revenue Recognition </h3> <div class=\"formula-box\"> Step 1 Identify Contract Step 2 Identify Performance Obligations Step 3 Determine Transaction Price Step 4 Allocate Transaction Price Step 5 Recognize Revenue When / As Performance Obligations Are Satisfied </div> <div class=\"key-points\"> <strong> Remember: </strong> <p> Receiving cash does not automatically mean revenue has been earned. </p> </div> <h3> 4. Principal vs. Agent </h3> <div class=\"financial-example\"> <div> <span>Principal</span> <strong>Generally Reports Gross Revenue</strong> </div> <div> <span>Agent</span> <strong>Generally Reports Fee / Commission</strong> </div> </div> <h3> 5. Deferred Taxes </h3> <div class=\"formula-box\"> Future Taxable Amount → Deferred Tax Liability Future Deductible Amount → Deferred Tax Asset Permanent Difference → No Deferred Tax </div> <p> Deferred tax assets and liabilities are measured using enacted tax rates expected to apply when the temporary differences reverse. </p> <h3> 6. Valuation Allowance </h3> <p> If it is more likely than not that some or all of a deferred tax asset will not be realized, a valuation allowance reduces the amount expected to be realized. </p> <div class=\"formula-box\"> Gross DTA − Valuation Allowance = Net DTA </div> <h3> 7. Fair Value Hierarchy </h3> <div class=\"financial-example\"> <div> <span>Level 1</span> <strong>Identical Items in Active Markets</strong> </div> <div> <span>Level 2</span> <strong>Other Observable Inputs</strong> </div> <div> <span>Level 3</span> <strong>Unobservable Inputs</strong> </div> </div> <p> Fair value is generally a market-based exit-price measurement. </p> <h3> 8. Lessee Accounting </h3> <div class=\"formula-box\"> Lease Liability = Present Value of Lease Payments </div> <p> The initial ROU asset generally starts with the lease liability and is adjusted for items such as prepayments, lease incentives, and qualifying initial direct costs. </p> <div class=\"financial-example\"> <div> <span>Finance Lease</span> <strong>Interest + Amortization</strong> </div> <div> <span>Operating Lease</span> <strong>Generally Single Lease Expense</strong> </div> </div> <h3> 9. Subsequent Events </h3> <div class=\"formula-box\"> Condition Existed at Year-End → Adjust Condition Arose After Year-End → Generally Do Not Adjust → Disclose if Material </div> <h3> 10. Integrated Example </h3> <div class=\"example-box\"> <strong> Scenario </strong> <p> Assume Falcon Corp. is preparing its December 31 financial statements. </p> <p> Before the statements are issued: </p> <ul> <li> A customer declares bankruptcy because of financial problems that existed before December 31. </li> <li> Falcon signs a new lease beginning next year. </li> <li> A lawsuit existing at December 31 is determined to have a probable and reasonably estimable loss. </li> <li> Falcon receives cash in advance for services it will provide next year. </li> </ul> </div> <h3> Analyze Each Item </h3> <div class=\"financial-example\"> <div> <span> Customer Bankruptcy </span> <strong> Adjust Year-End Receivable </strong> </div> <div> <span> New Future Lease </span> <strong> Analyze Based on Commencement </strong> </div> <div> <span> Probable Estimable Lawsuit </span> <strong> Accrue Loss / Liability </strong> </div> <div> <span> Advance Customer Payment </span> <strong> Contract Liability Until Earned </strong> </div> </div> <h3> Module 3 Master Memory Sheet </h3> <div class=\"formula-box\"> PRINCIPLE → Retrospective ESTIMATE → Prospective PROBABLE + ESTIMABLE LOSS → Accrue CASH BEFORE PERFORMANCE → Contract Liability FUTURE TAXABLE → DTL FUTURE DEDUCTIBLE → DTA LEVEL 1 → Active Market + Identical LEASE LIABILITY → PV of Lease Payments EXISTING YEAR-END CONDITION → Adjust Subsequent Event </div> <div class=\"key-points\"> <h3> Module 3 Key Takeaways </h3> <ul> <li> Identify whether accounting changes require retrospective or prospective treatment. </li> <li> Determine whether contingencies require accrual, disclosure, or neither. </li> <li> Apply the five-step revenue model. </li> <li> Distinguish principals from agents. </li> <li> Distinguish DTAs from DTLs and understand valuation allowances. </li> <li> Know Levels 1, 2, and 3 of the fair value hierarchy. </li> <li> Understand ROU assets and lease liabilities. </li> <li> Determine whether subsequent events require adjustment or disclosure. </li> </ul> </div>",
+  "quiz": {
+    "id": "far-m3-l10-check",
+    "courseId": "far",
+    "moduleId": 3,
+    "lessonId": "far-m3-l10",
+    "topic": "General review",
+    "prompt": "Before year-end financial statements are issued, a company learns that a lawsuit existing at year-end will probably result in a $300,000 loss, and the amount can be reasonably estimated. What is the appropriate general treatment?",
+    "choices": [
+      {
+        "id": "far-m3-l10-check-a0",
+        "text": "Disclose the lawsuit but recognize no loss"
+      },
+      {
+        "id": "far-m3-l10-check-a1",
+        "text": "Recognize a $300,000 loss and liability"
+      },
+      {
+        "id": "far-m3-l10-check-a2",
+        "text": "Wait until the lawsuit is paid"
+      },
+      {
+        "id": "far-m3-l10-check-a3",
+        "text": "Record the amount as a deferred tax liability"
+      }
+    ],
+    "correctChoiceId": "far-m3-l10-check-a1",
+    "explanation": "A loss contingency that is probable and reasonably estimable is generally accrued. Therefore, the company recognizes a $300,000 loss and related liability.",
+    "difficulty": "foundation",
+    "metadata": {
+      "section": "far",
+      "blueprintYear": 2026,
+      "areaId": "far-III",
+      "groupId": "module-3",
+      "topicId": "far-integrated-select-transactions-review",
+      "taskIds": [
+        "far-integrated-select-transactions-review.task-1",
+        "far-integrated-select-transactions-review.task-2",
+        "far-integrated-select-transactions-review.task-3"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "section": "far",
+    "blueprintYear": 2026,
+    "areaId": "far-III",
+    "groupId": "module-3",
+    "topicId": "far-integrated-select-transactions-review",
+    "taskIds": [
+      "far-integrated-select-transactions-review.task-1",
+      "far-integrated-select-transactions-review.task-2",
+      "far-integrated-select-transactions-review.task-3"
+    ],
+    "skill": "application",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      }
+    ]
+  },
+  "objectives": [
+    "Explain integrated select transactions review and its underlying principles.",
+    "Apply the topic to a financial-reporting scenario.",
+    "Evaluate common errors and their financial-statement effects."
+  ]
+}

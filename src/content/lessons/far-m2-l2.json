@@ -1,0 +1,88 @@
+{
+  "id": "far-m2-l2",
+  "courseId": "far",
+  "moduleId": 2,
+  "number": 2,
+  "title": "Accounts Receivable",
+  "description": "Account for receivables, bad debts, credit losses, write-offs, recoveries and presentation of net realizable value.",
+  "url": "/learn/far/modules/2/lessons/2",
+  "html": "<h2> Accounts Receivable </h2> <p> Accounts receivable represent amounts owed by customers from credit sales. For FAR, you need to understand recognition, valuation, credit losses, write-offs, recoveries, and presentation at net realizable value. </p> <h3> 1. Initial Recognition </h3> <p> When a company makes a credit sale, it generally records accounts receivable and revenue. </p> <div class=\"formula-box\"> Debit Accounts Receivable <br><br> Credit Revenue </div> <div class=\"example-box\"> <h3> Example </h3> <p> A company provides services on account for <strong>$20,000</strong>. </p> <div class=\"formula-box\"> Accounts Receivable +$20,000 <br> Revenue +$20,000 </div> </div> <h3> 2. Net Realizable Value </h3> <p> Accounts receivable are generally presented at the amount the company expects to collect. </p> <div class=\"formula-box\"> Net Realizable Value = Gross Accounts Receivable − Allowance for Credit Losses </div> <div class=\"example-box\"> <h3> Example </h3> <p> Accounts Receivable: <strong>$100,000</strong> </p> <p> Allowance for Credit Losses: <strong>$6,000</strong> </p> <div class=\"formula-box\"> $100,000 − $6,000 = <strong>$94,000 Net Realizable Value</strong> </div> </div> <h3> 3. Allowance for Credit Losses </h3> <p> Companies estimate expected credit losses using relevant information such as historical experience, current conditions, and reasonable and supportable forecasts. An allowance account reduces receivables to the net amount expected to be collected. </p> <div class=\"key-points\"> <ul> <li> Credit loss expense reduces income. </li> <li> The allowance is a contra-asset account. </li> <li> The allowance reduces gross receivables to net realizable value. </li> </ul> </div> <h3> 4. Recording Expected Credit Losses </h3> <p> When the required allowance is increased, the company recognizes credit loss expense. </p> <div class=\"formula-box\"> Debit Credit Loss Expense <br><br> Credit Allowance for Credit Losses </div> <h3> 5. Write-Off of a Specific Account </h3> <p> When a specific receivable is determined to be uncollectible, it is written off against the allowance. </p> <div class=\"formula-box\"> Debit Allowance for Credit Losses <br><br> Credit Accounts Receivable </div> <div class=\"key-points\"> <p> Under the allowance method, the write-off itself does <strong>not</strong> create additional credit loss expense at the time of write-off. </p> </div> <h3> 6. Effect of a Write-Off </h3> <p> A write-off reduces both gross accounts receivable and the allowance by the same amount. </p> <p> Therefore, assuming the allowance was properly established, the write-off does not change net realizable value. </p> <div class=\"example-box\"> <h3> Before Write-Off </h3> <p> Accounts Receivable: $100,000 </p> <p> Allowance: $6,000 </p> <p> Net Realizable Value: <strong>$94,000</strong> </p> <h3> After a $2,000 Write-Off </h3> <p> Accounts Receivable: $98,000 </p> <p> Allowance: $4,000 </p> <p> Net Realizable Value: <strong>$94,000</strong> </p> </div> <h3> 7. Recovery of a Previously Written-Off Account </h3> <p> If a customer later pays an amount that was previously written off, the recovery is recognized when received. </p> <p> A common instructional approach is to first reinstate the receivable and related allowance and then record the cash collection. </p> <div class=\"formula-box\"> Step 1 — Reinstate the receivable: <br> Debit Accounts Receivable <br> Credit Allowance for Credit Losses <br><br> Step 2 — Record collection: <br> Debit Cash <br> Credit Accounts Receivable </div> <div class=\"key-points\"> <p> For CPA Exam purposes, focus on the principle that recoveries of amounts previously written off are recognized when recovered. The exact presentation may vary depending on the entity's accounting approach. </p> </div> <h3> 8. Aging of Receivables </h3> <p> An aging schedule groups receivables according to how long they have been outstanding. Older receivables are often assigned higher expected loss rates. </p> <div class=\"key-points\"> <p> The aging approach is commonly used to estimate the required ending balance in the allowance account. </p> </div> <h3> 9. CPA Exam Focus </h3> <div class=\"key-points\"> <ul> <li> Know how to calculate net realizable value. </li> <li> Understand that the allowance is a contra asset. </li> <li> Distinguish recording credit loss expense from writing off a specific receivable. </li> <li> Remember that a write-off generally does not change net realizable value under the allowance method. </li> <li> Know how a recovery of a previously written-off receivable is recorded. </li> </ul> </div>",
+  "quiz": {
+    "id": "far-m2-l2-check",
+    "courseId": "far",
+    "moduleId": 2,
+    "lessonId": "far-m2-l2",
+    "topic": "General review",
+    "prompt": "A company writes off a $4,000 customer account against an existing allowance for credit losses. What is the immediate effect on the net realizable value of accounts receivable?",
+    "choices": [
+      {
+        "id": "far-m2-l2-check-a0",
+        "text": "Net realizable value decreases by $4,000"
+      },
+      {
+        "id": "far-m2-l2-check-a1",
+        "text": "Net realizable value increases by $4,000"
+      },
+      {
+        "id": "far-m2-l2-check-a2",
+        "text": "Net realizable value remains unchanged"
+      },
+      {
+        "id": "far-m2-l2-check-a3",
+        "text": "Credit loss expense increases by $4,000"
+      }
+    ],
+    "correctChoiceId": "far-m2-l2-check-a2",
+    "explanation": "A write-off reduces both Accounts Receivable and the Allowance for Credit Losses by the same amount. Because both decrease equally, net realizable value remains unchanged.",
+    "difficulty": "foundation",
+    "metadata": {
+      "section": "far",
+      "blueprintYear": 2026,
+      "areaId": "far-II",
+      "groupId": "module-2",
+      "topicId": "far-accounts-receivable",
+      "taskIds": [
+        "far-accounts-receivable.task-1",
+        "far-accounts-receivable.task-2",
+        "far-accounts-receivable.task-3"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "section": "far",
+    "blueprintYear": 2026,
+    "areaId": "far-II",
+    "groupId": "module-2",
+    "topicId": "far-accounts-receivable",
+    "taskIds": [
+      "far-accounts-receivable.task-1",
+      "far-accounts-receivable.task-2",
+      "far-accounts-receivable.task-3"
+    ],
+    "skill": "application",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      }
+    ]
+  },
+  "objectives": [
+    "Explain accounts receivable and its underlying principles.",
+    "Apply the topic to a financial-reporting scenario.",
+    "Evaluate common errors and their financial-statement effects."
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "id": "far-m5-l10",
+  "courseId": "far",
+  "moduleId": 5,
+  "number": 10,
+  "title": "Not-for-Profit Integrated Review",
+  "description": "Combine contributions, restrictions, expenses, endowments, financial statements, and net asset reporting.",
+  "url": "/learn/far/modules/5/lessons/10",
+  "html": "<h2> Module 5 Big Picture </h2> <p> Not-for-profit accounting focuses heavily on contributions, donor restrictions, net asset classification, expense reporting, and the organization's financial statements. </p> <div class=\"formula-box\"> NFP CORE MODEL ASSETS − LIABILITIES = NET ASSETS </div> <h2> The Two Net Asset Classes </h2> <div class=\"financial-example\"> <div> <span> Without Donor Restrictions </span> <strong> No Donor-Imposed Restriction </strong> </div> <div> <span> With Donor Restrictions </span> <strong> Donor-Imposed Restriction Exists </strong> </div> </div> <h2> Restriction vs. Condition </h2> <p> These two concepts must remain separate. </p> <div class=\"financial-example\"> <div> <span> Restriction </span> <strong> Controls How or When Resources May Be Used </strong> </div> <div> <span> Condition </span> <strong> Affects Whether Contribution Revenue Is Recognized Yet </strong> </div> </div> <div class=\"formula-box\"> RESTRICTION → RECOGNIZE, THEN CLASSIFY CONDITION → GENERALLY WAIT UNTIL BARRIER IS SUBSTANTIALLY OVERCOME </div> <h2> Integrated Contribution Example </h2> <p> Hope Foundation receives the following during the year: </p> <div class=\"financial-example\"> <div> <span> Unrestricted Cash Contribution </span> <strong> $100,000 </strong> </div> <div> <span> Contribution Restricted for Education </span> <strong> $150,000 </strong> </div> <div> <span> Conditional Grant Received Before Condition Is Met </span> <strong> $80,000 </strong> </div> </div> <p> The first contribution generally increases net assets without donor restrictions. </p> <p> The second generally increases net assets with donor restrictions. </p> <p> The conditional $80,000 received before the barrier has been substantially overcome is generally reported as a liability. </p> <div class=\"formula-box\"> $100,000 → WITHOUT DONOR RESTRICTIONS $150,000 → WITH DONOR RESTRICTIONS $80,000 CONDITIONAL CASH → LIABILITY </div> <h2> Release From Restriction </h2> <p> During the year, Hope Foundation spends <strong>$90,000</strong> on qualifying educational costs related to the donor's restriction. </p> <div class=\"formula-box\"> RESTRICTION SATISFIED $90,000 WITH DONOR RESTRICTIONS − $90,000 WITHOUT DONOR RESTRICTIONS + $90,000 </div> <p> This is a reclassification between net asset classes, not another contribution. </p> <h2> Donated Services </h2> <p> Hope Foundation receives donated legal services worth <strong>$20,000</strong>. </p> <p> The attorney has specialized skills and Hope Foundation would otherwise have purchased the services. </p> <div class=\"formula-box\"> Contribution Revenue = $20,000 Legal Expense = $20,000 </div> <h2> Donated Property </h2> <p> A donor contributes equipment with a fair value of <strong>$45,000</strong>. </p> <div class=\"formula-box\"> Equipment + $45,000 Contribution Revenue + $45,000 </div> <p> Contributed nonfinancial assets are generally measured at fair value when recognized. </p> <h2> Endowment Classification </h2> <div class=\"financial-example\"> <div> <span> Donor Creates Endowment </span> <strong> With Donor Restrictions </strong> </div> <div> <span> Board Designates Endowment </span> <strong> Without Donor Restrictions </strong> </div> </div> <h2> Promises to Give </h2> <div class=\"formula-box\"> UNCONDITIONAL PROMISE → GENERALLY RECOGNIZE CONDITIONAL PROMISE → GENERALLY WAIT LONG-TERM PROMISE → CONSIDER PRESENT VALUE </div> <h2> Expense Reporting </h2> <div class=\"formula-box\"> FUNCTION = WHY? NATURE = WHAT? </div> <div class=\"financial-example\"> <div> <span> Program Services </span> <strong> Mission Activities </strong> </div> <div> <span> Management &amp; General </span> <strong> Supporting Services </strong> </div> <div> <span> Fundraising </span> <strong> Supporting Services </strong> </div> </div> <h2> Financial Statement Map </h2> <div class=\"financial-example\"> <div> <span> Statement of Financial Position </span> <strong> Assets, Liabilities, and Net Assets </strong> </div> <div> <span> Statement of Activities </span> <strong> Changes in Net Assets </strong> </div> <div> <span> Statement of Cash Flows </span> <strong> Changes in Cash </strong> </div> </div> <h2> Final CPA Decision Tree </h2> <div class=\"formula-box\"> CONTRIBUTION? ↓ CONDITIONAL? YES → GENERALLY WAIT NO ↓ DONOR RESTRICTION? YES → WITH DONOR RESTRICTIONS NO → WITHOUT DONOR RESTRICTIONS </div> <h2> Module 5 Memory Sheet </h2> <div class=\"key-points\"> <ul> <li> NFPs report net assets rather than owners' equity. </li> <li> Donor restrictions determine net asset classification. </li> <li> Board designations do not create donor restrictions. </li> <li> Conditions generally affect the timing of contribution recognition. </li> <li> Restrictions generally affect the classification and use of resources. </li> <li> Recognizable donated services may produce both contribution revenue and expense. </li> <li> Contributed nonfinancial assets are generally measured at fair value. </li> <li> Long-term unconditional pledges may require present-value measurement. </li> <li> Function means why an expense was incurred; nature means what type of expense it was. </li> <li> The statement of activities explains changes in net assets. </li> </ul> </div>",
+  "quiz": {
+    "id": "far-m5-l10-check",
+    "courseId": "far",
+    "moduleId": 5,
+    "lessonId": "far-m5-l10",
+    "topic": "General review",
+    "prompt": "An NFP receives $120,000 cash under an agreement requiring it to first serve 600 qualifying participants. The donor may require repayment if the target is not achieved. By year-end, the NFP has not met the target. How should the $120,000 generally be reported?",
+    "choices": [
+      {
+        "id": "far-m5-l10-check-a0",
+        "text": "As a liability"
+      },
+      {
+        "id": "far-m5-l10-check-a1",
+        "text": "As contribution revenue with donor restrictions"
+      },
+      {
+        "id": "far-m5-l10-check-a2",
+        "text": "As contribution revenue without donor restrictions"
+      },
+      {
+        "id": "far-m5-l10-check-a3",
+        "text": "As a board-designated component of net assets"
+      }
+    ],
+    "correctChoiceId": "far-m5-l10-check-a0",
+    "explanation": "The measurable performance barrier and the donor's right of return make the contribution conditional. Because the barrier has not been substantially met, cash already received is generally reported as a liability rather than contribution revenue.",
+    "difficulty": "foundation",
+    "metadata": {
+      "section": "far",
+      "blueprintYear": 2026,
+      "areaId": "far-I",
+      "groupId": "module-5",
+      "topicId": "far-not-for-profit-integrated-review",
+      "taskIds": [
+        "far-not-for-profit-integrated-review.task-1",
+        "far-not-for-profit-integrated-review.task-2",
+        "far-not-for-profit-integrated-review.task-3"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "section": "far",
+    "blueprintYear": 2026,
+    "areaId": "far-I",
+    "groupId": "module-5",
+    "topicId": "far-not-for-profit-integrated-review",
+    "taskIds": [
+      "far-not-for-profit-integrated-review.task-1",
+      "far-not-for-profit-integrated-review.task-2",
+      "far-not-for-profit-integrated-review.task-3"
+    ],
+    "skill": "application",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      }
+    ]
+  },
+  "objectives": [
+    "Explain not-for-profit integrated review and its underlying principles.",
+    "Apply the topic to a financial-reporting scenario.",
+    "Evaluate common errors and their financial-statement effects."
+  ]
+}

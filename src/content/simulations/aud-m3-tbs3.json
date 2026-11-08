@@ -1,0 +1,124 @@
+{
+  "id": "aud-m3-tbs3",
+  "courseId": "aud",
+  "moduleId": 3,
+  "number": 3,
+  "title": "Revenue analytics validation",
+  "html": "<div class=\"course-intro-card\"><h2>Revenue analytics validation</h2><p>Evaluate an independently prepared revenue expectation and data-quality exceptions.</p></div><section class=\"quiz-card\"><h3>Required responses</h3><div class=\"tbs-question\"><label for=\"aud-m3-tbs3-f1\">Expected annual revenue</label><input id=\"aud-m3-tbs3-f1\" type=\"text\"></div><div class=\"tbs-question\"><label for=\"aud-m3-tbs3-f2\">Absolute difference from recorded revenue</label><input id=\"aud-m3-tbs3-f2\" type=\"text\"></div><div class=\"tbs-question\"><label for=\"aud-m3-tbs3-f3\">Required response to unmatched and duplicated records</label><select id=\"aud-m3-tbs3-f3\"><option value=\"Reconcile and correct population completeness and accuracy\">Reconcile and correct population completeness and accuracy</option><option value=\"Ignore them if the chart is clear\">Ignore them if the chart is clear</option><option value=\"Increase only the font size\">Increase only the font size</option><option value=\"Assume all differences cancel\">Assume all differences cancel</option></select></div><div class=\"tbs-question\"><label for=\"aud-m3-tbs3-f4\">Response to the seasonality explanation</label><select id=\"aud-m3-tbs3-f4\"><option value=\"Obtain corroborating evidence and investigate the difference\">Obtain corroborating evidence and investigate the difference</option><option value=\"Accept the statement without support\">Accept the statement without support</option><option value=\"Increase the threshold to $40,000 after the fact\">Increase the threshold to $40,000 after the fact</option><option value=\"Treat the expectation as a tax return\">Treat the expectation as a tax return</option></select></div></section>",
+  "metadata": {
+    "section": "aud",
+    "blueprintYear": 2026,
+    "areaId": "aud-III",
+    "groupId": "A-B",
+    "topicId": "aud-audit-data",
+    "taskIds": [
+      "aud-audit-data.task-1",
+      "aud-audit-data.task-2",
+      "aud-audit-data.task-3"
+    ],
+    "skill": "analysis",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      },
+      {
+        "title": "AICPA auditing standards",
+        "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+      },
+      {
+        "title": "PCAOB standards",
+        "url": "https://pcaobus.org/oversight/standards"
+      }
+    ]
+  },
+  "difficulty": "advanced",
+  "fields": [
+    {
+      "id": "aud-m3-tbs3-f1",
+      "label": "Expected annual revenue",
+      "type": "number",
+      "options": [],
+      "correct": 720000,
+      "explanation": "50 × $1,200 × 12 = $720,000.",
+      "topicId": "aud-audit-data"
+    },
+    {
+      "id": "aud-m3-tbs3-f2",
+      "label": "Absolute difference from recorded revenue",
+      "type": "number",
+      "options": [],
+      "correct": 30000,
+      "explanation": "$720,000 − $690,000 = $30,000.",
+      "topicId": "aud-audit-data"
+    },
+    {
+      "id": "aud-m3-tbs3-f3",
+      "label": "Required response to unmatched and duplicated records",
+      "type": "select",
+      "options": [
+        {
+          "value": "Reconcile and correct population completeness and accuracy",
+          "label": "Reconcile and correct population completeness and accuracy"
+        },
+        {
+          "value": "Ignore them if the chart is clear",
+          "label": "Ignore them if the chart is clear"
+        },
+        {
+          "value": "Increase only the font size",
+          "label": "Increase only the font size"
+        },
+        {
+          "value": "Assume all differences cancel",
+          "label": "Assume all differences cancel"
+        }
+      ],
+      "correct": "Reconcile and correct population completeness and accuracy",
+      "explanation": "Omissions and duplicate joins can bias the population and totals.",
+      "topicId": "aud-audit-data"
+    },
+    {
+      "id": "aud-m3-tbs3-f4",
+      "label": "Response to the seasonality explanation",
+      "type": "select",
+      "options": [
+        {
+          "value": "Obtain corroborating evidence and investigate the difference",
+          "label": "Obtain corroborating evidence and investigate the difference"
+        },
+        {
+          "value": "Accept the statement without support",
+          "label": "Accept the statement without support"
+        },
+        {
+          "value": "Increase the threshold to $40,000 after the fact",
+          "label": "Increase the threshold to $40,000 after the fact"
+        },
+        {
+          "value": "Treat the expectation as a tax return",
+          "label": "Treat the expectation as a tax return"
+        }
+      ],
+      "correct": "Obtain corroborating evidence and investigate the difference",
+      "explanation": "The difference exceeds the threshold and requires supported investigation.",
+      "topicId": "aud-audit-data"
+    }
+  ],
+  "exhibits": [
+    {
+      "id": "aud-m3-tbs3-ex1",
+      "title": "Operational data",
+      "html": "<p>50 units were occupied for all 12 months at $1,200 per month. There are no concessions. Recorded revenue is $690,000. The case uses a $15,000 investigation threshold.</p>"
+    },
+    {
+      "id": "aud-m3-tbs3-ex2",
+      "title": "Extract review",
+      "html": "<p>The analyst’s SQL query omits unmatched customer IDs. A separate join duplicates records when a customer has multiple addresses. Management attributes all differences to seasonality without supporting evidence.</p>"
+    }
+  ],
+  "explanation": "<h3>Expected annual revenue</h3><p>50 × $1,200 × 12 = $720,000.</p><h3>Absolute difference from recorded revenue</h3><p>$720,000 − $690,000 = $30,000.</p><h3>Required response to unmatched and duplicated records</h3><p>Omissions and duplicate joins can bias the population and totals.</p><h3>Response to the seasonality explanation</h3><p>The difference exceeds the threshold and requires supported investigation.</p>"
+}

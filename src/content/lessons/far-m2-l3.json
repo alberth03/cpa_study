@@ -1,0 +1,88 @@
+{
+  "id": "far-m2-l3",
+  "courseId": "far",
+  "moduleId": 2,
+  "number": 3,
+  "title": "Inventory",
+  "description": "Apply inventory cost flow methods, valuation rules, write-downs, purchase commitments and related financial reporting concepts.",
+  "url": "/learn/far/modules/2/lessons/3",
+  "html": "<h2> Inventory </h2> <p> Inventory represents goods held for sale or used in producing goods for sale. For FAR, you need to understand inventory costs, ownership, cost flow assumptions, valuation, write-downs, and the financial statement effects of inventory errors. </p> <h3> 1. What Is Included in Inventory? </h3> <p> Inventory generally includes goods that the company owns and intends to sell in the ordinary course of business, as well as certain costs incurred to prepare those goods for sale. </p> <div class=\"key-points\"> <ul> <li> Merchandise held for resale </li> <li> Raw materials </li> <li> Work in process </li> <li> Finished goods </li> </ul> </div> <h3> 2. Costs Included in Inventory </h3> <p> Inventory cost generally includes expenditures necessary to acquire the inventory and bring it to its present location and condition. </p> <div class=\"key-points\"> <ul> <li> Purchase price </li> <li> Freight-in </li> <li> Import duties and certain nonrefundable taxes </li> <li> Direct labor for manufactured inventory </li> <li> Appropriate manufacturing overhead </li> </ul> </div> <p> Selling costs and abnormal waste are generally expensed rather than included in inventory. </p> <h3> 3. Goods in Transit </h3> <p> Ownership of goods in transit depends on the shipping terms. </p> <div class=\"formula-box\"> FOB Shipping Point: <strong> Buyer owns the goods once the seller ships them. </strong> <br><br> FOB Destination: <strong> Seller owns the goods until they reach the buyer. </strong> </div> <div class=\"example-box\"> <h3> Example </h3> <p> Goods costing $12,000 are shipped FOB shipping point on December 30 and arrive January 3. </p> <p> The buyer generally includes the goods in its December 31 inventory because ownership transferred when the goods were shipped. </p> </div> <h3> 4. Consigned Goods </h3> <p> Goods held on consignment remain inventory of the <strong>consignor</strong>, the party that owns the goods. </p> <p> The consignee physically holds the goods but generally does not record them as its inventory. </p> <h3> 5. Cost Flow Assumptions </h3> <p> When identical inventory items are purchased at different prices, companies use cost flow assumptions to determine cost of goods sold and ending inventory. </p> <h4> FIFO </h4> <p> First-In, First-Out assumes the oldest inventory costs are assigned to cost of goods sold first. </p> <div class=\"formula-box\"> FIFO ending inventory ≈ Most recent purchase costs </div> <h4> LIFO </h4> <p> Last-In, First-Out assumes the newest inventory costs are assigned to cost of goods sold first. </p> <div class=\"formula-box\"> LIFO ending inventory ≈ Older purchase costs </div> <h4> Weighted Average </h4> <p> The weighted-average method assigns an average cost to inventory units. </p> <div class=\"formula-box\"> Average Cost Per Unit = Cost of Goods Available for Sale ÷ Units Available for Sale </div> <h3> 6. FIFO vs. LIFO During Rising Prices </h3> <div class=\"key-points\"> <p> When inventory purchase prices are rising: </p> <ul> <li> FIFO generally produces lower COGS. </li> <li> FIFO generally produces higher ending inventory. </li> <li> FIFO generally produces higher gross profit and net income. </li> <li> LIFO generally produces higher COGS. </li> <li> LIFO generally produces lower ending inventory and lower income. </li> </ul> </div> <h3> 7. Inventory Valuation and Write-Downs </h3> <p> Inventory must be evaluated for declines in value. The applicable U.S. GAAP measurement rule depends on the inventory cost-flow method being used. </p> <div class=\"key-points\"> <p> <strong> Inventory measured using FIFO or weighted average: </strong> </p> <p> Inventory is generally measured at the <strong>lower of cost and net realizable value (LCNRV)</strong>. </p> <p> <strong> Inventory measured using LIFO or the retail inventory method: </strong> </p> <p> Inventory generally continues to use the <strong>lower of cost or market</strong> approach, subject to the applicable ceiling and floor limitations. </p> </div> <h4> Net Realizable Value </h4> <div class=\"formula-box\"> Net Realizable Value = Estimated Selling Price − Reasonably Predictable Costs of Completion, Disposal, and Transportation </div> <h4> Market Under the LIFO/Retail Rule </h4> <p> For lower-of-cost-or-market purposes, market is generally replacement cost, but it cannot exceed the ceiling or fall below the floor. </p> <div class=\"formula-box\"> Ceiling = Net Realizable Value <br><br> Floor = Net Realizable Value − Normal Profit Margin </div> <div class=\"key-points\"> <p> Therefore, designated market is generally replacement cost limited by the NRV ceiling and the NRV-minus-normal- profit floor. The inventory is then reported at the lower of cost or that designated market amount. </p> </div> <h3> 8. Inventory Errors </h3> <p> Inventory errors affect both the balance sheet and income statement because ending inventory is part of the cost of goods sold calculation. </p> <div class=\"formula-box\"> Beginning Inventory + Purchases = Goods Available for Sale <br><br> Goods Available for Sale − Ending Inventory = Cost of Goods Sold </div> <div class=\"example-box\"> <h3> Effect of Overstated Ending Inventory </h3> <p> If ending inventory is overstated: </p> <ul> <li> Cost of goods sold is understated. </li> <li> Gross profit is overstated. </li> <li> Net income is overstated. </li> <li> Inventory assets are overstated. </li> </ul> </div> <h3> 9. CPA Exam Focus </h3> <div class=\"key-points\"> <ul> <li> Know what costs belong in inventory. </li> <li> Apply FOB shipping point and FOB destination correctly. </li> <li> Remember who owns consigned inventory. </li> <li> Understand FIFO, LIFO, and weighted-average effects. </li> <li> Know how ending inventory errors affect COGS and income. </li> <li> Be able to calculate net realizable value. </li> </ul> </div>",
+  "quiz": {
+    "id": "far-m2-l3-check",
+    "courseId": "far",
+    "moduleId": 2,
+    "lessonId": "far-m2-l3",
+    "topic": "General review",
+    "prompt": "During a period of rising inventory costs, which statement is generally true when comparing FIFO with LIFO?",
+    "choices": [
+      {
+        "id": "far-m2-l3-check-a0",
+        "text": "FIFO generally results in higher cost of goods sold and lower ending inventory"
+      },
+      {
+        "id": "far-m2-l3-check-a1",
+        "text": "FIFO and LIFO always produce the same net income"
+      },
+      {
+        "id": "far-m2-l3-check-a2",
+        "text": "LIFO generally results in higher ending inventory and higher net income"
+      },
+      {
+        "id": "far-m2-l3-check-a3",
+        "text": "FIFO generally results in lower cost of goods sold and higher ending inventory"
+      }
+    ],
+    "correctChoiceId": "far-m2-l3-check-a3",
+    "explanation": "When inventory costs are rising, FIFO assigns older, lower costs to cost of goods sold and newer, higher costs to ending inventory. Therefore, FIFO generally produces lower COGS, higher ending inventory, and higher income than LIFO.",
+    "difficulty": "foundation",
+    "metadata": {
+      "section": "far",
+      "blueprintYear": 2026,
+      "areaId": "far-II",
+      "groupId": "module-2",
+      "topicId": "far-inventory",
+      "taskIds": [
+        "far-inventory.task-1",
+        "far-inventory.task-2",
+        "far-inventory.task-3"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "section": "far",
+    "blueprintYear": 2026,
+    "areaId": "far-II",
+    "groupId": "module-2",
+    "topicId": "far-inventory",
+    "taskIds": [
+      "far-inventory.task-1",
+      "far-inventory.task-2",
+      "far-inventory.task-3"
+    ],
+    "skill": "application",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      }
+    ]
+  },
+  "objectives": [
+    "Explain inventory and its underlying principles.",
+    "Apply the topic to a financial-reporting scenario.",
+    "Evaluate common errors and their financial-statement effects."
+  ]
+}

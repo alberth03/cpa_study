@@ -1,0 +1,88 @@
+{
+  "id": "intermediate-m2-l3",
+  "courseId": "intermediate",
+  "moduleId": 2,
+  "number": 3,
+  "title": "Accounts Receivable",
+  "description": "Learn how receivables arise, are recorded and collected.",
+  "url": "/learn/intermediate/modules/2/lessons/3",
+  "html": "<h2>What is Accounts Receivable?</h2> <p> Accounts Receivable represents amounts customers owe the company for goods or services provided on credit. </p> <div class=\"example-box\"> <h3>Credit sale</h3> <p> A company provides $5,000 of services on account. </p> <div class=\"journal-entry\"> <div class=\"journal-row journal-header\"> <div>Account</div> <div>Debit</div> <div>Credit</div> </div> <div class=\"journal-row\"> <div>Accounts Receivable</div> <div>$5,000</div> <div>—</div> </div> <div class=\"journal-row credit-row\"> <div>Service Revenue</div> <div>—</div> <div>$5,000</div> </div> </div> </div> <h2>Collection from customer</h2> <p> Later, the customer pays the $5,000. </p> <div class=\"journal-entry\"> <div class=\"journal-row journal-header\"> <div>Account</div> <div>Debit</div> <div>Credit</div> </div> <div class=\"journal-row\"> <div>Cash</div> <div>$5,000</div> <div>—</div> </div> <div class=\"journal-row credit-row\"> <div>Accounts Receivable</div> <div>—</div> <div>$5,000</div> </div> </div> <div class=\"key-points\"> <h3>Remember</h3> <p> Recording revenue does not always mean cash was received. </p> <p> Under accrual accounting, revenue can be recognized before collection. </p> </div> <h2>Gross vs net receivables</h2> <p> Companies may not expect to collect every dollar owed by customers. </p> <p> That leads us to the allowance for credit losses, which we'll study in the next lesson. </p>",
+  "quiz": {
+    "id": "intermediate-m2-l3-check",
+    "courseId": "intermediate",
+    "moduleId": 2,
+    "lessonId": "intermediate-m2-l3",
+    "topic": "General review",
+    "prompt": "A company provides $8,000 of services on account. Which account is debited?",
+    "choices": [
+      {
+        "id": "intermediate-m2-l3-check-a0",
+        "text": "Cash"
+      },
+      {
+        "id": "intermediate-m2-l3-check-a1",
+        "text": "Service Revenue"
+      },
+      {
+        "id": "intermediate-m2-l3-check-a2",
+        "text": "Accounts Receivable"
+      },
+      {
+        "id": "intermediate-m2-l3-check-a3",
+        "text": "Accounts Payable"
+      }
+    ],
+    "correctChoiceId": "intermediate-m2-l3-check-a2",
+    "explanation": "The customer owes the company money, so Accounts Receivable increases with a debit.",
+    "difficulty": "foundation",
+    "metadata": {
+      "section": "intermediate",
+      "blueprintYear": 2026,
+      "areaId": "intermediate-I",
+      "groupId": "module-2",
+      "topicId": "intermediate-accounts-receivable",
+      "taskIds": [
+        "intermediate-accounts-receivable.task-1",
+        "intermediate-accounts-receivable.task-2",
+        "intermediate-accounts-receivable.task-3"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "section": "intermediate",
+    "blueprintYear": 2026,
+    "areaId": "intermediate-I",
+    "groupId": "module-2",
+    "topicId": "intermediate-accounts-receivable",
+    "taskIds": [
+      "intermediate-accounts-receivable.task-1",
+      "intermediate-accounts-receivable.task-2",
+      "intermediate-accounts-receivable.task-3"
+    ],
+    "skill": "application",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      }
+    ]
+  },
+  "objectives": [
+    "Explain accounts receivable and its underlying principles.",
+    "Apply the topic to a financial-reporting scenario.",
+    "Evaluate common errors and their financial-statement effects."
+  ]
+}

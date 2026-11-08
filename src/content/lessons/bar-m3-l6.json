@@ -1,0 +1,103 @@
+{
+  "id": "bar-m3-l6",
+  "courseId": "bar",
+  "moduleId": 3,
+  "number": 6,
+  "title": "Governmental Capital Assets, Pensions & OPEB",
+  "description": "Distinguish fund-level expenditures from government-wide capital assets.",
+  "url": "/learn/bar/modules/3/lessons/6",
+  "metadata": {
+    "section": "bar",
+    "blueprintYear": 2026,
+    "areaId": "bar-III",
+    "groupId": "C",
+    "topicId": "bar-government-liabilities",
+    "taskIds": [
+      "bar-government-liabilities.task-1",
+      "bar-government-liabilities.task-2",
+      "bar-government-liabilities.task-3"
+    ],
+    "skill": "application",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      },
+      {
+        "title": "FASB accounting standards",
+        "url": "https://asc.fasb.org/"
+      },
+      {
+        "title": "GASB standards",
+        "url": "https://www.gasb.org/standards-and-implementation"
+      }
+    ]
+  },
+  "html": "<h2>Learning objectives</h2><ul><li>Distinguish fund-level expenditures from government-wide capital assets.</li><li>Compute a net pension or OPEB liability from supplied measurements.</li><li>Evaluate recognition and disclosure for governmental long-term obligations.</li></ul><h2>Understand the concepts</h2><p>Government-wide statements use the economic-resources measurement focus and accrual basis. Capital assets and long-term obligations are reported under the applicable standards, while governmental funds use current financial resources and modified accrual. A capital outlay can therefore be an expenditure at the fund level and an asset at the government-wide level. Depreciation then affects government-wide expense rather than duplicating the full fund expenditure.</p><p>Pension and other postemployment-benefit accounting requires the applicable GASB measurements, assumptions, and reporting model. For a plan administered through a qualifying trust under the stated model, a net liability can reflect total pension or OPEB liability less the plan’s fiduciary net position. Plans without a qualifying trust can require a different liability measure; do not subtract nonexistent qualifying plan assets. Deferred outflows and inflows and expense measurement require separate analysis.</p><p>Evaluate leases, subscriptions, debt, and other obligations under the applicable governmental guidance. Presentation and timing depend on fund type and reporting level. Supplied actuarial or present-value measurements should be used consistently, with required assumptions and disclosures. A government’s current cash contribution is not automatically its pension expense or total liability.</p><div class=\"example-box\"><h3>A supplied pension measurement</h3><p>The case supplies total pension liability of $10 million and qualifying plan fiduciary net position of $7 million. Ignore deferred items for this computation.</p><ol><li>Net pension liability is $3 million.</li><li>The amount is not simply the government’s annual cash contribution.</li><li>Evaluate expense and deferred-item accounting separately under the applicable standard.</li></ol></div><div class=\"key-points\"><h3>Common mistakes to avoid</h3><ul><li>Do not subtract assets of a trust that does not qualify under the applicable model.</li><li>Fund-level and government-wide statements can report different effects.</li><li>Cash contributions and pension expense are not automatically equal.</li></ul></div><h2>Apply and connect</h2><p>After solving the worked case, explain which facts determine the result and how a changed assumption would change your conclusion. Use the module questions to test fresh applications, then complete the related simulation before reviewing its solution.</p>",
+  "objectives": [
+    "Distinguish fund-level expenditures from government-wide capital assets.",
+    "Compute a net pension or OPEB liability from supplied measurements.",
+    "Evaluate recognition and disclosure for governmental long-term obligations."
+  ],
+  "quiz": {
+    "id": "bar-m3-l6-q1",
+    "courseId": "bar",
+    "moduleId": 3,
+    "lessonId": "bar-m3-l6",
+    "topic": "Governmental Capital Assets, Pensions & OPEB",
+    "prompt": "Total pension liability is $12 million and qualifying plan fiduciary net position is $9 million. What is net pension liability under the stated model?",
+    "choices": [
+      {
+        "id": "bar-m3-l6-q1-a0",
+        "text": "$12 million."
+      },
+      {
+        "id": "bar-m3-l6-q1-a1",
+        "text": "$9 million."
+      },
+      {
+        "id": "bar-m3-l6-q1-a2",
+        "text": "$21 million."
+      },
+      {
+        "id": "bar-m3-l6-q1-a3",
+        "text": "$3 million."
+      }
+    ],
+    "correctChoiceId": "bar-m3-l6-q1-a3",
+    "explanation": "Subtract qualifying plan fiduciary net position from total liability.",
+    "difficulty": "application",
+    "metadata": {
+      "section": "bar",
+      "blueprintYear": 2026,
+      "areaId": "bar-III",
+      "groupId": "C",
+      "topicId": "bar-government-liabilities",
+      "taskIds": [
+        "bar-government-liabilities.task-1"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        },
+        {
+          "title": "FASB accounting standards",
+          "url": "https://asc.fasb.org/"
+        },
+        {
+          "title": "GASB standards",
+          "url": "https://www.gasb.org/standards-and-implementation"
+        }
+      ]
+    }
+  },
+  "relatedSimulation": "bar-m3-tbs6"
+}

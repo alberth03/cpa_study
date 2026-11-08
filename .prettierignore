@@ -1,0 +1,8 @@
+src/content/
+src/styles/legacy.css
+public/study-data/
+legacy/
+.next/
+out/
+node_modules/
+package-lock.json

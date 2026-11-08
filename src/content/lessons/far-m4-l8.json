@@ -1,0 +1,88 @@
+{
+  "id": "far-m4-l8",
+  "courseId": "far",
+  "moduleId": 4,
+  "number": 8,
+  "title": "Governmental Fund to Government-Wide Reconciliation",
+  "description": "Convert governmental fund information to government-wide reporting by analyzing capital assets, debt, and other adjustments.",
+  "url": "/learn/far/modules/4/lessons/8",
+  "html": "<h2> Why Reconciliation Is Needed </h2> <p> Governmental fund financial statements and government-wide financial statements use different measurement focuses and bases of accounting. </p> <div class=\"financial-example\"> <div> <span>Governmental Funds</span> <strong> Current Financial Resources + Modified Accrual </strong> </div> <div> <span>Government-Wide</span> <strong> Economic Resources + Accrual </strong> </div> </div> <p> Because of these differences, governmental fund amounts must be reconciled to governmental activities reported at the government-wide level. </p> <h2> Capital Assets </h2> <p> Governmental funds generally report purchases of capital assets as expenditures. </p> <p> Government-wide statements instead capitalize those assets and generally recognize depreciation. </p> <div class=\"formula-box\"> FUND LEVEL: Capital Purchase = Expenditure GOVERNMENT-WIDE: Capital Purchase = Capital Asset Depreciation = Expense </div> <h2> Long-Term Debt </h2> <p> Governmental funds generally report proceeds from general long-term debt as other financing sources. </p> <p> Government-wide statements instead report the outstanding debt as a liability. </p> <div class=\"formula-box\"> FUND LEVEL: Bond Proceeds = Other Financing Source GOVERNMENT-WIDE: Bond Proceeds = Increase in Long-Term Liability </div> <h2> Debt Principal Payments </h2> <p> Governmental funds generally report principal payments on general long-term debt as expenditures. </p> <p> At the government-wide level, repayment of principal reduces the liability rather than creating an expense. </p> <h2> Revenue Availability Differences </h2> <p> Governmental funds recognize certain revenues only when they are measurable and available. </p> <p> Government-wide statements use accrual accounting, so revenue recognition is not based on the governmental fund availability criterion. </p> <p> Therefore, amounts deferred solely because they were unavailable under modified accrual may require adjustment when converting to government-wide reporting. </p> <h2> Reconciliation of Fund Balance to Net Position </h2> <p> Consider this simplified example. </p> <div class=\"financial-example\"> <div> <span>Total Governmental Fund Balances</span> <strong>$800,000</strong> </div> <div> <span>Capital Assets, Net</span> <strong>$1,500,000</strong> </div> <div> <span>General Long-Term Debt</span> <strong>$900,000</strong> </div> <div> <span>Revenue Unavailable in Funds</span> <strong>$50,000</strong> </div> </div> <h2> Step 1 — Begin With Fund Balance </h2> <div class=\"formula-box\"> Governmental Fund Balances = $800,000 </div> <h2> Step 2 — Add Capital Assets </h2> <p> Capital assets are not generally reported as assets in governmental funds but are reported in governmental activities. </p> <div class=\"formula-box\"> $800,000 + $1,500,000 = $2,300,000 </div> <h2> Step 3 — Subtract Long-Term Debt </h2> <p> General long-term debt is generally absent from governmental fund liabilities but is reported at the government-wide level. </p> <div class=\"formula-box\"> $2,300,000 − $900,000 = $1,400,000 </div> <h2> Step 4 — Add Revenue Recognized Under Accrual </h2> <p> Assume the $50,000 was not recognized as governmental fund revenue solely because it failed the availability criterion, but it qualifies for recognition under accrual accounting. </p> <div class=\"formula-box\"> $1,400,000 + $50,000 = $1,450,000 </div> <h2> Government-Wide Net Position </h2> <div class=\"formula-box\"> FUND BALANCE $800,000 + CAPITAL ASSETS $1,500,000 − LONG-TERM DEBT $900,000 + ACCRUAL REVENUE ADJUSTMENT $50,000 = $1,450,000 GOVERNMENT-WIDE NET POSITION </div> <h2> Operating Statement Reconciliation </h2> <p> We may also need to reconcile the governmental funds' change in fund balances to the change in net position of governmental activities. </p> <div class=\"key-points\"> <h3> Common Adjustments </h3> <ul> <li> Capital outlays are expenditures in governmental funds but are generally capitalized government-wide. </li> <li> Depreciation is recognized government-wide but generally not in governmental funds. </li> <li> Bond proceeds are other financing sources in governmental funds but create liabilities government-wide. </li> <li> Debt principal payments are expenditures in governmental funds but reduce liabilities government-wide. </li> <li> Revenue recognition may differ because of the modified accrual availability criterion. </li> </ul> </div> <h2> Mini Example </h2> <p> Assume governmental funds report a <strong>$200,000 increase in fund balance</strong>. </p> <p> During the year: </p> <div class=\"financial-example\"> <div> <span>Capital Outlay</span> <strong>$100,000</strong> </div> <div> <span>Depreciation Expense</span> <strong>$30,000</strong> </div> <div> <span>Debt Principal Paid</span> <strong>$20,000</strong> </div> </div> <div class=\"formula-box\"> $200,000 + $100,000 Capital Outlay − $30,000 Depreciation + $20,000 Principal Payment = $290,000 Change in Net Position </div> <h2> Why Do We Add Principal Payments? </h2> <p> The governmental fund treated the $20,000 principal payment as an expenditure that reduced fund balance. </p> <p> Government-wide accounting treats the payment as a reduction of a liability, not an expense. Therefore, we reverse its effect when reconciling. </p> <h2> CPA Memory Rule </h2> <div class=\"formula-box\"> FUND → GOVERNMENT-WIDE Capital Assets → ADD Long-Term Liabilities → SUBTRACT Capital Outlay → ADD BACK Depreciation → SUBTRACT Debt Principal Payment → ADD BACK </div> <div class=\"key-points\"> <h3> Key Takeaways </h3> <ul> <li> Reconciliation exists because the two reporting levels use different accounting perspectives. </li> <li> Government-wide reporting recognizes capital assets and long-term liabilities. </li> <li> Capital outlays must be converted from expenditures to capital assets. </li> <li> Depreciation must be recognized government-wide. </li> <li> Principal payments reduce liabilities rather than government-wide expenses. </li> </ul> </div>",
+  "quiz": {
+    "id": "far-m4-l8-check",
+    "courseId": "far",
+    "moduleId": 4,
+    "lessonId": "far-m4-l8",
+    "topic": "General review",
+    "prompt": "Governmental funds report a $300,000 increase in fund balance. During the year, capital outlays were $80,000, depreciation expense was $25,000, and principal payments on general long-term debt were $15,000. Ignoring all other differences, what is the increase in government-wide net position?",
+    "choices": [
+      {
+        "id": "far-m4-l8-check-a0",
+        "text": "$270,000"
+      },
+      {
+        "id": "far-m4-l8-check-a1",
+        "text": "$340,000"
+      },
+      {
+        "id": "far-m4-l8-check-a2",
+        "text": "$370,000"
+      },
+      {
+        "id": "far-m4-l8-check-a3",
+        "text": "$420,000"
+      }
+    ],
+    "correctChoiceId": "far-m4-l8-check-a2",
+    "explanation": "Start with the $300,000 increase in fund balance, add back the $80,000 capital outlay, subtract $25,000 depreciation, and add back the $15,000 principal payment. $300,000 + $80,000 − $25,000 + $15,000 = $370,000.",
+    "difficulty": "foundation",
+    "metadata": {
+      "section": "far",
+      "blueprintYear": 2026,
+      "areaId": "far-I",
+      "groupId": "module-4",
+      "topicId": "far-governmental-fund-to-government-wide-reconciliation",
+      "taskIds": [
+        "far-governmental-fund-to-government-wide-reconciliation.task-1",
+        "far-governmental-fund-to-government-wide-reconciliation.task-2",
+        "far-governmental-fund-to-government-wide-reconciliation.task-3"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": true,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "section": "far",
+    "blueprintYear": 2026,
+    "areaId": "far-I",
+    "groupId": "module-4",
+    "topicId": "far-governmental-fund-to-government-wide-reconciliation",
+    "taskIds": [
+      "far-governmental-fund-to-government-wide-reconciliation.task-1",
+      "far-governmental-fund-to-government-wide-reconciliation.task-2",
+      "far-governmental-fund-to-government-wide-reconciliation.task-3"
+    ],
+    "skill": "application",
+    "validFrom": "2026-01-01",
+    "supplementary": true,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      }
+    ]
+  },
+  "objectives": [
+    "Explain governmental fund to government-wide reconciliation and its underlying principles.",
+    "Apply the topic to a financial-reporting scenario.",
+    "Evaluate common errors and their financial-statement effects."
+  ]
+}

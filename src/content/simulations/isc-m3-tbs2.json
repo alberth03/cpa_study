@@ -1,0 +1,158 @@
+{
+  "id": "isc-m3-tbs2",
+  "courseId": "isc",
+  "moduleId": 3,
+  "number": 2,
+  "title": "System-description review",
+  "html": "<div class=\"course-intro-card\"><h2>System-description review</h2><p>Classify commitments and evaluate a description omission.</p></div><section class=\"quiz-card\"><h3>Required responses</h3><div class=\"tbs-question\"><label for=\"isc-m3-tbs2-f1\">Category for A</label><select id=\"isc-m3-tbs2-f1\"><option value=\"Processing integrity\">Processing integrity</option><option value=\"Only availability\">Only availability</option><option value=\"Only confidentiality\">Only confidentiality</option><option value=\"Only privacy\">Only privacy</option></select></div><div class=\"tbs-question\"><label for=\"isc-m3-tbs2-f2\">Category for B</label><select id=\"isc-m3-tbs2-f2\"><option value=\"Availability\">Availability</option><option value=\"Only privacy\">Only privacy</option><option value=\"Only tax reporting\">Only tax reporting</option><option value=\"Only valuation\">Only valuation</option></select></div><div class=\"tbs-question\"><label for=\"isc-m3-tbs2-f3\">Category most directly associated with D</label><select id=\"isc-m3-tbs2-f3\"><option value=\"Privacy\">Privacy</option><option value=\"Only inventory existence\">Only inventory existence</option><option value=\"Only valuation\">Only valuation</option><option value=\"Only debt classification\">Only debt classification</option></select></div><div class=\"tbs-question\"><label for=\"isc-m3-tbs2-f4\">Response to the missing rejection process</label><select id=\"isc-m3-tbs2-f4\"><option value=\"Evaluate and correct the description and related controls\">Evaluate and correct the description and related controls</option><option value=\"Ignore all omitted processes\">Ignore all omitted processes</option><option value=\"Assume rejected transactions do not matter\">Assume rejected transactions do not matter</option><option value=\"Delete the completeness commitment\">Delete the completeness commitment</option></select></div></section>",
+  "metadata": {
+    "section": "isc",
+    "blueprintYear": 2026,
+    "areaId": "isc-III",
+    "groupId": "A-B",
+    "topicId": "isc-soc-system-criteria",
+    "taskIds": [
+      "isc-soc-system-criteria.task-1",
+      "isc-soc-system-criteria.task-2",
+      "isc-soc-system-criteria.task-3"
+    ],
+    "skill": "analysis",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      },
+      {
+        "title": "NIST Cybersecurity Framework",
+        "url": "https://www.nist.gov/cyberframework"
+      },
+      {
+        "title": "AICPA SOC resources",
+        "url": "https://www.aicpa-cima.com/resources/landing/system-and-organization-controls-soc-suite-of-services"
+      }
+    ]
+  },
+  "difficulty": "advanced",
+  "fields": [
+    {
+      "id": "isc-m3-tbs2-f1",
+      "label": "Category for A",
+      "type": "select",
+      "options": [
+        {
+          "value": "Processing integrity",
+          "label": "Processing integrity"
+        },
+        {
+          "value": "Only availability",
+          "label": "Only availability"
+        },
+        {
+          "value": "Only confidentiality",
+          "label": "Only confidentiality"
+        },
+        {
+          "value": "Only privacy",
+          "label": "Only privacy"
+        }
+      ],
+      "correct": "Processing integrity",
+      "explanation": "The commitment concerns complete and accurate authorized processing.",
+      "topicId": "isc-soc-system-criteria"
+    },
+    {
+      "id": "isc-m3-tbs2-f2",
+      "label": "Category for B",
+      "type": "select",
+      "options": [
+        {
+          "value": "Availability",
+          "label": "Availability"
+        },
+        {
+          "value": "Only privacy",
+          "label": "Only privacy"
+        },
+        {
+          "value": "Only tax reporting",
+          "label": "Only tax reporting"
+        },
+        {
+          "value": "Only valuation",
+          "label": "Only valuation"
+        }
+      ],
+      "correct": "Availability",
+      "explanation": "The commitment concerns accessible service.",
+      "topicId": "isc-soc-system-criteria"
+    },
+    {
+      "id": "isc-m3-tbs2-f3",
+      "label": "Category most directly associated with D",
+      "type": "select",
+      "options": [
+        {
+          "value": "Privacy",
+          "label": "Privacy"
+        },
+        {
+          "value": "Only inventory existence",
+          "label": "Only inventory existence"
+        },
+        {
+          "value": "Only valuation",
+          "label": "Only valuation"
+        },
+        {
+          "value": "Only debt classification",
+          "label": "Only debt classification"
+        }
+      ],
+      "correct": "Privacy",
+      "explanation": "The commitment concerns personal-information lifecycle practices.",
+      "topicId": "isc-soc-system-criteria"
+    },
+    {
+      "id": "isc-m3-tbs2-f4",
+      "label": "Response to the missing rejection process",
+      "type": "select",
+      "options": [
+        {
+          "value": "Evaluate and correct the description and related controls",
+          "label": "Evaluate and correct the description and related controls"
+        },
+        {
+          "value": "Ignore all omitted processes",
+          "label": "Ignore all omitted processes"
+        },
+        {
+          "value": "Assume rejected transactions do not matter",
+          "label": "Assume rejected transactions do not matter"
+        },
+        {
+          "value": "Delete the completeness commitment",
+          "label": "Delete the completeness commitment"
+        }
+      ],
+      "correct": "Evaluate and correct the description and related controls",
+      "explanation": "The process is relevant to the system’s commitments and fair presentation.",
+      "topicId": "isc-soc-system-criteria"
+    }
+  ],
+  "exhibits": [
+    {
+      "id": "isc-m3-tbs2-ex1",
+      "title": "Commitments",
+      "html": "<p>A: Authorized transactions are processed completely and accurately. B: The service is available within agreed operating periods. C: Designated confidential business information is protected. D: Personal data is collected and retained consistently with privacy commitments.</p>"
+    },
+    {
+      "id": "isc-m3-tbs2-ex2",
+      "title": "Description issue",
+      "html": "<p>A critical batch-rejection process is missing from the description even though it affects completeness.</p>"
+    }
+  ],
+  "explanation": "<h3>Category for A</h3><p>The commitment concerns complete and accurate authorized processing.</p><h3>Category for B</h3><p>The commitment concerns accessible service.</p><h3>Category most directly associated with D</h3><p>The commitment concerns personal-information lifecycle practices.</p><h3>Response to the missing rejection process</h3><p>The process is relevant to the system’s commitments and fair presentation.</p>"
+}

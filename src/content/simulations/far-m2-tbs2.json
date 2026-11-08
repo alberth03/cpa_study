@@ -1,0 +1,62 @@
+{
+  "id": "far-m2-tbs2",
+  "moduleId": 2,
+  "number": 2,
+  "title": "FAR Module 2 · TBS 2",
+  "fields": [
+    {
+      "id": "far-m2-tbs2-allowance",
+      "label": "1. Required Ending Allowance for Credit Losses",
+      "type": "number",
+      "options": [],
+      "correct": 17850
+    },
+    {
+      "id": "far-m2-tbs2-expense",
+      "label": "2. Credit Loss Expense for the Year-End Adjustment",
+      "type": "number",
+      "options": [],
+      "correct": 10350
+    },
+    {
+      "id": "far-m2-tbs2-net-ar",
+      "label": "3. Net Accounts Receivable After the Year-End Adjustment",
+      "type": "number",
+      "options": [],
+      "correct": 222150
+    },
+    {
+      "id": "far-m2-tbs2-writeoff",
+      "label": "4. Effect of the $2,000 Write-Off on Net Accounts Receivable",
+      "type": "number",
+      "options": [],
+      "correct": 0
+    }
+  ],
+  "html": "<section class=\"exam-page\"> <div class=\"course-intro-card\"> <span class=\"exam-badge\"> TASK-BASED SIMULATION </span> <h2> Allowance for Credit Losses </h2> <p> Use an aging analysis to determine the required allowance for credit losses, credit loss expense, and net accounts receivable. </p> </div> <div class=\"quiz-card\"> <h2> Scenario </h2> <p> At December 31, Horizon Corp. reports gross Accounts Receivable of <strong>$240,000</strong>. </p> <p> Before the year-end adjustment, the Allowance for Credit Losses has a <strong>$7,500 credit balance</strong>. </p> <p> Horizon prepared the following aging analysis of its receivables: </p> <div class=\"financial-example\"> <div> <span> Current </span> <strong> $140,000 × 2% </strong> </div> <div> <span> 31–60 Days Past Due </span> <strong> $55,000 × 6% </strong> </div> <div> <span> 61–90 Days Past Due </span> <strong> $25,000 × 15% </strong> </div> <div> <span> More Than 90 Days Past Due </span> <strong> $20,000 × 40% </strong> </div> </div> <div class=\"key-points\"> <h3> Additional Information </h3> <p> Assume the aging percentages appropriately reflect Horizon's expected credit losses at December 31. </p> <p> Also assume Horizon writes off a <strong>$2,000</strong> customer account after the allowance has already been established. </p> </div> <h2> Required </h2> <p> Enter each amount below. </p> <div class=\"financial-example\"> <div> <span> 1. Required Ending Allowance for Credit Losses </span> <input type=\"number\" id=\"far-m2-tbs2-allowance\" placeholder=\"Enter amount\"> </div> <div> <span> 2. Credit Loss Expense for the Year-End Adjustment </span> <input type=\"number\" id=\"far-m2-tbs2-expense\" placeholder=\"Enter amount\"> </div> <div> <span> 3. Net Accounts Receivable After the Year-End Adjustment </span> <input type=\"number\" id=\"far-m2-tbs2-net-ar\" placeholder=\"Enter amount\"> </div> <div> <span> 4. Effect of the $2,000 Write-Off on Net Accounts Receivable </span> <input type=\"number\" id=\"far-m2-tbs2-writeoff\" placeholder=\"Enter amount\"> </div> </div> <div id=\"far-m2-tbs2-result\"></div> </div> </section>",
+  "explanation": "<div class=\"result-correct\"> <h3> Step 1 — Required Ending Allowance </h3> <div class=\"formula-box\"> Current: $140,000 × 2% = $2,800 </div> <div class=\"formula-box\"> 31–60 Days: $55,000 × 6% = $3,300 </div> <div class=\"formula-box\"> 61–90 Days: $25,000 × 15% = $3,750 </div> <div class=\"formula-box\"> Over 90 Days: $20,000 × 40% = $8,000 </div> <div class=\"formula-box\"> $2,800 + $3,300 + $3,750 + $8,000 = $17,850 </div> <p> <strong> Required Ending Allowance: $17,850 </strong> </p> <h3> Step 2 — Credit Loss Expense </h3> <p> The allowance already has a $7,500 credit balance before adjustment. </p> <div class=\"formula-box\"> Required Allowance $17,850 − Existing Credit Balance $7,500 = $10,350 </div> <p> <strong> Credit Loss Expense: $10,350 </strong> </p> <h3> Step 3 — Net Accounts Receivable </h3> <div class=\"formula-box\"> Gross Accounts Receivable $240,000 − Allowance for Credit Losses $17,850 = $222,150 </div> <p> <strong> Net Accounts Receivable: $222,150 </strong> </p> <h3> Step 4 — Write-Off </h3> <p> A specific account write-off reduces both Accounts Receivable and the Allowance for Credit Losses by the same amount. </p> <div class=\"formula-box\"> Accounts Receivable ↓ $2,000 &nbsp;&nbsp;and&nbsp;&nbsp; Allowance for Credit Losses ↓ $2,000 </div> <p> Therefore, assuming the write-off is charged against an existing allowance, the immediate effect on net Accounts Receivable is <strong>$0</strong>. </p> </div>",
+  "courseId": "far",
+  "difficulty": "advanced",
+  "metadata": {
+    "section": "far",
+    "blueprintYear": 2026,
+    "areaId": "far-II",
+    "groupId": "module-2",
+    "topicId": "far-inventory",
+    "taskIds": [
+      "far-inventory.task-1",
+      "far-inventory.task-2",
+      "far-inventory.task-3"
+    ],
+    "skill": "analysis",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      }
+    ]
+  }
+}

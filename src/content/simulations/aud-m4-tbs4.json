@@ -1,0 +1,158 @@
+{
+  "id": "aud-m4-tbs4",
+  "courseId": "aud",
+  "moduleId": 4,
+  "number": 4,
+  "title": "Choose the appropriate assurance description",
+  "html": "<div class=\"course-intro-card\"><h2>Choose the appropriate assurance description</h2><p>Review four proposed report descriptions before they are sent to clients.</p></div><section class=\"quiz-card\"><h3>Required responses</h3><div class=\"tbs-question\"><label for=\"aud-m4-tbs4-f1\">Description for A</label><select id=\"aud-m4-tbs4-f1\"><option value=\"Limited assurance\">Limited assurance</option><option value=\"Absolute assurance\">Absolute assurance</option><option value=\"No possible follow-up procedures\">No possible follow-up procedures</option><option value=\"A guarantee of future solvency\">A guarantee of future solvency</option></select></div><div class=\"tbs-question\"><label for=\"aud-m4-tbs4-f2\">Description for B</label><select id=\"aud-m4-tbs4-f2\"><option value=\"No assurance\">No assurance</option><option value=\"Reasonable assurance\">Reasonable assurance</option><option value=\"Absolute assurance\">Absolute assurance</option><option value=\"An audit opinion\">An audit opinion</option></select></div><div class=\"tbs-question\"><label for=\"aud-m4-tbs4-f3\">Description for C</label><select id=\"aud-m4-tbs4-f3\"><option value=\"Reasonable assurance\">Reasonable assurance</option><option value=\"A guarantee of every outcome\">A guarantee of every outcome</option><option value=\"No assurance in every examination\">No assurance in every examination</option><option value=\"Only a list of findings with no conclusion\">Only a list of findings with no conclusion</option></select></div><div class=\"tbs-question\"><label for=\"aud-m4-tbs4-f4\">Description for D</label><select id=\"aud-m4-tbs4-f4\"><option value=\"Procedures performed and findings\">Procedures performed and findings</option><option value=\"An opinion on all federal compliance\">An opinion on all federal compliance</option><option value=\"A guarantee of grant renewal\">A guarantee of grant renewal</option><option value=\"A full financial-statement audit opinion\">A full financial-statement audit opinion</option></select></div></section>",
+  "metadata": {
+    "section": "aud",
+    "blueprintYear": 2026,
+    "areaId": "aud-IV",
+    "groupId": "C-D-E-F-G",
+    "topicId": "aud-reporting-engagements",
+    "taskIds": [
+      "aud-reporting-engagements.task-1",
+      "aud-reporting-engagements.task-2",
+      "aud-reporting-engagements.task-3"
+    ],
+    "skill": "analysis",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      },
+      {
+        "title": "AICPA auditing standards",
+        "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+      },
+      {
+        "title": "PCAOB standards",
+        "url": "https://pcaobus.org/oversight/standards"
+      }
+    ]
+  },
+  "difficulty": "advanced",
+  "fields": [
+    {
+      "id": "aud-m4-tbs4-f1",
+      "label": "Description for A",
+      "type": "select",
+      "options": [
+        {
+          "value": "Limited assurance",
+          "label": "Limited assurance"
+        },
+        {
+          "value": "Absolute assurance",
+          "label": "Absolute assurance"
+        },
+        {
+          "value": "No possible follow-up procedures",
+          "label": "No possible follow-up procedures"
+        },
+        {
+          "value": "A guarantee of future solvency",
+          "label": "A guarantee of future solvency"
+        }
+      ],
+      "correct": "Limited assurance",
+      "explanation": "A review provides limited assurance.",
+      "topicId": "aud-reporting-engagements"
+    },
+    {
+      "id": "aud-m4-tbs4-f2",
+      "label": "Description for B",
+      "type": "select",
+      "options": [
+        {
+          "value": "No assurance",
+          "label": "No assurance"
+        },
+        {
+          "value": "Reasonable assurance",
+          "label": "Reasonable assurance"
+        },
+        {
+          "value": "Absolute assurance",
+          "label": "Absolute assurance"
+        },
+        {
+          "value": "An audit opinion",
+          "label": "An audit opinion"
+        }
+      ],
+      "correct": "No assurance",
+      "explanation": "A compilation provides no assurance.",
+      "topicId": "aud-reporting-engagements"
+    },
+    {
+      "id": "aud-m4-tbs4-f3",
+      "label": "Description for C",
+      "type": "select",
+      "options": [
+        {
+          "value": "Reasonable assurance",
+          "label": "Reasonable assurance"
+        },
+        {
+          "value": "A guarantee of every outcome",
+          "label": "A guarantee of every outcome"
+        },
+        {
+          "value": "No assurance in every examination",
+          "label": "No assurance in every examination"
+        },
+        {
+          "value": "Only a list of findings with no conclusion",
+          "label": "Only a list of findings with no conclusion"
+        }
+      ],
+      "correct": "Reasonable assurance",
+      "explanation": "An examination provides reasonable assurance against suitable criteria.",
+      "topicId": "aud-reporting-engagements"
+    },
+    {
+      "id": "aud-m4-tbs4-f4",
+      "label": "Description for D",
+      "type": "select",
+      "options": [
+        {
+          "value": "Procedures performed and findings",
+          "label": "Procedures performed and findings"
+        },
+        {
+          "value": "An opinion on all federal compliance",
+          "label": "An opinion on all federal compliance"
+        },
+        {
+          "value": "A guarantee of grant renewal",
+          "label": "A guarantee of grant renewal"
+        },
+        {
+          "value": "A full financial-statement audit opinion",
+          "label": "A full financial-statement audit opinion"
+        }
+      ],
+      "correct": "Procedures performed and findings",
+      "explanation": "Agreed-upon procedures report procedures and findings, not broader assurance.",
+      "topicId": "aud-reporting-engagements"
+    }
+  ],
+  "exhibits": [
+    {
+      "id": "aud-m4-tbs4-ex1",
+      "title": "Engagement descriptions",
+      "html": "<p>A: A historical financial-statement review. B: A compilation with the required independence disclosure. C: An examination of subject matter against suitable criteria. D: Agreed-upon procedures on specified grant expenditures.</p>"
+    },
+    {
+      "id": "aud-m4-tbs4-ex2",
+      "title": "Reporting objective",
+      "html": "<p>Select the assurance or reporting description supported by each service. Do not expand the scope beyond the engagement performed.</p>"
+    }
+  ],
+  "explanation": "<h3>Description for A</h3><p>A review provides limited assurance.</p><h3>Description for B</h3><p>A compilation provides no assurance.</p><h3>Description for C</h3><p>An examination provides reasonable assurance against suitable criteria.</p><h3>Description for D</h3><p>Agreed-upon procedures report procedures and findings, not broader assurance.</p>"
+}

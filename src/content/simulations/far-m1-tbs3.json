@@ -1,0 +1,114 @@
+{
+  "id": "far-m1-tbs3",
+  "moduleId": 1,
+  "number": 3,
+  "title": "TBS 3 · Accounting Changes & Errors",
+  "fields": [
+    {
+      "id": "tbs3-q1",
+      "label": "1. A company revises the estimated useful life of equipment because of new information.",
+      "type": "select",
+      "options": [
+        {
+          "value": "Retrospective",
+          "label": "Retrospective"
+        },
+        {
+          "value": "Prospective",
+          "label": "Prospective"
+        },
+        {
+          "value": "Error Correction",
+          "label": "Error Correction"
+        }
+      ],
+      "correct": "Prospective"
+    },
+    {
+      "id": "tbs3-q2",
+      "label": "2. A company changes from one acceptable inventory accounting principle to another, and retrospective application is practicable.",
+      "type": "select",
+      "options": [
+        {
+          "value": "Retrospective",
+          "label": "Retrospective"
+        },
+        {
+          "value": "Prospective",
+          "label": "Prospective"
+        },
+        {
+          "value": "Error Correction",
+          "label": "Error Correction"
+        }
+      ],
+      "correct": "Retrospective"
+    },
+    {
+      "id": "tbs3-q3",
+      "label": "3. Management discovers that depreciation expense was incorrectly omitted in the prior year.",
+      "type": "select",
+      "options": [
+        {
+          "value": "Retrospective",
+          "label": "Retrospective"
+        },
+        {
+          "value": "Prospective",
+          "label": "Prospective"
+        },
+        {
+          "value": "Error Correction",
+          "label": "Error Correction"
+        }
+      ],
+      "correct": "Error Correction"
+    },
+    {
+      "id": "tbs3-q4",
+      "label": "4. The reporting entity changes because financial statements now include an entity that was previously presented separately.",
+      "type": "select",
+      "options": [
+        {
+          "value": "Retrospective",
+          "label": "Retrospective"
+        },
+        {
+          "value": "Prospective",
+          "label": "Prospective"
+        },
+        {
+          "value": "Error Correction",
+          "label": "Error Correction"
+        }
+      ],
+      "correct": "Retrospective"
+    }
+  ],
+  "html": "<section class=\"lesson-page\"> <div class=\"course-intro-card\"> <span class=\"exam-badge\"> TASK-BASED SIMULATION </span> <h2> Accounting Changes &amp; Error Corrections </h2> <p> Determine the proper accounting treatment for changes in principle, estimates, reporting entities, and prior-period errors. </p> </div> <div class=\"tbs-data-card\"> <h3> Scenario </h3> <p> For each independent situation below, select the appropriate accounting treatment. </p> </div> <div class=\"tbs-data-card\"> <div class=\"tbs-question\"> <label for=\"tbs3-q1\"> 1. A company revises the estimated useful life of equipment because of new information. </label> <select id=\"tbs3-q1\" class=\"tbs-input\"> <option value=\"\"> Select treatment </option> <option value=\"Retrospective\"> Retrospective </option> <option value=\"Prospective\"> Prospective </option> <option value=\"Error Correction\"> Error Correction </option> </select> </div> <div class=\"tbs-question\"> <label for=\"tbs3-q2\"> 2. A company changes from one acceptable inventory accounting principle to another, and retrospective application is practicable. </label> <select id=\"tbs3-q2\" class=\"tbs-input\"> <option value=\"\"> Select treatment </option> <option value=\"Retrospective\"> Retrospective </option> <option value=\"Prospective\"> Prospective </option> <option value=\"Error Correction\"> Error Correction </option> </select> </div> <div class=\"tbs-question\"> <label for=\"tbs3-q3\"> 3. Management discovers that depreciation expense was incorrectly omitted in the prior year. </label> <select id=\"tbs3-q3\" class=\"tbs-input\"> <option value=\"\"> Select treatment </option> <option value=\"Retrospective\"> Retrospective </option> <option value=\"Prospective\"> Prospective </option> <option value=\"Error Correction\"> Error Correction </option> </select> </div> <div class=\"tbs-question\"> <label for=\"tbs3-q4\"> 4. The reporting entity changes because financial statements now include an entity that was previously presented separately. </label> <select id=\"tbs3-q4\" class=\"tbs-input\"> <option value=\"\"> Select treatment </option> <option value=\"Retrospective\"> Retrospective </option> <option value=\"Prospective\"> Prospective </option> <option value=\"Error Correction\"> Error Correction </option> </select> </div> </div> <div id=\"tbs3-result\"></div> </section>",
+  "explanation": "<div class=\"tbs-results\"> <div class=\"key-points\"> <h3> Correct Answers </h3> <p> 1. Change in estimate: <strong>Prospective</strong> </p> <p> 2. Change in accounting principle: <strong>Retrospective</strong> </p> <p> 3. Prior-year omitted depreciation: <strong>Error Correction</strong> </p> <p> 4. Change in reporting entity: <strong>Retrospective</strong> </p> </div> <div class=\"example-box\"> <h3> Why? </h3> <p> Changes in accounting estimates are generally handled prospectively. </p> <p> Changes in accounting principles are generally applied retrospectively when required and practicable. </p> <p> Prior-period mistakes are corrected as errors, not treated as new estimates. </p> <p> Changes in reporting entity are generally reflected retrospectively for periods presented. </p> </div> </div>",
+  "courseId": "far",
+  "difficulty": "advanced",
+  "metadata": {
+    "section": "far",
+    "blueprintYear": 2026,
+    "areaId": "far-I",
+    "groupId": "module-1",
+    "topicId": "far-statement-of-changes-in-equity",
+    "taskIds": [
+      "far-statement-of-changes-in-equity.task-1",
+      "far-statement-of-changes-in-equity.task-2",
+      "far-statement-of-changes-in-equity.task-3"
+    ],
+    "skill": "analysis",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      }
+    ]
+  }
+}

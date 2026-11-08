@@ -1,0 +1,113 @@
+{
+  "id": "reg-m4-l3",
+  "courseId": "reg",
+  "moduleId": 4,
+  "number": 3,
+  "title": "Filing Status, Credits, Payments & Return Review",
+  "description": "Identify filing-status facts and related responsibilities.",
+  "url": "/learn/reg/modules/4/lessons/3",
+  "metadata": {
+    "section": "reg",
+    "blueprintYear": 2026,
+    "areaId": "reg-IV",
+    "groupId": "D-E",
+    "topicId": "reg-individual-filing-credits",
+    "taskIds": [
+      "reg-individual-filing-credits.task-1",
+      "reg-individual-filing-credits.task-2",
+      "reg-individual-filing-credits.task-3"
+    ],
+    "skill": "application",
+    "validFrom": "2026-07-01",
+    "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      },
+      {
+        "title": "Internal Revenue Code",
+        "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+      },
+      {
+        "title": "IRS tax publications",
+        "url": "https://www.irs.gov/publications"
+      },
+      {
+        "title": "Circular 230",
+        "url": "https://www.irs.gov/tax-professionals/circular-230-tax-professionals"
+      }
+    ]
+  },
+  "html": "<h2>Learning objectives</h2><ul><li>Identify filing-status facts and related responsibilities.</li><li>Apply refundable and nonrefundable credit mechanics.</li><li>Reconcile total tax, withholding, estimates, and refunds.</li></ul><h2>Understand the concepts</h2><p>Filing status depends on marital and household facts under the applicable rules. Head-of-household status generally requires an unmarried or considered-unmarried taxpayer, a qualifying person, and payment of more than half the cost of maintaining the home, with specific exceptions and definitions. Do not choose a status solely because its rates are favorable. Joint returns generally create joint and several liability, subject to applicable relief provisions.</p><p>A nonrefundable credit generally reduces the relevant tax no lower than zero, while a refundable credit may support a refund beyond that tax. Eligibility, phase-outs, ordering, and limitations depend on the particular credit. Distinguish credits from withholding and estimated payments, which represent tax paid.</p><p>Estimated-tax analysis considers the applicable current-year and prior-year safe harbors, withholding, payment timing, and any annualized-income method. The prior-year percentage can be higher for certain taxpayers. A problem should state the relevant facts and assumptions. A refund or balance due then reconciles total tax after credits with refundable credits and payments.</p><p>Review the return for consistency across source documents, schedules, basis records, filing status, and information reporting. A correct arithmetic total can still rest on the wrong filing status or credit eligibility. Identify missing facts before asserting an available credit or exclusion.</p><div class=\"example-box\"><h3>Credits and payments</h3><p>Tax before credits is $8,000. A permitted nonrefundable credit is $2,500; a permitted refundable credit is $1,000; withholding is $6,000. Ignore other items.</p><ol><li>Tax after the nonrefundable credit is $5,500.</li><li>Refundable credits and withholding total $7,000.</li><li>The refund is $1,500.</li></ol></div><div class=\"key-points\"><h3>Common mistakes to avoid</h3><ul><li>A credit’s label does not establish eligibility.</li><li>A nonrefundable credit generally cannot create negative tax by itself.</li><li>Withholding is a payment, not a deduction from taxable income.</li></ul></div><h2>Apply and connect</h2><p>After solving the worked case, explain which facts determine the result and how a changed assumption would change your conclusion. Use the module questions to test fresh applications, then complete the related simulation before reviewing its solution.</p>",
+  "objectives": [
+    "Identify filing-status facts and related responsibilities.",
+    "Apply refundable and nonrefundable credit mechanics.",
+    "Reconcile total tax, withholding, estimates, and refunds."
+  ],
+  "quiz": {
+    "id": "reg-m4-l3-q1",
+    "courseId": "reg",
+    "moduleId": 4,
+    "lessonId": "reg-m4-l3",
+    "topic": "Filing Status, Credits, Payments & Return Review",
+    "prompt": "Tax before a permitted nonrefundable credit is $2,000 and the credit is $3,000. Ignore carryforwards and other rules. What is tax after that credit?",
+    "choices": [
+      {
+        "id": "reg-m4-l3-q1-a0",
+        "text": "Negative $1,000 automatically."
+      },
+      {
+        "id": "reg-m4-l3-q1-a1",
+        "text": "Zero."
+      },
+      {
+        "id": "reg-m4-l3-q1-a2",
+        "text": "$1,000."
+      },
+      {
+        "id": "reg-m4-l3-q1-a3",
+        "text": "$5,000."
+      }
+    ],
+    "correctChoiceId": "reg-m4-l3-q1-a1",
+    "explanation": "A nonrefundable credit generally reduces the relevant tax only to zero under these assumptions.",
+    "difficulty": "application",
+    "metadata": {
+      "section": "reg",
+      "blueprintYear": 2026,
+      "areaId": "reg-IV",
+      "groupId": "D-E",
+      "topicId": "reg-individual-filing-credits",
+      "taskIds": [
+        "reg-individual-filing-credits.task-1"
+      ],
+      "skill": "application",
+      "validFrom": "2026-07-01",
+      "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        },
+        {
+          "title": "Internal Revenue Code",
+          "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+        },
+        {
+          "title": "IRS tax publications",
+          "url": "https://www.irs.gov/publications"
+        },
+        {
+          "title": "Circular 230",
+          "url": "https://www.irs.gov/tax-professionals/circular-230-tax-professionals"
+        }
+      ]
+    }
+  },
+  "relatedSimulation": "reg-m4-tbs3"
+}

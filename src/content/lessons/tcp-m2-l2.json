@@ -1,0 +1,105 @@
+{
+  "id": "tcp-m2-l2",
+  "courseId": "tcp",
+  "moduleId": 2,
+  "number": 2,
+  "title": "Partnership Transactions, Hot Assets & Basis Adjustments",
+  "description": "Distinguish guaranteed payments from distributions and allocations.",
+  "url": "/learn/tcp/modules/2/lessons/2",
+  "metadata": {
+    "section": "tcp",
+    "blueprintYear": 2026,
+    "areaId": "tcp-II",
+    "groupId": "B",
+    "topicId": "tcp-partnership-advanced-compliance",
+    "taskIds": [
+      "tcp-partnership-advanced-compliance.task-1",
+      "tcp-partnership-advanced-compliance.task-2",
+      "tcp-partnership-advanced-compliance.task-3"
+    ],
+    "skill": "application",
+    "validFrom": "2026-07-01",
+    "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      },
+      {
+        "title": "IRS tax publications",
+        "url": "https://www.irs.gov/publications"
+      },
+      {
+        "title": "Internal Revenue Code",
+        "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+      }
+    ]
+  },
+  "html": "<h2>Learning objectives</h2><ul><li>Distinguish guaranteed payments from distributions and allocations.</li><li>Compute gain on an interest sale including liability relief.</li><li>Evaluate hot-asset character and transferee-specific basis adjustments.</li></ul><h2>Understand the concepts</h2><p>Partnership compliance separates ordinary business income, separately stated items, guaranteed payments, contributions, and distributions. A guaranteed payment is determined without regard to partnership income under the applicable rule; the partnership’s deduction or capitalization and the recipient’s income treatment require their own analysis. It is not simply another label for a cash draw.</p><p>A sale of a partnership interest generally compares amount realized, including applicable liability relief, with outside basis. Section 751 can recharacterize part of the gain attributable to specified hot assets as ordinary. Do not assume all gain from a long-held partnership interest is capital. Use the supplied hot-asset allocation when the problem has already determined it.</p><p>An applicable Section 754 election or mandatory adjustment rule can create an inside-basis adjustment associated with a transferred interest. A Section 743(b) adjustment is generally transferee-specific rather than an increase available to every partner. Keep outside basis, common inside basis, and special adjustments distinct, and evaluate related distribution and allocation rules.</p><div class=\"example-box\"><h3>Sale of an interest with liability relief</h3><p>A partner receives $100,000 cash and is relieved of $20,000 partnership liabilities. Outside basis is $70,000. The case attributes $15,000 of gain to Section 751 assets.</p><ol><li>Amount realized is $120,000.</li><li>Total gain is $50,000.</li><li>The supplied $15,000 is ordinary; the remaining $35,000 receives the applicable capital treatment under the stated assumptions.</li></ol></div><div class=\"key-points\"><h3>Common mistakes to avoid</h3><ul><li>Liability relief can be part of amount realized.</li><li>Hot-asset rules can change character.</li><li>A transferee-specific adjustment is not automatically shared by all partners.</li></ul></div><h2>Apply and connect</h2><p>After solving the worked case, explain which facts determine the result and how a changed assumption would change your conclusion. Use the module questions to test fresh applications, then complete the related simulation before reviewing its solution.</p>",
+  "objectives": [
+    "Distinguish guaranteed payments from distributions and allocations.",
+    "Compute gain on an interest sale including liability relief.",
+    "Evaluate hot-asset character and transferee-specific basis adjustments."
+  ],
+  "quiz": {
+    "id": "tcp-m2-l2-q1",
+    "courseId": "tcp",
+    "moduleId": 2,
+    "lessonId": "tcp-m2-l2",
+    "topic": "Partnership Transactions, Hot Assets & Basis Adjustments",
+    "prompt": "A partner receives $80,000 cash and $25,000 liability relief for an interest with $60,000 basis. What is total gain?",
+    "choices": [
+      {
+        "id": "tcp-m2-l2-q1-a0",
+        "text": "$20,000."
+      },
+      {
+        "id": "tcp-m2-l2-q1-a1",
+        "text": "$105,000."
+      },
+      {
+        "id": "tcp-m2-l2-q1-a2",
+        "text": "$45,000."
+      },
+      {
+        "id": "tcp-m2-l2-q1-a3",
+        "text": "$25,000."
+      }
+    ],
+    "correctChoiceId": "tcp-m2-l2-q1-a2",
+    "explanation": "Amount realized is $105,000; subtract $60,000 outside basis.",
+    "difficulty": "application",
+    "metadata": {
+      "section": "tcp",
+      "blueprintYear": 2026,
+      "areaId": "tcp-II",
+      "groupId": "B",
+      "topicId": "tcp-partnership-advanced-compliance",
+      "taskIds": [
+        "tcp-partnership-advanced-compliance.task-1"
+      ],
+      "skill": "application",
+      "validFrom": "2026-07-01",
+      "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        },
+        {
+          "title": "IRS tax publications",
+          "url": "https://www.irs.gov/publications"
+        },
+        {
+          "title": "Internal Revenue Code",
+          "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+        }
+      ]
+    }
+  },
+  "relatedSimulation": "tcp-m2-tbs2"
+}

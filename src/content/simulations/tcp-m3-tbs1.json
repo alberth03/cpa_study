@@ -1,0 +1,91 @@
+{
+  "id": "tcp-m3-tbs1",
+  "courseId": "tcp",
+  "moduleId": 3,
+  "number": 1,
+  "title": "After-tax entity comparison",
+  "html": "<div class=\"course-intro-card\"><h2>After-tax entity comparison</h2><p>Compare two simplified structures using only the supplied rates and assumptions.</p></div><section class=\"quiz-card\"><h3>Required responses</h3><div class=\"tbs-question\"><label for=\"tcp-m3-tbs1-f1\">C corporation entity tax</label><input id=\"tcp-m3-tbs1-f1\" type=\"text\"></div><div class=\"tbs-question\"><label for=\"tcp-m3-tbs1-f2\">C corporation shareholder dividend tax</label><input id=\"tcp-m3-tbs1-f2\" type=\"text\"></div><div class=\"tbs-question\"><label for=\"tcp-m3-tbs1-f3\">After-tax owner cash under the C corporation model</label><input id=\"tcp-m3-tbs1-f3\" type=\"text\"></div><div class=\"tbs-question\"><label for=\"tcp-m3-tbs1-f4\">After-tax owner cash under the pass-through model</label><input id=\"tcp-m3-tbs1-f4\" type=\"text\"></div></section>",
+  "metadata": {
+    "section": "tcp",
+    "blueprintYear": 2026,
+    "areaId": "tcp-III",
+    "groupId": "A",
+    "topicId": "tcp-entity-selection",
+    "taskIds": [
+      "tcp-entity-selection.task-1",
+      "tcp-entity-selection.task-2",
+      "tcp-entity-selection.task-3"
+    ],
+    "skill": "analysis",
+    "validFrom": "2026-07-01",
+    "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      },
+      {
+        "title": "IRS tax publications",
+        "url": "https://www.irs.gov/publications"
+      },
+      {
+        "title": "Internal Revenue Code",
+        "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+      }
+    ]
+  },
+  "difficulty": "advanced",
+  "fields": [
+    {
+      "id": "tcp-m3-tbs1-f1",
+      "label": "C corporation entity tax",
+      "type": "number",
+      "options": [],
+      "correct": 63000,
+      "explanation": "$300,000 × 21% = $63,000.",
+      "topicId": "tcp-entity-selection"
+    },
+    {
+      "id": "tcp-m3-tbs1-f2",
+      "label": "C corporation shareholder dividend tax",
+      "type": "number",
+      "options": [],
+      "correct": 35550,
+      "explanation": "($300,000 − $63,000) × 15% = $35,550.",
+      "topicId": "tcp-entity-selection"
+    },
+    {
+      "id": "tcp-m3-tbs1-f3",
+      "label": "After-tax owner cash under the C corporation model",
+      "type": "number",
+      "options": [],
+      "correct": 201450,
+      "explanation": "$300,000 − $63,000 − $35,550 = $201,450.",
+      "topicId": "tcp-entity-selection"
+    },
+    {
+      "id": "tcp-m3-tbs1-f4",
+      "label": "After-tax owner cash under the pass-through model",
+      "type": "number",
+      "options": [],
+      "correct": 210000,
+      "explanation": "$300,000 × 70% = $210,000 under the simplified assumptions.",
+      "topicId": "tcp-entity-selection"
+    }
+  ],
+  "exhibits": [
+    {
+      "id": "tcp-m3-tbs1-ex1",
+      "title": "C corporation alternative",
+      "html": "<p>Income $300,000; entity tax 21%; all after-tax earnings distributed; owner dividend rate 15%.</p>"
+    },
+    {
+      "id": "tcp-m3-tbs1-ex2",
+      "title": "Pass-through alternative",
+      "html": "<p>The same $300,000 is taxed once at the owner’s supplied 30% rate and fully distributed. Ignore state, employment, QBI, and all other effects.</p>"
+    }
+  ],
+  "explanation": "<h3>C corporation entity tax</h3><p>$300,000 × 21% = $63,000.</p><h3>C corporation shareholder dividend tax</h3><p>($300,000 − $63,000) × 15% = $35,550.</p><h3>After-tax owner cash under the C corporation model</h3><p>$300,000 − $63,000 − $35,550 = $201,450.</p><h3>After-tax owner cash under the pass-through model</h3><p>$300,000 × 70% = $210,000 under the simplified assumptions.</p>"
+}

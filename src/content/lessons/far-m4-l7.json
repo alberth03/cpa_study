@@ -1,0 +1,88 @@
+{
+  "id": "far-m4-l7",
+  "courseId": "far",
+  "moduleId": 4,
+  "number": 7,
+  "title": "Government-Wide Financial Statements",
+  "description": "Learn government-wide reporting, governmental and business-type activities, and the economic resources measurement focus.",
+  "url": "/learn/far/modules/4/lessons/7",
+  "html": "<h2> Government-Wide Financial Statements </h2> <p> Government-wide financial statements provide a broad view of a state or local government's financial position and operating results. </p> <p> They use: </p> <div class=\"formula-box\"> ECONOMIC RESOURCES MEASUREMENT FOCUS + ACCRUAL BASIS OF ACCOUNTING </div> <h2> Two Types of Activities </h2> <p> Government-wide statements generally report: </p> <div class=\"financial-example\"> <div> <span> Governmental Activities </span> <strong> Activities Primarily Supported by Taxes and Similar Revenues </strong> </div> <div> <span> Business-Type Activities </span> <strong> Activities Primarily Financed Through User Charges </strong> </div> </div> <h2> Governmental Activities </h2> <p> Governmental activities generally include traditional government services such as: </p> <div class=\"key-points\"> <ul> <li> Public safety </li> <li> General administration </li> <li> Public works </li> <li> Parks and recreation </li> </ul> </div> <h2> Business-Type Activities </h2> <p> Business-type activities generally resemble commercial operations and are commonly financed through fees charged to users. </p> <div class=\"example-box\"> <strong> Examples </strong> <p> Government-owned water utilities, transit systems, and similar operations may be reported as business-type activities. </p> </div> <h2> What About Fiduciary Activities? </h2> <p> Fiduciary activities are generally <strong>not included</strong> in the government-wide financial statements. </p> <div class=\"formula-box\"> GOVERNMENT-WIDE Governmental Activities ✓ Business-Type Activities ✓ Fiduciary Activities ✗ </div> <h2> Statement of Net Position </h2> <p> The statement of net position presents the government's assets, deferred outflows, liabilities, deferred inflows, and net position. </p> <div class=\"formula-box\"> ASSETS + DEFERRED OUTFLOWS − LIABILITIES − DEFERRED INFLOWS = NET POSITION </div> <h2> Capital Assets </h2> <p> Unlike governmental fund statements, government-wide statements generally report capital assets used in governmental activities. </p> <p> Depreciable capital assets are generally depreciated over their useful lives. </p> <div class=\"example-box\"> <strong> Example </strong> <p> A governmental fund purchases equipment for <strong>$200,000</strong>. </p> <p> In the governmental fund, the purchase is generally reported as an expenditure. </p> <p> At the government-wide level, the equipment is generally capitalized and depreciated. </p> </div> <h2> Long-Term Liabilities </h2> <p> Government-wide statements also report long-term liabilities related to governmental activities. </p> <p> This includes general long-term debt that governmental funds generally do not report as a fund liability. </p> <div class=\"financial-example\"> <div> <span> Governmental Fund </span> <strong> General Long-Term Debt Generally Not Reported </strong> </div> <div> <span> Government-Wide </span> <strong> Long-Term Liability Reported </strong> </div> </div> <h2> Statement of Activities </h2> <p> The other major government-wide statement is the <strong>Statement of Activities</strong>. </p> <p> It reports the cost of governmental functions and programs and the extent to which those costs are financed by program revenues. </p> <h2> Program Revenues </h2> <p> Program revenues are directly associated with particular functions or programs. </p> <div class=\"key-points\"> <h3> Examples </h3> <ul> <li> Charges for services </li> <li> Operating grants and contributions </li> <li> Capital grants and contributions </li> </ul> </div> <h2> General Revenues </h2> <p> Revenues that are not directly associated with a particular program are generally reported separately as general revenues. </p> <div class=\"example-box\"> <strong> Common Example </strong> <p> Taxes that are not restricted to a particular program are generally reported as general revenues rather than program revenues. </p> </div> <h2> Net Expense of a Function </h2> <p> Suppose a government program reports: </p> <div class=\"financial-example\"> <div> <span>Program Expenses</span> <strong>$500,000</strong> </div> <div> <span>Charges for Services</span> <strong>$120,000</strong> </div> <div> <span>Program Grants</span> <strong>$80,000</strong> </div> </div> <div class=\"formula-box\"> $500,000 − $120,000 − $80,000 = $300,000 NET EXPENSE </div> <h2> Governmental Fund vs. Government-Wide </h2> <div class=\"financial-example\"> <div> <span> Governmental Fund </span> <strong> Current Financial Resources + Modified Accrual </strong> </div> <div> <span> Government-Wide </span> <strong> Economic Resources + Accrual </strong> </div> </div> <div class=\"key-points\"> <h3> Government-Wide Includes </h3> <ul> <li> Capital assets </li> <li> Depreciation </li> <li> Long-term liabilities </li> <li> Governmental activities </li> <li> Business-type activities </li> </ul> </div> <h2> CPA Memory Rule </h2> <div class=\"formula-box\"> GOVERNMENT-WIDE = BIG PICTURE ACCRUAL + ECONOMIC RESOURCES CAPITAL ASSETS ✓ LONG-TERM DEBT ✓ FIDUCIARY ✗ </div> <h2> Key Takeaway </h2> <p> Government-wide statements convert the focus from short-term financial resources to the government's overall economic position. </p>",
+  "quiz": {
+    "id": "far-m4-l7-check",
+    "courseId": "far",
+    "moduleId": 4,
+    "lessonId": "far-m4-l7",
+    "topic": "General review",
+    "prompt": "Which item is generally reported in the government-wide financial statements but not as an asset or long-term liability in governmental fund financial statements?",
+    "choices": [
+      {
+        "id": "far-m4-l7-check-a0",
+        "text": "General capital assets and general long-term liabilities"
+      },
+      {
+        "id": "far-m4-l7-check-a1",
+        "text": "Current cash and accounts payable"
+      },
+      {
+        "id": "far-m4-l7-check-a2",
+        "text": "Restricted governmental fund resources only"
+      },
+      {
+        "id": "far-m4-l7-check-a3",
+        "text": "Fiduciary activities"
+      }
+    ],
+    "correctChoiceId": "far-m4-l7-check-a0",
+    "explanation": "Government-wide statements use the economic resources measurement focus and generally report capital assets and long-term liabilities associated with governmental activities. Governmental funds use the current financial resources measurement focus.",
+    "difficulty": "foundation",
+    "metadata": {
+      "section": "far",
+      "blueprintYear": 2026,
+      "areaId": "far-I",
+      "groupId": "module-4",
+      "topicId": "far-government-wide-financial-statements",
+      "taskIds": [
+        "far-government-wide-financial-statements.task-1",
+        "far-government-wide-financial-statements.task-2",
+        "far-government-wide-financial-statements.task-3"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": true,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "section": "far",
+    "blueprintYear": 2026,
+    "areaId": "far-I",
+    "groupId": "module-4",
+    "topicId": "far-government-wide-financial-statements",
+    "taskIds": [
+      "far-government-wide-financial-statements.task-1",
+      "far-government-wide-financial-statements.task-2",
+      "far-government-wide-financial-statements.task-3"
+    ],
+    "skill": "application",
+    "validFrom": "2026-01-01",
+    "supplementary": true,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      }
+    ]
+  },
+  "objectives": [
+    "Explain government-wide financial statements and its underlying principles.",
+    "Apply the topic to a financial-reporting scenario.",
+    "Evaluate common errors and their financial-statement effects."
+  ]
+}

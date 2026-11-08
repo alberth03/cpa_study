@@ -1,0 +1,88 @@
+{
+  "id": "far-m1-l10",
+  "courseId": "far",
+  "moduleId": 1,
+  "number": 10,
+  "title": "Special-Purpose Frameworks",
+  "description": "Understand financial statements prepared using cash basis, modified cash basis, tax basis and other special-purpose frameworks.",
+  "url": "/learn/far/modules/1/lessons/10",
+  "html": "<h2> What is a special-purpose framework? </h2> <p> Financial statements are often prepared under U.S. GAAP, but U.S. GAAP is not the only framework that may be used for financial reporting. </p> <p> Certain entities may prepare financial statements using another appropriate financial reporting framework designed to meet a particular reporting purpose. </p> <div class=\"key-points\"> <h3>Common special-purpose frameworks</h3> <ul> <li> Cash basis </li> <li> Tax basis </li> <li> Regulatory basis </li> <li> Contractual basis </li> </ul> </div> <div class=\"key-points\"> <h3>CPA mindset</h3> <p> When you see special-purpose financial statements, first determine: </p> <ol> <li> What framework is being used? </li> <li> How does that framework recognize revenues, expenses, assets and liabilities? </li> <li> How does it differ from U.S. GAAP? </li> <li> What adjustments would be needed to convert from one basis to another? </li> </ol> </div> <h2> Cash-basis accounting </h2> <p> Under a pure cash basis, revenues are generally recognized when cash is received and expenses when cash is paid. </p> <p> This differs significantly from accrual accounting, which recognizes economic events without requiring the related cash movement to occur at the same time. </p> <div class=\"comparison-grid\"> <div class=\"comparison-card\"> <h3> Cash Basis </h3> <p> Focuses primarily on cash receipts and payments. </p> </div> <div class=\"comparison-card\"> <h3> Accrual Basis </h3> <p> Recognizes revenues and expenses according to the applicable recognition requirements, regardless of the timing of cash. </p> </div> </div> <h2> Cash versus accrual revenue </h2> <div class=\"example-box\"> <h3>Example</h3> <p> A company performs <strong>$20,000 of services</strong> in December but will not collect the customer until January. </p> <h3> Cash basis </h3> <p> No December cash receipt occurred. </p> <h3> Accrual basis </h3> <p> Assuming the revenue-recognition requirements are satisfied, the company recognizes the revenue in December. </p> <div class=\"journal-entry\"> <div class=\"journal-row journal-header\"> <div>Account</div> <div>Debit</div> <div>Credit</div> </div> <div class=\"journal-row\"> <div>Accounts Receivable</div> <div>$20,000</div> <div>—</div> </div> <div class=\"journal-row credit-row\"> <div>Service Revenue</div> <div>—</div> <div>$20,000</div> </div> </div> </div> <h2> Converting cash-basis revenue to accrual-basis revenue </h2> <p> CPA questions may give you cash collections and changes in receivables and ask you to determine accrual-basis revenue. </p> <div class=\"formula-box\"> Accrual Revenue = Cash Collected + Ending Accounts Receivable − Beginning Accounts Receivable </div> <div class=\"example-box\"> <p> Cash collected from customers: <strong>$500,000</strong> </p> <p> Beginning Accounts Receivable: <strong>$40,000</strong> </p> <p> Ending Accounts Receivable: <strong>$65,000</strong> </p> <div class=\"formula-box\"> $500,000 + $65,000 − $40,000 = $525,000 </div> <p> Accrual-basis revenue is <strong>$525,000</strong>. </p> </div> <h2> Why the receivable adjustment works </h2> <p> If Accounts Receivable increases, the company recognized more revenue than it collected in cash. </p> <p> Therefore, an increase in receivables is added to cash collections when converting to accrual-basis revenue. </p> <div class=\"key-points\"> <ul> <li> A/R increases → add the increase </li> <li> A/R decreases → subtract the decrease </li> </ul> </div> <h2> Cash versus accrual expenses </h2> <p> Cash payments also do not necessarily equal accrual-basis expenses. </p> <p> Accounts payable and prepaid expenses are common adjustments. </p> <h2> Accounts payable adjustment </h2> <div class=\"formula-box\"> Accrual Expense = Cash Paid + Ending Accounts Payable − Beginning Accounts Payable </div> <div class=\"example-box\"> <p> Cash paid for operating expenses: <strong>$180,000</strong> </p> <p> Beginning Accounts Payable: <strong>$25,000</strong> </p> <p> Ending Accounts Payable: <strong>$37,000</strong> </p> <div class=\"formula-box\"> $180,000 + $37,000 − $25,000 = $192,000 </div> <p> Accrual-basis expense is <strong>$192,000</strong>. </p> </div> <div class=\"key-points\"> <h3>Reasoning</h3> <p> An increase in Accounts Payable means some expenses were recognized but have not yet been paid. </p> <p> Therefore, those unpaid expenses must be added when converting cash payments to accrual expense. </p> </div> <h2> Prepaid expense adjustment </h2> <p> Cash paid does not automatically become an expense immediately. </p> <p> Some payments create assets because the related benefit applies to a future period. </p> <div class=\"formula-box\"> Accrual Expense = Cash Paid + Beginning Prepaid Expense − Ending Prepaid Expense </div> <div class=\"example-box\"> <p> Cash paid for insurance: <strong>$60,000</strong> </p> <p> Beginning prepaid insurance: <strong>$8,000</strong> </p> <p> Ending prepaid insurance: <strong>$14,000</strong> </p> <div class=\"formula-box\"> $60,000 + $8,000 − $14,000 = $54,000 </div> <p> Accrual-basis insurance expense is <strong>$54,000</strong>. </p> </div> <h2> Combined expense conversion </h2> <p> Some CPA problems combine payable and prepaid adjustments. </p> <div class=\"formula-box\"> Accrual Expense = Cash Paid + Ending Payable − Beginning Payable + Beginning Prepaid − Ending Prepaid </div> <div class=\"example-box\"> <p> Cash paid: <strong>$200,000</strong> </p> <p> Accounts Payable increases: <strong>$15,000</strong> </p> <p> Prepaid Expense increases: <strong>$6,000</strong> </p> <div class=\"formula-box\"> $200,000 + $15,000 − $6,000 = $209,000 </div> <p> Accrual-basis expense is <strong>$209,000</strong>. </p> </div> <h2> Tax-basis financial statements </h2> <p> Tax-basis financial statements generally use recognition and measurement concepts based on applicable income-tax rules rather than U.S. GAAP. </p> <p> Because tax accounting and financial accounting can recognize items differently, tax-basis amounts may differ materially from U.S. GAAP amounts. </p> <div class=\"key-points\"> <h3>Differences can arise from</h3> <ul> <li> Revenue recognition </li> <li> Depreciation </li> <li> Expense deductibility </li> <li> Capitalization requirements </li> <li> Other tax-specific recognition and measurement rules </li> </ul> </div> <div class=\"key-points\"> <h3>CPA trap</h3> <p> Tax-basis financial statements are not simply U.S. GAAP statements with income tax expense added. </p> <p> The underlying measurement basis itself can differ. </p> </div> <h2> Regulatory basis </h2> <p> Some entities operate in industries in which a regulatory authority prescribes a financial reporting framework for particular purposes. </p> <p> Financial statements prepared according to such requirements may constitute regulatory-basis financial statements. </p> <h2> Contractual basis </h2> <p> Financial statements may also be prepared according to accounting requirements specified in a contractual agreement. </p> <div class=\"example-box\"> <p> A lending agreement might define particular financial measurements or reporting requirements. </p> <p> Statements prepared according to those contractual provisions may use a contractual basis of accounting. </p> </div> <h2> Special-purpose does not mean incorrect </h2> <p> A financial statement prepared using a special-purpose framework is not automatically wrong merely because it differs from U.S. GAAP. </p> <p> The key is identifying the framework being used and evaluating the statements according to that framework. </p> <div class=\"key-points\"> <h3>CPA trap</h3> <p> Do not assume: </p> <div class=\"formula-box\"> Different from GAAP = Error </div> <p> A legitimate special-purpose framework intentionally may produce different recognition or measurement. </p> </div> <h2> Cash-to-accrual conversion framework </h2> <div class=\"financial-example\"> <div> <span> Accounts Receivable ↑ </span> <strong> Revenue ↑ </strong> </div> <div> <span> Accounts Receivable ↓ </span> <strong> Revenue ↓ </strong> </div> <div> <span> Accounts Payable ↑ </span> <strong> Expense ↑ </strong> </div> <div> <span> Accounts Payable ↓ </span> <strong> Expense ↓ </strong> </div> <div> <span> Prepaid Expense ↑ </span> <strong> Expense ↓ </strong> </div> <div> <span> Prepaid Expense ↓ </span> <strong> Expense ↑ </strong> </div> </div> <h2> Worked CPA-style conversion </h2> <p> A cash-basis company reports <strong>$620,000 of customer cash receipts</strong>. </p> <p> Accounts Receivable: </p> <div class=\"financial-example\"> <div> <span> Beginning A/R </span> <strong> $55,000 </strong> </div> <div> <span> Ending A/R </span> <strong> $82,000 </strong> </div> </div> <h3> Step 1 — Calculate the increase </h3> <div class=\"formula-box\"> $82,000 − $55,000 = $27,000 increase in A/R </div> <h3> Step 2 — Convert cash receipts to accrual revenue </h3> <div class=\"formula-box\"> $620,000 + $27,000 = $647,000 </div> <p> Accrual-basis revenue is <strong>$647,000</strong>. </p> <h2> What you should know after this lesson </h2> <div class=\"key-points\"> <ul> <li> Identify common special-purpose frameworks. </li> <li> Distinguish cash-basis accounting from accrual accounting. </li> <li> Convert cash collections into accrual-basis revenue. </li> <li> Convert cash payments into accrual-basis expenses. </li> <li> Correctly analyze Accounts Receivable, Accounts Payable and prepaid accounts. </li> <li> Understand the general purpose of tax-basis financial statements. </li> <li> Recognize regulatory and contractual frameworks. </li> <li> Understand that a legitimate non-GAAP framework is not automatically an accounting error. </li> </ul> </div>",
+  "quiz": {
+    "id": "far-m1-l10-check",
+    "courseId": "far",
+    "moduleId": 1,
+    "lessonId": "far-m1-l10",
+    "topic": "General review",
+    "prompt": "A company using the cash basis collected $750,000 from customers during the year. Accounts Receivable was $60,000 at the beginning of the year and $95,000 at year-end. What amount of revenue would generally be recognized when converting these amounts to the accrual basis?",
+    "choices": [
+      {
+        "id": "far-m1-l10-check-a0",
+        "text": "$785,000"
+      },
+      {
+        "id": "far-m1-l10-check-a1",
+        "text": "$715,000"
+      },
+      {
+        "id": "far-m1-l10-check-a2",
+        "text": "$750,000"
+      },
+      {
+        "id": "far-m1-l10-check-a3",
+        "text": "$845,000"
+      }
+    ],
+    "correctChoiceId": "far-m1-l10-check-a0",
+    "explanation": "Accounts Receivable increased by $35,000 ($95,000 − $60,000). This means accrual-basis revenue exceeded customer cash collections by $35,000. Therefore, accrual-basis revenue is $750,000 + $35,000 = $785,000.",
+    "difficulty": "foundation",
+    "metadata": {
+      "section": "far",
+      "blueprintYear": 2026,
+      "areaId": "far-I",
+      "groupId": "module-1",
+      "topicId": "far-special-purpose-frameworks",
+      "taskIds": [
+        "far-special-purpose-frameworks.task-1",
+        "far-special-purpose-frameworks.task-2",
+        "far-special-purpose-frameworks.task-3"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "section": "far",
+    "blueprintYear": 2026,
+    "areaId": "far-I",
+    "groupId": "module-1",
+    "topicId": "far-special-purpose-frameworks",
+    "taskIds": [
+      "far-special-purpose-frameworks.task-1",
+      "far-special-purpose-frameworks.task-2",
+      "far-special-purpose-frameworks.task-3"
+    ],
+    "skill": "application",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      }
+    ]
+  },
+  "objectives": [
+    "Explain special-purpose frameworks and its underlying principles.",
+    "Apply the topic to a financial-reporting scenario.",
+    "Evaluate common errors and their financial-statement effects."
+  ]
+}

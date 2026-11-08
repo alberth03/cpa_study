@@ -1,0 +1,48 @@
+{
+  "id": "far-m2-tbs1",
+  "moduleId": 2,
+  "number": 1,
+  "title": "FAR Module 2 · TBS 1",
+  "fields": [
+    {
+      "id": "far-m2-tbs1-bank",
+      "label": "Adjusted Bank Balance",
+      "type": "number",
+      "options": [],
+      "correct": 86370
+    },
+    {
+      "id": "far-m2-tbs1-book",
+      "label": "Adjusted Book Balance",
+      "type": "number",
+      "options": [],
+      "correct": 86370
+    }
+  ],
+  "html": "<section class=\"exam-page\"> <div class=\"course-intro-card\"> <span class=\"exam-badge\"> TASK-BASED SIMULATION </span> <h2> Bank Reconciliation </h2> <p> Determine the adjusted cash balance by analyzing the bank statement, company records, and reconciling items. </p> </div> <div class=\"quiz-card\"> <h2> Scenario </h2> <p> Falcon Corp.'s general ledger reports a cash balance of <strong>$82,400</strong> at December 31. </p> <p> The bank statement reports a balance of <strong>$92,070</strong>. </p> <p> The following information is available: </p> <div class=\"key-points\"> <ul> <li> Deposits in transit: <strong>$12,500</strong> </li> <li> Outstanding checks: <strong>$18,200</strong> </li> <li> Bank service charge not yet recorded by Falcon: <strong>$300</strong> </li> <li> Customer note collected by the bank, including interest: <strong>$4,000</strong> </li> <li> A check issued by Falcon for <strong>$1,250</strong> was incorrectly recorded in the books as <strong>$1,520</strong>. </li> </ul> </div> <h2> Required </h2> <p> Enter the adjusted bank balance and adjusted book balance. </p> <div class=\"financial-example\"> <div> <span> Adjusted Bank Balance </span> <input type=\"number\" id=\"far-m2-tbs1-bank\" placeholder=\"Enter amount\"> </div> <div> <span> Adjusted Book Balance </span> <input type=\"number\" id=\"far-m2-tbs1-book\" placeholder=\"Enter amount\"> </div> </div> <div id=\"far-m2-tbs1-result\"></div> </div> </section>",
+  "explanation": "<div class=\"result-correct\"> <p> <strong> Correct Adjusted Bank Balance: $86370, </strong> </p> <div class=\"formula-box\"> $92,070 + $12,500 − $18,200 = $86,370 </div> <p> <strong> Correct Adjusted Book Balance: $86,370 </strong> </p> <div class=\"formula-box\"> $82,400 − $300 + $4,000 + $270 = $86,370 </div> <p> The $270 adjustment corrects the company's recording error. Falcon recorded a $1,250 check as $1,520, which understated book cash by $270. </p> </div>",
+  "courseId": "far",
+  "difficulty": "advanced",
+  "metadata": {
+    "section": "far",
+    "blueprintYear": 2026,
+    "areaId": "far-II",
+    "groupId": "module-2",
+    "topicId": "far-cash-cash-equivalents",
+    "taskIds": [
+      "far-cash-cash-equivalents.task-1",
+      "far-cash-cash-equivalents.task-2",
+      "far-cash-cash-equivalents.task-3"
+    ],
+    "skill": "analysis",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      }
+    ]
+  }
+}

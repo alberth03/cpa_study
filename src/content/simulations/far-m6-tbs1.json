@@ -1,0 +1,69 @@
+{
+  "id": "far-m6-tbs1",
+  "moduleId": 6,
+  "number": 1,
+  "title": "FAR Module 6 — TBS 1",
+  "fields": [
+    {
+      "id": "far-m6-tbs1-net-income",
+      "label": "Item 1 — Adjusted Net Income",
+      "type": "number",
+      "options": [],
+      "correct": 376000
+    },
+    {
+      "id": "far-m6-tbs1-ar",
+      "label": "Item 2 — Accounts Receivable Increase",
+      "type": "number",
+      "options": [],
+      "correct": 18000
+    },
+    {
+      "id": "far-m6-tbs1-inventory",
+      "label": "Item 3 — Inventory Increase",
+      "type": "number",
+      "options": [],
+      "correct": 12000
+    },
+    {
+      "id": "far-m6-tbs1-liabilities",
+      "label": "Item 4 — Increase in Liabilities",
+      "type": "number",
+      "options": [],
+      "correct": 44000
+    },
+    {
+      "id": "far-m6-tbs1-assets",
+      "label": "Item 5 — Net Change in Total Assets",
+      "type": "number",
+      "options": [],
+      "correct": 0
+    }
+  ],
+  "html": "<section class=\"exam-page\"> <div class=\"course-intro-card\"> <span class=\"exam-badge\"> TASK-BASED SIMULATION </span> <h2> Year-End Adjustment Analysis </h2> <p> Apex Company reports preliminary net income of <strong>$420,000</strong> before considering the following year-end adjustments. </p> </div> <div class=\"course-intro-card\"> <h3> Year-End Information </h3> <ol> <li> Employees earned <strong>$24,000</strong> of salaries that have not been recorded or paid. </li> <li> The company earned <strong>$18,000</strong> of service revenue that has not yet been recorded or billed. </li> <li> Current-year depreciation expense of <strong>$30,000</strong> has not been recorded. </li> <li> Ending inventory was understated by <strong>$12,000</strong> because inventory on hand was accidentally omitted from the count. </li> <li> A lawsuit loss of <strong>$20,000</strong> is probable and reasonably estimable, but has not yet been recorded. </li> </ol> </div> <div class=\"course-intro-card\"> <h3> Item 1 — Adjusted Net Income </h3> <input id=\"far-m6-tbs1-net-income\" type=\"number\" placeholder=\"Enter amount\"> </div> <div class=\"course-intro-card\"> <h3> Item 2 — Accounts Receivable Increase </h3> <input id=\"far-m6-tbs1-ar\" type=\"number\" placeholder=\"Enter amount\"> </div> <div class=\"course-intro-card\"> <h3> Item 3 — Inventory Increase </h3> <input id=\"far-m6-tbs1-inventory\" type=\"number\" placeholder=\"Enter amount\"> </div> <div class=\"course-intro-card\"> <h3> Item 4 — Increase in Liabilities </h3> <input id=\"far-m6-tbs1-liabilities\" type=\"number\" placeholder=\"Enter amount\"> </div> <div class=\"course-intro-card\"> <h3> Item 5 — Net Change in Total Assets </h3> <input id=\"far-m6-tbs1-assets\" type=\"number\" placeholder=\"Enter amount\"> </div> <div id=\"far-m6-tbs1-result\"> </div> </section>",
+  "explanation": "<div class=\"result-correct\"> <h3> Item 1 — Adjusted Net Income </h3> <div class=\"formula-box\"> <p> Preliminary Net Income: <strong>$420,000</strong> </p> <p> − Accrued Salaries: <strong>$24,000</strong> </p> <p> + Accrued Revenue: <strong>$18,000</strong> </p> <p> − Depreciation: <strong>$30,000</strong> </p> <p> + Inventory Correction: <strong>$12,000</strong> </p> <p> − Lawsuit Loss: <strong>$20,000</strong> </p> <hr> <p> <strong> Adjusted Net Income = $376,000 </strong> </p> </div> <h3> Item 2 — Accounts Receivable </h3> <p> The company earned $18,000 of service revenue that had not yet been recorded or billed. </p> <div class=\"formula-box\"> <p> <strong> Increase in Accounts Receivable = $18,000 </strong> </p> </div> <h3> Item 3 — Inventory </h3> <p> Ending inventory was understated because $12,000 of inventory was omitted from the physical count. </p> <div class=\"formula-box\"> <p> <strong> Increase in Inventory = $12,000 </strong> </p> </div> <h3> Item 4 — Liabilities </h3> <p> Two adjustments create additional liabilities. </p> <div class=\"formula-box\"> <p> Salaries Payable: <strong>+$24,000</strong> </p> <p> Litigation Liability: <strong>+$20,000</strong> </p> <hr> <p> <strong> Total Increase in Liabilities = $44,000 </strong> </p> </div> <h3> Item 5 — Net Effect on Total Assets </h3> <p> Three adjustments affect total assets. </p> <div class=\"formula-box\"> <p> Accounts Receivable: <strong>+$18,000</strong> </p> <p> Depreciation / Accumulated Depreciation: <strong>−$30,000</strong> </p> <p> Inventory: <strong>+$12,000</strong> </p> <hr> <p> <strong> Net Change in Total Assets = $0 </strong> </p> </div> <div class=\"key-points\"> <h3> Integrated Check </h3> <p> Overall, the adjustments decrease net income by <strong>$44,000</strong>. </p> <p> Total assets have <strong>$0 net change</strong>, while total liabilities increase by <strong>$44,000</strong>. </p> <p> Because the $44,000 decrease in net income decreases equity by $44,000: </p> <div class=\"formula-box\"> <p> Change in Assets: <strong>$0</strong> </p> <p> Change in Liabilities: <strong>+$44,000</strong> </p> <p> Change in Equity: <strong>−$44,000</strong> </p> <hr> <p> <strong> $0 = $44,000 − $44,000 </strong> </p> </div> <p> The accounting equation remains balanced. </p> </div> </div>",
+  "courseId": "far",
+  "difficulty": "advanced",
+  "metadata": {
+    "section": "far",
+    "blueprintYear": 2026,
+    "areaId": "far-I",
+    "groupId": "module-6",
+    "topicId": "far-financial-statement-analysis-adjustments",
+    "taskIds": [
+      "far-financial-statement-analysis-adjustments.task-1",
+      "far-financial-statement-analysis-adjustments.task-2",
+      "far-financial-statement-analysis-adjustments.task-3"
+    ],
+    "skill": "analysis",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      }
+    ]
+  }
+}

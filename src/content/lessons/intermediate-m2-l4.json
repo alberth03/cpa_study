@@ -1,0 +1,88 @@
+{
+  "id": "intermediate-m2-l4",
+  "courseId": "intermediate",
+  "moduleId": 2,
+  "number": 4,
+  "title": "Credit Losses & Allowance Method",
+  "description": "Estimate uncollectible receivables and record credit losses.",
+  "url": "/learn/intermediate/modules/2/lessons/4",
+  "html": "<h2>Why do companies estimate credit losses?</h2> <p> When a company sells goods or services on credit, some customers may not pay what they owe. </p> <p> Because of this, a company should consider expected credit losses on its receivables. </p> <h2>Allowance for Credit Losses</h2> <p> Instead of waiting until a specific customer fails to pay, the company estimates expected uncollectible amounts. </p> <p> The estimate is recorded in an <strong>Allowance for Credit Losses</strong>, which is a contra-asset account related to receivables. </p> <div class=\"formula-box\"> Net Accounts Receivable = Accounts Receivable − Allowance for Credit Losses </div> <h2>Example</h2> <p> Assume a company has: </p> <div class=\"financial-example\"> <div> <span>Accounts Receivable</span> <strong>$100,000</strong> </div> <div> <span>Allowance for Credit Losses</span> <strong>($4,000)</strong> </div> <div class=\"financial-total\"> <span>Net Accounts Receivable</span> <strong>$96,000</strong> </div> </div> <h2>Recording estimated credit losses</h2> <p> Suppose the company determines that its allowance needs to increase by $4,000. </p> <div class=\"journal-entry\"> <div class=\"journal-row journal-header\"> <div>Account</div> <div>Debit</div> <div>Credit</div> </div> <div class=\"journal-row\"> <div>Credit Loss Expense</div> <div>$4,000</div> <div>—</div> </div> <div class=\"journal-row credit-row\"> <div>Allowance for Credit Losses</div> <div>—</div> <div>$4,000</div> </div> </div> <h2>Writing off a specific account</h2> <p> Later, suppose a particular customer's <strong>$1,000 receivable</strong> is determined to be uncollectible. </p> <div class=\"journal-entry\"> <div class=\"journal-row journal-header\"> <div>Account</div> <div>Debit</div> <div>Credit</div> </div> <div class=\"journal-row\"> <div>Allowance for Credit Losses</div> <div>$1,000</div> <div>—</div> </div> <div class=\"journal-row credit-row\"> <div>Accounts Receivable</div> <div>—</div> <div>$1,000</div> </div> </div> <div class=\"key-points\"> <h3>Very important</h3> <p> Under the allowance method, the write-off itself generally does <strong>not</strong> create a new credit loss expense. </p> <p> The expense was recognized when the expected loss was estimated. </p> </div> <h2>Aging of receivables</h2> <p> Companies may estimate expected credit losses by grouping receivables according to how long they have been outstanding. </p> <div class=\"example-box\"> <h3>General idea</h3> <p> A receivable that is 120 days overdue may have a greater expected credit-loss percentage than a receivable that is only 10 days old. </p> </div>",
+  "quiz": {
+    "id": "intermediate-m2-l4-check",
+    "courseId": "intermediate",
+    "moduleId": 2,
+    "lessonId": "intermediate-m2-l4",
+    "topic": "General review",
+    "prompt": "Accounts Receivable is $80,000 and the Allowance for Credit Losses has a $5,000 credit balance. What is net Accounts Receivable?",
+    "choices": [
+      {
+        "id": "intermediate-m2-l4-check-a0",
+        "text": "$75,000"
+      },
+      {
+        "id": "intermediate-m2-l4-check-a1",
+        "text": "$80,000"
+      },
+      {
+        "id": "intermediate-m2-l4-check-a2",
+        "text": "$85,000"
+      },
+      {
+        "id": "intermediate-m2-l4-check-a3",
+        "text": "$5,000"
+      }
+    ],
+    "correctChoiceId": "intermediate-m2-l4-check-a0",
+    "explanation": "Net Accounts Receivable equals $80,000 minus the $5,000 allowance, resulting in $75,000.",
+    "difficulty": "foundation",
+    "metadata": {
+      "section": "intermediate",
+      "blueprintYear": 2026,
+      "areaId": "intermediate-I",
+      "groupId": "module-2",
+      "topicId": "intermediate-credit-losses-allowance-method",
+      "taskIds": [
+        "intermediate-credit-losses-allowance-method.task-1",
+        "intermediate-credit-losses-allowance-method.task-2",
+        "intermediate-credit-losses-allowance-method.task-3"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "section": "intermediate",
+    "blueprintYear": 2026,
+    "areaId": "intermediate-I",
+    "groupId": "module-2",
+    "topicId": "intermediate-credit-losses-allowance-method",
+    "taskIds": [
+      "intermediate-credit-losses-allowance-method.task-1",
+      "intermediate-credit-losses-allowance-method.task-2",
+      "intermediate-credit-losses-allowance-method.task-3"
+    ],
+    "skill": "application",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      }
+    ]
+  },
+  "objectives": [
+    "Explain credit losses & allowance method and its underlying principles.",
+    "Apply the topic to a financial-reporting scenario.",
+    "Evaluate common errors and their financial-statement effects."
+  ]
+}

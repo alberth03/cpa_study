@@ -1,0 +1,69 @@
+{
+  "id": "far-m6-tbs4",
+  "moduleId": 6,
+  "number": 4,
+  "title": "FAR Module 6 — TBS 4",
+  "fields": [
+    {
+      "id": "far-m6-tbs4-tax-revenue",
+      "label": "Determine the amount of property tax revenue recognized in the General Fund under modified accrual accounting.",
+      "type": "number",
+      "options": [],
+      "correct": 480000
+    },
+    {
+      "id": "far-m6-tbs4-bond-proceeds",
+      "label": "Determine the amount reported as an other financing source from the bond issuance.",
+      "type": "number",
+      "options": [],
+      "correct": 1200000
+    },
+    {
+      "id": "far-m6-tbs4-capital-asset",
+      "label": "Determine the increase in capital assets reported for governmental activities from the equipment purchase.",
+      "type": "number",
+      "options": [],
+      "correct": 300000
+    },
+    {
+      "id": "far-m6-tbs4-restricted",
+      "label": "Considering only the $200,000 donor-restricted contribution and the $80,000 of qualifying expenditures, determine the amount that remains subject to donor restriction.",
+      "type": "number",
+      "options": [],
+      "correct": 120000
+    },
+    {
+      "id": "far-m6-tbs4-conditional",
+      "label": "Determine the liability recognized at year-end for the $150,000 cash received under the conditional grant.",
+      "type": "number",
+      "options": [],
+      "correct": 150000
+    }
+  ],
+  "html": "<section class=\"exam-page\"> <div class=\"course-intro-card\"> <span class=\"exam-badge\"> TASK-BASED SIMULATION </span> <h2> Governmental and NFP Reporting Analysis </h2> <p> Analyze the following independent year-end transactions involving a state and local government and a not-for-profit organization. </p> </div> <div class=\"course-intro-card\"> <h3> Governmental Information </h3> <ol> <li> A city's General Fund recognizes <strong>$500,000</strong> of property taxes that are measurable. Of this amount, <strong>$450,000</strong> is collected during the current year, <strong>$30,000</strong> is collected soon enough after year-end to meet the city's availability criterion, and <strong>$20,000</strong> is not available under that criterion. </li> <li> The city's Capital Projects Fund receives <strong>$1,200,000</strong> from the issuance of general obligation bonds. </li> <li> The city purchases equipment for <strong>$300,000</strong> for use in governmental activities. Ignore depreciation for the current period. </li> </ol> </div> <div class=\"course-intro-card\"> <h3> Not-for-Profit Information </h3> <ol> <li> An NFP receives an unconditional contribution of <strong>$200,000</strong> restricted by the donor for a specific program. </li> <li> During the year, the NFP incurs <strong>$80,000</strong> of qualifying expenditures that satisfy that donor restriction. </li> <li> The NFP also receives <strong>$150,000</strong> in cash under a conditional grant. The agreement contains a substantive barrier and a right of return. At year-end, the barrier has not been overcome. </li> </ol> </div> <div class=\"course-intro-card\"> <h3> Item 1 — Governmental Fund Property Tax Revenue </h3> <p> Determine the amount of property tax revenue recognized in the General Fund under modified accrual accounting. </p> <input id=\"far-m6-tbs4-tax-revenue\" type=\"number\" placeholder=\"Enter amount\"> </div> <div class=\"course-intro-card\"> <h3> Item 2 — Bond Proceeds in the Capital Projects Fund </h3> <p> Determine the amount reported as an other financing source from the bond issuance. </p> <input id=\"far-m6-tbs4-bond-proceeds\" type=\"number\" placeholder=\"Enter amount\"> </div> <div class=\"course-intro-card\"> <h3> Item 3 — Government-Wide Capital Asset Increase </h3> <p> Determine the increase in capital assets reported for governmental activities from the equipment purchase. </p> <input id=\"far-m6-tbs4-capital-asset\" type=\"number\" placeholder=\"Enter amount\"> </div> <div class=\"course-intro-card\"> <h3> Item 4 — Remaining Donor-Restricted Net Assets </h3> <p> Considering only the $200,000 donor-restricted contribution and the $80,000 of qualifying expenditures, determine the amount that remains subject to donor restriction. </p> <input id=\"far-m6-tbs4-restricted\" type=\"number\" placeholder=\"Enter amount\"> </div> <div class=\"course-intro-card\"> <h3> Item 5 — Conditional Grant Liability </h3> <p> Determine the liability recognized at year-end for the $150,000 cash received under the conditional grant. </p> <input id=\"far-m6-tbs4-conditional\" type=\"number\" placeholder=\"Enter amount\"> </div> <div id=\"far-m6-tbs4-result\"> </div> </section>",
+  "explanation": "<div class=\"result-correct\"> <h3> Item 1 — Governmental Fund Property Tax Revenue </h3> <p> Governmental funds use modified accrual accounting. Revenue generally must be both measurable and available. </p> <div class=\"formula-box\"> <p> Collected During Current Year: <strong>$450,000</strong> </p> <p> + Collected Within Availability Period: <strong>$30,000</strong> </p> <p> Amount Not Available: <strong>$20,000</strong> </p> <hr> <p> <strong> General Fund Revenue = $480,000 </strong> </p> </div> <h3> Item 2 — Bond Proceeds </h3> <p> Long-term debt is not reported as a liability in governmental funds. Bond proceeds are reported as an other financing source. </p> <div class=\"formula-box\"> <p> General Obligation Bonds Issued: <strong>$1,200,000</strong> </p> <hr> <p> <strong> Other Financing Source = $1,200,000 </strong> </p> </div> <p> At the government-wide level, the bonds instead create a long-term liability. </p> <h3> Item 3 — Government-Wide Capital Asset </h3> <p> Governmental fund statements report the acquisition of equipment as an expenditure, but government-wide statements capitalize the asset. </p> <div class=\"formula-box\"> <p> Equipment Purchased: <strong>$300,000</strong> </p> <p> Depreciation Assumed: <strong>$0</strong> </p> <hr> <p> <strong> Increase in Capital Assets = $300,000 </strong> </p> </div> <h3> Item 4 — Donor-Restricted Net Assets </h3> <p> The $200,000 contribution is unconditional but subject to a donor-imposed purpose restriction. </p> <p> When $80,000 is spent for the specified purpose, that amount is released from restriction. </p> <div class=\"formula-box\"> <p> Donor-Restricted Contribution: <strong>$200,000</strong> </p> <p> − Restriction Satisfied: <strong>$80,000</strong> </p> <hr> <p> <strong> Remaining Donor-Restricted Net Assets = $120,000 </strong> </p> </div> <h3> Item 5 — Conditional Grant </h3> <p> The grant contains both a substantive barrier and a right of return. Because the barrier has not been overcome, contribution revenue is not yet recognized. </p> <div class=\"formula-box\"> <p> Cash Received: <strong>$150,000</strong> </p> <p> Contribution Revenue Recognized: <strong>$0</strong> </p> <hr> <p> <strong> Refundable Advance / Conditional Grant Liability = $150,000 </strong> </p> </div> <div class=\"key-points\"> <h3> Integrated FAR Review </h3> <p> Governmental funds emphasize current financial resources and modified accrual accounting. </p> <p> Government-wide statements use the economic resources measurement focus and accrual accounting. </p> <p> For NFPs, a donor restriction affects classification of net assets, while a contribution condition can delay revenue recognition entirely. </p> </div> </div>",
+  "courseId": "far",
+  "difficulty": "advanced",
+  "metadata": {
+    "section": "far",
+    "blueprintYear": 2026,
+    "areaId": "far-I",
+    "groupId": "module-6",
+    "topicId": "far-governmental-accounting-final-review",
+    "taskIds": [
+      "far-governmental-accounting-final-review.task-1",
+      "far-governmental-accounting-final-review.task-2",
+      "far-governmental-accounting-final-review.task-3"
+    ],
+    "skill": "analysis",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      }
+    ]
+  }
+}

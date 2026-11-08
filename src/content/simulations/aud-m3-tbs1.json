@@ -1,0 +1,158 @@
+{
+  "id": "aud-m3-tbs1",
+  "courseId": "aud",
+  "moduleId": 3,
+  "number": 1,
+  "title": "Design an assertion-focused audit program",
+  "html": "<div class=\"course-intro-card\"><h2>Design an assertion-focused audit program</h2><p>Choose the best procedure for each identified inventory and revenue risk.</p></div><section class=\"quiz-card\"><h3>Required responses</h3><div class=\"tbs-question\"><label for=\"aud-m3-tbs1-f1\">Procedure for A</label><select id=\"aud-m3-tbs1-f1\"><option value=\"Vouch recorded items to physical inventory\">Vouch recorded items to physical inventory</option><option value=\"Trace only unrecorded orders\">Trace only unrecorded orders</option><option value=\"Inspect only payroll approvals\">Inspect only payroll approvals</option><option value=\"Confirm the auditor’s bank balance\">Confirm the auditor’s bank balance</option></select></div><div class=\"tbs-question\"><label for=\"aud-m3-tbs1-f2\">Procedure for B</label><select id=\"aud-m3-tbs1-f2\"><option value=\"Trace shipping documents to sales records\">Trace shipping documents to sales records</option><option value=\"Select only recorded sales\">Select only recorded sales</option><option value=\"Inspect only the chart of accounts\">Inspect only the chart of accounts</option><option value=\"Review dividend approvals\">Review dividend approvals</option></select></div><div class=\"tbs-question\"><label for=\"aud-m3-tbs1-f3\">Assertion for C</label><select id=\"aud-m3-tbs1-f3\"><option value=\"Rights and obligations\">Rights and obligations</option><option value=\"Audit fee classification\">Audit fee classification</option><option value=\"Only arithmetic accuracy\">Only arithmetic accuracy</option><option value=\"No assertion\">No assertion</option></select></div><div class=\"tbs-question\"><label for=\"aud-m3-tbs1-f4\">Assertion for D</label><select id=\"aud-m3-tbs1-f4\"><option value=\"Cutoff\">Cutoff</option><option value=\"Only existence of the warehouse\">Only existence of the warehouse</option><option value=\"Only audit documentation retention\">Only audit documentation retention</option><option value=\"No reporting-period issue\">No reporting-period issue</option></select></div></section>",
+  "metadata": {
+    "section": "aud",
+    "blueprintYear": 2026,
+    "areaId": "aud-III",
+    "groupId": "B-D",
+    "topicId": "aud-assertions-procedures",
+    "taskIds": [
+      "aud-assertions-procedures.task-1",
+      "aud-assertions-procedures.task-2",
+      "aud-assertions-procedures.task-3"
+    ],
+    "skill": "analysis",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      },
+      {
+        "title": "AICPA auditing standards",
+        "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+      },
+      {
+        "title": "PCAOB standards",
+        "url": "https://pcaobus.org/oversight/standards"
+      }
+    ]
+  },
+  "difficulty": "advanced",
+  "fields": [
+    {
+      "id": "aud-m3-tbs1-f1",
+      "label": "Procedure for A",
+      "type": "select",
+      "options": [
+        {
+          "value": "Vouch recorded items to physical inventory",
+          "label": "Vouch recorded items to physical inventory"
+        },
+        {
+          "value": "Trace only unrecorded orders",
+          "label": "Trace only unrecorded orders"
+        },
+        {
+          "value": "Inspect only payroll approvals",
+          "label": "Inspect only payroll approvals"
+        },
+        {
+          "value": "Confirm the auditor’s bank balance",
+          "label": "Confirm the auditor’s bank balance"
+        }
+      ],
+      "correct": "Vouch recorded items to physical inventory",
+      "explanation": "Vouching recorded quantities to goods addresses existence.",
+      "topicId": "aud-assertions-procedures"
+    },
+    {
+      "id": "aud-m3-tbs1-f2",
+      "label": "Procedure for B",
+      "type": "select",
+      "options": [
+        {
+          "value": "Trace shipping documents to sales records",
+          "label": "Trace shipping documents to sales records"
+        },
+        {
+          "value": "Select only recorded sales",
+          "label": "Select only recorded sales"
+        },
+        {
+          "value": "Inspect only the chart of accounts",
+          "label": "Inspect only the chart of accounts"
+        },
+        {
+          "value": "Review dividend approvals",
+          "label": "Review dividend approvals"
+        }
+      ],
+      "correct": "Trace shipping documents to sales records",
+      "explanation": "Tracing an independent source population addresses omitted transactions.",
+      "topicId": "aud-assertions-procedures"
+    },
+    {
+      "id": "aud-m3-tbs1-f3",
+      "label": "Assertion for C",
+      "type": "select",
+      "options": [
+        {
+          "value": "Rights and obligations",
+          "label": "Rights and obligations"
+        },
+        {
+          "value": "Audit fee classification",
+          "label": "Audit fee classification"
+        },
+        {
+          "value": "Only arithmetic accuracy",
+          "label": "Only arithmetic accuracy"
+        },
+        {
+          "value": "No assertion",
+          "label": "No assertion"
+        }
+      ],
+      "correct": "Rights and obligations",
+      "explanation": "Consigned goods may be physically present but not owned.",
+      "topicId": "aud-assertions-procedures"
+    },
+    {
+      "id": "aud-m3-tbs1-f4",
+      "label": "Assertion for D",
+      "type": "select",
+      "options": [
+        {
+          "value": "Cutoff",
+          "label": "Cutoff"
+        },
+        {
+          "value": "Only existence of the warehouse",
+          "label": "Only existence of the warehouse"
+        },
+        {
+          "value": "Only audit documentation retention",
+          "label": "Only audit documentation retention"
+        },
+        {
+          "value": "No reporting-period issue",
+          "label": "No reporting-period issue"
+        }
+      ],
+      "correct": "Cutoff",
+      "explanation": "January activity recognized in December misstates the reporting period.",
+      "topicId": "aud-assertions-procedures"
+    }
+  ],
+  "exhibits": [
+    {
+      "id": "aud-m3-tbs1-ex1",
+      "title": "Risks",
+      "html": "<p>A: Recorded inventory may not exist. B: Shipped orders may be omitted from sales. C: Goods held on consignment may be included as owned inventory. D: January shipments may be recorded as December sales.</p>"
+    },
+    {
+      "id": "aud-m3-tbs1-ex2",
+      "title": "Available evidence",
+      "html": "<p>Warehouse observations, shipping-document populations, contracts identifying ownership, and year-end sales entries are available. Select evidence relevant to the risk rather than the easiest document to obtain.</p>"
+    }
+  ],
+  "explanation": "<h3>Procedure for A</h3><p>Vouching recorded quantities to goods addresses existence.</p><h3>Procedure for B</h3><p>Tracing an independent source population addresses omitted transactions.</p><h3>Assertion for C</h3><p>Consigned goods may be physically present but not owned.</p><h3>Assertion for D</h3><p>January activity recognized in December misstates the reporting period.</p>"
+}

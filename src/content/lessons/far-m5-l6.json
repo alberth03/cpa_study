@@ -1,0 +1,88 @@
+{
+  "id": "far-m5-l6",
+  "courseId": "far",
+  "moduleId": 5,
+  "number": 6,
+  "title": "Expenses by Function & Nature",
+  "description": "Classify program services and supporting services and understand expense reporting by function and nature.",
+  "url": "/learn/far/modules/5/lessons/6",
+  "html": "<h2> Why NFP Expense Reporting Is Different </h2> <p> Not-for-profit organizations report expenses in a way that helps users understand both: </p> <div class=\"formula-box\"> FUNCTION = WHY THE COST WAS INCURRED NATURE = WHAT TYPE OF COST IT WAS </div> <h2> Functional Classification </h2> <p> Functional classification groups expenses according to the purpose they serve. </p> <div class=\"financial-example\"> <div> <span> Program Services </span> <strong> Activities That Directly Carry Out the NFP's Mission </strong> </div> <div> <span> Management &amp; General </span> <strong> Administrative and Overall Support Activities </strong> </div> <div> <span> Fundraising </span> <strong> Activities Designed to Obtain Contributions </strong> </div> </div> <h2> Program Services </h2> <p> Program services are activities that directly accomplish the organization's mission. </p> <div class=\"example-box\"> <strong> Example </strong> <p> A food-assistance charity pays employees who distribute meals directly to families. </p> <p> Those salary costs are generally classified functionally as <strong>program service expense</strong>. </p> </div> <h2> Management &amp; General </h2> <p> Management and general expenses support the overall administration and operation of the NFP rather than one specific program. </p> <div class=\"key-points\"> <h3> Examples </h3> <ul> <li> General accounting </li> <li> Executive administration </li> <li> Human resources </li> <li> General legal services </li> </ul> </div> <h2> Fundraising </h2> <p> Fundraising expenses are costs incurred to encourage donors to contribute resources to the organization. </p> <div class=\"example-box\"> <strong> Example </strong> <p> An NFP pays $15,000 to organize a donor solicitation campaign. </p> <p> That amount is generally classified as a <strong>fundraising expense</strong>. </p> </div> <h2> Natural Classification </h2> <p> Natural classification describes the economic type of expense. </p> <div class=\"financial-example\"> <div> <span>Salaries</span> <strong>Natural Classification</strong> </div> <div> <span>Rent</span> <strong>Natural Classification</strong> </div> <div> <span>Utilities</span> <strong>Natural Classification</strong> </div> <div> <span>Depreciation</span> <strong>Natural Classification</strong> </div> <div> <span>Supplies</span> <strong>Natural Classification</strong> </div> </div> <h2> One Expense Can Have Both </h2> <p> The same cost can be classified by both its nature and its function. </p> <div class=\"example-box\"> <strong> Example </strong> <p> An employee earns $50,000 working entirely in an educational program. </p> <div class=\"financial-example\"> <div> <span> Nature </span> <strong> Salaries </strong> </div> <div> <span> Function </span> <strong> Program Services </strong> </div> </div> </div> <h2> Allocating Shared Costs </h2> <p> Some expenses benefit more than one function. In that case, the organization generally allocates the costs using a reasonable and appropriate method. </p> <div class=\"example-box\"> <strong> Example </strong> <p> A building is used: </p> <ul> <li> 70% for program services </li> <li> 20% for management and general </li> <li> 10% for fundraising </li> </ul> <p> Annual rent is <strong>$100,000</strong>. </p> <div class=\"formula-box\"> Program = $70,000 Management &amp; General = $20,000 Fundraising = $10,000 </div> </div> <h2> Supporting Services </h2> <p> Management and general and fundraising are commonly grouped as <strong>supporting services</strong>. </p> <div class=\"formula-box\"> PROGRAM SERVICES ≠ SUPPORTING SERVICES SUPPORTING SERVICES GENERALLY INCLUDE: MANAGEMENT &amp; GENERAL + FUNDRAISING </div> <h2> Why This Matters </h2> <p> Expense classification helps financial statement users evaluate how an NFP uses its resources. </p> <p> For example, users may want to know how much spending goes directly toward mission-related programs versus administrative or fundraising activities. </p> <h2> Statement of Functional Expenses </h2> <p> An NFP must present information about expenses by both nature and function in one location. </p> <p> This information may be presented in the financial statements, in the notes, or through a separate statement of functional expenses, depending on presentation. </p> <h2> CPA Classification Example </h2> <p> A health charity incurs: </p> <div class=\"financial-example\"> <div> <span>Medical Staff Salaries</span> <strong>$200,000</strong> </div> <div> <span>Accounting Staff Salaries</span> <strong>$60,000</strong> </div> <div> <span>Fundraising Campaign Costs</span> <strong>$40,000</strong> </div> </div> <div class=\"formula-box\"> FUNCTIONALLY: PROGRAM SERVICES = $200,000 MANAGEMENT &amp; GENERAL = $60,000 FUNDRAISING = $40,000 </div> <p> From a natural classification perspective, the first two amounts are both salary expense, even though their functional classifications differ. </p> <h2> CPA Memory Rule </h2> <div class=\"formula-box\"> FUNCTION = PURPOSE NATURE = TYPE PROGRAM = MISSION MANAGEMENT + FUNDRAISING = SUPPORT </div> <div class=\"key-points\"> <h3> Key Takeaways </h3> <ul> <li> NFP expenses are analyzed by both function and nature. </li> <li> Program services directly support the organization's mission. </li> <li> Management and general and fundraising are supporting services. </li> <li> Natural classifications describe the type of cost. </li> <li> Shared costs should be allocated using a reasonable method. </li> </ul> </div>",
+  "quiz": {
+    "id": "far-m5-l6-check",
+    "courseId": "far",
+    "moduleId": 5,
+    "lessonId": "far-m5-l6",
+    "topic": "General review",
+    "prompt": "An NFP pays $80,000 of salaries to employees who work directly in its primary charitable program. Which combination best describes this expense?",
+    "choices": [
+      {
+        "id": "far-m5-l6-check-a0",
+        "text": "Nature: Program services; Function: Salaries"
+      },
+      {
+        "id": "far-m5-l6-check-a1",
+        "text": "Nature: Salaries; Function: Management and general"
+      },
+      {
+        "id": "far-m5-l6-check-a2",
+        "text": "Nature: Fundraising; Function: Salaries"
+      },
+      {
+        "id": "far-m5-l6-check-a3",
+        "text": "Nature: Salaries; Function: Program services"
+      }
+    ],
+    "correctChoiceId": "far-m5-l6-check-a3",
+    "explanation": "Salaries describe the natural classification, while program services describe the functional classification because the employees work directly on the NFP's mission-related program.",
+    "difficulty": "foundation",
+    "metadata": {
+      "section": "far",
+      "blueprintYear": 2026,
+      "areaId": "far-I",
+      "groupId": "module-5",
+      "topicId": "far-expenses-by-function-nature",
+      "taskIds": [
+        "far-expenses-by-function-nature.task-1",
+        "far-expenses-by-function-nature.task-2",
+        "far-expenses-by-function-nature.task-3"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "section": "far",
+    "blueprintYear": 2026,
+    "areaId": "far-I",
+    "groupId": "module-5",
+    "topicId": "far-expenses-by-function-nature",
+    "taskIds": [
+      "far-expenses-by-function-nature.task-1",
+      "far-expenses-by-function-nature.task-2",
+      "far-expenses-by-function-nature.task-3"
+    ],
+    "skill": "application",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      }
+    ]
+  },
+  "objectives": [
+    "Explain expenses by function & nature and its underlying principles.",
+    "Apply the topic to a financial-reporting scenario.",
+    "Evaluate common errors and their financial-statement effects."
+  ]
+}

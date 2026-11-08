@@ -1,0 +1,88 @@
+{
+  "id": "far-m6-l9",
+  "courseId": "far",
+  "moduleId": 6,
+  "number": 9,
+  "title": "FAR Integrated Financial Statement Review",
+  "description": "Combine recognition, measurement, presentation, disclosure, and financial statement effects across FAR.",
+  "url": "/learn/far/modules/6/lessons/9",
+  "html": "<h2> Think Across the Financial Statements </h2> <p> Many FAR questions are not really testing one isolated account. </p> <p> They test whether you can follow an accounting event through the balance sheet, income statement, statement of cash flows, and equity. </p> <div class=\"formula-box\"> TRANSACTION ↓ ACCOUNT BALANCES ↓ NET INCOME ↓ EQUITY ↓ CASH FLOW CLASSIFICATION </div> <h2> Scenario 1 — Accrued Expense </h2> <p> At year-end, a company has incurred <strong>$18,000</strong> of salaries that have not yet been recorded or paid. </p> <div class=\"financial-example\"> <div> <span>Salary Expense</span> <strong>+ $18,000</strong> </div> <div> <span>Salaries Payable</span> <strong>+ $18,000</strong> </div> <div> <span>Net Income</span> <strong>− $18,000</strong> </div> <div> <span>Equity</span> <strong>− $18,000</strong> </div> </div> <p> Because cash has not yet been paid, there is no immediate cash-flow effect from recording the accrual. </p> <h2> Scenario 2 — Accrued Revenue </h2> <p> A company has earned <strong>$25,000</strong> of service revenue but has not yet billed the customer. </p> <div class=\"financial-example\"> <div> <span>Receivable</span> <strong>+ $25,000</strong> </div> <div> <span>Revenue</span> <strong>+ $25,000</strong> </div> <div> <span>Net Income</span> <strong>+ $25,000</strong> </div> <div> <span>Equity</span> <strong>+ $25,000</strong> </div> </div> <h2> Scenario 3 — Advance Customer Payment </h2> <p> A customer pays <strong>$48,000</strong> in advance for 12 months of service. </p> <p> Three months have been earned by year-end. </p> <div class=\"formula-box\"> MONTHLY REVENUE = $48,000 ÷ 12 = $4,000 REVENUE EARNED = $4,000 × 3 = $12,000 CONTRACT LIABILITY = $48,000 − $12,000 = $36,000 </div> <h2> Scenario 4 — Inventory Error </h2> <p> Ending inventory is overstated by <strong>$20,000</strong>. </p> <div class=\"formula-box\"> ENDING INVENTORY OVERSTATED $20,000 ↓ COGS UNDERSTATED $20,000 ↓ NET INCOME OVERSTATED $20,000 </div> <div class=\"financial-example\"> <div> <span>Assets</span> <strong>Overstated $20,000</strong> </div> <div> <span>COGS</span> <strong>Understated $20,000</strong> </div> <div> <span>Net Income</span> <strong>Overstated $20,000</strong> </div> <div> <span>Equity</span> <strong>Overstated $20,000</strong> </div> </div> <h2> Scenario 5 — Depreciation </h2> <p> Equipment has: </p> <div class=\"example-box\"> <p> Cost: <strong>$260,000</strong> </p> <p> Residual value: <strong>$20,000</strong> </p> <p> Useful life: <strong>8 years</strong> </p> </div> <div class=\"formula-box\"> ANNUAL DEPRECIATION = ($260,000 − $20,000) ÷ 8 = $30,000 </div> <div class=\"financial-example\"> <div> <span>Depreciation Expense</span> <strong>+ $30,000</strong> </div> <div> <span>Accumulated Depreciation</span> <strong>+ $30,000</strong> </div> <div> <span>Net Income</span> <strong>− $30,000</strong> </div> <div> <span>Carrying Amount of Assets</span> <strong>− $30,000</strong> </div> </div> <h2> Depreciation and Cash Flow </h2> <p> Depreciation reduces net income but does not itself require a current-period cash payment. </p> <p> Therefore, under the indirect method: </p> <div class=\"formula-box\"> DEPRECIATION EXPENSE → ADD BACK TO NET INCOME IN OPERATING CASH FLOWS </div> <h2> Scenario 6 — Accounts Receivable Increase </h2> <p> Net income includes revenue that has not necessarily been collected in cash. </p> <p> If accounts receivable increases by <strong>$15,000</strong>: </p> <div class=\"formula-box\"> INDIRECT METHOD → SUBTRACT $15,000 FROM NET INCOME </div> <h2> Scenario 7 — Accounts Payable Increase </h2> <p> If accounts payable increases by <strong>$9,000</strong>, the company has generally recognized expenses that have not yet been paid in cash. </p> <div class=\"formula-box\"> INDIRECT METHOD → ADD $9,000 TO NET INCOME </div> <h2> Working Capital Adjustment Pattern </h2> <div class=\"formula-box\"> OPERATING ASSET ↑ → SUBTRACT OPERATING ASSET ↓ → ADD OPERATING LIABILITY ↑ → ADD OPERATING LIABILITY ↓ → SUBTRACT </div> <h2> Scenario 8 — Sale of Equipment </h2> <p> Equipment has: </p> <div class=\"example-box\"> <p> Cost: <strong>$150,000</strong> </p> <p> Accumulated depreciation: <strong>$100,000</strong> </p> <p> Cash proceeds: <strong>$62,000</strong> </p> </div> <div class=\"formula-box\"> CARRYING AMOUNT = $150,000 − $100,000 = $50,000 GAIN = $62,000 − $50,000 = $12,000 </div> <h2> Sale of Equipment — Cash Flow Effect </h2> <div class=\"formula-box\"> CASH PROCEEDS $62,000 → INVESTING INFLOW </div> <p> The $12,000 gain is included in net income, but under the indirect method it is removed from operating cash flow because the related cash proceeds belong in investing activities. </p> <div class=\"formula-box\"> GAIN ON SALE → SUBTRACT FROM NET INCOME IN OPERATING SECTION </div> <h2> Scenario 9 — Bond Issuance </h2> <p> A corporation issues <strong>$500,000</strong> of bonds for cash. </p> <div class=\"financial-example\"> <div> <span>Cash</span> <strong>Increase</strong> </div> <div> <span>Liabilities</span> <strong>Increase</strong> </div> <div> <span>Net Income</span> <strong>No Immediate Effect</strong> </div> <div> <span>Cash Flow</span> <strong>Financing Inflow</strong> </div> </div> <h2> Scenario 10 — Treasury Stock Purchase </h2> <p> A company pays <strong>$40,000</strong> to reacquire its own common shares. </p> <div class=\"financial-example\"> <div> <span>Cash</span> <strong>− $40,000</strong> </div> <div> <span>Treasury Stock</span> <strong>+ $40,000</strong> </div> <div> <span>Total Equity</span> <strong>− $40,000</strong> </div> <div> <span>Cash Flow</span> <strong>Financing Outflow</strong> </div> </div> <h2> Scenario 11 — Cash Dividend </h2> <p> When a cash dividend is declared: </p> <div class=\"formula-box\"> RETAINED EARNINGS ↓ DIVIDENDS PAYABLE ↑ </div> <p> When the dividend is later paid: </p> <div class=\"formula-box\"> CASH ↓ DIVIDENDS PAYABLE ↓ → FINANCING CASH OUTFLOW </div> <h2> Scenario 12 — Credit Loss Adjustment </h2> <p> Gross accounts receivable are <strong>$400,000</strong>. </p> <p> The required ending allowance for credit losses is <strong>$24,000</strong>. </p> <div class=\"formula-box\"> NET ACCOUNTS RECEIVABLE = $400,000 − $24,000 = $376,000 </div> <p> Increasing the allowance through credit-loss expense decreases net income and decreases the net carrying amount of receivables. </p> <h2> Scenario 13 — Loss Contingency </h2> <p> A lawsuit loss of <strong>$75,000</strong> is probable and reasonably estimable. </p> <div class=\"financial-example\"> <div> <span>Loss Expense</span> <strong>+ $75,000</strong> </div> <div> <span>Liability</span> <strong>+ $75,000</strong> </div> <div> <span>Net Income</span> <strong>− $75,000</strong> </div> <div> <span>Cash</span> <strong>No Immediate Effect</strong> </div> </div> <h2> Scenario 14 — Unrealized Investment Gain </h2> <p> Be careful about where investment gains and losses are reported. </p> <div class=\"formula-box\"> TRADING DEBT SECURITY → FAIR VALUE CHANGE → NET INCOME AVAILABLE-FOR-SALE DEBT SECURITY → UNREALIZED HOLDING GAIN OR LOSS → GENERALLY OCI </div> <h2> Net Income vs Comprehensive Income </h2> <div class=\"formula-box\"> COMPREHENSIVE INCOME = NET INCOME + OTHER COMPREHENSIVE INCOME </div> <p> A transaction can affect comprehensive income without affecting current-period net income. </p> <h2> Integrated Adjustment Example </h2> <p> Assume preliminary net income is <strong>$300,000</strong>. </p> <p> The following year-end adjustments have not yet been recorded: </p> <div class=\"example-box\"> <p> Accrued salaries: <strong>$20,000</strong> </p> <p> Accrued service revenue: <strong>$15,000</strong> </p> <p> Depreciation expense: <strong>$25,000</strong> </p> <p> Probable lawsuit loss: <strong>$10,000</strong> </p> </div> <h2> Corrected Net Income </h2> <div class=\"formula-box\"> $300,000 − $20,000 + $15,000 − $25,000 − $10,000 = $260,000 </div> <h2> FAR Integrated Strategy </h2> <div class=\"formula-box\"> FOR EVERY ADJUSTMENT: 1. IDENTIFY THE ACCOUNTS 2. DETERMINE WHETHER EACH ACCOUNT INCREASES OR DECREASES 3. DETERMINE THE NET-INCOME EFFECT 4. DETERMINE THE BALANCE-SHEET EFFECT 5. DETERMINE WHETHER CASH ACTUALLY MOVED 6. IF CASH MOVED, CLASSIFY THE CASH FLOW 7. RECHECK THE ACCOUNTING EQUATION </div> <h2> Cash Flow Classification Review </h2> <div class=\"formula-box\"> OPERATING → CORE BUSINESS CASH FLOWS INVESTING → LONG-LIVED ASSETS AND MANY INVESTMENTS FINANCING → DEBT AND EQUITY FINANCING ACTIVITIES </div> <h2> Common Exam Trap </h2> <p> Do not assume that an item affecting net income also belongs in operating cash flow for the same amount. </p> <p> Gains and losses on investing activities are classic examples. </p> <div class=\"formula-box\"> GAIN ON SALE OF EQUIPMENT → INCLUDED IN NET INCOME BUT CASH PROCEEDS ARE INVESTING </div> <h2> Another Common Trap </h2> <p> A noncash accounting adjustment can affect income and the balance sheet without changing cash at all. </p> <div class=\"formula-box\"> ACCRUAL DEPRECIATION CREDIT-LOSS ESTIMATE CONTINGENCY ACCRUAL → MAY HAVE NO IMMEDIATE CASH EFFECT </div> <div class=\"key-points\"> <h3> Key Takeaways </h3> <ul> <li> Trace every FAR transaction through all affected financial statements. </li> <li> Accrual accounting separates recognition from cash collection or payment. </li> <li> Inventory errors affect both assets and income. </li> <li> Depreciation reduces net income but is added back under the indirect cash-flow method. </li> <li> Changes in operating assets and liabilities help reconcile net income to operating cash flow. </li> <li> Gains and losses on asset disposals must be separated from the related investing cash proceeds. </li> <li> Debt issuance and treasury-stock transactions are financing activities. </li> <li> Some items affect OCI rather than current-period net income. </li> <li> Noncash adjustments can change income and balance-sheet amounts without immediately changing cash. </li> </ul> </div>",
+  "quiz": {
+    "id": "far-m6-l9-check",
+    "courseId": "far",
+    "moduleId": 6,
+    "lessonId": "far-m6-l9",
+    "topic": "General review",
+    "prompt": "A company reports preliminary net income of $300,000 before recording $20,000 of accrued salaries, $15,000 of accrued service revenue, $25,000 of depreciation expense, and a $10,000 probable and estimable lawsuit loss. What is corrected net income?",
+    "choices": [
+      {
+        "id": "far-m6-l9-check-a0",
+        "text": "$260,000"
+      },
+      {
+        "id": "far-m6-l9-check-a1",
+        "text": "$300,000"
+      },
+      {
+        "id": "far-m6-l9-check-a2",
+        "text": "$250,000"
+      },
+      {
+        "id": "far-m6-l9-check-a3",
+        "text": "$270,000"
+      }
+    ],
+    "correctChoiceId": "far-m6-l9-check-a0",
+    "explanation": "Start with $300,000. Accrued salaries reduce income by $20,000, accrued service revenue increases income by $15,000, depreciation reduces income by $25,000, and the lawsuit loss reduces income by $10,000. Therefore, corrected net income is $300,000 − $20,000 + $15,000 − $25,000 − $10,000 = $260,000.",
+    "difficulty": "foundation",
+    "metadata": {
+      "section": "far",
+      "blueprintYear": 2026,
+      "areaId": "far-I",
+      "groupId": "module-6",
+      "topicId": "far-far-integrated-financial-statement-review",
+      "taskIds": [
+        "far-far-integrated-financial-statement-review.task-1",
+        "far-far-integrated-financial-statement-review.task-2",
+        "far-far-integrated-financial-statement-review.task-3"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "section": "far",
+    "blueprintYear": 2026,
+    "areaId": "far-I",
+    "groupId": "module-6",
+    "topicId": "far-far-integrated-financial-statement-review",
+    "taskIds": [
+      "far-far-integrated-financial-statement-review.task-1",
+      "far-far-integrated-financial-statement-review.task-2",
+      "far-far-integrated-financial-statement-review.task-3"
+    ],
+    "skill": "application",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      }
+    ]
+  },
+  "objectives": [
+    "Explain far integrated financial statement review and its underlying principles.",
+    "Apply the topic to a financial-reporting scenario.",
+    "Evaluate common errors and their financial-statement effects."
+  ]
+}

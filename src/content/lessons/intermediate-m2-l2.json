@@ -1,0 +1,88 @@
+{
+  "id": "intermediate-m2-l2",
+  "courseId": "intermediate",
+  "moduleId": 2,
+  "number": 2,
+  "title": "Bank Reconciliation",
+  "description": "Reconcile the company's cash records with the bank statement.",
+  "url": "/learn/intermediate/modules/2/lessons/2",
+  "html": "<h2>Why do bank and book balances differ?</h2> <p> The cash balance in a company's accounting records may differ from the balance shown on its bank statement. </p> <p> A bank reconciliation explains those differences. </p> <h2>Bank-side adjustments</h2> <div class=\"key-points\"> <h3>Deposits in transit</h3> <p> Deposits recorded by the company that have not yet appeared on the bank statement. </p> <p> These are generally <strong>added to the bank balance</strong>. </p> </div> <div class=\"key-points\"> <h3>Outstanding checks</h3> <p> Checks recorded by the company that have not yet cleared the bank. </p> <p> These are generally <strong>subtracted from the bank balance</strong>. </p> </div> <h2>Book-side adjustments</h2> <p> Some items appear on the bank statement before the company records them. </p> <div class=\"key-points\"> <ul> <li>Bank service charges</li> <li>NSF customer checks</li> <li>Interest earned</li> <li>Automatic collections or payments</li> </ul> </div> <h2>Example</h2> <div class=\"financial-example\"> <div> <span>Bank statement balance</span> <strong>$20,000</strong> </div> <div> <span>Add: Deposit in transit</span> <strong>$3,000</strong> </div> <div> <span>Less: Outstanding checks</span> <strong>($2,000)</strong> </div> <div class=\"financial-total\"> <span>Adjusted bank balance</span> <strong>$21,000</strong> </div> </div> <div class=\"example-box\"> <h3>Important</h3> <p> Deposits in transit and outstanding checks usually do not require new journal entries because the company has already recorded them. </p> <p> Book-side items such as bank fees or NSF checks generally do require journal entries. </p> </div>",
+  "quiz": {
+    "id": "intermediate-m2-l2-check",
+    "courseId": "intermediate",
+    "moduleId": 2,
+    "lessonId": "intermediate-m2-l2",
+    "topic": "General review",
+    "prompt": "A company has a $15,000 bank balance, a $2,000 deposit in transit and $1,500 of outstanding checks. What is the adjusted bank balance?",
+    "choices": [
+      {
+        "id": "intermediate-m2-l2-check-a0",
+        "text": "$11,500"
+      },
+      {
+        "id": "intermediate-m2-l2-check-a1",
+        "text": "$15,500"
+      },
+      {
+        "id": "intermediate-m2-l2-check-a2",
+        "text": "$16,500"
+      },
+      {
+        "id": "intermediate-m2-l2-check-a3",
+        "text": "$18,500"
+      }
+    ],
+    "correctChoiceId": "intermediate-m2-l2-check-a1",
+    "explanation": "$15,000 + $2,000 − $1,500 = $15,500.",
+    "difficulty": "foundation",
+    "metadata": {
+      "section": "intermediate",
+      "blueprintYear": 2026,
+      "areaId": "intermediate-I",
+      "groupId": "module-2",
+      "topicId": "intermediate-bank-reconciliation",
+      "taskIds": [
+        "intermediate-bank-reconciliation.task-1",
+        "intermediate-bank-reconciliation.task-2",
+        "intermediate-bank-reconciliation.task-3"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "section": "intermediate",
+    "blueprintYear": 2026,
+    "areaId": "intermediate-I",
+    "groupId": "module-2",
+    "topicId": "intermediate-bank-reconciliation",
+    "taskIds": [
+      "intermediate-bank-reconciliation.task-1",
+      "intermediate-bank-reconciliation.task-2",
+      "intermediate-bank-reconciliation.task-3"
+    ],
+    "skill": "application",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      }
+    ]
+  },
+  "objectives": [
+    "Explain bank reconciliation and its underlying principles.",
+    "Apply the topic to a financial-reporting scenario.",
+    "Evaluate common errors and their financial-statement effects."
+  ]
+}

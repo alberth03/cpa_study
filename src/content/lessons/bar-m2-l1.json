@@ -1,0 +1,103 @@
+{
+  "id": "bar-m2-l1",
+  "courseId": "bar",
+  "moduleId": 2,
+  "number": 1,
+  "title": "Revenue Contracts, Modifications & Principal–Agent Analysis",
+  "description": "Allocate transaction price to distinct performance obligations.",
+  "url": "/learn/bar/modules/2/lessons/1",
+  "metadata": {
+    "section": "bar",
+    "blueprintYear": 2026,
+    "areaId": "bar-II",
+    "groupId": "C",
+    "topicId": "bar-advanced-revenue",
+    "taskIds": [
+      "bar-advanced-revenue.task-1",
+      "bar-advanced-revenue.task-2",
+      "bar-advanced-revenue.task-3"
+    ],
+    "skill": "application",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      },
+      {
+        "title": "FASB accounting standards",
+        "url": "https://asc.fasb.org/"
+      },
+      {
+        "title": "GASB standards",
+        "url": "https://www.gasb.org/standards-and-implementation"
+      }
+    ]
+  },
+  "html": "<h2>Learning objectives</h2><ul><li>Allocate transaction price to distinct performance obligations.</li><li>Evaluate modification and variable-consideration facts.</li><li>Distinguish principal and agent presentation.</li></ul><h2>Understand the concepts</h2><p>Apply the revenue model to the contract’s substance: identify the contract and performance obligations, determine transaction price, allocate it, and recognize revenue when or as obligations are satisfied. A promised good or service must be capable of being distinct and separately identifiable in the contract to be a distinct obligation. Payment timing does not by itself establish performance.</p><p>Allocate the price using relative standalone selling prices unless a specific allocation exception applies. Include variable consideration only to the extent the applicable constraint is met. A change in estimate can alter recognized revenue, while a contract modification can be a separate contract, a prospective change, or a cumulative catch-up depending on the goods, pricing, and remaining obligations.</p><p>Principal–agent analysis asks whether the entity controls the specified good or service before transfer. Indicators can inform that assessment, but collecting cash or setting an invoice amount is not conclusive. A principal generally reports gross revenue; an agent generally reports its fee or commission. Evaluate the actual promises and control rather than using the contract’s label alone.</p><div class=\"example-box\"><h3>Equipment and support bundle</h3><p>A $120,000 contract includes distinct equipment with standalone price $100,000 and support with standalone price $50,000. No allocation exception applies. Equipment transfers immediately; support is provided evenly over 12 months.</p><ol><li>Allocate two thirds, $80,000, to equipment and one third, $40,000, to support.</li><li>Recognize equipment revenue when control transfers.</li><li>Recognize support as performed; three months produces $10,000 support revenue.</li></ol></div><div class=\"key-points\"><h3>Common mistakes to avoid</h3><ul><li>Billing and revenue recognition are not the same event.</li><li>A modification does not always create a separate contract.</li><li>Gross versus net presentation follows control of the specified service or good.</li></ul></div><h2>Apply and connect</h2><p>After solving the worked case, explain which facts determine the result and how a changed assumption would change your conclusion. Use the module questions to test fresh applications, then complete the related simulation before reviewing its solution.</p>",
+  "objectives": [
+    "Allocate transaction price to distinct performance obligations.",
+    "Evaluate modification and variable-consideration facts.",
+    "Distinguish principal and agent presentation."
+  ],
+  "quiz": {
+    "id": "bar-m2-l1-q1",
+    "courseId": "bar",
+    "moduleId": 2,
+    "lessonId": "bar-m2-l1",
+    "topic": "Revenue Contracts, Modifications & Principal–Agent Analysis",
+    "prompt": "A $90,000 bundle has distinct items with standalone prices $60,000 and $40,000. What is allocated to the first item?",
+    "choices": [
+      {
+        "id": "bar-m2-l1-q1-a0",
+        "text": "$60,000."
+      },
+      {
+        "id": "bar-m2-l1-q1-a1",
+        "text": "$54,000."
+      },
+      {
+        "id": "bar-m2-l1-q1-a2",
+        "text": "$45,000."
+      },
+      {
+        "id": "bar-m2-l1-q1-a3",
+        "text": "$36,000."
+      }
+    ],
+    "correctChoiceId": "bar-m2-l1-q1-a1",
+    "explanation": "Allocate $90,000 × 60% = $54,000.",
+    "difficulty": "application",
+    "metadata": {
+      "section": "bar",
+      "blueprintYear": 2026,
+      "areaId": "bar-II",
+      "groupId": "C",
+      "topicId": "bar-advanced-revenue",
+      "taskIds": [
+        "bar-advanced-revenue.task-1"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        },
+        {
+          "title": "FASB accounting standards",
+          "url": "https://asc.fasb.org/"
+        },
+        {
+          "title": "GASB standards",
+          "url": "https://www.gasb.org/standards-and-implementation"
+        }
+      ]
+    }
+  },
+  "relatedSimulation": "bar-m2-tbs1"
+}

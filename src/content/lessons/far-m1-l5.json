@@ -1,0 +1,88 @@
+{
+  "id": "far-m1-l5",
+  "courseId": "far",
+  "moduleId": 1,
+  "number": 5,
+  "title": "Statement of Changes in Equity",
+  "description": "Account for and present changes in contributed capital, retained earnings, accumulated OCI and other equity balances.",
+  "url": "/learn/far/modules/1/lessons/5",
+  "html": "<h2> Purpose of the statement of changes in equity </h2> <p> The statement of changes in equity explains how each major component of stockholders' equity changed during the reporting period. </p> <p> At the CPA level, you should be able to connect transactions involving owners, net income, dividends, OCI and treasury stock to ending equity. </p> <div class=\"key-points\"> <h3>Main equity components can include</h3> <ul> <li> Common stock </li> <li> Preferred stock </li> <li> Additional paid-in capital </li> <li> Retained earnings </li> <li> Accumulated other comprehensive income or loss </li> <li> Treasury stock </li> </ul> </div> <h2> The basic retained earnings roll-forward </h2> <div class=\"formula-box\"> Beginning Retained Earnings + Net Income − Dividends ± Applicable Adjustments = Ending Retained Earnings </div> <div class=\"example-box\"> <p> Beginning retained earnings: <strong>$300,000</strong> </p> <p> Net income: <strong>$90,000</strong> </p> <p> Dividends: <strong>$25,000</strong> </p> <div class=\"formula-box\"> $300,000 + $90,000 − $25,000 = $365,000 </div> </div> <div class=\"key-points\"> <h3>CPA trap</h3> <p> Dividends reduce retained earnings, but they are not expenses and do not reduce net income. </p> </div> <h2> Common stock and APIC </h2> <p> When shares are issued for cash, stockholders' equity generally increases. </p> <div class=\"example-box\"> <p> A corporation issues <strong>10,000 shares</strong> of $2 par common stock for <strong>$15 per share</strong>. </p> <h3> Cash received </h3> <div class=\"formula-box\"> 10,000 × $15 = $150,000 </div> <h3> Common stock </h3> <div class=\"formula-box\"> 10,000 × $2 = $20,000 </div> <h3> Additional paid-in capital </h3> <div class=\"formula-box\"> $150,000 − $20,000 = $130,000 </div> <div class=\"journal-entry\"> <div class=\"journal-row journal-header\"> <div>Account</div> <div>Debit</div> <div>Credit</div> </div> <div class=\"journal-row\"> <div>Cash</div> <div>$150,000</div> <div>—</div> </div> <div class=\"journal-row credit-row\"> <div>Common Stock</div> <div>—</div> <div>$20,000</div> </div> <div class=\"journal-row credit-row\"> <div>Additional Paid-In Capital</div> <div>—</div> <div>$130,000</div> </div> </div> </div> <h2> Treasury stock </h2> <p> Treasury stock represents shares issued and later reacquired by the corporation. </p> <p> Treasury stock is generally a contra-equity account and reduces total stockholders' equity. </p> <div class=\"example-box\"> <p> A corporation repurchases 2,000 shares for $18 each. </p> <div class=\"formula-box\"> 2,000 × $18 = $36,000 </div> <p> Under the cost method, Treasury Stock is debited for $36,000. </p> </div> <div class=\"key-points\"> <h3>CPA trap</h3> <p> Treasury stock is not an asset. </p> <p> The corporation cannot create an asset simply by purchasing its own shares. </p> </div> <h2> AOCI </h2> <p> Accumulated other comprehensive income captures the cumulative balance of OCI items that have not otherwise been reclassified or removed under the applicable guidance. </p> <div class=\"formula-box\"> Beginning AOCI + Current-Period OCI ± Reclassification Adjustments = Ending AOCI </div> <h2> Owner transactions versus performance </h2> <p> The statement of changes in equity brings together both owner transactions and performance-related items. </p> <div class=\"comparison-grid\"> <div class=\"comparison-card\"> <h3> Performance-related </h3> <p> Net income </p> <p> OCI </p> </div> <div class=\"comparison-card\"> <h3> Owner-related </h3> <p> Stock issuances </p> <p> Dividends </p> <p> Treasury stock transactions </p> </div> </div> <h2> Full equity roll-forward example </h2> <p> Assume the following beginning balances: </p> <div class=\"financial-example\"> <div> <span>Common Stock</span> <strong>$100,000</strong> </div> <div> <span>APIC</span> <strong>$250,000</strong> </div> <div> <span>Retained Earnings</span> <strong>$400,000</strong> </div> <div> <span>AOCI</span> <strong>$20,000</strong> </div> <div> <span>Treasury Stock</span> <strong>($50,000)</strong> </div> </div> <p> During the year: </p> <div class=\"key-points\"> <ul> <li> Net income = $120,000 </li> <li> Dividends = $30,000 </li> <li> Current-period OCI gain = $15,000 </li> <li> New shares issued increase Common Stock by $10,000 </li> <li> The same issuance increases APIC by $60,000 </li> <li> Additional treasury stock is purchased for $25,000 </li> </ul> </div> <h3> Ending Common Stock </h3> <div class=\"formula-box\"> $100,000 + $10,000 = $110,000 </div> <h3> Ending APIC </h3> <div class=\"formula-box\"> $250,000 + $60,000 = $310,000 </div> <h3> Ending Retained Earnings </h3> <div class=\"formula-box\"> $400,000 + $120,000 − $30,000 = $490,000 </div> <h3> Ending AOCI </h3> <div class=\"formula-box\"> $20,000 + $15,000 = $35,000 </div> <h3> Ending Treasury Stock </h3> <div class=\"formula-box\"> ($50,000) − $25,000 = ($75,000) </div> <h3> Ending Total Stockholders' Equity </h3> <div class=\"formula-box\"> $110,000 + $310,000 + $490,000 + $35,000 − $75,000 = $870,000 </div> <h2> Relationship to the balance sheet </h2> <p> Ending balances from the statement of changes in equity flow into the equity section of the ending balance sheet. </p> <p> This is another example of financial statement articulation. </p> <h2> What you should know after this lesson </h2> <div class=\"key-points\"> <ul> <li> Roll forward retained earnings. </li> <li> Separate par value from APIC when shares are issued. </li> <li> Understand treasury stock as contra-equity. </li> <li> Understand how OCI affects AOCI. </li> <li> Distinguish owner transactions from performance-related changes. </li> <li> Connect ending equity balances to the balance sheet. </li> </ul> </div>",
+  "quiz": {
+    "id": "far-m1-l5-check",
+    "courseId": "far",
+    "moduleId": 1,
+    "lessonId": "far-m1-l5",
+    "topic": "General review",
+    "prompt": "A corporation begins the year with $500,000 of retained earnings. During the year it reports $140,000 of net income and declares $45,000 of dividends. What is ending retained earnings?",
+    "choices": [
+      {
+        "id": "far-m1-l5-check-a0",
+        "text": "$315,000"
+      },
+      {
+        "id": "far-m1-l5-check-a1",
+        "text": "$455,000"
+      },
+      {
+        "id": "far-m1-l5-check-a2",
+        "text": "$595,000"
+      },
+      {
+        "id": "far-m1-l5-check-a3",
+        "text": "$685,000"
+      }
+    ],
+    "correctChoiceId": "far-m1-l5-check-a2",
+    "explanation": "Ending retained earnings equals beginning retained earnings plus net income minus dividends: $500,000 + $140,000 − $45,000 = $595,000.",
+    "difficulty": "foundation",
+    "metadata": {
+      "section": "far",
+      "blueprintYear": 2026,
+      "areaId": "far-I",
+      "groupId": "module-1",
+      "topicId": "far-statement-of-changes-in-equity",
+      "taskIds": [
+        "far-statement-of-changes-in-equity.task-1",
+        "far-statement-of-changes-in-equity.task-2",
+        "far-statement-of-changes-in-equity.task-3"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "section": "far",
+    "blueprintYear": 2026,
+    "areaId": "far-I",
+    "groupId": "module-1",
+    "topicId": "far-statement-of-changes-in-equity",
+    "taskIds": [
+      "far-statement-of-changes-in-equity.task-1",
+      "far-statement-of-changes-in-equity.task-2",
+      "far-statement-of-changes-in-equity.task-3"
+    ],
+    "skill": "application",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      }
+    ]
+  },
+  "objectives": [
+    "Explain statement of changes in equity and its underlying principles.",
+    "Apply the topic to a financial-reporting scenario.",
+    "Evaluate common errors and their financial-statement effects."
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "id": "far-m1-l7",
+  "courseId": "far",
+  "moduleId": 1,
+  "number": 7,
+  "title": "Accounting Changes",
+  "description": "Distinguish changes in accounting principle, changes in estimate and changes in reporting entity and apply the appropriate accounting treatment.",
+  "url": "/learn/far/modules/1/lessons/7",
+  "html": "<h2> Why accounting changes matter </h2> <p> Accounting can change from one reporting period to another for several different reasons. </p> <p> The accounting treatment depends on <strong>what type of change occurred</strong>. </p> <div class=\"key-points\"> <h3>Three major categories</h3> <ul> <li> Change in accounting principle </li> <li> Change in accounting estimate </li> <li> Change in reporting entity </li> </ul> </div> <div class=\"key-points\"> <h3>CPA mindset</h3> <p> Solve accounting-change questions in this order: </p> <ol> <li> Identify what changed. </li> <li> Classify the change. </li> <li> Determine whether the treatment is retrospective or prospective. </li> <li> Determine whether prior-period financial statements or beginning equity must be adjusted. </li> </ol> </div> <h2> Change in accounting principle </h2> <p> A change in accounting principle occurs when an entity changes from one generally accepted accounting principle to another generally accepted accounting principle. </p> <div class=\"example-box\"> <h3>Example</h3> <p> A company changes its inventory-costing method from FIFO to weighted-average. </p> <p> This generally represents a change in accounting principle. </p> </div> <div class=\"key-points\"> <h3>General treatment</h3> <p> Changes in accounting principle are generally applied <strong>retrospectively</strong> when retrospective application is required and practicable. </p> </div> <h2> Retrospective application </h2> <p> Retrospective application generally presents prior periods as though the newly adopted accounting principle had been used in those periods, subject to the applicable guidance. </p> <p> When necessary, the carrying amounts of assets and liabilities as of the beginning of the earliest period presented are adjusted. </p> <p> An offsetting adjustment may also be required to the opening balance of retained earnings or another appropriate component of equity. </p> <div class=\"example-box\"> <h3>Simplified example</h3> <p> Assume retrospective application of a new accounting principle requires beginning retained earnings to increase by <strong>$24,000</strong>. </p> <p> Beginning retained earnings before adjustment: <strong>$400,000</strong> </p> <div class=\"formula-box\"> $400,000 + $24,000 = $424,000 adjusted beginning retained earnings </div> </div> <div class=\"key-points\"> <h3>CPA trap</h3> <p> Retrospective application does not mean putting the entire effect of the change into current-period net income. </p> </div> <h2> Change in accounting estimate </h2> <p> Estimates are necessary because some amounts cannot be known with certainty when financial statements are prepared. </p> <p> New information or new experience may cause management to revise an estimate. </p> <div class=\"key-points\"> <h3>Examples</h3> <ul> <li> Useful life of depreciable equipment </li> <li> Residual value </li> <li> Expected credit losses </li> <li> Certain warranty obligations </li> <li> Other estimates affected by updated information </li> </ul> </div> <div class=\"key-points\"> <h3>General treatment</h3> <p> Changes in accounting estimates are generally accounted for <strong>prospectively</strong>. </p> <p> Prior-period financial statements are not revised merely because an estimate changed based on new information. </p> </div> <h2> Prospective treatment </h2> <p> Prospective treatment affects the current period and, when applicable, future periods. </p> <div class=\"example-box\"> <h3>Depreciation estimate example</h3> <p> Equipment originally cost: <strong>$120,000</strong> </p> <p> Accumulated depreciation at the date of the estimate change: <strong>$48,000</strong> </p> <p> Revised residual value: <strong>$12,000</strong> </p> <p> Revised remaining useful life: <strong>5 years</strong> </p> <h3> Step 1 — Determine carrying amount </h3> <div class=\"formula-box\"> $120,000 − $48,000 = $72,000 </div> <h3> Step 2 — Determine remaining depreciable amount </h3> <div class=\"formula-box\"> $72,000 − $12,000 = $60,000 </div> <h3> Step 3 — Calculate revised annual depreciation </h3> <div class=\"formula-box\"> $60,000 ÷ 5 = $12,000 per year </div> <p> Previously recognized depreciation is not rewritten merely because the estimate changed. </p> </div> <h2> Change in estimate effected by a change in accounting principle </h2> <p> Sometimes separating a change in principle from a change in estimate is difficult because the new accounting method is adopted as a consequence of a change in estimate. </p> <p> Such a change is treated as a <strong>change in accounting estimate</strong> and therefore generally accounted for prospectively. </p> <div class=\"key-points\"> <h3>Classic CPA example</h3> <p> A change in depreciation method is generally treated as a change in estimate effected by a change in accounting principle. </p> <p> Therefore, it is generally applied prospectively. </p> </div> <div class=\"key-points\"> <h3>CPA trap</h3> <p> Seeing the word \"method\" does not automatically mean retrospective treatment. </p> <p> A change in depreciation method is the major exception you should recognize. </p> </div> <h2> Change in reporting entity </h2> <p> A change in reporting entity occurs when financial statements are presented for an entity that is different from the entity represented in previously issued financial statements. </p> <div class=\"key-points\"> <h3>Examples can include</h3> <ul> <li> Changing the subsidiaries included in consolidated financial statements in a manner constituting a change in reporting entity </li> <li> Changing the companies included in combined financial statements </li> </ul> </div> <div class=\"key-points\"> <h3>General treatment</h3> <p> Changes in reporting entity are generally applied <strong>retrospectively</strong> to financial statements of prior periods presented. </p> </div> <h2> Principle vs estimate </h2> <div class=\"comparison-grid\"> <div class=\"comparison-card\"> <h3> Accounting Principle </h3> <p> Change from one acceptable accounting principle to another. </p> <p> Generally retrospective. </p> </div> <div class=\"comparison-card\"> <h3> Accounting Estimate </h3> <p> Revision resulting from new information or experience. </p> <p> Generally prospective. </p> </div> </div> <h2> Accounting change versus error </h2> <p> An accounting change is not the same thing as correcting an accounting error. </p> <p> A legitimate revision of an estimate caused by new information is not an error merely because the old estimate turned out to be different from the final result. </p> <div class=\"example-box\"> <h3>Estimate change</h3> <p> A machine was originally expected to last ten years, but new information indicates that it will now last only eight years. </p> <p> Assuming the original estimate was reasonable when made, this is generally a change in estimate rather than an error. </p> </div> <div class=\"example-box\"> <h3>Error</h3> <p> A company discovers that a prior-year mathematical calculation was simply wrong. </p> <p> That is an error, not a change in estimate. </p> <p> Error corrections are covered in <strong>Lesson 8</strong>. </p> </div> <h2> Quick classification framework </h2> <div class=\"financial-example\"> <div> <span> FIFO → Weighted-Average </span> <strong> Principle </strong> </div> <div> <span> Revised Useful Life </span> <strong> Estimate </strong> </div> <div> <span> Revised Residual Value </span> <strong> Estimate </strong> </div> <div> <span> Change in Depreciation Method </span> <strong> Estimate effected by Principle Change </strong> </div> <div> <span> Change in Reporting Entity </span> <strong> Reporting Entity </strong> </div> <div> <span> Prior Mathematical Mistake </span> <strong> Error </strong> </div> </div> <h2> Worked CPA-style example </h2> <p> On January 1, a company determines that equipment's remaining useful life should change from six years to four years because of newly available information. </p> <p> Carrying amount on January 1: <strong>$92,000</strong> </p> <p> Revised residual value: <strong>$12,000</strong> </p> <h3> Step 1 — Classify the change </h3> <p> Revised useful life based on new information is a <strong>change in estimate</strong>. </p> <h3> Step 2 — Determine treatment </h3> <p> Apply the change <strong>prospectively</strong>. </p> <h3> Step 3 — Calculate revised depreciation </h3> <div class=\"formula-box\"> ($92,000 − $12,000) ÷ 4 = $20,000 per year </div> <p> Prior-period depreciation is not restated. </p> <h2> What you should know after this lesson </h2> <div class=\"key-points\"> <ul> <li> Distinguish a change in principle from a change in estimate. </li> <li> Know that changes in principle are generally retrospective. </li> <li> Know that changes in estimates are generally prospective. </li> <li> Recognize a change in depreciation method as a change in estimate effected by a change in principle. </li> <li> Understand the treatment of a change in reporting entity. </li> <li> Distinguish legitimate accounting changes from errors. </li> <li> Recalculate depreciation correctly after an estimate change. </li> </ul> </div>",
+  "quiz": {
+    "id": "far-m1-l7-check",
+    "courseId": "far",
+    "moduleId": 1,
+    "lessonId": "far-m1-l7",
+    "topic": "General review",
+    "prompt": "A company changes the estimated remaining useful life of equipment because new information indicates that the asset will be productive for longer than previously expected. How should the change generally be accounted for?",
+    "choices": [
+      {
+        "id": "far-m1-l7-check-a0",
+        "text": "Prospectively as a change in accounting estimate"
+      },
+      {
+        "id": "far-m1-l7-check-a1",
+        "text": "Retrospectively by restating all prior financial statements"
+      },
+      {
+        "id": "far-m1-l7-check-a2",
+        "text": "As a prior-period error correction"
+      },
+      {
+        "id": "far-m1-l7-check-a3",
+        "text": "Directly through beginning additional paid-in capital"
+      }
+    ],
+    "correctChoiceId": "far-m1-l7-check-a0",
+    "explanation": "A revision of useful life based on new information is a change in accounting estimate. Changes in estimates are generally accounted for prospectively in the period of change and future periods when affected.",
+    "difficulty": "foundation",
+    "metadata": {
+      "section": "far",
+      "blueprintYear": 2026,
+      "areaId": "far-III",
+      "groupId": "module-1",
+      "topicId": "far-accounting-changes",
+      "taskIds": [
+        "far-accounting-changes.task-1",
+        "far-accounting-changes.task-2",
+        "far-accounting-changes.task-3"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "section": "far",
+    "blueprintYear": 2026,
+    "areaId": "far-III",
+    "groupId": "module-1",
+    "topicId": "far-accounting-changes",
+    "taskIds": [
+      "far-accounting-changes.task-1",
+      "far-accounting-changes.task-2",
+      "far-accounting-changes.task-3"
+    ],
+    "skill": "application",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      }
+    ]
+  },
+  "objectives": [
+    "Explain accounting changes and its underlying principles.",
+    "Apply the topic to a financial-reporting scenario.",
+    "Evaluate common errors and their financial-statement effects."
+  ]
+}

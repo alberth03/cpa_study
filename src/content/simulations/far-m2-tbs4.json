@@ -1,0 +1,62 @@
+{
+  "id": "far-m2-tbs4",
+  "moduleId": 2,
+  "number": 4,
+  "title": "FAR Module 2 · TBS 4",
+  "fields": [
+    {
+      "id": "far-m2-tbs4-cost",
+      "label": "1. Capitalized Cost of Equipment",
+      "type": "number",
+      "options": [],
+      "correct": 200000
+    },
+    {
+      "id": "far-m2-tbs4-depreciation",
+      "label": "2. Annual Straight-Line Depreciation",
+      "type": "number",
+      "options": [],
+      "correct": 18000
+    },
+    {
+      "id": "far-m2-tbs4-carrying",
+      "label": "3. Carrying Amount at End of Year 3 Before Impairment",
+      "type": "number",
+      "options": [],
+      "correct": 146000
+    },
+    {
+      "id": "far-m2-tbs4-impairment",
+      "label": "4. Impairment Loss",
+      "type": "number",
+      "options": [],
+      "correct": 28000
+    }
+  ],
+  "html": "<section class=\"exam-page\"> <div class=\"course-intro-card\"> <span class=\"exam-badge\"> TASK-BASED SIMULATION </span> <h2> Equipment Acquisition, Depreciation &amp; Impairment </h2> <p> Determine the capitalized cost of equipment, calculate depreciation and analyze whether an impairment loss should be recognized. </p> </div> <div class=\"quiz-card\"> <h2> Scenario </h2> <p> Atlas Corp. purchased production equipment on January 1 for a quoted price of <strong>$180,000</strong>. </p> <p> Atlas incurred the following additional costs: </p> <div class=\"financial-example\"> <div> <span>Freight</span> <strong>$6,000</strong> </div> <div> <span>Installation</span> <strong>$9,000</strong> </div> <div> <span>Testing Before Use</span> <strong>$5,000</strong> </div> <div> <span>Annual Maintenance Contract</span> <strong>$4,000</strong> </div> </div> <p> The equipment has an estimated useful life of <strong>10 years</strong>, an estimated residual value of <strong>$20,000</strong>, and Atlas uses straight-line depreciation. </p> <div class=\"key-points\"> <h3> Impairment Information </h3> <p> At the end of Year 3, after recording Year 3 depreciation, adverse business conditions indicate that the equipment may be impaired. </p> <p> The sum of the expected undiscounted future cash flows from the equipment is <strong>$130,000</strong>. </p> <p> The equipment's fair value at that date is <strong>$118,000</strong>. </p> </div> <h2> Required </h2> <div class=\"financial-example\"> <div> <span> 1. Capitalized Cost of Equipment </span> <input type=\"number\" id=\"far-m2-tbs4-cost\" placeholder=\"Enter amount\"> </div> <div> <span> 2. Annual Straight-Line Depreciation </span> <input type=\"number\" id=\"far-m2-tbs4-depreciation\" placeholder=\"Enter amount\"> </div> <div> <span> 3. Carrying Amount at End of Year 3 Before Impairment </span> <input type=\"number\" id=\"far-m2-tbs4-carrying\" placeholder=\"Enter amount\"> </div> <div> <span> 4. Impairment Loss </span> <input type=\"number\" id=\"far-m2-tbs4-impairment\" placeholder=\"Enter amount\"> </div> </div> <div id=\"far-m2-tbs4-result\"></div> </div> </section>",
+  "explanation": "<div class=\"result-correct\"> <h3> Step 1 — Capitalized Cost </h3> <p> Costs necessary to acquire the equipment and prepare it for its intended use are included in the asset's cost. </p> <div class=\"formula-box\"> Purchase Price $180,000 + Freight $6,000 + Installation $9,000 + Testing $5,000 = $200,000 </div> <p> The $4,000 annual maintenance contract is a period expense and is not capitalized as part of the equipment. </p> <p> <strong> Capitalized Cost: $200,000 </strong> </p> <h3> Step 2 — Annual Depreciation </h3> <div class=\"formula-box\"> ($200,000 − $20,000) ÷ 10 Years = $18,000 </div> <p> <strong> Annual Depreciation: $18,000 </strong> </p> <h3> Step 3 — Carrying Amount After 3 Years </h3> <div class=\"formula-box\"> Accumulated Depreciation: $18,000 × 3 = $54,000 </div> <div class=\"formula-box\"> $200,000 − $54,000 = $146,000 </div> <p> <strong> Carrying Amount: $146,000 </strong> </p> <h3> Step 4 — Impairment Test </h3> <p> Because impairment indicators exist, Atlas first performs the recoverability test. </p> <div class=\"formula-box\"> Carrying Amount: $146,000 &gt; Undiscounted Future Cash Flows: $130,000 </div> <p> Because the carrying amount exceeds undiscounted future cash flows, the asset is not recoverable and an impairment loss must be recognized. </p> <div class=\"formula-box\"> Carrying Amount $146,000 − Fair Value $118,000 = $28,000 </div> <p> <strong> Impairment Loss: $28,000 </strong> </p> <div class=\"key-points\"> <h3> CPA Takeaway </h3> <ul> <li> Capitalize costs necessary to acquire an asset and prepare it for use. </li> <li> Ordinary recurring maintenance is generally expensed. </li> <li> For long-lived assets held and used, first test recoverability using undiscounted cash flows. </li> <li> If the asset is not recoverable, measure the impairment loss using fair value. </li> </ul> </div> </div>",
+  "courseId": "far",
+  "difficulty": "advanced",
+  "metadata": {
+    "section": "far",
+    "blueprintYear": 2026,
+    "areaId": "far-II",
+    "groupId": "module-2",
+    "topicId": "far-long-term-debt",
+    "taskIds": [
+      "far-long-term-debt.task-1",
+      "far-long-term-debt.task-2",
+      "far-long-term-debt.task-3"
+    ],
+    "skill": "analysis",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      }
+    ]
+  }
+}

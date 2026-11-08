@@ -1,0 +1,88 @@
+{
+  "id": "far-m2-l1",
+  "courseId": "far",
+  "moduleId": 2,
+  "number": 1,
+  "title": "Cash & Cash Equivalents",
+  "description": "Understand cash classifications, cash equivalents, restricted cash, bank reconciliations and financial statement presentation.",
+  "url": "/learn/far/modules/2/lessons/1",
+  "html": "<h2> Cash &amp; Cash Equivalents </h2> <p> Cash is one of the most liquid assets on the balance sheet. For CPA Exam purposes, you should be able to determine which items qualify as cash or cash equivalents, identify restricted cash, and understand basic bank reconciliation concepts. </p> <h3> 1. What Is Included in Cash? </h3> <p> Cash generally includes amounts that are immediately available for use in paying current obligations. </p> <div class=\"key-points\"> <p> <strong>Common examples include:</strong> </p> <ul> <li> Currency and coins </li> <li> Demand deposits in checking accounts </li> <li> Savings accounts available for withdrawal </li> <li> Undeposited customer checks </li> <li> Cashier's checks and money orders held by the company </li> </ul> </div> <h3> 2. Cash Equivalents </h3> <p> Cash equivalents are short-term, highly liquid investments that are readily convertible to known amounts of cash and have an insignificant risk of changes in value. </p> <div class=\"formula-box\"> Original maturity: <strong> Generally three months or less </strong> </div> <p> The maturity test is generally based on the investment's original maturity when acquired by the company, not simply how much time remains until maturity at the reporting date. </p> <div class=\"example-box\"> <h3> Example </h3> <p> A company purchases a U.S. Treasury bill when it has two months remaining until maturity. </p> <p> Assuming the other cash-equivalent criteria are met, the Treasury bill may qualify as a cash equivalent. </p> <p> However, an investment originally purchased with a one-year maturity does not become a cash equivalent merely because only two months remain before maturity. </p> </div> <h3> 3. Items That Are Generally Not Cash </h3> <div class=\"key-points\"> <ul> <li> Postdated checks received from customers </li> <li> Employee advances </li> <li> IOUs </li> <li> Stale or uncollectible checks </li> <li> Certificates of deposit or investments that do not meet the cash-equivalent requirements </li> </ul> </div> <h3> 4. Restricted Cash </h3> <p> Cash may be restricted for a specific purpose and therefore unavailable for general operations. </p> <p> Examples can include cash restricted for debt repayment, construction, contractual requirements, or other designated purposes. </p> <div class=\"key-points\"> <p> Restricted cash is still cash, but the nature and duration of the restriction affect its financial statement classification, presentation, and disclosure. </p> <p> For example, cash restricted for a long-term purpose, such as construction of a noncurrent asset or repayment of long-term debt, generally should not be classified with unrestricted current cash. </p> </div> <h3> 5. Bank Reconciliations </h3> <p> A bank reconciliation explains differences between the cash balance reported by the bank and the cash balance recorded in the company's accounting records. </p> <h4> Common Bank-Side Adjustments </h4> <ul> <li> Deposits in transit </li> <li> Outstanding checks </li> <li> Bank errors </li> </ul> <h4> Common Book-Side Adjustments </h4> <ul> <li> Bank service charges </li> <li> NSF customer checks </li> <li> Interest earned </li> <li> Electronic collections or payments not yet recorded </li> <li> Errors made in the company's accounting records </li> </ul> <div class=\"formula-box\"> Adjusted Bank Balance = Adjusted Book Balance </div> <div class=\"example-box\"> <h3> Bank Reconciliation Example </h3> <p> Bank statement balance: <strong>$52,000</strong> </p> <p> Add deposits in transit: <strong>$6,000</strong> </p> <p> Subtract outstanding checks: <strong>$8,000</strong> </p> <div class=\"formula-box\"> $52,000 + $6,000 − $8,000 = <strong>$50,000 adjusted cash balance</strong> </div> </div> <h3> 6. CPA Exam Focus </h3> <div class=\"key-points\"> <ul> <li> Know what qualifies as cash. </li> <li> Apply the cash-equivalent maturity concept correctly. </li> <li> Distinguish restricted cash from unrestricted cash. </li> <li> Know whether a reconciliation item adjusts the bank side or the book side. </li> <li> Remember that book-side reconciling items generally require accounting entries. </li> </ul> </div>",
+  "quiz": {
+    "id": "far-m2-l1-check",
+    "courseId": "far",
+    "moduleId": 2,
+    "lessonId": "far-m2-l1",
+    "topic": "General review",
+    "prompt": "Which investment is most likely to qualify as a cash equivalent?",
+    "choices": [
+      {
+        "id": "far-m2-l1-check-a0",
+        "text": "A bond purchased with five years remaining until maturity"
+      },
+      {
+        "id": "far-m2-l1-check-a1",
+        "text": "A Treasury bill purchased when it has two months remaining until maturity"
+      },
+      {
+        "id": "far-m2-l1-check-a2",
+        "text": "Common stock expected to be sold within three months"
+      },
+      {
+        "id": "far-m2-l1-check-a3",
+        "text": "A one-year certificate of deposit purchased eleven months ago"
+      }
+    ],
+    "correctChoiceId": "far-m2-l1-check-a1",
+    "explanation": "Cash equivalents are short-term, highly liquid investments that are readily convertible to known amounts of cash and generally have an original maturity of three months or less when acquired. A Treasury bill purchased with two months remaining until maturity can meet that requirement.",
+    "difficulty": "foundation",
+    "metadata": {
+      "section": "far",
+      "blueprintYear": 2026,
+      "areaId": "far-II",
+      "groupId": "module-2",
+      "topicId": "far-cash-cash-equivalents",
+      "taskIds": [
+        "far-cash-cash-equivalents.task-1",
+        "far-cash-cash-equivalents.task-2",
+        "far-cash-cash-equivalents.task-3"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "section": "far",
+    "blueprintYear": 2026,
+    "areaId": "far-II",
+    "groupId": "module-2",
+    "topicId": "far-cash-cash-equivalents",
+    "taskIds": [
+      "far-cash-cash-equivalents.task-1",
+      "far-cash-cash-equivalents.task-2",
+      "far-cash-cash-equivalents.task-3"
+    ],
+    "skill": "application",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      }
+    ]
+  },
+  "objectives": [
+    "Explain cash & cash equivalents and its underlying principles.",
+    "Apply the topic to a financial-reporting scenario.",
+    "Evaluate common errors and their financial-statement effects."
+  ]
+}

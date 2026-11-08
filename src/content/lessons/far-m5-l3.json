@@ -1,0 +1,88 @@
+{
+  "id": "far-m5-l3",
+  "courseId": "far",
+  "moduleId": 5,
+  "number": 3,
+  "title": "Contributions & Donor Restrictions",
+  "description": "Account for contributions, donor-imposed restrictions, and releases from restriction.",
+  "url": "/learn/far/modules/5/lessons/3",
+  "html": "<h2> What Is a Contribution? </h2> <p> A contribution is generally a voluntary, nonreciprocal transfer of assets from a donor to a not-for-profit organization. </p> <div class=\"formula-box\"> CONTRIBUTION = NONRECIPROCAL TRANSFER </div> <h2> Contribution vs. Exchange Transaction </h2> <p> The key question is whether the resource provider receives approximately equal value in return. </p> <div class=\"financial-example\"> <div> <span> Contribution </span> <strong> Donor Does Not Receive Commensurate Value </strong> </div> <div> <span> Exchange Transaction </span> <strong> Each Party Receives Commensurate Value </strong> </div> </div> <div class=\"example-box\"> <strong> Example </strong> <p> A supporter gives a charity <strong>$25,000</strong> and receives nothing of comparable value. </p> <p> This is generally a contribution. </p> </div> <h2> Unconditional Contributions </h2> <p> An unconditional contribution is generally recognized when the contribution is made or promised, subject to the applicable recognition requirements. </p> <p> After determining that a contribution is unconditional, determine whether the donor imposed a restriction. </p> <div class=\"formula-box\"> STEP 1 IS IT A CONTRIBUTION? STEP 2 IS IT CONDITIONAL? STEP 3 DOES IT HAVE A DONOR RESTRICTION? </div> <h2> Contribution Without Donor Restrictions </h2> <p> Assume a donor gives an organization <strong>$60,000</strong> and allows the organization to use the money for any appropriate purpose. </p> <div class=\"formula-box\"> $60,000 CONTRIBUTION → WITHOUT DONOR RESTRICTIONS </div> <h2> Contribution With a Purpose Restriction </h2> <p> Assume a donor contributes <strong>$120,000</strong> and requires that the funds be used for a literacy program. </p> <div class=\"formula-box\"> DONOR SPECIFIES PURPOSE → WITH DONOR RESTRICTIONS </div> <h2> Contribution With a Time Restriction </h2> <p> A donor may also restrict when the organization can use contributed resources. </p> <div class=\"example-box\"> <strong> Example </strong> <p> On December 1, a donor makes an unconditional promise to give <strong>$50,000</strong> that is payable in the following year. </p> <p> The promise may carry a donor-imposed time restriction until the future period. </p> </div> <h2> Restrictions Affect Classification </h2> <p> A donor restriction generally affects <strong>which net asset class</strong> receives the contribution. </p> <p> A restriction does not necessarily mean contribution revenue should wait until the restriction is satisfied. </p> <div class=\"formula-box\"> UNCONDITIONAL CONTRIBUTION + DONOR RESTRICTION → RECOGNIZE IN NET ASSETS WITH DONOR RESTRICTIONS </div> <h2> Restriction vs. Condition </h2> <p> These concepts must not be confused. </p> <div class=\"financial-example\"> <div> <span> Restriction </span> <strong> Limits How or When Resources May Be Used </strong> </div> <div> <span> Condition </span> <strong> Must Generally Be Overcome Before Contribution Revenue Is Recognized </strong> </div> </div> <div class=\"key-points\"> <h3> Important </h3> <p> A donor restriction and a donor condition are not the same thing. </p> </div> <h2> Release From Restriction </h2> <p> When the organization satisfies a donor's purpose restriction or a time restriction expires, the related amount is generally reclassified from net assets with donor restrictions to net assets without donor restrictions. </p> <div class=\"formula-box\"> RESTRICTION SATISFIED WITH DONOR RESTRICTIONS ↓ WITHOUT DONOR RESTRICTIONS ↑ </div> <h2> Example — Release </h2> <p> A charity previously received <strong>$100,000</strong> restricted by the donor for medical research. </p> <p> During the current year, the charity incurs <strong>$100,000</strong> of qualifying medical research expenses. </p> <div class=\"financial-example\"> <div> <span> With Donor Restrictions </span> <strong> − $100,000 </strong> </div> <div> <span> Without Donor Restrictions </span> <strong> + $100,000 </strong> </div> </div> <p> This is a release from restriction. It is not a second contribution. </p> <h2> Donor Intent Matters </h2> <p> When analyzing a CPA question, carefully identify the donor's instructions. </p> <div class=\"key-points\"> <ul> <li> \"Use wherever needed\" → generally without donor restrictions. </li> <li> \"Use for scholarships\" → purpose restriction. </li> <li> \"Use next year\" → time restriction. </li> <li> \"Maintain the principal\" → donor restriction associated with an endowment. </li> </ul> </div> <h2> Numerical Example </h2> <p> During the year, an NFP receives: </p> <div class=\"financial-example\"> <div> <span> Unrestricted Contribution </span> <strong> $70,000 </strong> </div> <div> <span> Donor-Restricted Contribution </span> <strong> $130,000 </strong> </div> </div> <div class=\"formula-box\"> TOTAL CONTRIBUTIONS $70,000 + $130,000 = $200,000 </div> <p> The organization recognizes $200,000 of contributions, but the amounts are reported in different net asset classes based on the donor restrictions. </p> <h2> CPA Memory Rule </h2> <div class=\"formula-box\"> RESTRICTION = RECOGNIZE, BUT CLASSIFY CONDITION = WAIT UNTIL THE BARRIER IS SUBSTANTIALLY OVERCOME </div> <div class=\"key-points\"> <h3> Key Takeaways </h3> <ul> <li> Contributions are generally nonreciprocal. </li> <li> Unconditional contributions are generally recognized when made or promised. </li> <li> Donor restrictions affect net asset classification. </li> <li> Restrictions and conditions are different concepts. </li> <li> Satisfying a restriction generally creates a release from restriction. </li> </ul> </div>",
+  "quiz": {
+    "id": "far-m5-l3-check",
+    "courseId": "far",
+    "moduleId": 5,
+    "lessonId": "far-m5-l3",
+    "topic": "General review",
+    "prompt": "A donor unconditionally contributes $90,000 to an NFP and requires that the funds be used only for its youth education program. At the date of contribution, how should the NFP generally report the contribution?",
+    "choices": [
+      {
+        "id": "far-m5-l3-check-a0",
+        "text": "Do not recognize revenue until the money is spent"
+      },
+      {
+        "id": "far-m5-l3-check-a1",
+        "text": "Recognize $90,000 in net assets without donor restrictions"
+      },
+      {
+        "id": "far-m5-l3-check-a2",
+        "text": "Recognize $90,000 in net assets with donor restrictions"
+      },
+      {
+        "id": "far-m5-l3-check-a3",
+        "text": "Record a $90,000 liability"
+      }
+    ],
+    "correctChoiceId": "far-m5-l3-check-a2",
+    "explanation": "The contribution is unconditional, so it is generally recognized when made. Because the donor imposed a purpose restriction, it is reported within net assets with donor restrictions.",
+    "difficulty": "foundation",
+    "metadata": {
+      "section": "far",
+      "blueprintYear": 2026,
+      "areaId": "far-I",
+      "groupId": "module-5",
+      "topicId": "far-contributions-donor-restrictions",
+      "taskIds": [
+        "far-contributions-donor-restrictions.task-1",
+        "far-contributions-donor-restrictions.task-2",
+        "far-contributions-donor-restrictions.task-3"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "section": "far",
+    "blueprintYear": 2026,
+    "areaId": "far-I",
+    "groupId": "module-5",
+    "topicId": "far-contributions-donor-restrictions",
+    "taskIds": [
+      "far-contributions-donor-restrictions.task-1",
+      "far-contributions-donor-restrictions.task-2",
+      "far-contributions-donor-restrictions.task-3"
+    ],
+    "skill": "application",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      }
+    ]
+  },
+  "objectives": [
+    "Explain contributions & donor restrictions and its underlying principles.",
+    "Apply the topic to a financial-reporting scenario.",
+    "Evaluate common errors and their financial-statement effects."
+  ]
+}

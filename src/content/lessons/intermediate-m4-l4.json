@@ -1,0 +1,88 @@
+{
+  "id": "intermediate-m4-l4",
+  "courseId": "intermediate",
+  "moduleId": 4,
+  "number": 4,
+  "title": "Disposal of PPE",
+  "description": "Calculate carrying amount and gains or losses when long-lived assets are sold or retired.",
+  "url": "/learn/intermediate/modules/4/lessons/4",
+  "html": "<h2>What happens when PPE is sold?</h2> <p> Before calculating a gain or loss, the company needs to know the asset's carrying amount at the date of disposal. </p> <div class=\"formula-box\"> Carrying Amount = Cost − Accumulated Depreciation </div> <h2>Then compare carrying amount with proceeds</h2> <div class=\"formula-box\"> Gain or Loss = Selling Price − Carrying Amount </div> <div class=\"key-points\"> <ul> <li>If selling price is greater than carrying amount → Gain</li> <li>If selling price is less than carrying amount → Loss</li> <li>If selling price equals carrying amount → No gain or loss</li> </ul> </div> <h2>Example 1 — Gain</h2> <p> Equipment originally cost <strong>$60,000</strong>. Accumulated depreciation is <strong>$42,000</strong>. </p> <div class=\"formula-box\"> Carrying Amount = $60,000 − $42,000 = $18,000 </div> <p> The company sells the equipment for <strong>$22,000</strong>. </p> <div class=\"formula-box\"> $22,000 − $18,000 = $4,000 Gain </div> <h2>Journal entry</h2> <div class=\"journal-entry\"> <div class=\"journal-row journal-header\"> <div>Account</div> <div>Debit</div> <div>Credit</div> </div> <div class=\"journal-row\"> <div>Cash</div> <div>$22,000</div> <div>—</div> </div> <div class=\"journal-row\"> <div>Accumulated Depreciation</div> <div>$42,000</div> <div>—</div> </div> <div class=\"journal-row credit-row\"> <div>Equipment</div> <div>—</div> <div>$60,000</div> </div> <div class=\"journal-row credit-row\"> <div>Gain on Disposal</div> <div>—</div> <div>$4,000</div> </div> </div> <h2>Example 2 — Loss</h2> <p> Assume the same asset is sold for <strong>$15,000</strong>. </p> <div class=\"formula-box\"> $15,000 − $18,000 = ($3,000) Loss </div> <div class=\"key-points\"> <h3>Important habit</h3> <p> Always calculate carrying amount first. Then compare it with the proceeds. </p> </div>",
+  "quiz": {
+    "id": "intermediate-m4-l4-check",
+    "courseId": "intermediate",
+    "moduleId": 4,
+    "lessonId": "intermediate-m4-l4",
+    "topic": "General review",
+    "prompt": "Equipment cost $90,000 and has accumulated depreciation of $65,000. It is sold for $30,000. What is the gain or loss?",
+    "choices": [
+      {
+        "id": "intermediate-m4-l4-check-a0",
+        "text": "$5,000 gain"
+      },
+      {
+        "id": "intermediate-m4-l4-check-a1",
+        "text": "$5,000 loss"
+      },
+      {
+        "id": "intermediate-m4-l4-check-a2",
+        "text": "$25,000 gain"
+      },
+      {
+        "id": "intermediate-m4-l4-check-a3",
+        "text": "$30,000 gain"
+      }
+    ],
+    "correctChoiceId": "intermediate-m4-l4-check-a0",
+    "explanation": "Carrying amount is $90,000 − $65,000 = $25,000. Selling price of $30,000 exceeds carrying amount by $5,000, so there is a $5,000 gain.",
+    "difficulty": "foundation",
+    "metadata": {
+      "section": "intermediate",
+      "blueprintYear": 2026,
+      "areaId": "intermediate-I",
+      "groupId": "module-4",
+      "topicId": "intermediate-disposal-of-ppe",
+      "taskIds": [
+        "intermediate-disposal-of-ppe.task-1",
+        "intermediate-disposal-of-ppe.task-2",
+        "intermediate-disposal-of-ppe.task-3"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "section": "intermediate",
+    "blueprintYear": 2026,
+    "areaId": "intermediate-I",
+    "groupId": "module-4",
+    "topicId": "intermediate-disposal-of-ppe",
+    "taskIds": [
+      "intermediate-disposal-of-ppe.task-1",
+      "intermediate-disposal-of-ppe.task-2",
+      "intermediate-disposal-of-ppe.task-3"
+    ],
+    "skill": "application",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      }
+    ]
+  },
+  "objectives": [
+    "Explain disposal of ppe and its underlying principles.",
+    "Apply the topic to a financial-reporting scenario.",
+    "Evaluate common errors and their financial-statement effects."
+  ]
+}

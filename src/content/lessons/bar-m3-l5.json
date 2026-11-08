@@ -1,0 +1,103 @@
+{
+  "id": "bar-m3-l5",
+  "courseId": "bar",
+  "moduleId": 3,
+  "number": 5,
+  "title": "Budgets, Encumbrances & Integrated Reporting",
+  "description": "Explain budgets, encumbrances & integrated reporting.",
+  "url": "/learn/bar/modules/3/lessons/5",
+  "metadata": {
+    "section": "bar",
+    "blueprintYear": 2026,
+    "areaId": "bar-III",
+    "groupId": "A-B-C",
+    "topicId": "bar-government-budgets",
+    "taskIds": [
+      "bar-government-budgets.task-1",
+      "bar-government-budgets.task-2",
+      "bar-government-budgets.task-3"
+    ],
+    "skill": "application",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      },
+      {
+        "title": "FASB accounting standards",
+        "url": "https://asc.fasb.org/"
+      },
+      {
+        "title": "GASB standards",
+        "url": "https://www.gasb.org/standards-and-implementation"
+      }
+    ]
+  },
+  "html": "<h2>Budgetary Accounting & Encumbrances</h2><h2> Why Governments Use Budgets </h2> <p> Budgets are especially important in governmental accounting because they help demonstrate <strong>legal and financial accountability</strong> over public resources. </p> <p> Governments may formally record budgetary information in their accounting systems during the fiscal year. </p> <h2> Basic Budgetary Accounts </h2> <div class=\"financial-example\"> <div> <span>Estimated Revenues</span> <strong> Resources Expected to Be Available </strong> </div> <div> <span>Appropriations</span> <strong> Authorized Spending </strong> </div> <div> <span>Encumbrances</span> <strong> Commitments Related to Orders or Contracts </strong> </div> </div> <h2> Estimated Revenues </h2> <p> Estimated revenues represent revenues the government expects to obtain during the budget period. </p> <div class=\"example-box\"> <strong> Example </strong> <p> A city expects to collect <strong>$5,000,000</strong> in taxes and other revenues during the next fiscal year. </p> <p> The adopted budget may include estimated revenues of $5,000,000. </p> </div> <h2> Appropriations </h2> <p> Appropriations represent authorization to spend government resources. </p> <div class=\"formula-box\"> APPROPRIATION = AUTHORIZED SPENDING </div> <p> An appropriation does not itself mean that an expenditure has already occurred. </p> <h2> What Is an Encumbrance? </h2> <p> An encumbrance is generally used to record a commitment related to an outstanding purchase order or contract. </p> <p> Encumbrance accounting helps governments monitor amounts committed against available budgetary authority and avoid overcommitting appropriated resources. </p> <div class=\"formula-box\"> PURCHASE ORDER ISSUED → ENCUMBRANCE RECORDED ≠ EXPENDITURE YET </div> <h2> Example — Purchase Order </h2> <p> Assume a governmental fund issues a purchase order for equipment expected to cost <strong>$40,000</strong>. </p> <p> At the purchase-order stage, the government may record an encumbrance of $40,000. </p> <div class=\"financial-example\"> <div> <span>Purchase Order</span> <strong>$40,000</strong> </div> <div> <span>Encumbrance</span> <strong>$40,000</strong> </div> <div> <span>Expenditure at This Point</span> <strong>$0</strong> </div> </div> <h2> When the Goods Arrive </h2> <p> Assume the equipment is later received and the actual invoice is <strong>$39,500</strong>. </p> <p> The outstanding encumbrance is generally reversed, and the actual transaction is recognized using the appropriate expenditure and liability accounts. </p> <div class=\"formula-box\"> STEP 1 Reverse Original Encumbrance $40,000 STEP 2 Record Actual Expenditure $39,500 </div> <h2> Encumbrance vs. Expenditure </h2> <div class=\"financial-example\"> <div> <span> Encumbrance </span> <strong> Commitment Before the Actual Transaction </strong> </div> <div> <span> Expenditure </span> <strong> Recognized When the Fund Incurs the Related Obligation </strong> </div> </div> <div class=\"key-points\"> <h3> CPA Trap </h3> <p> Do not treat the issuance of a purchase order as an expenditure merely because an encumbrance was recorded. </p> </div> <h2> Budgetary Surplus Example </h2> <p> Assume the adopted budget contains: </p> <div class=\"financial-example\"> <div> <span>Estimated Revenues</span> <strong>$2,000,000</strong> </div> <div> <span>Appropriations</span> <strong>$1,850,000</strong> </div> </div> <div class=\"formula-box\"> $2,000,000 − $1,850,000 = $150,000 BUDGETARY SURPLUS </div> <p> If appropriations exceed estimated revenues, the difference represents a budgetary deficit rather than a surplus. </p> <h2> Budgetary vs. GAAP Accounting </h2> <p> Budgetary accounts are used to control and monitor legally authorized financial activity. </p> <p> They should not be confused with the accounts used to report actual revenues, expenditures, assets, and liabilities under GAAP. </p> <div class=\"formula-box\"> BUDGET = PLAN + AUTHORIZATION ACTUAL ACCOUNTING = WHAT REALLY OCCURRED </div> <h2> CPA Memory Rule </h2> <div class=\"key-points\"> <ul> <li> Estimated revenues = expected resources. </li> <li> Appropriations = authorized spending. </li> <li> Encumbrances = commitments. </li> <li> A purchase order generally creates an encumbrance, not an expenditure. </li> <li> When the goods or services are received, the encumbrance is generally reversed and the actual transaction is recorded. </li> </ul> </div> <h2> Key Takeaway </h2> <p> Think of the sequence as: </p> <div class=\"formula-box\"> BUDGET AUTHORIZED → PURCHASE ORDER → ENCUMBRANCE → GOODS / SERVICES RECEIVED → EXPENDITURE </div><h2>Governmental Accounting Integrated Review</h2><h2> Governmental Accounting — Big Picture </h2> <p> The fastest way to solve governmental accounting questions is to first identify <strong>what type of reporting is involved</strong>. </p> <div class=\"financial-example\"> <div> <span>Governmental Funds</span> <strong> Current Financial Resources + Modified Accrual </strong> </div> <div> <span>Proprietary Funds</span> <strong> Economic Resources + Accrual </strong> </div> <div> <span>Fiduciary Funds</span> <strong> Economic Resources + Accrual </strong> </div> <div> <span>Government-Wide</span> <strong> Economic Resources + Accrual </strong> </div> </div> <h2> Governmental Fund Types </h2> <div class=\"formula-box\"> GENERAL → Primary Operating Fund SPECIAL REVENUE → Restricted / Committed Revenue Sources CAPITAL PROJECTS → Capital Outlays / Acquire or Construct Capital Assets DEBT SERVICE → Governmental Debt Payments PERMANENT → Principal Maintained </div> <h2> Proprietary Funds </h2> <div class=\"formula-box\"> ENTERPRISE → Primarily External Users INTERNAL SERVICE → Primarily Internal Government Users </div> <p> Both generally use accrual accounting and the economic resources measurement focus. </p> <h2> Fiduciary Funds </h2> <p> Fiduciary funds generally account for resources held or administered for others. </p> <div class=\"key-points\"> <ul> <li> Pension and other employee benefit trust funds </li> <li> Investment trust funds </li> <li> Private-purpose trust funds </li> <li> Custodial funds </li> </ul> </div> <p> Fiduciary activities are generally excluded from government-wide financial statements. </p> <h2> Modified Accrual </h2> <div class=\"formula-box\"> REVENUE = MEASURABLE + AVAILABLE </div> <p> Governmental funds generally report <strong>expenditures</strong> rather than expenses. </p> <h2> Capital Assets </h2> <div class=\"financial-example\"> <div> <span>Governmental Fund</span> <strong> Capital Purchase → Expenditure </strong> </div> <div> <span>Government-Wide</span> <strong> Capitalize Asset → Recognize Depreciation </strong> </div> </div> <h2> Long-Term Debt </h2> <div class=\"financial-example\"> <div> <span>Governmental Fund</span> <strong> Bond Proceeds → Other Financing Source </strong> </div> <div> <span>Government-Wide</span> <strong> Bond Proceeds → Long-Term Liability </strong> </div> </div> <h2> Government-Wide Reporting </h2> <div class=\"formula-box\"> GOVERNMENTAL ACTIVITIES ✓ BUSINESS-TYPE ACTIVITIES ✓ FIDUCIARY ACTIVITIES ✗ </div> <p> Government-wide statements generally include capital assets, depreciation, and long-term liabilities because they use the economic resources measurement focus. </p> <h2> Fund-to-Government-Wide Reconciliation </h2> <div class=\"key-points\"> <ul> <li> Capital outlay → add back when reconciling operating results. </li> <li> Depreciation → subtract. </li> <li> Debt principal payment → add back. </li> <li> Bond proceeds → remove their governmental-fund financing effect. </li> <li> Adjust revenue recognition differences caused by modified accrual. </li> </ul> </div> <h2> Budgetary Accounting </h2> <div class=\"formula-box\"> ESTIMATED REVENUES = Expected Resources APPROPRIATIONS = Authorized Spending ENCUMBRANCES = Commitments </div> <p> Remember: <strong>an encumbrance is not an expenditure.</strong> </p> <h2> Integrated Example </h2> <p> A city's General Fund reports the following during the year: </p> <div class=\"financial-example\"> <div> <span>Revenues</span> <strong>$1,000,000</strong> </div> <div> <span>Operating Expenditures</span> <strong>$700,000</strong> </div> <div> <span>Capital Outlay</span> <strong>$120,000</strong> </div> <div> <span>Bond Proceeds</span> <strong>$200,000</strong> </div> </div> <h2> Governmental Fund Result </h2> <div class=\"formula-box\"> $1,000,000 Revenue − $700,000 Operating Expenditures − $120,000 Capital Outlay + $200,000 Other Financing Source = $380,000 Increase in Fund Balance </div> <h2> Now Convert to Government-Wide </h2> <p> Assume depreciation on governmental capital assets for the year is <strong>$30,000</strong>. </p> <p> The $120,000 capital outlay must be reversed because government-wide reporting capitalizes the asset. </p> <p> The $200,000 bond proceeds must also be removed from the operating result because they create a liability rather than revenue. </p> <div class=\"formula-box\"> $380,000 + $120,000 Capital Outlay − $30,000 Depreciation − $200,000 Bond Proceeds = $270,000 CHANGE IN NET POSITION </div> <h2> CPA Decision Process </h2> <div class=\"key-points\"> <ol> <li> Identify the fund or reporting level. </li> <li> Identify the measurement focus. </li> <li> Identify the accounting basis. </li> <li> Decide whether the transaction is a revenue, expenditure, expense, or other financing source/use. </li> <li> Determine whether capital assets or long-term liabilities belong in that reporting level. </li> </ol> </div> <h2> Final Memory Map </h2> <div class=\"formula-box\"> GOVERNMENTAL → MODIFIED ACCRUAL PROPRIETARY → ACCRUAL FIDUCIARY → ACCRUAL GOVERNMENT-WIDE → ACCRUAL PURCHASE ORDER → ENCUMBRANCE CAPITAL OUTLAY FUND: EXPENDITURE GOVERNMENT-WIDE: CAPITAL ASSET BOND PROCEEDS FUND: OTHER FINANCING SOURCE GOVERNMENT-WIDE: LIABILITY </div> <h2> Key Takeaway </h2> <p> Governmental accounting becomes much easier when you stop treating every transaction like normal business accounting. First identify <strong>where the transaction is being reported</strong>, then apply the correct accounting model. </p>",
+  "objectives": [
+    "Explain budgets, encumbrances & integrated reporting.",
+    "Apply measurement-focus and basis-of-accounting differences.",
+    "Prepare and reconcile appropriate governmental reporting amounts."
+  ],
+  "quiz": {
+    "id": "bar-m3-l5-q1",
+    "courseId": "bar",
+    "moduleId": 3,
+    "lessonId": "bar-m3-l5",
+    "topic": "Budgets, Encumbrances & Integrated Reporting",
+    "prompt": "What does an appropriation generally represent?",
+    "choices": [
+      {
+        "id": "bar-m3-l5-q1-a0",
+        "text": "Actual revenue"
+      },
+      {
+        "id": "bar-m3-l5-q1-a1",
+        "text": "A long-term liability"
+      },
+      {
+        "id": "bar-m3-l5-q1-a2",
+        "text": "Authorized spending"
+      },
+      {
+        "id": "bar-m3-l5-q1-a3",
+        "text": "A capital asset"
+      }
+    ],
+    "correctChoiceId": "bar-m3-l5-q1-a2",
+    "explanation": "Appropriations generally represent legally authorized spending.",
+    "difficulty": "application",
+    "metadata": {
+      "section": "bar",
+      "blueprintYear": 2026,
+      "areaId": "bar-III",
+      "groupId": "A-B-C",
+      "topicId": "bar-government-budgets",
+      "taskIds": [
+        "bar-government-budgets.task-1"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        },
+        {
+          "title": "FASB accounting standards",
+          "url": "https://asc.fasb.org/"
+        },
+        {
+          "title": "GASB standards",
+          "url": "https://www.gasb.org/standards-and-implementation"
+        }
+      ]
+    }
+  },
+  "relatedSimulation": "bar-m3-tbs5"
+}

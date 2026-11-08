@@ -1,0 +1,158 @@
+{
+  "id": "aud-m1-tbs2",
+  "courseId": "aud",
+  "moduleId": 1,
+  "number": 2,
+  "title": "Evaluate the audit team’s judgments",
+  "html": "<div class=\"course-intro-card\"><h2>Evaluate the audit team’s judgments</h2><p>Review four statements from the engagement file and identify the best corrective action.</p></div><section class=\"quiz-card\"><h3>Required responses</h3><div class=\"tbs-question\"><label for=\"aud-m1-tbs2-f1\">Correct the treatment of contrary evidence</label><select id=\"aud-m1-tbs2-f1\"><option value=\"Investigate and resolve the inconsistency\">Investigate and resolve the inconsistency</option><option value=\"Rely on past honesty\">Rely on past honesty</option><option value=\"Ignore nonfinancial records\">Ignore nonfinancial records</option><option value=\"Assume fraud without further work\">Assume fraud without further work</option></select></div><div class=\"tbs-question\"><label for=\"aud-m1-tbs2-f2\">Correct the assurance promise</label><select id=\"aud-m1-tbs2-f2\"><option value=\"Explain reasonable assurance about material misstatement\">Explain reasonable assurance about material misstatement</option><option value=\"Guarantee solvency\">Guarantee solvency</option><option value=\"Guarantee every transaction\">Guarantee every transaction</option><option value=\"Withdraw all audit objectives\">Withdraw all audit objectives</option></select></div><div class=\"tbs-question\"><label for=\"aud-m1-tbs2-f3\">Identify the bias in the reserve testing</label><select id=\"aud-m1-tbs2-f3\"><option value=\"Confirmation bias\">Confirmation bias</option><option value=\"Sampling precision\">Sampling precision</option><option value=\"A financial statement assertion\">A financial statement assertion</option><option value=\"An independence safeguard\">An independence safeguard</option></select></div><div class=\"tbs-question\"><label for=\"aud-m1-tbs2-f4\">Respond to the CEO’s unrestricted entries</label><select id=\"aud-m1-tbs2-f4\"><option value=\"Perform procedures addressing management override\">Perform procedures addressing management override</option><option value=\"Eliminate substantive testing\">Eliminate substantive testing</option><option value=\"Rely only on ordinary approvals\">Rely only on ordinary approvals</option><option value=\"Accept an oral assurance\">Accept an oral assurance</option></select></div></section>",
+  "metadata": {
+    "section": "aud",
+    "blueprintYear": 2026,
+    "areaId": "aud-I",
+    "groupId": "B",
+    "topicId": "aud-professional-skepticism",
+    "taskIds": [
+      "aud-professional-skepticism.task-1",
+      "aud-professional-skepticism.task-2",
+      "aud-professional-skepticism.task-3"
+    ],
+    "skill": "analysis",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      },
+      {
+        "title": "AICPA auditing standards",
+        "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+      },
+      {
+        "title": "PCAOB standards",
+        "url": "https://pcaobus.org/oversight/standards"
+      }
+    ]
+  },
+  "difficulty": "advanced",
+  "fields": [
+    {
+      "id": "aud-m1-tbs2-f1",
+      "label": "Correct the treatment of contrary evidence",
+      "type": "select",
+      "options": [
+        {
+          "value": "Investigate and resolve the inconsistency",
+          "label": "Investigate and resolve the inconsistency"
+        },
+        {
+          "value": "Rely on past honesty",
+          "label": "Rely on past honesty"
+        },
+        {
+          "value": "Ignore nonfinancial records",
+          "label": "Ignore nonfinancial records"
+        },
+        {
+          "value": "Assume fraud without further work",
+          "label": "Assume fraud without further work"
+        }
+      ],
+      "correct": "Investigate and resolve the inconsistency",
+      "explanation": "Skepticism requires investigating the inconsistent evidence.",
+      "topicId": "aud-professional-skepticism"
+    },
+    {
+      "id": "aud-m1-tbs2-f2",
+      "label": "Correct the assurance promise",
+      "type": "select",
+      "options": [
+        {
+          "value": "Explain reasonable assurance about material misstatement",
+          "label": "Explain reasonable assurance about material misstatement"
+        },
+        {
+          "value": "Guarantee solvency",
+          "label": "Guarantee solvency"
+        },
+        {
+          "value": "Guarantee every transaction",
+          "label": "Guarantee every transaction"
+        },
+        {
+          "value": "Withdraw all audit objectives",
+          "label": "Withdraw all audit objectives"
+        }
+      ],
+      "correct": "Explain reasonable assurance about material misstatement",
+      "explanation": "The audit does not guarantee business success.",
+      "topicId": "aud-professional-skepticism"
+    },
+    {
+      "id": "aud-m1-tbs2-f3",
+      "label": "Identify the bias in the reserve testing",
+      "type": "select",
+      "options": [
+        {
+          "value": "Confirmation bias",
+          "label": "Confirmation bias"
+        },
+        {
+          "value": "Sampling precision",
+          "label": "Sampling precision"
+        },
+        {
+          "value": "A financial statement assertion",
+          "label": "A financial statement assertion"
+        },
+        {
+          "value": "An independence safeguard",
+          "label": "An independence safeguard"
+        }
+      ],
+      "correct": "Confirmation bias",
+      "explanation": "The senior sought only evidence consistent with the initial belief.",
+      "topicId": "aud-professional-skepticism"
+    },
+    {
+      "id": "aud-m1-tbs2-f4",
+      "label": "Respond to the CEO’s unrestricted entries",
+      "type": "select",
+      "options": [
+        {
+          "value": "Perform procedures addressing management override",
+          "label": "Perform procedures addressing management override"
+        },
+        {
+          "value": "Eliminate substantive testing",
+          "label": "Eliminate substantive testing"
+        },
+        {
+          "value": "Rely only on ordinary approvals",
+          "label": "Rely only on ordinary approvals"
+        },
+        {
+          "value": "Accept an oral assurance",
+          "label": "Accept an oral assurance"
+        }
+      ],
+      "correct": "Perform procedures addressing management override",
+      "explanation": "Ordinary controls do not eliminate management-override risk.",
+      "topicId": "aud-professional-skepticism"
+    }
+  ],
+  "exhibits": [
+    {
+      "id": "aud-m1-tbs2-ex1",
+      "title": "File excerpts",
+      "html": "<p>1. The CFO was reliable last year, so contrary evidence was disregarded. 2. The team has promised investors that the company will never fail. 3. A senior selected only documents supporting the original reserve. 4. The CEO can override normal journal approval.</p>"
+    },
+    {
+      "id": "aud-m1-tbs2-ex2",
+      "title": "Required approach",
+      "html": "<p>Base the audit on sufficient appropriate evidence, maintain a questioning mind, distinguish audit assurance from investment guarantees, and address management override.</p>"
+    }
+  ],
+  "explanation": "<h3>Correct the treatment of contrary evidence</h3><p>Skepticism requires investigating the inconsistent evidence.</p><h3>Correct the assurance promise</h3><p>The audit does not guarantee business success.</p><h3>Identify the bias in the reserve testing</h3><p>The senior sought only evidence consistent with the initial belief.</p><h3>Respond to the CEO’s unrestricted entries</h3><p>Ordinary controls do not eliminate management-override risk.</p>"
+}

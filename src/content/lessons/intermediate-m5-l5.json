@@ -1,0 +1,88 @@
+{
+  "id": "intermediate-m5-l5",
+  "courseId": "intermediate",
+  "moduleId": 5,
+  "number": 5,
+  "title": "Effective-Interest Amortization",
+  "description": "Calculate interest expense and amortize bond premiums and discounts.",
+  "url": "/learn/intermediate/modules/5/lessons/5",
+  "html": "<h2>The two interest calculations</h2> <p> This is one of the most important bond concepts. Do not mix these two calculations. </p> <div class=\"key-points\"> <h3>Cash Interest</h3> <div class=\"formula-box\"> Face Value × Stated Rate × Time </div> <h3>Interest Expense</h3> <div class=\"formula-box\"> Beginning Carrying Amount × Effective Rate × Time </div> </div> <h2>Discount example</h2> <p> Assume: </p> <div class=\"financial-example\"> <div> <span>Face Value</span> <strong>$100,000</strong> </div> <div> <span>Stated Annual Rate</span> <strong>6%</strong> </div> <div> <span>Effective Annual Rate</span> <strong>8%</strong> </div> <div> <span>Beginning Carrying Amount</span> <strong>$95,000</strong> </div> </div> <p> For this introductory example, assume annual interest payments. </p> <h2>Step 1 — Calculate cash interest</h2> <div class=\"formula-box\"> $100,000 × 6% = $6,000 </div> <h2>Step 2 — Calculate interest expense</h2> <div class=\"formula-box\"> $95,000 × 8% = $7,600 </div> <h2>Step 3 — Calculate discount amortization</h2> <div class=\"formula-box\"> $7,600 − $6,000 = $1,600 </div> <h2>Step 4 — Update carrying amount</h2> <div class=\"formula-box\"> $95,000 + $1,600 = $96,600 </div> <div class=\"financial-example\"> <div> <span>Beginning Carrying Amount</span> <strong>$95,000</strong> </div> <div> <span>Interest Expense</span> <strong>$7,600</strong> </div> <div> <span>Cash Interest</span> <strong>($6,000)</strong> </div> <div class=\"financial-total\"> <span>Ending Carrying Amount</span> <strong>$96,600</strong> </div> </div> <div class=\"key-points\"> <h3>Discount rule</h3> <p> Interest Expense &gt; Cash Interest </p> <p> The difference amortizes the discount, increasing carrying amount. </p> </div> <h2>Premium example</h2> <p> Now assume: </p> <div class=\"financial-example\"> <div> <span>Face Value</span> <strong>$100,000</strong> </div> <div> <span>Stated Annual Rate</span> <strong>10%</strong> </div> <div> <span>Effective Annual Rate</span> <strong>8%</strong> </div> <div> <span>Beginning Carrying Amount</span> <strong>$105,000</strong> </div> </div> <h2>Cash interest</h2> <div class=\"formula-box\"> $100,000 × 10% = $10,000 </div> <h2>Interest expense</h2> <div class=\"formula-box\"> $105,000 × 8% = $8,400 </div> <h2>Premium amortization</h2> <div class=\"formula-box\"> $10,000 − $8,400 = $1,600 </div> <h2>Ending carrying amount</h2> <div class=\"formula-box\"> $105,000 − $1,600 = $103,400 </div> <div class=\"key-points\"> <h3>Premium rule</h3> <p> Cash Interest &gt; Interest Expense </p> <p> The difference amortizes the premium, decreasing carrying amount. </p> </div> <h2>The pattern to memorize</h2> <div class=\"comparison-grid\"> <div class=\"comparison-card\"> <h3>Discount</h3> <p> Expense &gt; Cash </p> <p> Carrying amount ↑ </p> </div> <div class=\"comparison-card\"> <h3>Premium</h3> <p> Cash &gt; Expense </p> <p> Carrying amount ↓ </p> </div> </div>",
+  "quiz": {
+    "id": "intermediate-m5-l5-check",
+    "courseId": "intermediate",
+    "moduleId": 5,
+    "lessonId": "intermediate-m5-l5",
+    "topic": "General review",
+    "prompt": "A bond has a $200,000 face value, a 6% stated annual rate, an 8% effective annual rate, and a beginning carrying amount of $190,000. Assuming annual interest payments, what is the first year's discount amortization?",
+    "choices": [
+      {
+        "id": "intermediate-m5-l5-check-a0",
+        "text": "$3,200"
+      },
+      {
+        "id": "intermediate-m5-l5-check-a1",
+        "text": "$12,000"
+      },
+      {
+        "id": "intermediate-m5-l5-check-a2",
+        "text": "$15,200"
+      },
+      {
+        "id": "intermediate-m5-l5-check-a3",
+        "text": "$2,000"
+      }
+    ],
+    "correctChoiceId": "intermediate-m5-l5-check-a0",
+    "explanation": "Cash interest = $200,000 × 6% = $12,000. Interest expense = $190,000 × 8% = $15,200. Discount amortization = $15,200 − $12,000 = $3,200.",
+    "difficulty": "foundation",
+    "metadata": {
+      "section": "intermediate",
+      "blueprintYear": 2026,
+      "areaId": "intermediate-I",
+      "groupId": "module-5",
+      "topicId": "intermediate-effective-interest-amortization",
+      "taskIds": [
+        "intermediate-effective-interest-amortization.task-1",
+        "intermediate-effective-interest-amortization.task-2",
+        "intermediate-effective-interest-amortization.task-3"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "section": "intermediate",
+    "blueprintYear": 2026,
+    "areaId": "intermediate-I",
+    "groupId": "module-5",
+    "topicId": "intermediate-effective-interest-amortization",
+    "taskIds": [
+      "intermediate-effective-interest-amortization.task-1",
+      "intermediate-effective-interest-amortization.task-2",
+      "intermediate-effective-interest-amortization.task-3"
+    ],
+    "skill": "application",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      }
+    ]
+  },
+  "objectives": [
+    "Explain effective-interest amortization and its underlying principles.",
+    "Apply the topic to a financial-reporting scenario.",
+    "Evaluate common errors and their financial-statement effects."
+  ]
+}

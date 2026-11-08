@@ -1,0 +1,105 @@
+{
+  "id": "tcp-m2-l4",
+  "courseId": "tcp",
+  "moduleId": 2,
+  "number": 4,
+  "title": "Property Distributions & Liquidation Basis Schedules",
+  "description": "Analyze corporate gain on appreciated-property distributions.",
+  "url": "/learn/tcp/modules/2/lessons/4",
+  "metadata": {
+    "section": "tcp",
+    "blueprintYear": 2026,
+    "areaId": "tcp-II",
+    "groupId": "A-B-C",
+    "topicId": "tcp-entity-property-distributions",
+    "taskIds": [
+      "tcp-entity-property-distributions.task-1",
+      "tcp-entity-property-distributions.task-2",
+      "tcp-entity-property-distributions.task-3"
+    ],
+    "skill": "application",
+    "validFrom": "2026-07-01",
+    "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      },
+      {
+        "title": "IRS tax publications",
+        "url": "https://www.irs.gov/publications"
+      },
+      {
+        "title": "Internal Revenue Code",
+        "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+      }
+    ]
+  },
+  "html": "<h2>Learning objectives</h2><ul><li>Analyze corporate gain on appreciated-property distributions.</li><li>Apply supplied partnership property-basis rules.</li><li>Distinguish liquidating and nonliquidating transactions.</li></ul><h2>Understand the concepts</h2><p>Property distributions require analysis at entity and owner levels. A C corporation generally recognizes gain on a nonliquidating distribution of appreciated property under the applicable rule; loss on depreciated property is not automatically recognized. Shareholder treatment depends on value, liabilities, earnings and profits, and basis rules.</p><p>Partnership distributions can preserve built-in gain through basis, subject to important exceptions. In a simple nonliquidating distribution, cash reduces outside basis before determining basis available for property. Property basis can be limited to the remaining outside basis. Marketable securities, hot assets, liabilities, and other special rules require separate analysis.</p><p>In a simple complete liquidation involving cash and one capital asset, remaining outside basis after cash can determine that asset’s basis under the applicable allocation rules. This differs from the nonliquidating carryover-and-limitation model. Establish whether the interest is liquidated and identify property types and exceptions before calculating.</p><div class=\"example-box\"><h3>Nonliquidating distribution</h3><p>Outside basis is $20,000. The partner receives $5,000 cash and property with partnership basis $30,000. Assume no special exceptions.</p><ol><li>Cash leaves $15,000 outside basis.</li><li>The property basis is limited to that $15,000.</li><li>Outside basis reaches zero rather than becoming negative.</li></ol></div><div class=\"key-points\"><h3>Common mistakes to avoid</h3><ul><li>Entity and owner consequences differ.</li><li>Liquidating and nonliquidating basis rules differ.</li><li>Apply cash, property, and liability rules in order.</li></ul></div><h2>Apply and connect</h2><p>After solving the worked case, explain which facts determine the result and how a changed assumption would change your conclusion. Use the module questions to test fresh applications, then complete the related simulation before reviewing its solution.</p>",
+  "objectives": [
+    "Analyze corporate gain on appreciated-property distributions.",
+    "Apply supplied partnership property-basis rules.",
+    "Distinguish liquidating and nonliquidating transactions."
+  ],
+  "quiz": {
+    "id": "tcp-m2-l4-q1",
+    "courseId": "tcp",
+    "moduleId": 2,
+    "lessonId": "tcp-m2-l4",
+    "topic": "Property Distributions & Liquidation Basis Schedules",
+    "prompt": "A C corporation distributes property with basis $40,000 and value $70,000. Assume ordinary gain recognition and no liabilities. What corporate gain arises?",
+    "choices": [
+      {
+        "id": "tcp-m2-l4-q1-a0",
+        "text": "$30,000."
+      },
+      {
+        "id": "tcp-m2-l4-q1-a1",
+        "text": "$70,000."
+      },
+      {
+        "id": "tcp-m2-l4-q1-a2",
+        "text": "$40,000."
+      },
+      {
+        "id": "tcp-m2-l4-q1-a3",
+        "text": "Zero in every distribution."
+      }
+    ],
+    "correctChoiceId": "tcp-m2-l4-q1-a0",
+    "explanation": "Value exceeds basis by $30,000 under the stated corporate rule.",
+    "difficulty": "application",
+    "metadata": {
+      "section": "tcp",
+      "blueprintYear": 2026,
+      "areaId": "tcp-II",
+      "groupId": "A-B-C",
+      "topicId": "tcp-entity-property-distributions",
+      "taskIds": [
+        "tcp-entity-property-distributions.task-1"
+      ],
+      "skill": "application",
+      "validFrom": "2026-07-01",
+      "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        },
+        {
+          "title": "IRS tax publications",
+          "url": "https://www.irs.gov/publications"
+        },
+        {
+          "title": "Internal Revenue Code",
+          "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+        }
+      ]
+    }
+  },
+  "relatedSimulation": "tcp-m2-tbs4"
+}

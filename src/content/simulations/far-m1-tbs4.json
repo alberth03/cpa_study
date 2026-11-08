@@ -1,0 +1,114 @@
+{
+  "id": "far-m1-tbs4",
+  "moduleId": 1,
+  "number": 4,
+  "title": "TBS 4 · Subsequent Events & Disclosures",
+  "fields": [
+    {
+      "id": "tbs4-q1",
+      "label": "1. On January 20, a major customer files for bankruptcy. The customer's severe financial difficulties already existed at December 31.",
+      "type": "select",
+      "options": [
+        {
+          "value": "Adjust",
+          "label": "Adjust Financial Statements"
+        },
+        {
+          "value": "Disclose",
+          "label": "Disclosure Only"
+        },
+        {
+          "value": "None",
+          "label": "No Action"
+        }
+      ],
+      "correct": "Adjust"
+    },
+    {
+      "id": "tbs4-q2",
+      "label": "2. On February 10, a fire destroys a major warehouse. The fire occurred entirely after year-end.",
+      "type": "select",
+      "options": [
+        {
+          "value": "Adjust",
+          "label": "Adjust Financial Statements"
+        },
+        {
+          "value": "Disclose",
+          "label": "Disclosure Only"
+        },
+        {
+          "value": "None",
+          "label": "No Action"
+        }
+      ],
+      "correct": "Disclose"
+    },
+    {
+      "id": "tbs4-q3",
+      "label": "3. On January 5, the company settles a lawsuit. The lawsuit related to conditions that existed before December 31, and the settlement provides additional evidence about the year-end obligation.",
+      "type": "select",
+      "options": [
+        {
+          "value": "Adjust",
+          "label": "Adjust Financial Statements"
+        },
+        {
+          "value": "Disclose",
+          "label": "Disclosure Only"
+        },
+        {
+          "value": "None",
+          "label": "No Action"
+        }
+      ],
+      "correct": "Adjust"
+    },
+    {
+      "id": "tbs4-q4",
+      "label": "4. On February 25, management begins preliminary discussions about a possible future expansion. No binding commitment exists and the matter is not significant to the current financial statements.",
+      "type": "select",
+      "options": [
+        {
+          "value": "Adjust",
+          "label": "Adjust Financial Statements"
+        },
+        {
+          "value": "Disclose",
+          "label": "Disclosure Only"
+        },
+        {
+          "value": "None",
+          "label": "No Action"
+        }
+      ],
+      "correct": "None"
+    }
+  ],
+  "html": "<section class=\"lesson-page\"> <div class=\"course-intro-card\"> <span class=\"exam-badge\"> TASK-BASED SIMULATION </span> <h2> Subsequent Events </h2> <p> Determine whether events occurring after year-end require adjustment, disclosure only, or no financial statement action. </p> </div> <div class=\"tbs-data-card\"> <h3> Reporting Timeline </h3> <div class=\"tbs-data-row\"> <span>Year-End</span> <strong>December 31</strong> </div> <div class=\"tbs-data-row\"> <span>Financial Statements Issued</span> <strong>March 15</strong> </div> </div> <div class=\"tbs-data-card\"> <h3> Evaluate Each Event </h3> <div class=\"tbs-question\"> <label for=\"tbs4-q1\"> 1. On January 20, a major customer files for bankruptcy. The customer's severe financial difficulties already existed at December 31. </label> <select id=\"tbs4-q1\" class=\"tbs-input\"> <option value=\"\"> Select treatment </option> <option value=\"Adjust\"> Adjust Financial Statements </option> <option value=\"Disclose\"> Disclosure Only </option> <option value=\"None\"> No Action </option> </select> </div> <div class=\"tbs-question\"> <label for=\"tbs4-q2\"> 2. On February 10, a fire destroys a major warehouse. The fire occurred entirely after year-end. </label> <select id=\"tbs4-q2\" class=\"tbs-input\"> <option value=\"\"> Select treatment </option> <option value=\"Adjust\"> Adjust Financial Statements </option> <option value=\"Disclose\"> Disclosure Only </option> <option value=\"None\"> No Action </option> </select> </div> <div class=\"tbs-question\"> <label for=\"tbs4-q3\"> 3. On January 5, the company settles a lawsuit. The lawsuit related to conditions that existed before December 31, and the settlement provides additional evidence about the year-end obligation. </label> <select id=\"tbs4-q3\" class=\"tbs-input\"> <option value=\"\"> Select treatment </option> <option value=\"Adjust\"> Adjust Financial Statements </option> <option value=\"Disclose\"> Disclosure Only </option> <option value=\"None\"> No Action </option> </select> </div> <div class=\"tbs-question\"> <label for=\"tbs4-q4\"> 4. On February 25, management begins preliminary discussions about a possible future expansion. No binding commitment exists and the matter is not significant to the current financial statements. </label> <select id=\"tbs4-q4\" class=\"tbs-input\"> <option value=\"\"> Select treatment </option> <option value=\"Adjust\"> Adjust Financial Statements </option> <option value=\"Disclose\"> Disclosure Only </option> <option value=\"None\"> No Action </option> </select> </div> </div> <div id=\"tbs4-result\"></div> </section>",
+  "explanation": "<div class=\"tbs-results\"> <div class=\"key-points\"> <h3> Correct Answers </h3> <p> 1. Customer bankruptcy: <strong>Adjust Financial Statements</strong> </p> <p> 2. Warehouse fire after year-end: <strong>Disclosure Only</strong> </p> <p> 3. Lawsuit settlement: <strong>Adjust Financial Statements</strong> </p> <p> 4. Preliminary expansion discussions: <strong>No Action</strong> </p> </div> <div class=\"example-box\"> <h3> Key Rule </h3> <p> If the subsequent event provides additional evidence about a condition that already existed at year-end, the financial statements are generally adjusted. </p> <p> If the event relates to a new condition arising after year-end, adjustment is generally not made, although material events may require disclosure. </p> </div> </div>",
+  "courseId": "far",
+  "difficulty": "advanced",
+  "metadata": {
+    "section": "far",
+    "blueprintYear": 2026,
+    "areaId": "far-III",
+    "groupId": "module-1",
+    "topicId": "far-accounting-changes",
+    "taskIds": [
+      "far-accounting-changes.task-1",
+      "far-accounting-changes.task-2",
+      "far-accounting-changes.task-3"
+    ],
+    "skill": "analysis",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      }
+    ]
+  }
+}

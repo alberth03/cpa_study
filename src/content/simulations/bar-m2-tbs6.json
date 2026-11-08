@@ -1,0 +1,90 @@
+{
+  "id": "bar-m2-tbs6",
+  "courseId": "bar",
+  "moduleId": 2,
+  "number": 6,
+  "title": "Equity-award cost schedule",
+  "html": "<div class=\"course-intro-card\"><h2>Equity-award cost schedule</h2><p>Prepare a straight-line compensation schedule for a single service-only award.</p></div><section class=\"quiz-card\"><h3>Required responses</h3><div class=\"tbs-question\"><label for=\"bar-m2-tbs6-f1\">Total grant-date compensation cost</label><input id=\"bar-m2-tbs6-f1\" type=\"text\"></div><div class=\"tbs-question\"><label for=\"bar-m2-tbs6-f2\">Annual compensation cost</label><input id=\"bar-m2-tbs6-f2\" type=\"text\"></div><div class=\"tbs-question\"><label for=\"bar-m2-tbs6-f3\">Cumulative recognized cost after two years</label><input id=\"bar-m2-tbs6-f3\" type=\"text\"></div><div class=\"tbs-question\"><label for=\"bar-m2-tbs6-f4\">Unrecognized remaining cost</label><input id=\"bar-m2-tbs6-f4\" type=\"text\"></div></section>",
+  "metadata": {
+    "section": "bar",
+    "blueprintYear": 2026,
+    "areaId": "bar-II",
+    "groupId": "C",
+    "topicId": "bar-share-based-compensation",
+    "taskIds": [
+      "bar-share-based-compensation.task-1",
+      "bar-share-based-compensation.task-2",
+      "bar-share-based-compensation.task-3"
+    ],
+    "skill": "analysis",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      },
+      {
+        "title": "FASB accounting standards",
+        "url": "https://asc.fasb.org/"
+      },
+      {
+        "title": "GASB standards",
+        "url": "https://www.gasb.org/standards-and-implementation"
+      }
+    ]
+  },
+  "difficulty": "advanced",
+  "fields": [
+    {
+      "id": "bar-m2-tbs6-f1",
+      "label": "Total grant-date compensation cost",
+      "type": "number",
+      "options": [],
+      "correct": 96000,
+      "explanation": "12,000 × $8 = $96,000.",
+      "topicId": "bar-share-based-compensation"
+    },
+    {
+      "id": "bar-m2-tbs6-f2",
+      "label": "Annual compensation cost",
+      "type": "number",
+      "options": [],
+      "correct": 24000,
+      "explanation": "$96,000 ÷ 4 years = $24,000.",
+      "topicId": "bar-share-based-compensation"
+    },
+    {
+      "id": "bar-m2-tbs6-f3",
+      "label": "Cumulative recognized cost after two years",
+      "type": "number",
+      "options": [],
+      "correct": 48000,
+      "explanation": "Two years × $24,000 = $48,000.",
+      "topicId": "bar-share-based-compensation"
+    },
+    {
+      "id": "bar-m2-tbs6-f4",
+      "label": "Unrecognized remaining cost",
+      "type": "number",
+      "options": [],
+      "correct": 48000,
+      "explanation": "$96,000 total less $48,000 recognized.",
+      "topicId": "bar-share-based-compensation"
+    }
+  ],
+  "exhibits": [
+    {
+      "id": "bar-m2-tbs6-ex1",
+      "title": "Award terms",
+      "html": "<p>12,000 equity-classified options; grant-date fair value $8 each; four-year requisite service period. Assume all awards vest and straight-line recognition is appropriate.</p>"
+    },
+    {
+      "id": "bar-m2-tbs6-ex2",
+      "title": "Review date",
+      "html": "<p>Two years of service have been provided. Ignore income-tax effects, modifications, and graded-vesting issues.</p>"
+    }
+  ],
+  "explanation": "<h3>Total grant-date compensation cost</h3><p>12,000 × $8 = $96,000.</p><h3>Annual compensation cost</h3><p>$96,000 ÷ 4 years = $24,000.</p><h3>Cumulative recognized cost after two years</h3><p>Two years × $24,000 = $48,000.</p><h3>Unrecognized remaining cost</h3><p>$96,000 total less $48,000 recognized.</p>"
+}

@@ -1,0 +1,158 @@
+{
+  "id": "aud-m4-tbs2",
+  "courseId": "aud",
+  "moduleId": 4,
+  "number": 2,
+  "title": "Completion-event review",
+  "html": "<div class=\"course-intro-card\"><h2>Completion-event review</h2><p>Evaluate four findings before issuing a nonissuer audit report.</p></div><section class=\"quiz-card\"><h3>Required responses</h3><div class=\"tbs-question\"><label for=\"aud-m4-tbs2-f1\">Evaluate event A as evidence of</label><select id=\"aud-m4-tbs2-f1\"><option value=\"A condition existing at year-end\">A condition existing at year-end</option><option value=\"Only a new February condition\">Only a new February condition</option><option value=\"No relevant audit fact\">No relevant audit fact</option><option value=\"An automatic tax election\">An automatic tax election</option></select></div><div class=\"tbs-question\"><label for=\"aud-m4-tbs2-f2\">Ordinary treatment considered for event B</label><select id=\"aud-m4-tbs2-f2\"><option value=\"Disclosure of a material new condition\">Disclosure of a material new condition</option><option value=\"Automatic year-end adjustment in every case\">Automatic year-end adjustment in every case</option><option value=\"No disclosure under any circumstances\">No disclosure under any circumstances</option><option value=\"A prior-year payroll expense\">A prior-year payroll expense</option></select></div><div class=\"tbs-question\"><label for=\"aud-m4-tbs2-f3\">Required work for C</label><select id=\"aud-m4-tbs2-f3\"><option value=\"Evaluate feasibility and corroborating evidence\">Evaluate feasibility and corroborating evidence</option><option value=\"Accept intent as sufficient\">Accept intent as sufficient</option><option value=\"Guarantee success\">Guarantee success</option><option value=\"Ignore financing uncertainty\">Ignore financing uncertainty</option></select></div><div class=\"tbs-question\"><label for=\"aud-m4-tbs2-f4\">Response to D</label><select id=\"aud-m4-tbs2-f4\"><option value=\"Obtain the necessary bank evidence\">Obtain the necessary bank evidence</option><option value=\"Replace all evidence with representations\">Replace all evidence with representations</option><option value=\"Assume written words eliminate audit risk\">Assume written words eliminate audit risk</option><option value=\"Exclude cash from the opinion\">Exclude cash from the opinion</option></select></div></section>",
+  "metadata": {
+    "section": "aud",
+    "blueprintYear": 2026,
+    "areaId": "aud-IV",
+    "groupId": "A-E",
+    "topicId": "aud-audit-completion",
+    "taskIds": [
+      "aud-audit-completion.task-1",
+      "aud-audit-completion.task-2",
+      "aud-audit-completion.task-3"
+    ],
+    "skill": "analysis",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      },
+      {
+        "title": "AICPA auditing standards",
+        "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+      },
+      {
+        "title": "PCAOB standards",
+        "url": "https://pcaobus.org/oversight/standards"
+      }
+    ]
+  },
+  "difficulty": "advanced",
+  "fields": [
+    {
+      "id": "aud-m4-tbs2-f1",
+      "label": "Evaluate event A as evidence of",
+      "type": "select",
+      "options": [
+        {
+          "value": "A condition existing at year-end",
+          "label": "A condition existing at year-end"
+        },
+        {
+          "value": "Only a new February condition",
+          "label": "Only a new February condition"
+        },
+        {
+          "value": "No relevant audit fact",
+          "label": "No relevant audit fact"
+        },
+        {
+          "value": "An automatic tax election",
+          "label": "An automatic tax election"
+        }
+      ],
+      "correct": "A condition existing at year-end",
+      "explanation": "The bankruptcy corroborates prior distress.",
+      "topicId": "aud-audit-completion"
+    },
+    {
+      "id": "aud-m4-tbs2-f2",
+      "label": "Ordinary treatment considered for event B",
+      "type": "select",
+      "options": [
+        {
+          "value": "Disclosure of a material new condition",
+          "label": "Disclosure of a material new condition"
+        },
+        {
+          "value": "Automatic year-end adjustment in every case",
+          "label": "Automatic year-end adjustment in every case"
+        },
+        {
+          "value": "No disclosure under any circumstances",
+          "label": "No disclosure under any circumstances"
+        },
+        {
+          "value": "A prior-year payroll expense",
+          "label": "A prior-year payroll expense"
+        }
+      ],
+      "correct": "Disclosure of a material new condition",
+      "explanation": "A new condition can be a material nonrecognized subsequent event.",
+      "topicId": "aud-audit-completion"
+    },
+    {
+      "id": "aud-m4-tbs2-f3",
+      "label": "Required work for C",
+      "type": "select",
+      "options": [
+        {
+          "value": "Evaluate feasibility and corroborating evidence",
+          "label": "Evaluate feasibility and corroborating evidence"
+        },
+        {
+          "value": "Accept intent as sufficient",
+          "label": "Accept intent as sufficient"
+        },
+        {
+          "value": "Guarantee success",
+          "label": "Guarantee success"
+        },
+        {
+          "value": "Ignore financing uncertainty",
+          "label": "Ignore financing uncertainty"
+        }
+      ],
+      "correct": "Evaluate feasibility and corroborating evidence",
+      "explanation": "Plans must be supported and feasible.",
+      "topicId": "aud-audit-completion"
+    },
+    {
+      "id": "aud-m4-tbs2-f4",
+      "label": "Response to D",
+      "type": "select",
+      "options": [
+        {
+          "value": "Obtain the necessary bank evidence",
+          "label": "Obtain the necessary bank evidence"
+        },
+        {
+          "value": "Replace all evidence with representations",
+          "label": "Replace all evidence with representations"
+        },
+        {
+          "value": "Assume written words eliminate audit risk",
+          "label": "Assume written words eliminate audit risk"
+        },
+        {
+          "value": "Exclude cash from the opinion",
+          "label": "Exclude cash from the opinion"
+        }
+      ],
+      "correct": "Obtain the necessary bank evidence",
+      "explanation": "Representations supplement rather than replace necessary evidence.",
+      "topicId": "aud-audit-completion"
+    }
+  ],
+  "exhibits": [
+    {
+      "id": "aud-m4-tbs2-ex1",
+      "title": "Events and representations",
+      "html": "<p>A: A January bankruptcy corroborates a debtor’s year-end distress. B: A February storm causes a new material loss. C: Management’s only refinancing plan has no lender support. D: Management offers a representation instead of available bank evidence.</p>"
+    },
+    {
+      "id": "aud-m4-tbs2-ex2",
+      "title": "Scope",
+      "html": "<p>Assume the reporting framework requires recognition for evidence of existing conditions and disclosure of material new conditions. Evaluate the evidence and accounting implications before selecting an opinion.</p>"
+    }
+  ],
+  "explanation": "<h3>Evaluate event A as evidence of</h3><p>The bankruptcy corroborates prior distress.</p><h3>Ordinary treatment considered for event B</h3><p>A new condition can be a material nonrecognized subsequent event.</p><h3>Required work for C</h3><p>Plans must be supported and feasible.</p><h3>Response to D</h3><p>Representations supplement rather than replace necessary evidence.</p>"
+}

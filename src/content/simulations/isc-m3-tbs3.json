@@ -1,0 +1,158 @@
+{
+  "id": "isc-m3-tbs3",
+  "courseId": "isc",
+  "moduleId": 3,
+  "number": 3,
+  "title": "Outsourced-service coverage map",
+  "html": "<div class=\"course-intro-card\"><h2>Outsourced-service coverage map</h2><p>Evaluate dependencies and retained responsibilities in a hosted finance system.</p></div><section class=\"quiz-card\"><h3>Required responses</h3><div class=\"tbs-question\"><label for=\"isc-m3-tbs3-f1\">Hosting-control scope conclusion</label><select id=\"isc-m3-tbs3-f1\"><option value=\"Relevant hosting controls require separate evidence consideration\">Relevant hosting controls require separate evidence consideration</option><option value=\"All hosting controls were necessarily tested\">All hosting controls were necessarily tested</option><option value=\"Hosting risk disappears\">Hosting risk disappears</option><option value=\"The user has no responsibility to evaluate scope\">The user has no responsibility to evaluate scope</option></select></div><div class=\"tbs-question\"><label for=\"isc-m3-tbs3-f2\">Missing complementary user control</label><select id=\"isc-m3-tbs3-f2\"><option value=\"Monthly input reconciliation\">Monthly input reconciliation</option><option value=\"The already performed access approval\">The already performed access approval</option><option value=\"The report’s title\">The report’s title</option><option value=\"The provider’s logo\">The provider’s logo</option></select></div><div class=\"tbs-question\"><label for=\"isc-m3-tbs3-f3\">Effect of the coverage gap</label><select id=\"isc-m3-tbs3-f3\"><option value=\"Evaluate changes and evidence for the uncovered period\">Evaluate changes and evidence for the uncovered period</option><option value=\"Automatically extend independent assurance\">Automatically extend independent assurance</option><option value=\"Assume no transactions occurred\">Assume no transactions occurred</option><option value=\"Ignore year-end\">Ignore year-end</option></select></div><div class=\"tbs-question\"><label for=\"isc-m3-tbs3-f4\">Bridge-letter interpretation</label><select id=\"isc-m3-tbs3-f4\"><option value=\"Evaluate its information without treating it as identical to independent period testing\">Evaluate its information without treating it as identical to independent period testing</option><option value=\"It always replaces all additional evidence\">It always replaces all additional evidence</option><option value=\"It guarantees every control operated\">It guarantees every control operated</option><option value=\"Its signature creates a new Type 2 audit period\">Its signature creates a new Type 2 audit period</option></select></div></section>",
+  "metadata": {
+    "section": "isc",
+    "blueprintYear": 2026,
+    "areaId": "isc-III",
+    "groupId": "A-B",
+    "topicId": "isc-soc-subservices-user-controls",
+    "taskIds": [
+      "isc-soc-subservices-user-controls.task-1",
+      "isc-soc-subservices-user-controls.task-2",
+      "isc-soc-subservices-user-controls.task-3"
+    ],
+    "skill": "analysis",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      },
+      {
+        "title": "NIST Cybersecurity Framework",
+        "url": "https://www.nist.gov/cyberframework"
+      },
+      {
+        "title": "AICPA SOC resources",
+        "url": "https://www.aicpa-cima.com/resources/landing/system-and-organization-controls-soc-suite-of-services"
+      }
+    ]
+  },
+  "difficulty": "advanced",
+  "fields": [
+    {
+      "id": "isc-m3-tbs3-f1",
+      "label": "Hosting-control scope conclusion",
+      "type": "select",
+      "options": [
+        {
+          "value": "Relevant hosting controls require separate evidence consideration",
+          "label": "Relevant hosting controls require separate evidence consideration"
+        },
+        {
+          "value": "All hosting controls were necessarily tested",
+          "label": "All hosting controls were necessarily tested"
+        },
+        {
+          "value": "Hosting risk disappears",
+          "label": "Hosting risk disappears"
+        },
+        {
+          "value": "The user has no responsibility to evaluate scope",
+          "label": "The user has no responsibility to evaluate scope"
+        }
+      ],
+      "correct": "Relevant hosting controls require separate evidence consideration",
+      "explanation": "Carve-out excludes the specified controls from the described service-auditor testing.",
+      "topicId": "isc-soc-subservices-user-controls"
+    },
+    {
+      "id": "isc-m3-tbs3-f2",
+      "label": "Missing complementary user control",
+      "type": "select",
+      "options": [
+        {
+          "value": "Monthly input reconciliation",
+          "label": "Monthly input reconciliation"
+        },
+        {
+          "value": "The already performed access approval",
+          "label": "The already performed access approval"
+        },
+        {
+          "value": "The report’s title",
+          "label": "The report’s title"
+        },
+        {
+          "value": "The provider’s logo",
+          "label": "The provider’s logo"
+        }
+      ],
+      "correct": "Monthly input reconciliation",
+      "explanation": "The report assumes a reconciliation the user has not implemented.",
+      "topicId": "isc-soc-subservices-user-controls"
+    },
+    {
+      "id": "isc-m3-tbs3-f3",
+      "label": "Effect of the coverage gap",
+      "type": "select",
+      "options": [
+        {
+          "value": "Evaluate changes and evidence for the uncovered period",
+          "label": "Evaluate changes and evidence for the uncovered period"
+        },
+        {
+          "value": "Automatically extend independent assurance",
+          "label": "Automatically extend independent assurance"
+        },
+        {
+          "value": "Assume no transactions occurred",
+          "label": "Assume no transactions occurred"
+        },
+        {
+          "value": "Ignore year-end",
+          "label": "Ignore year-end"
+        }
+      ],
+      "correct": "Evaluate changes and evidence for the uncovered period",
+      "explanation": "The report does not itself cover the additional three months.",
+      "topicId": "isc-soc-subservices-user-controls"
+    },
+    {
+      "id": "isc-m3-tbs3-f4",
+      "label": "Bridge-letter interpretation",
+      "type": "select",
+      "options": [
+        {
+          "value": "Evaluate its information without treating it as identical to independent period testing",
+          "label": "Evaluate its information without treating it as identical to independent period testing"
+        },
+        {
+          "value": "It always replaces all additional evidence",
+          "label": "It always replaces all additional evidence"
+        },
+        {
+          "value": "It guarantees every control operated",
+          "label": "It guarantees every control operated"
+        },
+        {
+          "value": "Its signature creates a new Type 2 audit period",
+          "label": "Its signature creates a new Type 2 audit period"
+        }
+      ],
+      "correct": "Evaluate its information without treating it as identical to independent period testing",
+      "explanation": "A management bridge communication has limits that must be understood.",
+      "topicId": "isc-soc-subservices-user-controls"
+    }
+  ],
+  "exhibits": [
+    {
+      "id": "isc-m3-tbs3-ex1",
+      "title": "Report scope",
+      "html": "<p>The provider uses a carved-out hosting organization. Its report assumes user access approvals and monthly input reconciliations. The report period ends three months before the user’s year-end.</p>"
+    },
+    {
+      "id": "isc-m3-tbs3-ex2",
+      "title": "User implementation",
+      "html": "<p>The user performs access approvals but has no input reconciliation. Only a provider bridge letter is available for the remaining period.</p>"
+    }
+  ],
+  "explanation": "<h3>Hosting-control scope conclusion</h3><p>Carve-out excludes the specified controls from the described service-auditor testing.</p><h3>Missing complementary user control</h3><p>The report assumes a reconciliation the user has not implemented.</p><h3>Effect of the coverage gap</h3><p>The report does not itself cover the additional three months.</p><h3>Bridge-letter interpretation</h3><p>A management bridge communication has limits that must be understood.</p>"
+}

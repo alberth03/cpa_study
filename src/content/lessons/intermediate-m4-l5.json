@@ -1,0 +1,88 @@
+{
+  "id": "intermediate-m4-l5",
+  "courseId": "intermediate",
+  "moduleId": 4,
+  "number": 5,
+  "title": "Impairment & Asset Retirement Concepts",
+  "description": "Understand impairment of long-lived assets and introductory asset retirement concepts.",
+  "url": "/learn/intermediate/modules/4/lessons/5",
+  "html": "<h2>What is impairment?</h2> <p> A long-lived asset may lose economic value because of damage, technological change, poor performance, market changes or other events. </p> <p> When certain impairment conditions are met, accounting rules may require the asset's carrying amount to be reduced. </p> <div class=\"key-points\"> <h3>Think about impairment when:</h3> <ul> <li>An asset is significantly damaged</li> <li>Technology makes the asset less useful</li> <li>Expected future performance declines</li> <li>Market or business conditions change significantly</li> </ul> </div> <h2>Carrying amount matters again</h2> <div class=\"formula-box\"> Carrying Amount = Cost − Accumulated Depreciation </div> <div class=\"example-box\"> <h3>Simple concept example</h3> <p> A machine has a carrying amount of $40,000. </p> <p> New information indicates that the machine's economic value has declined substantially. </p> <p> If the applicable impairment test shows that the carrying amount is not recoverable or exceeds the required measurement amount, an impairment loss may need to be recognized. </p> </div> <h2>Why we are not memorizing one universal formula</h2> <p> The detailed impairment model depends on the type of asset and the applicable accounting guidance. </p> <p> For now, the important foundation is to understand that impairment can cause a long-lived asset's carrying amount to be written down. </p> <h2>Asset retirement obligations</h2> <p> Some long-lived assets create a legal obligation to retire, dismantle, remove or restore something in the future. </p> <div class=\"example-box\"> <h3>Example</h3> <p> A company builds an asset and is legally required to remove it and restore the site at the end of its useful life. </p> <p> That future obligation can have accounting consequences before the actual retirement occurs. </p> </div> <div class=\"key-points\"> <h3>Core ideas</h3> <ul> <li>PPE can become impaired.</li> <li>Impairment can reduce carrying amount.</li> <li>Asset retirement obligations arise from certain legal obligations.</li> <li>Detailed measurement rules will come later at CPA level.</li> </ul> </div>",
+  "quiz": {
+    "id": "intermediate-m4-l5-check",
+    "courseId": "intermediate",
+    "moduleId": 4,
+    "lessonId": "intermediate-m4-l5",
+    "topic": "General review",
+    "prompt": "Which event would most likely indicate that a long-lived asset should be evaluated for impairment?",
+    "choices": [
+      {
+        "id": "intermediate-m4-l5-check-a0",
+        "text": "The company earns slightly more revenue than expected"
+      },
+      {
+        "id": "intermediate-m4-l5-check-a1",
+        "text": "The asset suffers major damage and its future usefulness declines"
+      },
+      {
+        "id": "intermediate-m4-l5-check-a2",
+        "text": "The company pays an ordinary utility bill"
+      },
+      {
+        "id": "intermediate-m4-l5-check-a3",
+        "text": "The company issues common stock"
+      }
+    ],
+    "correctChoiceId": "intermediate-m4-l5-check-a1",
+    "explanation": "Significant damage and reduced future usefulness are examples of events that may indicate impairment.",
+    "difficulty": "foundation",
+    "metadata": {
+      "section": "intermediate",
+      "blueprintYear": 2026,
+      "areaId": "intermediate-I",
+      "groupId": "module-4",
+      "topicId": "intermediate-impairment-asset-retirement-concepts",
+      "taskIds": [
+        "intermediate-impairment-asset-retirement-concepts.task-1",
+        "intermediate-impairment-asset-retirement-concepts.task-2",
+        "intermediate-impairment-asset-retirement-concepts.task-3"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "section": "intermediate",
+    "blueprintYear": 2026,
+    "areaId": "intermediate-I",
+    "groupId": "module-4",
+    "topicId": "intermediate-impairment-asset-retirement-concepts",
+    "taskIds": [
+      "intermediate-impairment-asset-retirement-concepts.task-1",
+      "intermediate-impairment-asset-retirement-concepts.task-2",
+      "intermediate-impairment-asset-retirement-concepts.task-3"
+    ],
+    "skill": "application",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      }
+    ]
+  },
+  "objectives": [
+    "Explain impairment & asset retirement concepts and its underlying principles.",
+    "Apply the topic to a financial-reporting scenario.",
+    "Evaluate common errors and their financial-statement effects."
+  ]
+}

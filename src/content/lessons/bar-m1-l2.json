@@ -1,0 +1,103 @@
+{
+  "id": "bar-m1-l2",
+  "courseId": "bar",
+  "moduleId": 1,
+  "number": 2,
+  "title": "Budgets, Forecasts, Cash Planning & Working Capital",
+  "description": "Build operating and cash budgets from linked assumptions.",
+  "url": "/learn/bar/modules/1/lessons/2",
+  "metadata": {
+    "section": "bar",
+    "blueprintYear": 2026,
+    "areaId": "bar-I",
+    "groupId": "B",
+    "topicId": "bar-budgeting-forecasting",
+    "taskIds": [
+      "bar-budgeting-forecasting.task-1",
+      "bar-budgeting-forecasting.task-2",
+      "bar-budgeting-forecasting.task-3"
+    ],
+    "skill": "application",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      },
+      {
+        "title": "FASB accounting standards",
+        "url": "https://asc.fasb.org/"
+      },
+      {
+        "title": "GASB standards",
+        "url": "https://www.gasb.org/standards-and-implementation"
+      }
+    ]
+  },
+  "html": "<h2>Learning objectives</h2><ul><li>Build operating and cash budgets from linked assumptions.</li><li>Distinguish forecasts from hypothetical projections.</li><li>Evaluate the cash consequences of collection and payment timing.</li></ul><h2>Understand the concepts</h2><p>A coordinated budget links sales, production or purchases, expenses, capital investment, and financing. Sales are not the same as cash collections, and production costs are not necessarily current cash payments. State beginning balances, timing assumptions, and desired ending inventories so the schedules reconcile.</p><p>A forecast reflects expected conditions and management’s expected course of action; a projection uses hypothetical assumptions. Both require transparent assumptions and appropriate use. Sensitivity analysis changes one assumption or a defined scenario to show how results respond; it does not make uncertain forecasts certain.</p><p>Working capital is affected by collection periods, inventory investment, and payment terms. A growing profitable business may still need financing if receivables and inventory absorb cash before customers pay. Distinguish a flexible budget at actual activity from a static budget at planned activity when evaluating performance.</p><div class=\"example-box\"><h3>Cash collections lag revenue</h3><p>Sales are $200,000 in January and $300,000 in February. Customers pay 60% in the month of sale and 40% the next month. Assume no other collections.</p><ol><li>February collects $180,000 from February sales.</li><li>It also collects $80,000 from January sales.</li><li>February cash collections are $260,000, not February revenue of $300,000.</li></ol></div><div class=\"key-points\"><h3>Common mistakes to avoid</h3><ul><li>Revenue and cash collections differ.</li><li>A projection’s hypothetical assumptions are not a forecast of expected results.</li><li>Use an activity-adjusted budget for an appropriate cost comparison.</li></ul></div><h2>Apply and connect</h2><p>After solving the worked case, explain which facts determine the result and how a changed assumption would change your conclusion. Use the module questions to test fresh applications, then complete the related simulation before reviewing its solution.</p>",
+  "objectives": [
+    "Build operating and cash budgets from linked assumptions.",
+    "Distinguish forecasts from hypothetical projections.",
+    "Evaluate the cash consequences of collection and payment timing."
+  ],
+  "quiz": {
+    "id": "bar-m1-l2-q1",
+    "courseId": "bar",
+    "moduleId": 1,
+    "lessonId": "bar-m1-l2",
+    "topic": "Budgets, Forecasts, Cash Planning & Working Capital",
+    "prompt": "March sales are $400,000 and February sales $250,000. Collections are 70% in the current month and 30% next month. What are March collections?",
+    "choices": [
+      {
+        "id": "bar-m1-l2-q1-a0",
+        "text": "$400,000."
+      },
+      {
+        "id": "bar-m1-l2-q1-a1",
+        "text": "$355,000."
+      },
+      {
+        "id": "bar-m1-l2-q1-a2",
+        "text": "$280,000."
+      },
+      {
+        "id": "bar-m1-l2-q1-a3",
+        "text": "$475,000."
+      }
+    ],
+    "correctChoiceId": "bar-m1-l2-q1-a1",
+    "explanation": "70% of March sales plus 30% of February sales: $280,000 + $75,000.",
+    "difficulty": "application",
+    "metadata": {
+      "section": "bar",
+      "blueprintYear": 2026,
+      "areaId": "bar-I",
+      "groupId": "B",
+      "topicId": "bar-budgeting-forecasting",
+      "taskIds": [
+        "bar-budgeting-forecasting.task-1"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        },
+        {
+          "title": "FASB accounting standards",
+          "url": "https://asc.fasb.org/"
+        },
+        {
+          "title": "GASB standards",
+          "url": "https://www.gasb.org/standards-and-implementation"
+        }
+      ]
+    }
+  },
+  "relatedSimulation": "bar-m1-tbs2"
+}

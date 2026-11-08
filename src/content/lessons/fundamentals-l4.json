@@ -1,0 +1,88 @@
+{
+  "id": "fundamentals-l4",
+  "courseId": "fundamentals",
+  "moduleId": 0,
+  "number": 4,
+  "title": "Debits and Credits",
+  "description": "Learn the system behind recording accounting transactions.",
+  "url": "/learn/fundamentals/lessons/4",
+  "html": "<h2>Debits and credits</h2> <p> Every accounting transaction affects at least two accounts. Debits and credits are the system used to record those changes. </p> <p> A debit does not automatically mean increase, and a credit does not automatically mean decrease. </p> <p> Whether a debit increases or decreases an account depends on the type of account. </p> <div class=\"formula-box\"> Total Debits = Total Credits </div> <h2>Normal balance rules</h2> <div class=\"debit-credit-table\"> <div class=\"dc-row dc-header\"> <div>Account Type</div> <div>Increase</div> <div>Decrease</div> </div> <div class=\"dc-row\"> <div>Assets</div> <div>Debit</div> <div>Credit</div> </div> <div class=\"dc-row\"> <div>Liabilities</div> <div>Credit</div> <div>Debit</div> </div> <div class=\"dc-row\"> <div>Equity</div> <div>Credit</div> <div>Debit</div> </div> <div class=\"dc-row\"> <div>Revenue</div> <div>Credit</div> <div>Debit</div> </div> <div class=\"dc-row\"> <div>Expenses</div> <div>Debit</div> <div>Credit</div> </div> </div> <div class=\"key-points\"> <h3>Easy memory rule</h3> <p> Assets and Expenses normally increase with debits. </p> <p> Liabilities, Equity, and Revenue normally increase with credits. </p> </div> <h2>Example 1</h2> <div class=\"example-box\"> <p> The owner invests <strong>$10,000 cash</strong> into the business. </p> <p> Cash is an asset, so it increases with a debit. </p> <p> Owner's equity increases with a credit. </p> <p> <strong>Debit Cash $10,000</strong> </p> <p> <strong>Credit Equity $10,000</strong> </p> </div> <h2>Example 2</h2> <div class=\"example-box\"> <p> The business pays <strong>$1,000 rent in cash</strong>. </p> <p> Rent Expense increases with a debit. </p> <p> Cash decreases with a credit. </p> <p> <strong>Debit Rent Expense $1,000</strong> </p> <p> <strong>Credit Cash $1,000</strong> </p> </div> <div class=\"key-points\"> <h3>Never forget</h3> <ul> <li>Every transaction must balance.</li> <li>Total debits must equal total credits.</li> <li>Debit does not mean good or bad.</li> <li>Credit does not mean increase in every account.</li> </ul> </div>",
+  "quiz": {
+    "id": "fundamentals-l4-check",
+    "courseId": "fundamentals",
+    "moduleId": 0,
+    "lessonId": "fundamentals-l4",
+    "topic": "General review",
+    "prompt": "A company receives $5,000 cash from a customer for services already performed. Which account is credited?",
+    "choices": [
+      {
+        "id": "fundamentals-l4-check-a0",
+        "text": "Cash"
+      },
+      {
+        "id": "fundamentals-l4-check-a1",
+        "text": "Service Revenue"
+      },
+      {
+        "id": "fundamentals-l4-check-a2",
+        "text": "Accounts Receivable"
+      },
+      {
+        "id": "fundamentals-l4-check-a3",
+        "text": "Rent Expense"
+      }
+    ],
+    "correctChoiceId": "fundamentals-l4-check-a1",
+    "explanation": "Cash increases with a debit, while Service Revenue increases with a credit.",
+    "difficulty": "foundation",
+    "metadata": {
+      "section": "fundamentals",
+      "blueprintYear": 2026,
+      "areaId": "fundamentals-I",
+      "groupId": "module-0",
+      "topicId": "fundamentals-debits-and-credits",
+      "taskIds": [
+        "fundamentals-debits-and-credits.task-1",
+        "fundamentals-debits-and-credits.task-2",
+        "fundamentals-debits-and-credits.task-3"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "section": "fundamentals",
+    "blueprintYear": 2026,
+    "areaId": "fundamentals-I",
+    "groupId": "module-0",
+    "topicId": "fundamentals-debits-and-credits",
+    "taskIds": [
+      "fundamentals-debits-and-credits.task-1",
+      "fundamentals-debits-and-credits.task-2",
+      "fundamentals-debits-and-credits.task-3"
+    ],
+    "skill": "application",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      }
+    ]
+  },
+  "objectives": [
+    "Explain debits and credits and its underlying principles.",
+    "Apply the topic to a financial-reporting scenario.",
+    "Evaluate common errors and their financial-statement effects."
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "id": "aud-m3-l3",
+  "courseId": "aud",
+  "moduleId": 3,
+  "number": 3,
+  "title": "Data Reliability & Analytical Procedures",
+  "description": "Validate completeness, accuracy, and relevance of data before analysis.",
+  "url": "/learn/aud/modules/3/lessons/3",
+  "metadata": {
+    "section": "aud",
+    "blueprintYear": 2026,
+    "areaId": "aud-III",
+    "groupId": "A-B",
+    "topicId": "aud-audit-data",
+    "taskIds": [
+      "aud-audit-data.task-1",
+      "aud-audit-data.task-2",
+      "aud-audit-data.task-3"
+    ],
+    "skill": "application",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      },
+      {
+        "title": "AICPA auditing standards",
+        "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+      },
+      {
+        "title": "PCAOB standards",
+        "url": "https://pcaobus.org/oversight/standards"
+      }
+    ]
+  },
+  "html": "<h2>Learning objectives</h2><ul><li>Validate completeness, accuracy, and relevance of data before analysis.</li><li>Build an independent and sufficiently precise expectation.</li><li>Investigate significant differences rather than accepting unsupported explanations.</li></ul><h2>Understand the concepts</h2><p>Data analytics are only as reliable as their inputs and design. Agree extracted totals and counts to independent source information, inspect query criteria and date boundaries, investigate duplicates or missing records, and validate transformations. An attractive dashboard or an AI-generated analysis does not establish completeness, accuracy, authenticity, or freedom from management bias.</p><p>Analytical procedures evaluate plausible relationships among financial and nonfinancial data. Risk-assessment analytics help identify unusual relationships; substantive analytics require a sufficiently reliable and precise expectation; final analytics help assess whether the statements are consistent with the auditor’s understanding. These purposes are related but are not interchangeable.</p><p>Develop the expectation independently of the recorded amount. Stable relationships, disaggregated data, reliable operational measures, and predictable transactions can improve precision. Set an acceptable difference before evaluating the recorded balance. Investigate significant differences with corroborated explanations and appropriate further procedures; merely asking management why the number differs is not enough.</p><p>SQL joins, filters, and aggregations can change a population. An inner join may omit unmatched records, while a one-to-many join can duplicate amounts. Reconcile both before and after transformations. Where source data is incomplete or biased, a larger analysis does not cure the underlying defect.</p><div class=\"example-box\"><h3>Independent rent expectation</h3><p>A building has 40 identical occupied units renting for $1,500 per month for all 12 months. No concessions or vacancies apply. Recorded rental revenue is $660,000.</p><ol><li>Expected revenue is 40 × $1,500 × 12 = $720,000.</li><li>The $60,000 difference exceeds the exercise’s $10,000 investigation threshold.</li><li>Corroborate occupancy, leases, collections, and concessions; investigate the difference rather than forcing the expectation to the ledger.</li></ol></div><div class=\"key-points\"><h3>Common mistakes to avoid</h3><ul><li>Agreeing a report to itself is not an independent completeness check.</li><li>A plausible management explanation still needs corroboration.</li><li>An analysis can be arithmetically correct but based on the wrong population.</li></ul></div><h2>Apply and connect</h2><p>After solving the worked case, explain which facts determine the result and how a changed assumption would change your conclusion. Use the module questions to test fresh applications, then complete the related simulation before reviewing its solution.</p>",
+  "objectives": [
+    "Validate completeness, accuracy, and relevance of data before analysis.",
+    "Build an independent and sufficiently precise expectation.",
+    "Investigate significant differences rather than accepting unsupported explanations."
+  ],
+  "quiz": {
+    "id": "aud-m3-l3-q1",
+    "courseId": "aud",
+    "moduleId": 3,
+    "lessonId": "aud-m3-l3",
+    "topic": "Data Reliability & Analytical Procedures",
+    "prompt": "A sales extract excludes all credit memos. What must the auditor address before relying on a net-sales analysis?",
+    "choices": [
+      {
+        "id": "aud-m3-l3-q1-a0",
+        "text": "The completeness and relevance of the extracted population."
+      },
+      {
+        "id": "aud-m3-l3-q1-a1",
+        "text": "Only the dashboard’s colors."
+      },
+      {
+        "id": "aud-m3-l3-q1-a2",
+        "text": "Only whether the file is a spreadsheet."
+      },
+      {
+        "id": "aud-m3-l3-q1-a3",
+        "text": "Nothing if the report totals are large."
+      }
+    ],
+    "correctChoiceId": "aud-m3-l3-q1-a0",
+    "explanation": "Omitted credit memos can bias net sales. Validate extraction criteria and reconcile to appropriate records.",
+    "difficulty": "advanced",
+    "metadata": {
+      "section": "aud",
+      "blueprintYear": 2026,
+      "areaId": "aud-III",
+      "groupId": "A-B",
+      "topicId": "aud-audit-data",
+      "taskIds": [
+        "aud-audit-data.task-1"
+      ],
+      "skill": "analysis",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        },
+        {
+          "title": "AICPA auditing standards",
+          "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+        },
+        {
+          "title": "PCAOB standards",
+          "url": "https://pcaobus.org/oversight/standards"
+        }
+      ]
+    }
+  },
+  "relatedSimulation": "aud-m3-tbs3"
+}

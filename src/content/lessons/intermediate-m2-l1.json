@@ -1,0 +1,88 @@
+{
+  "id": "intermediate-m2-l1",
+  "courseId": "intermediate",
+  "moduleId": 2,
+  "number": 1,
+  "title": "Cash & Cash Equivalents",
+  "description": "Understand what qualifies as cash and how cash equivalents are treated.",
+  "url": "/learn/intermediate/modules/2/lessons/1",
+  "html": "<h2>What counts as cash?</h2> <p> Cash includes money that is readily available for use. </p> <div class=\"key-points\"> <h3>Common examples</h3> <ul> <li>Currency and coins</li> <li>Demand deposits</li> <li>Checking accounts</li> <li>Undeposited customer checks</li> </ul> </div> <h2>Cash equivalents</h2> <p> Cash equivalents are short-term, highly liquid investments that can be converted quickly into known amounts of cash and generally have insignificant risk of changes in value. </p> <p> They generally have an original maturity of <strong>three months or less</strong>. </p> <div class=\"example-box\"> <h3>Example</h3> <p> A company purchases a Treasury bill when it has two months remaining until maturity. </p> <p> Assuming the other requirements are met, it may qualify as a cash equivalent. </p> </div> <h2>Restricted cash</h2> <p> Sometimes cash cannot be used freely because it has been set aside for a particular purpose. </p> <p> This is called <strong>restricted cash</strong>. </p> <div class=\"key-points\"> <h3>Important distinction</h3> <p> Cash may physically exist but still require separate presentation or disclosure if its use is restricted. </p> </div> <h2>Items that are not automatically cash</h2> <div class=\"key-points\"> <ul> <li>Postdated checks</li> <li>Employee IOUs</li> <li>Long-term investments</li> <li>Receivables from customers</li> </ul> </div>",
+  "quiz": {
+    "id": "intermediate-m2-l1-check",
+    "courseId": "intermediate",
+    "moduleId": 2,
+    "lessonId": "intermediate-m2-l1",
+    "topic": "General review",
+    "prompt": "Which investment is most likely to qualify as a cash equivalent?",
+    "choices": [
+      {
+        "id": "intermediate-m2-l1-check-a0",
+        "text": "A bond purchased with five years remaining until maturity"
+      },
+      {
+        "id": "intermediate-m2-l1-check-a1",
+        "text": "Common stock expected to be sold within three months"
+      },
+      {
+        "id": "intermediate-m2-l1-check-a2",
+        "text": "A one-year certificate of deposit purchased eleven months ago"
+      },
+      {
+        "id": "intermediate-m2-l1-check-a3",
+        "text": "A Treasury bill purchased when it has two months remaining until maturity"
+      }
+    ],
+    "correctChoiceId": "intermediate-m2-l1-check-a3",
+    "explanation": "Cash equivalents are highly liquid short-term investments, generally with original maturities of three months or less.",
+    "difficulty": "foundation",
+    "metadata": {
+      "section": "intermediate",
+      "blueprintYear": 2026,
+      "areaId": "intermediate-I",
+      "groupId": "module-2",
+      "topicId": "intermediate-cash-cash-equivalents",
+      "taskIds": [
+        "intermediate-cash-cash-equivalents.task-1",
+        "intermediate-cash-cash-equivalents.task-2",
+        "intermediate-cash-cash-equivalents.task-3"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "section": "intermediate",
+    "blueprintYear": 2026,
+    "areaId": "intermediate-I",
+    "groupId": "module-2",
+    "topicId": "intermediate-cash-cash-equivalents",
+    "taskIds": [
+      "intermediate-cash-cash-equivalents.task-1",
+      "intermediate-cash-cash-equivalents.task-2",
+      "intermediate-cash-cash-equivalents.task-3"
+    ],
+    "skill": "application",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      }
+    ]
+  },
+  "objectives": [
+    "Explain cash & cash equivalents and its underlying principles.",
+    "Apply the topic to a financial-reporting scenario.",
+    "Evaluate common errors and their financial-statement effects."
+  ]
+}

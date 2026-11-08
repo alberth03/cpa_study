@@ -1,0 +1,101 @@
+{
+  "id": "far-m1-tbs2",
+  "moduleId": 1,
+  "number": 2,
+  "title": "TBS 2 · Statement of Cash Flows",
+  "fields": [
+    {
+      "id": "tbs2-q1",
+      "label": "1. Cash paid to purchase equipment",
+      "type": "select",
+      "options": [
+        {
+          "value": "Operating",
+          "label": "Operating"
+        },
+        {
+          "value": "Investing",
+          "label": "Investing"
+        },
+        {
+          "value": "Financing",
+          "label": "Financing"
+        }
+      ],
+      "correct": "Investing"
+    },
+    {
+      "id": "tbs2-q2",
+      "label": "2. Cash received from issuing common stock",
+      "type": "select",
+      "options": [
+        {
+          "value": "Operating",
+          "label": "Operating"
+        },
+        {
+          "value": "Investing",
+          "label": "Investing"
+        },
+        {
+          "value": "Financing",
+          "label": "Financing"
+        }
+      ],
+      "correct": "Financing"
+    },
+    {
+      "id": "tbs2-q3",
+      "label": "3. Cash collected from customers",
+      "type": "select",
+      "options": [
+        {
+          "value": "Operating",
+          "label": "Operating"
+        },
+        {
+          "value": "Investing",
+          "label": "Investing"
+        },
+        {
+          "value": "Financing",
+          "label": "Financing"
+        }
+      ],
+      "correct": "Operating"
+    },
+    {
+      "id": "tbs2-q4",
+      "label": "4. Net Cash Provided by Operating Activities",
+      "type": "number",
+      "options": [],
+      "correct": 144000
+    }
+  ],
+  "html": "<section class=\"lesson-page\"> <div class=\"course-intro-card\"> <span class=\"exam-badge\"> TASK-BASED SIMULATION </span> <h2> Statement of Cash Flows </h2> <p> Classify cash transactions and calculate net cash provided by operating activities. </p> </div> <div class=\"tbs-data-card\"> <h3> Company Information </h3> <div class=\"tbs-data-row\"> <span> Net Income </span> <strong> $120,000 </strong> </div> <div class=\"tbs-data-row\"> <span> Depreciation Expense </span> <strong> $25,000 </strong> </div> <div class=\"tbs-data-row\"> <span> Increase in Accounts Receivable </span> <strong> $18,000 </strong> </div> <div class=\"tbs-data-row\"> <span> Decrease in Inventory </span> <strong> $10,000 </strong> </div> <div class=\"tbs-data-row\"> <span> Increase in Accounts Payable </span> <strong> $7,000 </strong> </div> </div> <div class=\"tbs-data-card\"> <h3> Part 1 · Classify the Transactions </h3> <div class=\"tbs-question\"> <label for=\"tbs2-q1\"> 1. Cash paid to purchase equipment </label> <select id=\"tbs2-q1\" class=\"tbs-input\"> <option value=\"\"> Select classification </option> <option value=\"Operating\"> Operating </option> <option value=\"Investing\"> Investing </option> <option value=\"Financing\"> Financing </option> </select> </div> <div class=\"tbs-question\"> <label for=\"tbs2-q2\"> 2. Cash received from issuing common stock </label> <select id=\"tbs2-q2\" class=\"tbs-input\"> <option value=\"\"> Select classification </option> <option value=\"Operating\"> Operating </option> <option value=\"Investing\"> Investing </option> <option value=\"Financing\"> Financing </option> </select> </div> <div class=\"tbs-question\"> <label for=\"tbs2-q3\"> 3. Cash collected from customers </label> <select id=\"tbs2-q3\" class=\"tbs-input\"> <option value=\"\"> Select classification </option> <option value=\"Operating\"> Operating </option> <option value=\"Investing\"> Investing </option> <option value=\"Financing\"> Financing </option> </select> </div> </div> <div class=\"tbs-data-card\"> <h3> Part 2 · Operating Cash Flow </h3> <p> Using the indirect method and the information above, calculate net cash provided by operating activities. </p> <div class=\"tbs-question\"> <label for=\"tbs2-q4\"> 4. Net Cash Provided by Operating Activities </label> <input type=\"number\" id=\"tbs2-q4\" class=\"tbs-input\" placeholder=\"Enter amount\"> </div> </div> <div id=\"tbs2-result\"></div> </section>",
+  "explanation": "<div class=\"tbs-results\"> <div class=\"key-points\"> <h3> Correct Answers </h3> <p> 1. Equipment purchase: <strong>Investing</strong> </p> <p> 2. Issue common stock: <strong>Financing</strong> </p> <p> 3. Customer collections: <strong>Operating</strong> </p> <p> 4. Net operating cash flow: <strong>$144,000</strong> </p> </div> <div class=\"example-box\"> <h3> Operating Cash Flow Calculation </h3> <p> Net Income = $120,000 </p> <p> + Depreciation = $25,000 </p> <p> − Increase in Accounts Receivable = $18,000 </p> <p> + Decrease in Inventory = $10,000 </p> <p> + Increase in Accounts Payable = $7,000 </p> <div class=\"formula-box\"> $120,000 + $25,000 − $18,000 + $10,000 + $7,000 = $144,000 </div> </div> </div>",
+  "courseId": "far",
+  "difficulty": "advanced",
+  "metadata": {
+    "section": "far",
+    "blueprintYear": 2026,
+    "areaId": "far-I",
+    "groupId": "module-1",
+    "topicId": "far-income-statement-comprehensive-income",
+    "taskIds": [
+      "far-income-statement-comprehensive-income.task-1",
+      "far-income-statement-comprehensive-income.task-2",
+      "far-income-statement-comprehensive-income.task-3"
+    ],
+    "skill": "analysis",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      }
+    ]
+  }
+}

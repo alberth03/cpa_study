@@ -1,0 +1,88 @@
+{
+  "id": "intermediate-m1-l5",
+  "courseId": "intermediate",
+  "moduleId": 1,
+  "number": 5,
+  "title": "Present Value Basics",
+  "description": "Introduction to time value of money and present value concepts.",
+  "url": "/learn/intermediate/modules/1/lessons/5",
+  "html": "<h2>The time value of money</h2> <p> A dollar today is generally worth more than a dollar received in the future because today's dollar can potentially be invested and earn a return. </p> <div class=\"key-points\"> <h3>Two important ideas</h3> <p> <strong>Future Value:</strong> What money today could grow to in the future. </p> <p> <strong>Present Value:</strong> What a future amount of money is worth today. </p> </div> <h2>Simple future value example</h2> <p> Suppose you invest <strong>$1,000</strong> for one year at <strong>10%</strong>. </p> <div class=\"formula-box\"> $1,000 × 1.10 = $1,100 </div> <p> The future value after one year is <strong>$1,100</strong>. </p> <h2>Now work backward</h2> <p> If someone promises to pay you <strong>$1,100 one year from now</strong> and the appropriate discount rate is 10%, its present value is: </p> <div class=\"formula-box\"> $1,100 ÷ 1.10 = $1,000 </div> <h2>Basic present value formula</h2> <div class=\"formula-box\"> PV = FV ÷ (1 + r)ⁿ </div> <div class=\"key-points\"> <p> <strong>PV</strong> = Present Value </p> <p> <strong>FV</strong> = Future Value </p> <p> <strong>r</strong> = Interest or discount rate </p> <p> <strong>n</strong> = Number of periods </p> </div> <h2>Accounting connection</h2> <p> Present value concepts become important later when you study topics such as bonds, leases and certain long-term obligations. </p> <div class=\"example-box\"> <h3>Example</h3> <p> You will receive $10,000 one year from now. Assume a 5% discount rate. </p> <p> Present Value = $10,000 ÷ 1.05 </p> <p> Present Value ≈ <strong>$9,523.81</strong> </p> </div> <div class=\"key-points\"> <h3>Don't overcomplicate this yet</h3> <p> At this stage, the goal is simply to understand why future cash flows may be worth less today. </p> <p> We'll do much more detailed present-value calculations when we reach bonds and leases. </p> </div>",
+  "quiz": {
+    "id": "intermediate-m1-l5-check",
+    "courseId": "intermediate",
+    "moduleId": 1,
+    "lessonId": "intermediate-m1-l5",
+    "topic": "General review",
+    "prompt": "What is the present value of $1,100 received one year from now if the discount rate is 10%?",
+    "choices": [
+      {
+        "id": "intermediate-m1-l5-check-a0",
+        "text": "$900"
+      },
+      {
+        "id": "intermediate-m1-l5-check-a1",
+        "text": "$1,000"
+      },
+      {
+        "id": "intermediate-m1-l5-check-a2",
+        "text": "$1,100"
+      },
+      {
+        "id": "intermediate-m1-l5-check-a3",
+        "text": "$1,210"
+      }
+    ],
+    "correctChoiceId": "intermediate-m1-l5-check-a1",
+    "explanation": "PV = $1,100 ÷ 1.10 = $1,000.",
+    "difficulty": "foundation",
+    "metadata": {
+      "section": "intermediate",
+      "blueprintYear": 2026,
+      "areaId": "intermediate-I",
+      "groupId": "module-1",
+      "topicId": "intermediate-present-value-basics",
+      "taskIds": [
+        "intermediate-present-value-basics.task-1",
+        "intermediate-present-value-basics.task-2",
+        "intermediate-present-value-basics.task-3"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "section": "intermediate",
+    "blueprintYear": 2026,
+    "areaId": "intermediate-I",
+    "groupId": "module-1",
+    "topicId": "intermediate-present-value-basics",
+    "taskIds": [
+      "intermediate-present-value-basics.task-1",
+      "intermediate-present-value-basics.task-2",
+      "intermediate-present-value-basics.task-3"
+    ],
+    "skill": "application",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      }
+    ]
+  },
+  "objectives": [
+    "Explain present value basics and its underlying principles.",
+    "Apply the topic to a financial-reporting scenario.",
+    "Evaluate common errors and their financial-statement effects."
+  ]
+}

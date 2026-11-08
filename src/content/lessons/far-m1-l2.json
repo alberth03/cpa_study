@@ -1,0 +1,88 @@
+{
+  "id": "far-m1-l2",
+  "courseId": "far",
+  "moduleId": 1,
+  "number": 2,
+  "title": "Balance Sheet Classification & Presentation",
+  "description": "Apply CPA-level classification and presentation rules for assets, liabilities and equity.",
+  "url": "/learn/far/modules/1/lessons/2",
+  "html": "<h2> Purpose of the balance sheet </h2> <p> The balance sheet presents an entity's financial position at a specific date. </p> <div class=\"formula-box\"> Assets = Liabilities + Stockholders' Equity </div> <p> FAR questions may require you to determine not only the correct balance of an account, but also where and how that balance should appear in the financial statements. </p> <div class=\"key-points\"> <h3>CPA mindset</h3> <p> Always separate these two questions: </p> <ol> <li> What is the correct amount? </li> <li> How should that amount be classified and presented? </li> </ol> </div> <h2> Classified balance sheet </h2> <p> A classified balance sheet separates assets and liabilities into meaningful categories, including current and noncurrent classifications. </p> <div class=\"comparison-grid\"> <div class=\"comparison-card\"> <h3> Current Assets </h3> <p> Current assets generally include assets expected to be realized in cash, sold, or consumed during the normal operating cycle or within one year from the balance-sheet date, whichever period is longer, when applicable. </p> </div> <div class=\"comparison-card\"> <h3> Noncurrent Assets </h3> <p> Assets not classified as current, such as many long-term investments, property and equipment and intangible assets. </p> </div> </div> <h2> Current assets </h2> <p> Common current assets can include: </p> <div class=\"key-points\"> <ul> <li> Cash and cash equivalents </li> <li> Short-term receivables </li> <li> Inventory </li> <li> Certain short-term investments </li> <li> Prepaid expenses expected to be consumed in the current period </li> </ul> </div> <h2> Operating cycle </h2> <p> The operating cycle is the time between acquiring goods or services and ultimately converting them into cash through normal operations. </p> <p> This concept matters because some operating assets and liabilities can remain current even when their realization or settlement extends beyond exactly twelve months. </p> <div class=\"example-box\"> <h3>Example</h3> <p> Assume a business has a normal operating cycle of 15 months. </p> <p> Inventory expected to be sold and collected within that normal operating cycle may still qualify as current even though the cycle exceeds one year. </p> </div> <div class=\"key-points\"> <h3>CPA trap</h3> <p> Do not automatically use: <strong>\"anything over 12 months = noncurrent.\"</strong> </p> <p> The operating cycle can matter. </p> </div> <h2> Noncurrent assets </h2> <p> Noncurrent assets commonly include: </p> <div class=\"key-points\"> <ul> <li> Property, plant and equipment </li> <li> Long-term investments </li> <li> Intangible assets </li> <li> Certain long-term receivables </li> <li> Other assets not meeting current-asset classification </li> </ul> </div> <h2> Current liabilities </h2> <p> Current liabilities generally include obligations expected to be settled during the normal operating cycle or within one year from the balance-sheet date, whichever period is longer, when applicable. </p> <div class=\"key-points\"> <h3>Common examples</h3> <ul> <li> Accounts payable </li> <li> Accrued wages payable </li> <li> Certain taxes payable </li> <li> Unearned revenue expected to be earned in the current period </li> <li> Current maturities of long-term debt </li> </ul> </div> <h2> Current portion of long-term debt </h2> <p> Long-term debt can contain both a current and a noncurrent portion. </p> <div class=\"example-box\"> <h3>Example</h3> <p> A company reports a <strong>$500,000 long-term note payable</strong>. </p> <p> Of that amount, <strong>$80,000</strong> is due during the next year. </p> <p> Ignoring any special classification issues: </p> <div class=\"financial-example\"> <div> <span> Current Liability </span> <strong> $80,000 </strong> </div> <div> <span> Noncurrent Liability </span> <strong> $420,000 </strong> </div> </div> </div> <div class=\"formula-box\"> $500,000 − $80,000 = $420,000 noncurrent </div> <h2> Working capital </h2> <p> Working capital measures the excess of current assets over current liabilities. </p> <div class=\"formula-box\"> Working Capital = Current Assets − Current Liabilities </div> <div class=\"example-box\"> <h3>Example</h3> <p> Current assets = $300,000 </p> <p> Current liabilities = $190,000 </p> <div class=\"formula-box\"> $300,000 − $190,000 = $110,000 Working Capital </div> </div> <h2> Contra accounts </h2> <p> Some accounts reduce the carrying amount of another account rather than appearing as ordinary liabilities or expenses. </p> <div class=\"comparison-grid\"> <div class=\"comparison-card\"> <h3> Accounts Receivable </h3> <p> $200,000 </p> </div> <div class=\"comparison-card\"> <h3> Allowance for Credit Losses </h3> <p> ($12,000) </p> </div> </div> <div class=\"formula-box\"> Net Accounts Receivable = $200,000 − $12,000 = $188,000 </div> <p> The allowance is a contra-asset account. It reduces the carrying amount of receivables. </p> <div class=\"key-points\"> <h3>CPA trap</h3> <p> A contra-asset is not automatically classified as a liability simply because it has a credit balance. </p> </div> <h2> Accumulated depreciation </h2> <p> Accumulated depreciation is another common contra-asset account. </p> <div class=\"example-box\"> <p> Equipment cost = $250,000 </p> <p> Accumulated depreciation = $70,000 </p> <div class=\"formula-box\"> Net Carrying Amount = $250,000 − $70,000 = $180,000 </div> </div> <h2> Stockholders' equity presentation </h2> <p> Stockholders' equity can include several components rather than one single account. </p> <div class=\"key-points\"> <ul> <li> Common stock </li> <li> Preferred stock, when applicable </li> <li> Additional paid-in capital </li> <li> Retained earnings </li> <li> Accumulated other comprehensive income or loss </li> <li> Treasury stock as a reduction of equity </li> </ul> </div> <div class=\"key-points\"> <h3>CPA trap</h3> <p> Treasury stock is generally presented as a reduction of stockholders' equity. </p> <p> It is not presented as an asset merely because the corporation paid cash to reacquire its own shares. </p> </div> <h2> Offsetting </h2> <p> Assets and liabilities generally should not simply be netted against one another merely because doing so makes the balance sheet shorter. </p> <p> Whether amounts may be offset depends on the applicable accounting guidance and the facts of the arrangement. </p> <div class=\"key-points\"> <h3>CPA habit</h3> <p> If a problem gives you both an asset and a liability, do not automatically subtract one from the other. </p> </div> <h2> Worked CPA-style classification problem </h2> <p> Assume a company reports: </p> <div class=\"financial-example\"> <div> <span>Cash</span> <strong>$40,000</strong> </div> <div> <span>Accounts Receivable, net</span> <strong>$70,000</strong> </div> <div> <span>Inventory</span> <strong>$90,000</strong> </div> <div> <span>Prepaid Insurance</span> <strong>$10,000</strong> </div> <div> <span>Equipment, net</span> <strong>$200,000</strong> </div> <div> <span>Accounts Payable</span> <strong>$55,000</strong> </div> <div> <span>Current Portion of Debt</span> <strong>$25,000</strong> </div> </div> <h3> Step 1 — Calculate current assets </h3> <div class=\"formula-box\"> $40,000 + $70,000 + $90,000 + $10,000 = $210,000 </div> <h3> Step 2 — Calculate current liabilities </h3> <div class=\"formula-box\"> $55,000 + $25,000 = $80,000 </div> <h3> Step 3 — Calculate working capital </h3> <div class=\"formula-box\"> $210,000 − $80,000 = $130,000 </div> <p> Equipment is excluded from current assets because it is a noncurrent asset. </p> <h2> What you should know after this lesson </h2> <div class=\"key-points\"> <ul> <li> Distinguish current and noncurrent assets and liabilities. </li> <li> Understand the importance of the operating cycle. </li> <li> Separate current maturities from long-term debt. </li> <li> Calculate working capital. </li> <li> Understand contra-asset presentation. </li> <li> Recognize treasury stock as contra-equity. </li> <li> Do not automatically offset assets and liabilities. </li> </ul> </div>",
+  "quiz": {
+    "id": "far-m1-l2-check",
+    "courseId": "far",
+    "moduleId": 1,
+    "lessonId": "far-m1-l2",
+    "topic": "General review",
+    "prompt": "A company has $260,000 of current assets and $175,000 of current liabilities. A $40,000 portion of long-term debt due next year is already included in current liabilities. What is working capital?",
+    "choices": [
+      {
+        "id": "far-m1-l2-check-a0",
+        "text": "$85,000"
+      },
+      {
+        "id": "far-m1-l2-check-a1",
+        "text": "$45,000"
+      },
+      {
+        "id": "far-m1-l2-check-a2",
+        "text": "$125,000"
+      },
+      {
+        "id": "far-m1-l2-check-a3",
+        "text": "$435,000"
+      }
+    ],
+    "correctChoiceId": "far-m1-l2-check-a0",
+    "explanation": "Working capital equals current assets minus current liabilities. Because the $40,000 current portion of debt is already included in the $175,000 current-liability total, it must not be subtracted a second time. $260,000 − $175,000 = $85,000.",
+    "difficulty": "foundation",
+    "metadata": {
+      "section": "far",
+      "blueprintYear": 2026,
+      "areaId": "far-I",
+      "groupId": "module-1",
+      "topicId": "far-balance-sheet-classification-presentation",
+      "taskIds": [
+        "far-balance-sheet-classification-presentation.task-1",
+        "far-balance-sheet-classification-presentation.task-2",
+        "far-balance-sheet-classification-presentation.task-3"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "section": "far",
+    "blueprintYear": 2026,
+    "areaId": "far-I",
+    "groupId": "module-1",
+    "topicId": "far-balance-sheet-classification-presentation",
+    "taskIds": [
+      "far-balance-sheet-classification-presentation.task-1",
+      "far-balance-sheet-classification-presentation.task-2",
+      "far-balance-sheet-classification-presentation.task-3"
+    ],
+    "skill": "application",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      }
+    ]
+  },
+  "objectives": [
+    "Explain balance sheet classification & presentation and its underlying principles.",
+    "Apply the topic to a financial-reporting scenario.",
+    "Evaluate common errors and their financial-statement effects."
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "id": "intermediate-m3-l5",
+  "courseId": "intermediate",
+  "moduleId": 3,
+  "number": 5,
+  "title": "Inventory Valuation & Errors",
+  "description": "Learn valuation adjustments and how inventory errors affect financial statements.",
+  "url": "/learn/intermediate/modules/3/lessons/5",
+  "html": "<h2>Inventory is not always kept at its original cost</h2> <p> Sometimes inventory loses value because of damage, obsolescence, declining selling prices or other economic changes. </p> <p> Accounting rules may therefore require inventory to be written down. </p> <h2>Lower of Cost and Net Realizable Value</h2> <p> For inventory measured using certain methods, a common valuation approach compares cost with <strong>net realizable value (NRV)</strong>. </p> <div class=\"formula-box\"> NRV = Estimated Selling Price − Costs of Completion, Disposal and Transportation </div> <h2>Example</h2> <p> Assume inventory has: </p> <div class=\"financial-example\"> <div> <span>Recorded Cost</span> <strong>$50,000</strong> </div> <div> <span>Net Realizable Value</span> <strong>$46,000</strong> </div> </div> <p> If the applicable accounting rule requires the lower amount, inventory would be reported at: </p> <div class=\"formula-box\"> $46,000 </div> <p> The decline is: </p> <div class=\"formula-box\"> $50,000 − $46,000 = $4,000 </div> <h2>Inventory errors</h2> <p> Inventory errors are especially important because ending inventory affects both the balance sheet and Cost of Goods Sold. </p> <div class=\"formula-box\"> Beginning Inventory + Purchases − Ending Inventory = COGS </div> <h2>What if ending inventory is overstated?</h2> <p> Suppose actual ending inventory is $20,000, but the company incorrectly reports $25,000. </p> <p> Ending inventory is overstated by <strong>$5,000</strong>. </p> <div class=\"key-points\"> <h3>Current-period effects</h3> <ul> <li>Ending Inventory → Overstated</li> <li>Cost of Goods Sold → Understated</li> <li>Gross Profit → Overstated</li> <li>Net Income → Overstated</li> </ul> </div> <h2>Why does COGS become understated?</h2> <p> Look at the formula: </p> <div class=\"formula-box\"> COGS = Beginning Inventory + Purchases − Ending Inventory </div> <p> If you subtract an ending inventory amount that is too large, calculated COGS becomes too small. </p> <h2>What if ending inventory is understated?</h2> <div class=\"key-points\"> <ul> <li>Ending Inventory → Understated</li> <li>Cost of Goods Sold → Overstated</li> <li>Gross Profit → Understated</li> <li>Net Income → Understated</li> </ul> </div> <div class=\"example-box\"> <h3>CPA thinking</h3> <p> Don't just memorize the arrows. </p> <p> Start with the COGS formula and determine what happens when ending inventory changes. </p> </div>",
+  "quiz": {
+    "id": "intermediate-m3-l5-check",
+    "courseId": "intermediate",
+    "moduleId": 3,
+    "lessonId": "intermediate-m3-l5",
+    "topic": "General review",
+    "prompt": "If ending inventory is overstated, what happens to current-period Cost of Goods Sold?",
+    "choices": [
+      {
+        "id": "intermediate-m3-l5-check-a0",
+        "text": "COGS is overstated"
+      },
+      {
+        "id": "intermediate-m3-l5-check-a1",
+        "text": "COGS is understated"
+      },
+      {
+        "id": "intermediate-m3-l5-check-a2",
+        "text": "COGS is unaffected"
+      },
+      {
+        "id": "intermediate-m3-l5-check-a3",
+        "text": "COGS becomes zero"
+      }
+    ],
+    "correctChoiceId": "intermediate-m3-l5-check-a1",
+    "explanation": "Because ending inventory is subtracted when calculating COGS, overstating ending inventory causes COGS to be understated.",
+    "difficulty": "foundation",
+    "metadata": {
+      "section": "intermediate",
+      "blueprintYear": 2026,
+      "areaId": "intermediate-I",
+      "groupId": "module-3",
+      "topicId": "intermediate-inventory-valuation-errors",
+      "taskIds": [
+        "intermediate-inventory-valuation-errors.task-1",
+        "intermediate-inventory-valuation-errors.task-2",
+        "intermediate-inventory-valuation-errors.task-3"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "section": "intermediate",
+    "blueprintYear": 2026,
+    "areaId": "intermediate-I",
+    "groupId": "module-3",
+    "topicId": "intermediate-inventory-valuation-errors",
+    "taskIds": [
+      "intermediate-inventory-valuation-errors.task-1",
+      "intermediate-inventory-valuation-errors.task-2",
+      "intermediate-inventory-valuation-errors.task-3"
+    ],
+    "skill": "application",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      }
+    ]
+  },
+  "objectives": [
+    "Explain inventory valuation & errors and its underlying principles.",
+    "Apply the topic to a financial-reporting scenario.",
+    "Evaluate common errors and their financial-statement effects."
+  ]
+}

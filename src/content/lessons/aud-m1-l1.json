@@ -1,0 +1,103 @@
+{
+  "id": "aud-m1-l1",
+  "courseId": "aud",
+  "moduleId": 1,
+  "number": 1,
+  "title": "Ethics, Independence & Professional Conduct",
+  "description": "Distinguish independence of mind and appearance from objectivity.",
+  "url": "/learn/aud/modules/1/lessons/1",
+  "metadata": {
+    "section": "aud",
+    "blueprintYear": 2026,
+    "areaId": "aud-I",
+    "groupId": "A",
+    "topicId": "aud-auditor-independence",
+    "taskIds": [
+      "aud-auditor-independence.task-1",
+      "aud-auditor-independence.task-2",
+      "aud-auditor-independence.task-3"
+    ],
+    "skill": "application",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      },
+      {
+        "title": "AICPA auditing standards",
+        "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+      },
+      {
+        "title": "PCAOB standards",
+        "url": "https://pcaobus.org/oversight/standards"
+      }
+    ]
+  },
+  "html": "<h2>Learning objectives</h2><ul><li>Distinguish independence of mind and appearance from objectivity.</li><li>Apply the appropriate AICPA, SEC/PCAOB, GAO, or DOL independence requirements.</li><li>Respond to financial-interest, management-participation, and confidentiality threats.</li></ul><h2>Understand the concepts</h2><p>An audit opinion is useful only when the auditor can exercise judgment without a client’s financial or managerial influence. Independence of mind concerns the auditor’s actual judgment; independence in appearance asks what a reasonable, informed third party would conclude. Integrity and objectivity apply more broadly to professional services, including work that does not require an independent audit opinion.</p><p>Start by identifying the engagement, the client, the covered person, and the relationship. A covered member’s direct financial interest in an attest client impairs independence even when the investment is small. Material indirect interests also matter. Immediate family is generally subject to the covered member’s independence restrictions; other family and employment situations require the applicable rule rather than an automatic assumption that every relative creates a prohibition.</p><p>A conceptual framework identifies threats, evaluates their significance, and applies safeguards when permitted. It cannot override an express prohibition. Examples of threats include self-interest from investments, self-review from preparing work that will be audited, advocacy, familiarity, and undue influence. Document the facts and safeguards; if an unacceptable threat cannot be reduced, decline or discontinue the service.</p><p>For a nonissuer, some nonattest assistance can coexist with an audit when management designates a competent individual, makes all decisions, evaluates the work, and accepts responsibility. The CPA must not authorize transactions or assume management responsibility. Issuer restrictions under SEC/PCAOB rules can prohibit services that might otherwise be permitted for a nonissuer. GAO and DOL requirements require their own analysis for governmental and employee-benefit-plan engagements.</p><p>Confidential client information remains confidential when using cloud tools or AI. Obtain appropriate authorization and evaluate the recipient’s confidentiality protections before transferring identifiable information. An efficient technology does not eliminate professional responsibilities. When rules conflict, determine every applicable requirement and satisfy the most restrictive applicable obligation rather than selecting the easiest framework.</p><div class=\"example-box\"><h3>A small investment and a large independence problem</h3><p>An audit manager owns $800 of stock directly in the nonissuer audit client. The client also asks the firm to recommend depreciation methods while its controller makes and documents the final accounting decisions.</p><ol><li>The direct interest is prohibited for the covered member; its small dollar value does not cure the impairment.</li><li>Depreciation advice is evaluated separately. A recommendation is different from assuming management responsibility.</li><li>Resolve the prohibited interest and evaluate the nonattest-service safeguards before continuing the audit; document both conclusions.</li></ol></div><div class=\"key-points\"><h3>Common mistakes to avoid</h3><ul><li>Do not use materiality to excuse a prohibited direct interest.</li><li>Client consent does not cure every independence impairment.</li><li>Do not apply nonissuer service permissions automatically to an issuer.</li></ul></div><h2>Apply and connect</h2><p>After solving the worked case, explain which facts determine the result and how a changed assumption would change your conclusion. Use the module questions to test fresh applications, then complete the related simulation before reviewing its solution.</p>",
+  "objectives": [
+    "Distinguish independence of mind and appearance from objectivity.",
+    "Apply the appropriate AICPA, SEC/PCAOB, GAO, or DOL independence requirements.",
+    "Respond to financial-interest, management-participation, and confidentiality threats."
+  ],
+  "quiz": {
+    "id": "aud-m1-l1-q1",
+    "courseId": "aud",
+    "moduleId": 1,
+    "lessonId": "aud-m1-l1",
+    "topic": "Ethics, Independence & Professional Conduct",
+    "prompt": "A covered audit team member directly owns $300 of the client’s common stock. What is the most appropriate independence conclusion?",
+    "choices": [
+      {
+        "id": "aud-m1-l1-q1-a0",
+        "text": "Independence is impaired despite the small amount."
+      },
+      {
+        "id": "aud-m1-l1-q1-a1",
+        "text": "Independence is preserved because the investment is immaterial."
+      },
+      {
+        "id": "aud-m1-l1-q1-a2",
+        "text": "Only disclosure to the audit committee is necessary."
+      },
+      {
+        "id": "aud-m1-l1-q1-a3",
+        "text": "Independence is impaired only if dividends are received."
+      }
+    ],
+    "correctChoiceId": "aud-m1-l1-q1-a0",
+    "explanation": "A covered member’s direct financial interest is prohibited. Neither a small balance, disclosure, nor the absence of dividends removes the interest.",
+    "difficulty": "advanced",
+    "metadata": {
+      "section": "aud",
+      "blueprintYear": 2026,
+      "areaId": "aud-I",
+      "groupId": "A",
+      "topicId": "aud-auditor-independence",
+      "taskIds": [
+        "aud-auditor-independence.task-1"
+      ],
+      "skill": "analysis",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        },
+        {
+          "title": "AICPA auditing standards",
+          "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+        },
+        {
+          "title": "PCAOB standards",
+          "url": "https://pcaobus.org/oversight/standards"
+        }
+      ]
+    }
+  },
+  "relatedSimulation": "aud-m1-tbs1"
+}

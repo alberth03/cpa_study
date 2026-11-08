@@ -1,0 +1,88 @@
+{
+  "id": "intermediate-m2-l5",
+  "courseId": "intermediate",
+  "moduleId": 2,
+  "number": 5,
+  "title": "Notes Receivable",
+  "description": "Understand interest-bearing notes and maturity calculations.",
+  "url": "/learn/intermediate/modules/2/lessons/5",
+  "html": "<h2>What is a note receivable?</h2> <p> A note receivable is a written promise from another party to pay a specified amount, usually at a specified future date. </p> <p> Notes often require the borrower to pay <strong>interest</strong>. </p> <h2>Basic interest formula</h2> <div class=\"formula-box\"> Interest = Principal × Interest Rate × Time </div> <div class=\"key-points\"> <p> <strong>Principal</strong> = amount borrowed </p> <p> <strong>Interest Rate</strong> = annual interest rate </p> <p> <strong>Time</strong> = portion of a year the note is outstanding </p> </div> <h2>Example 1 — One-year note</h2> <p> A company receives a <strong>$10,000, 8%, one-year note</strong>. </p> <div class=\"formula-box\"> $10,000 × 8% × 1 = $800 Interest </div> <p> At maturity, the borrower would pay: </p> <div class=\"formula-box\"> $10,000 Principal + $800 Interest = $10,800 </div> <h2>Example 2 — Six-month note</h2> <p> Assume a company holds a <strong>$20,000, 6%, six-month note</strong>. </p> <div class=\"formula-box\"> $20,000 × 6% × 6/12 = $600 </div> <p> Interest revenue for the six-month period is <strong>$600</strong>. </p> <h2>Recording interest</h2> <p> If $800 of interest has been earned and received at maturity, a simplified collection entry could include: </p> <div class=\"journal-entry\"> <div class=\"journal-row journal-header\"> <div>Account</div> <div>Debit</div> <div>Credit</div> </div> <div class=\"journal-row\"> <div>Cash</div> <div>$10,800</div> <div>—</div> </div> <div class=\"journal-row credit-row\"> <div>Notes Receivable</div> <div>—</div> <div>$10,000</div> </div> <div class=\"journal-row credit-row\"> <div>Interest Revenue</div> <div>—</div> <div>$800</div> </div> </div> <h2>Accrued interest</h2> <p> Sometimes a reporting period ends before the note matures. </p> <p> If interest has already been earned, accrual accounting may require the company to recognize that interest even though the cash has not yet been received. </p> <div class=\"example-box\"> <h3>Example</h3> <p> A $12,000 note earns 10% annually. If three months of interest have been earned: </p> <p> $12,000 × 10% × 3/12 = <strong>$300</strong> </p> <p> The company has earned $300 of interest during those three months. </p> </div> <div class=\"key-points\"> <h3>Remember</h3> <ul> <li>Interest rates are normally stated annually.</li> <li>Adjust the time portion for notes shorter than one year.</li> <li>Interest may need to be accrued before cash is received.</li> <li>Principal and interest are separate amounts.</li> </ul> </div>",
+  "quiz": {
+    "id": "intermediate-m2-l5-check",
+    "courseId": "intermediate",
+    "moduleId": 2,
+    "lessonId": "intermediate-m2-l5",
+    "topic": "General review",
+    "prompt": "How much interest is earned on a $30,000, 8% note held for six months?",
+    "choices": [
+      {
+        "id": "intermediate-m2-l5-check-a0",
+        "text": "$1,200"
+      },
+      {
+        "id": "intermediate-m2-l5-check-a1",
+        "text": "$2,400"
+      },
+      {
+        "id": "intermediate-m2-l5-check-a2",
+        "text": "$4,800"
+      },
+      {
+        "id": "intermediate-m2-l5-check-a3",
+        "text": "$800"
+      }
+    ],
+    "correctChoiceId": "intermediate-m2-l5-check-a0",
+    "explanation": "$30,000 × 8% × 6/12 = $1,200 of interest.",
+    "difficulty": "foundation",
+    "metadata": {
+      "section": "intermediate",
+      "blueprintYear": 2026,
+      "areaId": "intermediate-I",
+      "groupId": "module-2",
+      "topicId": "intermediate-notes-receivable",
+      "taskIds": [
+        "intermediate-notes-receivable.task-1",
+        "intermediate-notes-receivable.task-2",
+        "intermediate-notes-receivable.task-3"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "section": "intermediate",
+    "blueprintYear": 2026,
+    "areaId": "intermediate-I",
+    "groupId": "module-2",
+    "topicId": "intermediate-notes-receivable",
+    "taskIds": [
+      "intermediate-notes-receivable.task-1",
+      "intermediate-notes-receivable.task-2",
+      "intermediate-notes-receivable.task-3"
+    ],
+    "skill": "application",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      }
+    ]
+  },
+  "objectives": [
+    "Explain notes receivable and its underlying principles.",
+    "Apply the topic to a financial-reporting scenario.",
+    "Evaluate common errors and their financial-statement effects."
+  ]
+}

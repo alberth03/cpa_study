@@ -1,0 +1,88 @@
+{
+  "id": "far-m6-l4",
+  "courseId": "far",
+  "moduleId": 6,
+  "number": 4,
+  "title": "Liabilities, Debt & Contingencies Review",
+  "description": "Review current liabilities, bonds, long-term debt, contingencies, commitments, and related reporting effects.",
+  "url": "/learn/far/modules/6/lessons/4",
+  "html": "<h2> Why This Area Matters </h2> <p> Liabilities questions often combine recognition, measurement, classification, interest calculations, and disclosure. </p> <p> FAR may also require you to distinguish between an amount that should be accrued, disclosed only, or not reported at all. </p> <h2> Current vs Long-Term Liabilities </h2> <p> A liability is generally classified as current when it is expected to be settled within the operating cycle or within one year, whichever is longer. </p> <div class=\"formula-box\"> CURRENT LIABILITY → GENERALLY DUE WITHIN ONE YEAR OR OPERATING CYCLE </div> <h2> Common Current Liabilities </h2> <div class=\"formula-box\"> ACCOUNTS PAYABLE ACCRUED EXPENSES SALARIES PAYABLE INTEREST PAYABLE TAXES PAYABLE CURRENT PORTION OF LONG-TERM DEBT CONTRACT LIABILITIES </div> <h2> Current Portion of Long-Term Debt </h2> <p> The portion of long-term debt due within the next year is generally classified as a current liability. </p> <div class=\"example-box\"> <p> Total note payable: <strong>$300,000</strong> </p> <p> Principal due next year: <strong>$45,000</strong> </p> </div> <div class=\"formula-box\"> CURRENT LIABILITY = $45,000 LONG-TERM PORTION = $255,000 </div> <h2> Accrued Interest </h2> <div class=\"formula-box\"> INTEREST = PRINCIPAL × ANNUAL RATE × TIME </div> <h2> Example — Accrued Interest </h2> <p> A company has a <strong>$200,000</strong> note bearing <strong>9%</strong> annual interest. </p> <p> Three months of interest have accrued. </p> <div class=\"formula-box\"> $200,000 × 9% × 3/12 = $4,500 </div> <div class=\"financial-example\"> <div> <span>Interest Expense</span> <strong>+ $4,500</strong> </div> <div> <span>Interest Payable</span> <strong>+ $4,500</strong> </div> <div> <span>Net Income</span> <strong>− $4,500</strong> </div> <div> <span>Cash</span> <strong>No Immediate Effect</strong> </div> </div> <h2> Bonds Payable </h2> <p> Bond pricing depends on the relationship between the bond's stated rate and the market yield at issuance. </p> <div class=\"formula-box\"> STATED RATE = MARKET RATE → ISSUED AT PAR STATED RATE &gt; MARKET RATE → PREMIUM STATED RATE &lt; MARKET RATE → DISCOUNT </div> <h2> Why Premiums and Discounts Exist </h2> <p> Investors compare the bond's contractual interest payments with the return currently available in the market. </p> <p> A bond paying more than the market demands is worth more than face value. </p> <h2> Effective Interest Method </h2> <div class=\"formula-box\"> INTEREST EXPENSE = BEGINNING CARRYING AMOUNT × EFFECTIVE MARKET RATE </div> <div class=\"formula-box\"> CASH INTEREST PAID = FACE VALUE × STATED RATE </div> <h2> Discount Amortization </h2> <p> When bonds are issued at a discount: </p> <div class=\"formula-box\"> INTEREST EXPENSE &gt; CASH INTEREST PAID </div> <p> The difference increases the bond's carrying amount over time toward face value. </p> <h2> Premium Amortization </h2> <p> When bonds are issued at a premium: </p> <div class=\"formula-box\"> INTEREST EXPENSE &lt; CASH INTEREST PAID </div> <p> The difference decreases the carrying amount toward face value. </p> <h2> Example — Bond Discount </h2> <div class=\"example-box\"> <p> Face value: <strong>$500,000</strong> </p> <p> Stated annual rate: <strong>6%</strong> </p> <p> Beginning carrying amount: <strong>$470,000</strong> </p> <p> Effective annual rate: <strong>8%</strong> </p> </div> <div class=\"formula-box\"> CASH INTEREST = $500,000 × 6% = $30,000 INTEREST EXPENSE = $470,000 × 8% = $37,600 DISCOUNT AMORTIZATION = $37,600 − $30,000 = $7,600 </div> <div class=\"formula-box\"> NEW CARRYING AMOUNT = $470,000 + $7,600 = $477,600 </div> <h2> Loss Contingencies </h2> <p> A loss contingency requires careful evaluation of both likelihood and whether the amount can be reasonably estimated. </p> <div class=\"formula-box\"> PROBABLE + REASONABLY ESTIMABLE → ACCRUE REASONABLY POSSIBLE → GENERALLY DISCLOSE REMOTE → GENERALLY NO ACCRUAL OR DISCLOSURE </div> <h2> Example — Lawsuit </h2> <p> Attorneys conclude that a loss is <strong>probable</strong> and estimate the loss at <strong>$120,000</strong>. </p> <div class=\"financial-example\"> <div> <span>Loss Expense</span> <strong>+ $120,000</strong> </div> <div> <span>Liability</span> <strong>+ $120,000</strong> </div> <div> <span>Net Income</span> <strong>− $120,000</strong> </div> </div> <h2> Range of Possible Losses </h2> <p> Suppose a loss is probable and the estimated range is between <strong>$80,000 and $120,000</strong>, with no amount in the range considered more likely than another. </p> <p> Under U.S. GAAP, the minimum amount in the range is generally accrued. </p> <div class=\"formula-box\"> ACCRUED LIABILITY = $80,000 </div> <p> Additional disclosure may be required regarding the potential additional exposure. </p> <h2> Gain Contingencies </h2> <p> Potential gains are treated more conservatively than potential losses. </p> <p> Gain contingencies generally are not recognized before realization is sufficiently certain. </p> <div class=\"formula-box\"> DO NOT RECOGNIZE ANTICIPATED GAINS TOO EARLY </div> <h2> Commitments </h2> <p> A commitment is not automatically a liability. </p> <p> Executory contracts generally do not create recognized assets and liabilities simply because the agreement has been signed, although disclosures may be required depending on the circumstances. </p> <h2> Debt Covenant Violations </h2> <p> FAR questions may ask how a violation of a debt agreement affects classification. </p> <p> The key issue is whether the violation allows the lender to demand repayment and whether the conditions for long-term classification are satisfied under the applicable accounting guidance. </p> <h2> Debt Extinguishment </h2> <p> When debt is extinguished, compare the reacquisition price with the debt's net carrying amount. </p> <div class=\"formula-box\"> GAIN OR LOSS = NET CARRYING AMOUNT OF DEBT − REACQUISITION PRICE </div> <p> If the company pays less than the carrying amount, a gain generally results. </p> <h2> Example — Debt Extinguishment </h2> <div class=\"example-box\"> <p> Carrying amount of debt: <strong>$410,000</strong> </p> <p> Amount paid to retire debt: <strong>$395,000</strong> </p> </div> <div class=\"formula-box\"> GAIN = $410,000 − $395,000 = $15,000 </div> <h2> FAR Liability Strategy </h2> <div class=\"formula-box\"> ASK: 1. DOES A PRESENT OBLIGATION EXIST? 2. SHOULD IT BE RECOGNIZED? 3. HOW IS IT MEASURED? 4. CURRENT OR LONG-TERM? 5. DOES INTEREST NEED TO ACCRUE? 6. IS DISCLOSURE ALSO REQUIRED? </div> <div class=\"key-points\"> <h3> Key Takeaways </h3> <ul> <li> The current portion of long-term debt is generally classified as current. </li> <li> Accrued interest creates both an expense and a liability. </li> <li> Bond discounts increase interest expense relative to cash interest paid. </li> <li> Bond premiums decrease interest expense relative to cash interest paid. </li> <li> Probable and reasonably estimable loss contingencies are generally accrued. </li> <li> Reasonably possible losses are generally disclosed rather than accrued. </li> <li> Gain contingencies are not recognized prematurely. </li> <li> Debt extinguishment gains and losses depend on the difference between carrying amount and reacquisition price. </li> </ul> </div>",
+  "quiz": {
+    "id": "far-m6-l4-check",
+    "courseId": "far",
+    "moduleId": 6,
+    "lessonId": "far-m6-l4",
+    "topic": "General review",
+    "prompt": "A company has $500,000 face-value bonds outstanding with a 6% stated rate. The beginning carrying amount is $470,000 and the effective market rate is 8%. What is the carrying amount after one year of interest under the effective-interest method?",
+    "choices": [
+      {
+        "id": "far-m6-l4-check-a0",
+        "text": "$470,000"
+      },
+      {
+        "id": "far-m6-l4-check-a1",
+        "text": "$500,000"
+      },
+      {
+        "id": "far-m6-l4-check-a2",
+        "text": "$477,600"
+      },
+      {
+        "id": "far-m6-l4-check-a3",
+        "text": "$462,400"
+      }
+    ],
+    "correctChoiceId": "far-m6-l4-check-a2",
+    "explanation": "Cash interest is $500,000 × 6% = $30,000. Interest expense is $470,000 × 8% = $37,600. The $7,600 difference amortizes the bond discount and increases the carrying amount to $477,600.",
+    "difficulty": "foundation",
+    "metadata": {
+      "section": "far",
+      "blueprintYear": 2026,
+      "areaId": "far-III",
+      "groupId": "module-6",
+      "topicId": "far-liabilities-debt-contingencies-review",
+      "taskIds": [
+        "far-liabilities-debt-contingencies-review.task-1",
+        "far-liabilities-debt-contingencies-review.task-2",
+        "far-liabilities-debt-contingencies-review.task-3"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "section": "far",
+    "blueprintYear": 2026,
+    "areaId": "far-III",
+    "groupId": "module-6",
+    "topicId": "far-liabilities-debt-contingencies-review",
+    "taskIds": [
+      "far-liabilities-debt-contingencies-review.task-1",
+      "far-liabilities-debt-contingencies-review.task-2",
+      "far-liabilities-debt-contingencies-review.task-3"
+    ],
+    "skill": "application",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      }
+    ]
+  },
+  "objectives": [
+    "Explain liabilities, debt & contingencies review and its underlying principles.",
+    "Apply the topic to a financial-reporting scenario.",
+    "Evaluate common errors and their financial-statement effects."
+  ]
+}

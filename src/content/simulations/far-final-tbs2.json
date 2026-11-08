@@ -1,0 +1,74 @@
+{
+  "id": "far-final-tbs2",
+  "moduleId": 0,
+  "number": 2,
+  "title": "FAR Final TBS Assessment",
+  "fields": [
+    {
+      "id": "far-final-tbs2-cash-collected",
+      "label": "Item 1 — Cash Collected from Customers",
+      "type": "number",
+      "options": [],
+      "legacyKey": "cashCollected",
+      "correct": 860000
+    },
+    {
+      "id": "far-final-tbs2-credit-loss",
+      "label": "Item 2 — Credit Loss Expense",
+      "type": "number",
+      "options": [],
+      "legacyKey": "creditLoss",
+      "correct": 19000
+    },
+    {
+      "id": "far-final-tbs2-cogs",
+      "label": "Item 3 — Cost of Goods Sold",
+      "type": "number",
+      "options": [],
+      "legacyKey": "cogs",
+      "correct": 470000
+    },
+    {
+      "id": "far-final-tbs2-inventory-cfo",
+      "label": "Enter the adjustment as a positive amount if added to net income or a negative amount if subtracted.",
+      "type": "number",
+      "options": [],
+      "legacyKey": "inventoryCFO",
+      "correct": -30000
+    },
+    {
+      "id": "far-final-tbs2-cfo",
+      "label": "Item 5 — Net Cash Provided by Operating Activities",
+      "type": "number",
+      "options": [],
+      "legacyKey": "cfo",
+      "correct": 195000
+    }
+  ],
+  "html": "<section class=\"exam-page\"> <div class=\"course-intro-card\"> <span class=\"exam-badge\"> TBS 2 OF 7 </span> <h2> Operating Cycle Analysis </h2> <p> Orion Company reports the following financial information for the current year. Analyze receivables, inventory, credit losses, and operating cash flow. </p> </div> <div class=\"course-intro-card\"> <h3> Financial Information </h3> <ul> <li> Beginning Accounts Receivable: <strong>$180,000</strong> </li> <li> Ending Accounts Receivable before year-end credit-loss adjustment: <strong>$220,000</strong> </li> <li> Sales revenue on account: <strong>$900,000</strong> </li> <li> Allowance for Credit Losses has a <strong>$3,000 debit balance</strong> before adjustment. </li> <li> Required ending Allowance for Credit Losses: <strong>$16,000 credit balance</strong> </li> <li> Beginning Inventory: <strong>$140,000</strong> </li> <li> Purchases: <strong>$500,000</strong> </li> <li> Ending Inventory: <strong>$170,000</strong> </li> <li> Net income: <strong>$210,000</strong> </li> <li> Depreciation expense: <strong>$35,000</strong> </li> <li> Accounts Payable increased by: <strong>$20,000</strong> </li> </ul> </div> <div class=\"course-intro-card\"> <h3> Item 1 — Cash Collected from Customers </h3> <input id=\"far-final-tbs2-cash-collected\" type=\"number\" placeholder=\"Enter amount\" value=\"\"> </div> <div class=\"course-intro-card\"> <h3> Item 2 — Credit Loss Expense </h3> <input id=\"far-final-tbs2-credit-loss\" type=\"number\" placeholder=\"Enter amount\" value=\"\"> </div> <div class=\"course-intro-card\"> <h3> Item 3 — Cost of Goods Sold </h3> <input id=\"far-final-tbs2-cogs\" type=\"number\" placeholder=\"Enter amount\" value=\"\"> </div> <div class=\"course-intro-card\"> <h3> Item 4 — Inventory Adjustment in CFO </h3> <p> Enter the adjustment as a positive amount if added to net income or a negative amount if subtracted. </p> <input id=\"far-final-tbs2-inventory-cfo\" type=\"number\" placeholder=\"Enter amount\" value=\"\"> </div> <div class=\"course-intro-card\"> <h3> Item 5 — Net Cash Provided by Operating Activities </h3> <input id=\"far-final-tbs2-cfo\" type=\"number\" placeholder=\"Enter amount\" value=\"\"> </div> </section>",
+  "explanation": "<h3>Cash Collected from Customers</h3><p>Beginning Accounts Receivable of $180,000 plus $900,000 of credit sales less ending Accounts Receivable of $220,000 equals $860,000 of cash collected from customers.</p><h3>Credit-Loss Expense</h3><p>The Allowance for Credit Losses has a $3,000 debit balance before adjustment and must end with a $16,000 credit balance. A $19,000 credit is therefore required, producing $19,000 of credit-loss expense.</p><h3>Cost of Goods Sold</h3><p>Cost of goods sold equals beginning inventory of $140,000 plus purchases of $500,000 less ending inventory of $170,000. Therefore, COGS is $470,000.</p><h3>Inventory Adjustment to Operating Cash Flow</h3><p>Inventory increased from $140,000 to $170,000, a $30,000 increase. Under the indirect method, an increase in inventory is subtracted from net income, so the operating cash flow adjustment is -$30,000.</p><h3>Cash Flow from Operating Activities</h3><p>Starting with net income of $210,000, add $35,000 of depreciation, subtract the $40,000 increase in Accounts Receivable, subtract the $30,000 increase in inventory, and add the $20,000 increase in Accounts Payable. Operating cash flow is $195,000.</p>",
+  "courseId": "far",
+  "difficulty": "advanced",
+  "metadata": {
+    "section": "far",
+    "blueprintYear": 2026,
+    "areaId": "far-II",
+    "groupId": "module-6",
+    "topicId": "far-inventory-long-lived-asset-review",
+    "taskIds": [
+      "far-inventory-long-lived-asset-review.task-1",
+      "far-inventory-long-lived-asset-review.task-2",
+      "far-inventory-long-lived-asset-review.task-3"
+    ],
+    "skill": "analysis",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      }
+    ]
+  }
+}

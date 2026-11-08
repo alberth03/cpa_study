@@ -1,0 +1,158 @@
+{
+  "id": "aud-m4-tbs1",
+  "courseId": "aud",
+  "moduleId": 4,
+  "number": 1,
+  "title": "Opinion decision matrix",
+  "html": "<div class=\"course-intro-card\"><h2>Opinion decision matrix</h2><p>Determine the ordinarily appropriate opinion for each independent scenario.</p></div><section class=\"quiz-card\"><h3>Required responses</h3><div class=\"tbs-question\"><label for=\"aud-m4-tbs1-f1\">Opinion for A</label><select id=\"aud-m4-tbs1-f1\"><option value=\"Unmodified\">Unmodified</option><option value=\"Qualified\">Qualified</option><option value=\"Adverse\">Adverse</option><option value=\"Disclaimer\">Disclaimer</option></select></div><div class=\"tbs-question\"><label for=\"aud-m4-tbs1-f2\">Opinion for B</label><select id=\"aud-m4-tbs1-f2\"><option value=\"Unmodified\">Unmodified</option><option value=\"Qualified\">Qualified</option><option value=\"Adverse\">Adverse</option><option value=\"Disclaimer\">Disclaimer</option></select></div><div class=\"tbs-question\"><label for=\"aud-m4-tbs1-f3\">Opinion for C</label><select id=\"aud-m4-tbs1-f3\"><option value=\"Unmodified\">Unmodified</option><option value=\"Qualified\">Qualified</option><option value=\"Adverse\">Adverse</option><option value=\"Disclaimer\">Disclaimer</option></select></div><div class=\"tbs-question\"><label for=\"aud-m4-tbs1-f4\">Opinion for D</label><select id=\"aud-m4-tbs1-f4\"><option value=\"Unmodified\">Unmodified</option><option value=\"Qualified\">Qualified</option><option value=\"Adverse\">Adverse</option><option value=\"Disclaimer\">Disclaimer</option></select></div></section>",
+  "metadata": {
+    "section": "aud",
+    "blueprintYear": 2026,
+    "areaId": "aud-IV",
+    "groupId": "A",
+    "topicId": "aud-audit-opinions",
+    "taskIds": [
+      "aud-audit-opinions.task-1",
+      "aud-audit-opinions.task-2",
+      "aud-audit-opinions.task-3"
+    ],
+    "skill": "analysis",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      },
+      {
+        "title": "AICPA auditing standards",
+        "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+      },
+      {
+        "title": "PCAOB standards",
+        "url": "https://pcaobus.org/oversight/standards"
+      }
+    ]
+  },
+  "difficulty": "advanced",
+  "fields": [
+    {
+      "id": "aud-m4-tbs1-f1",
+      "label": "Opinion for A",
+      "type": "select",
+      "options": [
+        {
+          "value": "Unmodified",
+          "label": "Unmodified"
+        },
+        {
+          "value": "Qualified",
+          "label": "Qualified"
+        },
+        {
+          "value": "Adverse",
+          "label": "Adverse"
+        },
+        {
+          "value": "Disclaimer",
+          "label": "Disclaimer"
+        }
+      ],
+      "correct": "Unmodified",
+      "explanation": "Sufficient evidence supports fair presentation.",
+      "topicId": "aud-audit-opinions"
+    },
+    {
+      "id": "aud-m4-tbs1-f2",
+      "label": "Opinion for B",
+      "type": "select",
+      "options": [
+        {
+          "value": "Unmodified",
+          "label": "Unmodified"
+        },
+        {
+          "value": "Qualified",
+          "label": "Qualified"
+        },
+        {
+          "value": "Adverse",
+          "label": "Adverse"
+        },
+        {
+          "value": "Disclaimer",
+          "label": "Disclaimer"
+        }
+      ],
+      "correct": "Qualified",
+      "explanation": "The known departure is material but not pervasive.",
+      "topicId": "aud-audit-opinions"
+    },
+    {
+      "id": "aud-m4-tbs1-f3",
+      "label": "Opinion for C",
+      "type": "select",
+      "options": [
+        {
+          "value": "Unmodified",
+          "label": "Unmodified"
+        },
+        {
+          "value": "Qualified",
+          "label": "Qualified"
+        },
+        {
+          "value": "Adverse",
+          "label": "Adverse"
+        },
+        {
+          "value": "Disclaimer",
+          "label": "Disclaimer"
+        }
+      ],
+      "correct": "Adverse",
+      "explanation": "The known departure is material and pervasive.",
+      "topicId": "aud-audit-opinions"
+    },
+    {
+      "id": "aud-m4-tbs1-f4",
+      "label": "Opinion for D",
+      "type": "select",
+      "options": [
+        {
+          "value": "Unmodified",
+          "label": "Unmodified"
+        },
+        {
+          "value": "Qualified",
+          "label": "Qualified"
+        },
+        {
+          "value": "Adverse",
+          "label": "Adverse"
+        },
+        {
+          "value": "Disclaimer",
+          "label": "Disclaimer"
+        }
+      ],
+      "correct": "Disclaimer",
+      "explanation": "The evidence limitation has potentially material and pervasive effects.",
+      "topicId": "aud-audit-opinions"
+    }
+  ],
+  "exhibits": [
+    {
+      "id": "aud-m4-tbs1-ex1",
+      "title": "Four findings",
+      "html": "<p>A: Evidence supports fair presentation with no material misstatement. B: A known departure is material but not pervasive. C: A known departure is material and pervasive. D: Evidence is unavailable and possible effects are material and pervasive.</p>"
+    },
+    {
+      "id": "aud-m4-tbs1-ex2",
+      "title": "Assumptions",
+      "html": "<p>The auditor is independent. No law requires a different outcome. Consider ordinary financial-statement opinion consequences under the applicable auditing standard.</p>"
+    }
+  ],
+  "explanation": "<h3>Opinion for A</h3><p>Sufficient evidence supports fair presentation.</p><h3>Opinion for B</h3><p>The known departure is material but not pervasive.</p><h3>Opinion for C</h3><p>The known departure is material and pervasive.</p><h3>Opinion for D</h3><p>The evidence limitation has potentially material and pervasive effects.</p>"
+}

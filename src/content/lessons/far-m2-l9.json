@@ -1,0 +1,88 @@
+{
+  "id": "far-m2-l9",
+  "courseId": "far",
+  "moduleId": 2,
+  "number": 9,
+  "title": "Investments",
+  "description": "Account for debt and equity investments, unrealized gains and losses, impairment and financial statement classification.",
+  "url": "/learn/far/modules/2/lessons/9",
+  "html": "<h2> Investments </h2> <p> Companies may invest in debt securities, equity securities, and other financial instruments. For FAR, you should understand how investments are classified, measured, and presented, including where unrealized gains and losses are reported. </p> <h3> 1. Debt Securities </h3> <p> Debt securities represent a creditor relationship with another entity. </p> <div class=\"key-points\"> <p> Common examples include: </p> <ul> <li> Corporate bonds </li> <li> Government bonds </li> <li> Treasury securities </li> <li> Certain notes </li> </ul> </div> <h3> 2. Major Debt Security Classifications </h3> <p> Under U.S. GAAP, investments in debt securities are commonly classified as: </p> <div class=\"key-points\"> <ul> <li> <strong>Held-to-Maturity (HTM)</strong> </li> <li> <strong>Available-for-Sale (AFS)</strong> </li> <li> <strong>Trading</strong> </li> </ul> </div> <h3> 3. Held-to-Maturity Securities </h3> <p> A debt security may be classified as held-to-maturity when the investor has both the positive intent and the ability to hold the security until maturity. </p> <div class=\"formula-box\"> Held-to-Maturity → <strong>Generally Reported at Amortized Cost</strong> </div> <p> Changes in market value generally do not create the same recurring fair-value adjustment used for trading or available-for-sale debt securities. </p> <h3> 4. Trading Debt Securities </h3> <p> Trading debt securities are generally measured at fair value. </p> <div class=\"formula-box\"> Trading Debt Security → Fair Value <br><br> Unrealized Gain or Loss → <strong>Net Income</strong> </div> <div class=\"example-box\"> <h3> Example </h3> <p> A trading debt security has a carrying amount before fair-value adjustment of $90,000 and a year-end fair value of $96,000. </p> <div class=\"formula-box\"> $96,000 − $90,000 = <strong>$6,000 unrealized gain</strong> </div> <p> The unrealized gain is generally recognized in earnings. </p> </div> <h3> 5. Available-for-Sale Debt Securities </h3> <p> Available-for-sale debt securities are generally measured at fair value. </p> <div class=\"formula-box\"> AFS Debt Security → Fair Value <br><br> Unrealized Holding Gain or Loss → <strong>Other Comprehensive Income</strong> </div> <p> The unrealized holding gain or loss generally enters accumulated other comprehensive income through OCI, subject to applicable credit-loss and other accounting rules. </p> <h3> 6. Trading vs. AFS </h3> <div class=\"key-points\"> <ul> <li> Trading debt securities: unrealized holding gains and losses generally affect net income. </li> <li> Available-for-sale debt securities: unrealized holding gains and losses generally affect OCI rather than current net income. </li> <li> Held-to-maturity debt securities: generally reported at amortized cost. </li> </ul> </div> <h3> 7. Equity Securities </h3> <p> Equity securities represent ownership interests in another entity, such as common stock. </p> <p> Equity securities within the scope of the general U.S. GAAP equity investment guidance and with readily determinable fair values are generally measured at fair value, with changes in fair value recognized in net income. </p> <div class=\"formula-box\"> Equity Security Fair-Value Change → <strong>Generally Net Income</strong> </div> <p> Therefore, do not automatically apply the AFS debt-security OCI treatment to ordinary equity securities. </p> <h3> 8. Investments Without Readily Determinable Fair Values </h3> <p> Certain equity investments without readily determinable fair values may qualify for a measurement alternative under U.S. GAAP. </p> <p> When applicable, the investment is generally measured at cost, less impairment, plus or minus qualifying observable price changes from orderly transactions for identical or similar investments of the same issuer. </p> <h3> 9. Equity Method </h3> <p> When an investor has significant influence over an investee, the equity method may apply rather than ordinary fair-value accounting. </p> <div class=\"key-points\"> <p> Ownership of approximately 20% to 50% of voting stock can indicate significant influence, but ownership percentage alone is not conclusive. </p> </div> <p> Under the equity method, the investor generally recognizes its share of the investee's income or loss. </p> <div class=\"formula-box\"> Investor's Share of Investee Income → Increase Investment Account <br><br> Dividends Received → Decrease Investment Account </div> <div class=\"example-box\"> <h3> Equity Method Example </h3> <p> An investor owns 30% of an investee. </p> <p> The investee reports net income of $100,000. </p> <div class=\"formula-box\"> $100,000 × 30% = <strong>$30,000 investor share of income</strong> </div> <p> The investor generally increases the carrying amount of the investment by $30,000 and recognizes its share of the investee's income. </p> </div> <h3> 10. Dividends Under the Equity Method </h3> <p> Dividends received under the equity method are generally treated as a return of investment rather than dividend income. </p> <div class=\"formula-box\"> Cash Received ↑ <br><br> Investment Account ↓ </div> <h3> 11. Credit Losses </h3> <p> Debt securities are also subject to applicable credit-loss guidance. </p> <p> The accounting differs depending on the classification of the debt security, so distinguish credit-related losses from ordinary changes in market interest rates when a CPA question provides those facts. </p> <h3> 12. CPA Exam Focus </h3> <div class=\"key-points\"> <ul> <li> Know the classifications of debt securities. </li> <li> HTM debt securities are generally measured at amortized cost. </li> <li> Trading debt security unrealized gains and losses generally affect net income. </li> <li> AFS debt security unrealized holding gains and losses generally affect OCI. </li> <li> Ordinary equity security fair-value changes generally affect net income. </li> <li> Recognize when the equity method applies. </li> <li> Under the equity method, investee income increases the investment account and dividends decrease it. </li> </ul> </div>",
+  "quiz": {
+    "id": "far-m2-l9-check",
+    "courseId": "far",
+    "moduleId": 2,
+    "lessonId": "far-m2-l9",
+    "topic": "General review",
+    "prompt": "A company owns an available-for-sale debt security. The security's fair value increases by $12,000 during the year, and the increase is an unrealized holding gain unrelated to credit losses. Where is the gain generally reported?",
+    "choices": [
+      {
+        "id": "far-m2-l9-check-a0",
+        "text": "Net income"
+      },
+      {
+        "id": "far-m2-l9-check-a1",
+        "text": "Additional paid-in capital"
+      },
+      {
+        "id": "far-m2-l9-check-a2",
+        "text": "Retained earnings directly"
+      },
+      {
+        "id": "far-m2-l9-check-a3",
+        "text": "Other comprehensive income"
+      }
+    ],
+    "correctChoiceId": "far-m2-l9-check-a3",
+    "explanation": "Available-for-sale debt securities are generally measured at fair value, with unrealized holding gains and losses that are not attributable to credit-loss accounting recognized in other comprehensive income. Therefore, the $12,000 unrealized holding gain is generally reported in OCI.",
+    "difficulty": "foundation",
+    "metadata": {
+      "section": "far",
+      "blueprintYear": 2026,
+      "areaId": "far-II",
+      "groupId": "module-2",
+      "topicId": "far-investments",
+      "taskIds": [
+        "far-investments.task-1",
+        "far-investments.task-2",
+        "far-investments.task-3"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "section": "far",
+    "blueprintYear": 2026,
+    "areaId": "far-II",
+    "groupId": "module-2",
+    "topicId": "far-investments",
+    "taskIds": [
+      "far-investments.task-1",
+      "far-investments.task-2",
+      "far-investments.task-3"
+    ],
+    "skill": "application",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      }
+    ]
+  },
+  "objectives": [
+    "Explain investments and its underlying principles.",
+    "Apply the topic to a financial-reporting scenario.",
+    "Evaluate common errors and their financial-statement effects."
+  ]
+}

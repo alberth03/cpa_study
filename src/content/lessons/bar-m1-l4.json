@@ -1,0 +1,103 @@
+{
+  "id": "bar-m1-l4",
+  "courseId": "bar",
+  "moduleId": 1,
+  "number": 4,
+  "title": "Standard Costs, Variances & Performance Interpretation",
+  "description": "Compute price/rate and quantity/efficiency variances.",
+  "url": "/learn/bar/modules/1/lessons/4",
+  "metadata": {
+    "section": "bar",
+    "blueprintYear": 2026,
+    "areaId": "bar-I",
+    "groupId": "A",
+    "topicId": "bar-variance-analysis",
+    "taskIds": [
+      "bar-variance-analysis.task-1",
+      "bar-variance-analysis.task-2",
+      "bar-variance-analysis.task-3"
+    ],
+    "skill": "application",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      },
+      {
+        "title": "FASB accounting standards",
+        "url": "https://asc.fasb.org/"
+      },
+      {
+        "title": "GASB standards",
+        "url": "https://www.gasb.org/standards-and-implementation"
+      }
+    ]
+  },
+  "html": "<h2>Learning objectives</h2><ul><li>Compute price/rate and quantity/efficiency variances.</li><li>Separate activity effects from spending or efficiency effects.</li><li>Investigate causes and avoid evaluating managers from one variance alone.</li></ul><h2>Understand the concepts</h2><p>A standard-cost variance compares actual results with an appropriate benchmark. Material price variance commonly uses actual quantity multiplied by the difference between actual and standard price. Material quantity variance commonly uses standard price multiplied by actual quantity used less standard quantity allowed for actual output. State whether quantity refers to purchases or usage.</p><p>Labor rate variance compares actual and standard rates for actual hours. Labor efficiency variance compares actual hours with standard hours allowed for actual output at the standard rate. Label favorable and unfavorable effects consistently. A negative calculated cost variance under an actual-minus-standard convention is favorable.</p><p>A favorable price variance may accompany poor quality and an unfavorable usage variance. A faster production process may increase defects or later warranty costs. Investigate interactions, controllability, timing, and data definitions. A flexible budget separates activity differences from performance differences so that higher output does not automatically look like overspending.</p><div class=\"example-box\"><h3>Material price and usage</h3><p>Actual usage is 1,100 units at $4.80 each. Standard price is $5.00 and standard quantity allowed is 1,000 units. Use actual usage for both variances.</p><ol><li>Price variance is 1,100 × ($4.80 − $5.00) = $220 favorable.</li><li>Quantity variance is $5 × (1,100 − 1,000) = $500 unfavorable.</li><li>Net cost variance is $280 unfavorable, suggesting the cheaper material may not have reduced total cost.</li></ol></div><div class=\"key-points\"><h3>Common mistakes to avoid</h3><ul><li>Use standard quantity allowed for actual output.</li><li>State the sign convention and favorable/unfavorable label.</li><li>One favorable variance may conceal offsetting problems.</li></ul></div><h2>Apply and connect</h2><p>After solving the worked case, explain which facts determine the result and how a changed assumption would change your conclusion. Use the module questions to test fresh applications, then complete the related simulation before reviewing its solution.</p>",
+  "objectives": [
+    "Compute price/rate and quantity/efficiency variances.",
+    "Separate activity effects from spending or efficiency effects.",
+    "Investigate causes and avoid evaluating managers from one variance alone."
+  ],
+  "quiz": {
+    "id": "bar-m1-l4-q1",
+    "courseId": "bar",
+    "moduleId": 1,
+    "lessonId": "bar-m1-l4",
+    "topic": "Standard Costs, Variances & Performance Interpretation",
+    "prompt": "Actual quantity is 2,000 units, actual price $3.80, and standard price $4.00. What is the price variance?",
+    "choices": [
+      {
+        "id": "bar-m1-l4-q1-a0",
+        "text": "$400 unfavorable."
+      },
+      {
+        "id": "bar-m1-l4-q1-a1",
+        "text": "$7,600 unfavorable."
+      },
+      {
+        "id": "bar-m1-l4-q1-a2",
+        "text": "$8,000 favorable."
+      },
+      {
+        "id": "bar-m1-l4-q1-a3",
+        "text": "$400 favorable."
+      }
+    ],
+    "correctChoiceId": "bar-m1-l4-q1-a3",
+    "explanation": "2,000 × ($3.80 − $4.00) = −$400 under actual-minus-standard.",
+    "difficulty": "application",
+    "metadata": {
+      "section": "bar",
+      "blueprintYear": 2026,
+      "areaId": "bar-I",
+      "groupId": "A",
+      "topicId": "bar-variance-analysis",
+      "taskIds": [
+        "bar-variance-analysis.task-1"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        },
+        {
+          "title": "FASB accounting standards",
+          "url": "https://asc.fasb.org/"
+        },
+        {
+          "title": "GASB standards",
+          "url": "https://www.gasb.org/standards-and-implementation"
+        }
+      ]
+    }
+  },
+  "relatedSimulation": "bar-m1-tbs4"
+}

@@ -1,0 +1,88 @@
+{
+  "id": "far-m6-l5",
+  "courseId": "far",
+  "moduleId": 6,
+  "number": 5,
+  "title": "Equity & Investment Review",
+  "description": "Integrate stockholders' equity, retained earnings, investments, fair value, and related reporting concepts.",
+  "url": "/learn/far/modules/6/lessons/5",
+  "html": "<h2> Equity and Investments </h2> <p> FAR questions in this area often test whether you can connect ownership transactions, retained earnings, investment measurement, unrealized gains and losses, and financial statement presentation. </p> <h2> Basic Stockholders' Equity Structure </h2> <div class=\"formula-box\"> STOCKHOLDERS' EQUITY MAY INCLUDE: COMMON STOCK + ADDITIONAL PAID-IN CAPITAL + RETAINED EARNINGS + ACCUMULATED OTHER COMPREHENSIVE INCOME − TREASURY STOCK </div> <h2> Common Stock Issuance </h2> <p> When stock is issued above par value, the par value is credited to common stock and the excess is generally credited to additional paid-in capital. </p> <h2> Example — Stock Issuance </h2> <p> A company issues <strong>10,000 shares</strong> of $2 par common stock for <strong>$15 per share</strong>. </p> <div class=\"formula-box\"> CASH RECEIVED = 10,000 × $15 = $150,000 </div> <div class=\"formula-box\"> COMMON STOCK = 10,000 × $2 = $20,000 ADDITIONAL PAID-IN CAPITAL = $150,000 − $20,000 = $130,000 </div> <h2> Retained Earnings </h2> <p> Retained earnings generally represents accumulated earnings that have not been distributed to shareholders. </p> <div class=\"formula-box\"> ENDING RETAINED EARNINGS = BEGINNING RETAINED EARNINGS + NET INCOME − DIVIDENDS ± CERTAIN PRIOR-PERIOD ADJUSTMENTS </div> <h2> Example — Retained Earnings </h2> <div class=\"example-box\"> <p> Beginning retained earnings: <strong>$400,000</strong> </p> <p> Net income: <strong>$90,000</strong> </p> <p> Dividends: <strong>$25,000</strong> </p> </div> <div class=\"formula-box\"> $400,000 + $90,000 − $25,000 = $465,000 ENDING RETAINED EARNINGS </div> <h2> Cash Dividends </h2> <p> Once a cash dividend is declared, retained earnings decreases and a dividend payable is generally recognized. </p> <div class=\"financial-example\"> <div> <span>Retained Earnings</span> <strong>Decrease</strong> </div> <div> <span>Dividends Payable</span> <strong>Increase</strong> </div> <div> <span>Total Equity</span> <strong>Decrease</strong> </div> </div> <h2> Stock Dividends </h2> <p> A stock dividend generally reallocates amounts within stockholders' equity rather than reducing total stockholders' equity. </p> <div class=\"formula-box\"> STOCK DIVIDEND → RETAINED EARNINGS ↓ CONTRIBUTED CAPITAL ↑ TOTAL EQUITY GENERALLY UNCHANGED </div> <h2> Stock Splits </h2> <p> A stock split increases the number of shares outstanding and decreases par value per share proportionately. </p> <p> Total stockholders' equity generally does not change. </p> <div class=\"formula-box\"> 2-FOR-1 STOCK SPLIT → SHARES DOUBLE PAR VALUE PER SHARE HALVES TOTAL EQUITY UNCHANGED </div> <h2> Treasury Stock </h2> <p> Treasury stock represents an entity's own shares that have been reacquired. </p> <p> Treasury stock is generally presented as a reduction of stockholders' equity, not as an asset. </p> <div class=\"formula-box\"> PURCHASE TREASURY STOCK → CASH ↓ TOTAL EQUITY ↓ </div> <h2> Example — Treasury Stock </h2> <p> A company reacquires <strong>2,000 shares</strong> of its common stock for <strong>$18 per share</strong>. </p> <div class=\"formula-box\"> TREASURY STOCK COST = 2,000 × $18 = $36,000 </div> <p> Under the cost method, treasury stock is generally recorded at the amount paid to reacquire the shares. </p> <h2> Investment Classification Matters </h2> <p> The accounting for an investment depends on the type of security and the investor's relationship with the investee. </p> <div class=\"formula-box\"> ASK: DEBT OR EQUITY SECURITY? WHAT LEVEL OF INFLUENCE EXISTS? WHAT MEASUREMENT CATEGORY APPLIES? WHERE DO CHANGES IN VALUE GO? </div> <h2> Equity Securities </h2> <p> Equity securities with readily determinable fair values are generally measured at fair value, with changes in fair value recognized in net income. </p> <div class=\"formula-box\"> EQUITY SECURITY FAIR VALUE CHANGE → GENERALLY NET INCOME </div> <h2> Example — Equity Investment </h2> <p> An equity investment is purchased for <strong>$80,000</strong>. </p> <p> Its fair value at year-end is <strong>$92,000</strong>. </p> <div class=\"formula-box\"> UNREALIZED GAIN = $92,000 − $80,000 = $12,000 </div> <p> Assuming the investment is subject to fair value through net income, the $12,000 unrealized gain increases current-period income. </p> <h2> Debt Securities </h2> <p> Debt securities may be classified differently depending on management's intent and the applicable accounting guidance. </p> <div class=\"formula-box\"> COMMON CATEGORIES: HELD-TO-MATURITY AVAILABLE-FOR-SALE TRADING </div> <h2> Held-to-Maturity Debt Securities </h2> <p> Held-to-maturity securities are debt securities for which the entity has the positive intent and ability to hold until maturity. </p> <div class=\"formula-box\"> HELD-TO-MATURITY → AMORTIZED COST </div> <h2> Trading Debt Securities </h2> <p> Trading debt securities are generally measured at fair value. </p> <div class=\"formula-box\"> TRADING SECURITY FAIR VALUE CHANGE → NET INCOME </div> <h2> Available-for-Sale Debt Securities </h2> <p> Available-for-sale debt securities are generally measured at fair value. </p> <p> Unrealized holding gains and losses are generally reported in <strong>other comprehensive income</strong>, subject to specific impairment and credit-loss guidance. </p> <div class=\"formula-box\"> AFS DEBT SECURITY → FAIR VALUE UNREALIZED HOLDING GAIN OR LOSS → GENERALLY OCI </div> <h2> Net Income vs OCI </h2> <p> This distinction is important throughout FAR. </p> <div class=\"formula-box\"> NET INCOME → AFFECTS RETAINED EARNINGS OTHER COMPREHENSIVE INCOME → ACCUMULATES IN AOCI </div> <h2> Comprehensive Income </h2> <div class=\"formula-box\"> COMPREHENSIVE INCOME = NET INCOME + OTHER COMPREHENSIVE INCOME </div> <h2> Equity Method Investments </h2> <p> When an investor has significant influence over an investee, the equity method may apply. </p> <p> Significant influence is often associated with ownership of approximately <strong>20% to 50%</strong>, although ownership percentage alone is not always determinative. </p> <h2> Equity Method — Basic Mechanics </h2> <div class=\"formula-box\"> INVESTEE NET INCOME → INVESTMENT ACCOUNT ↑ INVESTOR INCOME ↑ INVESTEE DIVIDENDS → INVESTMENT ACCOUNT ↓ CASH ↑ </div> <p> Dividends received under the equity method are generally treated as a return of investment, not additional dividend income. </p> <h2> Example — Equity Method </h2> <p> Investor owns <strong>30%</strong> of Investee. </p> <div class=\"example-box\"> <p> Investee net income: <strong>$100,000</strong> </p> <p> Investee dividends: <strong>$20,000</strong> </p> </div> <div class=\"formula-box\"> INVESTOR SHARE OF INCOME = $100,000 × 30% = $30,000 </div> <div class=\"formula-box\"> DIVIDENDS RECEIVED = $20,000 × 30% = $6,000 </div> <div class=\"formula-box\"> NET INCREASE IN INVESTMENT ACCOUNT = $30,000 − $6,000 = $24,000 </div> <h2> Dividends and Investment Accounting </h2> <p> Be careful with dividends because their accounting depends on the investment method. </p> <div class=\"formula-box\"> EQUITY METHOD: DIVIDENDS → REDUCE INVESTMENT ACCOUNT FAIR VALUE INVESTMENT: DIVIDEND INCOME → GENERALLY RECOGNIZED IN INCOME </div> <h2> Integrated Equity Example </h2> <p> Beginning retained earnings are <strong>$600,000</strong>. </p> <p> During the year: </p> <div class=\"example-box\"> <p> Net income: <strong>$140,000</strong> </p> <p> Cash dividends: <strong>$35,000</strong> </p> </div> <div class=\"formula-box\"> ENDING RETAINED EARNINGS = $600,000 + $140,000 − $35,000 = $705,000 </div> <h2> FAR Strategy </h2> <div class=\"formula-box\"> FOR EQUITY: WHAT TYPE OF TRANSACTION OCCURRED? DOES TOTAL EQUITY CHANGE OR ONLY ITS COMPOSITION? FOR INVESTMENTS: WHAT TYPE OF SECURITY? WHAT ACCOUNTING METHOD? WHERE DOES THE GAIN, LOSS, OR INCOME APPEAR? </div> <div class=\"key-points\"> <h3> Key Takeaways </h3> <ul> <li> Stock issued above par increases both common stock and additional paid-in capital. </li> <li> Cash dividends reduce retained earnings and total stockholders' equity. </li> <li> Stock dividends generally reclassify amounts within equity rather than reducing total equity. </li> <li> Treasury stock is a contra-equity account, not an asset. </li> <li> Equity securities subject to fair value measurement generally report fair value changes in net income. </li> <li> Held-to-maturity debt securities are generally measured at amortized cost. </li> <li> Unrealized holding gains and losses on available-for-sale debt securities are generally reported in OCI. </li> <li> Under the equity method, the investor recognizes its share of investee income and reduces the investment account for dividends received. </li> </ul> </div>",
+  "quiz": {
+    "id": "far-m6-l5-check",
+    "courseId": "far",
+    "moduleId": 6,
+    "lessonId": "far-m6-l5",
+    "topic": "General review",
+    "prompt": "An investor owns 30% of an investee and appropriately uses the equity method. The investee reports $100,000 of net income and pays $20,000 of dividends during the year. Ignoring other adjustments, by how much does the investor's investment account increase during the year?",
+    "choices": [
+      {
+        "id": "far-m6-l5-check-a0",
+        "text": "$24,000"
+      },
+      {
+        "id": "far-m6-l5-check-a1",
+        "text": "$30,000"
+      },
+      {
+        "id": "far-m6-l5-check-a2",
+        "text": "$6,000"
+      },
+      {
+        "id": "far-m6-l5-check-a3",
+        "text": "$36,000"
+      }
+    ],
+    "correctChoiceId": "far-m6-l5-check-a0",
+    "explanation": "The investor recognizes 30% of the investee's $100,000 net income, increasing the investment account by $30,000. The investor receives 30% of the $20,000 dividends, or $6,000, which reduces the investment account. The net increase is $30,000 − $6,000 = $24,000.",
+    "difficulty": "foundation",
+    "metadata": {
+      "section": "far",
+      "blueprintYear": 2026,
+      "areaId": "far-II",
+      "groupId": "module-6",
+      "topicId": "far-equity-investment-review",
+      "taskIds": [
+        "far-equity-investment-review.task-1",
+        "far-equity-investment-review.task-2",
+        "far-equity-investment-review.task-3"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "section": "far",
+    "blueprintYear": 2026,
+    "areaId": "far-II",
+    "groupId": "module-6",
+    "topicId": "far-equity-investment-review",
+    "taskIds": [
+      "far-equity-investment-review.task-1",
+      "far-equity-investment-review.task-2",
+      "far-equity-investment-review.task-3"
+    ],
+    "skill": "application",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      }
+    ]
+  },
+  "objectives": [
+    "Explain equity & investment review and its underlying principles.",
+    "Apply the topic to a financial-reporting scenario.",
+    "Evaluate common errors and their financial-statement effects."
+  ]
+}

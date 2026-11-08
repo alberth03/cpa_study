@@ -1,0 +1,1883 @@
+{
+  "id": "reg-m3-practice",
+  "title": "Property Basis, Cost Recovery & Dispositions Practice",
+  "courseId": "reg",
+  "moduleId": 3,
+  "selection": "per-lesson",
+  "feedback": "immediate",
+  "passPercent": 80,
+  "questions": [
+    {
+      "id": "reg-m3-l1-q1",
+      "courseId": "reg",
+      "moduleId": 3,
+      "lessonId": "reg-m3-l1",
+      "topic": "Tax Basis: Purchases, Gifts, Inheritances & Conversion",
+      "prompt": "Equipment costs $80,000 plus $5,000 capitalizable delivery and installation. What is its initial tax basis?",
+      "choices": [
+        {
+          "id": "reg-m3-l1-q1-a0",
+          "text": "$80,000."
+        },
+        {
+          "id": "reg-m3-l1-q1-a1",
+          "text": "$75,000."
+        },
+        {
+          "id": "reg-m3-l1-q1-a2",
+          "text": "$85,000."
+        },
+        {
+          "id": "reg-m3-l1-q1-a3",
+          "text": "$5,000."
+        }
+      ],
+      "correctChoiceId": "reg-m3-l1-q1-a2",
+      "explanation": "Capitalizable acquisition and preparation costs are included in basis.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "reg",
+        "blueprintYear": 2026,
+        "areaId": "reg-III",
+        "groupId": "A",
+        "topicId": "reg-tax-basis",
+        "taskIds": [
+          "reg-tax-basis.task-1"
+        ],
+        "skill": "application",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Circular 230",
+            "url": "https://www.irs.gov/tax-professionals/circular-230-tax-professionals"
+          }
+        ]
+      }
+    },
+    {
+      "id": "reg-m3-l1-q2",
+      "courseId": "reg",
+      "moduleId": 3,
+      "lessonId": "reg-m3-l1",
+      "topic": "Tax Basis: Purchases, Gifts, Inheritances & Conversion",
+      "prompt": "An asset has original basis $100,000, capital improvements $15,000, and depreciation allowed or allowable $40,000. What is adjusted basis?",
+      "choices": [
+        {
+          "id": "reg-m3-l1-q2-a0",
+          "text": "$115,000."
+        },
+        {
+          "id": "reg-m3-l1-q2-a1",
+          "text": "$60,000."
+        },
+        {
+          "id": "reg-m3-l1-q2-a2",
+          "text": "$155,000."
+        },
+        {
+          "id": "reg-m3-l1-q2-a3",
+          "text": "$75,000."
+        }
+      ],
+      "correctChoiceId": "reg-m3-l1-q2-a3",
+      "explanation": "$100,000 + $15,000 − $40,000 = $75,000.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "reg",
+        "blueprintYear": 2026,
+        "areaId": "reg-III",
+        "groupId": "A",
+        "topicId": "reg-tax-basis",
+        "taskIds": [
+          "reg-tax-basis.task-2"
+        ],
+        "skill": "application",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Circular 230",
+            "url": "https://www.irs.gov/tax-professionals/circular-230-tax-professionals"
+          }
+        ]
+      }
+    },
+    {
+      "id": "reg-m3-l1-q3",
+      "courseId": "reg",
+      "moduleId": 3,
+      "lessonId": "reg-m3-l1",
+      "topic": "Tax Basis: Purchases, Gifts, Inheritances & Conversion",
+      "prompt": "Gift property has donor basis $40,000 and gift-date value $28,000. No gift-tax adjustment applies. It is sold for $34,000. What is the result?",
+      "choices": [
+        {
+          "id": "reg-m3-l1-q3-a0",
+          "text": "Neither gain nor loss."
+        },
+        {
+          "id": "reg-m3-l1-q3-a1",
+          "text": "$6,000 deductible loss."
+        },
+        {
+          "id": "reg-m3-l1-q3-a2",
+          "text": "$6,000 gain."
+        },
+        {
+          "id": "reg-m3-l1-q3-a3",
+          "text": "$12,000 gain."
+        }
+      ],
+      "correctChoiceId": "reg-m3-l1-q3-a0",
+      "explanation": "The proceeds lie between the loss basis and gain basis.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "reg",
+        "blueprintYear": 2026,
+        "areaId": "reg-III",
+        "groupId": "A",
+        "topicId": "reg-tax-basis",
+        "taskIds": [
+          "reg-tax-basis.task-3"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Circular 230",
+            "url": "https://www.irs.gov/tax-professionals/circular-230-tax-professionals"
+          }
+        ]
+      }
+    },
+    {
+      "id": "reg-m3-l1-q4",
+      "courseId": "reg",
+      "moduleId": 3,
+      "lessonId": "reg-m3-l1",
+      "topic": "Tax Basis: Purchases, Gifts, Inheritances & Conversion",
+      "prompt": "Inherited property has date-of-death value $90,000 and decedent cost $20,000. No alternative valuation applies. What is the heir’s general basis?",
+      "choices": [
+        {
+          "id": "reg-m3-l1-q4-a0",
+          "text": "$20,000."
+        },
+        {
+          "id": "reg-m3-l1-q4-a1",
+          "text": "$90,000."
+        },
+        {
+          "id": "reg-m3-l1-q4-a2",
+          "text": "$70,000."
+        },
+        {
+          "id": "reg-m3-l1-q4-a3",
+          "text": "$110,000."
+        }
+      ],
+      "correctChoiceId": "reg-m3-l1-q4-a1",
+      "explanation": "The general inherited-basis rule uses date-of-death fair value under the stated assumptions.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "reg",
+        "blueprintYear": 2026,
+        "areaId": "reg-III",
+        "groupId": "A",
+        "topicId": "reg-tax-basis",
+        "taskIds": [
+          "reg-tax-basis.task-1"
+        ],
+        "skill": "application",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Circular 230",
+            "url": "https://www.irs.gov/tax-professionals/circular-230-tax-professionals"
+          }
+        ]
+      }
+    },
+    {
+      "id": "reg-m3-l1-q5",
+      "courseId": "reg",
+      "moduleId": 3,
+      "lessonId": "reg-m3-l1",
+      "topic": "Tax Basis: Purchases, Gifts, Inheritances & Conversion",
+      "prompt": "Personal equipment with adjusted basis $50,000 and conversion-date value $35,000 is placed in business use. What is the general depreciation basis?",
+      "choices": [
+        {
+          "id": "reg-m3-l1-q5-a0",
+          "text": "$50,000."
+        },
+        {
+          "id": "reg-m3-l1-q5-a1",
+          "text": "$85,000."
+        },
+        {
+          "id": "reg-m3-l1-q5-a2",
+          "text": "$35,000."
+        },
+        {
+          "id": "reg-m3-l1-q5-a3",
+          "text": "$15,000."
+        }
+      ],
+      "correctChoiceId": "reg-m3-l1-q5-a2",
+      "explanation": "For conversion to business use, depreciation basis generally uses the lower amount.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "reg",
+        "blueprintYear": 2026,
+        "areaId": "reg-III",
+        "groupId": "A",
+        "topicId": "reg-tax-basis",
+        "taskIds": [
+          "reg-tax-basis.task-2"
+        ],
+        "skill": "application",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Circular 230",
+            "url": "https://www.irs.gov/tax-professionals/circular-230-tax-professionals"
+          }
+        ]
+      }
+    },
+    {
+      "id": "reg-m3-l1-q6",
+      "courseId": "reg",
+      "moduleId": 3,
+      "lessonId": "reg-m3-l1",
+      "topic": "Tax Basis: Purchases, Gifts, Inheritances & Conversion",
+      "prompt": "Which item ordinarily increases adjusted basis?",
+      "choices": [
+        {
+          "id": "reg-m3-l1-q6-a0",
+          "text": "Depreciation allowed or allowable."
+        },
+        {
+          "id": "reg-m3-l1-q6-a1",
+          "text": "A deduction of the entire acquisition cost after basis recovery."
+        },
+        {
+          "id": "reg-m3-l1-q6-a2",
+          "text": "A nontaxable reduction of investment in every case."
+        },
+        {
+          "id": "reg-m3-l1-q6-a3",
+          "text": "A capital improvement."
+        }
+      ],
+      "correctChoiceId": "reg-m3-l1-q6-a3",
+      "explanation": "Capital improvements generally add to basis; cost recovery ordinarily reduces it.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "reg",
+        "blueprintYear": 2026,
+        "areaId": "reg-III",
+        "groupId": "A",
+        "topicId": "reg-tax-basis",
+        "taskIds": [
+          "reg-tax-basis.task-3"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Circular 230",
+            "url": "https://www.irs.gov/tax-professionals/circular-230-tax-professionals"
+          }
+        ]
+      }
+    },
+    {
+      "id": "reg-m3-l1-q7",
+      "courseId": "reg",
+      "moduleId": 3,
+      "lessonId": "reg-m3-l1",
+      "topic": "Tax Basis: Purchases, Gifts, Inheritances & Conversion",
+      "prompt": "Compute the relevant basis or gain for three independent assets. Purchased machine: Cost $120,000; capitalizable installation $8,000; subsequent capital improvement $12,000; depreciation allowed or allowable $45,000. Other assets: Inherited land has date-of-death value $70,000; no alternative valuation. Personal equipment converted to business use has adjusted basis $40,000 and fair value $25,000. Required: Initial machine basis.",
+      "choices": [
+        {
+          "id": "reg-m3-l1-q7-a0",
+          "text": "128000"
+        },
+        {
+          "id": "reg-m3-l1-q7-a1",
+          "text": "120000"
+        },
+        {
+          "id": "reg-m3-l1-q7-a2",
+          "text": "132000"
+        },
+        {
+          "id": "reg-m3-l1-q7-a3",
+          "text": "8000"
+        }
+      ],
+      "correctChoiceId": "reg-m3-l1-q7-a0",
+      "explanation": "$120,000 + $8,000 installation = $128,000.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "reg",
+        "blueprintYear": 2026,
+        "areaId": "reg-III",
+        "groupId": "A",
+        "topicId": "reg-tax-basis",
+        "taskIds": [
+          "reg-tax-basis.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Circular 230",
+            "url": "https://www.irs.gov/tax-professionals/circular-230-tax-professionals"
+          }
+        ]
+      },
+      "familyId": "reg-m3-tbs1"
+    },
+    {
+      "id": "reg-m3-l1-q8",
+      "courseId": "reg",
+      "moduleId": 3,
+      "lessonId": "reg-m3-l1",
+      "topic": "Tax Basis: Purchases, Gifts, Inheritances & Conversion",
+      "prompt": "Compute the relevant basis or gain for three independent assets. Purchased machine: Cost $120,000; capitalizable installation $8,000; subsequent capital improvement $12,000; depreciation allowed or allowable $45,000. Other assets: Inherited land has date-of-death value $70,000; no alternative valuation. Personal equipment converted to business use has adjusted basis $40,000 and fair value $25,000. Required: Machine adjusted basis after improvement and depreciation.",
+      "choices": [
+        {
+          "id": "reg-m3-l1-q8-a0",
+          "text": "83000"
+        },
+        {
+          "id": "reg-m3-l1-q8-a1",
+          "text": "95000"
+        },
+        {
+          "id": "reg-m3-l1-q8-a2",
+          "text": "140000"
+        },
+        {
+          "id": "reg-m3-l1-q8-a3",
+          "text": "185000"
+        }
+      ],
+      "correctChoiceId": "reg-m3-l1-q8-a1",
+      "explanation": "$128,000 + $12,000 − $45,000 = $95,000.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "reg",
+        "blueprintYear": 2026,
+        "areaId": "reg-III",
+        "groupId": "A",
+        "topicId": "reg-tax-basis",
+        "taskIds": [
+          "reg-tax-basis.task-2"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Circular 230",
+            "url": "https://www.irs.gov/tax-professionals/circular-230-tax-professionals"
+          }
+        ]
+      },
+      "familyId": "reg-m3-tbs1"
+    },
+    {
+      "id": "reg-m3-l1-q9",
+      "courseId": "reg",
+      "moduleId": 3,
+      "lessonId": "reg-m3-l1",
+      "topic": "Tax Basis: Purchases, Gifts, Inheritances & Conversion",
+      "prompt": "Compute the relevant basis or gain for three independent assets. Purchased machine: Cost $120,000; capitalizable installation $8,000; subsequent capital improvement $12,000; depreciation allowed or allowable $45,000. Other assets: Inherited land has date-of-death value $70,000; no alternative valuation. Personal equipment converted to business use has adjusted basis $40,000 and fair value $25,000. Required: Inherited land basis.",
+      "choices": [
+        {
+          "id": "reg-m3-l1-q9-a0",
+          "text": "0"
+        },
+        {
+          "id": "reg-m3-l1-q9-a1",
+          "text": "25000"
+        },
+        {
+          "id": "reg-m3-l1-q9-a2",
+          "text": "70000"
+        },
+        {
+          "id": "reg-m3-l1-q9-a3",
+          "text": "40000"
+        }
+      ],
+      "correctChoiceId": "reg-m3-l1-q9-a2",
+      "explanation": "Use the stated date-of-death value.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "reg",
+        "blueprintYear": 2026,
+        "areaId": "reg-III",
+        "groupId": "A",
+        "topicId": "reg-tax-basis",
+        "taskIds": [
+          "reg-tax-basis.task-3"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Circular 230",
+            "url": "https://www.irs.gov/tax-professionals/circular-230-tax-professionals"
+          }
+        ]
+      },
+      "familyId": "reg-m3-tbs1"
+    },
+    {
+      "id": "reg-m3-l1-q10",
+      "courseId": "reg",
+      "moduleId": 3,
+      "lessonId": "reg-m3-l1",
+      "topic": "Tax Basis: Purchases, Gifts, Inheritances & Conversion",
+      "prompt": "Compute the relevant basis or gain for three independent assets. Purchased machine: Cost $120,000; capitalizable installation $8,000; subsequent capital improvement $12,000; depreciation allowed or allowable $45,000. Other assets: Inherited land has date-of-death value $70,000; no alternative valuation. Personal equipment converted to business use has adjusted basis $40,000 and fair value $25,000. Required: Converted equipment depreciation basis.",
+      "choices": [
+        {
+          "id": "reg-m3-l1-q10-a0",
+          "text": "40000"
+        },
+        {
+          "id": "reg-m3-l1-q10-a1",
+          "text": "65000"
+        },
+        {
+          "id": "reg-m3-l1-q10-a2",
+          "text": "15000"
+        },
+        {
+          "id": "reg-m3-l1-q10-a3",
+          "text": "25000"
+        }
+      ],
+      "correctChoiceId": "reg-m3-l1-q10-a3",
+      "explanation": "Use the lower of adjusted basis and conversion-date fair value.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "reg",
+        "blueprintYear": 2026,
+        "areaId": "reg-III",
+        "groupId": "A",
+        "topicId": "reg-tax-basis",
+        "taskIds": [
+          "reg-tax-basis.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Circular 230",
+            "url": "https://www.irs.gov/tax-professionals/circular-230-tax-professionals"
+          }
+        ]
+      },
+      "familyId": "reg-m3-tbs1"
+    },
+    {
+      "id": "reg-m3-l2-q1",
+      "courseId": "reg",
+      "moduleId": 3,
+      "lessonId": "reg-m3-l2",
+      "topic": "Depreciation, Expensing & Capitalization",
+      "prompt": "A case permits a $15,000 Section 179 deduction on $75,000 basis, then 100% bonus on the remaining eligible basis. No limits apply. What is total cost recovery?",
+      "choices": [
+        {
+          "id": "reg-m3-l2-q1-a0",
+          "text": "$90,000."
+        },
+        {
+          "id": "reg-m3-l2-q1-a1",
+          "text": "$60,000."
+        },
+        {
+          "id": "reg-m3-l2-q1-a2",
+          "text": "$15,000."
+        },
+        {
+          "id": "reg-m3-l2-q1-a3",
+          "text": "$75,000."
+        }
+      ],
+      "correctChoiceId": "reg-m3-l2-q1-a3",
+      "explanation": "Recover $15,000 under Section 179 and the remaining $60,000 under the supplied bonus assumption; do not deduct basis twice.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "reg",
+        "blueprintYear": 2026,
+        "areaId": "reg-III",
+        "groupId": "B",
+        "topicId": "reg-property-depreciation",
+        "taskIds": [
+          "reg-property-depreciation.task-1"
+        ],
+        "skill": "application",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Circular 230",
+            "url": "https://www.irs.gov/tax-professionals/circular-230-tax-professionals"
+          }
+        ]
+      }
+    },
+    {
+      "id": "reg-m3-l2-q2",
+      "courseId": "reg",
+      "moduleId": 3,
+      "lessonId": "reg-m3-l2",
+      "topic": "Depreciation, Expensing & Capitalization",
+      "prompt": "An asset’s remaining depreciable basis is $40,000 and the supplied first-year table rate is 20%. What is depreciation?",
+      "choices": [
+        {
+          "id": "reg-m3-l2-q2-a0",
+          "text": "$8,000."
+        },
+        {
+          "id": "reg-m3-l2-q2-a1",
+          "text": "$20,000."
+        },
+        {
+          "id": "reg-m3-l2-q2-a2",
+          "text": "$40,000."
+        },
+        {
+          "id": "reg-m3-l2-q2-a3",
+          "text": "$2,000."
+        }
+      ],
+      "correctChoiceId": "reg-m3-l2-q2-a0",
+      "explanation": "$40,000 × 20% = $8,000.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "reg",
+        "blueprintYear": 2026,
+        "areaId": "reg-III",
+        "groupId": "B",
+        "topicId": "reg-property-depreciation",
+        "taskIds": [
+          "reg-property-depreciation.task-2"
+        ],
+        "skill": "application",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Circular 230",
+            "url": "https://www.irs.gov/tax-professionals/circular-230-tax-professionals"
+          }
+        ]
+      }
+    },
+    {
+      "id": "reg-m3-l2-q3",
+      "courseId": "reg",
+      "moduleId": 3,
+      "lessonId": "reg-m3-l2",
+      "topic": "Depreciation, Expensing & Capitalization",
+      "prompt": "Why must a cost-recovery question identify the applicable tax-law period?",
+      "choices": [
+        {
+          "id": "reg-m3-l2-q3-a0",
+          "text": "Tax law never changes."
+        },
+        {
+          "id": "reg-m3-l2-q3-a1",
+          "text": "Eligibility, rates, limits, and elections can change over time."
+        },
+        {
+          "id": "reg-m3-l2-q3-a2",
+          "text": "Only the company name determines depreciation."
+        },
+        {
+          "id": "reg-m3-l2-q3-a3",
+          "text": "The financial-statement font determines the tax rate."
+        }
+      ],
+      "correctChoiceId": "reg-m3-l2-q3-a1",
+      "explanation": "Versioned assumptions prevent outdated provisions from being silently reused.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "reg",
+        "blueprintYear": 2026,
+        "areaId": "reg-III",
+        "groupId": "B",
+        "topicId": "reg-property-depreciation",
+        "taskIds": [
+          "reg-property-depreciation.task-3"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Circular 230",
+            "url": "https://www.irs.gov/tax-professionals/circular-230-tax-professionals"
+          }
+        ]
+      }
+    },
+    {
+      "id": "reg-m3-l2-q4",
+      "courseId": "reg",
+      "moduleId": 3,
+      "lessonId": "reg-m3-l2",
+      "topic": "Depreciation, Expensing & Capitalization",
+      "prompt": "A major expenditure materially restores an asset and must be capitalized under the applicable rules. What is the ordinary effect?",
+      "choices": [
+        {
+          "id": "reg-m3-l2-q4-a0",
+          "text": "Always deduct it twice."
+        },
+        {
+          "id": "reg-m3-l2-q4-a1",
+          "text": "Ignore it because cash was paid."
+        },
+        {
+          "id": "reg-m3-l2-q4-a2",
+          "text": "Increase basis and recover cost under the applicable tax rules."
+        },
+        {
+          "id": "reg-m3-l2-q4-a3",
+          "text": "Reduce basis by the expenditure in every case."
+        }
+      ],
+      "correctChoiceId": "reg-m3-l2-q4-a2",
+      "explanation": "Capitalized restoration costs generally increase the investment subject to applicable recovery.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "reg",
+        "blueprintYear": 2026,
+        "areaId": "reg-III",
+        "groupId": "B",
+        "topicId": "reg-property-depreciation",
+        "taskIds": [
+          "reg-property-depreciation.task-1"
+        ],
+        "skill": "application",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Circular 230",
+            "url": "https://www.irs.gov/tax-professionals/circular-230-tax-professionals"
+          }
+        ]
+      }
+    },
+    {
+      "id": "reg-m3-l2-q5",
+      "courseId": "reg",
+      "moduleId": 3,
+      "lessonId": "reg-m3-l2",
+      "topic": "Depreciation, Expensing & Capitalization",
+      "prompt": "A machine is purchased in December but is not ready and available for its intended business use until February. Which date is relevant to beginning tax depreciation?",
+      "choices": [
+        {
+          "id": "reg-m3-l2-q5-a0",
+          "text": "Always the invoice date regardless of readiness."
+        },
+        {
+          "id": "reg-m3-l2-q5-a1",
+          "text": "Always the payment date regardless of use."
+        },
+        {
+          "id": "reg-m3-l2-q5-a2",
+          "text": "The date the auditor visits."
+        },
+        {
+          "id": "reg-m3-l2-q5-a3",
+          "text": "The applicable placed-in-service date."
+        }
+      ],
+      "correctChoiceId": "reg-m3-l2-q5-a3",
+      "explanation": "Depreciation eligibility depends on placement in service under the governing rules.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "reg",
+        "blueprintYear": 2026,
+        "areaId": "reg-III",
+        "groupId": "B",
+        "topicId": "reg-property-depreciation",
+        "taskIds": [
+          "reg-property-depreciation.task-2"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Circular 230",
+            "url": "https://www.irs.gov/tax-professionals/circular-230-tax-professionals"
+          }
+        ]
+      }
+    },
+    {
+      "id": "reg-m3-l2-q6",
+      "courseId": "reg",
+      "moduleId": 3,
+      "lessonId": "reg-m3-l2",
+      "topic": "Depreciation, Expensing & Capitalization",
+      "prompt": "The supplied facts say a Section 179 business-income limitation restricts the deduction. What should the preparer do?",
+      "choices": [
+        {
+          "id": "reg-m3-l2-q6-a0",
+          "text": "Apply the limitation and evaluate any permitted carryforward."
+        },
+        {
+          "id": "reg-m3-l2-q6-a1",
+          "text": "Ignore the limit because property is eligible."
+        },
+        {
+          "id": "reg-m3-l2-q6-a2",
+          "text": "Treat the disallowed amount as depreciation twice."
+        },
+        {
+          "id": "reg-m3-l2-q6-a3",
+          "text": "Assume every limitation is permanent."
+        }
+      ],
+      "correctChoiceId": "reg-m3-l2-q6-a0",
+      "explanation": "Eligibility and limits are separate; carryforward treatment depends on the applicable provision.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "reg",
+        "blueprintYear": 2026,
+        "areaId": "reg-III",
+        "groupId": "B",
+        "topicId": "reg-property-depreciation",
+        "taskIds": [
+          "reg-property-depreciation.task-3"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Circular 230",
+            "url": "https://www.irs.gov/tax-professionals/circular-230-tax-professionals"
+          }
+        ]
+      }
+    },
+    {
+      "id": "reg-m3-l2-q7",
+      "courseId": "reg",
+      "moduleId": 3,
+      "lessonId": "reg-m3-l2",
+      "topic": "Depreciation, Expensing & Capitalization",
+      "prompt": "Prepare a deduction schedule using only the rates and limits explicitly provided for this training case. Asset and elected deduction: Eligible equipment basis is $160,000. The permitted Section 179 deduction is $40,000. No taxable-income or other limitation changes that amount. Supplied training rates: For this exercise, bonus depreciation is 50% of basis remaining after Section 179. Ordinary first-year depreciation is 20% of the remaining basis after bonus. These supplied rates are not a universal statement of current bonus law. Required: Basis after Section 179.",
+      "choices": [
+        {
+          "id": "reg-m3-l2-q7-a0",
+          "text": "160000"
+        },
+        {
+          "id": "reg-m3-l2-q7-a1",
+          "text": "120000"
+        },
+        {
+          "id": "reg-m3-l2-q7-a2",
+          "text": "40000"
+        },
+        {
+          "id": "reg-m3-l2-q7-a3",
+          "text": "200000"
+        }
+      ],
+      "correctChoiceId": "reg-m3-l2-q7-a1",
+      "explanation": "$160,000 − $40,000 = $120,000.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "reg",
+        "blueprintYear": 2026,
+        "areaId": "reg-III",
+        "groupId": "B",
+        "topicId": "reg-property-depreciation",
+        "taskIds": [
+          "reg-property-depreciation.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Circular 230",
+            "url": "https://www.irs.gov/tax-professionals/circular-230-tax-professionals"
+          }
+        ]
+      },
+      "familyId": "reg-m3-tbs2"
+    },
+    {
+      "id": "reg-m3-l2-q8",
+      "courseId": "reg",
+      "moduleId": 3,
+      "lessonId": "reg-m3-l2",
+      "topic": "Depreciation, Expensing & Capitalization",
+      "prompt": "Prepare a deduction schedule using only the rates and limits explicitly provided for this training case. Asset and elected deduction: Eligible equipment basis is $160,000. The permitted Section 179 deduction is $40,000. No taxable-income or other limitation changes that amount. Supplied training rates: For this exercise, bonus depreciation is 50% of basis remaining after Section 179. Ordinary first-year depreciation is 20% of the remaining basis after bonus. These supplied rates are not a universal statement of current bonus law. Required: Bonus deduction under the supplied rate.",
+      "choices": [
+        {
+          "id": "reg-m3-l2-q8-a0",
+          "text": "80000"
+        },
+        {
+          "id": "reg-m3-l2-q8-a1",
+          "text": "24000"
+        },
+        {
+          "id": "reg-m3-l2-q8-a2",
+          "text": "60000"
+        },
+        {
+          "id": "reg-m3-l2-q8-a3",
+          "text": "120000"
+        }
+      ],
+      "correctChoiceId": "reg-m3-l2-q8-a2",
+      "explanation": "50% × $120,000 = $60,000.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "reg",
+        "blueprintYear": 2026,
+        "areaId": "reg-III",
+        "groupId": "B",
+        "topicId": "reg-property-depreciation",
+        "taskIds": [
+          "reg-property-depreciation.task-2"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Circular 230",
+            "url": "https://www.irs.gov/tax-professionals/circular-230-tax-professionals"
+          }
+        ]
+      },
+      "familyId": "reg-m3-tbs2"
+    },
+    {
+      "id": "reg-m3-l2-q9",
+      "courseId": "reg",
+      "moduleId": 3,
+      "lessonId": "reg-m3-l2",
+      "topic": "Depreciation, Expensing & Capitalization",
+      "prompt": "Prepare a deduction schedule using only the rates and limits explicitly provided for this training case. Asset and elected deduction: Eligible equipment basis is $160,000. The permitted Section 179 deduction is $40,000. No taxable-income or other limitation changes that amount. Supplied training rates: For this exercise, bonus depreciation is 50% of basis remaining after Section 179. Ordinary first-year depreciation is 20% of the remaining basis after bonus. These supplied rates are not a universal statement of current bonus law. Required: Ordinary first-year depreciation.",
+      "choices": [
+        {
+          "id": "reg-m3-l2-q9-a0",
+          "text": "24000"
+        },
+        {
+          "id": "reg-m3-l2-q9-a1",
+          "text": "32000"
+        },
+        {
+          "id": "reg-m3-l2-q9-a2",
+          "text": "60000"
+        },
+        {
+          "id": "reg-m3-l2-q9-a3",
+          "text": "12000"
+        }
+      ],
+      "correctChoiceId": "reg-m3-l2-q9-a3",
+      "explanation": "20% × ($120,000 − $60,000) = $12,000.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "reg",
+        "blueprintYear": 2026,
+        "areaId": "reg-III",
+        "groupId": "B",
+        "topicId": "reg-property-depreciation",
+        "taskIds": [
+          "reg-property-depreciation.task-3"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Circular 230",
+            "url": "https://www.irs.gov/tax-professionals/circular-230-tax-professionals"
+          }
+        ]
+      },
+      "familyId": "reg-m3-tbs2"
+    },
+    {
+      "id": "reg-m3-l2-q10",
+      "courseId": "reg",
+      "moduleId": 3,
+      "lessonId": "reg-m3-l2",
+      "topic": "Depreciation, Expensing & Capitalization",
+      "prompt": "Prepare a deduction schedule using only the rates and limits explicitly provided for this training case. Asset and elected deduction: Eligible equipment basis is $160,000. The permitted Section 179 deduction is $40,000. No taxable-income or other limitation changes that amount. Supplied training rates: For this exercise, bonus depreciation is 50% of basis remaining after Section 179. Ordinary first-year depreciation is 20% of the remaining basis after bonus. These supplied rates are not a universal statement of current bonus law. Required: Adjusted basis after all stated deductions.",
+      "choices": [
+        {
+          "id": "reg-m3-l2-q10-a0",
+          "text": "48000"
+        },
+        {
+          "id": "reg-m3-l2-q10-a1",
+          "text": "60000"
+        },
+        {
+          "id": "reg-m3-l2-q10-a2",
+          "text": "112000"
+        },
+        {
+          "id": "reg-m3-l2-q10-a3",
+          "text": "28000"
+        }
+      ],
+      "correctChoiceId": "reg-m3-l2-q10-a0",
+      "explanation": "$160,000 − $40,000 − $60,000 − $12,000 = $48,000.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "reg",
+        "blueprintYear": 2026,
+        "areaId": "reg-III",
+        "groupId": "B",
+        "topicId": "reg-property-depreciation",
+        "taskIds": [
+          "reg-property-depreciation.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Circular 230",
+            "url": "https://www.irs.gov/tax-professionals/circular-230-tax-professionals"
+          }
+        ]
+      },
+      "familyId": "reg-m3-tbs2"
+    },
+    {
+      "id": "reg-m3-l3-q1",
+      "courseId": "reg",
+      "moduleId": 3,
+      "lessonId": "reg-m3-l3",
+      "topic": "Realized Gain, Recognized Gain & Character",
+      "prompt": "Property with adjusted basis $45,000 is sold for $80,000 cash with $5,000 qualifying selling costs. What is realized gain?",
+      "choices": [
+        {
+          "id": "reg-m3-l3-q1-a0",
+          "text": "$30,000."
+        },
+        {
+          "id": "reg-m3-l3-q1-a1",
+          "text": "$35,000."
+        },
+        {
+          "id": "reg-m3-l3-q1-a2",
+          "text": "$40,000."
+        },
+        {
+          "id": "reg-m3-l3-q1-a3",
+          "text": "$75,000."
+        }
+      ],
+      "correctChoiceId": "reg-m3-l3-q1-a0",
+      "explanation": "Net amount realized is $75,000; subtract $45,000 basis.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "reg",
+        "blueprintYear": 2026,
+        "areaId": "reg-III",
+        "groupId": "A-B",
+        "topicId": "reg-property-dispositions",
+        "taskIds": [
+          "reg-property-dispositions.task-1"
+        ],
+        "skill": "application",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Circular 230",
+            "url": "https://www.irs.gov/tax-professionals/circular-230-tax-professionals"
+          }
+        ]
+      }
+    },
+    {
+      "id": "reg-m3-l3-q2",
+      "courseId": "reg",
+      "moduleId": 3,
+      "lessonId": "reg-m3-l3",
+      "topic": "Realized Gain, Recognized Gain & Character",
+      "prompt": "Equipment cost $90,000 and depreciation allowed or allowable is $50,000. It sells for $65,000 with no selling costs. What is gain?",
+      "choices": [
+        {
+          "id": "reg-m3-l3-q2-a0",
+          "text": "$65,000."
+        },
+        {
+          "id": "reg-m3-l3-q2-a1",
+          "text": "$25,000."
+        },
+        {
+          "id": "reg-m3-l3-q2-a2",
+          "text": "$40,000."
+        },
+        {
+          "id": "reg-m3-l3-q2-a3",
+          "text": "$15,000."
+        }
+      ],
+      "correctChoiceId": "reg-m3-l3-q2-a1",
+      "explanation": "Adjusted basis is $40,000; gain is $65,000 − $40,000.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "reg",
+        "blueprintYear": 2026,
+        "areaId": "reg-III",
+        "groupId": "A-B",
+        "topicId": "reg-property-dispositions",
+        "taskIds": [
+          "reg-property-dispositions.task-2"
+        ],
+        "skill": "application",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Circular 230",
+            "url": "https://www.irs.gov/tax-professionals/circular-230-tax-professionals"
+          }
+        ]
+      }
+    },
+    {
+      "id": "reg-m3-l3-q3",
+      "courseId": "reg",
+      "moduleId": 3,
+      "lessonId": "reg-m3-l3",
+      "topic": "Realized Gain, Recognized Gain & Character",
+      "prompt": "Under stated Section 1245 assumptions, recognized gain is $25,000 and prior depreciation is $50,000. What is ordinary recapture?",
+      "choices": [
+        {
+          "id": "reg-m3-l3-q3-a0",
+          "text": "$50,000."
+        },
+        {
+          "id": "reg-m3-l3-q3-a1",
+          "text": "Zero."
+        },
+        {
+          "id": "reg-m3-l3-q3-a2",
+          "text": "$25,000."
+        },
+        {
+          "id": "reg-m3-l3-q3-a3",
+          "text": "$75,000."
+        }
+      ],
+      "correctChoiceId": "reg-m3-l3-q3-a2",
+      "explanation": "Recapture is limited to the recognized gain in these facts.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "reg",
+        "blueprintYear": 2026,
+        "areaId": "reg-III",
+        "groupId": "A-B",
+        "topicId": "reg-property-dispositions",
+        "taskIds": [
+          "reg-property-dispositions.task-3"
+        ],
+        "skill": "application",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Circular 230",
+            "url": "https://www.irs.gov/tax-professionals/circular-230-tax-professionals"
+          }
+        ]
+      }
+    },
+    {
+      "id": "reg-m3-l3-q4",
+      "courseId": "reg",
+      "moduleId": 3,
+      "lessonId": "reg-m3-l3",
+      "topic": "Realized Gain, Recognized Gain & Character",
+      "prompt": "Which property is generally excluded from the ordinary definition of a capital asset?",
+      "choices": [
+        {
+          "id": "reg-m3-l3-q4-a0",
+          "text": "An individual’s investment stock."
+        },
+        {
+          "id": "reg-m3-l3-q4-a1",
+          "text": "Investment land in ordinary circumstances."
+        },
+        {
+          "id": "reg-m3-l3-q4-a2",
+          "text": "A personal investment bond in ordinary circumstances."
+        },
+        {
+          "id": "reg-m3-l3-q4-a3",
+          "text": "Inventory held for sale to customers."
+        }
+      ],
+      "correctChoiceId": "reg-m3-l3-q4-a3",
+      "explanation": "Inventory held for sale is generally ordinary-income property rather than a capital asset.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "reg",
+        "blueprintYear": 2026,
+        "areaId": "reg-III",
+        "groupId": "A-B",
+        "topicId": "reg-property-dispositions",
+        "taskIds": [
+          "reg-property-dispositions.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Circular 230",
+            "url": "https://www.irs.gov/tax-professionals/circular-230-tax-professionals"
+          }
+        ]
+      }
+    },
+    {
+      "id": "reg-m3-l3-q5",
+      "courseId": "reg",
+      "moduleId": 3,
+      "lessonId": "reg-m3-l3",
+      "topic": "Realized Gain, Recognized Gain & Character",
+      "prompt": "Does every realized gain have to be recognized currently?",
+      "choices": [
+        {
+          "id": "reg-m3-l3-q5-a0",
+          "text": "No; a specific applicable nonrecognition or deferral provision may change current recognition."
+        },
+        {
+          "id": "reg-m3-l3-q5-a1",
+          "text": "Yes, without exception."
+        },
+        {
+          "id": "reg-m3-l3-q5-a2",
+          "text": "No gain is ever recognized on a sale."
+        },
+        {
+          "id": "reg-m3-l3-q5-a3",
+          "text": "Only the book gain matters."
+        }
+      ],
+      "correctChoiceId": "reg-m3-l3-q5-a0",
+      "explanation": "Realization and tax recognition are separate analytical steps.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "reg",
+        "blueprintYear": 2026,
+        "areaId": "reg-III",
+        "groupId": "A-B",
+        "topicId": "reg-property-dispositions",
+        "taskIds": [
+          "reg-property-dispositions.task-2"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Circular 230",
+            "url": "https://www.irs.gov/tax-professionals/circular-230-tax-professionals"
+          }
+        ]
+      }
+    },
+    {
+      "id": "reg-m3-l3-q6",
+      "courseId": "reg",
+      "moduleId": 3,
+      "lessonId": "reg-m3-l3",
+      "topic": "Realized Gain, Recognized Gain & Character",
+      "prompt": "An individual sells personal-use furniture at a loss. What is the general federal income-tax result?",
+      "choices": [
+        {
+          "id": "reg-m3-l3-q6-a0",
+          "text": "The loss is automatically a business deduction."
+        },
+        {
+          "id": "reg-m3-l3-q6-a1",
+          "text": "The personal-use loss is generally nondeductible."
+        },
+        {
+          "id": "reg-m3-l3-q6-a2",
+          "text": "The loss always offsets wages without limitation."
+        },
+        {
+          "id": "reg-m3-l3-q6-a3",
+          "text": "The proceeds are entirely tax-free basis in every possible case."
+        }
+      ],
+      "correctChoiceId": "reg-m3-l3-q6-a1",
+      "explanation": "Personal-use losses are generally not deductible; the rule differs from qualifying business or investment property losses.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "reg",
+        "blueprintYear": 2026,
+        "areaId": "reg-III",
+        "groupId": "A-B",
+        "topicId": "reg-property-dispositions",
+        "taskIds": [
+          "reg-property-dispositions.task-3"
+        ],
+        "skill": "application",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Circular 230",
+            "url": "https://www.irs.gov/tax-professionals/circular-230-tax-professionals"
+          }
+        ]
+      }
+    },
+    {
+      "id": "reg-m3-l3-q7",
+      "courseId": "reg",
+      "moduleId": 3,
+      "lessonId": "reg-m3-l3",
+      "topic": "Realized Gain, Recognized Gain & Character",
+      "prompt": "Calculate gain and recapture for a business equipment sale under the stated rules. Asset record: Original cost $140,000; tax depreciation allowed or allowable $90,000. The equipment is Section 1245 property. Sale terms: Cash proceeds $120,000; qualifying selling costs $10,000. No nonrecognition provision applies. Recapture is limited to recognized gain and prior depreciation. Required: Adjusted basis.",
+      "choices": [
+        {
+          "id": "reg-m3-l3-q7-a0",
+          "text": "140000"
+        },
+        {
+          "id": "reg-m3-l3-q7-a1",
+          "text": "90000"
+        },
+        {
+          "id": "reg-m3-l3-q7-a2",
+          "text": "50000"
+        },
+        {
+          "id": "reg-m3-l3-q7-a3",
+          "text": "230000"
+        }
+      ],
+      "correctChoiceId": "reg-m3-l3-q7-a2",
+      "explanation": "$140,000 − $90,000 = $50,000.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "reg",
+        "blueprintYear": 2026,
+        "areaId": "reg-III",
+        "groupId": "A-B",
+        "topicId": "reg-property-dispositions",
+        "taskIds": [
+          "reg-property-dispositions.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Circular 230",
+            "url": "https://www.irs.gov/tax-professionals/circular-230-tax-professionals"
+          }
+        ]
+      },
+      "familyId": "reg-m3-tbs3"
+    },
+    {
+      "id": "reg-m3-l3-q8",
+      "courseId": "reg",
+      "moduleId": 3,
+      "lessonId": "reg-m3-l3",
+      "topic": "Realized Gain, Recognized Gain & Character",
+      "prompt": "Calculate gain and recapture for a business equipment sale under the stated rules. Asset record: Original cost $140,000; tax depreciation allowed or allowable $90,000. The equipment is Section 1245 property. Sale terms: Cash proceeds $120,000; qualifying selling costs $10,000. No nonrecognition provision applies. Recapture is limited to recognized gain and prior depreciation. Required: Net amount realized.",
+      "choices": [
+        {
+          "id": "reg-m3-l3-q8-a0",
+          "text": "120000"
+        },
+        {
+          "id": "reg-m3-l3-q8-a1",
+          "text": "130000"
+        },
+        {
+          "id": "reg-m3-l3-q8-a2",
+          "text": "10000"
+        },
+        {
+          "id": "reg-m3-l3-q8-a3",
+          "text": "110000"
+        }
+      ],
+      "correctChoiceId": "reg-m3-l3-q8-a3",
+      "explanation": "$120,000 − $10,000 = $110,000.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "reg",
+        "blueprintYear": 2026,
+        "areaId": "reg-III",
+        "groupId": "A-B",
+        "topicId": "reg-property-dispositions",
+        "taskIds": [
+          "reg-property-dispositions.task-2"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Circular 230",
+            "url": "https://www.irs.gov/tax-professionals/circular-230-tax-professionals"
+          }
+        ]
+      },
+      "familyId": "reg-m3-tbs3"
+    },
+    {
+      "id": "reg-m3-l3-q9",
+      "courseId": "reg",
+      "moduleId": 3,
+      "lessonId": "reg-m3-l3",
+      "topic": "Realized Gain, Recognized Gain & Character",
+      "prompt": "Calculate gain and recapture for a business equipment sale under the stated rules. Asset record: Original cost $140,000; tax depreciation allowed or allowable $90,000. The equipment is Section 1245 property. Sale terms: Cash proceeds $120,000; qualifying selling costs $10,000. No nonrecognition provision applies. Recapture is limited to recognized gain and prior depreciation. Required: Recognized gain.",
+      "choices": [
+        {
+          "id": "reg-m3-l3-q9-a0",
+          "text": "60000"
+        },
+        {
+          "id": "reg-m3-l3-q9-a1",
+          "text": "70000"
+        },
+        {
+          "id": "reg-m3-l3-q9-a2",
+          "text": "110000"
+        },
+        {
+          "id": "reg-m3-l3-q9-a3",
+          "text": "50000"
+        }
+      ],
+      "correctChoiceId": "reg-m3-l3-q9-a0",
+      "explanation": "$110,000 − $50,000 = $60,000.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "reg",
+        "blueprintYear": 2026,
+        "areaId": "reg-III",
+        "groupId": "A-B",
+        "topicId": "reg-property-dispositions",
+        "taskIds": [
+          "reg-property-dispositions.task-3"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Circular 230",
+            "url": "https://www.irs.gov/tax-professionals/circular-230-tax-professionals"
+          }
+        ]
+      },
+      "familyId": "reg-m3-tbs3"
+    },
+    {
+      "id": "reg-m3-l3-q10",
+      "courseId": "reg",
+      "moduleId": 3,
+      "lessonId": "reg-m3-l3",
+      "topic": "Realized Gain, Recognized Gain & Character",
+      "prompt": "Calculate gain and recapture for a business equipment sale under the stated rules. Asset record: Original cost $140,000; tax depreciation allowed or allowable $90,000. The equipment is Section 1245 property. Sale terms: Cash proceeds $120,000; qualifying selling costs $10,000. No nonrecognition provision applies. Recapture is limited to recognized gain and prior depreciation. Required: Ordinary Section 1245 recapture.",
+      "choices": [
+        {
+          "id": "reg-m3-l3-q10-a0",
+          "text": "90000"
+        },
+        {
+          "id": "reg-m3-l3-q10-a1",
+          "text": "60000"
+        },
+        {
+          "id": "reg-m3-l3-q10-a2",
+          "text": "30000"
+        },
+        {
+          "id": "reg-m3-l3-q10-a3",
+          "text": "0"
+        }
+      ],
+      "correctChoiceId": "reg-m3-l3-q10-a1",
+      "explanation": "The $60,000 gain is less than prior depreciation of $90,000.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "reg",
+        "blueprintYear": 2026,
+        "areaId": "reg-III",
+        "groupId": "A-B",
+        "topicId": "reg-property-dispositions",
+        "taskIds": [
+          "reg-property-dispositions.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Circular 230",
+            "url": "https://www.irs.gov/tax-professionals/circular-230-tax-professionals"
+          }
+        ]
+      },
+      "familyId": "reg-m3-tbs3"
+    }
+  ]
+}

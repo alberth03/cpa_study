@@ -1,0 +1,103 @@
+{
+  "id": "bar-m3-l3",
+  "courseId": "bar",
+  "moduleId": 3,
+  "number": 3,
+  "title": "Proprietary and Fiduciary Funds",
+  "description": "Explain proprietary and fiduciary funds.",
+  "url": "/learn/bar/modules/3/lessons/3",
+  "metadata": {
+    "section": "bar",
+    "blueprintYear": 2026,
+    "areaId": "bar-III",
+    "groupId": "A-B-C",
+    "topicId": "bar-government-proprietary-fiduciary",
+    "taskIds": [
+      "bar-government-proprietary-fiduciary.task-1",
+      "bar-government-proprietary-fiduciary.task-2",
+      "bar-government-proprietary-fiduciary.task-3"
+    ],
+    "skill": "application",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      },
+      {
+        "title": "FASB accounting standards",
+        "url": "https://asc.fasb.org/"
+      },
+      {
+        "title": "GASB standards",
+        "url": "https://www.gasb.org/standards-and-implementation"
+      }
+    ]
+  },
+  "html": "<h2>Proprietary Funds</h2><h2> Proprietary Funds </h2> <p> Proprietary funds account for government activities that operate in a manner similar to commercial businesses. </p> <p> Unlike governmental funds, proprietary funds use: </p> <div class=\"formula-box\"> ECONOMIC RESOURCES MEASUREMENT FOCUS + ACCRUAL BASIS OF ACCOUNTING </div> <p> This means proprietary funds generally recognize assets, liabilities, revenues, and expenses similarly to business enterprises. </p> <h2> Two Types of Proprietary Funds </h2> <div class=\"financial-example\"> <div> <span> Enterprise Fund </span> <strong> Provides Goods or Services Primarily to External Users </strong> </div> <div> <span> Internal Service Fund </span> <strong> Provides Goods or Services Primarily to Other Government Departments </strong> </div> </div> <h2> Enterprise Funds </h2> <p> Enterprise funds generally account for activities in which goods or services are provided to the public or other external users for a fee. </p> <div class=\"key-points\"> <p> Enterprise fund reporting may also be required when applicable criteria are met, such as when laws, regulations, debt arrangements, or pricing policies require an activity's costs to be recovered primarily through fees and charges. </p> </div> <div class=\"example-box\"> <strong> Common Examples </strong> <ul> <li> Public water utilities </li> <li> Government-owned airports </li> <li> Public transit systems </li> <li> Government parking operations </li> </ul> </div> <div class=\"key-points\"> <h3> Think: </h3> <p> Government + customers outside the government + user charges → Enterprise Fund. </p> </div> <h2> Internal Service Funds </h2> <p> Internal service funds generally account for goods or services provided by one department or agency of a government to other departments or agencies, usually on a cost-reimbursement basis. </p> <div class=\"example-box\"> <strong> Example </strong> <p> A city's centralized motor pool maintains vehicles for the police, fire, and parks departments and charges those departments for the services. </p> <p> The activity may be accounted for in an internal service fund. </p> </div> <div class=\"formula-box\"> EXTERNAL CUSTOMERS → ENTERPRISE INTERNAL DEPARTMENTS → INTERNAL SERVICE </div> <h2> Capital Assets </h2> <p> Because proprietary funds use the economic resources measurement focus, they generally report capital assets directly in the fund. </p> <p> Capital assets are also generally <strong>depreciated</strong>. </p> <div class=\"financial-example\"> <div> <span> Equipment Cost </span> <strong> $300,000 </strong> </div> <div> <span> Useful Life </span> <strong> 10 Years </strong> </div> </div> <div class=\"formula-box\"> $300,000 ÷ 10 = $30,000 Annual Depreciation </div> <p> This is very different from a governmental fund, where acquisition of equipment is generally reported as an expenditure rather than recording and depreciating the capital asset in the fund. </p> <h2> Long-Term Debt </h2> <p> Proprietary funds generally report their long-term liabilities directly because they use the economic resources measurement focus. </p> <div class=\"formula-box\"> PROPRIETARY FUND Capital Assets ✓ Depreciation ✓ Long-Term Liabilities ✓ </div> <h2> Revenues and Expenses </h2> <p> Proprietary fund statements distinguish operating activities from nonoperating activities. </p> <div class=\"key-points\"> <h3> Operating Examples </h3> <ul> <li> Charges to customers for services </li> <li> Employee costs related to operations </li> <li> Supplies and other operating costs </li> </ul> </div> <div class=\"key-points\"> <h3> Nonoperating Examples </h3> <ul> <li> Interest revenue </li> <li> Interest expense </li> <li> Certain investment-related amounts </li> </ul> </div> <h2> Proprietary Fund Statements </h2> <p> Proprietary funds generally present: </p> <div class=\"financial-example\"> <div> <span> Statement of Net Position </span> <strong> Financial Position </strong> </div> <div> <span> Statement of Revenues, Expenses, and Changes in Fund Net Position </span> <strong> Operating Results </strong> </div> <div> <span> Statement of Cash Flows </span> <strong> Cash Activity </strong> </div> </div> <h2> Important Cash Flow Difference </h2> <p> Proprietary fund cash flow statements use categories that differ somewhat from those commonly seen in business accounting. </p> <p> One important CPA distinction is that proprietary fund statements include an <strong>operating activities</strong> category based on governmental reporting requirements, along with noncapital financing, capital and related financing, and investing activities. </p> <h2> Governmental vs. Proprietary </h2> <div class=\"financial-example\"> <div> <span> Governmental Funds </span> <strong> Modified Accrual + Current Financial Resources </strong> </div> <div> <span> Proprietary Funds </span> <strong> Accrual + Economic Resources </strong> </div> </div> <h2> CPA Memory Rule </h2> <div class=\"formula-box\"> ENTERPRISE = OUTSIDE USERS INTERNAL SERVICE = INSIDE USERS BOTH = ACCRUAL + ECONOMIC RESOURCES </div> <div class=\"key-points\"> <h3> Key Takeaways </h3> <ul> <li> Proprietary funds use accrual accounting. </li> <li> They use the economic resources measurement focus. </li> <li> Enterprise funds generally serve external users. </li> <li> Internal service funds generally serve other government departments. </li> <li> Proprietary funds report and depreciate capital assets. </li> <li> They generally report their long-term liabilities directly. </li> </ul> </div><h2>Fiduciary Funds</h2><h2> Fiduciary Funds </h2> <p> Fiduciary funds account for resources that a government holds or administers in a <strong>fiduciary capacity for others</strong>. </p> <p> The key idea is that these resources generally are <strong>not available to support the government's own programs</strong>. </p> <div class=\"formula-box\"> FIDUCIARY FUNDS = RESOURCES HELD FOR OTHERS + ECONOMIC RESOURCES + ACCRUAL BASIS </div> <h2> Four Fiduciary Fund Types </h2> <div class=\"financial-example\"> <div> <span> Pension and Other Employee Benefit Trust Funds </span> <strong> Employee Benefit Arrangements </strong> </div> <div> <span> Investment Trust Funds </span> <strong> External Portion of Investment Pools </strong> </div> <div> <span> Private-Purpose Trust Funds </span> <strong> Trusts Benefiting Specific Individuals or Organizations </strong> </div> <div> <span> Custodial Funds </span> <strong> Fiduciary Resources Not Reported in Another Fiduciary Fund </strong> </div> </div> <h2> Pension and Other Employee Benefit Trust Funds </h2> <p> These funds account for qualifying pension plans and other employee benefit arrangements administered through a trust or equivalent arrangement. </p> <div class=\"example-box\"> <strong> Example </strong> <p> A city administers a pension trust for retired municipal employees. </p> <p> The pension resources belong to the plan's participants and beneficiaries rather than being available for ordinary city programs. </p> </div> <h2> Investment Trust Funds </h2> <p> Investment trust funds generally report the <strong>external portion of investment pools</strong> administered by a sponsoring government. </p> <div class=\"example-box\"> <strong> Example </strong> <p> A county manages an investment pool containing its own money as well as money belonging to legally separate local governments. </p> <p> The qualifying external portion may be reported in an investment trust fund. </p> </div> <h2> Private-Purpose Trust Funds </h2> <p> Private-purpose trust funds account for certain fiduciary activities held in trust for the benefit of specific individuals, private organizations, or other governments. </p> <div class=\"key-points\"> <p> The beneficiaries are not the government's own programs or the public generally. </p> </div> <h2> Custodial Funds </h2> <p> Custodial funds account for qualifying fiduciary activities that are not required to be reported in one of the three trust fund categories. </p> <div class=\"example-box\"> <strong> Example </strong> <p> A government collects certain amounts on behalf of another government and later remits those resources to that government. </p> </div> <h2> Fiduciary Funds and Government-Wide Statements </h2> <p> This is an important CPA distinction: </p> <div class=\"formula-box\"> FIDUCIARY ACTIVITIES ARE GENERALLY EXCLUDED FROM GOVERNMENT-WIDE FINANCIAL STATEMENTS </div> <p> Why? </p> <p> Because fiduciary resources generally cannot be used to support the government's own programs and activities. </p> <h2> Basis of Accounting </h2> <p> Fiduciary funds use the <strong>economic resources measurement focus</strong> and the <strong>accrual basis of accounting</strong>. </p> <div class=\"financial-example\"> <div> <span> Governmental Funds </span> <strong> Modified Accrual </strong> </div> <div> <span> Proprietary Funds </span> <strong> Accrual </strong> </div> <div> <span> Fiduciary Funds </span> <strong> Accrual </strong> </div> </div> <h2> Fiduciary Financial Statements </h2> <p> Fiduciary funds generally report: </p> <div class=\"key-points\"> <ul> <li> Statement of Fiduciary Net Position </li> <li> Statement of Changes in Fiduciary Net Position </li> </ul> </div> <h2> Don't Confuse Permanent and Private-Purpose Trust Funds </h2> <p> This distinction is especially useful for FAR. </p> <div class=\"financial-example\"> <div> <span> Permanent Fund </span> <strong> Benefits Government or Its Citizenry </strong> </div> <div> <span> Private-Purpose Trust Fund </span> <strong> Benefits Specific Outside Individuals or Organizations </strong> </div> </div> <div class=\"formula-box\"> BENEFITS GOVERNMENT / CITIZENS → PERMANENT FUND BENEFITS SPECIFIC OUTSIDERS → PRIVATE-PURPOSE TRUST </div> <h2> CPA Memory Rule </h2> <div class=\"key-points\"> <ul> <li> Fiduciary = government holds resources for others. </li> <li> Fiduciary funds use accrual accounting. </li> <li> They use the economic resources measurement focus. </li> <li> Fiduciary activities are generally excluded from government-wide statements. </li> <li> Remember the four types: pension/employee benefit trust, investment trust, private-purpose trust, and custodial. </li> </ul> </div> <h2> Key Takeaway </h2> <p> When a CPA question says the government is holding or administering resources <strong>for someone else</strong>, consider whether fiduciary fund reporting applies. </p>",
+  "objectives": [
+    "Explain proprietary and fiduciary funds.",
+    "Apply measurement-focus and basis-of-accounting differences.",
+    "Prepare and reconcile appropriate governmental reporting amounts."
+  ],
+  "quiz": {
+    "id": "bar-m3-l3-q1",
+    "courseId": "bar",
+    "moduleId": 3,
+    "lessonId": "bar-m3-l3",
+    "topic": "Proprietary and Fiduciary Funds",
+    "prompt": "A city-owned water utility primarily provides services to residents for a fee. Which fund is generally appropriate?",
+    "choices": [
+      {
+        "id": "bar-m3-l3-q1-a0",
+        "text": "Enterprise Fund"
+      },
+      {
+        "id": "bar-m3-l3-q1-a1",
+        "text": "Internal Service Fund"
+      },
+      {
+        "id": "bar-m3-l3-q1-a2",
+        "text": "Special Revenue Fund"
+      },
+      {
+        "id": "bar-m3-l3-q1-a3",
+        "text": "General Fund"
+      }
+    ],
+    "correctChoiceId": "bar-m3-l3-q1-a0",
+    "explanation": "Enterprise funds generally report activities that provide goods or services primarily to external users for a fee.",
+    "difficulty": "foundation",
+    "metadata": {
+      "section": "bar",
+      "blueprintYear": 2026,
+      "areaId": "bar-III",
+      "groupId": "A-B-C",
+      "topicId": "bar-government-proprietary-fiduciary",
+      "taskIds": [
+        "bar-government-proprietary-fiduciary.task-1"
+      ],
+      "skill": "remembering",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        },
+        {
+          "title": "FASB accounting standards",
+          "url": "https://asc.fasb.org/"
+        },
+        {
+          "title": "GASB standards",
+          "url": "https://www.gasb.org/standards-and-implementation"
+        }
+      ]
+    }
+  },
+  "relatedSimulation": "bar-m3-tbs3"
+}

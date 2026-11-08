@@ -1,0 +1,88 @@
+{
+  "id": "far-m3-l3",
+  "courseId": "far",
+  "moduleId": 3,
+  "number": 3,
+  "title": "Revenue Recognition",
+  "description": "Apply the revenue recognition model to contracts, performance obligations, and transaction prices.",
+  "url": "/learn/far/modules/3/lessons/3",
+  "html": "<h2> Revenue Recognition </h2> <p> Revenue from contracts with customers is generally recognized using the five-step model in ASC Topic 606. </p> <div class=\"key-points\"> <strong> Core Principle: </strong> <p> Recognize revenue to depict the transfer of promised goods or services to customers in an amount that reflects the consideration the entity expects to receive. </p> </div> <h3> The Five-Step Revenue Model </h3> <div class=\"financial-example\"> <div> <span>Step 1</span> <strong>Identify the Contract</strong> </div> <div> <span>Step 2</span> <strong>Identify Performance Obligations</strong> </div> <div> <span>Step 3</span> <strong>Determine the Transaction Price</strong> </div> <div> <span>Step 4</span> <strong>Allocate the Transaction Price</strong> </div> <div> <span>Step 5</span> <strong>Recognize Revenue</strong> </div> </div> <h3> 1. Identify the Contract </h3> <p> A contract creates enforceable rights and obligations between the entity and the customer. </p> <p> Among other criteria, the parties must approve the arrangement, their rights and payment terms must be identifiable, the arrangement must have commercial substance, and collection must be probable. </p> <h3> 2. Identify Performance Obligations </h3> <p> A performance obligation is generally a promise to transfer a distinct good or service to the customer. </p> <p> A promised good or service is distinct when the customer can benefit from it on its own or with other readily available resources and the promise is separately identifiable within the contract. </p> <div class=\"example-box\"> <strong> Example </strong> <p> A company sells equipment together with a separately identifiable one-year maintenance service. </p> <p> If both are distinct, the equipment and the maintenance service are separate performance obligations. </p> </div> <h3> 3. Determine the Transaction Price </h3> <p> The transaction price is the amount of consideration the entity expects to be entitled to in exchange for transferring the promised goods or services. </p> <p> Consideration may include: </p> <ul> <li>Fixed amounts</li> <li>Variable consideration</li> <li>Noncash consideration</li> <li>Other adjustments required by the guidance</li> </ul> <h3> Variable Consideration </h3> <p> Variable consideration may result from bonuses, discounts, rebates, refunds, penalties, or similar items. </p> <div class=\"key-points\"> <p> Variable consideration is included in the transaction price only to the extent that it is probable that a significant reversal of cumulative revenue will not occur when the uncertainty is later resolved. </p> </div> <h3> 4. Allocate the Transaction Price </h3> <p> If a contract contains multiple performance obligations, the transaction price is generally allocated based on relative standalone selling prices. </p> <div class=\"example-box\"> <strong> Example </strong> <p> A company sells Product A and Service B together for $900. </p> <p> Their standalone selling prices are: </p> <div class=\"formula-box\"> Product A = $800 Service B = $200 Total Standalone Selling Prices = $1,000 </div> <p> Product A receives 80% of the transaction price: </p> <div class=\"formula-box\"> $900 × 80% = $720 </div> <p> Service B receives 20%: </p> <div class=\"formula-box\"> $900 × 20% = $180 </div> </div> <h3> 5. Recognize Revenue </h3> <p> Revenue is recognized when or as a performance obligation is satisfied through transfer of control of the promised good or service to the customer. </p> <h3> Point in Time vs. Over Time </h3> <p> Some performance obligations are satisfied at a specific point in time, while others are satisfied over time. </p> <div class=\"key-points\"> <strong> Over-Time Recognition: </strong> <p> A performance obligation is satisfied over time if one of the applicable criteria is met. </p> <ul> <li> The customer simultaneously receives and consumes the benefits as the entity performs. </li> <li> The entity's performance creates or enhances an asset that the customer controls as the asset is created or enhanced. </li> <li> The entity's performance creates an asset with no alternative use to the entity, and the entity has an enforceable right to payment for performance completed to date. </li> </ul> </div> <div class=\"financial-example\"> <div> <span> Typical Product Sale </span> <strong> Often Point in Time </strong> </div> <div> <span> Qualifying Service Contract </span> <strong> May Be Over Time </strong> </div> </div> <p> When revenue is recognized over time, the entity recognizes revenue based on an appropriate measure of progress toward complete satisfaction of the performance obligation. </p> <h3> Contract Liability </h3> <p> If a customer pays before the company has transferred the promised goods or services, the company generally records a contract liability rather than revenue. </p> <div class=\"example-box\"> <strong> Example </strong> <p> A customer pays $12,000 in advance for a 12-month service contract. </p> <p> At the beginning, the company generally records a contract liability. </p> <p> If the service is provided evenly over the year, monthly revenue would be: </p> <div class=\"formula-box\"> $12,000 ÷ 12 = $1,000 Per Month </div> </div> <h3> Contract Asset </h3> <p> A contract asset may arise when an entity has transferred goods or services but its right to consideration is still conditional on something other than the passage of time. </p> <h3> CPA Exam Memory Rule </h3> <div class=\"formula-box\"> Contract ↓ Performance Obligations ↓ Transaction Price ↓ Allocate ↓ Recognize When / As Control Transfers </div> <div class=\"key-points\"> <h3> Key Takeaways </h3> <ul> <li> Revenue recognition under Topic 606 follows a five-step model. </li> <li> Distinct promised goods and services may be separate performance obligations. </li> <li> Transaction price may include fixed and variable consideration. </li> <li> Transaction price is generally allocated using relative standalone selling prices. </li> <li> Revenue is recognized when or as control transfers to the customer. </li> <li> Advance customer payments generally create a contract liability until the related performance obligation is satisfied. </li> </ul> </div>",
+  "quiz": {
+    "id": "far-m3-l3-check",
+    "courseId": "far",
+    "moduleId": 3,
+    "lessonId": "far-m3-l3",
+    "topic": "General review",
+    "prompt": "A company sells a product and a separate service for a combined transaction price of $900. The product has a standalone selling price of $800 and the service has a standalone selling price of $200. How much of the transaction price should generally be allocated to the product?",
+    "choices": [
+      {
+        "id": "far-m3-l3-check-a0",
+        "text": "$720"
+      },
+      {
+        "id": "far-m3-l3-check-a1",
+        "text": "$800"
+      },
+      {
+        "id": "far-m3-l3-check-a2",
+        "text": "$900"
+      },
+      {
+        "id": "far-m3-l3-check-a3",
+        "text": "$700"
+      }
+    ],
+    "correctChoiceId": "far-m3-l3-check-a0",
+    "explanation": "The total standalone selling price is $1,000. The product represents 80% of that total, so $900 × 80% = $720 is allocated to the product.",
+    "difficulty": "foundation",
+    "metadata": {
+      "section": "far",
+      "blueprintYear": 2026,
+      "areaId": "far-III",
+      "groupId": "module-3",
+      "topicId": "far-revenue-recognition",
+      "taskIds": [
+        "far-revenue-recognition.task-1",
+        "far-revenue-recognition.task-2",
+        "far-revenue-recognition.task-3"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "section": "far",
+    "blueprintYear": 2026,
+    "areaId": "far-III",
+    "groupId": "module-3",
+    "topicId": "far-revenue-recognition",
+    "taskIds": [
+      "far-revenue-recognition.task-1",
+      "far-revenue-recognition.task-2",
+      "far-revenue-recognition.task-3"
+    ],
+    "skill": "application",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      }
+    ]
+  },
+  "objectives": [
+    "Explain revenue recognition and its underlying principles.",
+    "Apply the topic to a financial-reporting scenario.",
+    "Evaluate common errors and their financial-statement effects."
+  ]
+}

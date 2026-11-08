@@ -1,0 +1,79 @@
+{
+  "id": "bar-m3-tbs2",
+  "courseId": "bar",
+  "moduleId": 3,
+  "number": 2,
+  "title": "BAR Module 4 · TBS 1",
+  "html": "<section class=\"exam-page\"> <div class=\"course-intro-card\"> <span class=\"exam-badge\"> TASK-BASED SIMULATION </span> <h2> Governmental Fund Analysis </h2> <p> Apply modified accrual accounting to revenue recognition, capital outlays, bond proceeds, and fund balance. </p> </div> <div class=\"quiz-card\"> <h2> Scenario </h2> <p> The City of Brookfield's General Fund reports the following information for the current year. </p> <div class=\"key-points\"> <ul> <li> Property taxes levied: <strong>$1,200,000</strong> </li> <li> Of the property taxes, <strong>$80,000</strong> does not satisfy the government's availability criterion. </li> <li> Operating expenditures: <strong>$760,000</strong> </li> <li> Equipment purchased during the year: <strong>$140,000</strong> </li> <li> Proceeds from issuance of general long-term bonds: <strong>$250,000</strong> </li> <li> Transfers out: <strong>$30,000</strong> </li> </ul> </div> <h2> Required </h2> <div class=\"financial-example\"> <div> <span> 1. Property Tax Revenue Recognized </span> <input type=\"number\" id=\"bar-m3-tbs2-f1\" placeholder=\"Enter amount\"> </div> <div> <span> 2. Capital Outlay Expenditure </span> <input type=\"number\" id=\"bar-m3-tbs2-f2\" placeholder=\"Enter amount\"> </div> <div> <span> 3. Other Financing Source From Bond Proceeds </span> <input type=\"number\" id=\"bar-m3-tbs2-f3\" placeholder=\"Enter amount\"> </div> <div> <span> 4. Increase in Fund Balance </span> <input type=\"number\" id=\"bar-m3-tbs2-f4\" placeholder=\"Enter amount\"> </div> </div> <div id=\"far-m4-tbs1-result\"></div> </div> </section>",
+  "metadata": {
+    "section": "bar",
+    "blueprintYear": 2026,
+    "areaId": "bar-III",
+    "groupId": "A-B-C",
+    "topicId": "bar-government-modified-accrual",
+    "taskIds": [
+      "bar-government-modified-accrual.task-1",
+      "bar-government-modified-accrual.task-2",
+      "bar-government-modified-accrual.task-3"
+    ],
+    "skill": "analysis",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      },
+      {
+        "title": "FASB accounting standards",
+        "url": "https://asc.fasb.org/"
+      },
+      {
+        "title": "GASB standards",
+        "url": "https://www.gasb.org/standards-and-implementation"
+      }
+    ]
+  },
+  "difficulty": "advanced",
+  "fields": [
+    {
+      "id": "bar-m3-tbs2-f1",
+      "label": "1. Property Tax Revenue Recognized",
+      "type": "number",
+      "options": [],
+      "correct": 1120000,
+      "explanation": "The correct response is 1120000. The worked solution explains the associated governmental accounting treatment.",
+      "topicId": "bar-government-modified-accrual"
+    },
+    {
+      "id": "bar-m3-tbs2-f2",
+      "label": "2. Capital Outlay Expenditure",
+      "type": "number",
+      "options": [],
+      "correct": 140000,
+      "explanation": "The correct response is 140000. The worked solution explains the associated governmental accounting treatment.",
+      "topicId": "bar-government-modified-accrual"
+    },
+    {
+      "id": "bar-m3-tbs2-f3",
+      "label": "3. Other Financing Source From Bond Proceeds",
+      "type": "number",
+      "options": [],
+      "correct": 250000,
+      "explanation": "The correct response is 250000. The worked solution explains the associated governmental accounting treatment.",
+      "topicId": "bar-government-modified-accrual"
+    },
+    {
+      "id": "bar-m3-tbs2-f4",
+      "label": "4. Increase in Fund Balance",
+      "type": "number",
+      "options": [],
+      "correct": 440000,
+      "explanation": "The correct response is 440000. The worked solution explains the associated governmental accounting treatment.",
+      "topicId": "bar-government-modified-accrual"
+    }
+  ],
+  "exhibits": [],
+  "explanation": "<div class=\"result-correct\"> <h3> Step 1 — Revenue Recognition </h3> <p> Governmental fund revenue generally must be measurable and available. </p> <div class=\"formula-box\"> Property Taxes Levied $1,200,000 − Unavailable Amount $80,000 = $1,120,000 Revenue </div> <h3> Step 2 — Capital Outlay </h3> <p> The equipment purchase is generally reported as an expenditure in the governmental fund. </p> <div class=\"formula-box\"> Capital Outlay Expenditure = $140,000 </div> <h3> Step 3 — Bond Proceeds </h3> <p> General long-term bond proceeds are not governmental fund revenue. </p> <div class=\"formula-box\"> Other Financing Source = $250,000 </div> <h3> Step 4 — Fund Balance Change </h3> <div class=\"formula-box\"> Revenue $1,120,000 − Operating Expenditures $760,000 − Capital Outlay $140,000 + Bond Proceeds $250,000 − Transfer Out $30,000 = $440,000 </div> <p> <strong> Increase in Fund Balance: $440,000 </strong> </p> <div class=\"key-points\"> <h3> CPA Takeaway </h3> <ul> <li> Modified accrual revenue generally requires measurable + available. </li> <li> Governmental fund capital purchases are generally expenditures. </li> <li> General long-term bond proceeds are other financing sources. </li> <li> Transfers out are generally other financing uses. </li> </ul> </div> </div>"
+}

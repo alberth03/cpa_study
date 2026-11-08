@@ -1,0 +1,1932 @@
+[
+  {
+    "id": "far-journal-1",
+    "topic": "Accrued Expenses",
+    "question": "At December 31, employees have earned $18,000 of salaries that have not yet been paid or recorded. Record the required adjusting entry.",
+    "availableAccounts": [
+      "Salaries Expense",
+      "Salaries Payable",
+      "Cash",
+      "Accounts Payable",
+      "Prepaid Salaries"
+    ],
+    "correctEntries": [
+      {
+        "account": "Salaries Expense",
+        "debit": 18000,
+        "credit": 0
+      },
+      {
+        "account": "Salaries Payable",
+        "debit": 0,
+        "credit": 18000
+      }
+    ],
+    "explanation": "The employees earned the salaries during the current period. Salaries Expense is debited and the unpaid obligation, Salaries Payable, is credited.",
+    "metadata": {
+      "section": "far",
+      "blueprintYear": 2026,
+      "areaId": "far-III",
+      "groupId": "transaction-entries",
+      "topicId": "far-journal-entries",
+      "taskIds": [
+        "far-journal-entries.task-1"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        }
+      ]
+    },
+    "revision": 1,
+    "sequence": 1
+  },
+  {
+    "id": "far-journal-2",
+    "topic": "Accrued Revenue",
+    "question": "A company performs $25,000 of consulting services before year-end but will not bill the customer until next month. Record the year-end adjusting entry.",
+    "availableAccounts": [
+      "Accounts Receivable",
+      "Service Revenue",
+      "Cash",
+      "Contract Liability",
+      "Accounts Payable"
+    ],
+    "correctEntries": [
+      {
+        "account": "Accounts Receivable",
+        "debit": 25000,
+        "credit": 0
+      },
+      {
+        "account": "Service Revenue",
+        "debit": 0,
+        "credit": 25000
+      }
+    ],
+    "explanation": "The revenue has been earned even though billing and collection occur later. Accounts Receivable increases with a debit and Service Revenue increases with a credit.",
+    "metadata": {
+      "section": "far",
+      "blueprintYear": 2026,
+      "areaId": "far-III",
+      "groupId": "transaction-entries",
+      "topicId": "far-journal-entries",
+      "taskIds": [
+        "far-journal-entries.task-1"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        }
+      ]
+    },
+    "revision": 1,
+    "sequence": 2
+  },
+  {
+    "id": "far-journal-3",
+    "topic": "Contract Liabilities",
+    "question": "A company previously received cash in advance and recorded a contract liability. By year-end, $12,000 of the related services have been provided. Record the adjusting entry.",
+    "availableAccounts": [
+      "Contract Liability",
+      "Service Revenue",
+      "Cash",
+      "Accounts Receivable",
+      "Service Expense"
+    ],
+    "correctEntries": [
+      {
+        "account": "Contract Liability",
+        "debit": 12000,
+        "credit": 0
+      },
+      {
+        "account": "Service Revenue",
+        "debit": 0,
+        "credit": 12000
+      }
+    ],
+    "explanation": "Once the related performance obligation is satisfied, the liability is reduced and revenue is recognized.",
+    "metadata": {
+      "section": "far",
+      "blueprintYear": 2026,
+      "areaId": "far-III",
+      "groupId": "transaction-entries",
+      "topicId": "far-journal-entries",
+      "taskIds": [
+        "far-journal-entries.task-1"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        }
+      ]
+    },
+    "revision": 1,
+    "sequence": 3
+  },
+  {
+    "id": "far-journal-4",
+    "topic": "Prepaid Expenses",
+    "question": "A company's Prepaid Insurance account has a balance of $24,000 before adjustment. At year-end, $9,000 of the insurance coverage has expired. Record the adjusting entry.",
+    "availableAccounts": [
+      "Insurance Expense",
+      "Prepaid Insurance",
+      "Cash",
+      "Insurance Payable",
+      "Accumulated Insurance"
+    ],
+    "correctEntries": [
+      {
+        "account": "Insurance Expense",
+        "debit": 9000,
+        "credit": 0
+      },
+      {
+        "account": "Prepaid Insurance",
+        "debit": 0,
+        "credit": 9000
+      }
+    ],
+    "explanation": "The expired portion is no longer an asset. Insurance Expense increases by $9,000 and Prepaid Insurance decreases by $9,000.",
+    "metadata": {
+      "section": "far",
+      "blueprintYear": 2026,
+      "areaId": "far-III",
+      "groupId": "transaction-entries",
+      "topicId": "far-journal-entries",
+      "taskIds": [
+        "far-journal-entries.task-1"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        }
+      ]
+    },
+    "revision": 1,
+    "sequence": 4
+  },
+  {
+    "id": "far-journal-5",
+    "topic": "Depreciation",
+    "question": "A company determines that depreciation expense for equipment for the current year is $30,000. Record the adjusting entry.",
+    "availableAccounts": [
+      "Depreciation Expense",
+      "Accumulated Depreciation — Equipment",
+      "Equipment",
+      "Cash",
+      "Repairs Expense"
+    ],
+    "correctEntries": [
+      {
+        "account": "Depreciation Expense",
+        "debit": 30000,
+        "credit": 0
+      },
+      {
+        "account": "Accumulated Depreciation — Equipment",
+        "debit": 0,
+        "credit": 30000
+      }
+    ],
+    "explanation": "Depreciation Expense is debited. Accumulated Depreciation, a contra-asset account, is credited rather than directly reducing Equipment.",
+    "metadata": {
+      "section": "far",
+      "blueprintYear": 2026,
+      "areaId": "far-III",
+      "groupId": "transaction-entries",
+      "topicId": "far-journal-entries",
+      "taskIds": [
+        "far-journal-entries.task-1"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        }
+      ]
+    },
+    "revision": 1,
+    "sequence": 5
+  },
+  {
+    "id": "far-journal-6",
+    "topic": "Credit Losses",
+    "question": "At year-end, a company determines that its Allowance for Credit Losses must be increased by $14,000. Record the required adjustment.",
+    "availableAccounts": [
+      "Credit Loss Expense",
+      "Allowance for Credit Losses",
+      "Accounts Receivable",
+      "Cash",
+      "Bad Debt Payable"
+    ],
+    "correctEntries": [
+      {
+        "account": "Credit Loss Expense",
+        "debit": 14000,
+        "credit": 0
+      },
+      {
+        "account": "Allowance for Credit Losses",
+        "debit": 0,
+        "credit": 14000
+      }
+    ],
+    "explanation": "The required increase in the allowance is recognized with a debit to Credit Loss Expense and a credit to Allowance for Credit Losses.",
+    "metadata": {
+      "section": "far",
+      "blueprintYear": 2026,
+      "areaId": "far-III",
+      "groupId": "transaction-entries",
+      "topicId": "far-journal-entries",
+      "taskIds": [
+        "far-journal-entries.task-1"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        }
+      ]
+    },
+    "revision": 1,
+    "sequence": 6
+  },
+  {
+    "id": "far-journal-7",
+    "topic": "Accounts Receivable",
+    "question": "A specific $8,000 customer balance is determined to be uncollectible and is written off using the allowance method. Record the write-off.",
+    "availableAccounts": [
+      "Allowance for Credit Losses",
+      "Accounts Receivable",
+      "Credit Loss Expense",
+      "Cash",
+      "Sales Revenue"
+    ],
+    "correctEntries": [
+      {
+        "account": "Allowance for Credit Losses",
+        "debit": 8000,
+        "credit": 0
+      },
+      {
+        "account": "Accounts Receivable",
+        "debit": 0,
+        "credit": 8000
+      }
+    ],
+    "explanation": "Under the allowance method, the expense was recognized when the allowance was estimated. The write-off therefore debits the allowance and credits Accounts Receivable.",
+    "metadata": {
+      "section": "far",
+      "blueprintYear": 2026,
+      "areaId": "far-III",
+      "groupId": "transaction-entries",
+      "topicId": "far-journal-entries",
+      "taskIds": [
+        "far-journal-entries.task-1"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        }
+      ]
+    },
+    "revision": 1,
+    "sequence": 7
+  },
+  {
+    "id": "far-journal-8",
+    "topic": "Accounts Receivable",
+    "question": "A customer pays $32,000 on an outstanding accounts receivable balance. Record the collection.",
+    "availableAccounts": [
+      "Cash",
+      "Accounts Receivable",
+      "Sales Revenue",
+      "Allowance for Credit Losses",
+      "Service Revenue"
+    ],
+    "correctEntries": [
+      {
+        "account": "Cash",
+        "debit": 32000,
+        "credit": 0
+      },
+      {
+        "account": "Accounts Receivable",
+        "debit": 0,
+        "credit": 32000
+      }
+    ],
+    "explanation": "Cash increases and Accounts Receivable decreases. Revenue is not recognized again because it was recognized when earned.",
+    "metadata": {
+      "section": "far",
+      "blueprintYear": 2026,
+      "areaId": "far-III",
+      "groupId": "transaction-entries",
+      "topicId": "far-journal-entries",
+      "taskIds": [
+        "far-journal-entries.task-1"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        }
+      ]
+    },
+    "revision": 1,
+    "sequence": 8
+  },
+  {
+    "id": "far-journal-9",
+    "topic": "Inventory",
+    "question": "A company using a perpetual inventory system purchases $45,000 of inventory on account. Record the purchase.",
+    "availableAccounts": [
+      "Inventory",
+      "Accounts Payable",
+      "Purchases",
+      "Cash",
+      "Cost of Goods Sold"
+    ],
+    "correctEntries": [
+      {
+        "account": "Inventory",
+        "debit": 45000,
+        "credit": 0
+      },
+      {
+        "account": "Accounts Payable",
+        "debit": 0,
+        "credit": 45000
+      }
+    ],
+    "explanation": "Under a perpetual inventory system, inventory purchases are recorded directly in the Inventory account. The unpaid amount creates Accounts Payable.",
+    "metadata": {
+      "section": "far",
+      "blueprintYear": 2026,
+      "areaId": "far-III",
+      "groupId": "transaction-entries",
+      "topicId": "far-journal-entries",
+      "taskIds": [
+        "far-journal-entries.task-1"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        }
+      ]
+    },
+    "revision": 1,
+    "sequence": 9
+  },
+  {
+    "id": "far-journal-10",
+    "topic": "Inventory & Revenue",
+    "question": "A company using a perpetual inventory system sells inventory for $100,000 cash. The inventory had a cost of $60,000. Record all parts of the sale.",
+    "availableAccounts": [
+      "Cash",
+      "Sales Revenue",
+      "Cost of Goods Sold",
+      "Inventory",
+      "Accounts Receivable"
+    ],
+    "correctEntries": [
+      {
+        "account": "Cash",
+        "debit": 100000,
+        "credit": 0
+      },
+      {
+        "account": "Sales Revenue",
+        "debit": 0,
+        "credit": 100000
+      },
+      {
+        "account": "Cost of Goods Sold",
+        "debit": 60000,
+        "credit": 0
+      },
+      {
+        "account": "Inventory",
+        "debit": 0,
+        "credit": 60000
+      }
+    ],
+    "explanation": "A perpetual-system sale requires two effects: recognize the $100,000 sale and remove the $60,000 cost of the inventory sold.",
+    "metadata": {
+      "section": "far",
+      "blueprintYear": 2026,
+      "areaId": "far-III",
+      "groupId": "transaction-entries",
+      "topicId": "far-journal-entries",
+      "taskIds": [
+        "far-journal-entries.task-1"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        }
+      ]
+    },
+    "revision": 1,
+    "sequence": 10
+  },
+  {
+    "id": "far-journal-11",
+    "topic": "PP&E",
+    "question": "A company purchases equipment for $90,000 cash and pays $6,000 cash for installation necessary to place the asset into service. Record the acquisition.",
+    "availableAccounts": [
+      "Equipment",
+      "Cash",
+      "Installation Expense",
+      "Repairs Expense",
+      "Accumulated Depreciation — Equipment"
+    ],
+    "correctEntries": [
+      {
+        "account": "Equipment",
+        "debit": 96000,
+        "credit": 0
+      },
+      {
+        "account": "Cash",
+        "debit": 0,
+        "credit": 96000
+      }
+    ],
+    "explanation": "Costs necessary to place the equipment into the condition and location required for its intended use are included in the asset's initial cost.",
+    "metadata": {
+      "section": "far",
+      "blueprintYear": 2026,
+      "areaId": "far-III",
+      "groupId": "transaction-entries",
+      "topicId": "far-journal-entries",
+      "taskIds": [
+        "far-journal-entries.task-1"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        }
+      ]
+    },
+    "revision": 1,
+    "sequence": 11
+  },
+  {
+    "id": "far-journal-12",
+    "topic": "PP&E Disposal",
+    "question": "Equipment originally costing $120,000 has accumulated depreciation of $75,000. It is sold for $52,000 cash. Record the disposal.",
+    "availableAccounts": [
+      "Cash",
+      "Accumulated Depreciation — Equipment",
+      "Equipment",
+      "Gain on Sale of Equipment",
+      "Loss on Sale of Equipment"
+    ],
+    "correctEntries": [
+      {
+        "account": "Cash",
+        "debit": 52000,
+        "credit": 0
+      },
+      {
+        "account": "Accumulated Depreciation — Equipment",
+        "debit": 75000,
+        "credit": 0
+      },
+      {
+        "account": "Equipment",
+        "debit": 0,
+        "credit": 120000
+      },
+      {
+        "account": "Gain on Sale of Equipment",
+        "debit": 0,
+        "credit": 7000
+      }
+    ],
+    "explanation": "The carrying amount is $120,000 − $75,000 = $45,000. Cash received is $52,000, producing a $7,000 gain.",
+    "metadata": {
+      "section": "far",
+      "blueprintYear": 2026,
+      "areaId": "far-III",
+      "groupId": "transaction-entries",
+      "topicId": "far-journal-entries",
+      "taskIds": [
+        "far-journal-entries.task-1"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        }
+      ]
+    },
+    "revision": 1,
+    "sequence": 12
+  },
+  {
+    "id": "far-journal-13",
+    "topic": "Intangible Assets",
+    "question": "A finite-lived patent requires $16,000 of amortization for the current year. Record the amortization.",
+    "availableAccounts": [
+      "Amortization Expense",
+      "Accumulated Amortization — Patent",
+      "Patent",
+      "Cash",
+      "Research Expense"
+    ],
+    "correctEntries": [
+      {
+        "account": "Amortization Expense",
+        "debit": 16000,
+        "credit": 0
+      },
+      {
+        "account": "Accumulated Amortization — Patent",
+        "debit": 0,
+        "credit": 16000
+      }
+    ],
+    "explanation": "The cost of a finite-lived intangible asset is allocated over its useful life. Amortization Expense is debited and accumulated amortization is credited.",
+    "metadata": {
+      "section": "far",
+      "blueprintYear": 2026,
+      "areaId": "far-III",
+      "groupId": "transaction-entries",
+      "topicId": "far-journal-entries",
+      "taskIds": [
+        "far-journal-entries.task-1"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        }
+      ]
+    },
+    "revision": 1,
+    "sequence": 13
+  },
+  {
+    "id": "far-journal-14",
+    "topic": "Long-Lived Asset Impairment",
+    "question": "A long-lived asset held and used has a carrying amount of $500,000. It fails the recoverability test and has a fair value of $390,000. Record the impairment loss.",
+    "availableAccounts": [
+      "Impairment Loss",
+      "Accumulated Impairment",
+      "Cash",
+      "Gain on Impairment",
+      "Depreciation Expense"
+    ],
+    "correctEntries": [
+      {
+        "account": "Impairment Loss",
+        "debit": 110000,
+        "credit": 0
+      },
+      {
+        "account": "Accumulated Impairment",
+        "debit": 0,
+        "credit": 110000
+      }
+    ],
+    "explanation": "After the asset fails the recoverability test, the impairment loss is measured as carrying amount less fair value: $500,000 − $390,000 = $110,000.",
+    "metadata": {
+      "section": "far",
+      "blueprintYear": 2026,
+      "areaId": "far-III",
+      "groupId": "transaction-entries",
+      "topicId": "far-journal-entries",
+      "taskIds": [
+        "far-journal-entries.task-1"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        }
+      ]
+    },
+    "revision": 1,
+    "sequence": 14
+  },
+  {
+    "id": "far-journal-15",
+    "topic": "Bonds Payable",
+    "question": "A company issues $500,000 face amount of bonds for $470,000 cash. Record the issuance using a Discount on Bonds Payable account.",
+    "availableAccounts": [
+      "Cash",
+      "Discount on Bonds Payable",
+      "Bonds Payable",
+      "Interest Expense",
+      "Premium on Bonds Payable"
+    ],
+    "correctEntries": [
+      {
+        "account": "Cash",
+        "debit": 470000,
+        "credit": 0
+      },
+      {
+        "account": "Discount on Bonds Payable",
+        "debit": 30000,
+        "credit": 0
+      },
+      {
+        "account": "Bonds Payable",
+        "debit": 0,
+        "credit": 500000
+      }
+    ],
+    "explanation": "The company receives $470,000 cash but must repay $500,000 face value. The $30,000 difference is recorded as a bond discount.",
+    "metadata": {
+      "section": "far",
+      "blueprintYear": 2026,
+      "areaId": "far-III",
+      "groupId": "transaction-entries",
+      "topicId": "far-journal-entries",
+      "taskIds": [
+        "far-journal-entries.task-1"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        }
+      ]
+    },
+    "revision": 1,
+    "sequence": 15
+  },
+  {
+    "id": "far-journal-16",
+    "topic": "Bond Interest",
+    "question": "A $500,000 bond has a 6% stated rate, a beginning carrying amount of $470,000, and an 8% effective rate. Record one year's interest using the effective-interest method.",
+    "availableAccounts": [
+      "Interest Expense",
+      "Discount on Bonds Payable",
+      "Cash",
+      "Bonds Payable",
+      "Premium on Bonds Payable"
+    ],
+    "correctEntries": [
+      {
+        "account": "Interest Expense",
+        "debit": 37600,
+        "credit": 0
+      },
+      {
+        "account": "Discount on Bonds Payable",
+        "debit": 0,
+        "credit": 7600
+      },
+      {
+        "account": "Cash",
+        "debit": 0,
+        "credit": 30000
+      }
+    ],
+    "explanation": "Cash interest is $500,000 × 6% = $30,000. Interest expense is $470,000 × 8% = $37,600. The $7,600 difference amortizes the discount.",
+    "metadata": {
+      "section": "far",
+      "blueprintYear": 2026,
+      "areaId": "far-III",
+      "groupId": "transaction-entries",
+      "topicId": "far-journal-entries",
+      "taskIds": [
+        "far-journal-entries.task-1"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        }
+      ]
+    },
+    "revision": 1,
+    "sequence": 16
+  },
+  {
+    "id": "far-journal-17",
+    "topic": "Bonds Payable",
+    "question": "A company issues $500,000 face amount of bonds for $520,000 cash. Record the issuance using a Premium on Bonds Payable account.",
+    "availableAccounts": [
+      "Cash",
+      "Bonds Payable",
+      "Premium on Bonds Payable",
+      "Discount on Bonds Payable",
+      "Interest Expense"
+    ],
+    "correctEntries": [
+      {
+        "account": "Cash",
+        "debit": 520000,
+        "credit": 0
+      },
+      {
+        "account": "Bonds Payable",
+        "debit": 0,
+        "credit": 500000
+      },
+      {
+        "account": "Premium on Bonds Payable",
+        "debit": 0,
+        "credit": 20000
+      }
+    ],
+    "explanation": "Cash exceeds the bond's face amount by $20,000, creating a bond premium.",
+    "metadata": {
+      "section": "far",
+      "blueprintYear": 2026,
+      "areaId": "far-III",
+      "groupId": "transaction-entries",
+      "topicId": "far-journal-entries",
+      "taskIds": [
+        "far-journal-entries.task-1"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        }
+      ]
+    },
+    "revision": 1,
+    "sequence": 17
+  },
+  {
+    "id": "far-journal-18",
+    "topic": "Bond Interest",
+    "question": "A $500,000 bond has a 6% stated rate, a beginning carrying amount of $520,000, and a 5% effective rate. Record one year's interest using the effective-interest method.",
+    "availableAccounts": [
+      "Interest Expense",
+      "Premium on Bonds Payable",
+      "Cash",
+      "Discount on Bonds Payable",
+      "Bonds Payable"
+    ],
+    "correctEntries": [
+      {
+        "account": "Interest Expense",
+        "debit": 26000,
+        "credit": 0
+      },
+      {
+        "account": "Premium on Bonds Payable",
+        "debit": 4000,
+        "credit": 0
+      },
+      {
+        "account": "Cash",
+        "debit": 0,
+        "credit": 30000
+      }
+    ],
+    "explanation": "Interest expense is $520,000 × 5% = $26,000. Cash interest is $500,000 × 6% = $30,000. The $4,000 difference reduces the bond premium.",
+    "metadata": {
+      "section": "far",
+      "blueprintYear": 2026,
+      "areaId": "far-III",
+      "groupId": "transaction-entries",
+      "topicId": "far-journal-entries",
+      "taskIds": [
+        "far-journal-entries.task-1"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        }
+      ]
+    },
+    "revision": 1,
+    "sequence": 18
+  },
+  {
+    "id": "far-journal-19",
+    "topic": "Contingencies",
+    "question": "A company determines that a litigation loss of $60,000 is probable and reasonably estimable. Record the required accrual.",
+    "availableAccounts": [
+      "Litigation Loss",
+      "Litigation Liability",
+      "Cash",
+      "Retained Earnings",
+      "Legal Revenue"
+    ],
+    "correctEntries": [
+      {
+        "account": "Litigation Loss",
+        "debit": 60000,
+        "credit": 0
+      },
+      {
+        "account": "Litigation Liability",
+        "debit": 0,
+        "credit": 60000
+      }
+    ],
+    "explanation": "A probable and reasonably estimable loss contingency is accrued as a loss and liability.",
+    "metadata": {
+      "section": "far",
+      "blueprintYear": 2026,
+      "areaId": "far-III",
+      "groupId": "transaction-entries",
+      "topicId": "far-journal-entries",
+      "taskIds": [
+        "far-journal-entries.task-1"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        }
+      ]
+    },
+    "revision": 1,
+    "sequence": 19
+  },
+  {
+    "id": "far-journal-20",
+    "topic": "Debt Extinguishment",
+    "question": "A company extinguishes a note payable with a carrying amount of $820,000 by paying $790,000 cash. Record the extinguishment.",
+    "availableAccounts": [
+      "Notes Payable",
+      "Cash",
+      "Gain on Debt Extinguishment",
+      "Loss on Debt Extinguishment",
+      "Interest Expense"
+    ],
+    "correctEntries": [
+      {
+        "account": "Notes Payable",
+        "debit": 820000,
+        "credit": 0
+      },
+      {
+        "account": "Cash",
+        "debit": 0,
+        "credit": 790000
+      },
+      {
+        "account": "Gain on Debt Extinguishment",
+        "debit": 0,
+        "credit": 30000
+      }
+    ],
+    "explanation": "The $820,000 liability is removed for only $790,000 cash, producing a $30,000 gain.",
+    "metadata": {
+      "section": "far",
+      "blueprintYear": 2026,
+      "areaId": "far-III",
+      "groupId": "transaction-entries",
+      "topicId": "far-journal-entries",
+      "taskIds": [
+        "far-journal-entries.task-1"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        }
+      ]
+    },
+    "revision": 1,
+    "sequence": 20
+  },
+  {
+    "id": "far-journal-21",
+    "topic": "Stockholders' Equity",
+    "question": "A corporation issues 10,000 shares of $5 par common stock for $12 per share cash. Record the issuance.",
+    "availableAccounts": [
+      "Cash",
+      "Common Stock",
+      "Additional Paid-in Capital",
+      "Retained Earnings",
+      "Treasury Stock"
+    ],
+    "correctEntries": [
+      {
+        "account": "Cash",
+        "debit": 120000,
+        "credit": 0
+      },
+      {
+        "account": "Common Stock",
+        "debit": 0,
+        "credit": 50000
+      },
+      {
+        "account": "Additional Paid-in Capital",
+        "debit": 0,
+        "credit": 70000
+      }
+    ],
+    "explanation": "Cash received is $120,000. Common Stock is credited for $50,000 par value, and the remaining $70,000 is Additional Paid-in Capital.",
+    "metadata": {
+      "section": "far",
+      "blueprintYear": 2026,
+      "areaId": "far-III",
+      "groupId": "transaction-entries",
+      "topicId": "far-journal-entries",
+      "taskIds": [
+        "far-journal-entries.task-1"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        }
+      ]
+    },
+    "revision": 1,
+    "sequence": 21
+  },
+  {
+    "id": "far-journal-22",
+    "topic": "Treasury Stock",
+    "question": "A corporation reacquires 4,000 shares of its own stock for $20 per share. The company uses the cost method. Record the purchase.",
+    "availableAccounts": [
+      "Treasury Stock",
+      "Cash",
+      "Common Stock",
+      "Retained Earnings",
+      "Additional Paid-in Capital"
+    ],
+    "correctEntries": [
+      {
+        "account": "Treasury Stock",
+        "debit": 80000,
+        "credit": 0
+      },
+      {
+        "account": "Cash",
+        "debit": 0,
+        "credit": 80000
+      }
+    ],
+    "explanation": "Under the cost method, treasury shares are recorded at acquisition cost. Treasury Stock is a contra-equity account.",
+    "metadata": {
+      "section": "far",
+      "blueprintYear": 2026,
+      "areaId": "far-III",
+      "groupId": "transaction-entries",
+      "topicId": "far-journal-entries",
+      "taskIds": [
+        "far-journal-entries.task-1"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        }
+      ]
+    },
+    "revision": 1,
+    "sequence": 22
+  },
+  {
+    "id": "far-journal-23",
+    "topic": "Cash Dividends",
+    "question": "A corporation declares a $50,000 cash dividend. Record the declaration.",
+    "availableAccounts": [
+      "Retained Earnings",
+      "Dividends Payable",
+      "Cash",
+      "Dividend Expense",
+      "Common Stock"
+    ],
+    "correctEntries": [
+      {
+        "account": "Retained Earnings",
+        "debit": 50000,
+        "credit": 0
+      },
+      {
+        "account": "Dividends Payable",
+        "debit": 0,
+        "credit": 50000
+      }
+    ],
+    "explanation": "Declaration of a cash dividend reduces retained earnings and creates a liability. It is not an expense.",
+    "metadata": {
+      "section": "far",
+      "blueprintYear": 2026,
+      "areaId": "far-III",
+      "groupId": "transaction-entries",
+      "topicId": "far-journal-entries",
+      "taskIds": [
+        "far-journal-entries.task-1"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        }
+      ]
+    },
+    "revision": 1,
+    "sequence": 23
+  },
+  {
+    "id": "far-journal-24",
+    "topic": "Cash Dividends",
+    "question": "A corporation pays a previously declared $50,000 cash dividend. Record the payment.",
+    "availableAccounts": [
+      "Dividends Payable",
+      "Cash",
+      "Retained Earnings",
+      "Dividend Expense",
+      "Common Stock"
+    ],
+    "correctEntries": [
+      {
+        "account": "Dividends Payable",
+        "debit": 50000,
+        "credit": 0
+      },
+      {
+        "account": "Cash",
+        "debit": 0,
+        "credit": 50000
+      }
+    ],
+    "explanation": "The dividend liability was recognized when the dividend was declared. Payment removes the liability and reduces cash.",
+    "metadata": {
+      "section": "far",
+      "blueprintYear": 2026,
+      "areaId": "far-III",
+      "groupId": "transaction-entries",
+      "topicId": "far-journal-entries",
+      "taskIds": [
+        "far-journal-entries.task-1"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        }
+      ]
+    },
+    "revision": 1,
+    "sequence": 24
+  },
+  {
+    "id": "far-journal-25",
+    "topic": "Equity Method Investments",
+    "question": "An investor appropriately using the equity method owns 30% of an investee. The investee reports $100,000 of net income. Ignoring other adjustments, record the investor's share of the income.",
+    "availableAccounts": [
+      "Investment in Investee",
+      "Equity in Earnings of Investee",
+      "Dividend Revenue",
+      "Cash",
+      "Unrealized Holding Gain"
+    ],
+    "correctEntries": [
+      {
+        "account": "Investment in Investee",
+        "debit": 30000,
+        "credit": 0
+      },
+      {
+        "account": "Equity in Earnings of Investee",
+        "debit": 0,
+        "credit": 30000
+      }
+    ],
+    "explanation": "The investor recognizes 30% of the investee's $100,000 income, or $30,000, and increases the carrying amount of the investment.",
+    "metadata": {
+      "section": "far",
+      "blueprintYear": 2026,
+      "areaId": "far-III",
+      "groupId": "transaction-entries",
+      "topicId": "far-journal-entries",
+      "taskIds": [
+        "far-journal-entries.task-1"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        }
+      ]
+    },
+    "revision": 1,
+    "sequence": 25
+  },
+  {
+    "id": "far-journal-26",
+    "topic": "Equity Method Investments",
+    "question": "An investor appropriately using the equity method owns 30% of an investee. The investee pays total cash dividends of $20,000. Record the investor's receipt of its share.",
+    "availableAccounts": [
+      "Cash",
+      "Investment in Investee",
+      "Dividend Revenue",
+      "Equity in Earnings of Investee",
+      "Interest Revenue"
+    ],
+    "correctEntries": [
+      {
+        "account": "Cash",
+        "debit": 6000,
+        "credit": 0
+      },
+      {
+        "account": "Investment in Investee",
+        "debit": 0,
+        "credit": 6000
+      }
+    ],
+    "explanation": "The investor receives 30% × $20,000 = $6,000. Under the equity method, dividends are treated as a return of investment rather than dividend income.",
+    "metadata": {
+      "section": "far",
+      "blueprintYear": 2026,
+      "areaId": "far-III",
+      "groupId": "transaction-entries",
+      "topicId": "far-journal-entries",
+      "taskIds": [
+        "far-journal-entries.task-1"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        }
+      ]
+    },
+    "revision": 1,
+    "sequence": 26
+  },
+  {
+    "id": "far-journal-27",
+    "topic": "Investments",
+    "question": "At year-end, a trading debt security has increased in fair value by $9,000. Ignoring credit-loss considerations, record the unrealized holding gain.",
+    "availableAccounts": [
+      "Fair Value Adjustment — Trading",
+      "Unrealized Holding Gain — Income",
+      "Unrealized Holding Gain — OCI",
+      "Cash",
+      "Interest Revenue"
+    ],
+    "correctEntries": [
+      {
+        "account": "Fair Value Adjustment — Trading",
+        "debit": 9000,
+        "credit": 0
+      },
+      {
+        "account": "Unrealized Holding Gain — Income",
+        "debit": 0,
+        "credit": 9000
+      }
+    ],
+    "explanation": "Trading debt securities are measured at fair value, with unrealized holding gains and losses generally recognized in net income.",
+    "metadata": {
+      "section": "far",
+      "blueprintYear": 2026,
+      "areaId": "far-III",
+      "groupId": "transaction-entries",
+      "topicId": "far-journal-entries",
+      "taskIds": [
+        "far-journal-entries.task-1"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        }
+      ]
+    },
+    "revision": 1,
+    "sequence": 27
+  },
+  {
+    "id": "far-journal-28",
+    "topic": "Investments & OCI",
+    "question": "At year-end, an available-for-sale debt security has an unrealized holding gain of $11,000. Ignoring credit-loss considerations, record the fair value adjustment.",
+    "availableAccounts": [
+      "Fair Value Adjustment — AFS",
+      "Unrealized Holding Gain — OCI",
+      "Unrealized Holding Gain — Income",
+      "Interest Revenue",
+      "Cash"
+    ],
+    "correctEntries": [
+      {
+        "account": "Fair Value Adjustment — AFS",
+        "debit": 11000,
+        "credit": 0
+      },
+      {
+        "account": "Unrealized Holding Gain — OCI",
+        "debit": 0,
+        "credit": 11000
+      }
+    ],
+    "explanation": "For an available-for-sale debt security, qualifying unrealized holding gains are generally reported in other comprehensive income rather than current net income.",
+    "metadata": {
+      "section": "far",
+      "blueprintYear": 2026,
+      "areaId": "far-III",
+      "groupId": "transaction-entries",
+      "topicId": "far-journal-entries",
+      "taskIds": [
+        "far-journal-entries.task-1"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        }
+      ]
+    },
+    "revision": 1,
+    "sequence": 28
+  },
+  {
+    "id": "far-journal-29",
+    "topic": "Revenue Recognition",
+    "question": "A company satisfies a performance obligation and recognizes $70,000 of revenue. The customer will pay later. Record the transaction.",
+    "availableAccounts": [
+      "Accounts Receivable",
+      "Service Revenue",
+      "Cash",
+      "Contract Liability",
+      "Service Expense"
+    ],
+    "correctEntries": [
+      {
+        "account": "Accounts Receivable",
+        "debit": 70000,
+        "credit": 0
+      },
+      {
+        "account": "Service Revenue",
+        "debit": 0,
+        "credit": 70000
+      }
+    ],
+    "explanation": "Because the company has earned the revenue and has a receivable from the customer, Accounts Receivable is debited and revenue is credited.",
+    "metadata": {
+      "section": "far",
+      "blueprintYear": 2026,
+      "areaId": "far-III",
+      "groupId": "transaction-entries",
+      "topicId": "far-journal-entries",
+      "taskIds": [
+        "far-journal-entries.task-1"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        }
+      ]
+    },
+    "revision": 1,
+    "sequence": 29
+  },
+  {
+    "id": "far-journal-30",
+    "topic": "Leases",
+    "question": "At commencement of a lease, a lessee measures both the initial right-of-use asset and lease liability at $180,000. Ignore initial direct costs, prepaid rent, incentives, and other adjustments. Record the initial recognition.",
+    "availableAccounts": [
+      "Right-of-Use Asset",
+      "Lease Liability",
+      "Rent Expense",
+      "Cash",
+      "Interest Expense"
+    ],
+    "correctEntries": [
+      {
+        "account": "Right-of-Use Asset",
+        "debit": 180000,
+        "credit": 0
+      },
+      {
+        "account": "Lease Liability",
+        "debit": 0,
+        "credit": 180000
+      }
+    ],
+    "explanation": "At commencement, the lessee recognizes a right-of-use asset and a lease liability. The problem states that both initial amounts are $180,000.",
+    "metadata": {
+      "section": "far",
+      "blueprintYear": 2026,
+      "areaId": "far-III",
+      "groupId": "transaction-entries",
+      "topicId": "far-journal-entries",
+      "taskIds": [
+        "far-journal-entries.task-1"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        }
+      ]
+    },
+    "revision": 1,
+    "sequence": 30
+  },
+  {
+    "id": "far-journal-31",
+    "topic": "Income Taxes",
+    "question": "A company determines that its current income tax expense and current income taxes payable are both $84,000. Ignore deferred taxes. Record the current tax provision.",
+    "availableAccounts": [
+      "Income Tax Expense",
+      "Income Taxes Payable",
+      "Deferred Tax Asset",
+      "Deferred Tax Liability",
+      "Cash"
+    ],
+    "correctEntries": [
+      {
+        "account": "Income Tax Expense",
+        "debit": 84000,
+        "credit": 0
+      },
+      {
+        "account": "Income Taxes Payable",
+        "debit": 0,
+        "credit": 84000
+      }
+    ],
+    "explanation": "With no deferred tax effects in this scenario, current income tax expense is debited and the unpaid current tax obligation is credited.",
+    "metadata": {
+      "section": "far",
+      "blueprintYear": 2026,
+      "areaId": "far-III",
+      "groupId": "transaction-entries",
+      "topicId": "far-journal-entries",
+      "taskIds": [
+        "far-journal-entries.task-1"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        }
+      ]
+    },
+    "revision": 1,
+    "sequence": 31
+  },
+  {
+    "id": "far-journal-32",
+    "topic": "Error Corrections",
+    "question": "During the current year, a company incorrectly recorded a $40,000 equipment purchase as Repairs Expense. The error is discovered before the current-year financial statements are issued. Ignore depreciation. Record the correcting entry.",
+    "availableAccounts": [
+      "Equipment",
+      "Repairs Expense",
+      "Cash",
+      "Retained Earnings",
+      "Accumulated Depreciation — Equipment"
+    ],
+    "correctEntries": [
+      {
+        "account": "Equipment",
+        "debit": 40000,
+        "credit": 0
+      },
+      {
+        "account": "Repairs Expense",
+        "debit": 0,
+        "credit": 40000
+      }
+    ],
+    "explanation": "The original entry incorrectly debited Repairs Expense. The correction removes that expense with a credit and records the Equipment asset with a debit.",
+    "metadata": {
+      "section": "far",
+      "blueprintYear": 2026,
+      "areaId": "far-III",
+      "groupId": "transaction-entries",
+      "topicId": "far-journal-entries",
+      "taskIds": [
+        "far-journal-entries.task-1"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        }
+      ]
+    },
+    "revision": 1,
+    "sequence": 32
+  },
+  {
+    "id": "far-journal-33",
+    "topic": "Subsequent Events",
+    "question": "After year-end but before issuance of the financial statements, a customer's bankruptcy provides additional evidence that a receivable was impaired at year-end. The company determines that its Allowance for Credit Losses should be increased by $25,000. Record the year-end adjustment.",
+    "availableAccounts": [
+      "Credit Loss Expense",
+      "Allowance for Credit Losses",
+      "Accounts Receivable",
+      "Cash",
+      "Loss on Bankruptcy"
+    ],
+    "correctEntries": [
+      {
+        "account": "Credit Loss Expense",
+        "debit": 25000,
+        "credit": 0
+      },
+      {
+        "account": "Allowance for Credit Losses",
+        "debit": 0,
+        "credit": 25000
+      }
+    ],
+    "explanation": "Because the subsequent information provides evidence about a condition that existed at year-end, the year-end estimate is adjusted.",
+    "metadata": {
+      "section": "far",
+      "blueprintYear": 2026,
+      "areaId": "far-III",
+      "groupId": "transaction-entries",
+      "topicId": "far-journal-entries",
+      "taskIds": [
+        "far-journal-entries.task-1"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        }
+      ]
+    },
+    "revision": 1,
+    "sequence": 33
+  },
+  {
+    "id": "far-journal-34",
+    "topic": "Governmental Accounting",
+    "question": "A city's General Fund purchases equipment for $200,000 cash. Record the transaction in the governmental fund accounts.",
+    "availableAccounts": [
+      "Expenditures — Capital Outlay",
+      "Cash",
+      "Equipment",
+      "Depreciation Expense",
+      "Other Financing Uses"
+    ],
+    "correctEntries": [
+      {
+        "account": "Expenditures — Capital Outlay",
+        "debit": 200000,
+        "credit": 0
+      },
+      {
+        "account": "Cash",
+        "debit": 0,
+        "credit": 200000
+      }
+    ],
+    "explanation": "Governmental funds use the current financial resources measurement focus, so acquisition of a general capital asset is reported as a capital outlay expenditure rather than a fund-level capital asset.",
+    "metadata": {
+      "section": "far",
+      "blueprintYear": 2026,
+      "areaId": "far-III",
+      "groupId": "transaction-entries",
+      "topicId": "far-journal-entries",
+      "taskIds": [
+        "far-journal-entries.task-1"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        }
+      ]
+    },
+    "revision": 1,
+    "sequence": 34
+  },
+  {
+    "id": "far-journal-35",
+    "topic": "Governmental Accounting",
+    "question": "A governmental fund receives $1,500,000 cash from issuing general long-term bonds. Record the governmental fund entry.",
+    "availableAccounts": [
+      "Cash",
+      "Other Financing Sources — Bond Proceeds",
+      "Bonds Payable",
+      "Revenue",
+      "Deferred Inflow of Resources"
+    ],
+    "correctEntries": [
+      {
+        "account": "Cash",
+        "debit": 1500000,
+        "credit": 0
+      },
+      {
+        "account": "Other Financing Sources — Bond Proceeds",
+        "debit": 0,
+        "credit": 1500000
+      }
+    ],
+    "explanation": "General long-term debt is not reported as a governmental-fund liability. Bond proceeds are generally reported as an other financing source in the governmental fund.",
+    "metadata": {
+      "section": "far",
+      "blueprintYear": 2026,
+      "areaId": "far-III",
+      "groupId": "transaction-entries",
+      "topicId": "far-journal-entries",
+      "taskIds": [
+        "far-journal-entries.task-1"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        }
+      ]
+    },
+    "revision": 1,
+    "sequence": 35
+  },
+  {
+    "id": "far-journal-36",
+    "topic": "Governmental Accounting",
+    "question": "A governmental fund receives $75,000 of supplies and related services that represent a current-period expenditure. The amount has not yet been paid. Record the fund-level entry.",
+    "availableAccounts": [
+      "Expenditures",
+      "Accounts Payable",
+      "Expenses",
+      "Cash",
+      "Other Financing Uses"
+    ],
+    "correctEntries": [
+      {
+        "account": "Expenditures",
+        "debit": 75000,
+        "credit": 0
+      },
+      {
+        "account": "Accounts Payable",
+        "debit": 0,
+        "credit": 75000
+      }
+    ],
+    "explanation": "Governmental funds generally recognize current-period resource outflows as expenditures. Because payment has not yet occurred, Accounts Payable is credited.",
+    "metadata": {
+      "section": "far",
+      "blueprintYear": 2026,
+      "areaId": "far-III",
+      "groupId": "transaction-entries",
+      "topicId": "far-journal-entries",
+      "taskIds": [
+        "far-journal-entries.task-1"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        }
+      ]
+    },
+    "revision": 1,
+    "sequence": 36
+  },
+  {
+    "id": "far-journal-37",
+    "topic": "Not-for-Profit Contributions",
+    "question": "An NFP receives an unconditional $100,000 cash contribution with no donor-imposed restrictions. Record the contribution.",
+    "availableAccounts": [
+      "Cash",
+      "Contribution Revenue — Without Donor Restrictions",
+      "Contribution Revenue — With Donor Restrictions",
+      "Refundable Advance",
+      "Accounts Receivable"
+    ],
+    "correctEntries": [
+      {
+        "account": "Cash",
+        "debit": 100000,
+        "credit": 0
+      },
+      {
+        "account": "Contribution Revenue — Without Donor Restrictions",
+        "debit": 0,
+        "credit": 100000
+      }
+    ],
+    "explanation": "The contribution is unconditional and contains no donor-imposed restriction, so contribution revenue is recognized without donor restrictions.",
+    "metadata": {
+      "section": "far",
+      "blueprintYear": 2026,
+      "areaId": "far-III",
+      "groupId": "transaction-entries",
+      "topicId": "far-journal-entries",
+      "taskIds": [
+        "far-journal-entries.task-1"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        }
+      ]
+    },
+    "revision": 1,
+    "sequence": 37
+  },
+  {
+    "id": "far-journal-38",
+    "topic": "Not-for-Profit Contributions",
+    "question": "An NFP receives an unconditional $120,000 cash contribution that the donor restricts for a specific future program. Record the contribution when received.",
+    "availableAccounts": [
+      "Cash",
+      "Contribution Revenue — With Donor Restrictions",
+      "Contribution Revenue — Without Donor Restrictions",
+      "Refundable Advance",
+      "Program Expense"
+    ],
+    "correctEntries": [
+      {
+        "account": "Cash",
+        "debit": 120000,
+        "credit": 0
+      },
+      {
+        "account": "Contribution Revenue — With Donor Restrictions",
+        "debit": 0,
+        "credit": 120000
+      }
+    ],
+    "explanation": "The contribution is unconditional, so it is recognized immediately. Because the donor imposed a purpose restriction, it is recognized as contribution revenue with donor restrictions.",
+    "metadata": {
+      "section": "far",
+      "blueprintYear": 2026,
+      "areaId": "far-III",
+      "groupId": "transaction-entries",
+      "topicId": "far-journal-entries",
+      "taskIds": [
+        "far-journal-entries.task-1"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        }
+      ]
+    },
+    "revision": 1,
+    "sequence": 38
+  },
+  {
+    "id": "far-journal-39",
+    "topic": "Conditional Contributions",
+    "question": "An NFP receives $60,000 cash under a contribution agreement containing a substantive barrier and a right of return. The barrier has not been overcome. Record the cash receipt.",
+    "availableAccounts": [
+      "Cash",
+      "Refundable Advance",
+      "Contribution Revenue — With Donor Restrictions",
+      "Contribution Revenue — Without Donor Restrictions",
+      "Deferred Inflow"
+    ],
+    "correctEntries": [
+      {
+        "account": "Cash",
+        "debit": 60000,
+        "credit": 0
+      },
+      {
+        "account": "Refundable Advance",
+        "debit": 0,
+        "credit": 60000
+      }
+    ],
+    "explanation": "Because the agreement remains conditional and includes a right of return, contribution revenue has not yet been recognized. Cash received in advance is reported as a refundable advance liability.",
+    "metadata": {
+      "section": "far",
+      "blueprintYear": 2026,
+      "areaId": "far-III",
+      "groupId": "transaction-entries",
+      "topicId": "far-journal-entries",
+      "taskIds": [
+        "far-journal-entries.task-1"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        }
+      ]
+    },
+    "revision": 1,
+    "sequence": 39
+  },
+  {
+    "id": "far-journal-40",
+    "topic": "Donated Services",
+    "question": "An attorney donates $20,000 of legal services to an NFP. The attorney possesses specialized skills, and the NFP would otherwise have purchased those services. Record the donated services.",
+    "availableAccounts": [
+      "Legal Expense",
+      "Contribution Revenue — Without Donor Restrictions",
+      "Cash",
+      "Accounts Payable",
+      "Contribution Revenue — With Donor Restrictions"
+    ],
+    "correctEntries": [
+      {
+        "account": "Legal Expense",
+        "debit": 20000,
+        "credit": 0
+      },
+      {
+        "account": "Contribution Revenue — Without Donor Restrictions",
+        "debit": 0,
+        "credit": 20000
+      }
+    ],
+    "explanation": "The donated services meet the recognition criteria because they require specialized skills, are provided by a person possessing those skills, and would otherwise have been purchased. The NFP recognizes both contribution revenue and the related expense.",
+    "metadata": {
+      "section": "far",
+      "blueprintYear": 2026,
+      "areaId": "far-III",
+      "groupId": "transaction-entries",
+      "topicId": "far-journal-entries",
+      "taskIds": [
+        "far-journal-entries.task-1"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        }
+      ]
+    },
+    "revision": 1,
+    "sequence": 40
+  }
+]

@@ -1,0 +1,90 @@
+{
+  "id": "bar-m1-tbs2",
+  "courseId": "bar",
+  "moduleId": 1,
+  "number": 2,
+  "title": "Operating cash budget",
+  "html": "<div class=\"course-intro-card\"><h2>Operating cash budget</h2><p>Build a monthly cash budget from the collection and payment assumptions.</p></div><section class=\"quiz-card\"><h3>Required responses</h3><div class=\"tbs-question\"><label for=\"bar-m1-tbs2-f1\">Current-month cash collections</label><input id=\"bar-m1-tbs2-f1\" type=\"text\"></div><div class=\"tbs-question\"><label for=\"bar-m1-tbs2-f2\">Cash available before payments</label><input id=\"bar-m1-tbs2-f2\" type=\"text\"></div><div class=\"tbs-question\"><label for=\"bar-m1-tbs2-f3\">Ending cash before financing</label><input id=\"bar-m1-tbs2-f3\" type=\"text\"></div><div class=\"tbs-question\"><label for=\"bar-m1-tbs2-f4\">Borrowing needed to meet minimum cash</label><input id=\"bar-m1-tbs2-f4\" type=\"text\"></div></section>",
+  "metadata": {
+    "section": "bar",
+    "blueprintYear": 2026,
+    "areaId": "bar-I",
+    "groupId": "B",
+    "topicId": "bar-budgeting-forecasting",
+    "taskIds": [
+      "bar-budgeting-forecasting.task-1",
+      "bar-budgeting-forecasting.task-2",
+      "bar-budgeting-forecasting.task-3"
+    ],
+    "skill": "analysis",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      },
+      {
+        "title": "FASB accounting standards",
+        "url": "https://asc.fasb.org/"
+      },
+      {
+        "title": "GASB standards",
+        "url": "https://www.gasb.org/standards-and-implementation"
+      }
+    ]
+  },
+  "difficulty": "advanced",
+  "fields": [
+    {
+      "id": "bar-m1-tbs2-f1",
+      "label": "Current-month cash collections",
+      "type": "number",
+      "options": [],
+      "correct": 260000,
+      "explanation": "$300,000 × 60% + $200,000 × 40% = $260,000.",
+      "topicId": "bar-budgeting-forecasting"
+    },
+    {
+      "id": "bar-m1-tbs2-f2",
+      "label": "Cash available before payments",
+      "type": "number",
+      "options": [],
+      "correct": 310000,
+      "explanation": "$50,000 beginning cash + $260,000 collections.",
+      "topicId": "bar-budgeting-forecasting"
+    },
+    {
+      "id": "bar-m1-tbs2-f3",
+      "label": "Ending cash before financing",
+      "type": "number",
+      "options": [],
+      "correct": 30000,
+      "explanation": "$310,000 − $280,000 = $30,000.",
+      "topicId": "bar-budgeting-forecasting"
+    },
+    {
+      "id": "bar-m1-tbs2-f4",
+      "label": "Borrowing needed to meet minimum cash",
+      "type": "number",
+      "options": [],
+      "correct": 10000,
+      "explanation": "$40,000 required less $30,000 available = $10,000.",
+      "topicId": "bar-budgeting-forecasting"
+    }
+  ],
+  "exhibits": [
+    {
+      "id": "bar-m1-tbs2-ex1",
+      "title": "Collections",
+      "html": "<p>Prior-month sales $200,000; current-month sales $300,000. Collect 60% in the month of sale and 40% the next month.</p>"
+    },
+    {
+      "id": "bar-m1-tbs2-ex2",
+      "title": "Other cash data",
+      "html": "<p>Beginning cash $50,000; current cash payments $280,000; required minimum ending cash $40,000. Ignore interest and other flows.</p>"
+    }
+  ],
+  "explanation": "<h3>Current-month cash collections</h3><p>$300,000 × 60% + $200,000 × 40% = $260,000.</p><h3>Cash available before payments</h3><p>$50,000 beginning cash + $260,000 collections.</p><h3>Ending cash before financing</h3><p>$310,000 − $280,000 = $30,000.</p><h3>Borrowing needed to meet minimum cash</h3><p>$40,000 required less $30,000 available = $10,000.</p>"
+}

@@ -1,0 +1,3455 @@
+{
+  "id": "aud-m3-practice",
+  "title": "Audit Evidence & Further Procedures Practice",
+  "courseId": "aud",
+  "moduleId": 3,
+  "selection": "per-lesson",
+  "feedback": "immediate",
+  "passPercent": 80,
+  "questions": [
+    {
+      "id": "aud-m3-l1-q1",
+      "courseId": "aud",
+      "moduleId": 3,
+      "lessonId": "aud-m3-l1",
+      "topic": "Assertions & Direction of Testing",
+      "prompt": "To search for unrecorded sales, which direction is most appropriate?",
+      "choices": [
+        {
+          "id": "aud-m3-l1-q1-a0",
+          "text": "Vouch only recorded sales to invoices."
+        },
+        {
+          "id": "aud-m3-l1-q1-a1",
+          "text": "Inspect only the largest recorded receivable."
+        },
+        {
+          "id": "aud-m3-l1-q1-a2",
+          "text": "Trace independently selected shipping documents to the sales journal."
+        },
+        {
+          "id": "aud-m3-l1-q1-a3",
+          "text": "Recalculate the audit fee."
+        }
+      ],
+      "correctChoiceId": "aud-m3-l1-q1-a2",
+      "explanation": "Start outside the possibly incomplete records and trace inward; selecting only recorded items cannot reliably identify omissions.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "aud",
+        "blueprintYear": 2026,
+        "areaId": "aud-III",
+        "groupId": "B-D",
+        "topicId": "aud-assertions-procedures",
+        "taskIds": [
+          "aud-assertions-procedures.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "AICPA auditing standards",
+            "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+          },
+          {
+            "title": "PCAOB standards",
+            "url": "https://pcaobus.org/oversight/standards"
+          }
+        ]
+      }
+    },
+    {
+      "id": "aud-m3-l1-q2",
+      "courseId": "aud",
+      "moduleId": 3,
+      "lessonId": "aud-m3-l1",
+      "topic": "Assertions & Direction of Testing",
+      "prompt": "Vouching recorded inventory items to the warehouse most directly addresses which assertion?",
+      "choices": [
+        {
+          "id": "aud-m3-l1-q2-a0",
+          "text": "Completeness of all unrecorded inventory."
+        },
+        {
+          "id": "aud-m3-l1-q2-a1",
+          "text": "Legal ownership in every case."
+        },
+        {
+          "id": "aud-m3-l1-q2-a2",
+          "text": "Net realizable value automatically."
+        },
+        {
+          "id": "aud-m3-l1-q2-a3",
+          "text": "Existence."
+        }
+      ],
+      "correctChoiceId": "aud-m3-l1-q2-a3",
+      "explanation": "The procedure tests whether recorded items are present. Additional work addresses ownership and valuation.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "aud",
+        "blueprintYear": 2026,
+        "areaId": "aud-III",
+        "groupId": "B-D",
+        "topicId": "aud-assertions-procedures",
+        "taskIds": [
+          "aud-assertions-procedures.task-2"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "AICPA auditing standards",
+            "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+          },
+          {
+            "title": "PCAOB standards",
+            "url": "https://pcaobus.org/oversight/standards"
+          }
+        ]
+      }
+    },
+    {
+      "id": "aud-m3-l1-q3",
+      "courseId": "aud",
+      "moduleId": 3,
+      "lessonId": "aud-m3-l1",
+      "topic": "Assertions & Direction of Testing",
+      "prompt": "Inspecting whether purchase orders contain the required approval is primarily what kind of test?",
+      "choices": [
+        {
+          "id": "aud-m3-l1-q3-a0",
+          "text": "A test of controls."
+        },
+        {
+          "id": "aud-m3-l1-q3-a1",
+          "text": "A complete test of inventory valuation."
+        },
+        {
+          "id": "aud-m3-l1-q3-a2",
+          "text": "A financial statement opinion."
+        },
+        {
+          "id": "aud-m3-l1-q3-a3",
+          "text": "A confirmation of all vendor balances."
+        }
+      ],
+      "correctChoiceId": "aud-m3-l1-q3-a0",
+      "explanation": "The purpose is to test the operation of the approval control, not by itself to prove the reported amount.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "aud",
+        "blueprintYear": 2026,
+        "areaId": "aud-III",
+        "groupId": "B-D",
+        "topicId": "aud-assertions-procedures",
+        "taskIds": [
+          "aud-assertions-procedures.task-3"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "AICPA auditing standards",
+            "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+          },
+          {
+            "title": "PCAOB standards",
+            "url": "https://pcaobus.org/oversight/standards"
+          }
+        ]
+      }
+    },
+    {
+      "id": "aud-m3-l1-q4",
+      "courseId": "aud",
+      "moduleId": 3,
+      "lessonId": "aud-m3-l1",
+      "topic": "Assertions & Direction of Testing",
+      "prompt": "A sale shipped in January is recorded in December. Which assertion is most directly affected?",
+      "choices": [
+        {
+          "id": "aud-m3-l1-q4-a0",
+          "text": "Only legal ownership of the audit file."
+        },
+        {
+          "id": "aud-m3-l1-q4-a1",
+          "text": "Cutoff."
+        },
+        {
+          "id": "aud-m3-l1-q4-a2",
+          "text": "Only disclosure of audit fees."
+        },
+        {
+          "id": "aud-m3-l1-q4-a3",
+          "text": "No assertion because cash was collected later."
+        }
+      ],
+      "correctChoiceId": "aud-m3-l1-q4-a1",
+      "explanation": "The transaction is recorded in the wrong reporting period. Recognition terms and shipment evidence inform cutoff.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "aud",
+        "blueprintYear": 2026,
+        "areaId": "aud-III",
+        "groupId": "B-D",
+        "topicId": "aud-assertions-procedures",
+        "taskIds": [
+          "aud-assertions-procedures.task-1"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "AICPA auditing standards",
+            "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+          },
+          {
+            "title": "PCAOB standards",
+            "url": "https://pcaobus.org/oversight/standards"
+          }
+        ]
+      }
+    },
+    {
+      "id": "aud-m3-l1-q5",
+      "courseId": "aud",
+      "moduleId": 3,
+      "lessonId": "aud-m3-l1",
+      "topic": "Assertions & Direction of Testing",
+      "prompt": "A company physically holds goods owned by a consignor and includes them in its inventory. Which assertion is misstated?",
+      "choices": [
+        {
+          "id": "aud-m3-l1-q5-a0",
+          "text": "Existence, because the goods cannot be seen."
+        },
+        {
+          "id": "aud-m3-l1-q5-a1",
+          "text": "Accuracy only because all goods have zero value."
+        },
+        {
+          "id": "aud-m3-l1-q5-a2",
+          "text": "Rights and obligations."
+        },
+        {
+          "id": "aud-m3-l1-q5-a3",
+          "text": "No assertion; physical custody establishes ownership."
+        }
+      ],
+      "correctChoiceId": "aud-m3-l1-q5-a2",
+      "explanation": "The goods exist but the consignee does not own them. Custody is not ownership.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "aud",
+        "blueprintYear": 2026,
+        "areaId": "aud-III",
+        "groupId": "B-D",
+        "topicId": "aud-assertions-procedures",
+        "taskIds": [
+          "aud-assertions-procedures.task-2"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "AICPA auditing standards",
+            "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+          },
+          {
+            "title": "PCAOB standards",
+            "url": "https://pcaobus.org/oversight/standards"
+          }
+        ]
+      }
+    },
+    {
+      "id": "aud-m3-l1-q6",
+      "courseId": "aud",
+      "moduleId": 3,
+      "lessonId": "aud-m3-l1",
+      "topic": "Assertions & Direction of Testing",
+      "prompt": "When is a dual-purpose test appropriate?",
+      "choices": [
+        {
+          "id": "aud-m3-l1-q6-a0",
+          "text": "Whenever a document has a date."
+        },
+        {
+          "id": "aud-m3-l1-q6-a1",
+          "text": "Only when substantive testing is prohibited."
+        },
+        {
+          "id": "aud-m3-l1-q6-a2",
+          "text": "Whenever control exceptions are ignored."
+        },
+        {
+          "id": "aud-m3-l1-q6-a3",
+          "text": "When its design and evaluation support both the control and substantive objectives."
+        }
+      ],
+      "correctChoiceId": "aud-m3-l1-q6-a3",
+      "explanation": "Both objectives require appropriate evidence and separate evaluation; a label does not establish either.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "aud",
+        "blueprintYear": 2026,
+        "areaId": "aud-III",
+        "groupId": "B-D",
+        "topicId": "aud-assertions-procedures",
+        "taskIds": [
+          "aud-assertions-procedures.task-3"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "AICPA auditing standards",
+            "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+          },
+          {
+            "title": "PCAOB standards",
+            "url": "https://pcaobus.org/oversight/standards"
+          }
+        ]
+      }
+    },
+    {
+      "id": "aud-m3-l1-q7",
+      "courseId": "aud",
+      "moduleId": 3,
+      "lessonId": "aud-m3-l1",
+      "topic": "Assertions & Direction of Testing",
+      "prompt": "Choose the best procedure for each identified inventory and revenue risk. Risks: A: Recorded inventory may not exist. B: Shipped orders may be omitted from sales. C: Goods held on consignment may be included as owned inventory. D: January shipments may be recorded as December sales. Available evidence: Warehouse observations, shipping-document populations, contracts identifying ownership, and year-end sales entries are available. Select evidence relevant to the risk rather than the easiest document to obtain. Required: Procedure for A.",
+      "choices": [
+        {
+          "id": "aud-m3-l1-q7-a0",
+          "text": "Vouch recorded items to physical inventory"
+        },
+        {
+          "id": "aud-m3-l1-q7-a1",
+          "text": "Trace only unrecorded orders"
+        },
+        {
+          "id": "aud-m3-l1-q7-a2",
+          "text": "Inspect only payroll approvals"
+        },
+        {
+          "id": "aud-m3-l1-q7-a3",
+          "text": "Confirm the auditor’s bank balance"
+        }
+      ],
+      "correctChoiceId": "aud-m3-l1-q7-a0",
+      "explanation": "Vouching recorded quantities to goods addresses existence.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "aud",
+        "blueprintYear": 2026,
+        "areaId": "aud-III",
+        "groupId": "B-D",
+        "topicId": "aud-assertions-procedures",
+        "taskIds": [
+          "aud-assertions-procedures.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "AICPA auditing standards",
+            "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+          },
+          {
+            "title": "PCAOB standards",
+            "url": "https://pcaobus.org/oversight/standards"
+          }
+        ]
+      },
+      "familyId": "aud-m3-tbs1"
+    },
+    {
+      "id": "aud-m3-l1-q8",
+      "courseId": "aud",
+      "moduleId": 3,
+      "lessonId": "aud-m3-l1",
+      "topic": "Assertions & Direction of Testing",
+      "prompt": "Choose the best procedure for each identified inventory and revenue risk. Risks: A: Recorded inventory may not exist. B: Shipped orders may be omitted from sales. C: Goods held on consignment may be included as owned inventory. D: January shipments may be recorded as December sales. Available evidence: Warehouse observations, shipping-document populations, contracts identifying ownership, and year-end sales entries are available. Select evidence relevant to the risk rather than the easiest document to obtain. Required: Procedure for B.",
+      "choices": [
+        {
+          "id": "aud-m3-l1-q8-a0",
+          "text": "Select only recorded sales"
+        },
+        {
+          "id": "aud-m3-l1-q8-a1",
+          "text": "Trace shipping documents to sales records"
+        },
+        {
+          "id": "aud-m3-l1-q8-a2",
+          "text": "Inspect only the chart of accounts"
+        },
+        {
+          "id": "aud-m3-l1-q8-a3",
+          "text": "Review dividend approvals"
+        }
+      ],
+      "correctChoiceId": "aud-m3-l1-q8-a1",
+      "explanation": "Tracing an independent source population addresses omitted transactions.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "aud",
+        "blueprintYear": 2026,
+        "areaId": "aud-III",
+        "groupId": "B-D",
+        "topicId": "aud-assertions-procedures",
+        "taskIds": [
+          "aud-assertions-procedures.task-2"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "AICPA auditing standards",
+            "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+          },
+          {
+            "title": "PCAOB standards",
+            "url": "https://pcaobus.org/oversight/standards"
+          }
+        ]
+      },
+      "familyId": "aud-m3-tbs1"
+    },
+    {
+      "id": "aud-m3-l1-q9",
+      "courseId": "aud",
+      "moduleId": 3,
+      "lessonId": "aud-m3-l1",
+      "topic": "Assertions & Direction of Testing",
+      "prompt": "Choose the best procedure for each identified inventory and revenue risk. Risks: A: Recorded inventory may not exist. B: Shipped orders may be omitted from sales. C: Goods held on consignment may be included as owned inventory. D: January shipments may be recorded as December sales. Available evidence: Warehouse observations, shipping-document populations, contracts identifying ownership, and year-end sales entries are available. Select evidence relevant to the risk rather than the easiest document to obtain. Required: Assertion for C.",
+      "choices": [
+        {
+          "id": "aud-m3-l1-q9-a0",
+          "text": "Audit fee classification"
+        },
+        {
+          "id": "aud-m3-l1-q9-a1",
+          "text": "Only arithmetic accuracy"
+        },
+        {
+          "id": "aud-m3-l1-q9-a2",
+          "text": "Rights and obligations"
+        },
+        {
+          "id": "aud-m3-l1-q9-a3",
+          "text": "No assertion"
+        }
+      ],
+      "correctChoiceId": "aud-m3-l1-q9-a2",
+      "explanation": "Consigned goods may be physically present but not owned.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "aud",
+        "blueprintYear": 2026,
+        "areaId": "aud-III",
+        "groupId": "B-D",
+        "topicId": "aud-assertions-procedures",
+        "taskIds": [
+          "aud-assertions-procedures.task-3"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "AICPA auditing standards",
+            "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+          },
+          {
+            "title": "PCAOB standards",
+            "url": "https://pcaobus.org/oversight/standards"
+          }
+        ]
+      },
+      "familyId": "aud-m3-tbs1"
+    },
+    {
+      "id": "aud-m3-l1-q10",
+      "courseId": "aud",
+      "moduleId": 3,
+      "lessonId": "aud-m3-l1",
+      "topic": "Assertions & Direction of Testing",
+      "prompt": "Choose the best procedure for each identified inventory and revenue risk. Risks: A: Recorded inventory may not exist. B: Shipped orders may be omitted from sales. C: Goods held on consignment may be included as owned inventory. D: January shipments may be recorded as December sales. Available evidence: Warehouse observations, shipping-document populations, contracts identifying ownership, and year-end sales entries are available. Select evidence relevant to the risk rather than the easiest document to obtain. Required: Assertion for D.",
+      "choices": [
+        {
+          "id": "aud-m3-l1-q10-a0",
+          "text": "Only existence of the warehouse"
+        },
+        {
+          "id": "aud-m3-l1-q10-a1",
+          "text": "Only audit documentation retention"
+        },
+        {
+          "id": "aud-m3-l1-q10-a2",
+          "text": "No reporting-period issue"
+        },
+        {
+          "id": "aud-m3-l1-q10-a3",
+          "text": "Cutoff"
+        }
+      ],
+      "correctChoiceId": "aud-m3-l1-q10-a3",
+      "explanation": "January activity recognized in December misstates the reporting period.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "aud",
+        "blueprintYear": 2026,
+        "areaId": "aud-III",
+        "groupId": "B-D",
+        "topicId": "aud-assertions-procedures",
+        "taskIds": [
+          "aud-assertions-procedures.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "AICPA auditing standards",
+            "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+          },
+          {
+            "title": "PCAOB standards",
+            "url": "https://pcaobus.org/oversight/standards"
+          }
+        ]
+      },
+      "familyId": "aud-m3-tbs1"
+    },
+    {
+      "id": "aud-m3-l2-q1",
+      "courseId": "aud",
+      "moduleId": 3,
+      "lessonId": "aud-m3-l2",
+      "topic": "Sampling, Projection & Evaluation of Exceptions",
+      "prompt": "Which sampling approach most directly tests the frequency of missing approvals?",
+      "choices": [
+        {
+          "id": "aud-m3-l2-q1-a0",
+          "text": "A discounted cash flow valuation."
+        },
+        {
+          "id": "aud-m3-l2-q1-a1",
+          "text": "A compilation procedure."
+        },
+        {
+          "id": "aud-m3-l2-q1-a2",
+          "text": "A ratio of audit fees to sales."
+        },
+        {
+          "id": "aud-m3-l2-q1-a3",
+          "text": "Attribute sampling."
+        }
+      ],
+      "correctChoiceId": "aud-m3-l2-q1-a3",
+      "explanation": "Approval exceptions are control attributes, so the objective is a deviation rate.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "aud",
+        "blueprintYear": 2026,
+        "areaId": "aud-III",
+        "groupId": "C",
+        "topicId": "aud-audit-sampling",
+        "taskIds": [
+          "aud-audit-sampling.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "AICPA auditing standards",
+            "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+          },
+          {
+            "title": "PCAOB standards",
+            "url": "https://pcaobus.org/oversight/standards"
+          }
+        ]
+      }
+    },
+    {
+      "id": "aud-m3-l2-q2",
+      "courseId": "aud",
+      "moduleId": 3,
+      "lessonId": "aud-m3-l2",
+      "topic": "Sampling, Projection & Evaluation of Exceptions",
+      "prompt": "An auditor fails to recognize an exception in a document actually examined. Which risk is illustrated?",
+      "choices": [
+        {
+          "id": "aud-m3-l2-q2-a0",
+          "text": "Nonsampling risk."
+        },
+        {
+          "id": "aud-m3-l2-q2-a1",
+          "text": "Only sampling risk."
+        },
+        {
+          "id": "aud-m3-l2-q2-a2",
+          "text": "Only inherent risk."
+        },
+        {
+          "id": "aud-m3-l2-q2-a3",
+          "text": "A necessary consequence of statistical selection."
+        }
+      ],
+      "correctChoiceId": "aud-m3-l2-q2-a0",
+      "explanation": "The problem is execution or interpretation, not whether the selected sample represents the population.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "aud",
+        "blueprintYear": 2026,
+        "areaId": "aud-III",
+        "groupId": "C",
+        "topicId": "aud-audit-sampling",
+        "taskIds": [
+          "aud-audit-sampling.task-2"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "AICPA auditing standards",
+            "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+          },
+          {
+            "title": "PCAOB standards",
+            "url": "https://pcaobus.org/oversight/standards"
+          }
+        ]
+      }
+    },
+    {
+      "id": "aud-m3-l2-q3",
+      "courseId": "aud",
+      "moduleId": 3,
+      "lessonId": "aud-m3-l2",
+      "topic": "Sampling, Projection & Evaluation of Exceptions",
+      "prompt": "A homogeneous sample is overstated by $3,000 on recorded value of $60,000. Population recorded value is $900,000. Under ratio projection, what is projected overstatement?",
+      "choices": [
+        {
+          "id": "aud-m3-l2-q3-a0",
+          "text": "$3,000."
+        },
+        {
+          "id": "aud-m3-l2-q3-a1",
+          "text": "$45,000."
+        },
+        {
+          "id": "aud-m3-l2-q3-a2",
+          "text": "$15,000."
+        },
+        {
+          "id": "aud-m3-l2-q3-a3",
+          "text": "$900,000."
+        }
+      ],
+      "correctChoiceId": "aud-m3-l2-q3-a1",
+      "explanation": "The ratio is 5%; 5% of $900,000 is $45,000 before sampling-risk allowances.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "aud",
+        "blueprintYear": 2026,
+        "areaId": "aud-III",
+        "groupId": "C",
+        "topicId": "aud-audit-sampling",
+        "taskIds": [
+          "aud-audit-sampling.task-3"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "AICPA auditing standards",
+            "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+          },
+          {
+            "title": "PCAOB standards",
+            "url": "https://pcaobus.org/oversight/standards"
+          }
+        ]
+      }
+    },
+    {
+      "id": "aud-m3-l2-q4",
+      "courseId": "aud",
+      "moduleId": 3,
+      "lessonId": "aud-m3-l2",
+      "topic": "Sampling, Projection & Evaluation of Exceptions",
+      "prompt": "All else equal, decreasing tolerable misstatement generally has what effect on substantive sample size?",
+      "choices": [
+        {
+          "id": "aud-m3-l2-q4-a0",
+          "text": "It always reduces sample size."
+        },
+        {
+          "id": "aud-m3-l2-q4-a1",
+          "text": "It eliminates sampling risk."
+        },
+        {
+          "id": "aud-m3-l2-q4-a2",
+          "text": "It increases the required sample size."
+        },
+        {
+          "id": "aud-m3-l2-q4-a3",
+          "text": "It makes population definition unnecessary."
+        }
+      ],
+      "correctChoiceId": "aud-m3-l2-q4-a2",
+      "explanation": "A tighter tolerance generally requires more evidence for a given assurance level.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "aud",
+        "blueprintYear": 2026,
+        "areaId": "aud-III",
+        "groupId": "C",
+        "topicId": "aud-audit-sampling",
+        "taskIds": [
+          "aud-audit-sampling.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "AICPA auditing standards",
+            "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+          },
+          {
+            "title": "PCAOB standards",
+            "url": "https://pcaobus.org/oversight/standards"
+          }
+        ]
+      }
+    },
+    {
+      "id": "aud-m3-l2-q5",
+      "courseId": "aud",
+      "moduleId": 3,
+      "lessonId": "aud-m3-l2",
+      "topic": "Sampling, Projection & Evaluation of Exceptions",
+      "prompt": "The evaluated upper deviation rate is 9% and the tolerable rate is 6%. What is the best conclusion?",
+      "choices": [
+        {
+          "id": "aud-m3-l2-q5-a0",
+          "text": "The control is supported because most items passed."
+        },
+        {
+          "id": "aud-m3-l2-q5-a1",
+          "text": "All substantive procedures can be omitted."
+        },
+        {
+          "id": "aud-m3-l2-q5-a2",
+          "text": "The difference can be ignored because it is under 10%."
+        },
+        {
+          "id": "aud-m3-l2-q5-a3",
+          "text": "The sample does not support the planned level of reliance."
+        }
+      ],
+      "correctChoiceId": "aud-m3-l2-q5-a3",
+      "explanation": "The evaluated deviation exceeds the tolerable rate; reassess reliance and the audit response.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "aud",
+        "blueprintYear": 2026,
+        "areaId": "aud-III",
+        "groupId": "C",
+        "topicId": "aud-audit-sampling",
+        "taskIds": [
+          "aud-audit-sampling.task-2"
+        ],
+        "skill": "evaluation",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "AICPA auditing standards",
+            "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+          },
+          {
+            "title": "PCAOB standards",
+            "url": "https://pcaobus.org/oversight/standards"
+          }
+        ]
+      }
+    },
+    {
+      "id": "aud-m3-l2-q6",
+      "courseId": "aud",
+      "moduleId": 3,
+      "lessonId": "aud-m3-l2",
+      "topic": "Sampling, Projection & Evaluation of Exceptions",
+      "prompt": "A team samples invoices from an incomplete ledger to test completeness of liabilities. What is the primary issue?",
+      "choices": [
+        {
+          "id": "aud-m3-l2-q6-a0",
+          "text": "The source population is inappropriate for detecting omitted liabilities."
+        },
+        {
+          "id": "aud-m3-l2-q6-a1",
+          "text": "The sample is automatically representative because it is random."
+        },
+        {
+          "id": "aud-m3-l2-q6-a2",
+          "text": "The confidence level cures the population problem."
+        },
+        {
+          "id": "aud-m3-l2-q6-a3",
+          "text": "Only the arithmetic in the projection matters."
+        }
+      ],
+      "correctChoiceId": "aud-m3-l2-q6-a0",
+      "explanation": "Random selection from incomplete records does not detect items absent from those records.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "aud",
+        "blueprintYear": 2026,
+        "areaId": "aud-III",
+        "groupId": "C",
+        "topicId": "aud-audit-sampling",
+        "taskIds": [
+          "aud-audit-sampling.task-3"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "AICPA auditing standards",
+            "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+          },
+          {
+            "title": "PCAOB standards",
+            "url": "https://pcaobus.org/oversight/standards"
+          }
+        ]
+      }
+    },
+    {
+      "id": "aud-m3-l2-q7",
+      "courseId": "aud",
+      "moduleId": 3,
+      "lessonId": "aud-m3-l2",
+      "topic": "Sampling, Projection & Evaluation of Exceptions",
+      "prompt": "Evaluate a control sample and a separate monetary sample using the specified methods. Control test: 80 approvals tested; 4 deviations found. The evaluated upper deviation rate is 8%. The tolerable rate is 6%. Substantive sample: A homogeneous population has recorded value $1,200,000. Sample recorded value is $80,000 and audited value is $76,000. Use ratio projection; sampling uncertainty must be evaluated separately. Required: Observed control deviation rate, as a percentage.",
+      "choices": [
+        {
+          "id": "aud-m3-l2-q7-a0",
+          "text": "4"
+        },
+        {
+          "id": "aud-m3-l2-q7-a1",
+          "text": "5"
+        },
+        {
+          "id": "aud-m3-l2-q7-a2",
+          "text": "6"
+        },
+        {
+          "id": "aud-m3-l2-q7-a3",
+          "text": "8"
+        }
+      ],
+      "correctChoiceId": "aud-m3-l2-q7-a1",
+      "explanation": "4 ÷ 80 = 5%.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "aud",
+        "blueprintYear": 2026,
+        "areaId": "aud-III",
+        "groupId": "C",
+        "topicId": "aud-audit-sampling",
+        "taskIds": [
+          "aud-audit-sampling.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "AICPA auditing standards",
+            "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+          },
+          {
+            "title": "PCAOB standards",
+            "url": "https://pcaobus.org/oversight/standards"
+          }
+        ]
+      },
+      "familyId": "aud-m3-tbs2"
+    },
+    {
+      "id": "aud-m3-l2-q8",
+      "courseId": "aud",
+      "moduleId": 3,
+      "lessonId": "aud-m3-l2",
+      "topic": "Sampling, Projection & Evaluation of Exceptions",
+      "prompt": "Evaluate a control sample and a separate monetary sample using the specified methods. Control test: 80 approvals tested; 4 deviations found. The evaluated upper deviation rate is 8%. The tolerable rate is 6%. Substantive sample: A homogeneous population has recorded value $1,200,000. Sample recorded value is $80,000 and audited value is $76,000. Use ratio projection; sampling uncertainty must be evaluated separately. Required: Conclusion using the upper deviation rate.",
+      "choices": [
+        {
+          "id": "aud-m3-l2-q8-a0",
+          "text": "Reliance is guaranteed"
+        },
+        {
+          "id": "aud-m3-l2-q8-a1",
+          "text": "Ignore the upper rate"
+        },
+        {
+          "id": "aud-m3-l2-q8-a2",
+          "text": "Planned reliance is not supported"
+        },
+        {
+          "id": "aud-m3-l2-q8-a3",
+          "text": "No additional evaluation is needed"
+        }
+      ],
+      "correctChoiceId": "aud-m3-l2-q8-a2",
+      "explanation": "The 8% upper rate exceeds the 6% tolerable rate.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "aud",
+        "blueprintYear": 2026,
+        "areaId": "aud-III",
+        "groupId": "C",
+        "topicId": "aud-audit-sampling",
+        "taskIds": [
+          "aud-audit-sampling.task-2"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "AICPA auditing standards",
+            "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+          },
+          {
+            "title": "PCAOB standards",
+            "url": "https://pcaobus.org/oversight/standards"
+          }
+        ]
+      },
+      "familyId": "aud-m3-tbs2"
+    },
+    {
+      "id": "aud-m3-l2-q9",
+      "courseId": "aud",
+      "moduleId": 3,
+      "lessonId": "aud-m3-l2",
+      "topic": "Sampling, Projection & Evaluation of Exceptions",
+      "prompt": "Evaluate a control sample and a separate monetary sample using the specified methods. Control test: 80 approvals tested; 4 deviations found. The evaluated upper deviation rate is 8%. The tolerable rate is 6%. Substantive sample: A homogeneous population has recorded value $1,200,000. Sample recorded value is $80,000 and audited value is $76,000. Use ratio projection; sampling uncertainty must be evaluated separately. Required: Sample monetary overstatement.",
+      "choices": [
+        {
+          "id": "aud-m3-l2-q9-a0",
+          "text": "80000"
+        },
+        {
+          "id": "aud-m3-l2-q9-a1",
+          "text": "76000"
+        },
+        {
+          "id": "aud-m3-l2-q9-a2",
+          "text": "0"
+        },
+        {
+          "id": "aud-m3-l2-q9-a3",
+          "text": "4000"
+        }
+      ],
+      "correctChoiceId": "aud-m3-l2-q9-a3",
+      "explanation": "$80,000 recorded less $76,000 audited = $4,000.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "aud",
+        "blueprintYear": 2026,
+        "areaId": "aud-III",
+        "groupId": "C",
+        "topicId": "aud-audit-sampling",
+        "taskIds": [
+          "aud-audit-sampling.task-3"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "AICPA auditing standards",
+            "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+          },
+          {
+            "title": "PCAOB standards",
+            "url": "https://pcaobus.org/oversight/standards"
+          }
+        ]
+      },
+      "familyId": "aud-m3-tbs2"
+    },
+    {
+      "id": "aud-m3-l2-q10",
+      "courseId": "aud",
+      "moduleId": 3,
+      "lessonId": "aud-m3-l2",
+      "topic": "Sampling, Projection & Evaluation of Exceptions",
+      "prompt": "Evaluate a control sample and a separate monetary sample using the specified methods. Control test: 80 approvals tested; 4 deviations found. The evaluated upper deviation rate is 8%. The tolerable rate is 6%. Substantive sample: A homogeneous population has recorded value $1,200,000. Sample recorded value is $80,000 and audited value is $76,000. Use ratio projection; sampling uncertainty must be evaluated separately. Required: Projected population overstatement.",
+      "choices": [
+        {
+          "id": "aud-m3-l2-q10-a0",
+          "text": "60000"
+        },
+        {
+          "id": "aud-m3-l2-q10-a1",
+          "text": "4000"
+        },
+        {
+          "id": "aud-m3-l2-q10-a2",
+          "text": "120000"
+        },
+        {
+          "id": "aud-m3-l2-q10-a3",
+          "text": "57000"
+        }
+      ],
+      "correctChoiceId": "aud-m3-l2-q10-a0",
+      "explanation": "$4,000 ÷ $80,000 × $1,200,000 = $60,000.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "aud",
+        "blueprintYear": 2026,
+        "areaId": "aud-III",
+        "groupId": "C",
+        "topicId": "aud-audit-sampling",
+        "taskIds": [
+          "aud-audit-sampling.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "AICPA auditing standards",
+            "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+          },
+          {
+            "title": "PCAOB standards",
+            "url": "https://pcaobus.org/oversight/standards"
+          }
+        ]
+      },
+      "familyId": "aud-m3-tbs2"
+    },
+    {
+      "id": "aud-m3-l3-q1",
+      "courseId": "aud",
+      "moduleId": 3,
+      "lessonId": "aud-m3-l3",
+      "topic": "Data Reliability & Analytical Procedures",
+      "prompt": "A sales extract excludes all credit memos. What must the auditor address before relying on a net-sales analysis?",
+      "choices": [
+        {
+          "id": "aud-m3-l3-q1-a0",
+          "text": "The completeness and relevance of the extracted population."
+        },
+        {
+          "id": "aud-m3-l3-q1-a1",
+          "text": "Only the dashboard’s colors."
+        },
+        {
+          "id": "aud-m3-l3-q1-a2",
+          "text": "Only whether the file is a spreadsheet."
+        },
+        {
+          "id": "aud-m3-l3-q1-a3",
+          "text": "Nothing if the report totals are large."
+        }
+      ],
+      "correctChoiceId": "aud-m3-l3-q1-a0",
+      "explanation": "Omitted credit memos can bias net sales. Validate extraction criteria and reconcile to appropriate records.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "aud",
+        "blueprintYear": 2026,
+        "areaId": "aud-III",
+        "groupId": "A-B",
+        "topicId": "aud-audit-data",
+        "taskIds": [
+          "aud-audit-data.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "AICPA auditing standards",
+            "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+          },
+          {
+            "title": "PCAOB standards",
+            "url": "https://pcaobus.org/oversight/standards"
+          }
+        ]
+      }
+    },
+    {
+      "id": "aud-m3-l3-q2",
+      "courseId": "aud",
+      "moduleId": 3,
+      "lessonId": "aud-m3-l3",
+      "topic": "Data Reliability & Analytical Procedures",
+      "prompt": "A building has 30 occupied units at $2,000 monthly for 12 months with no vacancies or concessions. What is expected annual rent?",
+      "choices": [
+        {
+          "id": "aud-m3-l3-q2-a0",
+          "text": "$60,000."
+        },
+        {
+          "id": "aud-m3-l3-q2-a1",
+          "text": "$720,000."
+        },
+        {
+          "id": "aud-m3-l3-q2-a2",
+          "text": "$360,000."
+        },
+        {
+          "id": "aud-m3-l3-q2-a3",
+          "text": "$750,000."
+        }
+      ],
+      "correctChoiceId": "aud-m3-l3-q2-a1",
+      "explanation": "30 × $2,000 × 12 = $720,000.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "aud",
+        "blueprintYear": 2026,
+        "areaId": "aud-III",
+        "groupId": "A-B",
+        "topicId": "aud-audit-data",
+        "taskIds": [
+          "aud-audit-data.task-2"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "AICPA auditing standards",
+            "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+          },
+          {
+            "title": "PCAOB standards",
+            "url": "https://pcaobus.org/oversight/standards"
+          }
+        ]
+      }
+    },
+    {
+      "id": "aud-m3-l3-q3",
+      "courseId": "aud",
+      "moduleId": 3,
+      "lessonId": "aud-m3-l3",
+      "topic": "Data Reliability & Analytical Procedures",
+      "prompt": "What distinguishes a substantive analytical procedure from a general planning comparison?",
+      "choices": [
+        {
+          "id": "aud-m3-l3-q3-a0",
+          "text": "A colorful chart alone."
+        },
+        {
+          "id": "aud-m3-l3-q3-a1",
+          "text": "A management explanation with no corroboration."
+        },
+        {
+          "id": "aud-m3-l3-q3-a2",
+          "text": "An independently developed expectation with appropriate reliability and precision."
+        },
+        {
+          "id": "aud-m3-l3-q3-a3",
+          "text": "Use of the recorded balance as the only expectation."
+        }
+      ],
+      "correctChoiceId": "aud-m3-l3-q3-a2",
+      "explanation": "Substantive analytics require evidence capable of detecting a material difference at the intended assurance level.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "aud",
+        "blueprintYear": 2026,
+        "areaId": "aud-III",
+        "groupId": "A-B",
+        "topicId": "aud-audit-data",
+        "taskIds": [
+          "aud-audit-data.task-3"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "AICPA auditing standards",
+            "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+          },
+          {
+            "title": "PCAOB standards",
+            "url": "https://pcaobus.org/oversight/standards"
+          }
+        ]
+      }
+    },
+    {
+      "id": "aud-m3-l3-q4",
+      "courseId": "aud",
+      "moduleId": 3,
+      "lessonId": "aud-m3-l3",
+      "topic": "Data Reliability & Analytical Procedures",
+      "prompt": "An inner join excludes customer accounts with no matching address. What risk does this introduce to a receivables test?",
+      "choices": [
+        {
+          "id": "aud-m3-l3-q4-a0",
+          "text": "An automatic overstatement of every remaining balance."
+        },
+        {
+          "id": "aud-m3-l3-q4-a1",
+          "text": "A guarantee of data integrity."
+        },
+        {
+          "id": "aud-m3-l3-q4-a2",
+          "text": "No risk because inner joins are always preferred."
+        },
+        {
+          "id": "aud-m3-l3-q4-a3",
+          "text": "An incomplete test population."
+        }
+      ],
+      "correctChoiceId": "aud-m3-l3-q4-a3",
+      "explanation": "Unmatched receivables can be silently omitted, so reconcile the joined population to the source.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "aud",
+        "blueprintYear": 2026,
+        "areaId": "aud-III",
+        "groupId": "A-B",
+        "topicId": "aud-audit-data",
+        "taskIds": [
+          "aud-audit-data.task-1"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "AICPA auditing standards",
+            "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+          },
+          {
+            "title": "PCAOB standards",
+            "url": "https://pcaobus.org/oversight/standards"
+          }
+        ]
+      }
+    },
+    {
+      "id": "aud-m3-l3-q5",
+      "courseId": "aud",
+      "moduleId": 3,
+      "lessonId": "aud-m3-l3",
+      "topic": "Data Reliability & Analytical Procedures",
+      "prompt": "Management explains a significant variance as a price change. What should the auditor do?",
+      "choices": [
+        {
+          "id": "aud-m3-l3-q5-a0",
+          "text": "Corroborate the explanation using relevant evidence."
+        },
+        {
+          "id": "aud-m3-l3-q5-a1",
+          "text": "Accept it because it is mathematically possible."
+        },
+        {
+          "id": "aud-m3-l3-q5-a2",
+          "text": "Delete the analytical procedure."
+        },
+        {
+          "id": "aud-m3-l3-q5-a3",
+          "text": "Change the investigation threshold after seeing the difference."
+        }
+      ],
+      "correctChoiceId": "aud-m3-l3-q5-a0",
+      "explanation": "A plausible explanation needs supporting evidence, such as approved price changes and sales mix data.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "aud",
+        "blueprintYear": 2026,
+        "areaId": "aud-III",
+        "groupId": "A-B",
+        "topicId": "aud-audit-data",
+        "taskIds": [
+          "aud-audit-data.task-2"
+        ],
+        "skill": "evaluation",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "AICPA auditing standards",
+            "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+          },
+          {
+            "title": "PCAOB standards",
+            "url": "https://pcaobus.org/oversight/standards"
+          }
+        ]
+      }
+    },
+    {
+      "id": "aud-m3-l3-q6",
+      "courseId": "aud",
+      "moduleId": 3,
+      "lessonId": "aud-m3-l3",
+      "topic": "Data Reliability & Analytical Procedures",
+      "prompt": "An AI tool generates an audit schedule. Which statement is correct?",
+      "choices": [
+        {
+          "id": "aud-m3-l3-q6-a0",
+          "text": "AI output is automatically independent external evidence."
+        },
+        {
+          "id": "aud-m3-l3-q6-a1",
+          "text": "The auditor remains responsible for validating the data and evaluating the output."
+        },
+        {
+          "id": "aud-m3-l3-q6-a2",
+          "text": "AI eliminates professional skepticism."
+        },
+        {
+          "id": "aud-m3-l3-q6-a3",
+          "text": "No documentation is needed if the output looks reasonable."
+        }
+      ],
+      "correctChoiceId": "aud-m3-l3-q6-a1",
+      "explanation": "Technology does not remove responsibility for reliable inputs, appropriate procedures, and supported conclusions.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "aud",
+        "blueprintYear": 2026,
+        "areaId": "aud-III",
+        "groupId": "A-B",
+        "topicId": "aud-audit-data",
+        "taskIds": [
+          "aud-audit-data.task-3"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "AICPA auditing standards",
+            "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+          },
+          {
+            "title": "PCAOB standards",
+            "url": "https://pcaobus.org/oversight/standards"
+          }
+        ]
+      }
+    },
+    {
+      "id": "aud-m3-l3-q7",
+      "courseId": "aud",
+      "moduleId": 3,
+      "lessonId": "aud-m3-l3",
+      "topic": "Data Reliability & Analytical Procedures",
+      "prompt": "Evaluate an independently prepared revenue expectation and data-quality exceptions. Operational data: 50 units were occupied for all 12 months at $1,200 per month. There are no concessions. Recorded revenue is $690,000. The case uses a $15,000 investigation threshold. Extract review: The analyst’s SQL query omits unmatched customer IDs. A separate join duplicates records when a customer has multiple addresses. Management attributes all differences to seasonality without supporting evidence. Required: Expected annual revenue.",
+      "choices": [
+        {
+          "id": "aud-m3-l3-q7-a0",
+          "text": "60000"
+        },
+        {
+          "id": "aud-m3-l3-q7-a1",
+          "text": "690000"
+        },
+        {
+          "id": "aud-m3-l3-q7-a2",
+          "text": "720000"
+        },
+        {
+          "id": "aud-m3-l3-q7-a3",
+          "text": "600000"
+        }
+      ],
+      "correctChoiceId": "aud-m3-l3-q7-a2",
+      "explanation": "50 × $1,200 × 12 = $720,000.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "aud",
+        "blueprintYear": 2026,
+        "areaId": "aud-III",
+        "groupId": "A-B",
+        "topicId": "aud-audit-data",
+        "taskIds": [
+          "aud-audit-data.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "AICPA auditing standards",
+            "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+          },
+          {
+            "title": "PCAOB standards",
+            "url": "https://pcaobus.org/oversight/standards"
+          }
+        ]
+      },
+      "familyId": "aud-m3-tbs3"
+    },
+    {
+      "id": "aud-m3-l3-q8",
+      "courseId": "aud",
+      "moduleId": 3,
+      "lessonId": "aud-m3-l3",
+      "topic": "Data Reliability & Analytical Procedures",
+      "prompt": "Evaluate an independently prepared revenue expectation and data-quality exceptions. Operational data: 50 units were occupied for all 12 months at $1,200 per month. There are no concessions. Recorded revenue is $690,000. The case uses a $15,000 investigation threshold. Extract review: The analyst’s SQL query omits unmatched customer IDs. A separate join duplicates records when a customer has multiple addresses. Management attributes all differences to seasonality without supporting evidence. Required: Absolute difference from recorded revenue.",
+      "choices": [
+        {
+          "id": "aud-m3-l3-q8-a0",
+          "text": "15000"
+        },
+        {
+          "id": "aud-m3-l3-q8-a1",
+          "text": "60000"
+        },
+        {
+          "id": "aud-m3-l3-q8-a2",
+          "text": "0"
+        },
+        {
+          "id": "aud-m3-l3-q8-a3",
+          "text": "30000"
+        }
+      ],
+      "correctChoiceId": "aud-m3-l3-q8-a3",
+      "explanation": "$720,000 − $690,000 = $30,000.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "aud",
+        "blueprintYear": 2026,
+        "areaId": "aud-III",
+        "groupId": "A-B",
+        "topicId": "aud-audit-data",
+        "taskIds": [
+          "aud-audit-data.task-2"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "AICPA auditing standards",
+            "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+          },
+          {
+            "title": "PCAOB standards",
+            "url": "https://pcaobus.org/oversight/standards"
+          }
+        ]
+      },
+      "familyId": "aud-m3-tbs3"
+    },
+    {
+      "id": "aud-m3-l3-q9",
+      "courseId": "aud",
+      "moduleId": 3,
+      "lessonId": "aud-m3-l3",
+      "topic": "Data Reliability & Analytical Procedures",
+      "prompt": "Evaluate an independently prepared revenue expectation and data-quality exceptions. Operational data: 50 units were occupied for all 12 months at $1,200 per month. There are no concessions. Recorded revenue is $690,000. The case uses a $15,000 investigation threshold. Extract review: The analyst’s SQL query omits unmatched customer IDs. A separate join duplicates records when a customer has multiple addresses. Management attributes all differences to seasonality without supporting evidence. Required: Required response to unmatched and duplicated records.",
+      "choices": [
+        {
+          "id": "aud-m3-l3-q9-a0",
+          "text": "Reconcile and correct population completeness and accuracy"
+        },
+        {
+          "id": "aud-m3-l3-q9-a1",
+          "text": "Ignore them if the chart is clear"
+        },
+        {
+          "id": "aud-m3-l3-q9-a2",
+          "text": "Increase only the font size"
+        },
+        {
+          "id": "aud-m3-l3-q9-a3",
+          "text": "Assume all differences cancel"
+        }
+      ],
+      "correctChoiceId": "aud-m3-l3-q9-a0",
+      "explanation": "Omissions and duplicate joins can bias the population and totals.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "aud",
+        "blueprintYear": 2026,
+        "areaId": "aud-III",
+        "groupId": "A-B",
+        "topicId": "aud-audit-data",
+        "taskIds": [
+          "aud-audit-data.task-3"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "AICPA auditing standards",
+            "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+          },
+          {
+            "title": "PCAOB standards",
+            "url": "https://pcaobus.org/oversight/standards"
+          }
+        ]
+      },
+      "familyId": "aud-m3-tbs3"
+    },
+    {
+      "id": "aud-m3-l3-q10",
+      "courseId": "aud",
+      "moduleId": 3,
+      "lessonId": "aud-m3-l3",
+      "topic": "Data Reliability & Analytical Procedures",
+      "prompt": "Evaluate an independently prepared revenue expectation and data-quality exceptions. Operational data: 50 units were occupied for all 12 months at $1,200 per month. There are no concessions. Recorded revenue is $690,000. The case uses a $15,000 investigation threshold. Extract review: The analyst’s SQL query omits unmatched customer IDs. A separate join duplicates records when a customer has multiple addresses. Management attributes all differences to seasonality without supporting evidence. Required: Response to the seasonality explanation.",
+      "choices": [
+        {
+          "id": "aud-m3-l3-q10-a0",
+          "text": "Accept the statement without support"
+        },
+        {
+          "id": "aud-m3-l3-q10-a1",
+          "text": "Obtain corroborating evidence and investigate the difference"
+        },
+        {
+          "id": "aud-m3-l3-q10-a2",
+          "text": "Increase the threshold to $40,000 after the fact"
+        },
+        {
+          "id": "aud-m3-l3-q10-a3",
+          "text": "Treat the expectation as a tax return"
+        }
+      ],
+      "correctChoiceId": "aud-m3-l3-q10-a1",
+      "explanation": "The difference exceeds the threshold and requires supported investigation.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "aud",
+        "blueprintYear": 2026,
+        "areaId": "aud-III",
+        "groupId": "A-B",
+        "topicId": "aud-audit-data",
+        "taskIds": [
+          "aud-audit-data.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "AICPA auditing standards",
+            "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+          },
+          {
+            "title": "PCAOB standards",
+            "url": "https://pcaobus.org/oversight/standards"
+          }
+        ]
+      },
+      "familyId": "aud-m3-tbs3"
+    },
+    {
+      "id": "aud-m3-l4-q1",
+      "courseId": "aud",
+      "moduleId": 3,
+      "lessonId": "aud-m3-l4",
+      "topic": "Confirmations, Cash, Receivables & Inventory",
+      "prompt": "A positive receivables confirmation receives no response. What is ordinarily appropriate?",
+      "choices": [
+        {
+          "id": "aud-m3-l4-q1-a0",
+          "text": "Treat silence as agreement."
+        },
+        {
+          "id": "aud-m3-l4-q1-a1",
+          "text": "Perform suitable alternative procedures and evaluate the remaining evidence gap."
+        },
+        {
+          "id": "aud-m3-l4-q1-a2",
+          "text": "Ask management to sign for the customer."
+        },
+        {
+          "id": "aud-m3-l4-q1-a3",
+          "text": "Delete the receivable from the sample without replacement or evaluation."
+        }
+      ],
+      "correctChoiceId": "aud-m3-l4-q1-a1",
+      "explanation": "Nonresponses require follow-up or alternatives when appropriate; silence is not affirmative evidence.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "aud",
+        "blueprintYear": 2026,
+        "areaId": "aud-III",
+        "groupId": "B-D",
+        "topicId": "aud-audit-evidence",
+        "taskIds": [
+          "aud-audit-evidence.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "AICPA auditing standards",
+            "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+          },
+          {
+            "title": "PCAOB standards",
+            "url": "https://pcaobus.org/oversight/standards"
+          }
+        ]
+      }
+    },
+    {
+      "id": "aud-m3-l4-q2",
+      "courseId": "aud",
+      "moduleId": 3,
+      "lessonId": "aud-m3-l4",
+      "topic": "Confirmations, Cash, Receivables & Inventory",
+      "prompt": "Who should control the sending and receipt of audit confirmations?",
+      "choices": [
+        {
+          "id": "aud-m3-l4-q2-a0",
+          "text": "Client sales personnel alone."
+        },
+        {
+          "id": "aud-m3-l4-q2-a1",
+          "text": "The customer’s salesperson."
+        },
+        {
+          "id": "aud-m3-l4-q2-a2",
+          "text": "The auditor."
+        },
+        {
+          "id": "aud-m3-l4-q2-a3",
+          "text": "An unrelated investor."
+        }
+      ],
+      "correctChoiceId": "aud-m3-l4-q2-a2",
+      "explanation": "Auditor control supports the integrity of confirmation evidence.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "aud",
+        "blueprintYear": 2026,
+        "areaId": "aud-III",
+        "groupId": "B-D",
+        "topicId": "aud-audit-evidence",
+        "taskIds": [
+          "aud-audit-evidence.task-2"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "AICPA auditing standards",
+            "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+          },
+          {
+            "title": "PCAOB standards",
+            "url": "https://pcaobus.org/oversight/standards"
+          }
+        ]
+      }
+    },
+    {
+      "id": "aud-m3-l4-q3",
+      "courseId": "aud",
+      "moduleId": 3,
+      "lessonId": "aud-m3-l4",
+      "topic": "Confirmations, Cash, Receivables & Inventory",
+      "prompt": "Which inventory test-count direction primarily addresses completeness?",
+      "choices": [
+        {
+          "id": "aud-m3-l4-q3-a0",
+          "text": "Select only recorded items and find them on the floor."
+        },
+        {
+          "id": "aud-m3-l4-q3-a1",
+          "text": "Read only the inventory valuation policy."
+        },
+        {
+          "id": "aud-m3-l4-q3-a2",
+          "text": "Confirm only the cash balance."
+        },
+        {
+          "id": "aud-m3-l4-q3-a3",
+          "text": "Select goods on the floor and trace them to count records."
+        }
+      ],
+      "correctChoiceId": "aud-m3-l4-q3-a3",
+      "explanation": "Floor-to-record testing can identify goods omitted from the count records.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "aud",
+        "blueprintYear": 2026,
+        "areaId": "aud-III",
+        "groupId": "B-D",
+        "topicId": "aud-audit-evidence",
+        "taskIds": [
+          "aud-audit-evidence.task-3"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "AICPA auditing standards",
+            "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+          },
+          {
+            "title": "PCAOB standards",
+            "url": "https://pcaobus.org/oversight/standards"
+          }
+        ]
+      }
+    },
+    {
+      "id": "aud-m3-l4-q4",
+      "courseId": "aud",
+      "moduleId": 3,
+      "lessonId": "aud-m3-l4",
+      "topic": "Confirmations, Cash, Receivables & Inventory",
+      "prompt": "Which matter is not established merely by seeing inventory in a warehouse?",
+      "choices": [
+        {
+          "id": "aud-m3-l4-q4-a0",
+          "text": "Whether the entity owns the goods."
+        },
+        {
+          "id": "aud-m3-l4-q4-a1",
+          "text": "Whether the observed goods are physically present."
+        },
+        {
+          "id": "aud-m3-l4-q4-a2",
+          "text": "Whether the count takes place at that location."
+        },
+        {
+          "id": "aud-m3-l4-q4-a3",
+          "text": "Whether the goods can be inspected."
+        }
+      ],
+      "correctChoiceId": "aud-m3-l4-q4-a0",
+      "explanation": "Consigned or third-party goods may be physically present without ownership.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "aud",
+        "blueprintYear": 2026,
+        "areaId": "aud-III",
+        "groupId": "B-D",
+        "topicId": "aud-audit-evidence",
+        "taskIds": [
+          "aud-audit-evidence.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "AICPA auditing standards",
+            "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+          },
+          {
+            "title": "PCAOB standards",
+            "url": "https://pcaobus.org/oversight/standards"
+          }
+        ]
+      }
+    },
+    {
+      "id": "aud-m3-l4-q5",
+      "courseId": "aud",
+      "moduleId": 3,
+      "lessonId": "aud-m3-l4",
+      "topic": "Confirmations, Cash, Receivables & Inventory",
+      "prompt": "A bank confirms its balance, but an old outstanding check appears on the client’s reconciliation. What should the auditor do?",
+      "choices": [
+        {
+          "id": "aud-m3-l4-q5-a0",
+          "text": "Accept the book balance solely because the bank replied."
+        },
+        {
+          "id": "aud-m3-l4-q5-a1",
+          "text": "Investigate the reconciling item rather than assuming the book balance is correct."
+        },
+        {
+          "id": "aud-m3-l4-q5-a2",
+          "text": "Ignore all reconciliation items after confirmation."
+        },
+        {
+          "id": "aud-m3-l4-q5-a3",
+          "text": "Treat every old check as a new liability automatically."
+        }
+      ],
+      "correctChoiceId": "aud-m3-l4-q5-a1",
+      "explanation": "Confirmation and reconciliation address different aspects of the balance and must be evaluated together.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "aud",
+        "blueprintYear": 2026,
+        "areaId": "aud-III",
+        "groupId": "B-D",
+        "topicId": "aud-audit-evidence",
+        "taskIds": [
+          "aud-audit-evidence.task-2"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "AICPA auditing standards",
+            "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+          },
+          {
+            "title": "PCAOB standards",
+            "url": "https://pcaobus.org/oversight/standards"
+          }
+        ]
+      }
+    },
+    {
+      "id": "aud-m3-l4-q6",
+      "courseId": "aud",
+      "moduleId": 3,
+      "lessonId": "aud-m3-l4",
+      "topic": "Confirmations, Cash, Receivables & Inventory",
+      "prompt": "A confirmation response is forwarded by the client’s controller from an unverified email account. Which action is appropriate?",
+      "choices": [
+        {
+          "id": "aud-m3-l4-q6-a0",
+          "text": "Treat it as automatically independent evidence."
+        },
+        {
+          "id": "aud-m3-l4-q6-a1",
+          "text": "Assume electronic evidence is always invalid."
+        },
+        {
+          "id": "aud-m3-l4-q6-a2",
+          "text": "Authenticate the response and evaluate its reliability."
+        },
+        {
+          "id": "aud-m3-l4-q6-a3",
+          "text": "Ignore the source if the number matches."
+        }
+      ],
+      "correctChoiceId": "aud-m3-l4-q6-a2",
+      "explanation": "The source and transmission process affect reliability; investigate rather than blindly accept or categorically reject electronic evidence.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "aud",
+        "blueprintYear": 2026,
+        "areaId": "aud-III",
+        "groupId": "B-D",
+        "topicId": "aud-audit-evidence",
+        "taskIds": [
+          "aud-audit-evidence.task-3"
+        ],
+        "skill": "evaluation",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "AICPA auditing standards",
+            "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+          },
+          {
+            "title": "PCAOB standards",
+            "url": "https://pcaobus.org/oversight/standards"
+          }
+        ]
+      }
+    },
+    {
+      "id": "aud-m3-l4-q7",
+      "courseId": "aud",
+      "moduleId": 3,
+      "lessonId": "aud-m3-l4",
+      "topic": "Confirmations, Cash, Receivables & Inventory",
+      "prompt": "Select the appropriate follow-up for four audit-evidence matters. Evidence received: A customer did not respond to a positive request. A response was forwarded through management from an unverified address. Goods counted include a clearly identified consignment from another company. A bank confirmation agrees to the bank statement, but the book reconciliation contains unusual old transfers. Audit approach: Evaluate each item’s reliability and assertion implications. No alternative procedure has yet been performed, and the balances are material. Required: Follow-up for the nonresponse.",
+      "choices": [
+        {
+          "id": "aud-m3-l4-q7-a0",
+          "text": "Treat silence as agreement"
+        },
+        {
+          "id": "aud-m3-l4-q7-a1",
+          "text": "Accept a controller signature"
+        },
+        {
+          "id": "aud-m3-l4-q7-a2",
+          "text": "Ignore the selected item"
+        },
+        {
+          "id": "aud-m3-l4-q7-a3",
+          "text": "Perform suitable alternative procedures"
+        }
+      ],
+      "correctChoiceId": "aud-m3-l4-q7-a3",
+      "explanation": "A positive request requires appropriate evidence rather than silence.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "aud",
+        "blueprintYear": 2026,
+        "areaId": "aud-III",
+        "groupId": "B-D",
+        "topicId": "aud-audit-evidence",
+        "taskIds": [
+          "aud-audit-evidence.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "AICPA auditing standards",
+            "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+          },
+          {
+            "title": "PCAOB standards",
+            "url": "https://pcaobus.org/oversight/standards"
+          }
+        ]
+      },
+      "familyId": "aud-m3-tbs4"
+    },
+    {
+      "id": "aud-m3-l4-q8",
+      "courseId": "aud",
+      "moduleId": 3,
+      "lessonId": "aud-m3-l4",
+      "topic": "Confirmations, Cash, Receivables & Inventory",
+      "prompt": "Select the appropriate follow-up for four audit-evidence matters. Evidence received: A customer did not respond to a positive request. A response was forwarded through management from an unverified address. Goods counted include a clearly identified consignment from another company. A bank confirmation agrees to the bank statement, but the book reconciliation contains unusual old transfers. Audit approach: Evaluate each item’s reliability and assertion implications. No alternative procedure has yet been performed, and the balances are material. Required: Follow-up for the forwarded response.",
+      "choices": [
+        {
+          "id": "aud-m3-l4-q8-a0",
+          "text": "Authenticate source and transmission"
+        },
+        {
+          "id": "aud-m3-l4-q8-a1",
+          "text": "Assume independence"
+        },
+        {
+          "id": "aud-m3-l4-q8-a2",
+          "text": "Reject every electronic response"
+        },
+        {
+          "id": "aud-m3-l4-q8-a3",
+          "text": "Ignore the source"
+        }
+      ],
+      "correctChoiceId": "aud-m3-l4-q8-a0",
+      "explanation": "Reliability must be established in the circumstances.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "aud",
+        "blueprintYear": 2026,
+        "areaId": "aud-III",
+        "groupId": "B-D",
+        "topicId": "aud-audit-evidence",
+        "taskIds": [
+          "aud-audit-evidence.task-2"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "AICPA auditing standards",
+            "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+          },
+          {
+            "title": "PCAOB standards",
+            "url": "https://pcaobus.org/oversight/standards"
+          }
+        ]
+      },
+      "familyId": "aud-m3-tbs4"
+    },
+    {
+      "id": "aud-m3-l4-q9",
+      "courseId": "aud",
+      "moduleId": 3,
+      "lessonId": "aud-m3-l4",
+      "topic": "Confirmations, Cash, Receivables & Inventory",
+      "prompt": "Select the appropriate follow-up for four audit-evidence matters. Evidence received: A customer did not respond to a positive request. A response was forwarded through management from an unverified address. Goods counted include a clearly identified consignment from another company. A bank confirmation agrees to the bank statement, but the book reconciliation contains unusual old transfers. Audit approach: Evaluate each item’s reliability and assertion implications. No alternative procedure has yet been performed, and the balances are material. Required: Assertion implicated by the consignment.",
+      "choices": [
+        {
+          "id": "aud-m3-l4-q9-a0",
+          "text": "Only audit timing"
+        },
+        {
+          "id": "aud-m3-l4-q9-a1",
+          "text": "Rights and obligations"
+        },
+        {
+          "id": "aud-m3-l4-q9-a2",
+          "text": "No assertion"
+        },
+        {
+          "id": "aud-m3-l4-q9-a3",
+          "text": "Only depreciation"
+        }
+      ],
+      "correctChoiceId": "aud-m3-l4-q9-a1",
+      "explanation": "Physical custody does not establish ownership.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "aud",
+        "blueprintYear": 2026,
+        "areaId": "aud-III",
+        "groupId": "B-D",
+        "topicId": "aud-audit-evidence",
+        "taskIds": [
+          "aud-audit-evidence.task-3"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "AICPA auditing standards",
+            "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+          },
+          {
+            "title": "PCAOB standards",
+            "url": "https://pcaobus.org/oversight/standards"
+          }
+        ]
+      },
+      "familyId": "aud-m3-tbs4"
+    },
+    {
+      "id": "aud-m3-l4-q10",
+      "courseId": "aud",
+      "moduleId": 3,
+      "lessonId": "aud-m3-l4",
+      "topic": "Confirmations, Cash, Receivables & Inventory",
+      "prompt": "Select the appropriate follow-up for four audit-evidence matters. Evidence received: A customer did not respond to a positive request. A response was forwarded through management from an unverified address. Goods counted include a clearly identified consignment from another company. A bank confirmation agrees to the bank statement, but the book reconciliation contains unusual old transfers. Audit approach: Evaluate each item’s reliability and assertion implications. No alternative procedure has yet been performed, and the balances are material. Required: Follow-up for old bank transfers.",
+      "choices": [
+        {
+          "id": "aud-m3-l4-q10-a0",
+          "text": "Rely only on the confirmed bank balance"
+        },
+        {
+          "id": "aud-m3-l4-q10-a1",
+          "text": "Remove the reconciliation from the file"
+        },
+        {
+          "id": "aud-m3-l4-q10-a2",
+          "text": "Investigate and support the reconciling items"
+        },
+        {
+          "id": "aud-m3-l4-q10-a3",
+          "text": "Assume all transfers are immaterial"
+        }
+      ],
+      "correctChoiceId": "aud-m3-l4-q10-a2",
+      "explanation": "Unusual reconciling items can affect the book cash balance and cutoff.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "aud",
+        "blueprintYear": 2026,
+        "areaId": "aud-III",
+        "groupId": "B-D",
+        "topicId": "aud-audit-evidence",
+        "taskIds": [
+          "aud-audit-evidence.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "AICPA auditing standards",
+            "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+          },
+          {
+            "title": "PCAOB standards",
+            "url": "https://pcaobus.org/oversight/standards"
+          }
+        ]
+      },
+      "familyId": "aud-m3-tbs4"
+    },
+    {
+      "id": "aud-m3-l5-q1",
+      "courseId": "aud",
+      "moduleId": 3,
+      "lessonId": "aud-m3-l5",
+      "topic": "Liabilities, Estimates, Litigation & Related Parties",
+      "prompt": "A January payment of $35,000 relates entirely to services received in December. No year-end accrual exists. What does it indicate?",
+      "choices": [
+        {
+          "id": "aud-m3-l5-q1-a0",
+          "text": "A January-only expense in every framework."
+        },
+        {
+          "id": "aud-m3-l5-q1-a1",
+          "text": "No liability because payment was after year-end."
+        },
+        {
+          "id": "aud-m3-l5-q1-a2",
+          "text": "A potential $35,000 unrecorded year-end liability and expense."
+        },
+        {
+          "id": "aud-m3-l5-q1-a3",
+          "text": "An automatic $35,000 asset."
+        }
+      ],
+      "correctChoiceId": "aud-m3-l5-q1-a2",
+      "explanation": "Recognition depends on the obligation and service period, not merely the cash-payment date.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "aud",
+        "blueprintYear": 2026,
+        "areaId": "aud-III",
+        "groupId": "D-E",
+        "topicId": "aud-audit-liabilities-estimates",
+        "taskIds": [
+          "aud-audit-liabilities-estimates.task-1"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "AICPA auditing standards",
+            "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+          },
+          {
+            "title": "PCAOB standards",
+            "url": "https://pcaobus.org/oversight/standards"
+          }
+        ]
+      }
+    },
+    {
+      "id": "aud-m3-l5-q2",
+      "courseId": "aud",
+      "moduleId": 3,
+      "lessonId": "aud-m3-l5",
+      "topic": "Liabilities, Estimates, Litigation & Related Parties",
+      "prompt": "Which source is useful in a search for unrecorded liabilities?",
+      "choices": [
+        {
+          "id": "aud-m3-l5-q2-a0",
+          "text": "Only the recorded year-end liability list."
+        },
+        {
+          "id": "aud-m3-l5-q2-a1",
+          "text": "Only the auditor’s engagement letter."
+        },
+        {
+          "id": "aud-m3-l5-q2-a2",
+          "text": "Only the common-stock register."
+        },
+        {
+          "id": "aud-m3-l5-q2-a3",
+          "text": "Subsequent cash disbursements and supporting invoices."
+        }
+      ],
+      "correctChoiceId": "aud-m3-l5-q2-a3",
+      "explanation": "A source outside the possibly incomplete liability ledger can reveal omitted obligations.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "aud",
+        "blueprintYear": 2026,
+        "areaId": "aud-III",
+        "groupId": "D-E",
+        "topicId": "aud-audit-liabilities-estimates",
+        "taskIds": [
+          "aud-audit-liabilities-estimates.task-2"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "AICPA auditing standards",
+            "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+          },
+          {
+            "title": "PCAOB standards",
+            "url": "https://pcaobus.org/oversight/standards"
+          }
+        ]
+      }
+    },
+    {
+      "id": "aud-m3-l5-q3",
+      "courseId": "aud",
+      "moduleId": 3,
+      "lessonId": "aud-m3-l5",
+      "topic": "Liabilities, Estimates, Litigation & Related Parties",
+      "prompt": "Management changes an estimate assumption solely to meet an earnings target. What is a key audit concern?",
+      "choices": [
+        {
+          "id": "aud-m3-l5-q3-a0",
+          "text": "Management bias in the estimate."
+        },
+        {
+          "id": "aud-m3-l5-q3-a1",
+          "text": "Only the number of decimal places."
+        },
+        {
+          "id": "aud-m3-l5-q3-a2",
+          "text": "A guarantee that the estimate is immaterial."
+        },
+        {
+          "id": "aud-m3-l5-q3-a3",
+          "text": "An automatic permission to stop testing."
+        }
+      ],
+      "correctChoiceId": "aud-m3-l5-q3-a0",
+      "explanation": "The motive and unsupported assumption can indicate bias and require further evaluation.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "aud",
+        "blueprintYear": 2026,
+        "areaId": "aud-III",
+        "groupId": "D-E",
+        "topicId": "aud-audit-liabilities-estimates",
+        "taskIds": [
+          "aud-audit-liabilities-estimates.task-3"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "AICPA auditing standards",
+            "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+          },
+          {
+            "title": "PCAOB standards",
+            "url": "https://pcaobus.org/oversight/standards"
+          }
+        ]
+      }
+    },
+    {
+      "id": "aud-m3-l5-q4",
+      "courseId": "aud",
+      "moduleId": 3,
+      "lessonId": "aud-m3-l5",
+      "topic": "Liabilities, Estimates, Litigation & Related Parties",
+      "prompt": "Which is an appropriate audit approach to an accounting estimate?",
+      "choices": [
+        {
+          "id": "aud-m3-l5-q4-a0",
+          "text": "Accept management’s point estimate because estimates are uncertain."
+        },
+        {
+          "id": "aud-m3-l5-q4-a1",
+          "text": "Develop an independent expectation or range using relevant evidence."
+        },
+        {
+          "id": "aud-m3-l5-q4-a2",
+          "text": "Use an unrelated industry number without analysis."
+        },
+        {
+          "id": "aud-m3-l5-q4-a3",
+          "text": "Assume all subsequent events adjust the estimate."
+        }
+      ],
+      "correctChoiceId": "aud-m3-l5-q4-a1",
+      "explanation": "An independent expectation can provide evidence when its assumptions and data are relevant and reliable.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "aud",
+        "blueprintYear": 2026,
+        "areaId": "aud-III",
+        "groupId": "D-E",
+        "topicId": "aud-audit-liabilities-estimates",
+        "taskIds": [
+          "aud-audit-liabilities-estimates.task-1"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "AICPA auditing standards",
+            "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+          },
+          {
+            "title": "PCAOB standards",
+            "url": "https://pcaobus.org/oversight/standards"
+          }
+        ]
+      }
+    },
+    {
+      "id": "aud-m3-l5-q5",
+      "courseId": "aud",
+      "moduleId": 3,
+      "lessonId": "aud-m3-l5",
+      "topic": "Liabilities, Estimates, Litigation & Related Parties",
+      "prompt": "Management refuses permission for necessary inquiry of legal counsel about material litigation. What should the auditor evaluate?",
+      "choices": [
+        {
+          "id": "aud-m3-l5-q5-a0",
+          "text": "Only whether the law firm is expensive."
+        },
+        {
+          "id": "aud-m3-l5-q5-a1",
+          "text": "Whether the auditor can guarantee the court outcome."
+        },
+        {
+          "id": "aud-m3-l5-q5-a2",
+          "text": "The resulting evidence limitation and its reporting implications."
+        },
+        {
+          "id": "aud-m3-l5-q5-a3",
+          "text": "Nothing if management signs a broad representation."
+        }
+      ],
+      "correctChoiceId": "aud-m3-l5-q5-a2",
+      "explanation": "A representation does not replace necessary evidence; evaluate materiality and pervasiveness of the limitation.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "aud",
+        "blueprintYear": 2026,
+        "areaId": "aud-III",
+        "groupId": "D-E",
+        "topicId": "aud-audit-liabilities-estimates",
+        "taskIds": [
+          "aud-audit-liabilities-estimates.task-2"
+        ],
+        "skill": "evaluation",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "AICPA auditing standards",
+            "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+          },
+          {
+            "title": "PCAOB standards",
+            "url": "https://pcaobus.org/oversight/standards"
+          }
+        ]
+      }
+    },
+    {
+      "id": "aud-m3-l5-q6",
+      "courseId": "aud",
+      "moduleId": 3,
+      "lessonId": "aud-m3-l5",
+      "topic": "Liabilities, Estimates, Litigation & Related Parties",
+      "prompt": "A large year-end related-party sale has no clear business purpose and includes a side agreement. What is appropriate?",
+      "choices": [
+        {
+          "id": "aud-m3-l5-q6-a0",
+          "text": "Accept the invoice alone."
+        },
+        {
+          "id": "aud-m3-l5-q6-a1",
+          "text": "Exclude the sale from all testing."
+        },
+        {
+          "id": "aud-m3-l5-q6-a2",
+          "text": "Assume related-party sales are always prohibited."
+        },
+        {
+          "id": "aud-m3-l5-q6-a3",
+          "text": "Investigate substance, recognition, disclosure, and fraud implications."
+        }
+      ],
+      "correctChoiceId": "aud-m3-l5-q6-a3",
+      "explanation": "The auditor must understand the full arrangement and its financial-reporting implications.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "aud",
+        "blueprintYear": 2026,
+        "areaId": "aud-III",
+        "groupId": "D-E",
+        "topicId": "aud-audit-liabilities-estimates",
+        "taskIds": [
+          "aud-audit-liabilities-estimates.task-3"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "AICPA auditing standards",
+            "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+          },
+          {
+            "title": "PCAOB standards",
+            "url": "https://pcaobus.org/oversight/standards"
+          }
+        ]
+      }
+    },
+    {
+      "id": "aud-m3-l5-q7",
+      "courseId": "aud",
+      "moduleId": 3,
+      "lessonId": "aud-m3-l5",
+      "topic": "Liabilities, Estimates, Litigation & Related Parties",
+      "prompt": "Evaluate a subsequent-disbursement schedule and two judgmental matters. Payments after year-end: Payment A: $22,000 for December services, not accrued. Payment B: $18,000 for January services. Payment C: $31,000 for goods received before year-end, not accrued. All amounts are valid obligations. Other matters: Management sets an unsupported reserve assumption to meet a profit target and refuses necessary legal-counsel inquiry about material litigation. Required: Total omitted year-end liabilities from A, B, and C.",
+      "choices": [
+        {
+          "id": "aud-m3-l5-q7-a0",
+          "text": "53000"
+        },
+        {
+          "id": "aud-m3-l5-q7-a1",
+          "text": "71000"
+        },
+        {
+          "id": "aud-m3-l5-q7-a2",
+          "text": "22000"
+        },
+        {
+          "id": "aud-m3-l5-q7-a3",
+          "text": "49000"
+        }
+      ],
+      "correctChoiceId": "aud-m3-l5-q7-a0",
+      "explanation": "Only December services and goods already received create the described year-end omissions: $22,000 + $31,000.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "aud",
+        "blueprintYear": 2026,
+        "areaId": "aud-III",
+        "groupId": "D-E",
+        "topicId": "aud-audit-liabilities-estimates",
+        "taskIds": [
+          "aud-audit-liabilities-estimates.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "AICPA auditing standards",
+            "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+          },
+          {
+            "title": "PCAOB standards",
+            "url": "https://pcaobus.org/oversight/standards"
+          }
+        ]
+      },
+      "familyId": "aud-m3-tbs5"
+    },
+    {
+      "id": "aud-m3-l5-q8",
+      "courseId": "aud",
+      "moduleId": 3,
+      "lessonId": "aud-m3-l5",
+      "topic": "Liabilities, Estimates, Litigation & Related Parties",
+      "prompt": "Evaluate a subsequent-disbursement schedule and two judgmental matters. Payments after year-end: Payment A: $22,000 for December services, not accrued. Payment B: $18,000 for January services. Payment C: $31,000 for goods received before year-end, not accrued. All amounts are valid obligations. Other matters: Management sets an unsupported reserve assumption to meet a profit target and refuses necessary legal-counsel inquiry about material litigation. Required: Amount belonging only to January based on these facts.",
+      "choices": [
+        {
+          "id": "aud-m3-l5-q8-a0",
+          "text": "31000"
+        },
+        {
+          "id": "aud-m3-l5-q8-a1",
+          "text": "18000"
+        },
+        {
+          "id": "aud-m3-l5-q8-a2",
+          "text": "22000"
+        },
+        {
+          "id": "aud-m3-l5-q8-a3",
+          "text": "71000"
+        }
+      ],
+      "correctChoiceId": "aud-m3-l5-q8-a1",
+      "explanation": "Payment B relates to January services.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "aud",
+        "blueprintYear": 2026,
+        "areaId": "aud-III",
+        "groupId": "D-E",
+        "topicId": "aud-audit-liabilities-estimates",
+        "taskIds": [
+          "aud-audit-liabilities-estimates.task-2"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "AICPA auditing standards",
+            "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+          },
+          {
+            "title": "PCAOB standards",
+            "url": "https://pcaobus.org/oversight/standards"
+          }
+        ]
+      },
+      "familyId": "aud-m3-tbs5"
+    },
+    {
+      "id": "aud-m3-l5-q9",
+      "courseId": "aud",
+      "moduleId": 3,
+      "lessonId": "aud-m3-l5",
+      "topic": "Liabilities, Estimates, Litigation & Related Parties",
+      "prompt": "Evaluate a subsequent-disbursement schedule and two judgmental matters. Payments after year-end: Payment A: $22,000 for December services, not accrued. Payment B: $18,000 for January services. Payment C: $31,000 for goods received before year-end, not accrued. All amounts are valid obligations. Other matters: Management sets an unsupported reserve assumption to meet a profit target and refuses necessary legal-counsel inquiry about material litigation. Required: Primary reserve concern.",
+      "choices": [
+        {
+          "id": "aud-m3-l5-q9-a0",
+          "text": "Only a documentation font issue"
+        },
+        {
+          "id": "aud-m3-l5-q9-a1",
+          "text": "No issue because estimates are subjective"
+        },
+        {
+          "id": "aud-m3-l5-q9-a2",
+          "text": "Unsupported management bias"
+        },
+        {
+          "id": "aud-m3-l5-q9-a3",
+          "text": "Automatic assurance from the target"
+        }
+      ],
+      "correctChoiceId": "aud-m3-l5-q9-a2",
+      "explanation": "The assumption is driven by an earnings target rather than evidence.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "aud",
+        "blueprintYear": 2026,
+        "areaId": "aud-III",
+        "groupId": "D-E",
+        "topicId": "aud-audit-liabilities-estimates",
+        "taskIds": [
+          "aud-audit-liabilities-estimates.task-3"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "AICPA auditing standards",
+            "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+          },
+          {
+            "title": "PCAOB standards",
+            "url": "https://pcaobus.org/oversight/standards"
+          }
+        ]
+      },
+      "familyId": "aud-m3-tbs5"
+    },
+    {
+      "id": "aud-m3-l5-q10",
+      "courseId": "aud",
+      "moduleId": 3,
+      "lessonId": "aud-m3-l5",
+      "topic": "Liabilities, Estimates, Litigation & Related Parties",
+      "prompt": "Evaluate a subsequent-disbursement schedule and two judgmental matters. Payments after year-end: Payment A: $22,000 for December services, not accrued. Payment B: $18,000 for January services. Payment C: $31,000 for goods received before year-end, not accrued. All amounts are valid obligations. Other matters: Management sets an unsupported reserve assumption to meet a profit target and refuses necessary legal-counsel inquiry about material litigation. Required: Consequence to evaluate from legal-counsel refusal.",
+      "choices": [
+        {
+          "id": "aud-m3-l5-q10-a0",
+          "text": "A guarantee the lawsuit will be won"
+        },
+        {
+          "id": "aud-m3-l5-q10-a1",
+          "text": "Automatic immateriality"
+        },
+        {
+          "id": "aud-m3-l5-q10-a2",
+          "text": "Permission to omit disclosure"
+        },
+        {
+          "id": "aud-m3-l5-q10-a3",
+          "text": "An evidence limitation"
+        }
+      ],
+      "correctChoiceId": "aud-m3-l5-q10-a3",
+      "explanation": "Necessary evidence cannot be replaced solely by management representations.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "aud",
+        "blueprintYear": 2026,
+        "areaId": "aud-III",
+        "groupId": "D-E",
+        "topicId": "aud-audit-liabilities-estimates",
+        "taskIds": [
+          "aud-audit-liabilities-estimates.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "AICPA auditing standards",
+            "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+          },
+          {
+            "title": "PCAOB standards",
+            "url": "https://pcaobus.org/oversight/standards"
+          }
+        ]
+      },
+      "familyId": "aud-m3-tbs5"
+    },
+    {
+      "id": "aud-m3-l6-q1",
+      "courseId": "aud",
+      "moduleId": 3,
+      "lessonId": "aud-m3-l6",
+      "topic": "Investments, Fair Value & Evidence Conclusions",
+      "prompt": "A custodian confirms the number of securities held. Which matter generally needs separate evidence?",
+      "choices": [
+        {
+          "id": "aud-m3-l6-q1-a0",
+          "text": "Whether the confirmation has a date."
+        },
+        {
+          "id": "aud-m3-l6-q1-a1",
+          "text": "Whether the securities were described in the response."
+        },
+        {
+          "id": "aud-m3-l6-q1-a2",
+          "text": "Whether the auditor received a response."
+        },
+        {
+          "id": "aud-m3-l6-q1-a3",
+          "text": "Whether the year-end recorded fair value is appropriate."
+        }
+      ],
+      "correctChoiceId": "aud-m3-l6-q1-a3",
+      "explanation": "Quantity and custody evidence do not automatically establish fair value.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "aud",
+        "blueprintYear": 2026,
+        "areaId": "aud-III",
+        "groupId": "E-F",
+        "topicId": "aud-audit-investments",
+        "taskIds": [
+          "aud-audit-investments.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "AICPA auditing standards",
+            "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+          },
+          {
+            "title": "PCAOB standards",
+            "url": "https://pcaobus.org/oversight/standards"
+          }
+        ]
+      }
+    },
+    {
+      "id": "aud-m3-l6-q2",
+      "courseId": "aud",
+      "moduleId": 3,
+      "lessonId": "aud-m3-l6",
+      "topic": "Investments, Fair Value & Evidence Conclusions",
+      "prompt": "An entity holds 2,000 units. The relevant year-end fair value is $47 per unit, but it records $100,000. What is the indicated valuation difference?",
+      "choices": [
+        {
+          "id": "aud-m3-l6-q2-a0",
+          "text": "$6,000 overstatement."
+        },
+        {
+          "id": "aud-m3-l6-q2-a1",
+          "text": "$6,000 understatement."
+        },
+        {
+          "id": "aud-m3-l6-q2-a2",
+          "text": "$94,000 overstatement."
+        },
+        {
+          "id": "aud-m3-l6-q2-a3",
+          "text": "No difference."
+        }
+      ],
+      "correctChoiceId": "aud-m3-l6-q2-a0",
+      "explanation": "2,000 × $47 = $94,000; recorded value exceeds it by $6,000.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "aud",
+        "blueprintYear": 2026,
+        "areaId": "aud-III",
+        "groupId": "E-F",
+        "topicId": "aud-audit-investments",
+        "taskIds": [
+          "aud-audit-investments.task-2"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "AICPA auditing standards",
+            "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+          },
+          {
+            "title": "PCAOB standards",
+            "url": "https://pcaobus.org/oversight/standards"
+          }
+        ]
+      }
+    },
+    {
+      "id": "aud-m3-l6-q3",
+      "courseId": "aud",
+      "moduleId": 3,
+      "lessonId": "aud-m3-l6",
+      "topic": "Investments, Fair Value & Evidence Conclusions",
+      "prompt": "Which statement correctly distinguishes sufficiency and appropriateness?",
+      "choices": [
+        {
+          "id": "aud-m3-l6-q3-a0",
+          "text": "Sufficiency concerns the fee; appropriateness concerns the report length."
+        },
+        {
+          "id": "aud-m3-l6-q3-a1",
+          "text": "Sufficiency concerns quantity; appropriateness concerns evidence quality."
+        },
+        {
+          "id": "aud-m3-l6-q3-a2",
+          "text": "Both refer only to the number of documents."
+        },
+        {
+          "id": "aud-m3-l6-q3-a3",
+          "text": "Both eliminate the need for professional judgment."
+        }
+      ],
+      "correctChoiceId": "aud-m3-l6-q3-a1",
+      "explanation": "Quality includes relevance and reliability, while sufficiency addresses the amount of evidence.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "aud",
+        "blueprintYear": 2026,
+        "areaId": "aud-III",
+        "groupId": "E-F",
+        "topicId": "aud-audit-investments",
+        "taskIds": [
+          "aud-audit-investments.task-3"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "AICPA auditing standards",
+            "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+          },
+          {
+            "title": "PCAOB standards",
+            "url": "https://pcaobus.org/oversight/standards"
+          }
+        ]
+      }
+    },
+    {
+      "id": "aud-m3-l6-q4",
+      "courseId": "aud",
+      "moduleId": 3,
+      "lessonId": "aud-m3-l6",
+      "topic": "Investments, Fair Value & Evidence Conclusions",
+      "prompt": "Two reliable-looking sources provide conflicting prices for a material investment. What is appropriate?",
+      "choices": [
+        {
+          "id": "aud-m3-l6-q4-a0",
+          "text": "Select the price closest to management’s preference."
+        },
+        {
+          "id": "aud-m3-l6-q4-a1",
+          "text": "Average the numbers without evaluating relevance."
+        },
+        {
+          "id": "aud-m3-l6-q4-a2",
+          "text": "Investigate the difference and obtain evidence supporting the measurement."
+        },
+        {
+          "id": "aud-m3-l6-q4-a3",
+          "text": "Ignore both because they conflict."
+        }
+      ],
+      "correctChoiceId": "aud-m3-l6-q4-a2",
+      "explanation": "Evaluate source relevance, instrument comparability, date, and pricing assumptions before concluding.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "aud",
+        "blueprintYear": 2026,
+        "areaId": "aud-III",
+        "groupId": "E-F",
+        "topicId": "aud-audit-investments",
+        "taskIds": [
+          "aud-audit-investments.task-1"
+        ],
+        "skill": "evaluation",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "AICPA auditing standards",
+            "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+          },
+          {
+            "title": "PCAOB standards",
+            "url": "https://pcaobus.org/oversight/standards"
+          }
+        ]
+      }
+    },
+    {
+      "id": "aud-m3-l6-q5",
+      "courseId": "aud",
+      "moduleId": 3,
+      "lessonId": "aud-m3-l6",
+      "topic": "Investments, Fair Value & Evidence Conclusions",
+      "prompt": "Management signs a representation that all investments are properly valued, but supporting model data is unavailable. What follows?",
+      "choices": [
+        {
+          "id": "aud-m3-l6-q5-a0",
+          "text": "The signature resolves every evidence gap."
+        },
+        {
+          "id": "aud-m3-l6-q5-a1",
+          "text": "The model must be correct if its output is material."
+        },
+        {
+          "id": "aud-m3-l6-q5-a2",
+          "text": "No opinion consideration is ever needed."
+        },
+        {
+          "id": "aud-m3-l6-q5-a3",
+          "text": "The representation does not replace necessary valuation evidence."
+        }
+      ],
+      "correctChoiceId": "aud-m3-l6-q5-a3",
+      "explanation": "Representations are necessary in many audits but are not substitutes for other reasonably expected evidence.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "aud",
+        "blueprintYear": 2026,
+        "areaId": "aud-III",
+        "groupId": "E-F",
+        "topicId": "aud-audit-investments",
+        "taskIds": [
+          "aud-audit-investments.task-2"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "AICPA auditing standards",
+            "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+          },
+          {
+            "title": "PCAOB standards",
+            "url": "https://pcaobus.org/oversight/standards"
+          }
+        ]
+      }
+    },
+    {
+      "id": "aud-m3-l6-q6",
+      "courseId": "aud",
+      "moduleId": 3,
+      "lessonId": "aud-m3-l6",
+      "topic": "Investments, Fair Value & Evidence Conclusions",
+      "prompt": "A material investment is pledged as collateral. What audit consideration arises beyond existence?",
+      "choices": [
+        {
+          "id": "aud-m3-l6-q6-a0",
+          "text": "Appropriate restriction or pledge disclosure."
+        },
+        {
+          "id": "aud-m3-l6-q6-a1",
+          "text": "Only the auditor’s independence from the custodian."
+        },
+        {
+          "id": "aud-m3-l6-q6-a2",
+          "text": "Automatic derecognition of the investment."
+        },
+        {
+          "id": "aud-m3-l6-q6-a3",
+          "text": "No reporting consequence in any case."
+        }
+      ],
+      "correctChoiceId": "aud-m3-l6-q6-a0",
+      "explanation": "Restrictions and pledges may require disclosure; confirmation alone does not settle presentation.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "aud",
+        "blueprintYear": 2026,
+        "areaId": "aud-III",
+        "groupId": "E-F",
+        "topicId": "aud-audit-investments",
+        "taskIds": [
+          "aud-audit-investments.task-3"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "AICPA auditing standards",
+            "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+          },
+          {
+            "title": "PCAOB standards",
+            "url": "https://pcaobus.org/oversight/standards"
+          }
+        ]
+      }
+    },
+    {
+      "id": "aud-m3-l6-q7",
+      "courseId": "aud",
+      "moduleId": 3,
+      "lessonId": "aud-m3-l6",
+      "topic": "Investments, Fair Value & Evidence Conclusions",
+      "prompt": "Reconcile confirmed quantities to fair values and evaluate the remaining evidence issues. Investment schedule: Security A: 1,500 units, recorded at $90,000; relevant year-end quoted price $56. Security B: confirmed as held but subject to a material collateral pledge omitted from disclosures. Audit file: The controller proposes using a written representation instead of obtaining the valuation model inputs for a separate material Level 3 investment. Required: Fair value of Security A.",
+      "choices": [
+        {
+          "id": "aud-m3-l6-q7-a0",
+          "text": "90000"
+        },
+        {
+          "id": "aud-m3-l6-q7-a1",
+          "text": "84000"
+        },
+        {
+          "id": "aud-m3-l6-q7-a2",
+          "text": "56000"
+        },
+        {
+          "id": "aud-m3-l6-q7-a3",
+          "text": "96000"
+        }
+      ],
+      "correctChoiceId": "aud-m3-l6-q7-a1",
+      "explanation": "1,500 × $56 = $84,000.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "aud",
+        "blueprintYear": 2026,
+        "areaId": "aud-III",
+        "groupId": "E-F",
+        "topicId": "aud-audit-investments",
+        "taskIds": [
+          "aud-audit-investments.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "AICPA auditing standards",
+            "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+          },
+          {
+            "title": "PCAOB standards",
+            "url": "https://pcaobus.org/oversight/standards"
+          }
+        ]
+      },
+      "familyId": "aud-m3-tbs6"
+    },
+    {
+      "id": "aud-m3-l6-q8",
+      "courseId": "aud",
+      "moduleId": 3,
+      "lessonId": "aud-m3-l6",
+      "topic": "Investments, Fair Value & Evidence Conclusions",
+      "prompt": "Reconcile confirmed quantities to fair values and evaluate the remaining evidence issues. Investment schedule: Security A: 1,500 units, recorded at $90,000; relevant year-end quoted price $56. Security B: confirmed as held but subject to a material collateral pledge omitted from disclosures. Audit file: The controller proposes using a written representation instead of obtaining the valuation model inputs for a separate material Level 3 investment. Required: Overstatement in Security A.",
+      "choices": [
+        {
+          "id": "aud-m3-l6-q8-a0",
+          "text": "84000"
+        },
+        {
+          "id": "aud-m3-l6-q8-a1",
+          "text": "90000"
+        },
+        {
+          "id": "aud-m3-l6-q8-a2",
+          "text": "6000"
+        },
+        {
+          "id": "aud-m3-l6-q8-a3",
+          "text": "0"
+        }
+      ],
+      "correctChoiceId": "aud-m3-l6-q8-a2",
+      "explanation": "$90,000 recorded less $84,000 supported value = $6,000.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "aud",
+        "blueprintYear": 2026,
+        "areaId": "aud-III",
+        "groupId": "E-F",
+        "topicId": "aud-audit-investments",
+        "taskIds": [
+          "aud-audit-investments.task-2"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "AICPA auditing standards",
+            "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+          },
+          {
+            "title": "PCAOB standards",
+            "url": "https://pcaobus.org/oversight/standards"
+          }
+        ]
+      },
+      "familyId": "aud-m3-tbs6"
+    },
+    {
+      "id": "aud-m3-l6-q9",
+      "courseId": "aud",
+      "moduleId": 3,
+      "lessonId": "aud-m3-l6",
+      "topic": "Investments, Fair Value & Evidence Conclusions",
+      "prompt": "Reconcile confirmed quantities to fair values and evaluate the remaining evidence issues. Investment schedule: Security A: 1,500 units, recorded at $90,000; relevant year-end quoted price $56. Security B: confirmed as held but subject to a material collateral pledge omitted from disclosures. Audit file: The controller proposes using a written representation instead of obtaining the valuation model inputs for a separate material Level 3 investment. Required: Additional issue for Security B.",
+      "choices": [
+        {
+          "id": "aud-m3-l6-q9-a0",
+          "text": "Automatic nonexistence"
+        },
+        {
+          "id": "aud-m3-l6-q9-a1",
+          "text": "No possible reporting issue"
+        },
+        {
+          "id": "aud-m3-l6-q9-a2",
+          "text": "A payroll completeness error"
+        },
+        {
+          "id": "aud-m3-l6-q9-a3",
+          "text": "Omitted pledge disclosure"
+        }
+      ],
+      "correctChoiceId": "aud-m3-l6-q9-a3",
+      "explanation": "The pledge affects disclosure even though custody is confirmed.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "aud",
+        "blueprintYear": 2026,
+        "areaId": "aud-III",
+        "groupId": "E-F",
+        "topicId": "aud-audit-investments",
+        "taskIds": [
+          "aud-audit-investments.task-3"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "AICPA auditing standards",
+            "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+          },
+          {
+            "title": "PCAOB standards",
+            "url": "https://pcaobus.org/oversight/standards"
+          }
+        ]
+      },
+      "familyId": "aud-m3-tbs6"
+    },
+    {
+      "id": "aud-m3-l6-q10",
+      "courseId": "aud",
+      "moduleId": 3,
+      "lessonId": "aud-m3-l6",
+      "topic": "Investments, Fair Value & Evidence Conclusions",
+      "prompt": "Reconcile confirmed quantities to fair values and evaluate the remaining evidence issues. Investment schedule: Security A: 1,500 units, recorded at $90,000; relevant year-end quoted price $56. Security B: confirmed as held but subject to a material collateral pledge omitted from disclosures. Audit file: The controller proposes using a written representation instead of obtaining the valuation model inputs for a separate material Level 3 investment. Required: Response to the representation proposal.",
+      "choices": [
+        {
+          "id": "aud-m3-l6-q10-a0",
+          "text": "Obtain sufficient appropriate valuation evidence"
+        },
+        {
+          "id": "aud-m3-l6-q10-a1",
+          "text": "Accept the representation as a complete substitute"
+        },
+        {
+          "id": "aud-m3-l6-q10-a2",
+          "text": "Ignore the model because it is complex"
+        },
+        {
+          "id": "aud-m3-l6-q10-a3",
+          "text": "Use an unrelated market price"
+        }
+      ],
+      "correctChoiceId": "aud-m3-l6-q10-a0",
+      "explanation": "The auditor needs evidence about relevant model inputs and assumptions.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "aud",
+        "blueprintYear": 2026,
+        "areaId": "aud-III",
+        "groupId": "E-F",
+        "topicId": "aud-audit-investments",
+        "taskIds": [
+          "aud-audit-investments.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "AICPA auditing standards",
+            "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+          },
+          {
+            "title": "PCAOB standards",
+            "url": "https://pcaobus.org/oversight/standards"
+          }
+        ]
+      },
+      "familyId": "aud-m3-tbs6"
+    }
+  ]
+}

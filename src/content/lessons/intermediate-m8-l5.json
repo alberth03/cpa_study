@@ -1,0 +1,88 @@
+{
+  "id": "intermediate-m8-l5",
+  "courseId": "intermediate",
+  "moduleId": 8,
+  "number": 5,
+  "title": "Diluted EPS Foundations",
+  "description": "Understand potentially dilutive securities and the basic concepts behind diluted EPS.",
+  "url": "/learn/intermediate/modules/8/lessons/5",
+  "html": "<h2>What is diluted EPS?</h2> <p> Diluted EPS considers the potential reduction in earnings per share that could result from certain potentially dilutive securities. </p> <div class=\"key-points\"> <h3>Examples can include:</h3> <ul> <li>Convertible preferred stock</li> <li>Convertible debt</li> <li>Options</li> <li>Warrants</li> <li>Certain other arrangements that may result in common shares</li> </ul> </div> <h2>Basic vs Diluted EPS</h2> <div class=\"comparison-grid\"> <div class=\"comparison-card\"> <h3>Basic EPS</h3> <p> Uses actual weighted-average common shares outstanding. </p> </div> <div class=\"comparison-card\"> <h3>Diluted EPS</h3> <p> Reflects the effect of qualifying potentially dilutive common shares. </p> </div> </div> <h2>Convertible securities — basic idea</h2> <p> For certain convertible securities, diluted EPS asks what EPS would have looked like if conversion had occurred under the applicable assumptions. </p> <div class=\"example-box\"> <h3>Conceptual example</h3> <p> Assume basic EPS is based on: </p> <div class=\"formula-box\"> $500,000 ÷ 100,000 shares = $5.00 Basic EPS </div> <p> Assume a convertible security would add 25,000 common shares if included. </p> <p> Depending on the security, the numerator may also require an adjustment. </p> <p> Therefore, we cannot correctly calculate diluted EPS merely by adding shares to the denominator without considering the related numerator effects. </p> </div> <h2>Options and warrants</h2> <p> Options and warrants can require a different method from convertible securities. </p> <p> Under the treasury stock method, the calculation considers assumed exercise and assumed use of proceeds to repurchase shares at the applicable average market price. </p> <div class=\"key-points\"> <h3>Very important</h3> <p> Do not use one universal shortcut for every potentially dilutive security. </p> <p> Convertible securities and options or warrants can require different EPS methods. </p> </div> <h2>Antidilution</h2> <p> A potentially dilutive security is not included in diluted EPS when its effect would be antidilutive. </p> <p> In other words, diluted EPS should reflect dilution, not securities that would increase EPS or otherwise produce an antidilutive result. </p> <div class=\"key-points\"> <h3>Intermediate-level takeaway</h3> <ol> <li>Calculate Basic EPS correctly first.</li> <li>Identify potentially dilutive securities.</li> <li>Use the appropriate method for each security.</li> <li>Exclude antidilutive effects.</li> <li>Then determine Diluted EPS.</li> </ol> </div> <h2>We'll go deeper in FAR</h2> <p> At the CPA level, we will separately practice convertible debt, convertible preferred stock, options and warrants, treasury stock method calculations, if-converted calculations and antidilution. </p>",
+  "quiz": {
+    "id": "intermediate-m8-l5-check",
+    "courseId": "intermediate",
+    "moduleId": 8,
+    "lessonId": "intermediate-m8-l5",
+    "topic": "General review",
+    "prompt": "Which statement about diluted EPS is correct?",
+    "choices": [
+      {
+        "id": "intermediate-m8-l5-check-a0",
+        "text": "Every convertible security must always be included"
+      },
+      {
+        "id": "intermediate-m8-l5-check-a1",
+        "text": "Potential common shares are considered, but antidilutive effects are excluded"
+      },
+      {
+        "id": "intermediate-m8-l5-check-a2",
+        "text": "Diluted EPS always uses only actual shares outstanding"
+      },
+      {
+        "id": "intermediate-m8-l5-check-a3",
+        "text": "Options and convertible bonds always use exactly the same calculation method"
+      }
+    ],
+    "correctChoiceId": "intermediate-m8-l5-check-a1",
+    "explanation": "Diluted EPS considers qualifying potentially dilutive common shares, while antidilutive effects are excluded.",
+    "difficulty": "foundation",
+    "metadata": {
+      "section": "intermediate",
+      "blueprintYear": 2026,
+      "areaId": "intermediate-I",
+      "groupId": "module-8",
+      "topicId": "intermediate-diluted-eps-foundations",
+      "taskIds": [
+        "intermediate-diluted-eps-foundations.task-1",
+        "intermediate-diluted-eps-foundations.task-2",
+        "intermediate-diluted-eps-foundations.task-3"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "section": "intermediate",
+    "blueprintYear": 2026,
+    "areaId": "intermediate-I",
+    "groupId": "module-8",
+    "topicId": "intermediate-diluted-eps-foundations",
+    "taskIds": [
+      "intermediate-diluted-eps-foundations.task-1",
+      "intermediate-diluted-eps-foundations.task-2",
+      "intermediate-diluted-eps-foundations.task-3"
+    ],
+    "skill": "application",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      }
+    ]
+  },
+  "objectives": [
+    "Explain diluted eps foundations and its underlying principles.",
+    "Apply the topic to a financial-reporting scenario.",
+    "Evaluate common errors and their financial-statement effects."
+  ]
+}

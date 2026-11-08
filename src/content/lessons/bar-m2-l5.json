@@ -1,0 +1,103 @@
+{
+  "id": "bar-m2-l5",
+  "courseId": "bar",
+  "moduleId": 2,
+  "number": 5,
+  "title": "Derivatives, Hedge Accounting & Foreign-Currency Transactions",
+  "description": "Recognize derivatives at fair value.",
+  "url": "/learn/bar/modules/2/lessons/5",
+  "metadata": {
+    "section": "bar",
+    "blueprintYear": 2026,
+    "areaId": "bar-II",
+    "groupId": "D",
+    "topicId": "bar-derivatives-hedges",
+    "taskIds": [
+      "bar-derivatives-hedges.task-1",
+      "bar-derivatives-hedges.task-2",
+      "bar-derivatives-hedges.task-3"
+    ],
+    "skill": "application",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      },
+      {
+        "title": "FASB accounting standards",
+        "url": "https://asc.fasb.org/"
+      },
+      {
+        "title": "GASB standards",
+        "url": "https://www.gasb.org/standards-and-implementation"
+      }
+    ]
+  },
+  "html": "<h2>Learning objectives</h2><ul><li>Recognize derivatives at fair value.</li><li>Distinguish fair-value and cash-flow hedge accounting.</li><li>Evaluate recognition of transaction exchange gains and losses.</li></ul><h2>Understand the concepts</h2><p>Derivatives generally are recognized on the balance sheet at fair value. Hedge accounting is a special model with designation, documentation, and qualification requirements; a management statement that an instrument is a hedge is not sufficient. Without qualifying hedge accounting, fair-value changes generally affect earnings under the applicable guidance.</p><p>A fair-value hedge addresses exposure to changes in fair value of a recognized item or qualifying firm commitment. Relevant changes in the derivative and hedged item attributable to the hedged risk generally affect earnings, with an adjustment to the hedged item. A cash-flow hedge addresses variability in qualifying cash flows; qualifying amounts may be recorded in OCI and reclassified when the hedged transaction affects earnings under U.S. GAAP.</p><p>Foreign-currency-denominated receivables and payables can create transaction gains or losses as rates change. Distinguish those earnings effects from translating a foreign operation. Direction matters: if more reporting-currency units are needed to settle a foreign-currency payable, its reporting-currency liability increases and a loss may result.</p><div class=\"example-box\"><h3>Foreign-currency payable</h3><p>A company owes 10,000 foreign-currency units. The payable was recorded when each unit cost $1.10 and is remeasured at year-end at $1.20.</p><ol><li>Initial liability is $11,000.</li><li>Year-end liability is $12,000.</li><li>The $1,000 increase is a transaction loss under the stated facts.</li></ol></div><div class=\"key-points\"><h3>Common mistakes to avoid</h3><ul><li>A derivative is not automatically off balance sheet.</li><li>Hedge designation requires more than management intent.</li><li>Translation adjustments and transaction gains are different.</li></ul></div><h2>Apply and connect</h2><p>After solving the worked case, explain which facts determine the result and how a changed assumption would change your conclusion. Use the module questions to test fresh applications, then complete the related simulation before reviewing its solution.</p>",
+  "objectives": [
+    "Recognize derivatives at fair value.",
+    "Distinguish fair-value and cash-flow hedge accounting.",
+    "Evaluate recognition of transaction exchange gains and losses."
+  ],
+  "quiz": {
+    "id": "bar-m2-l5-q1",
+    "courseId": "bar",
+    "moduleId": 2,
+    "lessonId": "bar-m2-l5",
+    "topic": "Derivatives, Hedge Accounting & Foreign-Currency Transactions",
+    "prompt": "A derivative does not qualify for hedge accounting and increases in fair value by $8,000. Where is the gain generally recognized?",
+    "choices": [
+      {
+        "id": "bar-m2-l5-q1-a0",
+        "text": "Always deferred without recognition."
+      },
+      {
+        "id": "bar-m2-l5-q1-a1",
+        "text": "Earnings."
+      },
+      {
+        "id": "bar-m2-l5-q1-a2",
+        "text": "Always as revenue from customers."
+      },
+      {
+        "id": "bar-m2-l5-q1-a3",
+        "text": "Never on the balance sheet."
+      }
+    ],
+    "correctChoiceId": "bar-m2-l5-q1-a1",
+    "explanation": "Derivatives generally are at fair value, with changes in earnings absent qualifying special accounting.",
+    "difficulty": "application",
+    "metadata": {
+      "section": "bar",
+      "blueprintYear": 2026,
+      "areaId": "bar-II",
+      "groupId": "D",
+      "topicId": "bar-derivatives-hedges",
+      "taskIds": [
+        "bar-derivatives-hedges.task-1"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        },
+        {
+          "title": "FASB accounting standards",
+          "url": "https://asc.fasb.org/"
+        },
+        {
+          "title": "GASB standards",
+          "url": "https://www.gasb.org/standards-and-implementation"
+        }
+      ]
+    }
+  },
+  "relatedSimulation": "bar-m2-tbs5"
+}

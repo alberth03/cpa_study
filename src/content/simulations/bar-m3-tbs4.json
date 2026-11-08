@@ -1,0 +1,97 @@
+{
+  "id": "bar-m3-tbs4",
+  "courseId": "bar",
+  "moduleId": 3,
+  "number": 4,
+  "title": "BAR Module 4 · TBS 3",
+  "html": "<section class=\"exam-page\"> <div class=\"course-intro-card\"> <span class=\"exam-badge\"> TASK-BASED SIMULATION </span> <h2> Reconciliation Analysis </h2> <p> Reconcile governmental fund operating results to the change in net position of governmental activities. </p> </div> <div class=\"quiz-card\"> <h2> Scenario </h2> <p> The City of Westbrook reports an <strong>$420,000 increase in total governmental fund balances</strong> for the current year. </p> <p> Additional information follows. </p> <div class=\"key-points\"> <ul> <li> Capital outlays reported as governmental fund expenditures: <strong>$180,000</strong> </li> <li> Depreciation expense applicable to governmental activities: <strong>$55,000</strong> </li> <li> Principal payments on general long-term debt reported as governmental fund expenditures: <strong>$45,000</strong> </li> <li> General long-term bond proceeds reported as an other financing source: <strong>$160,000</strong> </li> <li> Revenue recognized at the government-wide level but not recognized in governmental funds solely because it was unavailable: <strong>$30,000</strong> </li> </ul> </div> <h2> Required </h2> <p> Enter each adjustment using the <strong>signed amount</strong>. Use a positive number for an addition and a negative number for a subtraction. </p> <div class=\"financial-example\"> <div> <span> 1. Capital Outlay Adjustment </span> <input type=\"number\" id=\"bar-m3-tbs4-f1\" placeholder=\"Enter signed amount\"> </div> <div> <span> 2. Depreciation Adjustment </span> <input type=\"number\" id=\"bar-m3-tbs4-f2\" placeholder=\"Enter signed amount\"> </div> <div> <span> 3. Debt Principal Adjustment </span> <input type=\"number\" id=\"bar-m3-tbs4-f3\" placeholder=\"Enter signed amount\"> </div> <div> <span> 4. Bond Proceeds Adjustment </span> <input type=\"number\" id=\"bar-m3-tbs4-f4\" placeholder=\"Enter signed amount\"> </div> <div> <span> 5. Revenue Availability Adjustment </span> <input type=\"number\" id=\"bar-m3-tbs4-f5\" placeholder=\"Enter signed amount\"> </div> <div> <span> 6. Change in Governmental Activities' Net Position </span> <input type=\"number\" id=\"bar-m3-tbs4-f6\" placeholder=\"Enter final amount\"> </div> </div> <div id=\"far-m4-tbs3-result\"></div> </div> </section>",
+  "metadata": {
+    "section": "bar",
+    "blueprintYear": 2026,
+    "areaId": "bar-III",
+    "groupId": "A-B-C",
+    "topicId": "bar-government-reconciliation",
+    "taskIds": [
+      "bar-government-reconciliation.task-1",
+      "bar-government-reconciliation.task-2",
+      "bar-government-reconciliation.task-3"
+    ],
+    "skill": "analysis",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      },
+      {
+        "title": "FASB accounting standards",
+        "url": "https://asc.fasb.org/"
+      },
+      {
+        "title": "GASB standards",
+        "url": "https://www.gasb.org/standards-and-implementation"
+      }
+    ]
+  },
+  "difficulty": "advanced",
+  "fields": [
+    {
+      "id": "bar-m3-tbs4-f1",
+      "label": "1. Capital Outlay Adjustment",
+      "type": "number",
+      "options": [],
+      "correct": 180000,
+      "explanation": "The correct response is 180000. The worked solution explains the associated governmental accounting treatment.",
+      "topicId": "bar-government-reconciliation"
+    },
+    {
+      "id": "bar-m3-tbs4-f2",
+      "label": "2. Depreciation Adjustment",
+      "type": "number",
+      "options": [],
+      "correct": -55000,
+      "explanation": "The correct response is -55000. The worked solution explains the associated governmental accounting treatment.",
+      "topicId": "bar-government-reconciliation"
+    },
+    {
+      "id": "bar-m3-tbs4-f3",
+      "label": "3. Debt Principal Adjustment",
+      "type": "number",
+      "options": [],
+      "correct": 45000,
+      "explanation": "The correct response is 45000. The worked solution explains the associated governmental accounting treatment.",
+      "topicId": "bar-government-reconciliation"
+    },
+    {
+      "id": "bar-m3-tbs4-f4",
+      "label": "4. Bond Proceeds Adjustment",
+      "type": "number",
+      "options": [],
+      "correct": -160000,
+      "explanation": "The correct response is -160000. The worked solution explains the associated governmental accounting treatment.",
+      "topicId": "bar-government-reconciliation"
+    },
+    {
+      "id": "bar-m3-tbs4-f5",
+      "label": "5. Revenue Availability Adjustment",
+      "type": "number",
+      "options": [],
+      "correct": 30000,
+      "explanation": "The correct response is 30000. The worked solution explains the associated governmental accounting treatment.",
+      "topicId": "bar-government-reconciliation"
+    },
+    {
+      "id": "bar-m3-tbs4-f6",
+      "label": "6. Change in Governmental Activities' Net Position",
+      "type": "number",
+      "options": [],
+      "correct": 460000,
+      "explanation": "The correct response is 460000. The worked solution explains the associated governmental accounting treatment.",
+      "topicId": "bar-government-reconciliation"
+    }
+  ],
+  "exhibits": [],
+  "explanation": "<div class=\"result-correct\"> <h3> Capital Outlay </h3> <p> Governmental funds treated the $180,000 capital outlay as an expenditure. Government-wide accounting generally capitalizes the asset. </p> <div class=\"formula-box\"> Adjustment = +$180,000 </div> <h3> Depreciation </h3> <p> Depreciation is recognized as an expense at the government-wide level. </p> <div class=\"formula-box\"> Adjustment = −$55,000 </div> <h3> Debt Principal </h3> <p> Governmental funds treated the $45,000 principal payment as an expenditure. Government-wide accounting treats it as a reduction of the liability. </p> <div class=\"formula-box\"> Adjustment = +$45,000 </div> <h3> Bond Proceeds </h3> <p> The governmental funds included $160,000 of bond proceeds as an other financing source. </p> <p> Government-wide accounting instead recognizes a long-term liability. </p> <div class=\"formula-box\"> Adjustment = −$160,000 </div> <h3> Revenue Availability </h3> <p> The $30,000 was excluded from governmental fund revenue solely because it failed the modified-accrual availability criterion. </p> <p> It qualifies for recognition under government-wide accrual accounting. </p> <div class=\"formula-box\"> Adjustment = +$30,000 </div> <h3> Final Reconciliation </h3> <div class=\"formula-box\"> Increase in Fund Balances $420,000 + Capital Outlay $180,000 − Depreciation $55,000 + Principal Payment $45,000 − Bond Proceeds $160,000 + Revenue Adjustment $30,000 = $460,000 CHANGE IN NET POSITION </div> <div class=\"key-points\"> <h3> CPA Takeaway </h3> <ul> <li> Capital outlay → add back. </li> <li> Depreciation → subtract. </li> <li> Debt principal payment → add back. </li> <li> Bond proceeds → subtract. </li> <li> Accrual revenue excluded only because of availability → add. </li> </ul> </div> </div>"
+}

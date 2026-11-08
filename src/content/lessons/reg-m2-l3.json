@@ -1,0 +1,113 @@
+{
+  "id": "reg-m2-l3",
+  "courseId": "reg",
+  "moduleId": 2,
+  "number": 3,
+  "title": "Business Entities, Owner Duties & Federal Regulation",
+  "description": "Compare legal liability and management characteristics of common entities.",
+  "url": "/learn/reg/modules/2/lessons/3",
+  "metadata": {
+    "section": "reg",
+    "blueprintYear": 2026,
+    "areaId": "reg-II",
+    "groupId": "D-E",
+    "topicId": "reg-business-organizations-regulation",
+    "taskIds": [
+      "reg-business-organizations-regulation.task-1",
+      "reg-business-organizations-regulation.task-2",
+      "reg-business-organizations-regulation.task-3"
+    ],
+    "skill": "application",
+    "validFrom": "2026-07-01",
+    "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      },
+      {
+        "title": "Internal Revenue Code",
+        "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+      },
+      {
+        "title": "IRS tax publications",
+        "url": "https://www.irs.gov/publications"
+      },
+      {
+        "title": "Circular 230",
+        "url": "https://www.irs.gov/tax-professionals/circular-230-tax-professionals"
+      }
+    ]
+  },
+  "html": "<h2>Learning objectives</h2><ul><li>Compare legal liability and management characteristics of common entities.</li><li>Evaluate worker classification and employment obligations.</li><li>Recognize anti-bribery and other business compliance issues.</li></ul><h2>Understand the concepts</h2><p>Legal form and tax classification are related but distinct. Corporations and LLCs generally provide limited liability under applicable law, but an owner may remain liable for personal misconduct, guarantees, or circumstances supporting disregard of the entity. General partners ordinarily face personal liability for partnership obligations. Limited-partner and LLC protections depend on the governing statute and facts.</p><p>Entity formation, operation, and termination involve filings, agreements, authority, fiduciary responsibilities, and creditor protection. Directors and managers may owe duties of care and loyalty. A tax election does not necessarily change the entity’s underlying state-law form. Evaluate who can bind the entity and whether a transaction involves a conflict or self-dealing.</p><p>Employee versus independent-contractor classification depends on the applicable legal test and facts, including control and the relationship, not simply the contract’s label. Classification affects withholding, employment taxes, and other obligations. Federal laws can also address qualified health plans and employer responsibilities. Apply the law and thresholds relevant to the stated facts and period.</p><p>The Foreign Corrupt Practices Act addresses prohibited bribery involving foreign officials and includes accounting-related provisions applicable to covered entities. Improper payments do not become permissible merely because an intermediary makes them. Examine authorization, knowledge, recordkeeping, and the actual purpose of payments; do not treat the existence of a local custom as universal legal permission.</p><div class=\"example-box\"><h3>Legal form is not a complete answer</h3><p>An LLC owner personally guarantees a bank loan, calls all workers contractors, and authorizes a consultant to make an improper payment to a foreign official.</p><ol><li>Limited liability does not erase the owner’s personal guarantee.</li><li>Evaluate worker status using the applicable facts and legal test.</li><li>Using an intermediary does not automatically remove anti-bribery exposure.</li></ol></div><div class=\"key-points\"><h3>Common mistakes to avoid</h3><ul><li>A tax classification is not necessarily the state-law entity form.</li><li>A contractor label is not conclusive.</li><li>Limited liability does not excuse personal wrongdoing or guarantees.</li></ul></div><h2>Apply and connect</h2><p>After solving the worked case, explain which facts determine the result and how a changed assumption would change your conclusion. Use the module questions to test fresh applications, then complete the related simulation before reviewing its solution.</p>",
+  "objectives": [
+    "Compare legal liability and management characteristics of common entities.",
+    "Evaluate worker classification and employment obligations.",
+    "Recognize anti-bribery and other business compliance issues."
+  ],
+  "quiz": {
+    "id": "reg-m2-l3-q1",
+    "courseId": "reg",
+    "moduleId": 2,
+    "lessonId": "reg-m2-l3",
+    "topic": "Business Entities, Owner Duties & Federal Regulation",
+    "prompt": "An LLC member personally guarantees an LLC loan. What is the ordinary implication?",
+    "choices": [
+      {
+        "id": "reg-m2-l3-q1-a0",
+        "text": "Limited liability automatically nullifies every guarantee."
+      },
+      {
+        "id": "reg-m2-l3-q1-a1",
+        "text": "The lender becomes an LLC member."
+      },
+      {
+        "id": "reg-m2-l3-q1-a2",
+        "text": "The loan becomes tax-free income."
+      },
+      {
+        "id": "reg-m2-l3-q1-a3",
+        "text": "The guarantee may create a separate personal obligation."
+      }
+    ],
+    "correctChoiceId": "reg-m2-l3-q1-a3",
+    "explanation": "An owner can voluntarily undertake personal liability despite ordinary entity protection.",
+    "difficulty": "application",
+    "metadata": {
+      "section": "reg",
+      "blueprintYear": 2026,
+      "areaId": "reg-II",
+      "groupId": "D-E",
+      "topicId": "reg-business-organizations-regulation",
+      "taskIds": [
+        "reg-business-organizations-regulation.task-1"
+      ],
+      "skill": "application",
+      "validFrom": "2026-07-01",
+      "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        },
+        {
+          "title": "Internal Revenue Code",
+          "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+        },
+        {
+          "title": "IRS tax publications",
+          "url": "https://www.irs.gov/publications"
+        },
+        {
+          "title": "Circular 230",
+          "url": "https://www.irs.gov/tax-professionals/circular-230-tax-professionals"
+        }
+      ]
+    }
+  },
+  "relatedSimulation": "reg-m2-tbs3"
+}

@@ -1,0 +1,158 @@
+{
+  "id": "aud-m2-tbs2",
+  "courseId": "aud",
+  "moduleId": 2,
+  "number": 2,
+  "title": "Revenue-cycle control walkthrough",
+  "html": "<div class=\"course-intro-card\"><h2>Revenue-cycle control walkthrough</h2><p>Evaluate the design and evidence of controls in an order-to-cash cycle.</p></div><section class=\"quiz-card\"><h3>Required responses</h3><div class=\"tbs-question\"><label for=\"aud-m2-tbs2-f1\">Concern in customer and credit approval</label><select id=\"aud-m2-tbs2-f1\"><option value=\"Incompatible authorization responsibilities\">Incompatible authorization responsibilities</option><option value=\"A complete independent credit review\">A complete independent credit review</option><option value=\"Only a presentation issue\">Only a presentation issue</option><option value=\"No control risk\">No control risk</option></select></div><div class=\"tbs-question\"><label for=\"aud-m2-tbs2-f2\">Concern in production program access</label><select id=\"aud-m2-tbs2-f2\"><option value=\"Unauthorized change risk\">Unauthorized change risk</option><option value=\"Guaranteed operating effectiveness\">Guaranteed operating effectiveness</option><option value=\"A physical inventory issue only\">A physical inventory issue only</option><option value=\"A sufficient compensating control\">A sufficient compensating control</option></select></div><div class=\"tbs-question\"><label for=\"aud-m2-tbs2-f3\">What the Type 1 report does not establish</label><select id=\"aud-m2-tbs2-f3\"><option value=\"Operating effectiveness over the period\">Operating effectiveness over the period</option><option value=\"The report’s date\">The report’s date</option><option value=\"The report’s stated scope\">The report’s stated scope</option><option value=\"The system description included\">The system description included</option></select></div><div class=\"tbs-question\"><label for=\"aud-m2-tbs2-f4\">Additional evidence for planned reliance</label><select id=\"aud-m2-tbs2-f4\"><option value=\"Appropriate tests of operating effectiveness\">Appropriate tests of operating effectiveness</option><option value=\"Only the original inquiry\">Only the original inquiry</option><option value=\"A client waiver\">A client waiver</option><option value=\"No work after one successful match\">No work after one successful match</option></select></div></section>",
+  "metadata": {
+    "section": "aud",
+    "blueprintYear": 2026,
+    "areaId": "aud-II",
+    "groupId": "C",
+    "topicId": "aud-internal-controls",
+    "taskIds": [
+      "aud-internal-controls.task-1",
+      "aud-internal-controls.task-2",
+      "aud-internal-controls.task-3"
+    ],
+    "skill": "analysis",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      },
+      {
+        "title": "AICPA auditing standards",
+        "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+      },
+      {
+        "title": "PCAOB standards",
+        "url": "https://pcaobus.org/oversight/standards"
+      }
+    ]
+  },
+  "difficulty": "advanced",
+  "fields": [
+    {
+      "id": "aud-m2-tbs2-f1",
+      "label": "Concern in customer and credit approval",
+      "type": "select",
+      "options": [
+        {
+          "value": "Incompatible authorization responsibilities",
+          "label": "Incompatible authorization responsibilities"
+        },
+        {
+          "value": "A complete independent credit review",
+          "label": "A complete independent credit review"
+        },
+        {
+          "value": "Only a presentation issue",
+          "label": "Only a presentation issue"
+        },
+        {
+          "value": "No control risk",
+          "label": "No control risk"
+        }
+      ],
+      "correct": "Incompatible authorization responsibilities",
+      "explanation": "Self-approval weakens independent authorization.",
+      "topicId": "aud-internal-controls"
+    },
+    {
+      "id": "aud-m2-tbs2-f2",
+      "label": "Concern in production program access",
+      "type": "select",
+      "options": [
+        {
+          "value": "Unauthorized change risk",
+          "label": "Unauthorized change risk"
+        },
+        {
+          "value": "Guaranteed operating effectiveness",
+          "label": "Guaranteed operating effectiveness"
+        },
+        {
+          "value": "A physical inventory issue only",
+          "label": "A physical inventory issue only"
+        },
+        {
+          "value": "A sufficient compensating control",
+          "label": "A sufficient compensating control"
+        }
+      ],
+      "correct": "Unauthorized change risk",
+      "explanation": "Developers could bypass authorized and tested changes.",
+      "topicId": "aud-internal-controls"
+    },
+    {
+      "id": "aud-m2-tbs2-f3",
+      "label": "What the Type 1 report does not establish",
+      "type": "select",
+      "options": [
+        {
+          "value": "Operating effectiveness over the period",
+          "label": "Operating effectiveness over the period"
+        },
+        {
+          "value": "The report’s date",
+          "label": "The report’s date"
+        },
+        {
+          "value": "The report’s stated scope",
+          "label": "The report’s stated scope"
+        },
+        {
+          "value": "The system description included",
+          "label": "The system description included"
+        }
+      ],
+      "correct": "Operating effectiveness over the period",
+      "explanation": "Type 1 is an at-a-date design report.",
+      "topicId": "aud-internal-controls"
+    },
+    {
+      "id": "aud-m2-tbs2-f4",
+      "label": "Additional evidence for planned reliance",
+      "type": "select",
+      "options": [
+        {
+          "value": "Appropriate tests of operating effectiveness",
+          "label": "Appropriate tests of operating effectiveness"
+        },
+        {
+          "value": "Only the original inquiry",
+          "label": "Only the original inquiry"
+        },
+        {
+          "value": "A client waiver",
+          "label": "A client waiver"
+        },
+        {
+          "value": "No work after one successful match",
+          "label": "No work after one successful match"
+        }
+      ],
+      "correct": "Appropriate tests of operating effectiveness",
+      "explanation": "Planned reliance requires evidence across the relevant period.",
+      "topicId": "aud-internal-controls"
+    }
+  ],
+  "exhibits": [
+    {
+      "id": "aud-m2-tbs2-ex1",
+      "title": "Process narrative",
+      "html": "<p>Sales staff can create customers and approve their own credit limits. Shipments are entered through a system with a documented matching control. Developers can alter that control directly in production. The outsourced billing provider supplied only a SOC 1 Type 1 report.</p>"
+    },
+    {
+      "id": "aud-m2-tbs2-ex2",
+      "title": "Audit objective",
+      "html": "<p>The team wants to rely on relevant controls throughout the year. A single observed transaction matched successfully. No testing over the period has been performed.</p>"
+    }
+  ],
+  "explanation": "<h3>Concern in customer and credit approval</h3><p>Self-approval weakens independent authorization.</p><h3>Concern in production program access</h3><p>Developers could bypass authorized and tested changes.</p><h3>What the Type 1 report does not establish</h3><p>Type 1 is an at-a-date design report.</p><h3>Additional evidence for planned reliance</h3><p>Planned reliance requires evidence across the relevant period.</p>"
+}

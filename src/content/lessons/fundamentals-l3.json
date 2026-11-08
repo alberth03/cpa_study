@@ -1,0 +1,88 @@
+{
+  "id": "fundamentals-l3",
+  "courseId": "fundamentals",
+  "moduleId": 0,
+  "number": 3,
+  "title": "Accounts and Account Types",
+  "description": "Assets, liabilities, equity, revenue and expenses.",
+  "url": "/learn/fundamentals/lessons/3",
+  "html": "<h2>What is an account?</h2> <p> An account is a record used to track changes in a specific financial item. </p> <p> For example, a business may have separate accounts for Cash, Inventory, Accounts Payable, Revenue, and Rent Expense. </p> <h2>The five main account types</h2> <div class=\"key-points\"> <h3>1. Assets</h3> <p> Resources the business owns or controls. </p> <p> Examples: Cash, Accounts Receivable, Inventory, Equipment, Buildings. </p> </div> <div class=\"key-points\"> <h3>2. Liabilities</h3> <p> Amounts the business owes to others. </p> <p> Examples: Accounts Payable, Loans Payable, Wages Payable. </p> </div> <div class=\"key-points\"> <h3>3. Equity</h3> <p> The owners' residual interest in the business. </p> <p> Examples may include Common Stock, Additional Paid-In Capital, and Retained Earnings. </p> </div> <div class=\"key-points\"> <h3>4. Revenue</h3> <p> Income earned from providing goods or services. </p> <p> Examples: Sales Revenue, Service Revenue, Interest Revenue. </p> </div> <div class=\"key-points\"> <h3>5. Expenses</h3> <p> Costs incurred while operating the business. </p> <p> Examples: Rent Expense, Salary Expense, Utilities Expense. </p> </div> <div class=\"example-box\"> <h3>Example</h3> <p> A company buys a computer for $2,000 cash. </p> <p> The <strong>Equipment</strong> account increases, while the <strong>Cash</strong> account decreases. </p> <p> Both Equipment and Cash are asset accounts. </p> </div> <div class=\"key-points\"> <h3>Important</h3> <p> Every account belongs to a category. Knowing the category is important because it determines how debits and credits affect the account. </p> </div>",
+  "quiz": {
+    "id": "fundamentals-l3-check",
+    "courseId": "fundamentals",
+    "moduleId": 0,
+    "lessonId": "fundamentals-l3",
+    "topic": "General review",
+    "prompt": "Which of the following is a liability?",
+    "choices": [
+      {
+        "id": "fundamentals-l3-check-a0",
+        "text": "Cash"
+      },
+      {
+        "id": "fundamentals-l3-check-a1",
+        "text": "Accounts Receivable"
+      },
+      {
+        "id": "fundamentals-l3-check-a2",
+        "text": "Accounts Payable"
+      },
+      {
+        "id": "fundamentals-l3-check-a3",
+        "text": "Service Revenue"
+      }
+    ],
+    "correctChoiceId": "fundamentals-l3-check-a2",
+    "explanation": "Accounts Payable is a liability because it represents money the business owes to another party.",
+    "difficulty": "foundation",
+    "metadata": {
+      "section": "fundamentals",
+      "blueprintYear": 2026,
+      "areaId": "fundamentals-I",
+      "groupId": "module-0",
+      "topicId": "fundamentals-accounts-and-account-types",
+      "taskIds": [
+        "fundamentals-accounts-and-account-types.task-1",
+        "fundamentals-accounts-and-account-types.task-2",
+        "fundamentals-accounts-and-account-types.task-3"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "section": "fundamentals",
+    "blueprintYear": 2026,
+    "areaId": "fundamentals-I",
+    "groupId": "module-0",
+    "topicId": "fundamentals-accounts-and-account-types",
+    "taskIds": [
+      "fundamentals-accounts-and-account-types.task-1",
+      "fundamentals-accounts-and-account-types.task-2",
+      "fundamentals-accounts-and-account-types.task-3"
+    ],
+    "skill": "application",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      }
+    ]
+  },
+  "objectives": [
+    "Explain accounts and account types and its underlying principles.",
+    "Apply the topic to a financial-reporting scenario.",
+    "Evaluate common errors and their financial-statement effects."
+  ]
+}

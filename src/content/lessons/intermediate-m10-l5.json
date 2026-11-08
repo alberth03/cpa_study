@@ -1,0 +1,88 @@
+{
+  "id": "intermediate-m10-l5",
+  "courseId": "intermediate",
+  "moduleId": 10,
+  "number": 5,
+  "title": "Comprehensive Income & OCI",
+  "description": "Understand net income, other comprehensive income and accumulated other comprehensive income.",
+  "url": "/learn/intermediate/modules/10/lessons/5",
+  "html": "<h2>Net income is not always the whole story</h2> <p> Certain gains, losses and other items are recognized outside net income and instead enter Other Comprehensive Income, or OCI. </p> <div class=\"formula-box\"> Comprehensive Income = Net Income + Other Comprehensive Income </div> <h2>OCI vs AOCI</h2> <div class=\"comparison-grid\"> <div class=\"comparison-card\"> <h3>OCI</h3> <p> Other Comprehensive Income relates to qualifying items recognized during the period. </p> </div> <div class=\"comparison-card\"> <h3>AOCI</h3> <p> Accumulated Other Comprehensive Income is the cumulative balance reported within equity. </p> </div> </div> <h2>Simple example</h2> <p> Assume: </p> <div class=\"financial-example\"> <div> <span>Net Income</span> <strong>$200,000</strong> </div> <div> <span>Other Comprehensive Income</span> <strong>$30,000</strong> </div> </div> <div class=\"formula-box\"> $200,000 + $30,000 = $230,000 Comprehensive Income </div> <h2>What types of items can appear in OCI?</h2> <p> Depending on the applicable accounting guidance, OCI can include certain items involving: </p> <div class=\"key-points\"> <ul> <li>Certain unrealized gains and losses on debt securities</li> <li>Certain foreign currency translation adjustments</li> <li>Certain pension and postretirement benefit adjustments</li> <li>Certain gains and losses associated with qualifying cash flow hedges</li> </ul> </div> <h2>Why AOCI matters</h2> <p> OCI is a period measure. </p> <p> AOCI represents accumulated OCI amounts reported as a component of stockholders' equity. </p> <div class=\"example-box\"> <h3>Simple AOCI roll-forward</h3> <p> Beginning AOCI = $15,000 </p> <p> Assume current-period OCI increases AOCI by $8,000, with no other AOCI adjustments in this simple example. </p> <div class=\"formula-box\"> $15,000 + $8,000 = $23,000 Ending AOCI </div> </div> <h2>Reclassification</h2> <p> Some amounts initially recognized in OCI can later be reclassified into net income when the applicable accounting requirements are satisfied. </p> <p> This prevents simply treating every OCI amount as permanently excluded from net income. </p> <div class=\"key-points\"> <h3>Keep the three concepts separate</h3> <p> <strong>Net Income</strong> — income statement measure. </p> <p> <strong>OCI</strong> — qualifying current-period items outside net income. </p> <p> <strong>AOCI</strong> — cumulative equity balance associated with OCI. </p> </div> <h2>Intermediate Accounting complete</h2> <p> You have now reached the end of our Intermediate Accounting learning modules. </p> <p> The next stage will build on these foundations at CPA exam depth. </p>",
+  "quiz": {
+    "id": "intermediate-m10-l5-check",
+    "courseId": "intermediate",
+    "moduleId": 10,
+    "lessonId": "intermediate-m10-l5",
+    "topic": "General review",
+    "prompt": "A company reports net income of $450,000 and positive other comprehensive income of $25,000. What is comprehensive income?",
+    "choices": [
+      {
+        "id": "intermediate-m10-l5-check-a0",
+        "text": "$425,000"
+      },
+      {
+        "id": "intermediate-m10-l5-check-a1",
+        "text": "$450,000"
+      },
+      {
+        "id": "intermediate-m10-l5-check-a2",
+        "text": "$475,000"
+      },
+      {
+        "id": "intermediate-m10-l5-check-a3",
+        "text": "$11,250,000"
+      }
+    ],
+    "correctChoiceId": "intermediate-m10-l5-check-a2",
+    "explanation": "Comprehensive income = Net income + OCI = $450,000 + $25,000 = $475,000.",
+    "difficulty": "foundation",
+    "metadata": {
+      "section": "intermediate",
+      "blueprintYear": 2026,
+      "areaId": "intermediate-I",
+      "groupId": "module-10",
+      "topicId": "intermediate-comprehensive-income-oci",
+      "taskIds": [
+        "intermediate-comprehensive-income-oci.task-1",
+        "intermediate-comprehensive-income-oci.task-2",
+        "intermediate-comprehensive-income-oci.task-3"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "section": "intermediate",
+    "blueprintYear": 2026,
+    "areaId": "intermediate-I",
+    "groupId": "module-10",
+    "topicId": "intermediate-comprehensive-income-oci",
+    "taskIds": [
+      "intermediate-comprehensive-income-oci.task-1",
+      "intermediate-comprehensive-income-oci.task-2",
+      "intermediate-comprehensive-income-oci.task-3"
+    ],
+    "skill": "application",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      }
+    ]
+  },
+  "objectives": [
+    "Explain comprehensive income & oci and its underlying principles.",
+    "Apply the topic to a financial-reporting scenario.",
+    "Evaluate common errors and their financial-statement effects."
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "id": "aud-m2-l1",
+  "courseId": "aud",
+  "moduleId": 2,
+  "number": 1,
+  "title": "Understand the Entity & Design the Audit Strategy",
+  "description": "Connect business conditions to assertion-level risks.",
+  "url": "/learn/aud/modules/2/lessons/1",
+  "metadata": {
+    "section": "aud",
+    "blueprintYear": 2026,
+    "areaId": "aud-II",
+    "groupId": "A-B-E",
+    "topicId": "aud-audit-risk-planning",
+    "taskIds": [
+      "aud-audit-risk-planning.task-1",
+      "aud-audit-risk-planning.task-2",
+      "aud-audit-risk-planning.task-3"
+    ],
+    "skill": "application",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      },
+      {
+        "title": "AICPA auditing standards",
+        "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+      },
+      {
+        "title": "PCAOB standards",
+        "url": "https://pcaobus.org/oversight/standards"
+      }
+    ]
+  },
+  "html": "<h2>Learning objectives</h2><ul><li>Connect business conditions to assertion-level risks.</li><li>Distinguish inherent, control, detection, and audit risk.</li><li>Adjust the nature, timing, and extent of audit work.</li></ul><h2>Understand the concepts</h2><p>Planning begins with the entity, its industry, ownership, financing, reporting framework, objectives, and business model. External changes such as a recession, interest-rate increases, supply shortages, or new regulation can change the risk of misstatement. Internal changes such as a new ERP, acquisitions, bonus arrangements, or an inexperienced finance team can affect several assertions at once. Translate a business observation into a possible financial-statement error before selecting procedures.</p><p>Inherent risk is susceptibility to material misstatement before considering controls. Control risk is the risk that relevant controls will not prevent, or detect and correct, a misstatement timely. Detection risk concerns the auditor’s procedures failing to detect a material misstatement. The audit-risk model is a planning relationship: acceptable audit risk is related to inherent risk × control risk × detection risk. A higher assessed risk of material misstatement requires lower acceptable detection risk and more persuasive audit evidence.</p><p>The overall strategy establishes scope, timing, direction, and resources. The detailed plan translates that strategy into risk-assessment procedures, tests of controls when appropriate, and substantive procedures. Nature is the kind of procedure, timing is when it is performed, and extent is the amount of work. Lowering detection risk may require more reliable external evidence, more year-end work, or more extensive testing, not merely a larger random sample of an irrelevant population.</p><p>Risk assessment is iterative. Information learned during testing can contradict initial expectations. Revise the assessment and plan rather than forcing later evidence into the original budget. Economic indicators are useful context, but general economic improvement does not establish that a specific revenue balance exists or that a specific receivable is collectible.</p><div class=\"example-box\"><h3>Planning for a pressured year-end</h3><p>A manufacturer faces covenant pressure and falling demand. Inventory turnover has declined, but the client has not increased its obsolescence reserve. Illustratively, acceptable audit risk is 5%, inherent risk is 80%, and control risk is 50%.</p><ol><li>Link declining demand to inventory valuation and covenant pressure to bias.</li><li>Illustrative detection risk is 5% ÷ (80% × 50%) = 12.5%.</li><li>Obtain persuasive evidence about subsequent sales, aging, and disposal plans; revise the plan if new facts increase risk.</li></ol></div><div class=\"key-points\"><h3>Common mistakes to avoid</h3><ul><li>Business risk is not itself a financial-statement assertion.</li><li>Higher assessed risk calls for lower acceptable detection risk.</li><li>Increasing the extent of an irrelevant procedure does not improve its relevance.</li></ul></div><h2>Apply and connect</h2><p>After solving the worked case, explain which facts determine the result and how a changed assumption would change your conclusion. Use the module questions to test fresh applications, then complete the related simulation before reviewing its solution.</p>",
+  "objectives": [
+    "Connect business conditions to assertion-level risks.",
+    "Distinguish inherent, control, detection, and audit risk.",
+    "Adjust the nature, timing, and extent of audit work."
+  ],
+  "quiz": {
+    "id": "aud-m2-l1-q1",
+    "courseId": "aud",
+    "moduleId": 2,
+    "lessonId": "aud-m2-l1",
+    "topic": "Understand the Entity & Design the Audit Strategy",
+    "prompt": "Assessed risk of material misstatement increases while acceptable audit risk stays constant. What happens to acceptable detection risk?",
+    "choices": [
+      {
+        "id": "aud-m2-l1-q1-a0",
+        "text": "It increases."
+      },
+      {
+        "id": "aud-m2-l1-q1-a1",
+        "text": "It decreases."
+      },
+      {
+        "id": "aud-m2-l1-q1-a2",
+        "text": "It becomes irrelevant."
+      },
+      {
+        "id": "aud-m2-l1-q1-a3",
+        "text": "It must equal control risk."
+      }
+    ],
+    "correctChoiceId": "aud-m2-l1-q1-a1",
+    "explanation": "More risky assertions require audit procedures that leave a lower risk of failing to detect a material misstatement.",
+    "difficulty": "foundation",
+    "metadata": {
+      "section": "aud",
+      "blueprintYear": 2026,
+      "areaId": "aud-II",
+      "groupId": "A-B-E",
+      "topicId": "aud-audit-risk-planning",
+      "taskIds": [
+        "aud-audit-risk-planning.task-1"
+      ],
+      "skill": "remembering",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        },
+        {
+          "title": "AICPA auditing standards",
+          "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+        },
+        {
+          "title": "PCAOB standards",
+          "url": "https://pcaobus.org/oversight/standards"
+        }
+      ]
+    }
+  },
+  "relatedSimulation": "aud-m2-tbs1"
+}

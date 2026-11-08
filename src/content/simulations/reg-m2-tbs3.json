@@ -1,0 +1,163 @@
+{
+  "id": "reg-m2-tbs3",
+  "courseId": "reg",
+  "moduleId": 2,
+  "number": 3,
+  "title": "Business compliance review",
+  "html": "<div class=\"course-intro-card\"><h2>Business compliance review</h2><p>Identify the legal issue requiring attention in each independent fact pattern.</p></div><section class=\"quiz-card\"><h3>Required responses</h3><div class=\"tbs-question\"><label for=\"reg-m2-tbs3-f1\">Guarantee issue</label><select id=\"reg-m2-tbs3-f1\"><option value=\"Separate personal contractual liability\">Separate personal contractual liability</option><option value=\"Automatic cancellation by LLC status\">Automatic cancellation by LLC status</option><option value=\"No enforceable obligation ever\">No enforceable obligation ever</option><option value=\"Only sales-tax liability\">Only sales-tax liability</option></select></div><div class=\"tbs-question\"><label for=\"reg-m2-tbs3-f2\">Worker issue</label><select id=\"reg-m2-tbs3-f2\"><option value=\"Classification under the applicable facts and legal test\">Classification under the applicable facts and legal test</option><option value=\"The label always controls\">The label always controls</option><option value=\"No withholding rules can apply\">No withholding rules can apply</option><option value=\"Only the worker’s preference matters\">Only the worker’s preference matters</option></select></div><div class=\"tbs-question\"><label for=\"reg-m2-tbs3-f3\">Director issue</label><select id=\"reg-m2-tbs3-f3\"><option value=\"Potential breach of loyalty\">Potential breach of loyalty</option><option value=\"Automatic approval\">Automatic approval</option><option value=\"Only clerical error\">Only clerical error</option><option value=\"No fiduciary duty can apply\">No fiduciary duty can apply</option></select></div><div class=\"tbs-question\"><label for=\"reg-m2-tbs3-f4\">Payment issue</label><select id=\"reg-m2-tbs3-f4\"><option value=\"Potential indirect prohibited bribery\">Potential indirect prohibited bribery</option><option value=\"Automatic permission through intermediaries\">Automatic permission through intermediaries</option><option value=\"No recordkeeping implications\">No recordkeeping implications</option><option value=\"A required tax election\">A required tax election</option></select></div></section>",
+  "metadata": {
+    "section": "reg",
+    "blueprintYear": 2026,
+    "areaId": "reg-II",
+    "groupId": "D-E",
+    "topicId": "reg-business-organizations-regulation",
+    "taskIds": [
+      "reg-business-organizations-regulation.task-1",
+      "reg-business-organizations-regulation.task-2",
+      "reg-business-organizations-regulation.task-3"
+    ],
+    "skill": "analysis",
+    "validFrom": "2026-07-01",
+    "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      },
+      {
+        "title": "Internal Revenue Code",
+        "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+      },
+      {
+        "title": "IRS tax publications",
+        "url": "https://www.irs.gov/publications"
+      },
+      {
+        "title": "Circular 230",
+        "url": "https://www.irs.gov/tax-professionals/circular-230-tax-professionals"
+      }
+    ]
+  },
+  "difficulty": "advanced",
+  "fields": [
+    {
+      "id": "reg-m2-tbs3-f1",
+      "label": "Guarantee issue",
+      "type": "select",
+      "options": [
+        {
+          "value": "Separate personal contractual liability",
+          "label": "Separate personal contractual liability"
+        },
+        {
+          "value": "Automatic cancellation by LLC status",
+          "label": "Automatic cancellation by LLC status"
+        },
+        {
+          "value": "No enforceable obligation ever",
+          "label": "No enforceable obligation ever"
+        },
+        {
+          "value": "Only sales-tax liability",
+          "label": "Only sales-tax liability"
+        }
+      ],
+      "correct": "Separate personal contractual liability",
+      "explanation": "The guarantee can bind the owner personally.",
+      "topicId": "reg-business-organizations-regulation"
+    },
+    {
+      "id": "reg-m2-tbs3-f2",
+      "label": "Worker issue",
+      "type": "select",
+      "options": [
+        {
+          "value": "Classification under the applicable facts and legal test",
+          "label": "Classification under the applicable facts and legal test"
+        },
+        {
+          "value": "The label always controls",
+          "label": "The label always controls"
+        },
+        {
+          "value": "No withholding rules can apply",
+          "label": "No withholding rules can apply"
+        },
+        {
+          "value": "Only the worker’s preference matters",
+          "label": "Only the worker’s preference matters"
+        }
+      ],
+      "correct": "Classification under the applicable facts and legal test",
+      "explanation": "Classification requires substantive analysis.",
+      "topicId": "reg-business-organizations-regulation"
+    },
+    {
+      "id": "reg-m2-tbs3-f3",
+      "label": "Director issue",
+      "type": "select",
+      "options": [
+        {
+          "value": "Potential breach of loyalty",
+          "label": "Potential breach of loyalty"
+        },
+        {
+          "value": "Automatic approval",
+          "label": "Automatic approval"
+        },
+        {
+          "value": "Only clerical error",
+          "label": "Only clerical error"
+        },
+        {
+          "value": "No fiduciary duty can apply",
+          "label": "No fiduciary duty can apply"
+        }
+      ],
+      "correct": "Potential breach of loyalty",
+      "explanation": "Secret personal diversion creates a loyalty concern.",
+      "topicId": "reg-business-organizations-regulation"
+    },
+    {
+      "id": "reg-m2-tbs3-f4",
+      "label": "Payment issue",
+      "type": "select",
+      "options": [
+        {
+          "value": "Potential indirect prohibited bribery",
+          "label": "Potential indirect prohibited bribery"
+        },
+        {
+          "value": "Automatic permission through intermediaries",
+          "label": "Automatic permission through intermediaries"
+        },
+        {
+          "value": "No recordkeeping implications",
+          "label": "No recordkeeping implications"
+        },
+        {
+          "value": "A required tax election",
+          "label": "A required tax election"
+        }
+      ],
+      "correct": "Potential indirect prohibited bribery",
+      "explanation": "Intermediary use does not make an improper payment lawful.",
+      "topicId": "reg-business-organizations-regulation"
+    }
+  ],
+  "exhibits": [
+    {
+      "id": "reg-m2-tbs3-ex1",
+      "title": "Business facts",
+      "html": "<p>A member signs a personal guarantee. A business labels workers contractors while controlling their daily work. A director secretly takes an entity opportunity. A consultant is paid to pass money improperly to a foreign official.</p>"
+    },
+    {
+      "id": "reg-m2-tbs3-ex2",
+      "title": "Instructions",
+      "html": "<p>Identify the issue rather than assuming a legal label determines the outcome. No special statutory exception is stated.</p>"
+    }
+  ],
+  "explanation": "<h3>Guarantee issue</h3><p>The guarantee can bind the owner personally.</p><h3>Worker issue</h3><p>Classification requires substantive analysis.</p><h3>Director issue</h3><p>Secret personal diversion creates a loyalty concern.</p><h3>Payment issue</h3><p>Intermediary use does not make an improper payment lawful.</p>"
+}

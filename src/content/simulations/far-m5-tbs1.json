@@ -1,0 +1,62 @@
+{
+  "id": "far-m5-tbs1",
+  "moduleId": 5,
+  "number": 1,
+  "title": "FAR Module 5 · TBS 1",
+  "fields": [
+    {
+      "id": "far-m5-tbs1-unrestricted",
+      "label": "1. Contribution Revenue Without Donor Restrictions",
+      "type": "number",
+      "options": [],
+      "correct": 90000
+    },
+    {
+      "id": "far-m5-tbs1-restricted",
+      "label": "2. Contribution Revenue With Donor Restrictions",
+      "type": "number",
+      "options": [],
+      "correct": 140000
+    },
+    {
+      "id": "far-m5-tbs1-release",
+      "label": "3. Release From Restriction",
+      "type": "number",
+      "options": [],
+      "correct": 60000
+    },
+    {
+      "id": "far-m5-tbs1-remaining",
+      "label": "4. Remaining Donor-Restricted Amount After the Release",
+      "type": "number",
+      "options": [],
+      "correct": 80000
+    }
+  ],
+  "html": "<section class=\"exam-page\"> <div class=\"course-intro-card\"> <span class=\"exam-badge\"> TASK-BASED SIMULATION </span> <h2> Contribution Classification </h2> <p> Analyze contributions, donor restrictions, and releases from restriction. </p> </div> <div class=\"quiz-card\"> <h2> Scenario </h2> <p> Hope Foundation reports the following transactions during the year. </p> <p> Hope Foundation does not elect to report donor-restricted contributions whose restrictions are satisfied in the same period as contributions without donor restrictions. </p> <div class=\"key-points\"> <ul> <li> Donor A contributes <strong>$90,000</strong> with no donor-imposed restriction. </li> <li> Donor B contributes <strong>$140,000</strong> and requires that the money be used only for educational programs. </li> <li> During the year, Hope Foundation spends <strong>$60,000</strong> on qualifying educational costs that satisfy part of Donor B's restriction. </li> </ul> </div> <h2> Required </h2> <div class=\"financial-example\"> <div> <span> 1. Contribution Revenue Without Donor Restrictions </span> <input type=\"number\" id=\"far-m5-tbs1-unrestricted\" placeholder=\"Enter amount\"> </div> <div> <span> 2. Contribution Revenue With Donor Restrictions </span> <input type=\"number\" id=\"far-m5-tbs1-restricted\" placeholder=\"Enter amount\"> </div> <div> <span> 3. Release From Restriction </span> <input type=\"number\" id=\"far-m5-tbs1-release\" placeholder=\"Enter amount\"> </div> <div> <span> 4. Remaining Donor-Restricted Amount After the Release </span> <input type=\"number\" id=\"far-m5-tbs1-remaining\" placeholder=\"Enter amount\"> </div> </div> <div id=\"far-m5-tbs1-result\"></div> </div> </section>",
+  "explanation": "<div class=\"result-correct\"> <h3> Item 1 — Unrestricted Contribution </h3> <div class=\"formula-box\"> Contribution Revenue Without Donor Restrictions = $90,000 </div> <h3> Item 2 — Donor-Restricted Contribution </h3> <div class=\"formula-box\"> Contribution Revenue With Donor Restrictions = $140,000 </div> <h3> Item 3 — Release From Restriction </h3> <p> Hope Foundation used $60,000 for the exact educational purpose specified by the donor. </p> <div class=\"formula-box\"> Release From Restriction = $60,000 </div> <h3> Item 4 — Remaining Restricted Amount </h3> <div class=\"formula-box\"> Original Restricted Contribution $140,000 − Release $60,000 = $80,000 Remaining </div> <div class=\"key-points\"> <h3> CPA Takeaway </h3> <ul> <li> No donor restriction → net assets without donor restrictions. </li> <li> Donor purpose restriction → net assets with donor restrictions. </li> <li> Satisfying the restriction → release from restriction. </li> <li> A release changes classification; it is not a second contribution. </li> </ul> </div> </div>",
+  "courseId": "far",
+  "difficulty": "advanced",
+  "metadata": {
+    "section": "far",
+    "blueprintYear": 2026,
+    "areaId": "far-I",
+    "groupId": "module-5",
+    "topicId": "far-not-for-profit-accounting-foundations",
+    "taskIds": [
+      "far-not-for-profit-accounting-foundations.task-1",
+      "far-not-for-profit-accounting-foundations.task-2",
+      "far-not-for-profit-accounting-foundations.task-3"
+    ],
+    "skill": "analysis",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      }
+    ]
+  }
+}

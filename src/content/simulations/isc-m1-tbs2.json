@@ -1,0 +1,158 @@
+{
+  "id": "isc-m1-tbs2",
+  "courseId": "isc",
+  "moduleId": 1,
+  "number": 2,
+  "title": "Procure-to-pay process review",
+  "html": "<div class=\"course-intro-card\"><h2>Procure-to-pay process review</h2><p>Identify controls and weaknesses in an automated payment workflow.</p></div><section class=\"quiz-card\"><h3>Required responses</h3><div class=\"tbs-question\"><label for=\"isc-m1-tbs2-f1\">Classification of the three-way match</label><select id=\"isc-m1-tbs2-f1\"><option value=\"Application control\">Application control</option><option value=\"Only physical security\">Only physical security</option><option value=\"An audit opinion\">An audit opinion</option><option value=\"A tax election\">A tax election</option></select></div><div class=\"tbs-question\"><label for=\"isc-m1-tbs2-f2\">Vendor-change weakness</label><select id=\"isc-m1-tbs2-f2\"><option value=\"Lack of independent authorization or segregation\">Lack of independent authorization or segregation</option><option value=\"Guaranteed security from automation\">Guaranteed security from automation</option><option value=\"Only a formatting issue\">Only a formatting issue</option><option value=\"No possible payment risk\">No possible payment risk</option></select></div><div class=\"tbs-question\"><label for=\"isc-m1-tbs2-f3\">Risk from omitted rejected records</label><select id=\"isc-m1-tbs2-f3\"><option value=\"Incomplete reconciliation information\">Incomplete reconciliation information</option><option value=\"Automatic proof of no exceptions\">Automatic proof of no exceptions</option><option value=\"No effect on completeness\">No effect on completeness</option><option value=\"A guaranteed accurate report\">A guaranteed accurate report</option></select></div><div class=\"tbs-question\"><label for=\"isc-m1-tbs2-f4\">Best next step</label><select id=\"isc-m1-tbs2-f4\"><option value=\"Trace inputs, exceptions, approvals, and postings through the full process\">Trace inputs, exceptions, approvals, and postings through the full process</option><option value=\"Review only the final total\">Review only the final total</option><option value=\"Ignore master-data changes\">Ignore master-data changes</option><option value=\"Assume the robot is an independent auditor\">Assume the robot is an independent auditor</option></select></div></section>",
+  "metadata": {
+    "section": "isc",
+    "blueprintYear": 2026,
+    "areaId": "isc-I",
+    "groupId": "A.2",
+    "topicId": "isc-enterprise-systems",
+    "taskIds": [
+      "isc-enterprise-systems.task-1",
+      "isc-enterprise-systems.task-2",
+      "isc-enterprise-systems.task-3"
+    ],
+    "skill": "analysis",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      },
+      {
+        "title": "NIST Cybersecurity Framework",
+        "url": "https://www.nist.gov/cyberframework"
+      },
+      {
+        "title": "AICPA SOC resources",
+        "url": "https://www.aicpa-cima.com/resources/landing/system-and-organization-controls-soc-suite-of-services"
+      }
+    ]
+  },
+  "difficulty": "advanced",
+  "fields": [
+    {
+      "id": "isc-m1-tbs2-f1",
+      "label": "Classification of the three-way match",
+      "type": "select",
+      "options": [
+        {
+          "value": "Application control",
+          "label": "Application control"
+        },
+        {
+          "value": "Only physical security",
+          "label": "Only physical security"
+        },
+        {
+          "value": "An audit opinion",
+          "label": "An audit opinion"
+        },
+        {
+          "value": "A tax election",
+          "label": "A tax election"
+        }
+      ],
+      "correct": "Application control",
+      "explanation": "The match controls a specific transaction-processing function.",
+      "topicId": "isc-enterprise-systems"
+    },
+    {
+      "id": "isc-m1-tbs2-f2",
+      "label": "Vendor-change weakness",
+      "type": "select",
+      "options": [
+        {
+          "value": "Lack of independent authorization or segregation",
+          "label": "Lack of independent authorization or segregation"
+        },
+        {
+          "value": "Guaranteed security from automation",
+          "label": "Guaranteed security from automation"
+        },
+        {
+          "value": "Only a formatting issue",
+          "label": "Only a formatting issue"
+        },
+        {
+          "value": "No possible payment risk",
+          "label": "No possible payment risk"
+        }
+      ],
+      "correct": "Lack of independent authorization or segregation",
+      "explanation": "Self-approved master-data changes can redirect payments.",
+      "topicId": "isc-enterprise-systems"
+    },
+    {
+      "id": "isc-m1-tbs2-f3",
+      "label": "Risk from omitted rejected records",
+      "type": "select",
+      "options": [
+        {
+          "value": "Incomplete reconciliation information",
+          "label": "Incomplete reconciliation information"
+        },
+        {
+          "value": "Automatic proof of no exceptions",
+          "label": "Automatic proof of no exceptions"
+        },
+        {
+          "value": "No effect on completeness",
+          "label": "No effect on completeness"
+        },
+        {
+          "value": "A guaranteed accurate report",
+          "label": "A guaranteed accurate report"
+        }
+      ],
+      "correct": "Incomplete reconciliation information",
+      "explanation": "Rejected records may need investigation and reconciliation.",
+      "topicId": "isc-enterprise-systems"
+    },
+    {
+      "id": "isc-m1-tbs2-f4",
+      "label": "Best next step",
+      "type": "select",
+      "options": [
+        {
+          "value": "Trace inputs, exceptions, approvals, and postings through the full process",
+          "label": "Trace inputs, exceptions, approvals, and postings through the full process"
+        },
+        {
+          "value": "Review only the final total",
+          "label": "Review only the final total"
+        },
+        {
+          "value": "Ignore master-data changes",
+          "label": "Ignore master-data changes"
+        },
+        {
+          "value": "Assume the robot is an independent auditor",
+          "label": "Assume the robot is an independent auditor"
+        }
+      ],
+      "correct": "Trace inputs, exceptions, approvals, and postings through the full process",
+      "explanation": "End-to-end understanding connects each risk to an appropriate control.",
+      "topicId": "isc-enterprise-systems"
+    }
+  ],
+  "exhibits": [
+    {
+      "id": "isc-m1-tbs2-ex1",
+      "title": "Process flow",
+      "html": "<p>The ERP matches invoices with orders and receipts. Vendor bank-account changes can be made and approved by the same user. A robot exports payment totals but drops rejected records from its report.</p>"
+    },
+    {
+      "id": "isc-m1-tbs2-ex2",
+      "title": "Control objective",
+      "html": "<p>Payments should be authorized, directed to valid recipients, completely recorded, and reconciled. The matching rule alone does not address every objective.</p>"
+    }
+  ],
+  "explanation": "<h3>Classification of the three-way match</h3><p>The match controls a specific transaction-processing function.</p><h3>Vendor-change weakness</h3><p>Self-approved master-data changes can redirect payments.</p><h3>Risk from omitted rejected records</h3><p>Rejected records may need investigation and reconciliation.</p><h3>Best next step</h3><p>End-to-end understanding connects each risk to an appropriate control.</p>"
+}

@@ -1,0 +1,491 @@
+{
+  "id": "intermediate-m3-quiz",
+  "title": "Intermediate Module 3 Quiz",
+  "courseId": "intermediate",
+  "moduleId": 3,
+  "selection": "all",
+  "feedback": "immediate",
+  "passPercent": 80,
+  "questions": [
+    {
+      "id": "intermediate-m3-q1",
+      "courseId": "intermediate",
+      "moduleId": 3,
+      "topic": "Inventory Basics",
+      "prompt": "Beginning inventory is $30,000, purchases are $90,000 and ending inventory is $25,000. What is COGS?",
+      "choices": [
+        {
+          "id": "intermediate-m3-q1-a0",
+          "text": "$65,000"
+        },
+        {
+          "id": "intermediate-m3-q1-a1",
+          "text": "$95,000"
+        },
+        {
+          "id": "intermediate-m3-q1-a2",
+          "text": "$115,000"
+        },
+        {
+          "id": "intermediate-m3-q1-a3",
+          "text": "$145,000"
+        }
+      ],
+      "correctChoiceId": "intermediate-m3-q1-a1",
+      "explanation": "$30,000 + $90,000 − $25,000 = $95,000.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "intermediate",
+        "blueprintYear": 2026,
+        "areaId": "intermediate-I",
+        "groupId": "3",
+        "topicId": "intermediate-intermediate-general",
+        "taskIds": [
+          "intermediate-intermediate-general.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "intermediate-m3-q2",
+      "courseId": "intermediate",
+      "moduleId": 3,
+      "topic": "Inventory Systems",
+      "prompt": "Which inventory system continuously updates inventory records as transactions occur?",
+      "choices": [
+        {
+          "id": "intermediate-m3-q2-a0",
+          "text": "Periodic"
+        },
+        {
+          "id": "intermediate-m3-q2-a1",
+          "text": "Perpetual"
+        },
+        {
+          "id": "intermediate-m3-q2-a2",
+          "text": "Cash basis"
+        },
+        {
+          "id": "intermediate-m3-q2-a3",
+          "text": "Accrual adjustment"
+        }
+      ],
+      "correctChoiceId": "intermediate-m3-q2-a1",
+      "explanation": "A perpetual inventory system continuously updates inventory records.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "intermediate",
+        "blueprintYear": 2026,
+        "areaId": "intermediate-I",
+        "groupId": "3",
+        "topicId": "intermediate-intermediate-general",
+        "taskIds": [
+          "intermediate-intermediate-general.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "intermediate-m3-q3",
+      "courseId": "intermediate",
+      "moduleId": 3,
+      "topic": "FIFO",
+      "prompt": "Inventory consists of 50 units at $10 followed by 50 units at $14. If 60 units are sold using FIFO, what is COGS?",
+      "choices": [
+        {
+          "id": "intermediate-m3-q3-a0",
+          "text": "$500"
+        },
+        {
+          "id": "intermediate-m3-q3-a1",
+          "text": "$600"
+        },
+        {
+          "id": "intermediate-m3-q3-a2",
+          "text": "$640"
+        },
+        {
+          "id": "intermediate-m3-q3-a3",
+          "text": "$840"
+        }
+      ],
+      "correctChoiceId": "intermediate-m3-q3-a2",
+      "explanation": "FIFO uses 50 × $10 = $500 plus 10 × $14 = $140. Total COGS = $640.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "intermediate",
+        "blueprintYear": 2026,
+        "areaId": "intermediate-I",
+        "groupId": "3",
+        "topicId": "intermediate-intermediate-general",
+        "taskIds": [
+          "intermediate-intermediate-general.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "intermediate-m3-q4",
+      "courseId": "intermediate",
+      "moduleId": 3,
+      "topic": "FIFO",
+      "prompt": "Under FIFO, which costs generally remain in ending inventory?",
+      "choices": [
+        {
+          "id": "intermediate-m3-q4-a0",
+          "text": "The oldest costs"
+        },
+        {
+          "id": "intermediate-m3-q4-a1",
+          "text": "The newest costs"
+        },
+        {
+          "id": "intermediate-m3-q4-a2",
+          "text": "Only average costs"
+        },
+        {
+          "id": "intermediate-m3-q4-a3",
+          "text": "No costs"
+        }
+      ],
+      "correctChoiceId": "intermediate-m3-q4-a1",
+      "explanation": "FIFO assigns older costs to COGS first, leaving newer costs in ending inventory.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "intermediate",
+        "blueprintYear": 2026,
+        "areaId": "intermediate-I",
+        "groupId": "3",
+        "topicId": "intermediate-intermediate-general",
+        "taskIds": [
+          "intermediate-intermediate-general.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "intermediate-m3-q5",
+      "courseId": "intermediate",
+      "moduleId": 3,
+      "topic": "LIFO",
+      "prompt": "Inventory consists of 100 units at $8 followed by 100 units at $11. If 120 units are sold using LIFO, what is COGS?",
+      "choices": [
+        {
+          "id": "intermediate-m3-q5-a0",
+          "text": "$960"
+        },
+        {
+          "id": "intermediate-m3-q5-a1",
+          "text": "$1,100"
+        },
+        {
+          "id": "intermediate-m3-q5-a2",
+          "text": "$1,260"
+        },
+        {
+          "id": "intermediate-m3-q5-a3",
+          "text": "$1,360"
+        }
+      ],
+      "correctChoiceId": "intermediate-m3-q5-a2",
+      "explanation": "LIFO uses 100 × $11 = $1,100 plus 20 × $8 = $160. Total COGS = $1,260.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "intermediate",
+        "blueprintYear": 2026,
+        "areaId": "intermediate-I",
+        "groupId": "3",
+        "topicId": "intermediate-intermediate-general",
+        "taskIds": [
+          "intermediate-intermediate-general.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "intermediate-m3-q6",
+      "courseId": "intermediate",
+      "moduleId": 3,
+      "topic": "LIFO",
+      "prompt": "When inventory costs are rising, LIFO generally produces what compared with FIFO?",
+      "choices": [
+        {
+          "id": "intermediate-m3-q6-a0",
+          "text": "Lower COGS"
+        },
+        {
+          "id": "intermediate-m3-q6-a1",
+          "text": "Higher COGS"
+        },
+        {
+          "id": "intermediate-m3-q6-a2",
+          "text": "Exactly the same COGS in every case"
+        },
+        {
+          "id": "intermediate-m3-q6-a3",
+          "text": "Zero ending inventory"
+        }
+      ],
+      "correctChoiceId": "intermediate-m3-q6-a1",
+      "explanation": "With rising costs, LIFO generally assigns newer, higher costs to COGS.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "intermediate",
+        "blueprintYear": 2026,
+        "areaId": "intermediate-I",
+        "groupId": "3",
+        "topicId": "intermediate-intermediate-general",
+        "taskIds": [
+          "intermediate-intermediate-general.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "intermediate-m3-q7",
+      "courseId": "intermediate",
+      "moduleId": 3,
+      "topic": "Weighted Average",
+      "prompt": "A company has 100 units costing $6 and 200 units costing $9. What is weighted-average cost per unit?",
+      "choices": [
+        {
+          "id": "intermediate-m3-q7-a0",
+          "text": "$7"
+        },
+        {
+          "id": "intermediate-m3-q7-a1",
+          "text": "$8"
+        },
+        {
+          "id": "intermediate-m3-q7-a2",
+          "text": "$9"
+        },
+        {
+          "id": "intermediate-m3-q7-a3",
+          "text": "$15"
+        }
+      ],
+      "correctChoiceId": "intermediate-m3-q7-a1",
+      "explanation": "Total cost is $2,400. $2,400 ÷ 300 units = $8 per unit.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "intermediate",
+        "blueprintYear": 2026,
+        "areaId": "intermediate-I",
+        "groupId": "3",
+        "topicId": "intermediate-intermediate-general",
+        "taskIds": [
+          "intermediate-intermediate-general.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "intermediate-m3-q8",
+      "courseId": "intermediate",
+      "moduleId": 3,
+      "topic": "Weighted Average",
+      "prompt": "If weighted-average cost is $15 per unit and 80 units remain, what is ending inventory?",
+      "choices": [
+        {
+          "id": "intermediate-m3-q8-a0",
+          "text": "$95"
+        },
+        {
+          "id": "intermediate-m3-q8-a1",
+          "text": "$1,000"
+        },
+        {
+          "id": "intermediate-m3-q8-a2",
+          "text": "$1,200"
+        },
+        {
+          "id": "intermediate-m3-q8-a3",
+          "text": "$1,500"
+        }
+      ],
+      "correctChoiceId": "intermediate-m3-q8-a2",
+      "explanation": "80 units × $15 = $1,200.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "intermediate",
+        "blueprintYear": 2026,
+        "areaId": "intermediate-I",
+        "groupId": "3",
+        "topicId": "intermediate-intermediate-general",
+        "taskIds": [
+          "intermediate-intermediate-general.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "intermediate-m3-q9",
+      "courseId": "intermediate",
+      "moduleId": 3,
+      "topic": "Inventory Valuation",
+      "prompt": "Inventory has a cost of $40,000 and an applicable net realizable value of $37,000. If the lower amount is required, at what amount is inventory reported?",
+      "choices": [
+        {
+          "id": "intermediate-m3-q9-a0",
+          "text": "$3,000"
+        },
+        {
+          "id": "intermediate-m3-q9-a1",
+          "text": "$37,000"
+        },
+        {
+          "id": "intermediate-m3-q9-a2",
+          "text": "$40,000"
+        },
+        {
+          "id": "intermediate-m3-q9-a3",
+          "text": "$77,000"
+        }
+      ],
+      "correctChoiceId": "intermediate-m3-q9-a1",
+      "explanation": "Under a lower-of-cost-and-NRV comparison, the lower amount is $37,000.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "intermediate",
+        "blueprintYear": 2026,
+        "areaId": "intermediate-I",
+        "groupId": "3",
+        "topicId": "intermediate-intermediate-general",
+        "taskIds": [
+          "intermediate-intermediate-general.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "intermediate-m3-q10",
+      "courseId": "intermediate",
+      "moduleId": 3,
+      "topic": "Inventory Errors",
+      "prompt": "If ending inventory is understated, what happens to current-period net income?",
+      "choices": [
+        {
+          "id": "intermediate-m3-q10-a0",
+          "text": "Net income is overstated"
+        },
+        {
+          "id": "intermediate-m3-q10-a1",
+          "text": "Net income is understated"
+        },
+        {
+          "id": "intermediate-m3-q10-a2",
+          "text": "Net income is unaffected"
+        },
+        {
+          "id": "intermediate-m3-q10-a3",
+          "text": "Revenue becomes understated"
+        }
+      ],
+      "correctChoiceId": "intermediate-m3-q10-a1",
+      "explanation": "Understated ending inventory causes COGS to be overstated, which causes net income to be understated.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "intermediate",
+        "blueprintYear": 2026,
+        "areaId": "intermediate-I",
+        "groupId": "3",
+        "topicId": "intermediate-intermediate-general",
+        "taskIds": [
+          "intermediate-intermediate-general.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    }
+  ]
+}

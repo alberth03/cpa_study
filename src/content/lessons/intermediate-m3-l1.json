@@ -1,0 +1,88 @@
+{
+  "id": "intermediate-m3-l1",
+  "courseId": "intermediate",
+  "moduleId": 3,
+  "number": 1,
+  "title": "Inventory Basics & Systems",
+  "description": "Understand inventory, cost of goods sold, and periodic vs perpetual systems.",
+  "url": "/learn/intermediate/modules/3/lessons/1",
+  "html": "<h2>What is inventory?</h2> <p> Inventory consists of goods held for sale to customers or goods used in producing items that will be sold. </p> <div class=\"key-points\"> <h3>For a merchandising company</h3> <p> Inventory usually consists mainly of goods purchased for resale. </p> </div> <h2>Cost of Goods Sold</h2> <p> When inventory is sold, its cost generally becomes <strong>Cost of Goods Sold (COGS)</strong>. </p> <div class=\"formula-box\"> Beginning Inventory + Purchases − Ending Inventory = Cost of Goods Sold </div> <h2>Example</h2> <div class=\"financial-example\"> <div> <span>Beginning Inventory</span> <strong>$20,000</strong> </div> <div> <span>Add: Purchases</span> <strong>$70,000</strong> </div> <div> <span>Goods Available for Sale</span> <strong>$90,000</strong> </div> <div> <span>Less: Ending Inventory</span> <strong>($25,000)</strong> </div> <div class=\"financial-total\"> <span>Cost of Goods Sold</span> <strong>$65,000</strong> </div> </div> <h2>Periodic inventory system</h2> <p> Under a periodic system, inventory records are not continuously updated for every sale. </p> <p> Ending inventory is generally determined using a physical count at period-end. </p> <h2>Perpetual inventory system</h2> <p> Under a perpetual system, inventory records are updated continuously as purchases and sales occur. </p> <div class=\"comparison-grid\"> <div class=\"comparison-card\"> <h3>Periodic</h3> <p> Inventory and COGS are determined periodically. </p> </div> <div class=\"comparison-card\"> <h3>Perpetual</h3> <p> Inventory records are updated continuously. </p> </div> </div> <div class=\"key-points\"> <h3>Important</h3> <p> Inventory accounting determines how the total cost of goods available for sale is divided between: </p> <ul> <li>Cost of Goods Sold</li> <li>Ending Inventory</li> </ul> </div>",
+  "quiz": {
+    "id": "intermediate-m3-l1-check",
+    "courseId": "intermediate",
+    "moduleId": 3,
+    "lessonId": "intermediate-m3-l1",
+    "topic": "General review",
+    "prompt": "Beginning inventory is $15,000, purchases are $55,000, and ending inventory is $20,000. What is cost of goods sold?",
+    "choices": [
+      {
+        "id": "intermediate-m3-l1-check-a0",
+        "text": "$35,000"
+      },
+      {
+        "id": "intermediate-m3-l1-check-a1",
+        "text": "$50,000"
+      },
+      {
+        "id": "intermediate-m3-l1-check-a2",
+        "text": "$70,000"
+      },
+      {
+        "id": "intermediate-m3-l1-check-a3",
+        "text": "$90,000"
+      }
+    ],
+    "correctChoiceId": "intermediate-m3-l1-check-a1",
+    "explanation": "$15,000 + $55,000 − $20,000 = $50,000 of cost of goods sold.",
+    "difficulty": "foundation",
+    "metadata": {
+      "section": "intermediate",
+      "blueprintYear": 2026,
+      "areaId": "intermediate-I",
+      "groupId": "module-3",
+      "topicId": "intermediate-inventory-basics-systems",
+      "taskIds": [
+        "intermediate-inventory-basics-systems.task-1",
+        "intermediate-inventory-basics-systems.task-2",
+        "intermediate-inventory-basics-systems.task-3"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "section": "intermediate",
+    "blueprintYear": 2026,
+    "areaId": "intermediate-I",
+    "groupId": "module-3",
+    "topicId": "intermediate-inventory-basics-systems",
+    "taskIds": [
+      "intermediate-inventory-basics-systems.task-1",
+      "intermediate-inventory-basics-systems.task-2",
+      "intermediate-inventory-basics-systems.task-3"
+    ],
+    "skill": "application",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      }
+    ]
+  },
+  "objectives": [
+    "Explain inventory basics & systems and its underlying principles.",
+    "Apply the topic to a financial-reporting scenario.",
+    "Evaluate common errors and their financial-statement effects."
+  ]
+}

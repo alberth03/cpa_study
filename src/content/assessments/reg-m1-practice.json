@@ -1,0 +1,1883 @@
+{
+  "id": "reg-m1-practice",
+  "title": "Tax Ethics, Responsibilities & Procedures Practice",
+  "courseId": "reg",
+  "moduleId": 1,
+  "selection": "per-lesson",
+  "feedback": "immediate",
+  "passPercent": 80,
+  "questions": [
+    {
+      "id": "reg-m1-l1-q1",
+      "courseId": "reg",
+      "moduleId": 1,
+      "lessonId": "reg-m1-l1",
+      "topic": "Tax Practitioner Duties & Return Positions",
+      "prompt": "A client’s deduction schedule contains obvious contradictions. What should the preparer do?",
+      "choices": [
+        {
+          "id": "reg-m1-l1-q1-a0",
+          "text": "Make appropriate inquiries and evaluate support before using the figures."
+        },
+        {
+          "id": "reg-m1-l1-q1-a1",
+          "text": "Rely on the signature regardless of known facts."
+        },
+        {
+          "id": "reg-m1-l1-q1-a2",
+          "text": "Ignore the issue if an audit is unlikely."
+        },
+        {
+          "id": "reg-m1-l1-q1-a3",
+          "text": "Increase deductions to offset the inconsistency."
+        }
+      ],
+      "correctChoiceId": "reg-m1-l1-q1-a0",
+      "explanation": "Diligence requires follow-up when information appears incorrect, incomplete, or inconsistent.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "reg",
+        "blueprintYear": 2026,
+        "areaId": "reg-I",
+        "groupId": "A-B",
+        "topicId": "reg-tax-practice-ethics",
+        "taskIds": [
+          "reg-tax-practice-ethics.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Circular 230",
+            "url": "https://www.irs.gov/tax-professionals/circular-230-tax-professionals"
+          }
+        ]
+      }
+    },
+    {
+      "id": "reg-m1-l1-q2",
+      "courseId": "reg",
+      "moduleId": 1,
+      "lessonId": "reg-m1-l1",
+      "topic": "Tax Practitioner Duties & Return Positions",
+      "prompt": "Which factor does not establish legal support for a return position?",
+      "choices": [
+        {
+          "id": "reg-m1-l1-q2-a0",
+          "text": "Relevant statutory language."
+        },
+        {
+          "id": "reg-m1-l1-q2-a1",
+          "text": "A low probability that the return will be audited."
+        },
+        {
+          "id": "reg-m1-l1-q2-a2",
+          "text": "Applicable regulations."
+        },
+        {
+          "id": "reg-m1-l1-q2-a3",
+          "text": "Pertinent judicial decisions."
+        }
+      ],
+      "correctChoiceId": "reg-m1-l1-q2-a1",
+      "explanation": "Audit likelihood is not substantive tax authority.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "reg",
+        "blueprintYear": 2026,
+        "areaId": "reg-I",
+        "groupId": "A-B",
+        "topicId": "reg-tax-practice-ethics",
+        "taskIds": [
+          "reg-tax-practice-ethics.task-2"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Circular 230",
+            "url": "https://www.irs.gov/tax-professionals/circular-230-tax-professionals"
+          }
+        ]
+      }
+    },
+    {
+      "id": "reg-m1-l1-q3",
+      "courseId": "reg",
+      "moduleId": 1,
+      "lessonId": "reg-m1-l1",
+      "topic": "Tax Practitioner Duties & Return Positions",
+      "prompt": "A practitioner discovers that a client omitted income on a prior return. What is appropriate?",
+      "choices": [
+        {
+          "id": "reg-m1-l1-q3-a0",
+          "text": "Silently repeat the omission."
+        },
+        {
+          "id": "reg-m1-l1-q3-a1",
+          "text": "Assume the omission can never be corrected."
+        },
+        {
+          "id": "reg-m1-l1-q3-a2",
+          "text": "Advise the client of the error and relevant consequences."
+        },
+        {
+          "id": "reg-m1-l1-q3-a3",
+          "text": "Disclose confidential information publicly without evaluating duties."
+        }
+      ],
+      "correctChoiceId": "reg-m1-l1-q3-a2",
+      "explanation": "Professional duties include advising the client about the error and consequences while respecting applicable confidentiality rules.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "reg",
+        "blueprintYear": 2026,
+        "areaId": "reg-I",
+        "groupId": "A-B",
+        "topicId": "reg-tax-practice-ethics",
+        "taskIds": [
+          "reg-tax-practice-ethics.task-3"
+        ],
+        "skill": "application",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Circular 230",
+            "url": "https://www.irs.gov/tax-professionals/circular-230-tax-professionals"
+          }
+        ]
+      }
+    },
+    {
+      "id": "reg-m1-l1-q4",
+      "courseId": "reg",
+      "moduleId": 1,
+      "lessonId": "reg-m1-l1",
+      "topic": "Tax Practitioner Duties & Return Positions",
+      "prompt": "Which organization generally controls CPA licensing within a jurisdiction?",
+      "choices": [
+        {
+          "id": "reg-m1-l1-q4-a0",
+          "text": "Only the IRS appeals office."
+        },
+        {
+          "id": "reg-m1-l1-q4-a1",
+          "text": "Only the client’s bank."
+        },
+        {
+          "id": "reg-m1-l1-q4-a2",
+          "text": "Only a private tax-software company."
+        },
+        {
+          "id": "reg-m1-l1-q4-a3",
+          "text": "The state board of accountancy."
+        }
+      ],
+      "correctChoiceId": "reg-m1-l1-q4-a3",
+      "explanation": "State boards oversee licensing and disciplinary authority under state law.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "reg",
+        "blueprintYear": 2026,
+        "areaId": "reg-I",
+        "groupId": "A-B",
+        "topicId": "reg-tax-practice-ethics",
+        "taskIds": [
+          "reg-tax-practice-ethics.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Circular 230",
+            "url": "https://www.irs.gov/tax-professionals/circular-230-tax-professionals"
+          }
+        ]
+      }
+    },
+    {
+      "id": "reg-m1-l1-q5",
+      "courseId": "reg",
+      "moduleId": 1,
+      "lessonId": "reg-m1-l1",
+      "topic": "Tax Practitioner Duties & Return Positions",
+      "prompt": "Does disclosure automatically make a frivolous tax position acceptable?",
+      "choices": [
+        {
+          "id": "reg-m1-l1-q5-a0",
+          "text": "No."
+        },
+        {
+          "id": "reg-m1-l1-q5-a1",
+          "text": "Yes, if attached to a large return."
+        },
+        {
+          "id": "reg-m1-l1-q5-a2",
+          "text": "Yes, if the client signs it."
+        },
+        {
+          "id": "reg-m1-l1-q5-a3",
+          "text": "Only if the expected refund is small."
+        }
+      ],
+      "correctChoiceId": "reg-m1-l1-q5-a0",
+      "explanation": "Disclosure does not create authority for a frivolous position; the governing standards still apply.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "reg",
+        "blueprintYear": 2026,
+        "areaId": "reg-I",
+        "groupId": "A-B",
+        "topicId": "reg-tax-practice-ethics",
+        "taskIds": [
+          "reg-tax-practice-ethics.task-2"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Circular 230",
+            "url": "https://www.irs.gov/tax-professionals/circular-230-tax-professionals"
+          }
+        ]
+      }
+    },
+    {
+      "id": "reg-m1-l1-q6",
+      "courseId": "reg",
+      "moduleId": 1,
+      "lessonId": "reg-m1-l1",
+      "topic": "Tax Practitioner Duties & Return Positions",
+      "prompt": "A preparer lacks competence in a complex transaction. Which response is appropriate?",
+      "choices": [
+        {
+          "id": "reg-m1-l1-q6-a0",
+          "text": "Give a confident conclusion without research."
+        },
+        {
+          "id": "reg-m1-l1-q6-a1",
+          "text": "Obtain the necessary competence or qualified assistance before advising."
+        },
+        {
+          "id": "reg-m1-l1-q6-a2",
+          "text": "Rely only on a social-media summary."
+        },
+        {
+          "id": "reg-m1-l1-q6-a3",
+          "text": "Assume all unfamiliar transactions are tax-free."
+        }
+      ],
+      "correctChoiceId": "reg-m1-l1-q6-a1",
+      "explanation": "Competent practice requires appropriate knowledge, preparation, or assistance.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "reg",
+        "blueprintYear": 2026,
+        "areaId": "reg-I",
+        "groupId": "A-B",
+        "topicId": "reg-tax-practice-ethics",
+        "taskIds": [
+          "reg-tax-practice-ethics.task-3"
+        ],
+        "skill": "application",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Circular 230",
+            "url": "https://www.irs.gov/tax-professionals/circular-230-tax-professionals"
+          }
+        ]
+      }
+    },
+    {
+      "id": "reg-m1-l1-q7",
+      "courseId": "reg",
+      "moduleId": 1,
+      "lessonId": "reg-m1-l1",
+      "topic": "Tax Practitioner Duties & Return Positions",
+      "prompt": "Evaluate a preparer’s response to four engagement issues. Client file: A deduction lacks support and contradicts bank records. A partner wants to rely on the return’s low audit risk. A prior-year income omission is discovered. A complex restructuring exceeds the team’s expertise. Required approach: Apply diligence, authoritative research, client communication, and competence. Do not assume a disclosure or engagement letter eliminates substantive obligations. Required: Response to the unsupported deduction.",
+      "choices": [
+        {
+          "id": "reg-m1-l1-q7-a0",
+          "text": "Use it despite known contradictions"
+        },
+        {
+          "id": "reg-m1-l1-q7-a1",
+          "text": "Increase it"
+        },
+        {
+          "id": "reg-m1-l1-q7-a2",
+          "text": "Investigate and obtain appropriate support"
+        },
+        {
+          "id": "reg-m1-l1-q7-a3",
+          "text": "Treat the organizer as conclusive"
+        }
+      ],
+      "correctChoiceId": "reg-m1-l1-q7-a2",
+      "explanation": "Known inconsistencies require reasonable follow-up.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "reg",
+        "blueprintYear": 2026,
+        "areaId": "reg-I",
+        "groupId": "A-B",
+        "topicId": "reg-tax-practice-ethics",
+        "taskIds": [
+          "reg-tax-practice-ethics.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Circular 230",
+            "url": "https://www.irs.gov/tax-professionals/circular-230-tax-professionals"
+          }
+        ]
+      },
+      "familyId": "reg-m1-tbs1"
+    },
+    {
+      "id": "reg-m1-l1-q8",
+      "courseId": "reg",
+      "moduleId": 1,
+      "lessonId": "reg-m1-l1",
+      "topic": "Tax Practitioner Duties & Return Positions",
+      "prompt": "Evaluate a preparer’s response to four engagement issues. Client file: A deduction lacks support and contradicts bank records. A partner wants to rely on the return’s low audit risk. A prior-year income omission is discovered. A complex restructuring exceeds the team’s expertise. Required approach: Apply diligence, authoritative research, client communication, and competence. Do not assume a disclosure or engagement letter eliminates substantive obligations. Required: Treatment of low audit probability.",
+      "choices": [
+        {
+          "id": "reg-m1-l1-q8-a0",
+          "text": "It is the highest tax authority"
+        },
+        {
+          "id": "reg-m1-l1-q8-a1",
+          "text": "It cures a frivolous position"
+        },
+        {
+          "id": "reg-m1-l1-q8-a2",
+          "text": "It replaces professional diligence"
+        },
+        {
+          "id": "reg-m1-l1-q8-a3",
+          "text": "It does not establish legal support"
+        }
+      ],
+      "correctChoiceId": "reg-m1-l1-q8-a3",
+      "explanation": "Substantive support comes from applicable authority, not audit odds.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "reg",
+        "blueprintYear": 2026,
+        "areaId": "reg-I",
+        "groupId": "A-B",
+        "topicId": "reg-tax-practice-ethics",
+        "taskIds": [
+          "reg-tax-practice-ethics.task-2"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Circular 230",
+            "url": "https://www.irs.gov/tax-professionals/circular-230-tax-professionals"
+          }
+        ]
+      },
+      "familyId": "reg-m1-tbs1"
+    },
+    {
+      "id": "reg-m1-l1-q9",
+      "courseId": "reg",
+      "moduleId": 1,
+      "lessonId": "reg-m1-l1",
+      "topic": "Tax Practitioner Duties & Return Positions",
+      "prompt": "Evaluate a preparer’s response to four engagement issues. Client file: A deduction lacks support and contradicts bank records. A partner wants to rely on the return’s low audit risk. A prior-year income omission is discovered. A complex restructuring exceeds the team’s expertise. Required approach: Apply diligence, authoritative research, client communication, and competence. Do not assume a disclosure or engagement letter eliminates substantive obligations. Required: Response to the prior omission.",
+      "choices": [
+        {
+          "id": "reg-m1-l1-q9-a0",
+          "text": "Advise the client of the error and consequences"
+        },
+        {
+          "id": "reg-m1-l1-q9-a1",
+          "text": "Repeat it silently"
+        },
+        {
+          "id": "reg-m1-l1-q9-a2",
+          "text": "Destroy prior records"
+        },
+        {
+          "id": "reg-m1-l1-q9-a3",
+          "text": "Publish the client’s identity"
+        }
+      ],
+      "correctChoiceId": "reg-m1-l1-q9-a0",
+      "explanation": "Advise the client while observing applicable duties.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "reg",
+        "blueprintYear": 2026,
+        "areaId": "reg-I",
+        "groupId": "A-B",
+        "topicId": "reg-tax-practice-ethics",
+        "taskIds": [
+          "reg-tax-practice-ethics.task-3"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Circular 230",
+            "url": "https://www.irs.gov/tax-professionals/circular-230-tax-professionals"
+          }
+        ]
+      },
+      "familyId": "reg-m1-tbs1"
+    },
+    {
+      "id": "reg-m1-l1-q10",
+      "courseId": "reg",
+      "moduleId": 1,
+      "lessonId": "reg-m1-l1",
+      "topic": "Tax Practitioner Duties & Return Positions",
+      "prompt": "Evaluate a preparer’s response to four engagement issues. Client file: A deduction lacks support and contradicts bank records. A partner wants to rely on the return’s low audit risk. A prior-year income omission is discovered. A complex restructuring exceeds the team’s expertise. Required approach: Apply diligence, authoritative research, client communication, and competence. Do not assume a disclosure or engagement letter eliminates substantive obligations. Required: Response to the unfamiliar restructuring.",
+      "choices": [
+        {
+          "id": "reg-m1-l1-q10-a0",
+          "text": "Guess the tax result"
+        },
+        {
+          "id": "reg-m1-l1-q10-a1",
+          "text": "Obtain competence or qualified assistance"
+        },
+        {
+          "id": "reg-m1-l1-q10-a2",
+          "text": "Avoid all documentation"
+        },
+        {
+          "id": "reg-m1-l1-q10-a3",
+          "text": "Assume no tax applies"
+        }
+      ],
+      "correctChoiceId": "reg-m1-l1-q10-a1",
+      "explanation": "Competence requires adequate preparation or assistance.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "reg",
+        "blueprintYear": 2026,
+        "areaId": "reg-I",
+        "groupId": "A-B",
+        "topicId": "reg-tax-practice-ethics",
+        "taskIds": [
+          "reg-tax-practice-ethics.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Circular 230",
+            "url": "https://www.irs.gov/tax-professionals/circular-230-tax-professionals"
+          }
+        ]
+      },
+      "familyId": "reg-m1-tbs1"
+    },
+    {
+      "id": "reg-m1-l2-q1",
+      "courseId": "reg",
+      "moduleId": 1,
+      "lessonId": "reg-m1-l2",
+      "topic": "IRS Examinations, Appeals, Courts & Penalties",
+      "prompt": "Which forum generally allows a taxpayer to contest an income-tax deficiency before paying it, if procedural requirements are met?",
+      "choices": [
+        {
+          "id": "reg-m1-l2-q1-a0",
+          "text": "A refund suit in district court without payment in every case."
+        },
+        {
+          "id": "reg-m1-l2-q1-a1",
+          "text": "U.S. Tax Court."
+        },
+        {
+          "id": "reg-m1-l2-q1-a2",
+          "text": "A private arbitration with the tax preparer."
+        },
+        {
+          "id": "reg-m1-l2-q1-a3",
+          "text": "The local sales-tax office."
+        }
+      ],
+      "correctChoiceId": "reg-m1-l2-q1-a1",
+      "explanation": "Tax Court deficiency jurisdiction generally provides a prepayment forum, subject to applicable requirements.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "reg",
+        "blueprintYear": 2026,
+        "areaId": "reg-I",
+        "groupId": "C",
+        "topicId": "reg-federal-tax-procedures",
+        "taskIds": [
+          "reg-federal-tax-procedures.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Circular 230",
+            "url": "https://www.irs.gov/tax-professionals/circular-230-tax-professionals"
+          }
+        ]
+      }
+    },
+    {
+      "id": "reg-m1-l2-q2",
+      "courseId": "reg",
+      "moduleId": 1,
+      "lessonId": "reg-m1-l2",
+      "topic": "IRS Examinations, Appeals, Courts & Penalties",
+      "prompt": "For a timely filed return with no applicable exception, what is the general federal income-tax assessment period?",
+      "choices": [
+        {
+          "id": "reg-m1-l2-q2-a0",
+          "text": "One month."
+        },
+        {
+          "id": "reg-m1-l2-q2-a1",
+          "text": "Ten years in every case."
+        },
+        {
+          "id": "reg-m1-l2-q2-a2",
+          "text": "Three years."
+        },
+        {
+          "id": "reg-m1-l2-q2-a3",
+          "text": "No time limit in every case."
+        }
+      ],
+      "correctChoiceId": "reg-m1-l2-q2-a2",
+      "explanation": "The ordinary period is generally three years; exceptions and extensions must be evaluated separately.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "reg",
+        "blueprintYear": 2026,
+        "areaId": "reg-I",
+        "groupId": "C",
+        "topicId": "reg-federal-tax-procedures",
+        "taskIds": [
+          "reg-federal-tax-procedures.task-2"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Circular 230",
+            "url": "https://www.irs.gov/tax-professionals/circular-230-tax-professionals"
+          }
+        ]
+      }
+    },
+    {
+      "id": "reg-m1-l2-q3",
+      "courseId": "reg",
+      "moduleId": 1,
+      "lessonId": "reg-m1-l2",
+      "topic": "IRS Examinations, Appeals, Courts & Penalties",
+      "prompt": "Which fact can leave the federal income-tax assessment period open indefinitely?",
+      "choices": [
+        {
+          "id": "reg-m1-l2-q3-a0",
+          "text": "Any arithmetic error."
+        },
+        {
+          "id": "reg-m1-l2-q3-a1",
+          "text": "A return prepared by software."
+        },
+        {
+          "id": "reg-m1-l2-q3-a2",
+          "text": "A small disclosed deduction."
+        },
+        {
+          "id": "reg-m1-l2-q3-a3",
+          "text": "A fraudulent return with intent to evade tax."
+        }
+      ],
+      "correctChoiceId": "reg-m1-l2-q3-a3",
+      "explanation": "Fraud is an important exception to the ordinary assessment period.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "reg",
+        "blueprintYear": 2026,
+        "areaId": "reg-I",
+        "groupId": "C",
+        "topicId": "reg-federal-tax-procedures",
+        "taskIds": [
+          "reg-federal-tax-procedures.task-3"
+        ],
+        "skill": "application",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Circular 230",
+            "url": "https://www.irs.gov/tax-professionals/circular-230-tax-professionals"
+          }
+        ]
+      }
+    },
+    {
+      "id": "reg-m1-l2-q4",
+      "courseId": "reg",
+      "moduleId": 1,
+      "lessonId": "reg-m1-l2",
+      "topic": "IRS Examinations, Appeals, Courts & Penalties",
+      "prompt": "Assume a penalty of 0.5% per month on $30,000 unpaid tax for three months, with no other adjustments. What is the penalty?",
+      "choices": [
+        {
+          "id": "reg-m1-l2-q4-a0",
+          "text": "$450."
+        },
+        {
+          "id": "reg-m1-l2-q4-a1",
+          "text": "$150."
+        },
+        {
+          "id": "reg-m1-l2-q4-a2",
+          "text": "$4,500."
+        },
+        {
+          "id": "reg-m1-l2-q4-a3",
+          "text": "$900."
+        }
+      ],
+      "correctChoiceId": "reg-m1-l2-q4-a0",
+      "explanation": "$30,000 × .005 × 3 = $450.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "reg",
+        "blueprintYear": 2026,
+        "areaId": "reg-I",
+        "groupId": "C",
+        "topicId": "reg-federal-tax-procedures",
+        "taskIds": [
+          "reg-federal-tax-procedures.task-1"
+        ],
+        "skill": "application",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Circular 230",
+            "url": "https://www.irs.gov/tax-professionals/circular-230-tax-professionals"
+          }
+        ]
+      }
+    },
+    {
+      "id": "reg-m1-l2-q5",
+      "courseId": "reg",
+      "moduleId": 1,
+      "lessonId": "reg-m1-l2",
+      "topic": "IRS Examinations, Appeals, Courts & Penalties",
+      "prompt": "A taxpayer wants to pursue federal refund litigation. Which procedural matter ordinarily needs evaluation?",
+      "choices": [
+        {
+          "id": "reg-m1-l2-q5-a0",
+          "text": "Only whether the taxpayer dislikes the auditor."
+        },
+        {
+          "id": "reg-m1-l2-q5-a1",
+          "text": "Payment and a proper administrative refund claim before suit."
+        },
+        {
+          "id": "reg-m1-l2-q5-a2",
+          "text": "Only the amount of tax-preparation fees."
+        },
+        {
+          "id": "reg-m1-l2-q5-a3",
+          "text": "Automatic access to every court without prerequisites."
+        }
+      ],
+      "correctChoiceId": "reg-m1-l2-q5-a1",
+      "explanation": "Refund litigation generally has payment and claim prerequisites that differ from Tax Court deficiency proceedings.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "reg",
+        "blueprintYear": 2026,
+        "areaId": "reg-I",
+        "groupId": "C",
+        "topicId": "reg-federal-tax-procedures",
+        "taskIds": [
+          "reg-federal-tax-procedures.task-2"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Circular 230",
+            "url": "https://www.irs.gov/tax-professionals/circular-230-tax-professionals"
+          }
+        ]
+      }
+    },
+    {
+      "id": "reg-m1-l2-q6",
+      "courseId": "reg",
+      "moduleId": 1,
+      "lessonId": "reg-m1-l2",
+      "topic": "IRS Examinations, Appeals, Courts & Penalties",
+      "prompt": "Does filing an income-tax return automatically satisfy all foreign-account information-reporting duties?",
+      "choices": [
+        {
+          "id": "reg-m1-l2-q6-a0",
+          "text": "Yes, in every case."
+        },
+        {
+          "id": "reg-m1-l2-q6-a1",
+          "text": "Yes, if foreign interest is under $100."
+        },
+        {
+          "id": "reg-m1-l2-q6-a2",
+          "text": "No; separate reporting regimes and thresholds may apply."
+        },
+        {
+          "id": "reg-m1-l2-q6-a3",
+          "text": "Only if the bank account is denominated in dollars."
+        }
+      ],
+      "correctChoiceId": "reg-m1-l2-q6-a2",
+      "explanation": "Separate federal information-reporting obligations require their own analysis.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "reg",
+        "blueprintYear": 2026,
+        "areaId": "reg-I",
+        "groupId": "C",
+        "topicId": "reg-federal-tax-procedures",
+        "taskIds": [
+          "reg-federal-tax-procedures.task-3"
+        ],
+        "skill": "application",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Circular 230",
+            "url": "https://www.irs.gov/tax-professionals/circular-230-tax-professionals"
+          }
+        ]
+      }
+    },
+    {
+      "id": "reg-m1-l2-q7",
+      "courseId": "reg",
+      "moduleId": 1,
+      "lessonId": "reg-m1-l2",
+      "topic": "IRS Examinations, Appeals, Courts & Penalties",
+      "prompt": "Prepare a procedural action summary and a penalty calculation using the stated assumptions. Procedural facts: A taxpayer received a notice of deficiency and wants a qualifying prepayment challenge. Another taxpayer filed no return. A third asks whether reporting foreign interest alone meets every foreign-account reporting duty. Penalty assumptions: Unpaid tax is $40,000 for five full months. For this exercise use 0.5% per month; ignore other penalties and limits. Required: Potential prepayment forum.",
+      "choices": [
+        {
+          "id": "reg-m1-l2-q7-a0",
+          "text": "A refund suit without any prerequisites"
+        },
+        {
+          "id": "reg-m1-l2-q7-a1",
+          "text": "Only a state small-claims court"
+        },
+        {
+          "id": "reg-m1-l2-q7-a2",
+          "text": "Only private mediation"
+        },
+        {
+          "id": "reg-m1-l2-q7-a3",
+          "text": "U.S. Tax Court"
+        }
+      ],
+      "correctChoiceId": "reg-m1-l2-q7-a3",
+      "explanation": "Tax Court generally provides a deficiency prepayment forum when requirements are met.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "reg",
+        "blueprintYear": 2026,
+        "areaId": "reg-I",
+        "groupId": "C",
+        "topicId": "reg-federal-tax-procedures",
+        "taskIds": [
+          "reg-federal-tax-procedures.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Circular 230",
+            "url": "https://www.irs.gov/tax-professionals/circular-230-tax-professionals"
+          }
+        ]
+      },
+      "familyId": "reg-m1-tbs2"
+    },
+    {
+      "id": "reg-m1-l2-q8",
+      "courseId": "reg",
+      "moduleId": 1,
+      "lessonId": "reg-m1-l2",
+      "topic": "IRS Examinations, Appeals, Courts & Penalties",
+      "prompt": "Prepare a procedural action summary and a penalty calculation using the stated assumptions. Procedural facts: A taxpayer received a notice of deficiency and wants a qualifying prepayment challenge. Another taxpayer filed no return. A third asks whether reporting foreign interest alone meets every foreign-account reporting duty. Penalty assumptions: Unpaid tax is $40,000 for five full months. For this exercise use 0.5% per month; ignore other penalties and limits. Required: Assessment-period implication of nonfiling.",
+      "choices": [
+        {
+          "id": "reg-m1-l2-q8-a0",
+          "text": "The ordinary three-year period does not automatically close assessment"
+        },
+        {
+          "id": "reg-m1-l2-q8-a1",
+          "text": "Assessment always closes after one year"
+        },
+        {
+          "id": "reg-m1-l2-q8-a2",
+          "text": "Nonfiling eliminates all tax"
+        },
+        {
+          "id": "reg-m1-l2-q8-a3",
+          "text": "No records are relevant"
+        }
+      ],
+      "correctChoiceId": "reg-m1-l2-q8-a0",
+      "explanation": "Failure to file is an exception requiring separate analysis.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "reg",
+        "blueprintYear": 2026,
+        "areaId": "reg-I",
+        "groupId": "C",
+        "topicId": "reg-federal-tax-procedures",
+        "taskIds": [
+          "reg-federal-tax-procedures.task-2"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Circular 230",
+            "url": "https://www.irs.gov/tax-professionals/circular-230-tax-professionals"
+          }
+        ]
+      },
+      "familyId": "reg-m1-tbs2"
+    },
+    {
+      "id": "reg-m1-l2-q9",
+      "courseId": "reg",
+      "moduleId": 1,
+      "lessonId": "reg-m1-l2",
+      "topic": "IRS Examinations, Appeals, Courts & Penalties",
+      "prompt": "Prepare a procedural action summary and a penalty calculation using the stated assumptions. Procedural facts: A taxpayer received a notice of deficiency and wants a qualifying prepayment challenge. Another taxpayer filed no return. A third asks whether reporting foreign interest alone meets every foreign-account reporting duty. Penalty assumptions: Unpaid tax is $40,000 for five full months. For this exercise use 0.5% per month; ignore other penalties and limits. Required: Specified late-payment penalty.",
+      "choices": [
+        {
+          "id": "reg-m1-l2-q9-a0",
+          "text": "200"
+        },
+        {
+          "id": "reg-m1-l2-q9-a1",
+          "text": "1000"
+        },
+        {
+          "id": "reg-m1-l2-q9-a2",
+          "text": "2000"
+        },
+        {
+          "id": "reg-m1-l2-q9-a3",
+          "text": "10000"
+        }
+      ],
+      "correctChoiceId": "reg-m1-l2-q9-a1",
+      "explanation": "$40,000 × .005 × 5 = $1,000.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "reg",
+        "blueprintYear": 2026,
+        "areaId": "reg-I",
+        "groupId": "C",
+        "topicId": "reg-federal-tax-procedures",
+        "taskIds": [
+          "reg-federal-tax-procedures.task-3"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Circular 230",
+            "url": "https://www.irs.gov/tax-professionals/circular-230-tax-professionals"
+          }
+        ]
+      },
+      "familyId": "reg-m1-tbs2"
+    },
+    {
+      "id": "reg-m1-l2-q10",
+      "courseId": "reg",
+      "moduleId": 1,
+      "lessonId": "reg-m1-l2",
+      "topic": "IRS Examinations, Appeals, Courts & Penalties",
+      "prompt": "Prepare a procedural action summary and a penalty calculation using the stated assumptions. Procedural facts: A taxpayer received a notice of deficiency and wants a qualifying prepayment challenge. Another taxpayer filed no return. A third asks whether reporting foreign interest alone meets every foreign-account reporting duty. Penalty assumptions: Unpaid tax is $40,000 for five full months. For this exercise use 0.5% per month; ignore other penalties and limits. Required: Foreign-reporting conclusion.",
+      "choices": [
+        {
+          "id": "reg-m1-l2-q10-a0",
+          "text": "Income reporting always satisfies everything"
+        },
+        {
+          "id": "reg-m1-l2-q10-a1",
+          "text": "Currency denomination determines all duties"
+        },
+        {
+          "id": "reg-m1-l2-q10-a2",
+          "text": "Evaluate separate applicable information-reporting requirements"
+        },
+        {
+          "id": "reg-m1-l2-q10-a3",
+          "text": "No foreign accounts are reportable"
+        }
+      ],
+      "correctChoiceId": "reg-m1-l2-q10-a2",
+      "explanation": "Income and account-information reporting are distinct obligations.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "reg",
+        "blueprintYear": 2026,
+        "areaId": "reg-I",
+        "groupId": "C",
+        "topicId": "reg-federal-tax-procedures",
+        "taskIds": [
+          "reg-federal-tax-procedures.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Circular 230",
+            "url": "https://www.irs.gov/tax-professionals/circular-230-tax-professionals"
+          }
+        ]
+      },
+      "familyId": "reg-m1-tbs2"
+    },
+    {
+      "id": "reg-m1-l3-q1",
+      "courseId": "reg",
+      "moduleId": 1,
+      "lessonId": "reg-m1-l3",
+      "topic": "Tax Authority, Liability, Confidentiality & Privilege",
+      "prompt": "Which source has greater legal authority than a general IRS explanatory publication when they conflict?",
+      "choices": [
+        {
+          "id": "reg-m1-l3-q1-a0",
+          "text": "A tax software tooltip."
+        },
+        {
+          "id": "reg-m1-l3-q1-a1",
+          "text": "A social-media post."
+        },
+        {
+          "id": "reg-m1-l3-q1-a2",
+          "text": "The applicable Internal Revenue Code provision."
+        },
+        {
+          "id": "reg-m1-l3-q1-a3",
+          "text": "The client’s preferred answer."
+        }
+      ],
+      "correctChoiceId": "reg-m1-l3-q1-a2",
+      "explanation": "The governing statute controls over informal explanatory material, subject to proper interpretation and other relevant authority.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "reg",
+        "blueprintYear": 2026,
+        "areaId": "reg-I",
+        "groupId": "C-D",
+        "topicId": "reg-tax-authority-confidentiality",
+        "taskIds": [
+          "reg-tax-authority-confidentiality.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Circular 230",
+            "url": "https://www.irs.gov/tax-professionals/circular-230-tax-professionals"
+          }
+        ]
+      }
+    },
+    {
+      "id": "reg-m1-l3-q2",
+      "courseId": "reg",
+      "moduleId": 1,
+      "lessonId": "reg-m1-l3",
+      "topic": "Tax Authority, Liability, Confidentiality & Privilege",
+      "prompt": "A client assumes every communication with a CPA is privileged in a criminal tax case. What is the appropriate explanation?",
+      "choices": [
+        {
+          "id": "reg-m1-l3-q2-a0",
+          "text": "Every CPA email is absolutely privileged."
+        },
+        {
+          "id": "reg-m1-l3-q2-a1",
+          "text": "Confidentiality eliminates all subpoenas automatically."
+        },
+        {
+          "id": "reg-m1-l3-q2-a2",
+          "text": "Privilege depends only on whether the bill was paid."
+        },
+        {
+          "id": "reg-m1-l3-q2-a3",
+          "text": "CPA communications do not have a blanket privilege, and the limited tax-practitioner privilege does not generally cover criminal tax matters."
+        }
+      ],
+      "correctChoiceId": "reg-m1-l3-q2-a3",
+      "explanation": "Confidentiality is not blanket legal privilege; statutory scope and exceptions matter.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "reg",
+        "blueprintYear": 2026,
+        "areaId": "reg-I",
+        "groupId": "C-D",
+        "topicId": "reg-tax-authority-confidentiality",
+        "taskIds": [
+          "reg-tax-authority-confidentiality.task-2"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Circular 230",
+            "url": "https://www.irs.gov/tax-professionals/circular-230-tax-professionals"
+          }
+        ]
+      }
+    },
+    {
+      "id": "reg-m1-l3-q3",
+      "courseId": "reg",
+      "moduleId": 1,
+      "lessonId": "reg-m1-l3",
+      "topic": "Tax Authority, Liability, Confidentiality & Privilege",
+      "prompt": "A lender requests a client’s return without authorization. What should the preparer do first?",
+      "choices": [
+        {
+          "id": "reg-m1-l3-q3-a0",
+          "text": "Evaluate disclosure rules and obtain appropriate consent or identify an applicable exception."
+        },
+        {
+          "id": "reg-m1-l3-q3-a1",
+          "text": "Send the return because the lender seems reputable."
+        },
+        {
+          "id": "reg-m1-l3-q3-a2",
+          "text": "Post the return to a public link."
+        },
+        {
+          "id": "reg-m1-l3-q3-a3",
+          "text": "Assume all client vendors are automatically authorized."
+        }
+      ],
+      "correctChoiceId": "reg-m1-l3-q3-a0",
+      "explanation": "Tax-return information can be subject to specific consent requirements and professional confidentiality.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "reg",
+        "blueprintYear": 2026,
+        "areaId": "reg-I",
+        "groupId": "C-D",
+        "topicId": "reg-tax-authority-confidentiality",
+        "taskIds": [
+          "reg-tax-authority-confidentiality.task-3"
+        ],
+        "skill": "application",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Circular 230",
+            "url": "https://www.irs.gov/tax-professionals/circular-230-tax-professionals"
+          }
+        ]
+      }
+    },
+    {
+      "id": "reg-m1-l3-q4",
+      "courseId": "reg",
+      "moduleId": 1,
+      "lessonId": "reg-m1-l3",
+      "topic": "Tax Authority, Liability, Confidentiality & Privilege",
+      "prompt": "What should be considered when relying on a tax court decision?",
+      "choices": [
+        {
+          "id": "reg-m1-l3-q4-a0",
+          "text": "Only the year in the file name."
+        },
+        {
+          "id": "reg-m1-l3-q4-a1",
+          "text": "Its jurisdiction, facts, authority, and subsequent developments."
+        },
+        {
+          "id": "reg-m1-l3-q4-a2",
+          "text": "Only whether the result favors the client."
+        },
+        {
+          "id": "reg-m1-l3-q4-a3",
+          "text": "Only the length of the opinion."
+        }
+      ],
+      "correctChoiceId": "reg-m1-l3-q4-a1",
+      "explanation": "Judicial authority requires contextual analysis rather than outcome-driven selection.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "reg",
+        "blueprintYear": 2026,
+        "areaId": "reg-I",
+        "groupId": "C-D",
+        "topicId": "reg-tax-authority-confidentiality",
+        "taskIds": [
+          "reg-tax-authority-confidentiality.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Circular 230",
+            "url": "https://www.irs.gov/tax-professionals/circular-230-tax-professionals"
+          }
+        ]
+      }
+    },
+    {
+      "id": "reg-m1-l3-q5",
+      "courseId": "reg",
+      "moduleId": 1,
+      "lessonId": "reg-m1-l3",
+      "topic": "Tax Authority, Liability, Confidentiality & Privilege",
+      "prompt": "Which statement best distinguishes confidentiality from privilege?",
+      "choices": [
+        {
+          "id": "reg-m1-l3-q5-a0",
+          "text": "They always mean the same thing."
+        },
+        {
+          "id": "reg-m1-l3-q5-a1",
+          "text": "Privilege is created by every engagement letter."
+        },
+        {
+          "id": "reg-m1-l3-q5-a2",
+          "text": "Confidentiality restricts disclosure; privilege can protect against compelled disclosure in specified circumstances."
+        },
+        {
+          "id": "reg-m1-l3-q5-a3",
+          "text": "Confidentiality applies only to criminal matters."
+        }
+      ],
+      "correctChoiceId": "reg-m1-l3-q5-a2",
+      "explanation": "The protections arise from different sources and have different scope and exceptions.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "reg",
+        "blueprintYear": 2026,
+        "areaId": "reg-I",
+        "groupId": "C-D",
+        "topicId": "reg-tax-authority-confidentiality",
+        "taskIds": [
+          "reg-tax-authority-confidentiality.task-2"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Circular 230",
+            "url": "https://www.irs.gov/tax-professionals/circular-230-tax-professionals"
+          }
+        ]
+      }
+    },
+    {
+      "id": "reg-m1-l3-q6",
+      "courseId": "reg",
+      "moduleId": 1,
+      "lessonId": "reg-m1-l3",
+      "topic": "Tax Authority, Liability, Confidentiality & Privilege",
+      "prompt": "A tax result is unfavorable after a competent, appropriately researched engagement. Does that fact alone establish preparer malpractice?",
+      "choices": [
+        {
+          "id": "reg-m1-l3-q6-a0",
+          "text": "Yes, every unfavorable result proves negligence."
+        },
+        {
+          "id": "reg-m1-l3-q6-a1",
+          "text": "Yes, unless the client used software."
+        },
+        {
+          "id": "reg-m1-l3-q6-a2",
+          "text": "Only the size of the refund matters."
+        },
+        {
+          "id": "reg-m1-l3-q6-a3",
+          "text": "No; applicable duties, conduct, causation, and other legal elements must be evaluated."
+        }
+      ],
+      "correctChoiceId": "reg-m1-l3-q6-a3",
+      "explanation": "An unfavorable outcome is not by itself proof of a breach of professional duty or liability.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "reg",
+        "blueprintYear": 2026,
+        "areaId": "reg-I",
+        "groupId": "C-D",
+        "topicId": "reg-tax-authority-confidentiality",
+        "taskIds": [
+          "reg-tax-authority-confidentiality.task-3"
+        ],
+        "skill": "application",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Circular 230",
+            "url": "https://www.irs.gov/tax-professionals/circular-230-tax-professionals"
+          }
+        ]
+      }
+    },
+    {
+      "id": "reg-m1-l3-q7",
+      "courseId": "reg",
+      "moduleId": 1,
+      "lessonId": "reg-m1-l3",
+      "topic": "Tax Authority, Liability, Confidentiality & Privilege",
+      "prompt": "Identify the appropriate principle for each proposed research or disclosure decision. File notes: A staff member chooses a blog over a controlling statute. A client calls all CPA communications privileged. A lender asks for a return without consent. A manager relies on a court decision without checking jurisdiction or later law. Required approach: Use applicable authority, distinguish legal protections, and evaluate permitted disclosures. Required: Research response to the blog conflict.",
+      "choices": [
+        {
+          "id": "reg-m1-l3-q7-a0",
+          "text": "Apply and analyze the controlling authority"
+        },
+        {
+          "id": "reg-m1-l3-q7-a1",
+          "text": "Use the blog if shorter"
+        },
+        {
+          "id": "reg-m1-l3-q7-a2",
+          "text": "Let the client choose the law"
+        },
+        {
+          "id": "reg-m1-l3-q7-a3",
+          "text": "Treat every source as equal"
+        }
+      ],
+      "correctChoiceId": "reg-m1-l3-q7-a0",
+      "explanation": "Informal summaries do not override controlling law.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "reg",
+        "blueprintYear": 2026,
+        "areaId": "reg-I",
+        "groupId": "C-D",
+        "topicId": "reg-tax-authority-confidentiality",
+        "taskIds": [
+          "reg-tax-authority-confidentiality.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Circular 230",
+            "url": "https://www.irs.gov/tax-professionals/circular-230-tax-professionals"
+          }
+        ]
+      },
+      "familyId": "reg-m1-tbs3"
+    },
+    {
+      "id": "reg-m1-l3-q8",
+      "courseId": "reg",
+      "moduleId": 1,
+      "lessonId": "reg-m1-l3",
+      "topic": "Tax Authority, Liability, Confidentiality & Privilege",
+      "prompt": "Identify the appropriate principle for each proposed research or disclosure decision. File notes: A staff member chooses a blog over a controlling statute. A client calls all CPA communications privileged. A lender asks for a return without consent. A manager relies on a court decision without checking jurisdiction or later law. Required approach: Use applicable authority, distinguish legal protections, and evaluate permitted disclosures. Required: Privilege explanation.",
+      "choices": [
+        {
+          "id": "reg-m1-l3-q8-a0",
+          "text": "Every communication is absolutely privileged"
+        },
+        {
+          "id": "reg-m1-l3-q8-a1",
+          "text": "Protection is limited and depends on the applicable law"
+        },
+        {
+          "id": "reg-m1-l3-q8-a2",
+          "text": "Payment alone creates privilege"
+        },
+        {
+          "id": "reg-m1-l3-q8-a3",
+          "text": "No confidentiality duties exist"
+        }
+      ],
+      "correctChoiceId": "reg-m1-l3-q8-a1",
+      "explanation": "Privilege and confidentiality have defined, different scopes.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "reg",
+        "blueprintYear": 2026,
+        "areaId": "reg-I",
+        "groupId": "C-D",
+        "topicId": "reg-tax-authority-confidentiality",
+        "taskIds": [
+          "reg-tax-authority-confidentiality.task-2"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Circular 230",
+            "url": "https://www.irs.gov/tax-professionals/circular-230-tax-professionals"
+          }
+        ]
+      },
+      "familyId": "reg-m1-tbs3"
+    },
+    {
+      "id": "reg-m1-l3-q9",
+      "courseId": "reg",
+      "moduleId": 1,
+      "lessonId": "reg-m1-l3",
+      "topic": "Tax Authority, Liability, Confidentiality & Privilege",
+      "prompt": "Identify the appropriate principle for each proposed research or disclosure decision. File notes: A staff member chooses a blog over a controlling statute. A client calls all CPA communications privileged. A lender asks for a return without consent. A manager relies on a court decision without checking jurisdiction or later law. Required approach: Use applicable authority, distinguish legal protections, and evaluate permitted disclosures. Required: Response to the lender.",
+      "choices": [
+        {
+          "id": "reg-m1-l3-q9-a0",
+          "text": "Send automatically"
+        },
+        {
+          "id": "reg-m1-l3-q9-a1",
+          "text": "Publish the return"
+        },
+        {
+          "id": "reg-m1-l3-q9-a2",
+          "text": "Evaluate consent and applicable disclosure rules"
+        },
+        {
+          "id": "reg-m1-l3-q9-a3",
+          "text": "Assume reputation is authorization"
+        }
+      ],
+      "correctChoiceId": "reg-m1-l3-q9-a2",
+      "explanation": "Disclosure must be permitted under the applicable duties and rules.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "reg",
+        "blueprintYear": 2026,
+        "areaId": "reg-I",
+        "groupId": "C-D",
+        "topicId": "reg-tax-authority-confidentiality",
+        "taskIds": [
+          "reg-tax-authority-confidentiality.task-3"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Circular 230",
+            "url": "https://www.irs.gov/tax-professionals/circular-230-tax-professionals"
+          }
+        ]
+      },
+      "familyId": "reg-m1-tbs3"
+    },
+    {
+      "id": "reg-m1-l3-q10",
+      "courseId": "reg",
+      "moduleId": 1,
+      "lessonId": "reg-m1-l3",
+      "topic": "Tax Authority, Liability, Confidentiality & Privilege",
+      "prompt": "Identify the appropriate principle for each proposed research or disclosure decision. File notes: A staff member chooses a blog over a controlling statute. A client calls all CPA communications privileged. A lender asks for a return without consent. A manager relies on a court decision without checking jurisdiction or later law. Required approach: Use applicable authority, distinguish legal protections, and evaluate permitted disclosures. Required: Court-decision research step.",
+      "choices": [
+        {
+          "id": "reg-m1-l3-q10-a0",
+          "text": "Use only favorable holdings"
+        },
+        {
+          "id": "reg-m1-l3-q10-a1",
+          "text": "Ignore newer law"
+        },
+        {
+          "id": "reg-m1-l3-q10-a2",
+          "text": "Count pages as authority"
+        },
+        {
+          "id": "reg-m1-l3-q10-a3",
+          "text": "Check jurisdiction, facts, and subsequent developments"
+        }
+      ],
+      "correctChoiceId": "reg-m1-l3-q10-a3",
+      "explanation": "A decision’s relevance and precedential value require context.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "reg",
+        "blueprintYear": 2026,
+        "areaId": "reg-I",
+        "groupId": "C-D",
+        "topicId": "reg-tax-authority-confidentiality",
+        "taskIds": [
+          "reg-tax-authority-confidentiality.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Circular 230",
+            "url": "https://www.irs.gov/tax-professionals/circular-230-tax-professionals"
+          }
+        ]
+      },
+      "familyId": "reg-m1-tbs3"
+    }
+  ]
+}

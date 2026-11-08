@@ -1,0 +1,88 @@
+{
+  "id": "fundamentals-l2",
+  "courseId": "fundamentals",
+  "moduleId": 0,
+  "number": 2,
+  "title": "The Accounting Equation",
+  "description": "Assets = Liabilities + Equity",
+  "url": "/learn/fundamentals/lessons/2",
+  "html": "<h2>The basic equation</h2> <div class=\"formula-box\"> Assets = Liabilities + Equity </div> <p> This equation is one of the foundations of accounting. Every transaction must keep the equation balanced. </p> <h2>Assets</h2> <p> Assets are resources controlled by a business that are expected to provide future economic benefit. </p> <p> Examples include cash, inventory, equipment, buildings and accounts receivable. </p> <h2>Liabilities</h2> <p> Liabilities are obligations the business owes to others. </p> <p> Examples include accounts payable, loans payable and wages payable. </p> <h2>Equity</h2> <p> Equity represents the owners' residual interest in the assets after liabilities are deducted. </p> <div class=\"example-box\"> <h3>Example</h3> <p> A business has <strong>$50,000 of assets</strong> and <strong>$20,000 of liabilities</strong>. </p> <p> Equity must equal: </p> <p> <strong> $50,000 − $20,000 = $30,000 </strong> </p> </div> <div class=\"key-points\"> <h3>Remember</h3> <ul> <li>The accounting equation must always balance.</li> <li>Assets are resources.</li> <li>Liabilities are obligations.</li> <li>Equity is the owners' residual interest.</li> </ul> </div>",
+  "quiz": {
+    "id": "fundamentals-l2-check",
+    "courseId": "fundamentals",
+    "moduleId": 0,
+    "lessonId": "fundamentals-l2",
+    "topic": "General review",
+    "prompt": "A company has $80,000 of assets and $25,000 of liabilities. What is equity?",
+    "choices": [
+      {
+        "id": "fundamentals-l2-check-a0",
+        "text": "$105,000"
+      },
+      {
+        "id": "fundamentals-l2-check-a1",
+        "text": "$55,000"
+      },
+      {
+        "id": "fundamentals-l2-check-a2",
+        "text": "$25,000"
+      },
+      {
+        "id": "fundamentals-l2-check-a3",
+        "text": "$80,000"
+      }
+    ],
+    "correctChoiceId": "fundamentals-l2-check-a1",
+    "explanation": "Equity = Assets − Liabilities. $80,000 − $25,000 = $55,000.",
+    "difficulty": "foundation",
+    "metadata": {
+      "section": "fundamentals",
+      "blueprintYear": 2026,
+      "areaId": "fundamentals-I",
+      "groupId": "module-0",
+      "topicId": "fundamentals-the-accounting-equation",
+      "taskIds": [
+        "fundamentals-the-accounting-equation.task-1",
+        "fundamentals-the-accounting-equation.task-2",
+        "fundamentals-the-accounting-equation.task-3"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "section": "fundamentals",
+    "blueprintYear": 2026,
+    "areaId": "fundamentals-I",
+    "groupId": "module-0",
+    "topicId": "fundamentals-the-accounting-equation",
+    "taskIds": [
+      "fundamentals-the-accounting-equation.task-1",
+      "fundamentals-the-accounting-equation.task-2",
+      "fundamentals-the-accounting-equation.task-3"
+    ],
+    "skill": "application",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      }
+    ]
+  },
+  "objectives": [
+    "Explain the accounting equation and its underlying principles.",
+    "Apply the topic to a financial-reporting scenario.",
+    "Evaluate common errors and their financial-statement effects."
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "id": "bar-m1-tbs1",
+  "courseId": "bar",
+  "moduleId": 1,
+  "number": 1,
+  "title": "Ratio-analysis briefing",
+  "html": "<div class=\"course-intro-card\"><h2>Ratio-analysis briefing</h2><p>Prepare ratios and evaluate a liquidity concern using the stated definitions.</p></div><section class=\"quiz-card\"><h3>Required responses</h3><div class=\"tbs-question\"><label for=\"bar-m1-tbs1-f1\">Current ratio</label><input id=\"bar-m1-tbs1-f1\" type=\"text\"></div><div class=\"tbs-question\"><label for=\"bar-m1-tbs1-f2\">Quick ratio</label><input id=\"bar-m1-tbs1-f2\" type=\"text\"></div><div class=\"tbs-question\"><label for=\"bar-m1-tbs1-f3\">Gross margin percentage</label><input id=\"bar-m1-tbs1-f3\" type=\"text\"></div><div class=\"tbs-question\"><label for=\"bar-m1-tbs1-f4\">Interpretation of aging inventory</label><select id=\"bar-m1-tbs1-f4\"><option value=\"Evaluate realizability before concluding liquidity improved\">Evaluate realizability before concluding liquidity improved</option><option value=\"Assume the ratio proves strong liquidity\">Assume the ratio proves strong liquidity</option><option value=\"Ignore operating information\">Ignore operating information</option><option value=\"Treat all inventory as cash\">Treat all inventory as cash</option></select></div></section>",
+  "metadata": {
+    "section": "bar",
+    "blueprintYear": 2026,
+    "areaId": "bar-I",
+    "groupId": "A",
+    "topicId": "bar-financial-analysis",
+    "taskIds": [
+      "bar-financial-analysis.task-1",
+      "bar-financial-analysis.task-2",
+      "bar-financial-analysis.task-3"
+    ],
+    "skill": "analysis",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      },
+      {
+        "title": "FASB accounting standards",
+        "url": "https://asc.fasb.org/"
+      },
+      {
+        "title": "GASB standards",
+        "url": "https://www.gasb.org/standards-and-implementation"
+      }
+    ]
+  },
+  "difficulty": "advanced",
+  "fields": [
+    {
+      "id": "bar-m1-tbs1-f1",
+      "label": "Current ratio",
+      "type": "number",
+      "options": [],
+      "correct": 2,
+      "explanation": "$500,000 ÷ $250,000 = 2.0.",
+      "topicId": "bar-financial-analysis"
+    },
+    {
+      "id": "bar-m1-tbs1-f2",
+      "label": "Quick ratio",
+      "type": "number",
+      "options": [],
+      "correct": 1.2,
+      "explanation": "($500,000 − $200,000) ÷ $250,000 = 1.2.",
+      "tolerance": 0.001,
+      "topicId": "bar-financial-analysis"
+    },
+    {
+      "id": "bar-m1-tbs1-f3",
+      "label": "Gross margin percentage",
+      "type": "number",
+      "options": [],
+      "correct": 30,
+      "explanation": "($1,200,000 − $840,000) ÷ $1,200,000 = 30%.",
+      "topicId": "bar-financial-analysis"
+    },
+    {
+      "id": "bar-m1-tbs1-f4",
+      "label": "Interpretation of aging inventory",
+      "type": "select",
+      "options": [
+        {
+          "value": "Evaluate realizability before concluding liquidity improved",
+          "label": "Evaluate realizability before concluding liquidity improved"
+        },
+        {
+          "value": "Assume the ratio proves strong liquidity",
+          "label": "Assume the ratio proves strong liquidity"
+        },
+        {
+          "value": "Ignore operating information",
+          "label": "Ignore operating information"
+        },
+        {
+          "value": "Treat all inventory as cash",
+          "label": "Treat all inventory as cash"
+        }
+      ],
+      "correct": "Evaluate realizability before concluding liquidity improved",
+      "explanation": "Asset quality matters alongside the ratio.",
+      "topicId": "bar-financial-analysis"
+    }
+  ],
+  "exhibits": [
+    {
+      "id": "bar-m1-tbs1-ex1",
+      "title": "Financial data",
+      "html": "<p>Current assets $500,000; inventory $200,000; current liabilities $250,000; annual sales $1,200,000; cost of sales $840,000. Quick assets equal current assets less inventory.</p>"
+    },
+    {
+      "id": "bar-m1-tbs1-ex2",
+      "title": "Operational note",
+      "html": "<p>Inventory aging has worsened substantially despite the apparent increase in current assets.</p>"
+    }
+  ],
+  "explanation": "<h3>Current ratio</h3><p>$500,000 ÷ $250,000 = 2.0.</p><h3>Quick ratio</h3><p>($500,000 − $200,000) ÷ $250,000 = 1.2.</p><h3>Gross margin percentage</h3><p>($1,200,000 − $840,000) ÷ $1,200,000 = 30%.</p><h3>Interpretation of aging inventory</h3><p>Asset quality matters alongside the ratio.</p>"
+}

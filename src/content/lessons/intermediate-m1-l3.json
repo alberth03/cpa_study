@@ -1,0 +1,88 @@
+{
+  "id": "intermediate-m1-l3",
+  "courseId": "intermediate",
+  "moduleId": 1,
+  "number": 3,
+  "title": "Qualitative Characteristics",
+  "description": "Understand relevance, faithful representation and other reporting qualities.",
+  "url": "/learn/intermediate/modules/1/lessons/3",
+  "html": "<h2>What makes financial information useful?</h2> <p> Financial information is useful when it helps users make better economic decisions. </p> <p> Two fundamental qualitative characteristics are especially important: <strong>relevance</strong> and <strong>faithful representation</strong>. </p> <h2>1. Relevance</h2> <p> Information is relevant when it can influence a user's decision. </p> <div class=\"key-points\"> <h3>Relevant information may have:</h3> <ul> <li>Predictive value</li> <li>Confirmatory value</li> <li>Materiality</li> </ul> </div> <div class=\"example-box\"> <h3>Materiality Example</h3> <p> A $10 error may be insignificant for a company with billions of dollars in assets. </p> <p> But a $10,000,000 error could clearly affect the decisions of investors and creditors. </p> </div> <h2>2. Faithful Representation</h2> <p> Financial information should represent the economic substance of what actually occurred. </p> <div class=\"key-points\"> <h3>Faithful representation aims to be:</h3> <ul> <li>Complete</li> <li>Neutral</li> <li>Free from material error</li> </ul> </div> <h2>Enhancing characteristics</h2> <p> Other characteristics can make useful information even better. </p> <div class=\"debit-credit-table\"> <div class=\"dc-row dc-header\"> <div>Characteristic</div> <div>Meaning</div> <div>Why It Matters</div> </div> <div class=\"dc-row\"> <div>Comparability</div> <div>Allows comparison</div> <div>Helps compare companies or periods</div> </div> <div class=\"dc-row\"> <div>Verifiability</div> <div>Can be supported</div> <div>Improves confidence in information</div> </div> <div class=\"dc-row\"> <div>Timeliness</div> <div>Available in time</div> <div>Information can still affect decisions</div> </div> <div class=\"dc-row\"> <div>Understandability</div> <div>Clearly presented</div> <div>Helps knowledgeable users interpret it</div> </div> </div> <div class=\"key-points\"> <h3>Big idea</h3> <p> Useful financial information should first be relevant and faithfully represented. </p> <p> Comparability, verifiability, timeliness and understandability enhance that usefulness. </p> </div>",
+  "quiz": {
+    "id": "intermediate-m1-l3-check",
+    "courseId": "intermediate",
+    "moduleId": 1,
+    "lessonId": "intermediate-m1-l3",
+    "topic": "General review",
+    "prompt": "Which of the following is a fundamental qualitative characteristic of useful financial information?",
+    "choices": [
+      {
+        "id": "intermediate-m1-l3-check-a0",
+        "text": "Timeliness"
+      },
+      {
+        "id": "intermediate-m1-l3-check-a1",
+        "text": "Comparability"
+      },
+      {
+        "id": "intermediate-m1-l3-check-a2",
+        "text": "Relevance"
+      },
+      {
+        "id": "intermediate-m1-l3-check-a3",
+        "text": "Understandability"
+      }
+    ],
+    "correctChoiceId": "intermediate-m1-l3-check-a2",
+    "explanation": "Relevance and faithful representation are fundamental qualitative characteristics. Timeliness, comparability, verifiability and understandability are enhancing characteristics.",
+    "difficulty": "foundation",
+    "metadata": {
+      "section": "intermediate",
+      "blueprintYear": 2026,
+      "areaId": "intermediate-I",
+      "groupId": "module-1",
+      "topicId": "intermediate-qualitative-characteristics",
+      "taskIds": [
+        "intermediate-qualitative-characteristics.task-1",
+        "intermediate-qualitative-characteristics.task-2",
+        "intermediate-qualitative-characteristics.task-3"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "section": "intermediate",
+    "blueprintYear": 2026,
+    "areaId": "intermediate-I",
+    "groupId": "module-1",
+    "topicId": "intermediate-qualitative-characteristics",
+    "taskIds": [
+      "intermediate-qualitative-characteristics.task-1",
+      "intermediate-qualitative-characteristics.task-2",
+      "intermediate-qualitative-characteristics.task-3"
+    ],
+    "skill": "application",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      }
+    ]
+  },
+  "objectives": [
+    "Explain qualitative characteristics and its underlying principles.",
+    "Apply the topic to a financial-reporting scenario.",
+    "Evaluate common errors and their financial-statement effects."
+  ]
+}

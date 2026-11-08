@@ -1,0 +1,95 @@
+{
+  "id": "reg-m4-tbs3",
+  "courseId": "reg",
+  "moduleId": 4,
+  "number": 3,
+  "title": "Return payment reconciliation",
+  "html": "<div class=\"course-intro-card\"><h2>Return payment reconciliation</h2><p>Complete a tax-payment summary using credits and payments that are already determined to be allowable.</p></div><section class=\"quiz-card\"><h3>Required responses</h3><div class=\"tbs-question\"><label for=\"reg-m4-tbs3-f1\">Tax after nonrefundable credits</label><input id=\"reg-m4-tbs3-f1\" type=\"text\"></div><div class=\"tbs-question\"><label for=\"reg-m4-tbs3-f2\">Withholding plus estimated payments</label><input id=\"reg-m4-tbs3-f2\" type=\"text\"></div><div class=\"tbs-question\"><label for=\"reg-m4-tbs3-f3\">Total payments and refundable credits</label><input id=\"reg-m4-tbs3-f3\" type=\"text\"></div><div class=\"tbs-question\"><label for=\"reg-m4-tbs3-f4\">Refund</label><input id=\"reg-m4-tbs3-f4\" type=\"text\"></div></section>",
+  "metadata": {
+    "section": "reg",
+    "blueprintYear": 2026,
+    "areaId": "reg-IV",
+    "groupId": "D-E",
+    "topicId": "reg-individual-filing-credits",
+    "taskIds": [
+      "reg-individual-filing-credits.task-1",
+      "reg-individual-filing-credits.task-2",
+      "reg-individual-filing-credits.task-3"
+    ],
+    "skill": "analysis",
+    "validFrom": "2026-07-01",
+    "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      },
+      {
+        "title": "Internal Revenue Code",
+        "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+      },
+      {
+        "title": "IRS tax publications",
+        "url": "https://www.irs.gov/publications"
+      },
+      {
+        "title": "Circular 230",
+        "url": "https://www.irs.gov/tax-professionals/circular-230-tax-professionals"
+      }
+    ]
+  },
+  "difficulty": "advanced",
+  "fields": [
+    {
+      "id": "reg-m4-tbs3-f1",
+      "label": "Tax after nonrefundable credits",
+      "type": "number",
+      "options": [],
+      "correct": 9000,
+      "explanation": "$12,000 − $3,000 = $9,000.",
+      "topicId": "reg-individual-filing-credits"
+    },
+    {
+      "id": "reg-m4-tbs3-f2",
+      "label": "Withholding plus estimated payments",
+      "type": "number",
+      "options": [],
+      "correct": 10500,
+      "explanation": "$6,000 + $4,500 = $10,500.",
+      "topicId": "reg-individual-filing-credits"
+    },
+    {
+      "id": "reg-m4-tbs3-f3",
+      "label": "Total payments and refundable credits",
+      "type": "number",
+      "options": [],
+      "correct": 12500,
+      "explanation": "$10,500 + $2,000 = $12,500.",
+      "topicId": "reg-individual-filing-credits"
+    },
+    {
+      "id": "reg-m4-tbs3-f4",
+      "label": "Refund",
+      "type": "number",
+      "options": [],
+      "correct": 3500,
+      "explanation": "$12,500 credits/payments less $9,000 tax = $3,500.",
+      "topicId": "reg-individual-filing-credits"
+    }
+  ],
+  "exhibits": [
+    {
+      "id": "reg-m4-tbs3-ex1",
+      "title": "Tax and credits",
+      "html": "<p>Tax before credits is $12,000. Allowed nonrefundable credits total $3,000. Allowed refundable credits total $2,000.</p>"
+    },
+    {
+      "id": "reg-m4-tbs3-ex2",
+      "title": "Payments",
+      "html": "<p>Federal withholding is $6,000 and estimated payments are $4,500. Ignore other taxes, penalties, and offsets.</p>"
+    }
+  ],
+  "explanation": "<h3>Tax after nonrefundable credits</h3><p>$12,000 − $3,000 = $9,000.</p><h3>Withholding plus estimated payments</h3><p>$6,000 + $4,500 = $10,500.</p><h3>Total payments and refundable credits</h3><p>$10,500 + $2,000 = $12,500.</p><h3>Refund</h3><p>$12,500 credits/payments less $9,000 tax = $3,500.</p>"
+}

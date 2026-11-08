@@ -1,0 +1,69 @@
+{
+  "id": "far-m5-tbs4",
+  "moduleId": 5,
+  "number": 4,
+  "title": "FAR Module 5 · TBS 4",
+  "fields": [
+    {
+      "id": "far-m5-tbs4-endowment",
+      "label": "1. Endowment Contribution With Donor Restrictions",
+      "type": "number",
+      "options": [],
+      "correct": 500000
+    },
+    {
+      "id": "far-m5-tbs4-return",
+      "label": "2. Total Investment Return",
+      "type": "number",
+      "options": [],
+      "correct": 40000
+    },
+    {
+      "id": "far-m5-tbs4-pledge",
+      "label": "3. Initial Contribution Receivable for Long-Term Pledge",
+      "type": "number",
+      "options": [],
+      "correct": 176000
+    },
+    {
+      "id": "far-m5-tbs4-release",
+      "label": "4. Release From Restriction for Scholarship Spending",
+      "type": "number",
+      "options": [],
+      "correct": 25000
+    },
+    {
+      "id": "far-m5-tbs4-remaining",
+      "label": "5. Remaining Restricted Investment Return",
+      "type": "number",
+      "options": [],
+      "correct": 15000
+    }
+  ],
+  "html": "<section class=\"exam-page\"> <div class=\"course-intro-card\"> <span class=\"exam-badge\"> TASK-BASED SIMULATION </span> <h2> Endowment and Contribution Receivable Analysis </h2> <p> Analyze donor-restricted endowment resources, investment return, and an unconditional long-term pledge. </p> </div> <div class=\"quiz-card\"> <h2> Scenario </h2> <div class=\"key-points\"> <h3> Item 1 — Endowment Gift </h3> <p> A donor contributes <strong>$500,000</strong> and requires that the principal be maintained as an endowment. </p> </div> <div class=\"key-points\"> <h3> Item 2 — Investment Return </h3> <p> During the year, the endowment earns: </p> <ul> <li> Interest and dividends: <strong>$22,000</strong> </li> <li> Net investment gain: <strong>$18,000</strong> </li> </ul> <p> The donor requires the investment return to be used only for scholarships. </p> </div> <div class=\"key-points\"> <h3> Item 3 — Long-Term Pledge </h3> <p> A separate donor makes an <strong>unconditional promise</strong> to contribute <strong>$200,000</strong> three years from now. </p> <p> The present value of the expected payment is <strong>$176,000</strong>. </p> </div> <div class=\"key-points\"> <h3> Item 4 — Scholarship Spending </h3> <p> During the year, the NFP uses <strong>$25,000</strong> of the endowment investment return for qualifying scholarships, satisfying that portion of the donor restriction. </p> </div> <h2> Required </h2> <div class=\"financial-example\"> <div> <span> 1. Endowment Contribution With Donor Restrictions </span> <input type=\"number\" id=\"far-m5-tbs4-endowment\" placeholder=\"Enter amount\"> </div> <div> <span> 2. Total Investment Return </span> <input type=\"number\" id=\"far-m5-tbs4-return\" placeholder=\"Enter amount\"> </div> <div> <span> 3. Initial Contribution Receivable for Long-Term Pledge </span> <input type=\"number\" id=\"far-m5-tbs4-pledge\" placeholder=\"Enter amount\"> </div> <div> <span> 4. Release From Restriction for Scholarship Spending </span> <input type=\"number\" id=\"far-m5-tbs4-release\" placeholder=\"Enter amount\"> </div> <div> <span> 5. Remaining Restricted Investment Return </span> <input type=\"number\" id=\"far-m5-tbs4-remaining\" placeholder=\"Enter amount\"> </div> </div> <div id=\"far-m5-tbs4-result\"></div> </div> </section>",
+  "explanation": "<div class=\"result-correct\"> <h3> Item 1 — Donor-Restricted Endowment </h3> <p> The donor requires the principal to be maintained as an endowment. </p> <div class=\"formula-box\"> Contribution With Donor Restrictions = $500,000 </div> <h3> Item 2 — Investment Return </h3> <div class=\"formula-box\"> Interest &amp; Dividends $22,000 + Investment Gain $18,000 = $40,000 Total Investment Return </div> <p> Because the donor restricts the return for scholarships, the return is generally included in net assets with donor restrictions until used for that purpose. </p> <h3> Item 3 — Long-Term Pledge </h3> <p> The promise is unconditional and payable several years in the future. </p> <div class=\"formula-box\"> Initial Contribution Receivable = Present Value = $176,000 </div> <h3> Item 4 — Release From Restriction </h3> <p> The NFP spent $25,000 on qualifying scholarships. </p> <div class=\"formula-box\"> Release From Restriction = $25,000 </div> <h3> Item 5 — Remaining Restricted Return </h3> <div class=\"formula-box\"> Investment Return $40,000 − Release $25,000 = $15,000 Remaining </div> <div class=\"key-points\"> <h3> CPA Takeaway </h3> <ul> <li> Donor-restricted endowments generally increase net assets with donor restrictions. </li> <li> Investment return classification depends on donor stipulations. </li> <li> Long-term unconditional pledges may require present-value measurement. </li> <li> Spending restricted return for the donor's specified purpose generally creates a release from restriction. </li> </ul> </div> </div>",
+  "courseId": "far",
+  "difficulty": "advanced",
+  "metadata": {
+    "section": "far",
+    "blueprintYear": 2026,
+    "areaId": "far-I",
+    "groupId": "module-5",
+    "topicId": "far-donated-services-noncash-contributions",
+    "taskIds": [
+      "far-donated-services-noncash-contributions.task-1",
+      "far-donated-services-noncash-contributions.task-2",
+      "far-donated-services-noncash-contributions.task-3"
+    ],
+    "skill": "analysis",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      }
+    ]
+  }
+}

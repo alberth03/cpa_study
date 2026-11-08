@@ -1,0 +1,103 @@
+{
+  "id": "bar-m2-l4",
+  "courseId": "bar",
+  "moduleId": 2,
+  "number": 4,
+  "title": "Consolidation, Intercompany Profit & Foreign Currency",
+  "description": "Eliminate intercompany balances and unrealized profit.",
+  "url": "/learn/bar/modules/2/lessons/4",
+  "metadata": {
+    "section": "bar",
+    "blueprintYear": 2026,
+    "areaId": "bar-II",
+    "groupId": "F",
+    "topicId": "bar-consolidation-currency",
+    "taskIds": [
+      "bar-consolidation-currency.task-1",
+      "bar-consolidation-currency.task-2",
+      "bar-consolidation-currency.task-3"
+    ],
+    "skill": "application",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      },
+      {
+        "title": "FASB accounting standards",
+        "url": "https://asc.fasb.org/"
+      },
+      {
+        "title": "GASB standards",
+        "url": "https://www.gasb.org/standards-and-implementation"
+      }
+    ]
+  },
+  "html": "<h2>Learning objectives</h2><ul><li>Eliminate intercompany balances and unrealized profit.</li><li>Recognize the role of control and variable-interest analysis.</li><li>Distinguish translation from remeasurement using functional-currency facts.</li></ul><h2>Understand the concepts</h2><p>Consolidated financial statements present a controlled group as an economic unit. Eliminate reciprocal intercompany balances, internal transactions, and profit not yet realized with outside parties. Ownership percentage alone does not answer every consolidation question; variable-interest-entity rules can require evaluating power and exposure to significant benefits or losses.</p><p>For an intercompany inventory sale, eliminate profit remaining in ending inventory. Profit realized through subsequent external sales can affect later periods. Distinguish upstream and downstream transactions and NCI allocation where relevant. An elimination is a consolidation adjustment, not necessarily an entry in the separate legal entities’ books.</p><p>Foreign operations require determining functional currency from the economic environment. Translation from a foreign functional currency into the reporting currency generally uses current rates for assets and liabilities and appropriate rates for income and equity, with a translation adjustment in OCI. Remeasurement into functional currency uses the applicable temporal approach, and resulting gains or losses generally affect earnings. Do not classify every exchange difference as OCI.</p><div class=\"example-box\"><h3>Unrealized inventory profit</h3><p>A parent sells inventory costing $60,000 to a subsidiary for $80,000. At year-end, 25% remains in the group’s inventory.</p><ol><li>Intercompany profit is $20,000.</li><li>Unrealized profit is $20,000 × 25% = $5,000.</li><li>Eliminate the $5,000 from consolidated ending inventory and the related income effect.</li></ol></div><div class=\"key-points\"><h3>Common mistakes to avoid</h3><ul><li>Consolidation eliminates internal activity, not external sales.</li><li>Functional currency determines the translation/remeasurement path.</li><li>VIE analysis is not a simple majority-vote shortcut.</li></ul></div><h2>Apply and connect</h2><p>After solving the worked case, explain which facts determine the result and how a changed assumption would change your conclusion. Use the module questions to test fresh applications, then complete the related simulation before reviewing its solution.</p>",
+  "objectives": [
+    "Eliminate intercompany balances and unrealized profit.",
+    "Recognize the role of control and variable-interest analysis.",
+    "Distinguish translation from remeasurement using functional-currency facts."
+  ],
+  "quiz": {
+    "id": "bar-m2-l4-q1",
+    "courseId": "bar",
+    "moduleId": 2,
+    "lessonId": "bar-m2-l4",
+    "topic": "Consolidation, Intercompany Profit & Foreign Currency",
+    "prompt": "Intercompany inventory profit is $30,000 and 40% of the inventory remains within the group. What profit is unrealized?",
+    "choices": [
+      {
+        "id": "bar-m2-l4-q1-a0",
+        "text": "$12,000."
+      },
+      {
+        "id": "bar-m2-l4-q1-a1",
+        "text": "$30,000."
+      },
+      {
+        "id": "bar-m2-l4-q1-a2",
+        "text": "$18,000."
+      },
+      {
+        "id": "bar-m2-l4-q1-a3",
+        "text": "$75,000."
+      }
+    ],
+    "correctChoiceId": "bar-m2-l4-q1-a0",
+    "explanation": "$30,000 × 40% = $12,000.",
+    "difficulty": "application",
+    "metadata": {
+      "section": "bar",
+      "blueprintYear": 2026,
+      "areaId": "bar-II",
+      "groupId": "F",
+      "topicId": "bar-consolidation-currency",
+      "taskIds": [
+        "bar-consolidation-currency.task-1"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        },
+        {
+          "title": "FASB accounting standards",
+          "url": "https://asc.fasb.org/"
+        },
+        {
+          "title": "GASB standards",
+          "url": "https://www.gasb.org/standards-and-implementation"
+        }
+      ]
+    }
+  },
+  "relatedSimulation": "bar-m2-tbs4"
+}

@@ -1,0 +1,91 @@
+{
+  "id": "tcp-m3-tbs3",
+  "courseId": "tcp",
+  "moduleId": 3,
+  "number": 3,
+  "title": "Timing alternative comparison",
+  "html": "<div class=\"course-intro-card\"><h2>Timing alternative comparison</h2><p>Compare two legally available deduction dates under the stated simplified assumptions.</p></div><section class=\"quiz-card\"><h3>Required responses</h3><div class=\"tbs-question\"><label for=\"tcp-m3-tbs3-f1\">Current-year tax saving</label><input id=\"tcp-m3-tbs3-f1\" type=\"text\"></div><div class=\"tbs-question\"><label for=\"tcp-m3-tbs3-f2\">Next-year tax saving</label><input id=\"tcp-m3-tbs3-f2\" type=\"text\"></div><div class=\"tbs-question\"><label for=\"tcp-m3-tbs3-f3\">Additional nominal tax saving from acceleration</label><input id=\"tcp-m3-tbs3-f3\" type=\"text\"></div><div class=\"tbs-question\"><label for=\"tcp-m3-tbs3-f4\">Net benefit after the stated incremental business cost</label><input id=\"tcp-m3-tbs3-f4\" type=\"text\"></div></section>",
+  "metadata": {
+    "section": "tcp",
+    "blueprintYear": 2026,
+    "areaId": "tcp-III",
+    "groupId": "A-B",
+    "topicId": "tcp-entity-tax-timing",
+    "taskIds": [
+      "tcp-entity-tax-timing.task-1",
+      "tcp-entity-tax-timing.task-2",
+      "tcp-entity-tax-timing.task-3"
+    ],
+    "skill": "analysis",
+    "validFrom": "2026-07-01",
+    "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      },
+      {
+        "title": "IRS tax publications",
+        "url": "https://www.irs.gov/publications"
+      },
+      {
+        "title": "Internal Revenue Code",
+        "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+      }
+    ]
+  },
+  "difficulty": "advanced",
+  "fields": [
+    {
+      "id": "tcp-m3-tbs3-f1",
+      "label": "Current-year tax saving",
+      "type": "number",
+      "options": [],
+      "correct": 32000,
+      "explanation": "$100,000 × 32% = $32,000.",
+      "topicId": "tcp-entity-tax-timing"
+    },
+    {
+      "id": "tcp-m3-tbs3-f2",
+      "label": "Next-year tax saving",
+      "type": "number",
+      "options": [],
+      "correct": 24000,
+      "explanation": "$100,000 × 24% = $24,000.",
+      "topicId": "tcp-entity-tax-timing"
+    },
+    {
+      "id": "tcp-m3-tbs3-f3",
+      "label": "Additional nominal tax saving from acceleration",
+      "type": "number",
+      "options": [],
+      "correct": 8000,
+      "explanation": "$32,000 − $24,000 = $8,000.",
+      "topicId": "tcp-entity-tax-timing"
+    },
+    {
+      "id": "tcp-m3-tbs3-f4",
+      "label": "Net benefit after the stated incremental business cost",
+      "type": "number",
+      "options": [],
+      "correct": 5000,
+      "explanation": "$8,000 − $3,000 = $5,000.",
+      "topicId": "tcp-entity-tax-timing"
+    }
+  ],
+  "exhibits": [
+    {
+      "id": "tcp-m3-tbs3-ex1",
+      "title": "Tax alternatives",
+      "html": "<p>A $100,000 deduction can be taken now at a 32% marginal rate or next year at 24%. Ignore time value, limitations, and other tax effects.</p>"
+    },
+    {
+      "id": "tcp-m3-tbs3-ex2",
+      "title": "Business effect",
+      "html": "<p>Taking the deduction now requires $3,000 of incremental business cost that is not otherwise included in the comparison. Ignore tax effects of that cost.</p>"
+    }
+  ],
+  "explanation": "<h3>Current-year tax saving</h3><p>$100,000 × 32% = $32,000.</p><h3>Next-year tax saving</h3><p>$100,000 × 24% = $24,000.</p><h3>Additional nominal tax saving from acceleration</h3><p>$32,000 − $24,000 = $8,000.</p><h3>Net benefit after the stated incremental business cost</h3><p>$8,000 − $3,000 = $5,000.</p>"
+}

@@ -1,0 +1,158 @@
+{
+  "id": "isc-m2-tbs4",
+  "courseId": "isc",
+  "moduleId": 2,
+  "number": 4,
+  "title": "Privacy-control scoping",
+  "html": "<div class=\"course-intro-card\"><h2>Privacy-control scoping</h2><p>Identify the appropriate scope and control considerations for a new customer platform.</p></div><section class=\"quiz-card\"><h3>Required responses</h3><div class=\"tbs-question\"><label for=\"isc-m2-tbs4-f1\">Control concern with unnecessary collection</label><select id=\"isc-m2-tbs4-f1\"><option value=\"Data minimization and purpose limitation\">Data minimization and purpose limitation</option><option value=\"Automatic audit assurance\">Automatic audit assurance</option><option value=\"Only server purchase cost\">Only server purchase cost</option><option value=\"No privacy concern\">No privacy concern</option></select></div><div class=\"tbs-question\"><label for=\"isc-m2-tbs4-f2\">Scope to evaluate for payment-card data</label><select id=\"isc-m2-tbs4-f2\"><option value=\"Applicable PCI DSS requirements and other obligations\">Applicable PCI DSS requirements and other obligations</option><option value=\"Only a stock-exchange rule\">Only a stock-exchange rule</option><option value=\"No standards can apply\">No standards can apply</option><option value=\"PCI automatically replaces all privacy law\">PCI automatically replaces all privacy law</option></select></div><div class=\"tbs-question\"><label for=\"isc-m2-tbs4-f3\">HIPAA scoping approach</label><select id=\"isc-m2-tbs4-f3\"><option value=\"Evaluate covered-entity, business-associate, and activity facts\">Evaluate covered-entity, business-associate, and activity facts</option><option value=\"Assume any health word establishes scope\">Assume any health word establishes scope</option><option value=\"Assume HIPAA never applies\">Assume HIPAA never applies</option><option value=\"Use only the server location\">Use only the server location</option></select></div><div class=\"tbs-question\"><label for=\"isc-m2-tbs4-f4\">Third-party processing response</label><select id=\"isc-m2-tbs4-f4\"><option value=\"Document responsibilities, safeguards, and oversight\">Document responsibilities, safeguards, and oversight</option><option value=\"Assume the vendor assumes all liability\">Assume the vendor assumes all liability</option><option value=\"Ignore contracts\">Ignore contracts</option><option value=\"Permit every secondary use automatically\">Permit every secondary use automatically</option></select></div></section>",
+  "metadata": {
+    "section": "isc",
+    "blueprintYear": 2026,
+    "areaId": "isc-II",
+    "groupId": "A",
+    "topicId": "isc-privacy-regulation",
+    "taskIds": [
+      "isc-privacy-regulation.task-1",
+      "isc-privacy-regulation.task-2",
+      "isc-privacy-regulation.task-3"
+    ],
+    "skill": "analysis",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      },
+      {
+        "title": "NIST Cybersecurity Framework",
+        "url": "https://www.nist.gov/cyberframework"
+      },
+      {
+        "title": "AICPA SOC resources",
+        "url": "https://www.aicpa-cima.com/resources/landing/system-and-organization-controls-soc-suite-of-services"
+      }
+    ]
+  },
+  "difficulty": "advanced",
+  "fields": [
+    {
+      "id": "isc-m2-tbs4-f1",
+      "label": "Control concern with unnecessary collection",
+      "type": "select",
+      "options": [
+        {
+          "value": "Data minimization and purpose limitation",
+          "label": "Data minimization and purpose limitation"
+        },
+        {
+          "value": "Automatic audit assurance",
+          "label": "Automatic audit assurance"
+        },
+        {
+          "value": "Only server purchase cost",
+          "label": "Only server purchase cost"
+        },
+        {
+          "value": "No privacy concern",
+          "label": "No privacy concern"
+        }
+      ],
+      "correct": "Data minimization and purpose limitation",
+      "explanation": "Unnecessary collection may exceed the legitimate purpose and increase risk.",
+      "topicId": "isc-privacy-regulation"
+    },
+    {
+      "id": "isc-m2-tbs4-f2",
+      "label": "Scope to evaluate for payment-card data",
+      "type": "select",
+      "options": [
+        {
+          "value": "Applicable PCI DSS requirements and other obligations",
+          "label": "Applicable PCI DSS requirements and other obligations"
+        },
+        {
+          "value": "Only a stock-exchange rule",
+          "label": "Only a stock-exchange rule"
+        },
+        {
+          "value": "No standards can apply",
+          "label": "No standards can apply"
+        },
+        {
+          "value": "PCI automatically replaces all privacy law",
+          "label": "PCI automatically replaces all privacy law"
+        }
+      ],
+      "correct": "Applicable PCI DSS requirements and other obligations",
+      "explanation": "Card-data security has defined requirements that can coexist with other duties.",
+      "topicId": "isc-privacy-regulation"
+    },
+    {
+      "id": "isc-m2-tbs4-f3",
+      "label": "HIPAA scoping approach",
+      "type": "select",
+      "options": [
+        {
+          "value": "Evaluate covered-entity, business-associate, and activity facts",
+          "label": "Evaluate covered-entity, business-associate, and activity facts"
+        },
+        {
+          "value": "Assume any health word establishes scope",
+          "label": "Assume any health word establishes scope"
+        },
+        {
+          "value": "Assume HIPAA never applies",
+          "label": "Assume HIPAA never applies"
+        },
+        {
+          "value": "Use only the server location",
+          "label": "Use only the server location"
+        }
+      ],
+      "correct": "Evaluate covered-entity, business-associate, and activity facts",
+      "explanation": "Scope depends on the legal relationships and activities.",
+      "topicId": "isc-privacy-regulation"
+    },
+    {
+      "id": "isc-m2-tbs4-f4",
+      "label": "Third-party processing response",
+      "type": "select",
+      "options": [
+        {
+          "value": "Document responsibilities, safeguards, and oversight",
+          "label": "Document responsibilities, safeguards, and oversight"
+        },
+        {
+          "value": "Assume the vendor assumes all liability",
+          "label": "Assume the vendor assumes all liability"
+        },
+        {
+          "value": "Ignore contracts",
+          "label": "Ignore contracts"
+        },
+        {
+          "value": "Permit every secondary use automatically",
+          "label": "Permit every secondary use automatically"
+        }
+      ],
+      "correct": "Document responsibilities, safeguards, and oversight",
+      "explanation": "Processor governance is part of the privacy-control system.",
+      "topicId": "isc-privacy-regulation"
+    }
+  ],
+  "exhibits": [
+    {
+      "id": "isc-m2-tbs4-ex1",
+      "title": "Platform facts",
+      "html": "<p>The company collects personal information beyond the stated service need, uses an external processor, stores payment-card data, and assumes HIPAA applies solely because a form has a health-related field.</p>"
+    },
+    {
+      "id": "isc-m2-tbs4-ex2",
+      "title": "Assessment objective",
+      "html": "<p>Determine applicable requirements from actual activities and relationships, and evaluate data handling across its lifecycle.</p>"
+    }
+  ],
+  "explanation": "<h3>Control concern with unnecessary collection</h3><p>Unnecessary collection may exceed the legitimate purpose and increase risk.</p><h3>Scope to evaluate for payment-card data</h3><p>Card-data security has defined requirements that can coexist with other duties.</p><h3>HIPAA scoping approach</h3><p>Scope depends on the legal relationships and activities.</p><h3>Third-party processing response</h3><p>Processor governance is part of the privacy-control system.</p>"
+}

@@ -1,0 +1,105 @@
+{
+  "id": "tcp-m1-l4",
+  "courseId": "tcp",
+  "moduleId": 1,
+  "number": 4,
+  "title": "Gift Exclusions, Gift Splitting & Basis Tradeoffs",
+  "description": "Apply annual exclusions to qualifying present-interest gifts.",
+  "url": "/learn/tcp/modules/1/lessons/4",
+  "metadata": {
+    "section": "tcp",
+    "blueprintYear": 2026,
+    "areaId": "tcp-I",
+    "groupId": "C-D",
+    "topicId": "tcp-gift-estate-planning",
+    "taskIds": [
+      "tcp-gift-estate-planning.task-1",
+      "tcp-gift-estate-planning.task-2",
+      "tcp-gift-estate-planning.task-3"
+    ],
+    "skill": "application",
+    "validFrom": "2026-07-01",
+    "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      },
+      {
+        "title": "IRS tax publications",
+        "url": "https://www.irs.gov/publications"
+      },
+      {
+        "title": "Internal Revenue Code",
+        "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+      }
+    ]
+  },
+  "html": "<h2>Learning objectives</h2><ul><li>Apply annual exclusions to qualifying present-interest gifts.</li><li>Distinguish direct tuition payments from other transfers.</li><li>Evaluate gift splitting and income-tax basis tradeoffs.</li></ul><h2>Understand the concepts</h2><p>The gift-tax annual exclusion applies to qualifying transfers on a per-donor, per-donee basis for the applicable year. Present-interest requirements matter; do not assume every future-interest transfer qualifies. Taxable gifts before unified credit are not the same as an immediate tax payment.</p><p>A qualifying direct tuition payment to an educational institution can receive separate exclusion treatment. Room, board, or payments made to the student instead require separate analysis. Gift splitting between eligible spouses requires consent and satisfaction of the applicable rules; it is not automatic merely because the donors are married.</p><p>Income-tax basis can make lifetime giving different from a transfer at death. Appreciated property received by gift generally carries the donor’s basis for gain, while inherited basis can use the applicable date-of-death or alternate valuation. Consider transfer taxes, future appreciation, control, liquidity, and non-tax objectives together. A strategy reducing future estate value may shift capital gain to the recipient.</p><div class=\"example-box\"><h3>Per-donee exclusions</h3><p>A donor makes qualifying $50,000 cash gifts to each of three recipients. Use a $19,000 annual exclusion per recipient and no other exclusion.</p><ol><li>Each taxable gift before credit is $31,000.</li><li>The total is $93,000.</li><li>Available credit and reporting requirements are evaluated separately.</li></ol></div><div class=\"key-points\"><h3>Common mistakes to avoid</h3><ul><li>Apply exclusions per qualifying donor and donee.</li><li>Direct tuition and room-and-board payments have different rules.</li><li>Compare transfer-tax benefits with income-tax basis consequences.</li></ul></div><h2>Apply and connect</h2><p>After solving the worked case, explain which facts determine the result and how a changed assumption would change your conclusion. Use the module questions to test fresh applications, then complete the related simulation before reviewing its solution.</p>",
+  "objectives": [
+    "Apply annual exclusions to qualifying present-interest gifts.",
+    "Distinguish direct tuition payments from other transfers.",
+    "Evaluate gift splitting and income-tax basis tradeoffs."
+  ],
+  "quiz": {
+    "id": "tcp-m1-l4-q1",
+    "courseId": "tcp",
+    "moduleId": 1,
+    "lessonId": "tcp-m1-l4",
+    "topic": "Gift Exclusions, Gift Splitting & Basis Tradeoffs",
+    "prompt": "Qualifying $45,000 gifts are made to each of two recipients. The supplied annual exclusion is $19,000 per recipient. What are total taxable gifts before credit?",
+    "choices": [
+      {
+        "id": "tcp-m1-l4-q1-a0",
+        "text": "$90,000."
+      },
+      {
+        "id": "tcp-m1-l4-q1-a1",
+        "text": "$71,000."
+      },
+      {
+        "id": "tcp-m1-l4-q1-a2",
+        "text": "$26,000."
+      },
+      {
+        "id": "tcp-m1-l4-q1-a3",
+        "text": "$52,000."
+      }
+    ],
+    "correctChoiceId": "tcp-m1-l4-q1-a3",
+    "explanation": "Each gift leaves $26,000 after exclusion; two total $52,000.",
+    "difficulty": "application",
+    "metadata": {
+      "section": "tcp",
+      "blueprintYear": 2026,
+      "areaId": "tcp-I",
+      "groupId": "C-D",
+      "topicId": "tcp-gift-estate-planning",
+      "taskIds": [
+        "tcp-gift-estate-planning.task-1"
+      ],
+      "skill": "application",
+      "validFrom": "2026-07-01",
+      "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        },
+        {
+          "title": "IRS tax publications",
+          "url": "https://www.irs.gov/publications"
+        },
+        {
+          "title": "Internal Revenue Code",
+          "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+        }
+      ]
+    }
+  },
+  "relatedSimulation": "tcp-m1-tbs4"
+}

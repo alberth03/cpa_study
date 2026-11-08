@@ -1,0 +1,158 @@
+{
+  "id": "aud-m1-tbs1",
+  "courseId": "aud",
+  "moduleId": 1,
+  "number": 1,
+  "title": "Independence acceptance memorandum",
+  "html": "<div class=\"course-intro-card\"><h2>Independence acceptance memorandum</h2><p>You are the ethics reviewer for a firm considering four proposed arrangements for a nonissuer financial-statement audit. Determine the appropriate conclusion for each fact pattern.</p></div><section class=\"quiz-card\"><h3>Required responses</h3><div class=\"tbs-question\"><label for=\"aud-m1-tbs1-f1\">Arrangement A: appropriate conclusion</label><select id=\"aud-m1-tbs1-f1\"><option value=\"Prohibited direct financial interest\">Prohibited direct financial interest</option><option value=\"Permitted because shares are immaterial\">Permitted because shares are immaterial</option><option value=\"Permitted with client consent\">Permitted with client consent</option><option value=\"Management responsibility\">Management responsibility</option></select></div><div class=\"tbs-question\"><label for=\"aud-m1-tbs1-f2\">Arrangement B: appropriate conclusion</label><select id=\"aud-m1-tbs1-f2\"><option value=\"Evaluate and document nonattest safeguards\">Evaluate and document nonattest safeguards</option><option value=\"Automatically prohibited for every nonissuer\">Automatically prohibited for every nonissuer</option><option value=\"No professional responsibilities apply\">No professional responsibilities apply</option><option value=\"Client waiver substitutes for oversight\">Client waiver substitutes for oversight</option></select></div><div class=\"tbs-question\"><label for=\"aud-m1-tbs1-f3\">Arrangement C: primary issue</label><select id=\"aud-m1-tbs1-f3\"><option value=\"Assuming management responsibility\">Assuming management responsibility</option><option value=\"Only an immaterial financial interest\">Only an immaterial financial interest</option><option value=\"No independence issue\">No independence issue</option><option value=\"A required audit procedure\">A required audit procedure</option></select></div><div class=\"tbs-question\"><label for=\"aud-m1-tbs1-f4\">Arrangement D: required first action</label><select id=\"aud-m1-tbs1-f4\"><option value=\"Resolve authorization and confidentiality protections\">Resolve authorization and confidentiality protections</option><option value=\"Upload because the data is useful\">Upload because the data is useful</option><option value=\"Obtain only the tool’s accuracy score\">Obtain only the tool’s accuracy score</option><option value=\"Delay documentation until after upload\">Delay documentation until after upload</option></select></div></section>",
+  "metadata": {
+    "section": "aud",
+    "blueprintYear": 2026,
+    "areaId": "aud-I",
+    "groupId": "A",
+    "topicId": "aud-auditor-independence",
+    "taskIds": [
+      "aud-auditor-independence.task-1",
+      "aud-auditor-independence.task-2",
+      "aud-auditor-independence.task-3"
+    ],
+    "skill": "analysis",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      },
+      {
+        "title": "AICPA auditing standards",
+        "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+      },
+      {
+        "title": "PCAOB standards",
+        "url": "https://pcaobus.org/oversight/standards"
+      }
+    ]
+  },
+  "difficulty": "advanced",
+  "fields": [
+    {
+      "id": "aud-m1-tbs1-f1",
+      "label": "Arrangement A: appropriate conclusion",
+      "type": "select",
+      "options": [
+        {
+          "value": "Prohibited direct financial interest",
+          "label": "Prohibited direct financial interest"
+        },
+        {
+          "value": "Permitted because shares are immaterial",
+          "label": "Permitted because shares are immaterial"
+        },
+        {
+          "value": "Permitted with client consent",
+          "label": "Permitted with client consent"
+        },
+        {
+          "value": "Management responsibility",
+          "label": "Management responsibility"
+        }
+      ],
+      "correct": "Prohibited direct financial interest",
+      "explanation": "A covered partner’s direct interest impairs independence.",
+      "topicId": "aud-auditor-independence"
+    },
+    {
+      "id": "aud-m1-tbs1-f2",
+      "label": "Arrangement B: appropriate conclusion",
+      "type": "select",
+      "options": [
+        {
+          "value": "Evaluate and document nonattest safeguards",
+          "label": "Evaluate and document nonattest safeguards"
+        },
+        {
+          "value": "Automatically prohibited for every nonissuer",
+          "label": "Automatically prohibited for every nonissuer"
+        },
+        {
+          "value": "No professional responsibilities apply",
+          "label": "No professional responsibilities apply"
+        },
+        {
+          "value": "Client waiver substitutes for oversight",
+          "label": "Client waiver substitutes for oversight"
+        }
+      ],
+      "correct": "Evaluate and document nonattest safeguards",
+      "explanation": "Management retains responsibility, so evaluate the service and applicable safeguards.",
+      "topicId": "aud-auditor-independence"
+    },
+    {
+      "id": "aud-m1-tbs1-f3",
+      "label": "Arrangement C: primary issue",
+      "type": "select",
+      "options": [
+        {
+          "value": "Assuming management responsibility",
+          "label": "Assuming management responsibility"
+        },
+        {
+          "value": "Only an immaterial financial interest",
+          "label": "Only an immaterial financial interest"
+        },
+        {
+          "value": "No independence issue",
+          "label": "No independence issue"
+        },
+        {
+          "value": "A required audit procedure",
+          "label": "A required audit procedure"
+        }
+      ],
+      "correct": "Assuming management responsibility",
+      "explanation": "Signing purchase orders authorizes client transactions.",
+      "topicId": "aud-auditor-independence"
+    },
+    {
+      "id": "aud-m1-tbs1-f4",
+      "label": "Arrangement D: required first action",
+      "type": "select",
+      "options": [
+        {
+          "value": "Resolve authorization and confidentiality protections",
+          "label": "Resolve authorization and confidentiality protections"
+        },
+        {
+          "value": "Upload because the data is useful",
+          "label": "Upload because the data is useful"
+        },
+        {
+          "value": "Obtain only the tool’s accuracy score",
+          "label": "Obtain only the tool’s accuracy score"
+        },
+        {
+          "value": "Delay documentation until after upload",
+          "label": "Delay documentation until after upload"
+        }
+      ],
+      "correct": "Resolve authorization and confidentiality protections",
+      "explanation": "Confidentiality duties apply before sharing client data with a third party.",
+      "topicId": "aud-auditor-independence"
+    }
+  ],
+  "exhibits": [
+    {
+      "id": "aud-m1-tbs1-ex1",
+      "title": "Proposed arrangements",
+      "html": "<p>A: The engagement partner directly owns 20 client shares. B: The firm will prepare a proposed depreciation schedule; a competent controller chooses methods and accepts responsibility. C: An auditor will sign purchase orders for the client. D: Confidential customer data will be sent to a public tool without authorization.</p>"
+    },
+    {
+      "id": "aud-m1-tbs1-ex2",
+      "title": "Evaluation instructions",
+      "html": "<p>Assume all individuals described are covered members. No exception applies to direct interests or management responsibilities. For permitted nonattest assistance, management must oversee, evaluate, and accept the results.</p>"
+    }
+  ],
+  "explanation": "<h3>Arrangement A: appropriate conclusion</h3><p>A covered partner’s direct interest impairs independence.</p><h3>Arrangement B: appropriate conclusion</h3><p>Management retains responsibility, so evaluate the service and applicable safeguards.</p><h3>Arrangement C: primary issue</h3><p>Signing purchase orders authorizes client transactions.</p><h3>Arrangement D: required first action</h3><p>Confidentiality duties apply before sharing client data with a third party.</p>"
+}

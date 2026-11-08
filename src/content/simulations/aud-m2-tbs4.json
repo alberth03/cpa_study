@@ -1,0 +1,158 @@
+{
+  "id": "aud-m2-tbs4",
+  "courseId": "aud",
+  "moduleId": 2,
+  "number": 4,
+  "title": "Specialized audit planning file",
+  "html": "<div class=\"course-intro-card\"><h2>Specialized audit planning file</h2><p>Identify an appropriate planning response to each engagement fact.</p></div><section class=\"quiz-card\"><h3>Required responses</h3><div class=\"tbs-question\"><label for=\"aud-m2-tbs4-f1\">Response to the specialist interest</label><select id=\"aud-m2-tbs4-f1\"><option value=\"Evaluate objectivity and corroborate the valuation evidence\">Evaluate objectivity and corroborate the valuation evidence</option><option value=\"Accept credentials as sufficient\">Accept credentials as sufficient</option><option value=\"Transfer the audit opinion to the specialist\">Transfer the audit opinion to the specialist</option><option value=\"Ignore material estimates\">Ignore material estimates</option></select></div><div class=\"tbs-question\"><label for=\"aud-m2-tbs4-f2\">Response to the CEO-controlled lender</label><select id=\"aud-m2-tbs4-f2\"><option value=\"Investigate related-party terms and disclosure\">Investigate related-party terms and disclosure</option><option value=\"Assume arm’s length\">Assume arm’s length</option><option value=\"Ignore the loan\">Ignore the loan</option><option value=\"Automatically conclude the loan is illegal\">Automatically conclude the loan is illegal</option></select></div><div class=\"tbs-question\"><label for=\"aud-m2-tbs4-f3\">Additional focus for the charity</label><select id=\"aud-m2-tbs4-f3\"><option value=\"Federal-award compliance and major-program work\">Federal-award compliance and major-program work</option><option value=\"Only common-stock valuation\">Only common-stock valuation</option><option value=\"Only product warranties\">Only product warranties</option><option value=\"No additional requirements\">No additional requirements</option></select></div><div class=\"tbs-question\"><label for=\"aud-m2-tbs4-f4\">Response to missing plan eligibility data</label><select id=\"aud-m2-tbs4-f4\"><option value=\"Obtain reliable support for affected participant and benefit information\">Obtain reliable support for affected participant and benefit information</option><option value=\"Replace records with sponsor advertising\">Replace records with sponsor advertising</option><option value=\"Ignore plan provisions\">Ignore plan provisions</option><option value=\"Assume all participants are eligible\">Assume all participants are eligible</option></select></div></section>",
+  "metadata": {
+    "section": "aud",
+    "blueprintYear": 2026,
+    "areaId": "aud-II",
+    "groupId": "F-G",
+    "topicId": "aud-special-audit-risks",
+    "taskIds": [
+      "aud-special-audit-risks.task-1",
+      "aud-special-audit-risks.task-2",
+      "aud-special-audit-risks.task-3"
+    ],
+    "skill": "analysis",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      },
+      {
+        "title": "AICPA auditing standards",
+        "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+      },
+      {
+        "title": "PCAOB standards",
+        "url": "https://pcaobus.org/oversight/standards"
+      }
+    ]
+  },
+  "difficulty": "advanced",
+  "fields": [
+    {
+      "id": "aud-m2-tbs4-f1",
+      "label": "Response to the specialist interest",
+      "type": "select",
+      "options": [
+        {
+          "value": "Evaluate objectivity and corroborate the valuation evidence",
+          "label": "Evaluate objectivity and corroborate the valuation evidence"
+        },
+        {
+          "value": "Accept credentials as sufficient",
+          "label": "Accept credentials as sufficient"
+        },
+        {
+          "value": "Transfer the audit opinion to the specialist",
+          "label": "Transfer the audit opinion to the specialist"
+        },
+        {
+          "value": "Ignore material estimates",
+          "label": "Ignore material estimates"
+        }
+      ],
+      "correct": "Evaluate objectivity and corroborate the valuation evidence",
+      "explanation": "Objectivity and evidential quality need assessment.",
+      "topicId": "aud-special-audit-risks"
+    },
+    {
+      "id": "aud-m2-tbs4-f2",
+      "label": "Response to the CEO-controlled lender",
+      "type": "select",
+      "options": [
+        {
+          "value": "Investigate related-party terms and disclosure",
+          "label": "Investigate related-party terms and disclosure"
+        },
+        {
+          "value": "Assume arm’s length",
+          "label": "Assume arm’s length"
+        },
+        {
+          "value": "Ignore the loan",
+          "label": "Ignore the loan"
+        },
+        {
+          "value": "Automatically conclude the loan is illegal",
+          "label": "Automatically conclude the loan is illegal"
+        }
+      ],
+      "correct": "Investigate related-party terms and disclosure",
+      "explanation": "Establish substance and appropriate disclosure.",
+      "topicId": "aud-special-audit-risks"
+    },
+    {
+      "id": "aud-m2-tbs4-f3",
+      "label": "Additional focus for the charity",
+      "type": "select",
+      "options": [
+        {
+          "value": "Federal-award compliance and major-program work",
+          "label": "Federal-award compliance and major-program work"
+        },
+        {
+          "value": "Only common-stock valuation",
+          "label": "Only common-stock valuation"
+        },
+        {
+          "value": "Only product warranties",
+          "label": "Only product warranties"
+        },
+        {
+          "value": "No additional requirements",
+          "label": "No additional requirements"
+        }
+      ],
+      "correct": "Federal-award compliance and major-program work",
+      "explanation": "Single audits add compliance and program requirements.",
+      "topicId": "aud-special-audit-risks"
+    },
+    {
+      "id": "aud-m2-tbs4-f4",
+      "label": "Response to missing plan eligibility data",
+      "type": "select",
+      "options": [
+        {
+          "value": "Obtain reliable support for affected participant and benefit information",
+          "label": "Obtain reliable support for affected participant and benefit information"
+        },
+        {
+          "value": "Replace records with sponsor advertising",
+          "label": "Replace records with sponsor advertising"
+        },
+        {
+          "value": "Ignore plan provisions",
+          "label": "Ignore plan provisions"
+        },
+        {
+          "value": "Assume all participants are eligible",
+          "label": "Assume all participants are eligible"
+        }
+      ],
+      "correct": "Obtain reliable support for affected participant and benefit information",
+      "explanation": "Participant data is important evidence in the plan audit.",
+      "topicId": "aud-special-audit-risks"
+    }
+  ],
+  "exhibits": [
+    {
+      "id": "aud-m2-tbs4-ex1",
+      "title": "Engagement observations",
+      "html": "<p>A valuation is prepared by a financially interested management specialist. A CEO-controlled company supplies a material loan. A public charity expends federal awards subject to a single audit. A pension plan’s participant eligibility records are incomplete.</p>"
+    },
+    {
+      "id": "aud-m2-tbs4-ex2",
+      "title": "Planning limits",
+      "html": "<p>The exercise asks for audit responses, not a legal conclusion or an official program threshold. Assume the described specialized engagement requirements apply.</p>"
+    }
+  ],
+  "explanation": "<h3>Response to the specialist interest</h3><p>Objectivity and evidential quality need assessment.</p><h3>Response to the CEO-controlled lender</h3><p>Establish substance and appropriate disclosure.</p><h3>Additional focus for the charity</h3><p>Single audits add compliance and program requirements.</p><h3>Response to missing plan eligibility data</h3><p>Participant data is important evidence in the plan audit.</p>"
+}

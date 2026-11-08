@@ -1,0 +1,88 @@
+{
+  "id": "far-m5-l7",
+  "courseId": "far",
+  "moduleId": 5,
+  "number": 7,
+  "title": "Donated Services & Noncash Contributions",
+  "description": "Determine when donated services and other contributed nonfinancial assets should be recognized.",
+  "url": "/learn/far/modules/5/lessons/7",
+  "html": "<h2> Donated Services </h2> <p> Not-for-profit organizations often receive services from volunteers. </p> <p> However, donated services are not automatically recognized as contribution revenue and expense. </p> <h2> When Are Donated Services Recognized? </h2> <p> Donated services are generally recognized when they meet certain criteria. </p> <div class=\"key-points\"> <ul> <li> The services create or enhance a nonfinancial asset. </li> <li> OR the services require specialized skills, are provided by individuals possessing those skills, and would typically need to be purchased if they were not donated. </li> </ul> </div> <div class=\"formula-box\"> DONATED SERVICE RECOGNIZE IF: CREATES / ENHANCES NONFINANCIAL ASSET OR SPECIALIZED SKILL + PROVIDED BY SKILLED PERSON + OTHERWISE WOULD BE PURCHASED </div> <h2> Specialized Skills </h2> <p> Specialized skills may include services provided by professionals such as: </p> <div class=\"financial-example\"> <div> <span>Lawyers</span> <strong>Specialized Skill</strong> </div> <div> <span>Accountants</span> <strong>Specialized Skill</strong> </div> <div> <span>Doctors</span> <strong>Specialized Skill</strong> </div> <div> <span>Electricians</span> <strong>Specialized Skill</strong> </div> </div> <h2> Example — Donated Legal Services </h2> <div class=\"example-box\"> <strong> Example </strong> <p> An attorney donates legal services with a fair value of <strong>$12,000</strong>. </p> <p> The NFP would otherwise have hired an attorney to perform the work. </p> </div> <div class=\"formula-box\"> Contribution Revenue = $12,000 Legal Expense = $12,000 </div> <p> The NFP recognizes both contribution revenue and the related expense. </p> <h2> Example — Volunteer Reception Work </h2> <p> Assume volunteers provide general reception and clerical support. </p> <p> If the services do not require specialized skills and do not create or enhance a nonfinancial asset, they generally are <strong>not recognized</strong>. </p> <div class=\"formula-box\"> GENERAL VOLUNTEER SERVICE DOES NOT MEET CRITERIA → NO RECOGNITION </div> <h2> Services That Create a Nonfinancial Asset </h2> <p> Donated services may also be recognized if they create or enhance a nonfinancial asset. </p> <div class=\"example-box\"> <strong> Example </strong> <p> Skilled workers donate labor to construct a new facility for an NFP. </p> <p> Because the services create a nonfinancial asset, the value of the donated services may generally be capitalized as part of the asset. </p> </div> <h2> Noncash Contributions </h2> <p> Not-for-profit organizations may also receive contributed nonfinancial assets rather than cash. </p> <div class=\"key-points\"> <h3> Examples </h3> <ul> <li> Food </li> <li> Clothing </li> <li> Equipment </li> <li> Land </li> <li> Building materials </li> <li> Pharmaceuticals </li> </ul> </div> <h2> Measurement </h2> <p> Contributed nonfinancial assets are generally measured at fair value when recognized. </p> <div class=\"formula-box\"> CONTRIBUTED NONFINANCIAL ASSET → FAIR VALUE </div> <h2> Example — Donated Equipment </h2> <p> A donor gives an NFP equipment with a fair value of <strong>$40,000</strong>. </p> <p> Assume there are no donor restrictions. </p> <div class=\"formula-box\"> Equipment + $40,000 Contribution Revenue + $40,000 </div> <h2> Donor Restrictions Still Matter </h2> <p> A donated noncash asset may still be subject to donor-imposed restrictions. </p> <p> For example, donated land may be restricted for use only as a community garden. </p> <div class=\"formula-box\"> NONCASH CONTRIBUTION + DONOR RESTRICTION → NET ASSETS WITH DONOR RESTRICTIONS </div> <h2> Donated Services vs. Donated Goods </h2> <div class=\"financial-example\"> <div> <span> Donated Services </span> <strong> Recognize Only If Criteria Are Met </strong> </div> <div> <span> Donated Goods </span> <strong> Generally Recognize at Fair Value When Recognized </strong> </div> </div> <h2> Example — Medical Supplies </h2> <p> A health charity receives donated medical supplies with a fair value of <strong>$25,000</strong>. </p> <p> If the contribution is unconditional and unrestricted: </p> <div class=\"formula-box\"> Supplies = $25,000 Contribution Revenue = $25,000 </div> <h2> CPA Memory Rule </h2> <div class=\"formula-box\"> DONATED SERVICE? ASK: SPECIALIZED? WOULD WE OTHERWISE BUY IT? OR DOES IT CREATE A NONFINANCIAL ASSET? YES → RECOGNIZE NO → GENERALLY DON'T RECOGNIZE </div> <div class=\"key-points\"> <h3> Key Takeaways </h3> <ul> <li> Not all volunteer services are recognized. </li> <li> Specialized donated services may be recognized when they would otherwise need to be purchased. </li> <li> Services creating or enhancing nonfinancial assets may also be recognized. </li> <li> Contributed nonfinancial assets are generally measured at fair value. </li> <li> Donor restrictions can affect the net asset classification of noncash contributions. </li> </ul> </div>",
+  "quiz": {
+    "id": "far-m5-l7-check",
+    "courseId": "far",
+    "moduleId": 5,
+    "lessonId": "far-m5-l7",
+    "topic": "General review",
+    "prompt": "A CPA donates audit services to an NFP. The services have a fair value of $18,000, require specialized accounting skills, and the NFP would otherwise have hired a CPA to perform the work. How should the NFP generally account for the donated services?",
+    "choices": [
+      {
+        "id": "far-m5-l7-check-a0",
+        "text": "Do not recognize the services because no cash was paid"
+      },
+      {
+        "id": "far-m5-l7-check-a1",
+        "text": "Recognize $18,000 of contribution revenue and $18,000 of related expense"
+      },
+      {
+        "id": "far-m5-l7-check-a2",
+        "text": "Recognize only the $18,000 expense"
+      },
+      {
+        "id": "far-m5-l7-check-a3",
+        "text": "Recognize the amount directly as net assets with donor restrictions"
+      }
+    ],
+    "correctChoiceId": "far-m5-l7-check-a1",
+    "explanation": "The donated services require specialized skills, are provided by someone possessing those skills, and would otherwise need to be purchased. Therefore, the NFP generally recognizes both contribution revenue and the related expense at fair value.",
+    "difficulty": "foundation",
+    "metadata": {
+      "section": "far",
+      "blueprintYear": 2026,
+      "areaId": "far-I",
+      "groupId": "module-5",
+      "topicId": "far-donated-services-noncash-contributions",
+      "taskIds": [
+        "far-donated-services-noncash-contributions.task-1",
+        "far-donated-services-noncash-contributions.task-2",
+        "far-donated-services-noncash-contributions.task-3"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "section": "far",
+    "blueprintYear": 2026,
+    "areaId": "far-I",
+    "groupId": "module-5",
+    "topicId": "far-donated-services-noncash-contributions",
+    "taskIds": [
+      "far-donated-services-noncash-contributions.task-1",
+      "far-donated-services-noncash-contributions.task-2",
+      "far-donated-services-noncash-contributions.task-3"
+    ],
+    "skill": "application",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      }
+    ]
+  },
+  "objectives": [
+    "Explain donated services & noncash contributions and its underlying principles.",
+    "Apply the topic to a financial-reporting scenario.",
+    "Evaluate common errors and their financial-statement effects."
+  ]
+}

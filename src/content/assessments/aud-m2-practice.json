@@ -1,0 +1,2307 @@
+{
+  "id": "aud-m2-practice",
+  "title": "Risk Assessment & Audit Planning Practice",
+  "courseId": "aud",
+  "moduleId": 2,
+  "selection": "per-lesson",
+  "feedback": "immediate",
+  "passPercent": 80,
+  "questions": [
+    {
+      "id": "aud-m2-l1-q1",
+      "courseId": "aud",
+      "moduleId": 2,
+      "lessonId": "aud-m2-l1",
+      "topic": "Understand the Entity & Design the Audit Strategy",
+      "prompt": "Assessed risk of material misstatement increases while acceptable audit risk stays constant. What happens to acceptable detection risk?",
+      "choices": [
+        {
+          "id": "aud-m2-l1-q1-a0",
+          "text": "It increases."
+        },
+        {
+          "id": "aud-m2-l1-q1-a1",
+          "text": "It decreases."
+        },
+        {
+          "id": "aud-m2-l1-q1-a2",
+          "text": "It becomes irrelevant."
+        },
+        {
+          "id": "aud-m2-l1-q1-a3",
+          "text": "It must equal control risk."
+        }
+      ],
+      "correctChoiceId": "aud-m2-l1-q1-a1",
+      "explanation": "More risky assertions require audit procedures that leave a lower risk of failing to detect a material misstatement.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "aud",
+        "blueprintYear": 2026,
+        "areaId": "aud-II",
+        "groupId": "A-B-E",
+        "topicId": "aud-audit-risk-planning",
+        "taskIds": [
+          "aud-audit-risk-planning.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "AICPA auditing standards",
+            "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+          },
+          {
+            "title": "PCAOB standards",
+            "url": "https://pcaobus.org/oversight/standards"
+          }
+        ]
+      }
+    },
+    {
+      "id": "aud-m2-l1-q2",
+      "courseId": "aud",
+      "moduleId": 2,
+      "lessonId": "aud-m2-l1",
+      "topic": "Understand the Entity & Design the Audit Strategy",
+      "prompt": "A retailer introduces a complex new revenue contract before considering any controls. Which risk is primarily illustrated by the contract’s complexity?",
+      "choices": [
+        {
+          "id": "aud-m2-l1-q2-a0",
+          "text": "Detection risk."
+        },
+        {
+          "id": "aud-m2-l1-q2-a1",
+          "text": "Sampling risk alone."
+        },
+        {
+          "id": "aud-m2-l1-q2-a2",
+          "text": "Inherent risk."
+        },
+        {
+          "id": "aud-m2-l1-q2-a3",
+          "text": "The risk that an audit report is mailed late."
+        }
+      ],
+      "correctChoiceId": "aud-m2-l1-q2-a2",
+      "explanation": "Inherent risk concerns susceptibility to misstatement before control effects. Complexity may increase that susceptibility.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "aud",
+        "blueprintYear": 2026,
+        "areaId": "aud-II",
+        "groupId": "A-B-E",
+        "topicId": "aud-audit-risk-planning",
+        "taskIds": [
+          "aud-audit-risk-planning.task-2"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "AICPA auditing standards",
+            "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+          },
+          {
+            "title": "PCAOB standards",
+            "url": "https://pcaobus.org/oversight/standards"
+          }
+        ]
+      }
+    },
+    {
+      "id": "aud-m2-l1-q3",
+      "courseId": "aud",
+      "moduleId": 2,
+      "lessonId": "aud-m2-l1",
+      "topic": "Understand the Entity & Design the Audit Strategy",
+      "prompt": "A company experiences falling demand and slow-moving inventory. Which assertion most directly requires additional attention?",
+      "choices": [
+        {
+          "id": "aud-m2-l1-q3-a0",
+          "text": "Cash existence only."
+        },
+        {
+          "id": "aud-m2-l1-q3-a1",
+          "text": "Debt completeness only."
+        },
+        {
+          "id": "aud-m2-l1-q3-a2",
+          "text": "Ownership of the auditor’s workpapers."
+        },
+        {
+          "id": "aud-m2-l1-q3-a3",
+          "text": "Inventory valuation."
+        }
+      ],
+      "correctChoiceId": "aud-m2-l1-q3-a3",
+      "explanation": "Slow movement and declining demand can indicate inventory is not recoverable at recorded amounts.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "aud",
+        "blueprintYear": 2026,
+        "areaId": "aud-II",
+        "groupId": "A-B-E",
+        "topicId": "aud-audit-risk-planning",
+        "taskIds": [
+          "aud-audit-risk-planning.task-3"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "AICPA auditing standards",
+            "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+          },
+          {
+            "title": "PCAOB standards",
+            "url": "https://pcaobus.org/oversight/standards"
+          }
+        ]
+      }
+    },
+    {
+      "id": "aud-m2-l1-q4",
+      "courseId": "aud",
+      "moduleId": 2,
+      "lessonId": "aud-m2-l1",
+      "topic": "Understand the Entity & Design the Audit Strategy",
+      "prompt": "Illustratively, acceptable audit risk is 4%, inherent risk is 80%, and control risk is 50%. What is planned detection risk?",
+      "choices": [
+        {
+          "id": "aud-m2-l1-q4-a0",
+          "text": "10%."
+        },
+        {
+          "id": "aud-m2-l1-q4-a1",
+          "text": "1.6%."
+        },
+        {
+          "id": "aud-m2-l1-q4-a2",
+          "text": "20%."
+        },
+        {
+          "id": "aud-m2-l1-q4-a3",
+          "text": "40%."
+        }
+      ],
+      "correctChoiceId": "aud-m2-l1-q4-a0",
+      "explanation": "Detection risk = .04 ÷ (.80 × .50) = .10. Multiplying all three known inputs does not solve for detection risk.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "aud",
+        "blueprintYear": 2026,
+        "areaId": "aud-II",
+        "groupId": "A-B-E",
+        "topicId": "aud-audit-risk-planning",
+        "taskIds": [
+          "aud-audit-risk-planning.task-1"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "AICPA auditing standards",
+            "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+          },
+          {
+            "title": "PCAOB standards",
+            "url": "https://pcaobus.org/oversight/standards"
+          }
+        ]
+      }
+    },
+    {
+      "id": "aud-m2-l1-q5",
+      "courseId": "aud",
+      "moduleId": 2,
+      "lessonId": "aud-m2-l1",
+      "topic": "Understand the Entity & Design the Audit Strategy",
+      "prompt": "Which planning change primarily changes the nature of evidence?",
+      "choices": [
+        {
+          "id": "aud-m2-l1-q5-a0",
+          "text": "Increasing a sample from 20 to 40 items."
+        },
+        {
+          "id": "aud-m2-l1-q5-a1",
+          "text": "Replacing internal explanations with independent external confirmations."
+        },
+        {
+          "id": "aud-m2-l1-q5-a2",
+          "text": "Moving the same procedure from November to December."
+        },
+        {
+          "id": "aud-m2-l1-q5-a3",
+          "text": "Allowing an extra hour to type the memo."
+        }
+      ],
+      "correctChoiceId": "aud-m2-l1-q5-a1",
+      "explanation": "Nature concerns the kind of procedure and evidence; sample size is extent and moving the date is timing.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "aud",
+        "blueprintYear": 2026,
+        "areaId": "aud-II",
+        "groupId": "A-B-E",
+        "topicId": "aud-audit-risk-planning",
+        "taskIds": [
+          "aud-audit-risk-planning.task-2"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "AICPA auditing standards",
+            "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+          },
+          {
+            "title": "PCAOB standards",
+            "url": "https://pcaobus.org/oversight/standards"
+          }
+        ]
+      }
+    },
+    {
+      "id": "aud-m2-l1-q6",
+      "courseId": "aud",
+      "moduleId": 2,
+      "lessonId": "aud-m2-l1",
+      "topic": "Understand the Entity & Design the Audit Strategy",
+      "prompt": "Substantive testing reveals a previously unknown side agreement affecting revenue. What should the auditor do?",
+      "choices": [
+        {
+          "id": "aud-m2-l1-q6-a0",
+          "text": "Retain the original assessment to meet the budget."
+        },
+        {
+          "id": "aud-m2-l1-q6-a1",
+          "text": "Assume the agreement cannot affect other transactions."
+        },
+        {
+          "id": "aud-m2-l1-q6-a2",
+          "text": "Reassess risk and revise planned procedures as necessary."
+        },
+        {
+          "id": "aud-m2-l1-q6-a3",
+          "text": "Treat an unmodified prior-year opinion as sufficient evidence."
+        }
+      ],
+      "correctChoiceId": "aud-m2-l1-q6-a2",
+      "explanation": "Risk assessment is iterative. New evidence may change the audit response and extend testing to similar arrangements.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "aud",
+        "blueprintYear": 2026,
+        "areaId": "aud-II",
+        "groupId": "A-B-E",
+        "topicId": "aud-audit-risk-planning",
+        "taskIds": [
+          "aud-audit-risk-planning.task-3"
+        ],
+        "skill": "evaluation",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "AICPA auditing standards",
+            "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+          },
+          {
+            "title": "PCAOB standards",
+            "url": "https://pcaobus.org/oversight/standards"
+          }
+        ]
+      }
+    },
+    {
+      "id": "aud-m2-l1-q7",
+      "courseId": "aud",
+      "moduleId": 2,
+      "lessonId": "aud-m2-l1",
+      "topic": "Understand the Entity & Design the Audit Strategy",
+      "prompt": "A distributor is entering a new market and implementing a new ERP. Match each issue to the appropriate audit concept or response. Planning observations: Complex warranty estimates require substantial judgment. The new ERP has not implemented approval controls. A lender covenant increases pressure to overstate earnings. The team initially planned interim testing before the ERP conversion. Illustrative risk inputs: For one assertion, acceptable audit risk is 3%, inherent risk is 60%, and control risk is 50%. These percentages are a teaching illustration, not a prescribed audit formula for every engagement. Required: Risk associated with estimate susceptibility before controls.",
+      "choices": [
+        {
+          "id": "aud-m2-l1-q7-a0",
+          "text": "Detection risk"
+        },
+        {
+          "id": "aud-m2-l1-q7-a1",
+          "text": "Engagement fee risk"
+        },
+        {
+          "id": "aud-m2-l1-q7-a2",
+          "text": "No audit risk"
+        },
+        {
+          "id": "aud-m2-l1-q7-a3",
+          "text": "Inherent risk"
+        }
+      ],
+      "correctChoiceId": "aud-m2-l1-q7-a3",
+      "explanation": "Estimate complexity affects inherent susceptibility.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "aud",
+        "blueprintYear": 2026,
+        "areaId": "aud-II",
+        "groupId": "A-B-E",
+        "topicId": "aud-audit-risk-planning",
+        "taskIds": [
+          "aud-audit-risk-planning.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "AICPA auditing standards",
+            "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+          },
+          {
+            "title": "PCAOB standards",
+            "url": "https://pcaobus.org/oversight/standards"
+          }
+        ]
+      },
+      "familyId": "aud-m2-tbs1"
+    },
+    {
+      "id": "aud-m2-l1-q8",
+      "courseId": "aud",
+      "moduleId": 2,
+      "lessonId": "aud-m2-l1",
+      "topic": "Understand the Entity & Design the Audit Strategy",
+      "prompt": "A distributor is entering a new market and implementing a new ERP. Match each issue to the appropriate audit concept or response. Planning observations: Complex warranty estimates require substantial judgment. The new ERP has not implemented approval controls. A lender covenant increases pressure to overstate earnings. The team initially planned interim testing before the ERP conversion. Illustrative risk inputs: For one assertion, acceptable audit risk is 3%, inherent risk is 60%, and control risk is 50%. These percentages are a teaching illustration, not a prescribed audit formula for every engagement. Required: Risk associated with ineffective approval controls.",
+      "choices": [
+        {
+          "id": "aud-m2-l1-q8-a0",
+          "text": "Control risk"
+        },
+        {
+          "id": "aud-m2-l1-q8-a1",
+          "text": "Detection risk"
+        },
+        {
+          "id": "aud-m2-l1-q8-a2",
+          "text": "Only sampling risk"
+        },
+        {
+          "id": "aud-m2-l1-q8-a3",
+          "text": "No financial-reporting implication"
+        }
+      ],
+      "correctChoiceId": "aud-m2-l1-q8-a0",
+      "explanation": "Relevant controls may fail to prevent or detect errors.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "aud",
+        "blueprintYear": 2026,
+        "areaId": "aud-II",
+        "groupId": "A-B-E",
+        "topicId": "aud-audit-risk-planning",
+        "taskIds": [
+          "aud-audit-risk-planning.task-2"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "AICPA auditing standards",
+            "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+          },
+          {
+            "title": "PCAOB standards",
+            "url": "https://pcaobus.org/oversight/standards"
+          }
+        ]
+      },
+      "familyId": "aud-m2-tbs1"
+    },
+    {
+      "id": "aud-m2-l1-q9",
+      "courseId": "aud",
+      "moduleId": 2,
+      "lessonId": "aud-m2-l1",
+      "topic": "Understand the Entity & Design the Audit Strategy",
+      "prompt": "A distributor is entering a new market and implementing a new ERP. Match each issue to the appropriate audit concept or response. Planning observations: Complex warranty estimates require substantial judgment. The new ERP has not implemented approval controls. A lender covenant increases pressure to overstate earnings. The team initially planned interim testing before the ERP conversion. Illustrative risk inputs: For one assertion, acceptable audit risk is 3%, inherent risk is 60%, and control risk is 50%. These percentages are a teaching illustration, not a prescribed audit formula for every engagement. Required: Illustrative detection risk, as a percentage.",
+      "choices": [
+        {
+          "id": "aud-m2-l1-q9-a0",
+          "text": "0.9"
+        },
+        {
+          "id": "aud-m2-l1-q9-a1",
+          "text": "10"
+        },
+        {
+          "id": "aud-m2-l1-q9-a2",
+          "text": "20"
+        },
+        {
+          "id": "aud-m2-l1-q9-a3",
+          "text": "30"
+        }
+      ],
+      "correctChoiceId": "aud-m2-l1-q9-a1",
+      "explanation": "3% ÷ (60% × 50%) = 10%.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "aud",
+        "blueprintYear": 2026,
+        "areaId": "aud-II",
+        "groupId": "A-B-E",
+        "topicId": "aud-audit-risk-planning",
+        "taskIds": [
+          "aud-audit-risk-planning.task-3"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "AICPA auditing standards",
+            "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+          },
+          {
+            "title": "PCAOB standards",
+            "url": "https://pcaobus.org/oversight/standards"
+          }
+        ]
+      },
+      "familyId": "aud-m2-tbs1"
+    },
+    {
+      "id": "aud-m2-l1-q10",
+      "courseId": "aud",
+      "moduleId": 2,
+      "lessonId": "aud-m2-l1",
+      "topic": "Understand the Entity & Design the Audit Strategy",
+      "prompt": "A distributor is entering a new market and implementing a new ERP. Match each issue to the appropriate audit concept or response. Planning observations: Complex warranty estimates require substantial judgment. The new ERP has not implemented approval controls. A lender covenant increases pressure to overstate earnings. The team initially planned interim testing before the ERP conversion. Illustrative risk inputs: For one assertion, acceptable audit risk is 3%, inherent risk is 60%, and control risk is 50%. These percentages are a teaching illustration, not a prescribed audit formula for every engagement. Required: Response to post-conversion risks.",
+      "choices": [
+        {
+          "id": "aud-m2-l1-q10-a0",
+          "text": "Rely entirely on pre-conversion work"
+        },
+        {
+          "id": "aud-m2-l1-q10-a1",
+          "text": "Assume the ERP improves every control"
+        },
+        {
+          "id": "aud-m2-l1-q10-a2",
+          "text": "Reassess timing and add appropriate post-conversion procedures"
+        },
+        {
+          "id": "aud-m2-l1-q10-a3",
+          "text": "Reduce evidence because management is busy"
+        }
+      ],
+      "correctChoiceId": "aud-m2-l1-q10-a2",
+      "explanation": "Evidence from the old system may not address risks in the new system.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "aud",
+        "blueprintYear": 2026,
+        "areaId": "aud-II",
+        "groupId": "A-B-E",
+        "topicId": "aud-audit-risk-planning",
+        "taskIds": [
+          "aud-audit-risk-planning.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "AICPA auditing standards",
+            "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+          },
+          {
+            "title": "PCAOB standards",
+            "url": "https://pcaobus.org/oversight/standards"
+          }
+        ]
+      },
+      "familyId": "aud-m2-tbs1"
+    },
+    {
+      "id": "aud-m2-l2-q1",
+      "courseId": "aud",
+      "moduleId": 2,
+      "lessonId": "aud-m2-l2",
+      "topic": "Internal Controls, Walkthroughs & Service Organizations",
+      "prompt": "Which COSO component includes the tone at the top and commitment to integrity?",
+      "choices": [
+        {
+          "id": "aud-m2-l2-q1-a0",
+          "text": "Control activities only."
+        },
+        {
+          "id": "aud-m2-l2-q1-a1",
+          "text": "Detection risk."
+        },
+        {
+          "id": "aud-m2-l2-q1-a2",
+          "text": "Control environment."
+        },
+        {
+          "id": "aud-m2-l2-q1-a3",
+          "text": "Substantive procedures."
+        }
+      ],
+      "correctChoiceId": "aud-m2-l2-q1-a2",
+      "explanation": "The control environment provides the foundation for the other internal-control components.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "aud",
+        "blueprintYear": 2026,
+        "areaId": "aud-II",
+        "groupId": "C",
+        "topicId": "aud-internal-controls",
+        "taskIds": [
+          "aud-internal-controls.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "AICPA auditing standards",
+            "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+          },
+          {
+            "title": "PCAOB standards",
+            "url": "https://pcaobus.org/oversight/standards"
+          }
+        ]
+      }
+    },
+    {
+      "id": "aud-m2-l2-q2",
+      "courseId": "aud",
+      "moduleId": 2,
+      "lessonId": "aud-m2-l2",
+      "topic": "Internal Controls, Walkthroughs & Service Organizations",
+      "prompt": "An auditor follows one transaction through a process and inspects evidence of approval. What does this most directly support?",
+      "choices": [
+        {
+          "id": "aud-m2-l2-q2-a0",
+          "text": "A conclusion that every approval operated throughout the year."
+        },
+        {
+          "id": "aud-m2-l2-q2-a1",
+          "text": "A guarantee that fraud is impossible."
+        },
+        {
+          "id": "aud-m2-l2-q2-a2",
+          "text": "A direct opinion on every IT system."
+        },
+        {
+          "id": "aud-m2-l2-q2-a3",
+          "text": "Understanding design and implementation."
+        }
+      ],
+      "correctChoiceId": "aud-m2-l2-q2-a3",
+      "explanation": "A walkthrough helps understand the process and implementation. Period-long operating effectiveness requires appropriate additional evidence.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "aud",
+        "blueprintYear": 2026,
+        "areaId": "aud-II",
+        "groupId": "C",
+        "topicId": "aud-internal-controls",
+        "taskIds": [
+          "aud-internal-controls.task-2"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "AICPA auditing standards",
+            "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+          },
+          {
+            "title": "PCAOB standards",
+            "url": "https://pcaobus.org/oversight/standards"
+          }
+        ]
+      }
+    },
+    {
+      "id": "aud-m2-l2-q3",
+      "courseId": "aud",
+      "moduleId": 2,
+      "lessonId": "aud-m2-l2",
+      "topic": "Internal Controls, Walkthroughs & Service Organizations",
+      "prompt": "Which combination creates the clearest segregation-of-duties concern?",
+      "choices": [
+        {
+          "id": "aud-m2-l2-q3-a0",
+          "text": "One employee maintains vendor records, approves payments, and reconciles the bank."
+        },
+        {
+          "id": "aud-m2-l2-q3-a1",
+          "text": "One employee enters invoices and another approves payments."
+        },
+        {
+          "id": "aud-m2-l2-q3-a2",
+          "text": "A custodian is separate from the ledger accountant."
+        },
+        {
+          "id": "aud-m2-l2-q3-a3",
+          "text": "An independent reviewer investigates bank reconciling items."
+        }
+      ],
+      "correctChoiceId": "aud-m2-l2-q3-a0",
+      "explanation": "Combining authorization, record control, and reconciliation enables errors or fraud to be initiated and concealed.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "aud",
+        "blueprintYear": 2026,
+        "areaId": "aud-II",
+        "groupId": "C",
+        "topicId": "aud-internal-controls",
+        "taskIds": [
+          "aud-internal-controls.task-3"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "AICPA auditing standards",
+            "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+          },
+          {
+            "title": "PCAOB standards",
+            "url": "https://pcaobus.org/oversight/standards"
+          }
+        ]
+      }
+    },
+    {
+      "id": "aud-m2-l2-q4",
+      "courseId": "aud",
+      "moduleId": 2,
+      "lessonId": "aud-m2-l2",
+      "topic": "Internal Controls, Walkthroughs & Service Organizations",
+      "prompt": "Which service-auditor report is generally most relevant to operating effectiveness of outsourced payroll controls affecting financial reporting?",
+      "choices": [
+        {
+          "id": "aud-m2-l2-q4-a0",
+          "text": "SOC 1 Type 1 alone."
+        },
+        {
+          "id": "aud-m2-l2-q4-a1",
+          "text": "SOC 1 Type 2."
+        },
+        {
+          "id": "aud-m2-l2-q4-a2",
+          "text": "A general marketing brochure."
+        },
+        {
+          "id": "aud-m2-l2-q4-a3",
+          "text": "An unrelated SOC 2 confidentiality report alone."
+        }
+      ],
+      "correctChoiceId": "aud-m2-l2-q4-a1",
+      "explanation": "SOC 1 addresses financial-reporting controls, and Type 2 adds operating-effectiveness testing over a period.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "aud",
+        "blueprintYear": 2026,
+        "areaId": "aud-II",
+        "groupId": "C",
+        "topicId": "aud-internal-controls",
+        "taskIds": [
+          "aud-internal-controls.task-1"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "AICPA auditing standards",
+            "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+          },
+          {
+            "title": "PCAOB standards",
+            "url": "https://pcaobus.org/oversight/standards"
+          }
+        ]
+      }
+    },
+    {
+      "id": "aud-m2-l2-q5",
+      "courseId": "aud",
+      "moduleId": 2,
+      "lessonId": "aud-m2-l2",
+      "topic": "Internal Controls, Walkthroughs & Service Organizations",
+      "prompt": "A SOC report identifies user controls that the client has not implemented. What should the auditor do?",
+      "choices": [
+        {
+          "id": "aud-m2-l2-q5-a0",
+          "text": "Ignore them because the provider has an unmodified report."
+        },
+        {
+          "id": "aud-m2-l2-q5-a1",
+          "text": "Assume the service auditor tested the client’s controls."
+        },
+        {
+          "id": "aud-m2-l2-q5-a2",
+          "text": "Evaluate the missing controls and adjust the audit response."
+        },
+        {
+          "id": "aud-m2-l2-q5-a3",
+          "text": "Remove payroll from the audit scope."
+        }
+      ],
+      "correctChoiceId": "aud-m2-l2-q5-a2",
+      "explanation": "Complementary user-entity controls are part of the assumed control system and may require testing or a changed substantive response.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "aud",
+        "blueprintYear": 2026,
+        "areaId": "aud-II",
+        "groupId": "C",
+        "topicId": "aud-internal-controls",
+        "taskIds": [
+          "aud-internal-controls.task-2"
+        ],
+        "skill": "evaluation",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "AICPA auditing standards",
+            "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+          },
+          {
+            "title": "PCAOB standards",
+            "url": "https://pcaobus.org/oversight/standards"
+          }
+        ]
+      }
+    },
+    {
+      "id": "aud-m2-l2-q6",
+      "courseId": "aud",
+      "moduleId": 2,
+      "lessonId": "aud-m2-l2",
+      "topic": "Internal Controls, Walkthroughs & Service Organizations",
+      "prompt": "Why are change-management controls relevant to an automated three-way matching control?",
+      "choices": [
+        {
+          "id": "aud-m2-l2-q6-a0",
+          "text": "Automated controls never depend on IT general controls."
+        },
+        {
+          "id": "aud-m2-l2-q6-a1",
+          "text": "Change controls establish ownership of inventory."
+        },
+        {
+          "id": "aud-m2-l2-q6-a2",
+          "text": "They replace all invoice evidence."
+        },
+        {
+          "id": "aud-m2-l2-q6-a3",
+          "text": "Unauthorized program changes could alter how the matching control operates."
+        }
+      ],
+      "correctChoiceId": "aud-m2-l2-q6-a3",
+      "explanation": "Relevant IT general controls support continued reliable operation of automated application controls.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "aud",
+        "blueprintYear": 2026,
+        "areaId": "aud-II",
+        "groupId": "C",
+        "topicId": "aud-internal-controls",
+        "taskIds": [
+          "aud-internal-controls.task-3"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "AICPA auditing standards",
+            "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+          },
+          {
+            "title": "PCAOB standards",
+            "url": "https://pcaobus.org/oversight/standards"
+          }
+        ]
+      }
+    },
+    {
+      "id": "aud-m2-l2-q7",
+      "courseId": "aud",
+      "moduleId": 2,
+      "lessonId": "aud-m2-l2",
+      "topic": "Internal Controls, Walkthroughs & Service Organizations",
+      "prompt": "Evaluate the design and evidence of controls in an order-to-cash cycle. Process narrative: Sales staff can create customers and approve their own credit limits. Shipments are entered through a system with a documented matching control. Developers can alter that control directly in production. The outsourced billing provider supplied only a SOC 1 Type 1 report. Audit objective: The team wants to rely on relevant controls throughout the year. A single observed transaction matched successfully. No testing over the period has been performed. Required: Concern in customer and credit approval.",
+      "choices": [
+        {
+          "id": "aud-m2-l2-q7-a0",
+          "text": "Incompatible authorization responsibilities"
+        },
+        {
+          "id": "aud-m2-l2-q7-a1",
+          "text": "A complete independent credit review"
+        },
+        {
+          "id": "aud-m2-l2-q7-a2",
+          "text": "Only a presentation issue"
+        },
+        {
+          "id": "aud-m2-l2-q7-a3",
+          "text": "No control risk"
+        }
+      ],
+      "correctChoiceId": "aud-m2-l2-q7-a0",
+      "explanation": "Self-approval weakens independent authorization.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "aud",
+        "blueprintYear": 2026,
+        "areaId": "aud-II",
+        "groupId": "C",
+        "topicId": "aud-internal-controls",
+        "taskIds": [
+          "aud-internal-controls.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "AICPA auditing standards",
+            "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+          },
+          {
+            "title": "PCAOB standards",
+            "url": "https://pcaobus.org/oversight/standards"
+          }
+        ]
+      },
+      "familyId": "aud-m2-tbs2"
+    },
+    {
+      "id": "aud-m2-l2-q8",
+      "courseId": "aud",
+      "moduleId": 2,
+      "lessonId": "aud-m2-l2",
+      "topic": "Internal Controls, Walkthroughs & Service Organizations",
+      "prompt": "Evaluate the design and evidence of controls in an order-to-cash cycle. Process narrative: Sales staff can create customers and approve their own credit limits. Shipments are entered through a system with a documented matching control. Developers can alter that control directly in production. The outsourced billing provider supplied only a SOC 1 Type 1 report. Audit objective: The team wants to rely on relevant controls throughout the year. A single observed transaction matched successfully. No testing over the period has been performed. Required: Concern in production program access.",
+      "choices": [
+        {
+          "id": "aud-m2-l2-q8-a0",
+          "text": "Guaranteed operating effectiveness"
+        },
+        {
+          "id": "aud-m2-l2-q8-a1",
+          "text": "Unauthorized change risk"
+        },
+        {
+          "id": "aud-m2-l2-q8-a2",
+          "text": "A physical inventory issue only"
+        },
+        {
+          "id": "aud-m2-l2-q8-a3",
+          "text": "A sufficient compensating control"
+        }
+      ],
+      "correctChoiceId": "aud-m2-l2-q8-a1",
+      "explanation": "Developers could bypass authorized and tested changes.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "aud",
+        "blueprintYear": 2026,
+        "areaId": "aud-II",
+        "groupId": "C",
+        "topicId": "aud-internal-controls",
+        "taskIds": [
+          "aud-internal-controls.task-2"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "AICPA auditing standards",
+            "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+          },
+          {
+            "title": "PCAOB standards",
+            "url": "https://pcaobus.org/oversight/standards"
+          }
+        ]
+      },
+      "familyId": "aud-m2-tbs2"
+    },
+    {
+      "id": "aud-m2-l2-q9",
+      "courseId": "aud",
+      "moduleId": 2,
+      "lessonId": "aud-m2-l2",
+      "topic": "Internal Controls, Walkthroughs & Service Organizations",
+      "prompt": "Evaluate the design and evidence of controls in an order-to-cash cycle. Process narrative: Sales staff can create customers and approve their own credit limits. Shipments are entered through a system with a documented matching control. Developers can alter that control directly in production. The outsourced billing provider supplied only a SOC 1 Type 1 report. Audit objective: The team wants to rely on relevant controls throughout the year. A single observed transaction matched successfully. No testing over the period has been performed. Required: What the Type 1 report does not establish.",
+      "choices": [
+        {
+          "id": "aud-m2-l2-q9-a0",
+          "text": "The report’s date"
+        },
+        {
+          "id": "aud-m2-l2-q9-a1",
+          "text": "The report’s stated scope"
+        },
+        {
+          "id": "aud-m2-l2-q9-a2",
+          "text": "Operating effectiveness over the period"
+        },
+        {
+          "id": "aud-m2-l2-q9-a3",
+          "text": "The system description included"
+        }
+      ],
+      "correctChoiceId": "aud-m2-l2-q9-a2",
+      "explanation": "Type 1 is an at-a-date design report.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "aud",
+        "blueprintYear": 2026,
+        "areaId": "aud-II",
+        "groupId": "C",
+        "topicId": "aud-internal-controls",
+        "taskIds": [
+          "aud-internal-controls.task-3"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "AICPA auditing standards",
+            "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+          },
+          {
+            "title": "PCAOB standards",
+            "url": "https://pcaobus.org/oversight/standards"
+          }
+        ]
+      },
+      "familyId": "aud-m2-tbs2"
+    },
+    {
+      "id": "aud-m2-l2-q10",
+      "courseId": "aud",
+      "moduleId": 2,
+      "lessonId": "aud-m2-l2",
+      "topic": "Internal Controls, Walkthroughs & Service Organizations",
+      "prompt": "Evaluate the design and evidence of controls in an order-to-cash cycle. Process narrative: Sales staff can create customers and approve their own credit limits. Shipments are entered through a system with a documented matching control. Developers can alter that control directly in production. The outsourced billing provider supplied only a SOC 1 Type 1 report. Audit objective: The team wants to rely on relevant controls throughout the year. A single observed transaction matched successfully. No testing over the period has been performed. Required: Additional evidence for planned reliance.",
+      "choices": [
+        {
+          "id": "aud-m2-l2-q10-a0",
+          "text": "Only the original inquiry"
+        },
+        {
+          "id": "aud-m2-l2-q10-a1",
+          "text": "A client waiver"
+        },
+        {
+          "id": "aud-m2-l2-q10-a2",
+          "text": "No work after one successful match"
+        },
+        {
+          "id": "aud-m2-l2-q10-a3",
+          "text": "Appropriate tests of operating effectiveness"
+        }
+      ],
+      "correctChoiceId": "aud-m2-l2-q10-a3",
+      "explanation": "Planned reliance requires evidence across the relevant period.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "aud",
+        "blueprintYear": 2026,
+        "areaId": "aud-II",
+        "groupId": "C",
+        "topicId": "aud-internal-controls",
+        "taskIds": [
+          "aud-internal-controls.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "AICPA auditing standards",
+            "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+          },
+          {
+            "title": "PCAOB standards",
+            "url": "https://pcaobus.org/oversight/standards"
+          }
+        ]
+      },
+      "familyId": "aud-m2-tbs2"
+    },
+    {
+      "id": "aud-m2-l3-q1",
+      "courseId": "aud",
+      "moduleId": 2,
+      "lessonId": "aud-m2-l3",
+      "topic": "Materiality, Fraud & Planned Responses",
+      "prompt": "A case specifies overall materiality as 4% of $3,000,000 pretax income and performance materiality as 75% of overall materiality. What is performance materiality?",
+      "choices": [
+        {
+          "id": "aud-m2-l3-q1-a0",
+          "text": "$120,000."
+        },
+        {
+          "id": "aud-m2-l3-q1-a1",
+          "text": "$30,000."
+        },
+        {
+          "id": "aud-m2-l3-q1-a2",
+          "text": "$2,250,000."
+        },
+        {
+          "id": "aud-m2-l3-q1-a3",
+          "text": "$90,000."
+        }
+      ],
+      "correctChoiceId": "aud-m2-l3-q1-a3",
+      "explanation": "Overall materiality is $120,000; 75% is $90,000. The case supplies the percentages rather than prescribing universal audit rules.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "aud",
+        "blueprintYear": 2026,
+        "areaId": "aud-II",
+        "groupId": "D-E",
+        "topicId": "aud-materiality-fraud-response",
+        "taskIds": [
+          "aud-materiality-fraud-response.task-1"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "AICPA auditing standards",
+            "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+          },
+          {
+            "title": "PCAOB standards",
+            "url": "https://pcaobus.org/oversight/standards"
+          }
+        ]
+      }
+    },
+    {
+      "id": "aud-m2-l3-q2",
+      "courseId": "aud",
+      "moduleId": 2,
+      "lessonId": "aud-m2-l3",
+      "topic": "Materiality, Fraud & Planned Responses",
+      "prompt": "A $10,000 deliberate misstatement causes an entity to meet a loan covenant. It is below the audit’s numerical materiality benchmark. What is appropriate?",
+      "choices": [
+        {
+          "id": "aud-m2-l3-q2-a0",
+          "text": "Consider its qualitative significance and intentional nature."
+        },
+        {
+          "id": "aud-m2-l3-q2-a1",
+          "text": "Automatically disregard it."
+        },
+        {
+          "id": "aud-m2-l3-q2-a2",
+          "text": "Treat it as clearly trivial without evaluation."
+        },
+        {
+          "id": "aud-m2-l3-q2-a3",
+          "text": "Conclude all covenants are irrelevant to financial reporting."
+        }
+      ],
+      "correctChoiceId": "aud-m2-l3-q2-a0",
+      "explanation": "Nature and circumstances can make a quantitatively small item material to users.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "aud",
+        "blueprintYear": 2026,
+        "areaId": "aud-II",
+        "groupId": "D-E",
+        "topicId": "aud-materiality-fraud-response",
+        "taskIds": [
+          "aud-materiality-fraud-response.task-2"
+        ],
+        "skill": "evaluation",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "AICPA auditing standards",
+            "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+          },
+          {
+            "title": "PCAOB standards",
+            "url": "https://pcaobus.org/oversight/standards"
+          }
+        ]
+      }
+    },
+    {
+      "id": "aud-m2-l3-q3",
+      "courseId": "aud",
+      "moduleId": 2,
+      "lessonId": "aud-m2-l3",
+      "topic": "Materiality, Fraud & Planned Responses",
+      "prompt": "Why is performance materiality ordinarily lower than overall materiality?",
+      "choices": [
+        {
+          "id": "aud-m2-l3-q3-a0",
+          "text": "To guarantee all errors are found."
+        },
+        {
+          "id": "aud-m2-l3-q3-a1",
+          "text": "To address the risk of aggregate undetected and uncorrected misstatements."
+        },
+        {
+          "id": "aud-m2-l3-q3-a2",
+          "text": "To eliminate sampling risk."
+        },
+        {
+          "id": "aud-m2-l3-q3-a3",
+          "text": "To set the maximum client fee."
+        }
+      ],
+      "correctChoiceId": "aud-m2-l3-q3-a1",
+      "explanation": "A margin below overall materiality reduces aggregation risk; it does not guarantee detection.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "aud",
+        "blueprintYear": 2026,
+        "areaId": "aud-II",
+        "groupId": "D-E",
+        "topicId": "aud-materiality-fraud-response",
+        "taskIds": [
+          "aud-materiality-fraud-response.task-3"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "AICPA auditing standards",
+            "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+          },
+          {
+            "title": "PCAOB standards",
+            "url": "https://pcaobus.org/oversight/standards"
+          }
+        ]
+      }
+    },
+    {
+      "id": "aud-m2-l3-q4",
+      "courseId": "aud",
+      "moduleId": 2,
+      "lessonId": "aud-m2-l3",
+      "topic": "Materiality, Fraud & Planned Responses",
+      "prompt": "Three uncorrected misstatements affect income in the same direction by $40,000, $35,000, and $30,000. Overall materiality is $100,000. What is their aggregate effect?",
+      "choices": [
+        {
+          "id": "aud-m2-l3-q4-a0",
+          "text": "Only $40,000 because it is the largest."
+        },
+        {
+          "id": "aud-m2-l3-q4-a1",
+          "text": "$5,000 because only the excess is a misstatement."
+        },
+        {
+          "id": "aud-m2-l3-q4-a2",
+          "text": "$105,000, requiring aggregate evaluation."
+        },
+        {
+          "id": "aud-m2-l3-q4-a3",
+          "text": "Zero because every individual item is below materiality."
+        }
+      ],
+      "correctChoiceId": "aud-m2-l3-q4-a2",
+      "explanation": "All three items are accumulated: 40,000 + 35,000 + 30,000 = 105,000.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "aud",
+        "blueprintYear": 2026,
+        "areaId": "aud-II",
+        "groupId": "D-E",
+        "topicId": "aud-materiality-fraud-response",
+        "taskIds": [
+          "aud-materiality-fraud-response.task-1"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "AICPA auditing standards",
+            "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+          },
+          {
+            "title": "PCAOB standards",
+            "url": "https://pcaobus.org/oversight/standards"
+          }
+        ]
+      }
+    },
+    {
+      "id": "aud-m2-l3-q5",
+      "courseId": "aud",
+      "moduleId": 2,
+      "lessonId": "aud-m2-l3",
+      "topic": "Materiality, Fraud & Planned Responses",
+      "prompt": "Management corrects a fraudulent top-side entry identified by the auditor. What remains necessary?",
+      "choices": [
+        {
+          "id": "aud-m2-l3-q5-a0",
+          "text": "Ignore it because the balance is now correct."
+        },
+        {
+          "id": "aud-m2-l3-q5-a1",
+          "text": "Automatically issue an unmodified opinion without other work."
+        },
+        {
+          "id": "aud-m2-l3-q5-a2",
+          "text": "Delete the evidence of the original entry."
+        },
+        {
+          "id": "aud-m2-l3-q5-a3",
+          "text": "Evaluate implications for other misstatements, control reliability, and management integrity."
+        }
+      ],
+      "correctChoiceId": "aud-m2-l3-q5-a3",
+      "explanation": "Correction resolves the identified amount but not the broader implications of intentional misstatement.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "aud",
+        "blueprintYear": 2026,
+        "areaId": "aud-II",
+        "groupId": "D-E",
+        "topicId": "aud-materiality-fraud-response",
+        "taskIds": [
+          "aud-materiality-fraud-response.task-2"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "AICPA auditing standards",
+            "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+          },
+          {
+            "title": "PCAOB standards",
+            "url": "https://pcaobus.org/oversight/standards"
+          }
+        ]
+      }
+    },
+    {
+      "id": "aud-m2-l3-q6",
+      "courseId": "aud",
+      "moduleId": 2,
+      "lessonId": "aud-m2-l3",
+      "topic": "Materiality, Fraud & Planned Responses",
+      "prompt": "Which audit risk requires attention even when normal transaction controls seem strong?",
+      "choices": [
+        {
+          "id": "aud-m2-l3-q6-a0",
+          "text": "Management override."
+        },
+        {
+          "id": "aud-m2-l3-q6-a1",
+          "text": "Only the risk of an invoice being printed late."
+        },
+        {
+          "id": "aud-m2-l3-q6-a2",
+          "text": "Only the risk of an audit fee being unpaid."
+        },
+        {
+          "id": "aud-m2-l3-q6-a3",
+          "text": "No risk remains after controls are documented."
+        }
+      ],
+      "correctChoiceId": "aud-m2-l3-q6-a0",
+      "explanation": "Management can bypass controls that otherwise operate effectively, requiring targeted responses.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "aud",
+        "blueprintYear": 2026,
+        "areaId": "aud-II",
+        "groupId": "D-E",
+        "topicId": "aud-materiality-fraud-response",
+        "taskIds": [
+          "aud-materiality-fraud-response.task-3"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "AICPA auditing standards",
+            "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+          },
+          {
+            "title": "PCAOB standards",
+            "url": "https://pcaobus.org/oversight/standards"
+          }
+        ]
+      }
+    },
+    {
+      "id": "aud-m2-l3-q7",
+      "courseId": "aud",
+      "moduleId": 2,
+      "lessonId": "aud-m2-l3",
+      "topic": "Materiality, Fraud & Planned Responses",
+      "prompt": "Prepare a materiality worksheet and evaluate an uncorrected-adjustment schedule. Planning policy for this case: Pretax income: $4,000,000. Overall materiality: 5% of pretax income. Performance materiality: 65% of overall materiality. The policy is supplied for this exercise. Uncorrected expense understatements: Accrual A: $90,000. Accrual B: $70,000. Accrual C: $55,000. An additional deliberate $8,000 adjustment changes a covenant outcome. Required: Overall materiality.",
+      "choices": [
+        {
+          "id": "aud-m2-l3-q7-a0",
+          "text": "130000"
+        },
+        {
+          "id": "aud-m2-l3-q7-a1",
+          "text": "200000"
+        },
+        {
+          "id": "aud-m2-l3-q7-a2",
+          "text": "80000"
+        },
+        {
+          "id": "aud-m2-l3-q7-a3",
+          "text": "260000"
+        }
+      ],
+      "correctChoiceId": "aud-m2-l3-q7-a1",
+      "explanation": "$4,000,000 × 5% = $200,000.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "aud",
+        "blueprintYear": 2026,
+        "areaId": "aud-II",
+        "groupId": "D-E",
+        "topicId": "aud-materiality-fraud-response",
+        "taskIds": [
+          "aud-materiality-fraud-response.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "AICPA auditing standards",
+            "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+          },
+          {
+            "title": "PCAOB standards",
+            "url": "https://pcaobus.org/oversight/standards"
+          }
+        ]
+      },
+      "familyId": "aud-m2-tbs3"
+    },
+    {
+      "id": "aud-m2-l3-q8",
+      "courseId": "aud",
+      "moduleId": 2,
+      "lessonId": "aud-m2-l3",
+      "topic": "Materiality, Fraud & Planned Responses",
+      "prompt": "Prepare a materiality worksheet and evaluate an uncorrected-adjustment schedule. Planning policy for this case: Pretax income: $4,000,000. Overall materiality: 5% of pretax income. Performance materiality: 65% of overall materiality. The policy is supplied for this exercise. Uncorrected expense understatements: Accrual A: $90,000. Accrual B: $70,000. Accrual C: $55,000. An additional deliberate $8,000 adjustment changes a covenant outcome. Required: Performance materiality.",
+      "choices": [
+        {
+          "id": "aud-m2-l3-q8-a0",
+          "text": "200000"
+        },
+        {
+          "id": "aud-m2-l3-q8-a1",
+          "text": "70000"
+        },
+        {
+          "id": "aud-m2-l3-q8-a2",
+          "text": "130000"
+        },
+        {
+          "id": "aud-m2-l3-q8-a3",
+          "text": "2600000"
+        }
+      ],
+      "correctChoiceId": "aud-m2-l3-q8-a2",
+      "explanation": "$200,000 × 65% = $130,000.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "aud",
+        "blueprintYear": 2026,
+        "areaId": "aud-II",
+        "groupId": "D-E",
+        "topicId": "aud-materiality-fraud-response",
+        "taskIds": [
+          "aud-materiality-fraud-response.task-2"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "AICPA auditing standards",
+            "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+          },
+          {
+            "title": "PCAOB standards",
+            "url": "https://pcaobus.org/oversight/standards"
+          }
+        ]
+      },
+      "familyId": "aud-m2-tbs3"
+    },
+    {
+      "id": "aud-m2-l3-q9",
+      "courseId": "aud",
+      "moduleId": 2,
+      "lessonId": "aud-m2-l3",
+      "topic": "Materiality, Fraud & Planned Responses",
+      "prompt": "Prepare a materiality worksheet and evaluate an uncorrected-adjustment schedule. Planning policy for this case: Pretax income: $4,000,000. Overall materiality: 5% of pretax income. Performance materiality: 65% of overall materiality. The policy is supplied for this exercise. Uncorrected expense understatements: Accrual A: $90,000. Accrual B: $70,000. Accrual C: $55,000. An additional deliberate $8,000 adjustment changes a covenant outcome. Required: Aggregate understatement from A, B, and C.",
+      "choices": [
+        {
+          "id": "aud-m2-l3-q9-a0",
+          "text": "90000"
+        },
+        {
+          "id": "aud-m2-l3-q9-a1",
+          "text": "125000"
+        },
+        {
+          "id": "aud-m2-l3-q9-a2",
+          "text": "15000"
+        },
+        {
+          "id": "aud-m2-l3-q9-a3",
+          "text": "215000"
+        }
+      ],
+      "correctChoiceId": "aud-m2-l3-q9-a3",
+      "explanation": "$90,000 + $70,000 + $55,000 = $215,000.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "aud",
+        "blueprintYear": 2026,
+        "areaId": "aud-II",
+        "groupId": "D-E",
+        "topicId": "aud-materiality-fraud-response",
+        "taskIds": [
+          "aud-materiality-fraud-response.task-3"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "AICPA auditing standards",
+            "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+          },
+          {
+            "title": "PCAOB standards",
+            "url": "https://pcaobus.org/oversight/standards"
+          }
+        ]
+      },
+      "familyId": "aud-m2-tbs3"
+    },
+    {
+      "id": "aud-m2-l3-q10",
+      "courseId": "aud",
+      "moduleId": 2,
+      "lessonId": "aud-m2-l3",
+      "topic": "Materiality, Fraud & Planned Responses",
+      "prompt": "Prepare a materiality worksheet and evaluate an uncorrected-adjustment schedule. Planning policy for this case: Pretax income: $4,000,000. Overall materiality: 5% of pretax income. Performance materiality: 65% of overall materiality. The policy is supplied for this exercise. Uncorrected expense understatements: Accrual A: $90,000. Accrual B: $70,000. Accrual C: $55,000. An additional deliberate $8,000 adjustment changes a covenant outcome. Required: Treatment of the covenant adjustment.",
+      "choices": [
+        {
+          "id": "aud-m2-l3-q10-a0",
+          "text": "Evaluate qualitative significance despite its size"
+        },
+        {
+          "id": "aud-m2-l3-q10-a1",
+          "text": "Ignore it solely because it is small"
+        },
+        {
+          "id": "aud-m2-l3-q10-a2",
+          "text": "Automatically exclude deliberate entries"
+        },
+        {
+          "id": "aud-m2-l3-q10-a3",
+          "text": "Treat it as an audit fee"
+        }
+      ],
+      "correctChoiceId": "aud-m2-l3-q10-a0",
+      "explanation": "Intent and covenant effects can be qualitatively material.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "aud",
+        "blueprintYear": 2026,
+        "areaId": "aud-II",
+        "groupId": "D-E",
+        "topicId": "aud-materiality-fraud-response",
+        "taskIds": [
+          "aud-materiality-fraud-response.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "AICPA auditing standards",
+            "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+          },
+          {
+            "title": "PCAOB standards",
+            "url": "https://pcaobus.org/oversight/standards"
+          }
+        ]
+      },
+      "familyId": "aud-m2-tbs3"
+    },
+    {
+      "id": "aud-m2-l4-q1",
+      "courseId": "aud",
+      "moduleId": 2,
+      "lessonId": "aud-m2-l4",
+      "topic": "Specialists, Related Parties & Specialized Engagement Risks",
+      "prompt": "Management provides a valuation prepared by an expert who has a material financial interest in the client. What should the auditor evaluate?",
+      "choices": [
+        {
+          "id": "aud-m2-l4-q1-a0",
+          "text": "The expert’s objectivity and the relevance and reliability of the work."
+        },
+        {
+          "id": "aud-m2-l4-q1-a1",
+          "text": "Only whether the expert’s report has a professional logo."
+        },
+        {
+          "id": "aud-m2-l4-q1-a2",
+          "text": "Only the number of pages in the report."
+        },
+        {
+          "id": "aud-m2-l4-q1-a3",
+          "text": "Nothing because expertise transfers audit responsibility."
+        }
+      ],
+      "correctChoiceId": "aud-m2-l4-q1-a0",
+      "explanation": "A financial interest can affect objectivity. The auditor retains responsibility and must evaluate the evidence.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "aud",
+        "blueprintYear": 2026,
+        "areaId": "aud-II",
+        "groupId": "F-G",
+        "topicId": "aud-special-audit-risks",
+        "taskIds": [
+          "aud-special-audit-risks.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "AICPA auditing standards",
+            "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+          },
+          {
+            "title": "PCAOB standards",
+            "url": "https://pcaobus.org/oversight/standards"
+          }
+        ]
+      }
+    },
+    {
+      "id": "aud-m2-l4-q2",
+      "courseId": "aud",
+      "moduleId": 2,
+      "lessonId": "aud-m2-l4",
+      "topic": "Specialists, Related Parties & Specialized Engagement Risks",
+      "prompt": "A related-party transaction is labeled arm’s length in a management memo. What is required?",
+      "choices": [
+        {
+          "id": "aud-m2-l4-q2-a0",
+          "text": "Automatic acceptance of the label."
+        },
+        {
+          "id": "aud-m2-l4-q2-a1",
+          "text": "Evidence supporting the transaction’s terms, purpose, and appropriate reporting."
+        },
+        {
+          "id": "aud-m2-l4-q2-a2",
+          "text": "Automatic classification as illegal."
+        },
+        {
+          "id": "aud-m2-l4-q2-a3",
+          "text": "Exclusion from the audit because it is internal."
+        }
+      ],
+      "correctChoiceId": "aud-m2-l4-q2-a1",
+      "explanation": "Labels do not establish substance. Related-party transactions require appropriate evidence and disclosure evaluation.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "aud",
+        "blueprintYear": 2026,
+        "areaId": "aud-II",
+        "groupId": "F-G",
+        "topicId": "aud-special-audit-risks",
+        "taskIds": [
+          "aud-special-audit-risks.task-2"
+        ],
+        "skill": "evaluation",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "AICPA auditing standards",
+            "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+          },
+          {
+            "title": "PCAOB standards",
+            "url": "https://pcaobus.org/oversight/standards"
+          }
+        ]
+      }
+    },
+    {
+      "id": "aud-m2-l4-q3",
+      "courseId": "aud",
+      "moduleId": 2,
+      "lessonId": "aud-m2-l4",
+      "topic": "Specialists, Related Parties & Specialized Engagement Risks",
+      "prompt": "Which consideration is relevant before using work of the internal audit function?",
+      "choices": [
+        {
+          "id": "aud-m2-l4-q3-a0",
+          "text": "Whether internal audit can sign the external opinion instead."
+        },
+        {
+          "id": "aud-m2-l4-q3-a1",
+          "text": "Whether the client pays internal audit more than external audit."
+        },
+        {
+          "id": "aud-m2-l4-q3-a2",
+          "text": "Objectivity, competence, and a systematic and disciplined approach."
+        },
+        {
+          "id": "aud-m2-l4-q3-a3",
+          "text": "Whether every internal auditor is a shareholder."
+        }
+      ],
+      "correctChoiceId": "aud-m2-l4-q3-a2",
+      "explanation": "Evaluate the function and the proposed work; the external auditor’s responsibility remains.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "aud",
+        "blueprintYear": 2026,
+        "areaId": "aud-II",
+        "groupId": "F-G",
+        "topicId": "aud-special-audit-risks",
+        "taskIds": [
+          "aud-special-audit-risks.task-3"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "AICPA auditing standards",
+            "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+          },
+          {
+            "title": "PCAOB standards",
+            "url": "https://pcaobus.org/oversight/standards"
+          }
+        ]
+      }
+    },
+    {
+      "id": "aud-m2-l4-q4",
+      "courseId": "aud",
+      "moduleId": 2,
+      "lessonId": "aud-m2-l4",
+      "topic": "Specialists, Related Parties & Specialized Engagement Risks",
+      "prompt": "What additional focus is central to a single audit of an entity receiving federal awards?",
+      "choices": [
+        {
+          "id": "aud-m2-l4-q4-a0",
+          "text": "Only the entity’s stock price."
+        },
+        {
+          "id": "aud-m2-l4-q4-a1",
+          "text": "Only its income-tax return."
+        },
+        {
+          "id": "aud-m2-l4-q4-a2",
+          "text": "A guarantee that all grants will be renewed."
+        },
+        {
+          "id": "aud-m2-l4-q4-a3",
+          "text": "Applicable federal-program compliance and major-program requirements."
+        }
+      ],
+      "correctChoiceId": "aud-m2-l4-q4-a3",
+      "explanation": "Single audits include requirements related to federal awards and compliance under the applicable Uniform Guidance.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "aud",
+        "blueprintYear": 2026,
+        "areaId": "aud-II",
+        "groupId": "F-G",
+        "topicId": "aud-special-audit-risks",
+        "taskIds": [
+          "aud-special-audit-risks.task-1"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "AICPA auditing standards",
+            "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+          },
+          {
+            "title": "PCAOB standards",
+            "url": "https://pcaobus.org/oversight/standards"
+          }
+        ]
+      }
+    },
+    {
+      "id": "aud-m2-l4-q5",
+      "courseId": "aud",
+      "moduleId": 2,
+      "lessonId": "aud-m2-l4",
+      "topic": "Specialists, Related Parties & Specialized Engagement Risks",
+      "prompt": "An audit of an ERISA employee benefit plan should include attention to which evidence?",
+      "choices": [
+        {
+          "id": "aud-m2-l4-q5-a0",
+          "text": "Plan provisions and participant data relevant to contributions and benefits."
+        },
+        {
+          "id": "aud-m2-l4-q5-a1",
+          "text": "Only the sponsor’s marketing brochure."
+        },
+        {
+          "id": "aud-m2-l4-q5-a2",
+          "text": "Only the sponsor’s projected sales."
+        },
+        {
+          "id": "aud-m2-l4-q5-a3",
+          "text": "Only the auditor’s retirement preference."
+        }
+      ],
+      "correctChoiceId": "aud-m2-l4-q5-a0",
+      "explanation": "Plan documents and participant information drive important obligations and transactions.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "aud",
+        "blueprintYear": 2026,
+        "areaId": "aud-II",
+        "groupId": "F-G",
+        "topicId": "aud-special-audit-risks",
+        "taskIds": [
+          "aud-special-audit-risks.task-2"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "AICPA auditing standards",
+            "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+          },
+          {
+            "title": "PCAOB standards",
+            "url": "https://pcaobus.org/oversight/standards"
+          }
+        ]
+      }
+    },
+    {
+      "id": "aud-m2-l4-q6",
+      "courseId": "aud",
+      "moduleId": 2,
+      "lessonId": "aud-m2-l4",
+      "topic": "Specialists, Related Parties & Specialized Engagement Risks",
+      "prompt": "A law directly determines a material liability in the financial statements. Which response is appropriate?",
+      "choices": [
+        {
+          "id": "aud-m2-l4-q6-a0",
+          "text": "Ignore the law because the auditor is not a lawyer."
+        },
+        {
+          "id": "aud-m2-l4-q6-a1",
+          "text": "Obtain evidence about compliance relevant to the material amount."
+        },
+        {
+          "id": "aud-m2-l4-q6-a2",
+          "text": "Assume every law has exactly the same financial-statement effect."
+        },
+        {
+          "id": "aud-m2-l4-q6-a3",
+          "text": "Replace the liability test with an independence letter."
+        }
+      ],
+      "correctChoiceId": "aud-m2-l4-q6-a1",
+      "explanation": "The auditor’s responsibilities differ by the law’s effect; direct effects on material amounts require appropriate evidence.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "aud",
+        "blueprintYear": 2026,
+        "areaId": "aud-II",
+        "groupId": "F-G",
+        "topicId": "aud-special-audit-risks",
+        "taskIds": [
+          "aud-special-audit-risks.task-3"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "AICPA auditing standards",
+            "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+          },
+          {
+            "title": "PCAOB standards",
+            "url": "https://pcaobus.org/oversight/standards"
+          }
+        ]
+      }
+    },
+    {
+      "id": "aud-m2-l4-q7",
+      "courseId": "aud",
+      "moduleId": 2,
+      "lessonId": "aud-m2-l4",
+      "topic": "Specialists, Related Parties & Specialized Engagement Risks",
+      "prompt": "Identify an appropriate planning response to each engagement fact. Engagement observations: A valuation is prepared by a financially interested management specialist. A CEO-controlled company supplies a material loan. A public charity expends federal awards subject to a single audit. A pension plan’s participant eligibility records are incomplete. Planning limits: The exercise asks for audit responses, not a legal conclusion or an official program threshold. Assume the described specialized engagement requirements apply. Required: Response to the specialist interest.",
+      "choices": [
+        {
+          "id": "aud-m2-l4-q7-a0",
+          "text": "Accept credentials as sufficient"
+        },
+        {
+          "id": "aud-m2-l4-q7-a1",
+          "text": "Transfer the audit opinion to the specialist"
+        },
+        {
+          "id": "aud-m2-l4-q7-a2",
+          "text": "Evaluate objectivity and corroborate the valuation evidence"
+        },
+        {
+          "id": "aud-m2-l4-q7-a3",
+          "text": "Ignore material estimates"
+        }
+      ],
+      "correctChoiceId": "aud-m2-l4-q7-a2",
+      "explanation": "Objectivity and evidential quality need assessment.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "aud",
+        "blueprintYear": 2026,
+        "areaId": "aud-II",
+        "groupId": "F-G",
+        "topicId": "aud-special-audit-risks",
+        "taskIds": [
+          "aud-special-audit-risks.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "AICPA auditing standards",
+            "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+          },
+          {
+            "title": "PCAOB standards",
+            "url": "https://pcaobus.org/oversight/standards"
+          }
+        ]
+      },
+      "familyId": "aud-m2-tbs4"
+    },
+    {
+      "id": "aud-m2-l4-q8",
+      "courseId": "aud",
+      "moduleId": 2,
+      "lessonId": "aud-m2-l4",
+      "topic": "Specialists, Related Parties & Specialized Engagement Risks",
+      "prompt": "Identify an appropriate planning response to each engagement fact. Engagement observations: A valuation is prepared by a financially interested management specialist. A CEO-controlled company supplies a material loan. A public charity expends federal awards subject to a single audit. A pension plan’s participant eligibility records are incomplete. Planning limits: The exercise asks for audit responses, not a legal conclusion or an official program threshold. Assume the described specialized engagement requirements apply. Required: Response to the CEO-controlled lender.",
+      "choices": [
+        {
+          "id": "aud-m2-l4-q8-a0",
+          "text": "Assume arm’s length"
+        },
+        {
+          "id": "aud-m2-l4-q8-a1",
+          "text": "Ignore the loan"
+        },
+        {
+          "id": "aud-m2-l4-q8-a2",
+          "text": "Automatically conclude the loan is illegal"
+        },
+        {
+          "id": "aud-m2-l4-q8-a3",
+          "text": "Investigate related-party terms and disclosure"
+        }
+      ],
+      "correctChoiceId": "aud-m2-l4-q8-a3",
+      "explanation": "Establish substance and appropriate disclosure.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "aud",
+        "blueprintYear": 2026,
+        "areaId": "aud-II",
+        "groupId": "F-G",
+        "topicId": "aud-special-audit-risks",
+        "taskIds": [
+          "aud-special-audit-risks.task-2"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "AICPA auditing standards",
+            "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+          },
+          {
+            "title": "PCAOB standards",
+            "url": "https://pcaobus.org/oversight/standards"
+          }
+        ]
+      },
+      "familyId": "aud-m2-tbs4"
+    },
+    {
+      "id": "aud-m2-l4-q9",
+      "courseId": "aud",
+      "moduleId": 2,
+      "lessonId": "aud-m2-l4",
+      "topic": "Specialists, Related Parties & Specialized Engagement Risks",
+      "prompt": "Identify an appropriate planning response to each engagement fact. Engagement observations: A valuation is prepared by a financially interested management specialist. A CEO-controlled company supplies a material loan. A public charity expends federal awards subject to a single audit. A pension plan’s participant eligibility records are incomplete. Planning limits: The exercise asks for audit responses, not a legal conclusion or an official program threshold. Assume the described specialized engagement requirements apply. Required: Additional focus for the charity.",
+      "choices": [
+        {
+          "id": "aud-m2-l4-q9-a0",
+          "text": "Federal-award compliance and major-program work"
+        },
+        {
+          "id": "aud-m2-l4-q9-a1",
+          "text": "Only common-stock valuation"
+        },
+        {
+          "id": "aud-m2-l4-q9-a2",
+          "text": "Only product warranties"
+        },
+        {
+          "id": "aud-m2-l4-q9-a3",
+          "text": "No additional requirements"
+        }
+      ],
+      "correctChoiceId": "aud-m2-l4-q9-a0",
+      "explanation": "Single audits add compliance and program requirements.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "aud",
+        "blueprintYear": 2026,
+        "areaId": "aud-II",
+        "groupId": "F-G",
+        "topicId": "aud-special-audit-risks",
+        "taskIds": [
+          "aud-special-audit-risks.task-3"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "AICPA auditing standards",
+            "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+          },
+          {
+            "title": "PCAOB standards",
+            "url": "https://pcaobus.org/oversight/standards"
+          }
+        ]
+      },
+      "familyId": "aud-m2-tbs4"
+    },
+    {
+      "id": "aud-m2-l4-q10",
+      "courseId": "aud",
+      "moduleId": 2,
+      "lessonId": "aud-m2-l4",
+      "topic": "Specialists, Related Parties & Specialized Engagement Risks",
+      "prompt": "Identify an appropriate planning response to each engagement fact. Engagement observations: A valuation is prepared by a financially interested management specialist. A CEO-controlled company supplies a material loan. A public charity expends federal awards subject to a single audit. A pension plan’s participant eligibility records are incomplete. Planning limits: The exercise asks for audit responses, not a legal conclusion or an official program threshold. Assume the described specialized engagement requirements apply. Required: Response to missing plan eligibility data.",
+      "choices": [
+        {
+          "id": "aud-m2-l4-q10-a0",
+          "text": "Replace records with sponsor advertising"
+        },
+        {
+          "id": "aud-m2-l4-q10-a1",
+          "text": "Obtain reliable support for affected participant and benefit information"
+        },
+        {
+          "id": "aud-m2-l4-q10-a2",
+          "text": "Ignore plan provisions"
+        },
+        {
+          "id": "aud-m2-l4-q10-a3",
+          "text": "Assume all participants are eligible"
+        }
+      ],
+      "correctChoiceId": "aud-m2-l4-q10-a1",
+      "explanation": "Participant data is important evidence in the plan audit.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "aud",
+        "blueprintYear": 2026,
+        "areaId": "aud-II",
+        "groupId": "F-G",
+        "topicId": "aud-special-audit-risks",
+        "taskIds": [
+          "aud-special-audit-risks.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "AICPA auditing standards",
+            "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+          },
+          {
+            "title": "PCAOB standards",
+            "url": "https://pcaobus.org/oversight/standards"
+          }
+        ]
+      },
+      "familyId": "aud-m2-tbs4"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "id": "intermediate-m10-l3",
+  "courseId": "intermediate",
+  "moduleId": 10,
+  "number": 3,
+  "title": "Indirect Method",
+  "description": "Reconcile net income to net cash provided by operating activities.",
+  "url": "/learn/intermediate/modules/10/lessons/3",
+  "html": "<h2>Purpose of the indirect method</h2> <p> Under the indirect method, the operating section begins with net income and reconciles it to net cash provided by operating activities. </p> <div class=\"formula-box\"> Net Income + / − Adjustments = Net Cash from Operating Activities </div> <h2>Noncash expenses</h2> <p> Some expenses reduce net income without using operating cash in the current period. </p> <p> Depreciation expense is a classic example. </p> <div class=\"formula-box\"> Net Income + Depreciation Expense </div> <h2>Changes in operating assets</h2> <div class=\"key-points\"> <p> Increase in operating asset → generally subtract </p> <p> Decrease in operating asset → generally add </p> </div> <div class=\"example-box\"> <h3>Accounts Receivable</h3> <p> If Accounts Receivable increases, recognized revenue exceeded cash collected from customers by that increase. </p> <p> Therefore, the increase is generally subtracted in the indirect operating reconciliation. </p> </div> <h2>Changes in operating liabilities</h2> <div class=\"key-points\"> <p> Increase in operating liability → generally add </p> <p> Decrease in operating liability → generally subtract </p> </div> <h2>Full example</h2> <div class=\"financial-example\"> <div> <span>Net Income</span> <strong>$100,000</strong> </div> <div> <span>Depreciation Expense</span> <strong>$20,000</strong> </div> <div> <span>Increase in A/R</span> <strong>$15,000</strong> </div> <div> <span>Increase in A/P</span> <strong>$8,000</strong> </div> </div> <div class=\"formula-box\"> $100,000 + $20,000 − $15,000 + $8,000 = $113,000 </div> <p> Net cash provided by operating activities is <strong>$113,000</strong>. </p> <h2>Why does Accounts Payable get added?</h2> <p> An increase in Accounts Payable means some expenses recognized in arriving at net income have not yet required cash payment. </p> <p> Therefore, the increase is generally added back in the reconciliation. </p> <div class=\"key-points\"> <h3>Starting pattern</h3> <p> Operating Asset ↑ → subtract </p> <p> Operating Asset ↓ → add </p> <p> Operating Liability ↑ → add </p> <p> Operating Liability ↓ → subtract </p> </div> <h2>But don't memorize blindly</h2> <p> Later CPA questions will include gains and losses, multiple working-capital accounts, noncash items and transactions requiring careful classification. </p> <p> The goal is to understand why each adjustment converts accrual-basis net income toward operating cash flow. </p>",
+  "quiz": {
+    "id": "intermediate-m10-l3-check",
+    "courseId": "intermediate",
+    "moduleId": 10,
+    "lessonId": "intermediate-m10-l3",
+    "topic": "General review",
+    "prompt": "Net income is $150,000. Depreciation expense is $25,000, Accounts Receivable increased by $20,000, and Accounts Payable decreased by $10,000. Using the indirect method and ignoring other items, what is net cash provided by operating activities?",
+    "choices": [
+      {
+        "id": "intermediate-m10-l3-check-a0",
+        "text": "$145,000"
+      },
+      {
+        "id": "intermediate-m10-l3-check-a1",
+        "text": "$155,000"
+      },
+      {
+        "id": "intermediate-m10-l3-check-a2",
+        "text": "$165,000"
+      },
+      {
+        "id": "intermediate-m10-l3-check-a3",
+        "text": "$205,000"
+      }
+    ],
+    "correctChoiceId": "intermediate-m10-l3-check-a0",
+    "explanation": "$150,000 + $25,000 − $20,000 − $10,000 = $145,000.",
+    "difficulty": "foundation",
+    "metadata": {
+      "section": "intermediate",
+      "blueprintYear": 2026,
+      "areaId": "intermediate-I",
+      "groupId": "module-10",
+      "topicId": "intermediate-indirect-method",
+      "taskIds": [
+        "intermediate-indirect-method.task-1",
+        "intermediate-indirect-method.task-2",
+        "intermediate-indirect-method.task-3"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "section": "intermediate",
+    "blueprintYear": 2026,
+    "areaId": "intermediate-I",
+    "groupId": "module-10",
+    "topicId": "intermediate-indirect-method",
+    "taskIds": [
+      "intermediate-indirect-method.task-1",
+      "intermediate-indirect-method.task-2",
+      "intermediate-indirect-method.task-3"
+    ],
+    "skill": "application",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      }
+    ]
+  },
+  "objectives": [
+    "Explain indirect method and its underlying principles.",
+    "Apply the topic to a financial-reporting scenario.",
+    "Evaluate common errors and their financial-statement effects."
+  ]
+}

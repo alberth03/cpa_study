@@ -1,0 +1,88 @@
+{
+  "id": "intermediate-m10-l4",
+  "courseId": "intermediate",
+  "moduleId": 10,
+  "number": 4,
+  "title": "Noncash Investing & Financing Activities",
+  "description": "Identify significant investing and financing transactions that do not directly involve cash.",
+  "url": "/learn/intermediate/modules/10/lessons/4",
+  "html": "<h2>Not every important transaction uses cash</h2> <p> Some investing and financing activities can significantly affect a company's financial position without causing cash to be received or paid at that time. </p> <p> Because no cash moved, these transactions are not reported as cash inflows or cash outflows in the main body of the statement of cash flows. </p> <h2>Example — Equipment acquired by issuing debt</h2> <p> Assume a company acquires equipment worth <strong>$100,000</strong> by issuing a <strong>$100,000 note payable</strong>. </p> <div class=\"financial-example\"> <div> <span>Equipment</span> <strong>+$100,000</strong> </div> <div> <span>Note Payable</span> <strong>+$100,000</strong> </div> <div class=\"financial-total\"> <span>Cash Effect</span> <strong>$0</strong> </div> </div> <p> This is an important investing and financing transaction, but no cash was exchanged at acquisition. </p> <h2>Another example — Debt converted to stock</h2> <p> Suppose $50,000 of debt is converted into common stock. </p> <div class=\"formula-box\"> Debt ↓ $50,000 + Equity ↑ $50,000 + Cash Effect = $0 </div> <h2>Where does this information go?</h2> <p> Significant noncash investing and financing activities are disclosed so financial statement users can understand important transactions that are not visible from cash receipts and payments alone. </p> <div class=\"key-points\"> <h3>CPA trap</h3> <p> A transaction can be an investing or financing activity economically without creating a cash flow. </p> <p> If no cash or cash equivalent moved, do not invent a cash inflow and cash outflow merely to put the transaction into the main cash flow totals. </p> </div>",
+  "quiz": {
+    "id": "intermediate-m10-l4-check",
+    "courseId": "intermediate",
+    "moduleId": 10,
+    "lessonId": "intermediate-m10-l4",
+    "topic": "General review",
+    "prompt": "A company acquires $200,000 of equipment by issuing a $200,000 long-term note directly to the seller. How much cash flow results from the acquisition at that time?",
+    "choices": [
+      {
+        "id": "intermediate-m10-l4-check-a0",
+        "text": "$200,000 investing outflow"
+      },
+      {
+        "id": "intermediate-m10-l4-check-a1",
+        "text": "$200,000 financing inflow"
+      },
+      {
+        "id": "intermediate-m10-l4-check-a2",
+        "text": "$400,000 total cash flow"
+      },
+      {
+        "id": "intermediate-m10-l4-check-a3",
+        "text": "$0"
+      }
+    ],
+    "correctChoiceId": "intermediate-m10-l4-check-a3",
+    "explanation": "The equipment was acquired by issuing debt rather than paying cash. The transaction is a significant noncash investing and financing activity, so the immediate cash effect is $0.",
+    "difficulty": "foundation",
+    "metadata": {
+      "section": "intermediate",
+      "blueprintYear": 2026,
+      "areaId": "intermediate-I",
+      "groupId": "module-10",
+      "topicId": "intermediate-noncash-investing-financing-activities",
+      "taskIds": [
+        "intermediate-noncash-investing-financing-activities.task-1",
+        "intermediate-noncash-investing-financing-activities.task-2",
+        "intermediate-noncash-investing-financing-activities.task-3"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "section": "intermediate",
+    "blueprintYear": 2026,
+    "areaId": "intermediate-I",
+    "groupId": "module-10",
+    "topicId": "intermediate-noncash-investing-financing-activities",
+    "taskIds": [
+      "intermediate-noncash-investing-financing-activities.task-1",
+      "intermediate-noncash-investing-financing-activities.task-2",
+      "intermediate-noncash-investing-financing-activities.task-3"
+    ],
+    "skill": "application",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      }
+    ]
+  },
+  "objectives": [
+    "Explain noncash investing & financing activities and its underlying principles.",
+    "Apply the topic to a financial-reporting scenario.",
+    "Evaluate common errors and their financial-statement effects."
+  ]
+}

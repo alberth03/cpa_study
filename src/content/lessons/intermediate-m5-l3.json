@@ -1,0 +1,88 @@
+{
+  "id": "intermediate-m5-l3",
+  "courseId": "intermediate",
+  "moduleId": 5,
+  "number": 3,
+  "title": "Bond Basics",
+  "description": "Understand face value, stated rate, market rate, maturity and bond cash flows.",
+  "url": "/learn/intermediate/modules/5/lessons/3",
+  "html": "<h2>What is a bond?</h2> <p> A bond is a form of long-term borrowing. The issuer receives cash from investors and promises to make specified payments. </p> <h2>Important bond terms</h2> <div class=\"key-points\"> <p> <strong>Face Value:</strong> Amount repaid at maturity. </p> <p> <strong>Stated or Coupon Rate:</strong> Rate used to determine periodic cash interest payments. </p> <p> <strong>Market or Effective Rate:</strong> Rate investors demand when the bond is issued. </p> <p> <strong>Maturity Date:</strong> Date the face amount is repaid. </p> </div> <h2>Cash interest</h2> <div class=\"formula-box\"> Cash Interest = Face Value × Stated Rate × Time </div> <h2>Example</h2> <p> A company has $100,000 of bonds with a 6% annual stated rate. </p> <div class=\"formula-box\"> $100,000 × 6% = $6,000 Annual Cash Interest </div> <h2>Semiannual payments</h2> <p> If the bond pays interest twice each year: </p> <div class=\"formula-box\"> $100,000 × 6% × 6/12 = $3,000 </div> <p> The company pays $3,000 every six months. </p> <h2>Stated rate vs market rate</h2> <p> These rates are not the same thing. </p> <div class=\"comparison-grid\"> <div class=\"comparison-card\"> <h3>Stated Rate</h3> <p> Determines the contractual cash interest payment. </p> </div> <div class=\"comparison-card\"> <h3>Market Rate</h3> <p> Helps determine the bond's issue price and effective yield. </p> </div> </div> <div class=\"key-points\"> <h3>The relationship we'll use next</h3> <ul> <li>Stated rate = market rate → generally issued near face value</li> <li>Stated rate &lt; market rate → generally issued at a discount</li> <li>Stated rate &gt; market rate → generally issued at a premium</li> </ul> </div> <div class=\"example-box\"> <h3>Why?</h3> <p> If investors can earn 8% elsewhere but your bond pays only 6%, they generally will not pay full face value for it. </p> <p> The issue price must fall so the investor's effective yield becomes competitive with the market. </p> </div>",
+  "quiz": {
+    "id": "intermediate-m5-l3-check",
+    "courseId": "intermediate",
+    "moduleId": 5,
+    "lessonId": "intermediate-m5-l3",
+    "topic": "General review",
+    "prompt": "A $200,000 bond has a 5% annual stated rate and pays interest semiannually. How much cash interest is paid every six months?",
+    "choices": [
+      {
+        "id": "intermediate-m5-l3-check-a0",
+        "text": "$5,000"
+      },
+      {
+        "id": "intermediate-m5-l3-check-a1",
+        "text": "$10,000"
+      },
+      {
+        "id": "intermediate-m5-l3-check-a2",
+        "text": "$20,000"
+      },
+      {
+        "id": "intermediate-m5-l3-check-a3",
+        "text": "$2,500"
+      }
+    ],
+    "correctChoiceId": "intermediate-m5-l3-check-a0",
+    "explanation": "$200,000 × 5% × 6/12 = $5,000 every six months.",
+    "difficulty": "foundation",
+    "metadata": {
+      "section": "intermediate",
+      "blueprintYear": 2026,
+      "areaId": "intermediate-I",
+      "groupId": "module-5",
+      "topicId": "intermediate-bond-basics",
+      "taskIds": [
+        "intermediate-bond-basics.task-1",
+        "intermediate-bond-basics.task-2",
+        "intermediate-bond-basics.task-3"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "section": "intermediate",
+    "blueprintYear": 2026,
+    "areaId": "intermediate-I",
+    "groupId": "module-5",
+    "topicId": "intermediate-bond-basics",
+    "taskIds": [
+      "intermediate-bond-basics.task-1",
+      "intermediate-bond-basics.task-2",
+      "intermediate-bond-basics.task-3"
+    ],
+    "skill": "application",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      }
+    ]
+  },
+  "objectives": [
+    "Explain bond basics and its underlying principles.",
+    "Apply the topic to a financial-reporting scenario.",
+    "Evaluate common errors and their financial-statement effects."
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "id": "reg-m1-l1",
+  "courseId": "reg",
+  "moduleId": 1,
+  "number": 1,
+  "title": "Tax Practitioner Duties & Return Positions",
+  "description": "Apply diligence and competence to tax preparation and advice.",
+  "url": "/learn/reg/modules/1/lessons/1",
+  "metadata": {
+    "section": "reg",
+    "blueprintYear": 2026,
+    "areaId": "reg-I",
+    "groupId": "A-B",
+    "topicId": "reg-tax-practice-ethics",
+    "taskIds": [
+      "reg-tax-practice-ethics.task-1",
+      "reg-tax-practice-ethics.task-2",
+      "reg-tax-practice-ethics.task-3"
+    ],
+    "skill": "application",
+    "validFrom": "2026-07-01",
+    "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      },
+      {
+        "title": "Internal Revenue Code",
+        "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+      },
+      {
+        "title": "IRS tax publications",
+        "url": "https://www.irs.gov/publications"
+      },
+      {
+        "title": "Circular 230",
+        "url": "https://www.irs.gov/tax-professionals/circular-230-tax-professionals"
+      }
+    ]
+  },
+  "html": "<h2>Learning objectives</h2><ul><li>Apply diligence and competence to tax preparation and advice.</li><li>Evaluate support and disclosure for return positions.</li><li>Distinguish professional discipline from tax penalties.</li></ul><h2>Understand the concepts</h2><p>A tax practitioner must exercise diligence in determining the correctness of representations made to the IRS and clients. Client information can be used in appropriate circumstances, but obvious inconsistencies, omissions, and implausible claims require follow-up. A signed organizer does not authorize knowingly including false information. The practitioner should advise the client about identified errors and relevant consequences rather than silently repeating an error.</p><p>Return positions require the level of support and disclosure specified by the applicable authority. The relevant threshold depends on the type of position, whether disclosure is made, and whether special transaction rules apply. Do not assume that disclosure cures a frivolous position or that the likelihood of audit determines legal support. Evaluate authoritative sources and document the analysis.</p><p>Circular 230 governs practice before the IRS; the Internal Revenue Code contains preparer and taxpayer penalty provisions; state boards administer CPA licensing and discipline. These systems can operate independently. A practitioner should perform work competently, seek qualified assistance when needed, protect client information, and resolve conflicts of interest under the applicable rules. A contingent fee may be restricted depending on the service and circumstances; a client agreement does not override a prohibition.</p><div class=\"example-box\"><h3>The unsupported expense schedule</h3><p>A client reports business expenses far above its gross receipts, supplies no support, and asks the preparer to use the amounts because the return is unlikely to be audited.</p><ol><li>Identify the inconsistency and request supporting information.</li><li>Evaluate the legal basis for deductions and explain relevant consequences.</li><li>Do not prepare a knowingly false return or use audit probability as a substitute for legal support.</li></ol></div><div class=\"key-points\"><h3>Common mistakes to avoid</h3><ul><li>A client signature does not cure information known to be false.</li><li>Disclosure does not validate every unsupported tax position.</li><li>IRS sanctions and state licensing consequences are different systems.</li></ul></div><h2>Apply and connect</h2><p>After solving the worked case, explain which facts determine the result and how a changed assumption would change your conclusion. Use the module questions to test fresh applications, then complete the related simulation before reviewing its solution.</p>",
+  "objectives": [
+    "Apply diligence and competence to tax preparation and advice.",
+    "Evaluate support and disclosure for return positions.",
+    "Distinguish professional discipline from tax penalties."
+  ],
+  "quiz": {
+    "id": "reg-m1-l1-q1",
+    "courseId": "reg",
+    "moduleId": 1,
+    "lessonId": "reg-m1-l1",
+    "topic": "Tax Practitioner Duties & Return Positions",
+    "prompt": "A client’s deduction schedule contains obvious contradictions. What should the preparer do?",
+    "choices": [
+      {
+        "id": "reg-m1-l1-q1-a0",
+        "text": "Make appropriate inquiries and evaluate support before using the figures."
+      },
+      {
+        "id": "reg-m1-l1-q1-a1",
+        "text": "Rely on the signature regardless of known facts."
+      },
+      {
+        "id": "reg-m1-l1-q1-a2",
+        "text": "Ignore the issue if an audit is unlikely."
+      },
+      {
+        "id": "reg-m1-l1-q1-a3",
+        "text": "Increase deductions to offset the inconsistency."
+      }
+    ],
+    "correctChoiceId": "reg-m1-l1-q1-a0",
+    "explanation": "Diligence requires follow-up when information appears incorrect, incomplete, or inconsistent.",
+    "difficulty": "advanced",
+    "metadata": {
+      "section": "reg",
+      "blueprintYear": 2026,
+      "areaId": "reg-I",
+      "groupId": "A-B",
+      "topicId": "reg-tax-practice-ethics",
+      "taskIds": [
+        "reg-tax-practice-ethics.task-1"
+      ],
+      "skill": "analysis",
+      "validFrom": "2026-07-01",
+      "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        },
+        {
+          "title": "Internal Revenue Code",
+          "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+        },
+        {
+          "title": "IRS tax publications",
+          "url": "https://www.irs.gov/publications"
+        },
+        {
+          "title": "Circular 230",
+          "url": "https://www.irs.gov/tax-professionals/circular-230-tax-professionals"
+        }
+      ]
+    }
+  },
+  "relatedSimulation": "reg-m1-tbs1"
+}

@@ -1,0 +1,88 @@
+{
+  "id": "far-m3-l7",
+  "courseId": "far",
+  "moduleId": 3,
+  "number": 7,
+  "title": "Subsequent Events",
+  "description": "Determine whether events after year-end require adjustment, disclosure, or no action.",
+  "url": "/learn/far/modules/3/lessons/7",
+  "html": "<h2> Subsequent Events </h2> <p> Subsequent events are events or transactions that occur after the balance sheet date but before the financial statements are issued or available to be issued. </p> <div class=\"key-points\"> <strong> CPA Focus: </strong> <p> The key question is whether the event provides additional evidence about conditions that already existed at the balance sheet date, or whether it relates to conditions that arose after year-end. </p> </div> <h3> 1. Recognized Subsequent Events </h3> <p> A recognized subsequent event provides additional evidence about a condition that existed at the balance sheet date. </p> <p> The financial statements are adjusted to reflect the effect of the event. </p> <div class=\"financial-example\"> <div> <span> Condition Existed at Year-End </span> <strong> Adjust Financial Statements </strong> </div> </div> <div class=\"example-box\"> <strong> Example — Customer Bankruptcy </strong> <p> A major customer declares bankruptcy shortly after year-end. </p> <p> Evidence shows the customer was already experiencing serious financial difficulty before December 31. </p> <p> The bankruptcy provides additional evidence about the collectibility of the receivable that existed at year-end. </p> <div class=\"formula-box\"> Existing Year-End Condition → Recognized Subsequent Event → Adjust Financial Statements </div> </div> <h3> 2. Nonrecognized Subsequent Events </h3> <p> A nonrecognized subsequent event relates to a condition that arose after the balance sheet date. </p> <p> The financial statements are generally not adjusted for the event. </p> <p> However, material events may require disclosure so that the financial statements are not misleading. </p> <div class=\"financial-example\"> <div> <span> Condition Arose After Year-End </span> <strong> Generally No Adjustment </strong> </div> </div> <div class=\"example-box\"> <strong> Example — Fire After Year-End </strong> <p> A company's manufacturing facility is destroyed by a fire on January 20. </p> <p> There was no condition related to the fire at December 31. </p> <p> The fire is therefore generally a nonrecognized subsequent event. </p> <p> If the event is material, appropriate disclosure may still be necessary. </p> </div> <h3> 3. Recognized vs. Nonrecognized </h3> <div class=\"financial-example\"> <div> <span> Evidence About Existing Condition </span> <strong> Recognize / Adjust </strong> </div> <div> <span> New Condition After Year-End </span> <strong> Do Not Adjust </strong> </div> </div> <h3> 4. Lawsuit Example </h3> <p> Assume a lawsuit existed before year-end. Shortly after year-end, the company reaches a settlement that confirms the amount of the obligation at the balance sheet date. </p> <p> The settlement may provide additional evidence about the year-end liability and therefore may require adjustment. </p> <h3> 5. New Borrowing After Year-End </h3> <p> Assume a company enters into a major new borrowing agreement after the balance sheet date. </p> <p> If the borrowing relates to a new condition arising after year-end, it generally does not change the liabilities reported at the earlier balance sheet date. </p> <p> Material information may still require disclosure. </p> <h3> 6. Major Business Combination </h3> <p> A major acquisition completed after year-end is generally a nonrecognized subsequent event if the underlying transaction arose after the balance sheet date. </p> <p> Because such a transaction could significantly influence users' decisions, disclosure may be required when material. </p> <h3> 7. Subsequent Event Evaluation Period </h3> <p> Management evaluates subsequent events through the applicable date the financial statements are issued or available to be issued. </p> <p> The applicable evaluation date depends on the entity's reporting circumstances. Some entities evaluate subsequent events through the date the financial statements are issued, while others evaluate them through the date the financial statements are available to be issued. </p> <h3> CPA Exam Decision Rule </h3> <div class=\"formula-box\"> Did the condition exist at the balance sheet date? YES ↓ Recognized Subsequent Event ↓ Adjust NO ↓ Nonrecognized Subsequent Event ↓ No Adjustment + Disclose if Material </div> <div class=\"key-points\"> <h3> Key Takeaways </h3> <ul> <li> Subsequent events occur after the balance sheet date but before the financial statements are issued or available to be issued. </li> <li> Events providing additional evidence about existing year-end conditions generally require adjustment. </li> <li> Events caused by conditions arising after year-end generally do not require adjustment. </li> <li> Material nonrecognized subsequent events may require disclosure. </li> <li> Customer bankruptcy may be recognized when it confirms financial difficulty that already existed at year-end. </li> <li> A major fire occurring entirely after year-end is generally nonrecognized. </li> </ul> </div>",
+  "quiz": {
+    "id": "far-m3-l7-check",
+    "courseId": "far",
+    "moduleId": 3,
+    "lessonId": "far-m3-l7",
+    "topic": "General review",
+    "prompt": "A customer owing a company $90,000 declares bankruptcy shortly after year-end. Evidence indicates the customer was already experiencing severe financial difficulty at the balance sheet date. How should the company generally treat this subsequent event?",
+    "choices": [
+      {
+        "id": "far-m3-l7-check-a0",
+        "text": "Ignore the event because bankruptcy occurred after year-end"
+      },
+      {
+        "id": "far-m3-l7-check-a1",
+        "text": "Recognize the effect by adjusting the year-end financial statements"
+      },
+      {
+        "id": "far-m3-l7-check-a2",
+        "text": "Record the loss only in the following year"
+      },
+      {
+        "id": "far-m3-l7-check-a3",
+        "text": "Report the $90,000 as other comprehensive income"
+      }
+    ],
+    "correctChoiceId": "far-m3-l7-check-a1",
+    "explanation": "The bankruptcy provides additional evidence about a condition that already existed at the balance sheet date. Therefore, the year-end financial statements should generally be adjusted.",
+    "difficulty": "foundation",
+    "metadata": {
+      "section": "far",
+      "blueprintYear": 2026,
+      "areaId": "far-III",
+      "groupId": "module-3",
+      "topicId": "far-subsequent-events",
+      "taskIds": [
+        "far-subsequent-events.task-1",
+        "far-subsequent-events.task-2",
+        "far-subsequent-events.task-3"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "section": "far",
+    "blueprintYear": 2026,
+    "areaId": "far-III",
+    "groupId": "module-3",
+    "topicId": "far-subsequent-events",
+    "taskIds": [
+      "far-subsequent-events.task-1",
+      "far-subsequent-events.task-2",
+      "far-subsequent-events.task-3"
+    ],
+    "skill": "application",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      }
+    ]
+  },
+  "objectives": [
+    "Explain subsequent events and its underlying principles.",
+    "Apply the topic to a financial-reporting scenario.",
+    "Evaluate common errors and their financial-statement effects."
+  ]
+}

@@ -1,0 +1,2951 @@
+{
+  "id": "far-m3-practice",
+  "title": "FAR Module 3 Practice",
+  "courseId": "far",
+  "moduleId": 3,
+  "selection": "per-lesson",
+  "feedback": "immediate",
+  "passPercent": 80,
+  "questions": [
+    {
+      "id": "far-m3-q1",
+      "courseId": "far",
+      "moduleId": 3,
+      "lessonId": "far-m3-l1",
+      "topic": "Accounting Changes & Error Corrections",
+      "prompt": "A company revises the estimated useful life of equipment based on new information. How should the change generally be accounted for?",
+      "choices": [
+        {
+          "id": "far-m3-q1-a0",
+          "text": "Retrospectively"
+        },
+        {
+          "id": "far-m3-q1-a1",
+          "text": "Prospectively"
+        },
+        {
+          "id": "far-m3-q1-a2",
+          "text": "As a prior-period error"
+        },
+        {
+          "id": "far-m3-q1-a3",
+          "text": "As an adjustment to accumulated OCI"
+        }
+      ],
+      "correctChoiceId": "far-m3-q1-a1",
+      "explanation": "A revision resulting from new information is a change in accounting estimate and is generally accounted for prospectively.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-III",
+        "groupId": "module-3",
+        "topicId": "far-accounting-changes-error-corrections",
+        "taskIds": [
+          "far-accounting-changes-error-corrections.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m3-q2",
+      "courseId": "far",
+      "moduleId": 3,
+      "lessonId": "far-m3-l2",
+      "topic": "Contingencies & Commitments",
+      "prompt": "A loss contingency is probable and reasonably estimable at $75,000. What should the company generally do?",
+      "choices": [
+        {
+          "id": "far-m3-q2-a0",
+          "text": "Disclose the contingency only"
+        },
+        {
+          "id": "far-m3-q2-a1",
+          "text": "Recognize a $75,000 loss and liability"
+        },
+        {
+          "id": "far-m3-q2-a2",
+          "text": "Take no action until the loss is paid"
+        },
+        {
+          "id": "far-m3-q2-a3",
+          "text": "Recognize the amount in OCI"
+        }
+      ],
+      "correctChoiceId": "far-m3-q2-a1",
+      "explanation": "A loss contingency that is both probable and reasonably estimable is generally accrued.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-III",
+        "groupId": "module-3",
+        "topicId": "far-contingencies-commitments",
+        "taskIds": [
+          "far-contingencies-commitments.task-2"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m3-q3",
+      "courseId": "far",
+      "moduleId": 3,
+      "lessonId": "far-m3-l3",
+      "topic": "Revenue Recognition",
+      "prompt": "A customer pays $24,000 in advance for 12 months of services that will be provided evenly. How much revenue should generally be recognized after three months of service?",
+      "choices": [
+        {
+          "id": "far-m3-q3-a0",
+          "text": "$2,000"
+        },
+        {
+          "id": "far-m3-q3-a1",
+          "text": "$6,000"
+        },
+        {
+          "id": "far-m3-q3-a2",
+          "text": "$18,000"
+        },
+        {
+          "id": "far-m3-q3-a3",
+          "text": "$24,000"
+        }
+      ],
+      "correctChoiceId": "far-m3-q3-a1",
+      "explanation": "Monthly revenue is $24,000 ÷ 12 = $2,000. After three months, $2,000 × 3 = $6,000 of revenue has been earned.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-III",
+        "groupId": "module-3",
+        "topicId": "far-revenue-recognition",
+        "taskIds": [
+          "far-revenue-recognition.task-3"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m3-q4",
+      "courseId": "far",
+      "moduleId": 3,
+      "lessonId": "far-m3-l4",
+      "topic": "Accounting for Income Taxes",
+      "prompt": "A $60,000 temporary difference will result in future taxable amounts. The enacted tax rate is 25%. What deferred tax amount generally results?",
+      "choices": [
+        {
+          "id": "far-m3-q4-a0",
+          "text": "$15,000 deferred tax asset"
+        },
+        {
+          "id": "far-m3-q4-a1",
+          "text": "$15,000 deferred tax liability"
+        },
+        {
+          "id": "far-m3-q4-a2",
+          "text": "$60,000 deferred tax liability"
+        },
+        {
+          "id": "far-m3-q4-a3",
+          "text": "$0"
+        }
+      ],
+      "correctChoiceId": "far-m3-q4-a1",
+      "explanation": "Future taxable amounts create a deferred tax liability. $60,000 × 25% = $15,000.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-III",
+        "groupId": "module-3",
+        "topicId": "far-accounting-for-income-taxes",
+        "taskIds": [
+          "far-accounting-for-income-taxes.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m3-q5",
+      "courseId": "far",
+      "moduleId": 3,
+      "lessonId": "far-m3-l5",
+      "topic": "Fair Value Measurements",
+      "prompt": "Which input is classified as Level 1 in the fair value hierarchy?",
+      "choices": [
+        {
+          "id": "far-m3-q5-a0",
+          "text": "Management's unobservable cash-flow assumptions"
+        },
+        {
+          "id": "far-m3-q5-a1",
+          "text": "An observable interest-rate curve"
+        },
+        {
+          "id": "far-m3-q5-a2",
+          "text": "An unadjusted quoted price for an identical asset in an active market"
+        },
+        {
+          "id": "far-m3-q5-a3",
+          "text": "A quoted price for a similar asset in an inactive market"
+        }
+      ],
+      "correctChoiceId": "far-m3-q5-a2",
+      "explanation": "Level 1 inputs are unadjusted quoted prices in active markets for identical assets or liabilities that the entity can access.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-III",
+        "groupId": "module-3",
+        "topicId": "far-fair-value-measurements",
+        "taskIds": [
+          "far-fair-value-measurements.task-2"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m3-q6",
+      "courseId": "far",
+      "moduleId": 3,
+      "lessonId": "far-m3-l6",
+      "topic": "Lessee Accounting",
+      "prompt": "A lessee initially measures its lease liability at $200,000. It made a $10,000 prepayment and received a $6,000 lease incentive. There are no initial direct costs. What is the initial ROU asset?",
+      "choices": [
+        {
+          "id": "far-m3-q6-a0",
+          "text": "$184,000"
+        },
+        {
+          "id": "far-m3-q6-a1",
+          "text": "$196,000"
+        },
+        {
+          "id": "far-m3-q6-a2",
+          "text": "$204,000"
+        },
+        {
+          "id": "far-m3-q6-a3",
+          "text": "$216,000"
+        }
+      ],
+      "correctChoiceId": "far-m3-q6-a2",
+      "explanation": "Initial ROU asset = $200,000 lease liability + $10,000 prepayment − $6,000 incentive = $204,000.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-III",
+        "groupId": "module-3",
+        "topicId": "far-lessee-accounting",
+        "taskIds": [
+          "far-lessee-accounting.task-3"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m3-q7",
+      "courseId": "far",
+      "moduleId": 3,
+      "lessonId": "far-m3-l7",
+      "topic": "Subsequent Events",
+      "prompt": "A company's warehouse is destroyed by an unexpected fire after year-end. No related condition existed at the balance sheet date. The loss is material. What is the general treatment?",
+      "choices": [
+        {
+          "id": "far-m3-q7-a0",
+          "text": "Adjust the year-end financial statements for the loss"
+        },
+        {
+          "id": "far-m3-q7-a1",
+          "text": "Recognize the loss as a prior-period error"
+        },
+        {
+          "id": "far-m3-q7-a2",
+          "text": "Do not adjust the year-end amounts, but disclose the material event as appropriate"
+        },
+        {
+          "id": "far-m3-q7-a3",
+          "text": "Recognize the loss in accumulated OCI"
+        }
+      ],
+      "correctChoiceId": "far-m3-q7-a2",
+      "explanation": "The condition arose after year-end, making this a nonrecognized subsequent event. The year-end amounts generally are not adjusted, although a material event may require disclosure.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-III",
+        "groupId": "module-3",
+        "topicId": "far-subsequent-events",
+        "taskIds": [
+          "far-subsequent-events.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m3-q8",
+      "courseId": "far",
+      "moduleId": 3,
+      "lessonId": "far-m3-l8",
+      "topic": "Revenue Recognition — Advanced Applications",
+      "prompt": "An entity acts as an agent in a transaction. It collects $800 from the customer, pays $700 to the principal, and retains a $100 commission. How much revenue should the agent generally recognize?",
+      "choices": [
+        {
+          "id": "far-m3-q8-a0",
+          "text": "$100"
+        },
+        {
+          "id": "far-m3-q8-a1",
+          "text": "$700"
+        },
+        {
+          "id": "far-m3-q8-a2",
+          "text": "$800"
+        },
+        {
+          "id": "far-m3-q8-a3",
+          "text": "$1,500"
+        }
+      ],
+      "correctChoiceId": "far-m3-q8-a0",
+      "explanation": "An agent generally recognizes its fee or commission rather than the gross amount collected. Therefore, revenue is $100.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-III",
+        "groupId": "module-3",
+        "topicId": "far-revenue-recognition-advanced-applications",
+        "taskIds": [
+          "far-revenue-recognition-advanced-applications.task-2"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m3-q9",
+      "courseId": "far",
+      "moduleId": 3,
+      "lessonId": "far-m3-l9",
+      "topic": "Deferred Taxes & Valuation Allowances",
+      "prompt": "A company has a gross deferred tax asset of $90,000 and determines that a $25,000 valuation allowance is required. What net deferred tax asset should be reported?",
+      "choices": [
+        {
+          "id": "far-m3-q9-a0",
+          "text": "$25,000"
+        },
+        {
+          "id": "far-m3-q9-a1",
+          "text": "$65,000"
+        },
+        {
+          "id": "far-m3-q9-a2",
+          "text": "$90,000"
+        },
+        {
+          "id": "far-m3-q9-a3",
+          "text": "$115,000"
+        }
+      ],
+      "correctChoiceId": "far-m3-q9-a1",
+      "explanation": "Net DTA = $90,000 gross deferred tax asset − $25,000 valuation allowance = $65,000.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-III",
+        "groupId": "module-3",
+        "topicId": "far-deferred-taxes-valuation-allowances",
+        "taskIds": [
+          "far-deferred-taxes-valuation-allowances.task-3"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m3-q10",
+      "courseId": "far",
+      "moduleId": 3,
+      "lessonId": "far-m3-l10",
+      "topic": "Integrated Select Transactions Review",
+      "prompt": "Which combination of accounting treatments is generally correct?",
+      "choices": [
+        {
+          "id": "far-m3-q10-a0",
+          "text": "Change in estimate — retrospective; future taxable amount — DTA"
+        },
+        {
+          "id": "far-m3-q10-a1",
+          "text": "Probable estimable loss — disclose only; Level 1 input — unobservable"
+        },
+        {
+          "id": "far-m3-q10-a2",
+          "text": "Change in estimate — prospective; future taxable amount — DTL"
+        },
+        {
+          "id": "far-m3-q10-a3",
+          "text": "Agent arrangement — gross revenue; subsequent new condition — adjust year-end statements"
+        }
+      ],
+      "correctChoiceId": "far-m3-q10-a2",
+      "explanation": "Changes in estimates are generally prospective, and temporary differences producing future taxable amounts generally create deferred tax liabilities.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-III",
+        "groupId": "module-3",
+        "topicId": "far-integrated-select-transactions-review",
+        "taskIds": [
+          "far-integrated-select-transactions-review.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m3-q11",
+      "courseId": "far",
+      "moduleId": 3,
+      "lessonId": "far-m3-l1",
+      "topic": "Accounting Changes & Error Corrections",
+      "prompt": "A company changes its estimate of warranty obligations because newly available claims data indicates that future warranty costs will be higher. How should the change generally be accounted for?",
+      "choices": [
+        {
+          "id": "far-m3-q11-a0",
+          "text": "Prospectively"
+        },
+        {
+          "id": "far-m3-q11-a1",
+          "text": "Retrospectively"
+        },
+        {
+          "id": "far-m3-q11-a2",
+          "text": "As a prior-period error"
+        },
+        {
+          "id": "far-m3-q11-a3",
+          "text": "Through other comprehensive income"
+        }
+      ],
+      "correctChoiceId": "far-m3-q11-a0",
+      "explanation": "A revision caused by new information is a change in accounting estimate and is generally accounted for prospectively.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-III",
+        "groupId": "module-3",
+        "topicId": "far-accounting-changes-error-corrections",
+        "taskIds": [
+          "far-accounting-changes-error-corrections.task-2"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m3-q12",
+      "courseId": "far",
+      "moduleId": 3,
+      "lessonId": "far-m3-l1",
+      "topic": "Accounting Changes & Error Corrections",
+      "prompt": "A company discovers that equipment purchased last year was incorrectly recorded as an expense even though the information necessary to capitalize it was available. How should this generally be classified?",
+      "choices": [
+        {
+          "id": "far-m3-q12-a0",
+          "text": "A change in estimate"
+        },
+        {
+          "id": "far-m3-q12-a1",
+          "text": "A change in reporting entity"
+        },
+        {
+          "id": "far-m3-q12-a2",
+          "text": "A change in accounting principle"
+        },
+        {
+          "id": "far-m3-q12-a3",
+          "text": "An accounting error"
+        }
+      ],
+      "correctChoiceId": "far-m3-q12-a3",
+      "explanation": "Incorrectly expensing an asset when the relevant information was already available is an accounting error rather than a change in estimate.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-III",
+        "groupId": "module-3",
+        "topicId": "far-accounting-changes-error-corrections",
+        "taskIds": [
+          "far-accounting-changes-error-corrections.task-3"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m3-q13",
+      "courseId": "far",
+      "moduleId": 3,
+      "lessonId": "far-m3-l1",
+      "topic": "Accounting Changes & Error Corrections",
+      "prompt": "Which accounting change is generally applied retrospectively when practicable?",
+      "choices": [
+        {
+          "id": "far-m3-q13-a0",
+          "text": "A revision of an asset's useful life"
+        },
+        {
+          "id": "far-m3-q13-a1",
+          "text": "A change in expected warranty claims"
+        },
+        {
+          "id": "far-m3-q13-a2",
+          "text": "A change from one acceptable accounting principle to another"
+        },
+        {
+          "id": "far-m3-q13-a3",
+          "text": "A revision of estimated credit losses"
+        }
+      ],
+      "correctChoiceId": "far-m3-q13-a2",
+      "explanation": "A change in accounting principle is generally applied retrospectively when required and practicable.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-III",
+        "groupId": "module-3",
+        "topicId": "far-accounting-changes-error-corrections",
+        "taskIds": [
+          "far-accounting-changes-error-corrections.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m3-q14",
+      "courseId": "far",
+      "moduleId": 3,
+      "lessonId": "far-m3-l2",
+      "topic": "Contingencies & Commitments",
+      "prompt": "A lawsuit loss is reasonably possible but not probable. The amount can be reasonably estimated. What is the general financial reporting treatment?",
+      "choices": [
+        {
+          "id": "far-m3-q14-a0",
+          "text": "Accrue the estimated loss"
+        },
+        {
+          "id": "far-m3-q14-a1",
+          "text": "Recognize the loss in OCI"
+        },
+        {
+          "id": "far-m3-q14-a2",
+          "text": "Record a deferred liability"
+        },
+        {
+          "id": "far-m3-q14-a3",
+          "text": "Do not accrue the loss, but disclose the contingency as appropriate"
+        }
+      ],
+      "correctChoiceId": "far-m3-q14-a3",
+      "explanation": "A reasonably possible loss is generally disclosed rather than accrued.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-III",
+        "groupId": "module-3",
+        "topicId": "far-contingencies-commitments",
+        "taskIds": [
+          "far-contingencies-commitments.task-2"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m3-q15",
+      "courseId": "far",
+      "moduleId": 3,
+      "lessonId": "far-m3-l2",
+      "topic": "Contingencies & Commitments",
+      "prompt": "A probable lawsuit loss is estimated to range from $40,000 to $70,000. No amount within the range is a better estimate than another. What amount is generally accrued?",
+      "choices": [
+        {
+          "id": "far-m3-q15-a0",
+          "text": "$40,000"
+        },
+        {
+          "id": "far-m3-q15-a1",
+          "text": "$55,000"
+        },
+        {
+          "id": "far-m3-q15-a2",
+          "text": "$70,000"
+        },
+        {
+          "id": "far-m3-q15-a3",
+          "text": "$0"
+        }
+      ],
+      "correctChoiceId": "far-m3-q15-a0",
+      "explanation": "When a loss is probable and no amount within the reasonably estimable range is a better estimate, the minimum amount in the range is generally accrued.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-III",
+        "groupId": "module-3",
+        "topicId": "far-contingencies-commitments",
+        "taskIds": [
+          "far-contingencies-commitments.task-3"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m3-q16",
+      "courseId": "far",
+      "moduleId": 3,
+      "lessonId": "far-m3-l2",
+      "topic": "Contingencies & Commitments",
+      "prompt": "Which statement about gain contingencies is generally correct?",
+      "choices": [
+        {
+          "id": "far-m3-q16-a0",
+          "text": "They are recognized whenever reasonably possible"
+        },
+        {
+          "id": "far-m3-q16-a1",
+          "text": "They generally are not recognized before realization"
+        },
+        {
+          "id": "far-m3-q16-a2",
+          "text": "They are always recognized when probable"
+        },
+        {
+          "id": "far-m3-q16-a3",
+          "text": "They are recorded directly in retained earnings"
+        }
+      ],
+      "correctChoiceId": "far-m3-q16-a1",
+      "explanation": "Gain contingencies generally are not recognized before realization because doing so could result in premature recognition of income.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-III",
+        "groupId": "module-3",
+        "topicId": "far-contingencies-commitments",
+        "taskIds": [
+          "far-contingencies-commitments.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m3-q17",
+      "courseId": "far",
+      "moduleId": 3,
+      "lessonId": "far-m3-l3",
+      "topic": "Revenue Recognition",
+      "prompt": "A company receives $36,000 on October 1 for twelve months of services to be provided evenly beginning immediately. How much revenue should generally be recognized by December 31?",
+      "choices": [
+        {
+          "id": "far-m3-q17-a0",
+          "text": "$9,000"
+        },
+        {
+          "id": "far-m3-q17-a1",
+          "text": "$12,000"
+        },
+        {
+          "id": "far-m3-q17-a2",
+          "text": "$27,000"
+        },
+        {
+          "id": "far-m3-q17-a3",
+          "text": "$36,000"
+        }
+      ],
+      "correctChoiceId": "far-m3-q17-a0",
+      "explanation": "Monthly revenue is $36,000 ÷ 12 = $3,000. Three months of service have been provided, so revenue recognized is $9,000.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-III",
+        "groupId": "module-3",
+        "topicId": "far-revenue-recognition",
+        "taskIds": [
+          "far-revenue-recognition.task-2"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m3-q18",
+      "courseId": "far",
+      "moduleId": 3,
+      "lessonId": "far-m3-l3",
+      "topic": "Revenue Recognition",
+      "prompt": "In the revenue recognition model, what generally occurs immediately after identifying the performance obligations in a contract?",
+      "choices": [
+        {
+          "id": "far-m3-q18-a0",
+          "text": "Recognize revenue"
+        },
+        {
+          "id": "far-m3-q18-a1",
+          "text": "Allocate the transaction price"
+        },
+        {
+          "id": "far-m3-q18-a2",
+          "text": "Record cash collections"
+        },
+        {
+          "id": "far-m3-q18-a3",
+          "text": "Determine the transaction price"
+        }
+      ],
+      "correctChoiceId": "far-m3-q18-a3",
+      "explanation": "The five-step model is: identify the contract, identify performance obligations, determine the transaction price, allocate the price, and recognize revenue.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-III",
+        "groupId": "module-3",
+        "topicId": "far-revenue-recognition",
+        "taskIds": [
+          "far-revenue-recognition.task-3"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m3-q19",
+      "courseId": "far",
+      "moduleId": 3,
+      "lessonId": "far-m3-l3",
+      "topic": "Revenue Recognition",
+      "prompt": "A contract has two performance obligations with standalone selling prices of $600 and $400. The total transaction price is $900. How much should generally be allocated to the first performance obligation?",
+      "choices": [
+        {
+          "id": "far-m3-q19-a0",
+          "text": "$360"
+        },
+        {
+          "id": "far-m3-q19-a1",
+          "text": "$450"
+        },
+        {
+          "id": "far-m3-q19-a2",
+          "text": "$540"
+        },
+        {
+          "id": "far-m3-q19-a3",
+          "text": "$600"
+        }
+      ],
+      "correctChoiceId": "far-m3-q19-a2",
+      "explanation": "The first obligation represents 60% of total standalone selling prices. $900 × 60% = $540.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-III",
+        "groupId": "module-3",
+        "topicId": "far-revenue-recognition",
+        "taskIds": [
+          "far-revenue-recognition.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m3-q20",
+      "courseId": "far",
+      "moduleId": 3,
+      "lessonId": "far-m3-l4",
+      "topic": "Accounting for Income Taxes",
+      "prompt": "A temporary difference of $80,000 will produce future deductible amounts. The enacted tax rate is 30%. What deferred tax amount generally results?",
+      "choices": [
+        {
+          "id": "far-m3-q20-a0",
+          "text": "$80,000 deferred tax asset"
+        },
+        {
+          "id": "far-m3-q20-a1",
+          "text": "$24,000 deferred tax liability"
+        },
+        {
+          "id": "far-m3-q20-a2",
+          "text": "$80,000 deferred tax liability"
+        },
+        {
+          "id": "far-m3-q20-a3",
+          "text": "$24,000 deferred tax asset"
+        }
+      ],
+      "correctChoiceId": "far-m3-q20-a3",
+      "explanation": "Future deductible amounts generally create a deferred tax asset. $80,000 × 30% = $24,000.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-III",
+        "groupId": "module-3",
+        "topicId": "far-accounting-for-income-taxes",
+        "taskIds": [
+          "far-accounting-for-income-taxes.task-2"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m3-q21",
+      "courseId": "far",
+      "moduleId": 3,
+      "lessonId": "far-m3-l4",
+      "topic": "Accounting for Income Taxes",
+      "prompt": "Which type of difference generally does NOT create a deferred tax asset or deferred tax liability?",
+      "choices": [
+        {
+          "id": "far-m3-q21-a0",
+          "text": "Permanent difference"
+        },
+        {
+          "id": "far-m3-q21-a1",
+          "text": "Taxable temporary difference"
+        },
+        {
+          "id": "far-m3-q21-a2",
+          "text": "Deductible temporary difference"
+        },
+        {
+          "id": "far-m3-q21-a3",
+          "text": "Depreciation timing difference"
+        }
+      ],
+      "correctChoiceId": "far-m3-q21-a0",
+      "explanation": "Permanent differences do not reverse in future periods and therefore generally do not create deferred tax balances.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-III",
+        "groupId": "module-3",
+        "topicId": "far-accounting-for-income-taxes",
+        "taskIds": [
+          "far-accounting-for-income-taxes.task-3"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m3-q22",
+      "courseId": "far",
+      "moduleId": 3,
+      "lessonId": "far-m3-l4",
+      "topic": "Accounting for Income Taxes",
+      "prompt": "A company has taxable income of $500,000 and an enacted current tax rate of 24%. Ignoring credits and other adjustments, what is current income tax payable?",
+      "choices": [
+        {
+          "id": "far-m3-q22-a0",
+          "text": "$24,000"
+        },
+        {
+          "id": "far-m3-q22-a1",
+          "text": "$120,000"
+        },
+        {
+          "id": "far-m3-q22-a2",
+          "text": "$476,000"
+        },
+        {
+          "id": "far-m3-q22-a3",
+          "text": "$500,000"
+        }
+      ],
+      "correctChoiceId": "far-m3-q22-a1",
+      "explanation": "$500,000 × 24% = $120,000 of current income tax payable.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-III",
+        "groupId": "module-3",
+        "topicId": "far-accounting-for-income-taxes",
+        "taskIds": [
+          "far-accounting-for-income-taxes.task-1"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m3-q23",
+      "courseId": "far",
+      "moduleId": 3,
+      "lessonId": "far-m3-l5",
+      "topic": "Fair Value Measurements",
+      "prompt": "A valuation relies primarily on significant assumptions developed using information that is not observable in the marketplace. These inputs are generally classified as:",
+      "choices": [
+        {
+          "id": "far-m3-q23-a0",
+          "text": "Level 1"
+        },
+        {
+          "id": "far-m3-q23-a1",
+          "text": "Level 2"
+        },
+        {
+          "id": "far-m3-q23-a2",
+          "text": "Level 3"
+        },
+        {
+          "id": "far-m3-q23-a3",
+          "text": "Outside the fair value hierarchy"
+        }
+      ],
+      "correctChoiceId": "far-m3-q23-a2",
+      "explanation": "Level 3 inputs are unobservable inputs used when relevant observable market information is not available.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-III",
+        "groupId": "module-3",
+        "topicId": "far-fair-value-measurements",
+        "taskIds": [
+          "far-fair-value-measurements.task-2"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m3-q24",
+      "courseId": "far",
+      "moduleId": 3,
+      "lessonId": "far-m3-l5",
+      "topic": "Fair Value Measurements",
+      "prompt": "Fair value for an asset is generally based on which concept?",
+      "choices": [
+        {
+          "id": "far-m3-q24-a0",
+          "text": "The asset's original purchase price"
+        },
+        {
+          "id": "far-m3-q24-a1",
+          "text": "Management's intended selling price"
+        },
+        {
+          "id": "far-m3-q24-a2",
+          "text": "The cost to reproduce the asset"
+        },
+        {
+          "id": "far-m3-q24-a3",
+          "text": "The price that would be received to sell the asset in an orderly transaction"
+        }
+      ],
+      "correctChoiceId": "far-m3-q24-a3",
+      "explanation": "Fair value is generally an exit-price measurement based on the price that would be received to sell an asset.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-III",
+        "groupId": "module-3",
+        "topicId": "far-fair-value-measurements",
+        "taskIds": [
+          "far-fair-value-measurements.task-3"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m3-q25",
+      "courseId": "far",
+      "moduleId": 3,
+      "lessonId": "far-m3-l5",
+      "topic": "Fair Value Measurements",
+      "prompt": "What is generally the principal market for an asset?",
+      "choices": [
+        {
+          "id": "far-m3-q25-a0",
+          "text": "The market with the greatest volume and level of activity for the asset"
+        },
+        {
+          "id": "far-m3-q25-a1",
+          "text": "The market with the lowest transaction costs"
+        },
+        {
+          "id": "far-m3-q25-a2",
+          "text": "The market selected by management for convenience"
+        },
+        {
+          "id": "far-m3-q25-a3",
+          "text": "Any market where the asset could theoretically be sold"
+        }
+      ],
+      "correctChoiceId": "far-m3-q25-a0",
+      "explanation": "The principal market is generally the market with the greatest volume and level of activity for the asset or liability.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-III",
+        "groupId": "module-3",
+        "topicId": "far-fair-value-measurements",
+        "taskIds": [
+          "far-fair-value-measurements.task-1"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m3-q26",
+      "courseId": "far",
+      "moduleId": 3,
+      "lessonId": "far-m3-l6",
+      "topic": "Lessee Accounting",
+      "prompt": "At commencement, a lessee generally measures its lease liability based primarily on:",
+      "choices": [
+        {
+          "id": "far-m3-q26-a0",
+          "text": "The fair value of the underlying asset"
+        },
+        {
+          "id": "far-m3-q26-a1",
+          "text": "The present value of required lease payments"
+        },
+        {
+          "id": "far-m3-q26-a2",
+          "text": "The total undiscounted lease payments"
+        },
+        {
+          "id": "far-m3-q26-a3",
+          "text": "The carrying value reported by the lessor"
+        }
+      ],
+      "correctChoiceId": "far-m3-q26-a1",
+      "explanation": "The lease liability is initially measured using the present value of lease payments that have not yet been paid.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-III",
+        "groupId": "module-3",
+        "topicId": "far-lessee-accounting",
+        "taskIds": [
+          "far-lessee-accounting.task-2"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m3-q27",
+      "courseId": "far",
+      "moduleId": 3,
+      "lessonId": "far-m3-l6",
+      "topic": "Lessee Accounting",
+      "prompt": "Which characteristic most strongly indicates finance lease classification for a lessee?",
+      "choices": [
+        {
+          "id": "far-m3-q27-a0",
+          "text": "The lease requires monthly payments"
+        },
+        {
+          "id": "far-m3-q27-a1",
+          "text": "The underlying asset is insured"
+        },
+        {
+          "id": "far-m3-q27-a2",
+          "text": "The lease term is shorter than one year"
+        },
+        {
+          "id": "far-m3-q27-a3",
+          "text": "Ownership of the underlying asset transfers to the lessee by the end of the lease term"
+        }
+      ],
+      "correctChoiceId": "far-m3-q27-a3",
+      "explanation": "Transfer of ownership to the lessee by the end of the lease term is one of the finance lease classification criteria.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-III",
+        "groupId": "module-3",
+        "topicId": "far-lessee-accounting",
+        "taskIds": [
+          "far-lessee-accounting.task-3"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m3-q28",
+      "courseId": "far",
+      "moduleId": 3,
+      "lessonId": "far-m3-l6",
+      "topic": "Lessee Accounting",
+      "prompt": "A lease liability is $150,000 at commencement. The lessee made a $7,000 prepayment and received a $3,000 lease incentive. There are no initial direct costs. What is the initial ROU asset?",
+      "choices": [
+        {
+          "id": "far-m3-q28-a0",
+          "text": "$154,000"
+        },
+        {
+          "id": "far-m3-q28-a1",
+          "text": "$140,000"
+        },
+        {
+          "id": "far-m3-q28-a2",
+          "text": "$146,000"
+        },
+        {
+          "id": "far-m3-q28-a3",
+          "text": "$160,000"
+        }
+      ],
+      "correctChoiceId": "far-m3-q28-a0",
+      "explanation": "Initial ROU asset = $150,000 + $7,000 − $3,000 = $154,000.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-III",
+        "groupId": "module-3",
+        "topicId": "far-lessee-accounting",
+        "taskIds": [
+          "far-lessee-accounting.task-1"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m3-q29",
+      "courseId": "far",
+      "moduleId": 3,
+      "lessonId": "far-m3-l7",
+      "topic": "Subsequent Events",
+      "prompt": "After year-end but before the financial statements are issued, a customer files bankruptcy. Evidence confirms that the customer's serious financial difficulties existed before year-end. What is the general treatment?",
+      "choices": [
+        {
+          "id": "far-m3-q29-a0",
+          "text": "No adjustment or disclosure"
+        },
+        {
+          "id": "far-m3-q29-a1",
+          "text": "Disclosure only"
+        },
+        {
+          "id": "far-m3-q29-a2",
+          "text": "Adjust the year-end financial statements"
+        },
+        {
+          "id": "far-m3-q29-a3",
+          "text": "Recognize the event in the following year only"
+        }
+      ],
+      "correctChoiceId": "far-m3-q29-a2",
+      "explanation": "The bankruptcy provides additional evidence about a condition that existed at year-end, so the financial statements are generally adjusted.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-III",
+        "groupId": "module-3",
+        "topicId": "far-subsequent-events",
+        "taskIds": [
+          "far-subsequent-events.task-2"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m3-q30",
+      "courseId": "far",
+      "moduleId": 3,
+      "lessonId": "far-m3-l7",
+      "topic": "Subsequent Events",
+      "prompt": "A major acquisition is negotiated and completed after year-end, and no related condition existed at the balance sheet date. If material, what is the general treatment?",
+      "choices": [
+        {
+          "id": "far-m3-q30-a0",
+          "text": "Adjust all prior-year balances"
+        },
+        {
+          "id": "far-m3-q30-a1",
+          "text": "Record the acquisition as a prior-period correction"
+        },
+        {
+          "id": "far-m3-q30-a2",
+          "text": "Ignore the acquisition entirely"
+        },
+        {
+          "id": "far-m3-q30-a3",
+          "text": "Do not adjust year-end amounts, but disclose the event as appropriate"
+        }
+      ],
+      "correctChoiceId": "far-m3-q30-a3",
+      "explanation": "A material event arising from a new condition after year-end is generally nonrecognized but may require disclosure.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-III",
+        "groupId": "module-3",
+        "topicId": "far-subsequent-events",
+        "taskIds": [
+          "far-subsequent-events.task-3"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m3-q31",
+      "courseId": "far",
+      "moduleId": 3,
+      "lessonId": "far-m3-l7",
+      "topic": "Subsequent Events",
+      "prompt": "Which subsequent event would generally NOT require adjustment of the year-end financial statements?",
+      "choices": [
+        {
+          "id": "far-m3-q31-a0",
+          "text": "Settlement after year-end of litigation confirming an obligation that existed at year-end"
+        },
+        {
+          "id": "far-m3-q31-a1",
+          "text": "Bankruptcy confirming a customer's financial difficulty that existed before year-end"
+        },
+        {
+          "id": "far-m3-q31-a2",
+          "text": "New information confirming that inventory was impaired at year-end"
+        },
+        {
+          "id": "far-m3-q31-a3",
+          "text": "A destructive fire caused entirely by events occurring after year-end"
+        }
+      ],
+      "correctChoiceId": "far-m3-q31-a3",
+      "explanation": "A fire caused by a new condition arising entirely after year-end is generally a nonrecognized subsequent event.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-III",
+        "groupId": "module-3",
+        "topicId": "far-subsequent-events",
+        "taskIds": [
+          "far-subsequent-events.task-1"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m3-q32",
+      "courseId": "far",
+      "moduleId": 3,
+      "lessonId": "far-m3-l8",
+      "topic": "Revenue Recognition — Advanced Applications",
+      "prompt": "An entity is an agent in a transaction and collects $2,500 from a customer. It forwards $2,200 to the principal and retains $300. How much revenue should the agent generally report?",
+      "choices": [
+        {
+          "id": "far-m3-q32-a0",
+          "text": "$300"
+        },
+        {
+          "id": "far-m3-q32-a1",
+          "text": "$2,200"
+        },
+        {
+          "id": "far-m3-q32-a2",
+          "text": "$2,500"
+        },
+        {
+          "id": "far-m3-q32-a3",
+          "text": "$4,700"
+        }
+      ],
+      "correctChoiceId": "far-m3-q32-a0",
+      "explanation": "An agent generally recognizes its fee or commission. The commission is $2,500 − $2,200 = $300.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-III",
+        "groupId": "module-3",
+        "topicId": "far-revenue-recognition-advanced-applications",
+        "taskIds": [
+          "far-revenue-recognition-advanced-applications.task-2"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m3-q33",
+      "courseId": "far",
+      "moduleId": 3,
+      "lessonId": "far-m3-l8",
+      "topic": "Revenue Recognition — Advanced Applications",
+      "prompt": "A contract modification adds additional distinct goods at prices that reflect their standalone selling prices. How is the modification generally accounted for?",
+      "choices": [
+        {
+          "id": "far-m3-q33-a0",
+          "text": "As an accounting error"
+        },
+        {
+          "id": "far-m3-q33-a1",
+          "text": "As a reduction of the original transaction price"
+        },
+        {
+          "id": "far-m3-q33-a2",
+          "text": "As a change in accounting estimate"
+        },
+        {
+          "id": "far-m3-q33-a3",
+          "text": "As a separate contract"
+        }
+      ],
+      "correctChoiceId": "far-m3-q33-a3",
+      "explanation": "A modification that adds distinct promised goods or services at appropriate standalone selling prices is generally accounted for as a separate contract.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-III",
+        "groupId": "module-3",
+        "topicId": "far-revenue-recognition-advanced-applications",
+        "taskIds": [
+          "far-revenue-recognition-advanced-applications.task-3"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m3-q34",
+      "courseId": "far",
+      "moduleId": 3,
+      "lessonId": "far-m3-l8",
+      "topic": "Revenue Recognition — Advanced Applications",
+      "prompt": "Which warranty is most likely accounted for as a separate performance obligation?",
+      "choices": [
+        {
+          "id": "far-m3-q34-a0",
+          "text": "A basic assurance that a product complies with agreed specifications"
+        },
+        {
+          "id": "far-m3-q34-a1",
+          "text": "An optional extended service warranty purchased separately by the customer"
+        },
+        {
+          "id": "far-m3-q34-a2",
+          "text": "A legally required product defect warranty"
+        },
+        {
+          "id": "far-m3-q34-a3",
+          "text": "A standard assurance warranty included with every product"
+        }
+      ],
+      "correctChoiceId": "far-m3-q34-a1",
+      "explanation": "A separately purchased service-type warranty generally provides an additional service and is accounted for as a separate performance obligation.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-III",
+        "groupId": "module-3",
+        "topicId": "far-revenue-recognition-advanced-applications",
+        "taskIds": [
+          "far-revenue-recognition-advanced-applications.task-1"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m3-q35",
+      "courseId": "far",
+      "moduleId": 3,
+      "lessonId": "far-m3-l9",
+      "topic": "Deferred Taxes & Valuation Allowances",
+      "prompt": "A company has a gross deferred tax asset of $150,000 and a valuation allowance of $40,000. What net deferred tax asset should generally be reported?",
+      "choices": [
+        {
+          "id": "far-m3-q35-a0",
+          "text": "$110,000"
+        },
+        {
+          "id": "far-m3-q35-a1",
+          "text": "$40,000"
+        },
+        {
+          "id": "far-m3-q35-a2",
+          "text": "$150,000"
+        },
+        {
+          "id": "far-m3-q35-a3",
+          "text": "$190,000"
+        }
+      ],
+      "correctChoiceId": "far-m3-q35-a0",
+      "explanation": "Net DTA = $150,000 gross DTA − $40,000 valuation allowance = $110,000.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-III",
+        "groupId": "module-3",
+        "topicId": "far-deferred-taxes-valuation-allowances",
+        "taskIds": [
+          "far-deferred-taxes-valuation-allowances.task-2"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m3-q36",
+      "courseId": "far",
+      "moduleId": 3,
+      "lessonId": "far-m3-l9",
+      "topic": "Deferred Taxes & Valuation Allowances",
+      "prompt": "When is a valuation allowance generally recognized against a deferred tax asset?",
+      "choices": [
+        {
+          "id": "far-m3-q36-a0",
+          "text": "Whenever a deferred tax liability also exists"
+        },
+        {
+          "id": "far-m3-q36-a1",
+          "text": "Whenever tax rates increase"
+        },
+        {
+          "id": "far-m3-q36-a2",
+          "text": "When it is more likely than not that some or all of the deferred tax asset will not be realized"
+        },
+        {
+          "id": "far-m3-q36-a3",
+          "text": "Whenever the company reports net income"
+        }
+      ],
+      "correctChoiceId": "far-m3-q36-a2",
+      "explanation": "A valuation allowance is recognized when available evidence indicates that it is more likely than not that some portion or all of the DTA will not be realized.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-III",
+        "groupId": "module-3",
+        "topicId": "far-deferred-taxes-valuation-allowances",
+        "taskIds": [
+          "far-deferred-taxes-valuation-allowances.task-3"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m3-q37",
+      "courseId": "far",
+      "moduleId": 3,
+      "lessonId": "far-m3-l9",
+      "topic": "Deferred Taxes & Valuation Allowances",
+      "prompt": "A company has a $300,000 taxable temporary difference. The enacted tax rate expected when the difference reverses changes from 20% to 25%. What is the newly measured deferred tax liability?",
+      "choices": [
+        {
+          "id": "far-m3-q37-a0",
+          "text": "$15,000"
+        },
+        {
+          "id": "far-m3-q37-a1",
+          "text": "$60,000"
+        },
+        {
+          "id": "far-m3-q37-a2",
+          "text": "$300,000"
+        },
+        {
+          "id": "far-m3-q37-a3",
+          "text": "$75,000"
+        }
+      ],
+      "correctChoiceId": "far-m3-q37-a3",
+      "explanation": "Deferred taxes are measured using the enacted tax rate expected when reversal occurs. $300,000 × 25% = $75,000.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-III",
+        "groupId": "module-3",
+        "topicId": "far-deferred-taxes-valuation-allowances",
+        "taskIds": [
+          "far-deferred-taxes-valuation-allowances.task-1"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m3-q38",
+      "courseId": "far",
+      "moduleId": 3,
+      "lessonId": "far-m3-l10",
+      "topic": "Integrated Select Transactions Review",
+      "prompt": "Which combination is generally correct?",
+      "choices": [
+        {
+          "id": "far-m3-q38-a0",
+          "text": "Future deductible difference → DTL; Level 3 → active-market quoted price"
+        },
+        {
+          "id": "far-m3-q38-a1",
+          "text": "Accounting estimate change → retrospective; agent → gross revenue"
+        },
+        {
+          "id": "far-m3-q38-a2",
+          "text": "Future taxable difference → DTL; accounting estimate change → prospective"
+        },
+        {
+          "id": "far-m3-q38-a3",
+          "text": "Remote contingency → accrue; Level 1 → unobservable input"
+        }
+      ],
+      "correctChoiceId": "far-m3-q38-a2",
+      "explanation": "Future taxable amounts generally create deferred tax liabilities, and changes in accounting estimates are generally accounted for prospectively.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-III",
+        "groupId": "module-3",
+        "topicId": "far-integrated-select-transactions-review",
+        "taskIds": [
+          "far-integrated-select-transactions-review.task-2"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m3-q39",
+      "courseId": "far",
+      "moduleId": 3,
+      "lessonId": "far-m3-l10",
+      "topic": "Integrated Select Transactions Review",
+      "prompt": "Which transaction would generally result in recognizing a liability rather than immediate revenue?",
+      "choices": [
+        {
+          "id": "far-m3-q39-a0",
+          "text": "Completion of a service already performed for a customer"
+        },
+        {
+          "id": "far-m3-q39-a1",
+          "text": "Cash received in advance for services to be provided next year"
+        },
+        {
+          "id": "far-m3-q39-a2",
+          "text": "Sale of inventory for cash after control transfers"
+        },
+        {
+          "id": "far-m3-q39-a3",
+          "text": "Recognition of a trading security unrealized gain"
+        }
+      ],
+      "correctChoiceId": "far-m3-q39-a1",
+      "explanation": "Advance consideration received before performance generally creates a contract liability until the related performance obligation is satisfied.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-III",
+        "groupId": "module-3",
+        "topicId": "far-integrated-select-transactions-review",
+        "taskIds": [
+          "far-integrated-select-transactions-review.task-3"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m3-q40",
+      "courseId": "far",
+      "moduleId": 3,
+      "lessonId": "far-m3-l10",
+      "topic": "Integrated Select Transactions Review",
+      "prompt": "Which statement best describes a recognized subsequent event?",
+      "choices": [
+        {
+          "id": "far-m3-q40-a0",
+          "text": "It provides additional evidence about a condition that existed at the balance sheet date"
+        },
+        {
+          "id": "far-m3-q40-a1",
+          "text": "It always occurs before the balance sheet date"
+        },
+        {
+          "id": "far-m3-q40-a2",
+          "text": "It relates only to events involving cash"
+        },
+        {
+          "id": "far-m3-q40-a3",
+          "text": "It never affects reported financial statement amounts"
+        }
+      ],
+      "correctChoiceId": "far-m3-q40-a0",
+      "explanation": "A recognized subsequent event provides additional evidence about a condition existing at the balance sheet date and generally requires adjustment.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-III",
+        "groupId": "module-3",
+        "topicId": "far-integrated-select-transactions-review",
+        "taskIds": [
+          "far-integrated-select-transactions-review.task-1"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m3-q41",
+      "courseId": "far",
+      "moduleId": 3,
+      "lessonId": "far-m3-l1",
+      "topic": "Accounting Changes & Error Corrections",
+      "prompt": "A company changes its depreciation method because new information indicates that the new method better reflects the pattern in which the asset's economic benefits are consumed. How should the change generally be accounted for?",
+      "choices": [
+        {
+          "id": "far-m3-q41-a0",
+          "text": "Retrospectively by restating all prior periods"
+        },
+        {
+          "id": "far-m3-q41-a1",
+          "text": "Prospectively as a change in estimate effected by a change in accounting principle"
+        },
+        {
+          "id": "far-m3-q41-a2",
+          "text": "As a prior-period error"
+        },
+        {
+          "id": "far-m3-q41-a3",
+          "text": "Directly as an adjustment to retained earnings"
+        }
+      ],
+      "correctChoiceId": "far-m3-q41-a1",
+      "explanation": "A change in depreciation method is generally treated as a change in accounting estimate effected by a change in accounting principle and is accounted for prospectively.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-III",
+        "groupId": "module-3",
+        "topicId": "far-accounting-changes-error-corrections",
+        "taskIds": [
+          "far-accounting-changes-error-corrections.task-2"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m3-q42",
+      "courseId": "far",
+      "moduleId": 3,
+      "lessonId": "far-m3-l1",
+      "topic": "Accounting Changes & Error Corrections",
+      "prompt": "In 2026, a company discovers that a $70,000 expenditure made in 2025 was incorrectly expensed even though it should have been capitalized. The information necessary to apply GAAP correctly was available in 2025. Assuming the error is material, how should the company generally treat the error?",
+      "choices": [
+        {
+          "id": "far-m3-q42-a0",
+          "text": "Treat it as a 2026 change in estimate"
+        },
+        {
+          "id": "far-m3-q42-a1",
+          "text": "Recognize the entire correction in 2026 operating income"
+        },
+        {
+          "id": "far-m3-q42-a2",
+          "text": "Correct the affected prior-period information rather than treating it as a current-period operating item"
+        },
+        {
+          "id": "far-m3-q42-a3",
+          "text": "Account for it prospectively because the asset relates to future periods"
+        }
+      ],
+      "correctChoiceId": "far-m3-q42-a2",
+      "explanation": "The incorrect accounting resulted from information that was available when the original financial statements were prepared, so it is an accounting error. A material prior-period error is generally corrected through restatement of affected prior-period information, with opening balances adjusted when applicable.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-III",
+        "groupId": "module-3",
+        "topicId": "far-accounting-changes-error-corrections",
+        "taskIds": [
+          "far-accounting-changes-error-corrections.task-3"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m3-q43",
+      "courseId": "far",
+      "moduleId": 3,
+      "lessonId": "far-m3-l2",
+      "topic": "Contingencies & Commitments",
+      "prompt": "At year-end, a lawsuit is probable. Management estimates the loss will be between $180,000 and $260,000. Management believes $220,000 is a better estimate than any other amount within the range. What amount should generally be accrued?",
+      "choices": [
+        {
+          "id": "far-m3-q43-a0",
+          "text": "$180,000"
+        },
+        {
+          "id": "far-m3-q43-a1",
+          "text": "$220,000"
+        },
+        {
+          "id": "far-m3-q43-a2",
+          "text": "$260,000"
+        },
+        {
+          "id": "far-m3-q43-a3",
+          "text": "$0, with disclosure only"
+        }
+      ],
+      "correctChoiceId": "far-m3-q43-a1",
+      "explanation": "When one amount within a reasonably estimable range is a better estimate than the others, that amount is generally accrued. Therefore, the company accrues $220,000.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-III",
+        "groupId": "module-3",
+        "topicId": "far-contingencies-commitments",
+        "taskIds": [
+          "far-contingencies-commitments.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m3-q44",
+      "courseId": "far",
+      "moduleId": 3,
+      "lessonId": "far-m3-l2",
+      "topic": "Contingencies & Commitments",
+      "prompt": "A company has a firm, noncancelable commitment to purchase inventory for $300,000. Before delivery, the applicable measurement amount of the inventory declines to $245,000, and the requirements for recognizing a loss on the commitment are met. What loss should generally be recognized?",
+      "choices": [
+        {
+          "id": "far-m3-q44-a0",
+          "text": "$0 because the inventory has not yet been delivered"
+        },
+        {
+          "id": "far-m3-q44-a1",
+          "text": "$245,000"
+        },
+        {
+          "id": "far-m3-q44-a2",
+          "text": "$55,000"
+        },
+        {
+          "id": "far-m3-q44-a3",
+          "text": "$300,000"
+        }
+      ],
+      "correctChoiceId": "far-m3-q44-a2",
+      "explanation": "When the requirements for recognizing a loss on a firm purchase commitment are met, the expected loss is generally recognized before delivery. The loss is $300,000 − $245,000 = $55,000.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-III",
+        "groupId": "module-3",
+        "topicId": "far-contingencies-commitments",
+        "taskIds": [
+          "far-contingencies-commitments.task-2"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m3-q45",
+      "courseId": "far",
+      "moduleId": 3,
+      "lessonId": "far-m3-l3",
+      "topic": "Revenue Recognition",
+      "prompt": "Which situation most clearly supports recognizing revenue over time under ASC 606?",
+      "choices": [
+        {
+          "id": "far-m3-q45-a0",
+          "text": "The customer receives control only when a completed standard product is delivered"
+        },
+        {
+          "id": "far-m3-q45-a1",
+          "text": "The seller manufactures standard inventory that can readily be sold to another customer"
+        },
+        {
+          "id": "far-m3-q45-a2",
+          "text": "The customer simultaneously receives and consumes the benefits of the entity's performance as the entity performs"
+        },
+        {
+          "id": "far-m3-q45-a3",
+          "text": "The customer pays the entire contract price before production begins"
+        }
+      ],
+      "correctChoiceId": "far-m3-q45-a2",
+      "explanation": "A performance obligation is satisfied over time when, among other qualifying criteria, the customer simultaneously receives and consumes the benefits provided by the entity's performance as the entity performs.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-III",
+        "groupId": "module-3",
+        "topicId": "far-revenue-recognition",
+        "taskIds": [
+          "far-revenue-recognition.task-3"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m3-q46",
+      "courseId": "far",
+      "moduleId": 3,
+      "lessonId": "far-m3-l3",
+      "topic": "Revenue Recognition",
+      "prompt": "An entity has transferred services to a customer and recognized revenue, but its right to consideration depends on completing an additional performance milestone rather than merely waiting for payment. What should the entity generally recognize for the conditional right to consideration?",
+      "choices": [
+        {
+          "id": "far-m3-q46-a0",
+          "text": "A contract asset"
+        },
+        {
+          "id": "far-m3-q46-a1",
+          "text": "Accounts receivable"
+        },
+        {
+          "id": "far-m3-q46-a2",
+          "text": "A contract liability"
+        },
+        {
+          "id": "far-m3-q46-a3",
+          "text": "Deferred tax asset"
+        }
+      ],
+      "correctChoiceId": "far-m3-q46-a0",
+      "explanation": "A contract asset may arise when an entity has transferred goods or services but its right to consideration remains conditional on something other than the passage of time.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-III",
+        "groupId": "module-3",
+        "topicId": "far-revenue-recognition",
+        "taskIds": [
+          "far-revenue-recognition.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m3-q47",
+      "courseId": "far",
+      "moduleId": 3,
+      "lessonId": "far-m3-l3",
+      "topic": "Revenue Recognition",
+      "prompt": "A company sells Equipment A and Service B for a combined transaction price of $1,080. Their standalone selling prices are $900 and $300, respectively. How much of the transaction price should generally be allocated to Service B?",
+      "choices": [
+        {
+          "id": "far-m3-q47-a0",
+          "text": "$180"
+        },
+        {
+          "id": "far-m3-q47-a1",
+          "text": "$270"
+        },
+        {
+          "id": "far-m3-q47-a2",
+          "text": "$300"
+        },
+        {
+          "id": "far-m3-q47-a3",
+          "text": "$360"
+        }
+      ],
+      "correctChoiceId": "far-m3-q47-a1",
+      "explanation": "Total standalone selling prices are $1,200. Service B represents 25% of the total ($300 ÷ $1,200). Therefore, $1,080 × 25% = $270 is allocated to Service B.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-III",
+        "groupId": "module-3",
+        "topicId": "far-revenue-recognition",
+        "taskIds": [
+          "far-revenue-recognition.task-2"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m3-q48",
+      "courseId": "far",
+      "moduleId": 3,
+      "lessonId": "far-m3-l4",
+      "topic": "Accounting for Income Taxes",
+      "prompt": "A company has taxable income of $600,000 and a 25% enacted current tax rate. During the year, its net deferred tax liability increases by $20,000, with the change recognized in income. Ignoring other tax effects, what total income tax expense should generally be recognized?",
+      "choices": [
+        {
+          "id": "far-m3-q48-a0",
+          "text": "$130,000"
+        },
+        {
+          "id": "far-m3-q48-a1",
+          "text": "$150,000"
+        },
+        {
+          "id": "far-m3-q48-a2",
+          "text": "$170,000"
+        },
+        {
+          "id": "far-m3-q48-a3",
+          "text": "$620,000"
+        }
+      ],
+      "correctChoiceId": "far-m3-q48-a2",
+      "explanation": "Current tax expense is $600,000 × 25% = $150,000. The $20,000 increase in the net deferred tax liability produces deferred tax expense, so total income tax expense is $170,000.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-III",
+        "groupId": "module-3",
+        "topicId": "far-accounting-for-income-taxes",
+        "taskIds": [
+          "far-accounting-for-income-taxes.task-3"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m3-q49",
+      "courseId": "far",
+      "moduleId": 3,
+      "lessonId": "far-m3-l4",
+      "topic": "Accounting for Income Taxes",
+      "prompt": "A deductible temporary difference of $240,000 creates a gross deferred tax asset at an enacted tax rate of 25%. Based on available evidence, a $18,000 valuation allowance is required. What net deferred tax asset should generally be reported?",
+      "choices": [
+        {
+          "id": "far-m3-q49-a0",
+          "text": "$42,000"
+        },
+        {
+          "id": "far-m3-q49-a1",
+          "text": "$60,000"
+        },
+        {
+          "id": "far-m3-q49-a2",
+          "text": "$78,000"
+        },
+        {
+          "id": "far-m3-q49-a3",
+          "text": "$18,000"
+        }
+      ],
+      "correctChoiceId": "far-m3-q49-a0",
+      "explanation": "The gross DTA is $240,000 × 25% = $60,000. After subtracting the $18,000 valuation allowance, the net DTA is $42,000.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-III",
+        "groupId": "module-3",
+        "topicId": "far-accounting-for-income-taxes",
+        "taskIds": [
+          "far-accounting-for-income-taxes.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m3-q50",
+      "courseId": "far",
+      "moduleId": 3,
+      "lessonId": "far-m3-l5",
+      "topic": "Fair Value Measurements",
+      "prompt": "An asset would sell for $500,000 in its principal market. Selling the asset would require $12,000 of transaction costs. Assume there are no transportation costs. What is the asset's fair value?",
+      "choices": [
+        {
+          "id": "far-m3-q50-a0",
+          "text": "$488,000"
+        },
+        {
+          "id": "far-m3-q50-a1",
+          "text": "$500,000"
+        },
+        {
+          "id": "far-m3-q50-a2",
+          "text": "$512,000"
+        },
+        {
+          "id": "far-m3-q50-a3",
+          "text": "$12,000"
+        }
+      ],
+      "correctChoiceId": "far-m3-q50-a1",
+      "explanation": "Transaction costs are generally not deducted from the fair value measurement because they are not an attribute of the asset or liability. Therefore, fair value remains $500,000.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-III",
+        "groupId": "module-3",
+        "topicId": "far-fair-value-measurements",
+        "taskIds": [
+          "far-fair-value-measurements.task-2"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m3-q51",
+      "courseId": "far",
+      "moduleId": 3,
+      "lessonId": "far-m3-l5",
+      "topic": "Fair Value Measurements",
+      "prompt": "A commodity located at the entity's facility could be sold for $210,000 in the principal market. Because location is an attribute of the asset, $8,000 of transportation costs would be required to transport it from its current location to that market. Ignoring transaction costs, what fair value should generally be measured?",
+      "choices": [
+        {
+          "id": "far-m3-q51-a0",
+          "text": "$202,000"
+        },
+        {
+          "id": "far-m3-q51-a1",
+          "text": "$210,000"
+        },
+        {
+          "id": "far-m3-q51-a2",
+          "text": "$218,000"
+        },
+        {
+          "id": "far-m3-q51-a3",
+          "text": "$8,000"
+        }
+      ],
+      "correctChoiceId": "far-m3-q51-a0",
+      "explanation": "When location is an attribute of the asset, the market price is adjusted for transportation costs necessary to move the asset from its current location to the principal market. Fair value is $210,000 − $8,000 = $202,000.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-III",
+        "groupId": "module-3",
+        "topicId": "far-fair-value-measurements",
+        "taskIds": [
+          "far-fair-value-measurements.task-3"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m3-q52",
+      "courseId": "far",
+      "moduleId": 3,
+      "lessonId": "far-m3-l5",
+      "topic": "Fair Value Measurements",
+      "prompt": "An entity can access two markets for an asset. Market A has the greatest volume and level of activity. Market B would produce a higher net amount after transaction costs. Which market should generally be used to measure fair value?",
+      "choices": [
+        {
+          "id": "far-m3-q52-a0",
+          "text": "Market B because it produces the highest net proceeds"
+        },
+        {
+          "id": "far-m3-q52-a1",
+          "text": "Whichever market management prefers"
+        },
+        {
+          "id": "far-m3-q52-a2",
+          "text": "Market A because it is the principal market"
+        },
+        {
+          "id": "far-m3-q52-a3",
+          "text": "An average of Markets A and B"
+        }
+      ],
+      "correctChoiceId": "far-m3-q52-a2",
+      "explanation": "When a principal market exists, fair value is generally measured using that market. The most advantageous market is considered only when there is no principal market.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-III",
+        "groupId": "module-3",
+        "topicId": "far-fair-value-measurements",
+        "taskIds": [
+          "far-fair-value-measurements.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m3-q53",
+      "courseId": "far",
+      "moduleId": 3,
+      "lessonId": "far-m3-l6",
+      "topic": "Lessee Accounting",
+      "prompt": "A lease does not transfer ownership and contains no purchase option. However, the underlying asset is highly specialized and is expected to have no alternative use to the lessor at the end of the lease term. How should the lessee generally classify the lease?",
+      "choices": [
+        {
+          "id": "far-m3-q53-a0",
+          "text": "Operating lease because ownership does not transfer"
+        },
+        {
+          "id": "far-m3-q53-a1",
+          "text": "Finance lease because a finance lease classification criterion is met"
+        },
+        {
+          "id": "far-m3-q53-a2",
+          "text": "Short-term lease"
+        },
+        {
+          "id": "far-m3-q53-a3",
+          "text": "The lease cannot be recognized"
+        }
+      ],
+      "correctChoiceId": "far-m3-q53-a1",
+      "explanation": "A lease is classified as a finance lease when one or more applicable classification criteria are met. A highly specialized underlying asset expected to have no alternative use to the lessor is one of those criteria.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-III",
+        "groupId": "module-3",
+        "topicId": "far-lessee-accounting",
+        "taskIds": [
+          "far-lessee-accounting.task-2"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m3-q54",
+      "courseId": "far",
+      "moduleId": 3,
+      "lessonId": "far-m3-l6",
+      "topic": "Lessee Accounting",
+      "prompt": "Which statement best describes the subsequent expense pattern for an operating lease by a lessee under ASC 842?",
+      "choices": [
+        {
+          "id": "far-m3-q54-a0",
+          "text": "The lessee generally recognizes no expense after commencement"
+        },
+        {
+          "id": "far-m3-q54-a1",
+          "text": "The lessee always reports separate interest and amortization expenses"
+        },
+        {
+          "id": "far-m3-q54-a2",
+          "text": "The lessee generally recognizes a single lease expense, typically on a straight-line basis over the lease term"
+        },
+        {
+          "id": "far-m3-q54-a3",
+          "text": "The entire remaining lease liability is expensed immediately"
+        }
+      ],
+      "correctChoiceId": "far-m3-q54-a2",
+      "explanation": "For an operating lease, a lessee generally recognizes a single lease expense, typically on a straight-line basis over the lease term.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-III",
+        "groupId": "module-3",
+        "topicId": "far-lessee-accounting",
+        "taskIds": [
+          "far-lessee-accounting.task-3"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m3-q55",
+      "courseId": "far",
+      "moduleId": 3,
+      "lessonId": "far-m3-l6",
+      "topic": "Lessee Accounting",
+      "prompt": "A lessee enters into a 10-month lease. The agreement contains a purchase option that the lessee is reasonably certain to exercise. Does the lease qualify for the short-term lease recognition exemption solely because its stated term is less than 12 months?",
+      "choices": [
+        {
+          "id": "far-m3-q55-a0",
+          "text": "Yes, because every lease of 12 months or less qualifies"
+        },
+        {
+          "id": "far-m3-q55-a1",
+          "text": "Yes, if the payments are made monthly"
+        },
+        {
+          "id": "far-m3-q55-a2",
+          "text": "No, because a qualifying short-term lease cannot contain a purchase option the lessee is reasonably certain to exercise"
+        },
+        {
+          "id": "far-m3-q55-a3",
+          "text": "No, because all leases must have terms longer than one year"
+        }
+      ],
+      "correctChoiceId": "far-m3-q55-a2",
+      "explanation": "A short-term lease generally has a lease term of 12 months or less at commencement and does not include a purchase option that the lessee is reasonably certain to exercise.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-III",
+        "groupId": "module-3",
+        "topicId": "far-lessee-accounting",
+        "taskIds": [
+          "far-lessee-accounting.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m3-q56",
+      "courseId": "far",
+      "moduleId": 3,
+      "lessonId": "far-m3-l8",
+      "topic": "Revenue Recognition — Advanced Applications",
+      "prompt": "A contract provides a fixed price of $400,000 plus a $60,000 performance bonus. The entity concludes that including the bonus would not satisfy the variable consideration constraint because a significant revenue reversal is probable when the uncertainty is resolved. What amount should generally be included in the transaction price at that time?",
+      "choices": [
+        {
+          "id": "far-m3-q56-a0",
+          "text": "$340,000"
+        },
+        {
+          "id": "far-m3-q56-a1",
+          "text": "$400,000"
+        },
+        {
+          "id": "far-m3-q56-a2",
+          "text": "$430,000"
+        },
+        {
+          "id": "far-m3-q56-a3",
+          "text": "$460,000"
+        }
+      ],
+      "correctChoiceId": "far-m3-q56-a1",
+      "explanation": "Variable consideration is included only to the extent that it is probable that a significant reversal of cumulative revenue will not occur. Because the $60,000 bonus does not satisfy the constraint, the transaction price includes only the $400,000 fixed consideration.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-III",
+        "groupId": "module-3",
+        "topicId": "far-revenue-recognition-advanced-applications",
+        "taskIds": [
+          "far-revenue-recognition-advanced-applications.task-2"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m3-q57",
+      "courseId": "far",
+      "moduleId": 3,
+      "lessonId": "far-m3-l8",
+      "topic": "Revenue Recognition — Advanced Applications",
+      "prompt": "A contract is modified, but the modification does not qualify as a separate contract. The remaining goods are distinct from those already transferred. How is the modification generally accounted for?",
+      "choices": [
+        {
+          "id": "far-m3-q57-a0",
+          "text": "As a prior-period error"
+        },
+        {
+          "id": "far-m3-q57-a1",
+          "text": "Through a cumulative catch-up adjustment in all cases"
+        },
+        {
+          "id": "far-m3-q57-a2",
+          "text": "Prospectively, effectively as termination of the existing contract and creation of a new contract"
+        },
+        {
+          "id": "far-m3-q57-a3",
+          "text": "By ignoring the modification until all remaining goods are delivered"
+        }
+      ],
+      "correctChoiceId": "far-m3-q57-a2",
+      "explanation": "When a modification is not a separate contract and the remaining goods or services are distinct from those already transferred, the modification is generally accounted for prospectively, effectively as termination of the old contract and creation of a new contract.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-III",
+        "groupId": "module-3",
+        "topicId": "far-revenue-recognition-advanced-applications",
+        "taskIds": [
+          "far-revenue-recognition-advanced-applications.task-3"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m3-q58",
+      "courseId": "far",
+      "moduleId": 3,
+      "lessonId": "far-m3-l8",
+      "topic": "Revenue Recognition — Advanced Applications",
+      "prompt": "At contract inception, an entity expects that a customer will pay for a promised service six months after the service is transferred. Which statement is generally correct regarding a significant financing component?",
+      "choices": [
+        {
+          "id": "far-m3-q58-a0",
+          "text": "The entity must always recognize six months of financing income"
+        },
+        {
+          "id": "far-m3-q58-a1",
+          "text": "The entity may generally use the practical expedient and need not adjust consideration for a significant financing component because the expected period is one year or less"
+        },
+        {
+          "id": "far-m3-q58-a2",
+          "text": "The arrangement automatically creates a contract liability"
+        },
+        {
+          "id": "far-m3-q58-a3",
+          "text": "Revenue cannot be recognized until cash is collected"
+        }
+      ],
+      "correctChoiceId": "far-m3-q58-a1",
+      "explanation": "An entity may generally elect the practical expedient not to adjust consideration for a significant financing component when it expects, at contract inception, that the period between transfer and payment will be one year or less.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-III",
+        "groupId": "module-3",
+        "topicId": "far-revenue-recognition-advanced-applications",
+        "taskIds": [
+          "far-revenue-recognition-advanced-applications.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m3-q59",
+      "courseId": "far",
+      "moduleId": 3,
+      "lessonId": "far-m3-l9",
+      "topic": "Deferred Taxes & Valuation Allowances",
+      "prompt": "A company has a $400,000 deductible temporary difference. Its deferred tax asset was previously measured using a 20% enacted rate. A new 25% tax rate is enacted and is expected to apply when the difference reverses. Ignoring any valuation allowance, by how much should the deferred tax asset increase?",
+      "choices": [
+        {
+          "id": "far-m3-q59-a0",
+          "text": "$20,000"
+        },
+        {
+          "id": "far-m3-q59-a1",
+          "text": "$80,000"
+        },
+        {
+          "id": "far-m3-q59-a2",
+          "text": "$100,000"
+        },
+        {
+          "id": "far-m3-q59-a3",
+          "text": "$5,000"
+        }
+      ],
+      "correctChoiceId": "far-m3-q59-a0",
+      "explanation": "The old DTA is $400,000 × 20% = $80,000. The remeasured DTA is $400,000 × 25% = $100,000. Therefore, the DTA increases by $20,000.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-III",
+        "groupId": "module-3",
+        "topicId": "far-deferred-taxes-valuation-allowances",
+        "taskIds": [
+          "far-deferred-taxes-valuation-allowances.task-2"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "far-m3-q60",
+      "courseId": "far",
+      "moduleId": 3,
+      "lessonId": "far-m3-l10",
+      "topic": "Integrated Select Transactions Review",
+      "prompt": "At December 31, a company has the following items: (1) a probable and reasonably estimable lawsuit loss of $90,000, (2) $48,000 received in advance for services to be performed next year, and (3) a $120,000 temporary difference that will create future taxable amounts at a 25% enacted tax rate. What liabilities should generally be recognized from these three items?",
+      "choices": [
+        {
+          "id": "far-m3-q60-a0",
+          "text": "$90,000 lawsuit liability, $48,000 contract liability, and $30,000 deferred tax liability"
+        },
+        {
+          "id": "far-m3-q60-a1",
+          "text": "$90,000 lawsuit liability and $48,000 revenue, with no deferred tax liability"
+        },
+        {
+          "id": "far-m3-q60-a2",
+          "text": "$48,000 contract liability and $30,000 deferred tax asset only"
+        },
+        {
+          "id": "far-m3-q60-a3",
+          "text": "$90,000 lawsuit liability and $120,000 deferred tax liability only"
+        }
+      ],
+      "correctChoiceId": "far-m3-q60-a0",
+      "explanation": "The probable and estimable lawsuit creates a $90,000 liability. Cash received before performance creates a $48,000 contract liability. The $120,000 future taxable temporary difference creates a DTL of $120,000 × 25% = $30,000.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "far",
+        "blueprintYear": 2026,
+        "areaId": "far-III",
+        "groupId": "module-3",
+        "topicId": "far-integrated-select-transactions-review",
+        "taskIds": [
+          "far-integrated-select-transactions-review.task-3"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    }
+  ]
+}

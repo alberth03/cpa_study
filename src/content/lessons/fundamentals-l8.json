@@ -1,0 +1,88 @@
+{
+  "id": "fundamentals-l8",
+  "courseId": "fundamentals",
+  "moduleId": 0,
+  "number": 8,
+  "title": "Trial Balance",
+  "description": "Check whether your debits and credits are balanced.",
+  "url": "/learn/fundamentals/lessons/8",
+  "html": "<h2>What is a trial balance?</h2> <p> A trial balance is a list of all general ledger accounts and their balances at a specific date. </p> <p> Its main purpose is to check whether total debit balances equal total credit balances. </p> <div class=\"formula-box\"> Total Debit Balances = Total Credit Balances </div> <h2>Example trial balance</h2> <div class=\"trial-balance-table\"> <div class=\"tb-row tb-header\"> <div>Account</div> <div>Debit</div> <div>Credit</div> </div> <div class=\"tb-row\"> <div>Cash</div> <div>$15,000</div> <div>—</div> </div> <div class=\"tb-row\"> <div>Equipment</div> <div>$10,000</div> <div>—</div> </div> <div class=\"tb-row\"> <div>Accounts Payable</div> <div>—</div> <div>$5,000</div> </div> <div class=\"tb-row\"> <div>Common Stock</div> <div>—</div> <div>$15,000</div> </div> <div class=\"tb-row\"> <div>Revenue</div> <div>—</div> <div>$5,000</div> </div> <div class=\"tb-row tb-total\"> <div>Total</div> <div>$25,000</div> <div>$25,000</div> </div> </div> <h2>Does a balanced trial balance mean everything is correct?</h2> <p> No. </p> <p> A trial balance can still balance even when certain accounting errors exist. </p> <div class=\"example-box\"> <h3>Example of an error that still balances</h3> <p> Suppose a company buys Equipment for $3,000 cash, but accidentally debits Supplies instead of Equipment. </p> <p> The debit is still $3,000 and the credit is still $3,000, so the trial balance can still balance. </p> <p> But the wrong account was used. </p> </div> <div class=\"key-points\"> <h3>Important</h3> <ul> <li>A trial balance checks debit and credit equality.</li> <li>It is prepared from ledger balances.</li> <li>A balanced trial balance does not guarantee no errors exist.</li> <li>It is an important step before preparing financial statements.</li> </ul> </div>",
+  "quiz": {
+    "id": "fundamentals-l8-check",
+    "courseId": "fundamentals",
+    "moduleId": 0,
+    "lessonId": "fundamentals-l8",
+    "topic": "General review",
+    "prompt": "If a trial balance has $42,000 of total debits, what should total credits equal?",
+    "choices": [
+      {
+        "id": "fundamentals-l8-check-a0",
+        "text": "$21,000"
+      },
+      {
+        "id": "fundamentals-l8-check-a1",
+        "text": "$42,000"
+      },
+      {
+        "id": "fundamentals-l8-check-a2",
+        "text": "$84,000"
+      },
+      {
+        "id": "fundamentals-l8-check-a3",
+        "text": "It cannot be determined"
+      }
+    ],
+    "correctChoiceId": "fundamentals-l8-check-a1",
+    "explanation": "For a balanced trial balance, total debit balances must equal total credit balances.",
+    "difficulty": "foundation",
+    "metadata": {
+      "section": "fundamentals",
+      "blueprintYear": 2026,
+      "areaId": "fundamentals-I",
+      "groupId": "module-0",
+      "topicId": "fundamentals-trial-balance",
+      "taskIds": [
+        "fundamentals-trial-balance.task-1",
+        "fundamentals-trial-balance.task-2",
+        "fundamentals-trial-balance.task-3"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "section": "fundamentals",
+    "blueprintYear": 2026,
+    "areaId": "fundamentals-I",
+    "groupId": "module-0",
+    "topicId": "fundamentals-trial-balance",
+    "taskIds": [
+      "fundamentals-trial-balance.task-1",
+      "fundamentals-trial-balance.task-2",
+      "fundamentals-trial-balance.task-3"
+    ],
+    "skill": "application",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      }
+    ]
+  },
+  "objectives": [
+    "Explain trial balance and its underlying principles.",
+    "Apply the topic to a financial-reporting scenario.",
+    "Evaluate common errors and their financial-statement effects."
+  ]
+}

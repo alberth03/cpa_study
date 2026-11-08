@@ -1,0 +1,88 @@
+{
+  "id": "far-m3-l4",
+  "courseId": "far",
+  "moduleId": 3,
+  "number": 4,
+  "title": "Accounting for Income Taxes",
+  "description": "Understand current tax expense, deferred tax assets, deferred tax liabilities, and temporary differences.",
+  "url": "/learn/far/modules/3/lessons/4",
+  "html": "<h2> Accounting for Income Taxes </h2> <p> Financial accounting income and taxable income are often different because GAAP and tax law recognize certain items in different periods. </p> <h3> 1. Current Tax Expense </h3> <p> Current income tax expense generally represents the amount of income taxes payable for the current year. </p> <div class=\"formula-box\"> Taxable Income × Enacted Tax Rate = Current Tax Payable </div> <div class=\"example-box\"> <strong> Example </strong> <p> Taxable income is $400,000 and the enacted tax rate is 25%. </p> <div class=\"formula-box\"> $400,000 × 25% = $100,000 </div> <p> Current income taxes payable are $100,000. </p> </div> <h3> 2. Temporary Differences </h3> <p> Temporary differences arise when the carrying amount of an asset or liability differs from its tax basis and the difference will reverse in a future period. </p> <div class=\"key-points\"> <strong> CPA Focus: </strong> <p> Ask what will happen to taxable income when the temporary difference reverses. </p> </div> <h3> 3. Deferred Tax Liability </h3> <p> A deferred tax liability generally arises when a temporary difference will produce taxable amounts in future periods. </p> <div class=\"financial-example\"> <div> <span> Future Taxable Amount </span> <strong> Deferred Tax Liability </strong> </div> </div> <div class=\"example-box\"> <strong> Example — Depreciation </strong> <p> Assume equipment has a financial statement carrying amount of $150,000 but a tax basis of $110,000. </p> <p> The taxable temporary difference is: </p> <div class=\"formula-box\"> $150,000 − $110,000 = $40,000 </div> <p> If the enacted tax rate is 25%: </p> <div class=\"formula-box\"> $40,000 × 25% = $10,000 DTL </div> </div> <h3> 4. Deferred Tax Asset </h3> <p> A deferred tax asset generally arises when a temporary difference will produce deductible amounts in future periods. </p> <div class=\"financial-example\"> <div> <span> Future Deductible Amount </span> <strong> Deferred Tax Asset </strong> </div> </div> <div class=\"example-box\"> <strong> Example — Accrued Warranty Expense </strong> <p> A company records a $60,000 warranty expense for financial reporting purposes this year, but the amount will not be deductible for tax purposes until the warranty costs are actually paid in the future. </p> <p> At a 25% tax rate: </p> <div class=\"formula-box\"> $60,000 × 25% = $15,000 DTA </div> </div> <h3> Valuation Allowance for Deferred Tax Assets </h3> <p> After recognizing a deferred tax asset, a company must evaluate whether some or all of that asset is expected to be realized. </p> <div class=\"key-points\"> <p> If, based on the available evidence, it is more likely than not that some portion or all of a deferred tax asset will not be realized, a valuation allowance is recognized to reduce the deferred tax asset to the amount expected to be realized. </p> </div> <div class=\"example-box\"> <strong> Example </strong> <p> A company has a gross deferred tax asset of $50,000. Based on the available positive and negative evidence, management concludes that $15,000 of the benefit is more likely than not not to be realized. </p> <div class=\"formula-box\"> Gross DTA $50,000 − Valuation Allowance $15,000 = Net DTA $35,000 </div> </div> <h3> 5. Permanent Differences </h3> <p> Permanent differences affect book income or taxable income but do not reverse in future periods. </p> <p> Because they do not reverse, permanent differences do not create deferred tax assets or liabilities. </p> <div class=\"financial-example\"> <div> <span> Temporary Difference </span> <strong> Creates DTA or DTL </strong> </div> <div> <span> Permanent Difference </span> <strong> No Deferred Tax </strong> </div> </div> <h3> 6. Income Tax Expense </h3> <p> Total income tax expense generally includes both the current tax component and the deferred tax component. </p> <div class=\"formula-box\"> Income Tax Expense (or Benefit) = Current Tax Expense (or Benefit) + Deferred Tax Expense (or Benefit) </div> <p> A net increase in deferred tax liabilities, or a net decrease in deferred tax assets, generally produces deferred tax expense. </p> <p> A net increase in deferred tax assets, or a net decrease in deferred tax liabilities, generally produces a deferred tax benefit. </p> <h3> CPA Exam Memory Rule </h3> <div class=\"formula-box\"> Future Taxable → DTL Future Deductible → DTA Permanent Difference → No Deferred Tax </div> <div class=\"key-points\"> <h3> Key Takeaways </h3> <ul> <li> Current tax payable is based on taxable income under tax law. </li> <li> Temporary differences reverse in future periods. </li> <li> Future taxable amounts generally create deferred tax liabilities. </li> <li> Future deductible amounts generally create deferred tax assets. </li> <li> Permanent differences do not create deferred taxes. </li> <li> Deferred taxes are measured using enacted tax rates expected to apply when the differences reverse. </li> </ul> </div>",
+  "quiz": {
+    "id": "far-m3-l4-check",
+    "courseId": "far",
+    "moduleId": 3,
+    "lessonId": "far-m3-l4",
+    "topic": "General review",
+    "prompt": "A company has an equipment carrying amount of $180,000 and a tax basis of $140,000. The $40,000 difference will result in future taxable amounts. If the enacted tax rate is 25%, what deferred tax amount should generally be recognized?",
+    "choices": [
+      {
+        "id": "far-m3-l4-check-a0",
+        "text": "$10,000 deferred tax asset"
+      },
+      {
+        "id": "far-m3-l4-check-a1",
+        "text": "$40,000 deferred tax liability"
+      },
+      {
+        "id": "far-m3-l4-check-a2",
+        "text": "$0 because the difference has not yet reversed"
+      },
+      {
+        "id": "far-m3-l4-check-a3",
+        "text": "$10,000 deferred tax liability"
+      }
+    ],
+    "correctChoiceId": "far-m3-l4-check-a3",
+    "explanation": "The $40,000 taxable temporary difference creates a deferred tax liability. $40,000 × 25% = $10,000.",
+    "difficulty": "foundation",
+    "metadata": {
+      "section": "far",
+      "blueprintYear": 2026,
+      "areaId": "far-III",
+      "groupId": "module-3",
+      "topicId": "far-accounting-for-income-taxes",
+      "taskIds": [
+        "far-accounting-for-income-taxes.task-1",
+        "far-accounting-for-income-taxes.task-2",
+        "far-accounting-for-income-taxes.task-3"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "section": "far",
+    "blueprintYear": 2026,
+    "areaId": "far-III",
+    "groupId": "module-3",
+    "topicId": "far-accounting-for-income-taxes",
+    "taskIds": [
+      "far-accounting-for-income-taxes.task-1",
+      "far-accounting-for-income-taxes.task-2",
+      "far-accounting-for-income-taxes.task-3"
+    ],
+    "skill": "application",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      }
+    ]
+  },
+  "objectives": [
+    "Explain accounting for income taxes and its underlying principles.",
+    "Apply the topic to a financial-reporting scenario.",
+    "Evaluate common errors and their financial-statement effects."
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "id": "reg-m3-l2",
+  "courseId": "reg",
+  "moduleId": 3,
+  "number": 2,
+  "title": "Depreciation, Expensing & Capitalization",
+  "description": "Apply cost-recovery assumptions in the proper order.",
+  "url": "/learn/reg/modules/3/lessons/2",
+  "metadata": {
+    "section": "reg",
+    "blueprintYear": 2026,
+    "areaId": "reg-III",
+    "groupId": "B",
+    "topicId": "reg-property-depreciation",
+    "taskIds": [
+      "reg-property-depreciation.task-1",
+      "reg-property-depreciation.task-2",
+      "reg-property-depreciation.task-3"
+    ],
+    "skill": "application",
+    "validFrom": "2026-07-01",
+    "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      },
+      {
+        "title": "Internal Revenue Code",
+        "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+      },
+      {
+        "title": "IRS tax publications",
+        "url": "https://www.irs.gov/publications"
+      },
+      {
+        "title": "Circular 230",
+        "url": "https://www.irs.gov/tax-professionals/circular-230-tax-professionals"
+      }
+    ]
+  },
+  "html": "<h2>Learning objectives</h2><ul><li>Apply cost-recovery assumptions in the proper order.</li><li>Distinguish capital improvements from current expenditures.</li><li>Track tax-law periods, conventions, and limits.</li></ul><h2>Understand the concepts</h2><p>Tax cost recovery requires identifying qualifying property, basis, placed-in-service date, recovery period, method, and convention. Tax depreciation may differ from book depreciation. A property purchase near year-end does not necessarily receive a full year of ordinary MACRS depreciation; apply the relevant convention and any supplied table.</p><p>Section 179, additional first-year depreciation, and ordinary depreciation interact with eligibility rules, dollar limits, phase-outs, business-income limits, and elections. Apply the law for the stated reference period. The 2025 federal legislation changed several cost-recovery provisions; acquisition and placed-in-service dates and AICPA testing eligibility matter. This course states rates and limits within numerical exercises to avoid silently importing another year’s values.</p><p>In an exercise where expensing and bonus are allowed, apply the specified Section 179 deduction, then the applicable bonus to the remaining eligible basis, then ordinary depreciation to the residual basis using the stated rate. Do not depreciate the same basis twice. Costs that improve, restore, or adapt property may require capitalization, while qualifying ordinary repairs can be current deductions under applicable rules.</p><div class=\"example-box\"><h3>Specified cost-recovery sequence</h3><p>Eligible equipment basis is $100,000. The case allows a $20,000 Section 179 deduction, a 50% bonus rate on the remaining basis, and a 20% first-year rate on the residual. No other limits apply. These are supplied exercise rates, not a claim about a universal 2026 bonus rate.</p><ol><li>Section 179 leaves $80,000.</li><li>Bonus is $40,000, leaving $40,000.</li><li>Ordinary depreciation is $8,000; total deduction is $68,000 and remaining basis is $32,000.</li></ol></div><div class=\"key-points\"><h3>Common mistakes to avoid</h3><ul><li>Do not treat supplied training rates as law for every year.</li><li>A placed-in-service date is not necessarily the purchase date.</li><li>The same cost cannot be both fully expensed and depreciated again.</li></ul></div><h2>Apply and connect</h2><p>After solving the worked case, explain which facts determine the result and how a changed assumption would change your conclusion. Use the module questions to test fresh applications, then complete the related simulation before reviewing its solution.</p>",
+  "objectives": [
+    "Apply cost-recovery assumptions in the proper order.",
+    "Distinguish capital improvements from current expenditures.",
+    "Track tax-law periods, conventions, and limits."
+  ],
+  "quiz": {
+    "id": "reg-m3-l2-q1",
+    "courseId": "reg",
+    "moduleId": 3,
+    "lessonId": "reg-m3-l2",
+    "topic": "Depreciation, Expensing & Capitalization",
+    "prompt": "A case permits a $15,000 Section 179 deduction on $75,000 basis, then 100% bonus on the remaining eligible basis. No limits apply. What is total cost recovery?",
+    "choices": [
+      {
+        "id": "reg-m3-l2-q1-a0",
+        "text": "$90,000."
+      },
+      {
+        "id": "reg-m3-l2-q1-a1",
+        "text": "$60,000."
+      },
+      {
+        "id": "reg-m3-l2-q1-a2",
+        "text": "$15,000."
+      },
+      {
+        "id": "reg-m3-l2-q1-a3",
+        "text": "$75,000."
+      }
+    ],
+    "correctChoiceId": "reg-m3-l2-q1-a3",
+    "explanation": "Recover $15,000 under Section 179 and the remaining $60,000 under the supplied bonus assumption; do not deduct basis twice.",
+    "difficulty": "application",
+    "metadata": {
+      "section": "reg",
+      "blueprintYear": 2026,
+      "areaId": "reg-III",
+      "groupId": "B",
+      "topicId": "reg-property-depreciation",
+      "taskIds": [
+        "reg-property-depreciation.task-1"
+      ],
+      "skill": "application",
+      "validFrom": "2026-07-01",
+      "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        },
+        {
+          "title": "Internal Revenue Code",
+          "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+        },
+        {
+          "title": "IRS tax publications",
+          "url": "https://www.irs.gov/publications"
+        },
+        {
+          "title": "Circular 230",
+          "url": "https://www.irs.gov/tax-professionals/circular-230-tax-professionals"
+        }
+      ]
+    }
+  },
+  "relatedSimulation": "reg-m3-tbs2"
+}

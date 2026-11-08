@@ -1,0 +1,62 @@
+{
+  "id": "far-m3-tbs1",
+  "moduleId": 3,
+  "number": 1,
+  "title": "FAR Module 3 · TBS 1",
+  "fields": [
+    {
+      "id": "far-m3-tbs1-equipment",
+      "label": "1. Transaction Price Allocated to Equipment",
+      "type": "number",
+      "options": [],
+      "correct": 90000
+    },
+    {
+      "id": "far-m3-tbs1-service",
+      "label": "2. Transaction Price Allocated to Service Plan",
+      "type": "number",
+      "options": [],
+      "correct": 18000
+    },
+    {
+      "id": "far-m3-tbs1-day1",
+      "label": "3. Revenue Recognized on January 1",
+      "type": "number",
+      "options": [],
+      "correct": 90000
+    },
+    {
+      "id": "far-m3-tbs1-monthly",
+      "label": "4. Monthly Service Revenue",
+      "type": "number",
+      "options": [],
+      "correct": 1500
+    }
+  ],
+  "html": "<section class=\"exam-page\"> <div class=\"course-intro-card\"> <span class=\"exam-badge\"> TASK-BASED SIMULATION </span> <h2> Multiple Performance Obligations </h2> <p> Allocate a contract's transaction price using relative standalone selling prices and determine revenue recognized. </p> </div> <div class=\"quiz-card\"> <h2> Scenario </h2> <p> Nova Corp. enters into a contract with a customer for a total transaction price of <strong>$108,000</strong>. </p> <p> The contract contains two distinct performance obligations: </p> <div class=\"financial-example\"> <div> <span> Equipment </span> <strong> Standalone Selling Price: $100,000 </strong> </div> <div> <span> One-Year Service Plan </span> <strong> Standalone Selling Price: $20,000 </strong> </div> </div> <p> The equipment is delivered to the customer on January 1 and control transfers immediately. </p> <p> The one-year service plan is provided evenly over the next 12 months. </p> <h2> Required </h2> <div class=\"financial-example\"> <div> <span> 1. Transaction Price Allocated to Equipment </span> <input type=\"number\" id=\"far-m3-tbs1-equipment\" placeholder=\"Enter amount\"> </div> <div> <span> 2. Transaction Price Allocated to Service Plan </span> <input type=\"number\" id=\"far-m3-tbs1-service\" placeholder=\"Enter amount\"> </div> <div> <span> 3. Revenue Recognized on January 1 </span> <input type=\"number\" id=\"far-m3-tbs1-day1\" placeholder=\"Enter amount\"> </div> <div> <span> 4. Monthly Service Revenue </span> <input type=\"number\" id=\"far-m3-tbs1-monthly\" placeholder=\"Enter amount\"> </div> </div> <div id=\"far-m3-tbs1-result\"></div> </div> </section>",
+  "explanation": "<div class=\"result-correct\"> <h3> Step 1 — Relative Standalone Selling Prices </h3> <div class=\"formula-box\"> Equipment: $100,000 Service Plan: $20,000 Total: $120,000 </div> <p> Equipment represents: </p> <div class=\"formula-box\"> $100,000 ÷ $120,000 = 83.3333% </div> <p> Service represents: </p> <div class=\"formula-box\"> $20,000 ÷ $120,000 = 16.6667% </div> <h3> Step 2 — Allocate Transaction Price </h3> <div class=\"formula-box\"> Equipment: $108,000 × 83.3333% = $90,000 </div> <div class=\"formula-box\"> Service: $108,000 × 16.6667% = $18,000 </div> <p> <strong> Equipment Allocation: $90,000 </strong> </p> <p> <strong> Service Allocation: $18,000 </strong> </p> <h3> Step 3 — January 1 Revenue </h3> <p> Control of the equipment transfers immediately on January 1. </p> <div class=\"formula-box\"> Revenue Recognized January 1 = $90,000 </div> <h3> Step 4 — Monthly Service Revenue </h3> <p> The $18,000 service allocation is recognized evenly over 12 months. </p> <div class=\"formula-box\"> $18,000 ÷ 12 = $1,500 Per Month </div> <div class=\"key-points\"> <h3> CPA Takeaway </h3> <ul> <li> Allocate transaction price using relative standalone selling prices. </li> <li> Revenue allocated to equipment is recognized when control transfers. </li> <li> Revenue allocated to services is recognized as the services are performed. </li> <li> Cash received and revenue recognized are not necessarily the same amount at the same time. </li> </ul> </div> </div>",
+  "courseId": "far",
+  "difficulty": "advanced",
+  "metadata": {
+    "section": "far",
+    "blueprintYear": 2026,
+    "areaId": "far-III",
+    "groupId": "module-3",
+    "topicId": "far-accounting-changes-error-corrections",
+    "taskIds": [
+      "far-accounting-changes-error-corrections.task-1",
+      "far-accounting-changes-error-corrections.task-2",
+      "far-accounting-changes-error-corrections.task-3"
+    ],
+    "skill": "analysis",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      }
+    ]
+  }
+}

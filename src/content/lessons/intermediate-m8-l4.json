@@ -1,0 +1,88 @@
+{
+  "id": "intermediate-m8-l4",
+  "courseId": "intermediate",
+  "moduleId": 8,
+  "number": 4,
+  "title": "Basic Earnings Per Share",
+  "description": "Calculate basic EPS using income available to common shareholders and weighted-average common shares.",
+  "url": "/learn/intermediate/modules/8/lessons/4",
+  "html": "<h2>What is Basic EPS?</h2> <p> Basic earnings per share measures income available to common shareholders for each weighted-average common share outstanding during the period. </p> <div class=\"formula-box\"> Basic EPS = (Net Income − Preferred Dividends) ÷ Weighted-Average Common Shares Outstanding </div> <h2>Simple example</h2> <p> Assume: </p> <div class=\"financial-example\"> <div> <span>Net Income</span> <strong>$500,000</strong> </div> <div> <span>Preferred Dividends</span> <strong>$20,000</strong> </div> <div> <span>Weighted-Average Common Shares</span> <strong>120,000</strong> </div> </div> <h3>Income available to common shareholders</h3> <div class=\"formula-box\"> $500,000 − $20,000 = $480,000 </div> <h3>Basic EPS</h3> <div class=\"formula-box\"> $480,000 ÷ 120,000 = $4.00 per share </div> <h2>Why weighted-average shares?</h2> <p> The number of shares outstanding can change during the year. Therefore, shares are generally weighted according to the portion of the reporting period they were outstanding. </p> <h2>Weighted-average example</h2> <p> Assume 100,000 common shares are outstanding on January 1. </p> <p> On July 1, the company issues another 40,000 shares. </p> <h3>Original shares</h3> <div class=\"formula-box\"> 100,000 × 12/12 = 100,000 </div> <h3>New shares</h3> <div class=\"formula-box\"> 40,000 × 6/12 = 20,000 </div> <h3>Weighted-average shares</h3> <div class=\"formula-box\"> 100,000 + 20,000 = 120,000 </div> <div class=\"key-points\"> <h3>Important</h3> <p> Do not automatically use ending shares outstanding in the EPS denominator. </p> <p> Shares issued or reacquired during the period generally must be time-weighted. </p> </div> <h2>Stock splits and stock dividends</h2> <p> Stock splits and certain stock dividends require special treatment in EPS calculations. </p> <p> The related share amounts are generally reflected retrospectively for EPS purposes as though the change had occurred at the beginning of the earliest period presented. </p> <div class=\"example-box\"> <h3>Simple stock split idea</h3> <p> If a 2-for-1 stock split occurs, each old share becomes two shares. </p> <p> EPS share data must be adjusted so periods are presented on a comparable basis. </p> </div> <div class=\"key-points\"> <h3>Basic EPS checklist</h3> <ol> <li>Start with net income.</li> <li>Adjust for applicable preferred dividends.</li> <li>Calculate weighted-average common shares.</li> <li>Account properly for stock splits or stock dividends.</li> <li>Divide numerator by denominator.</li> </ol> </div>",
+  "quiz": {
+    "id": "intermediate-m8-l4-check",
+    "courseId": "intermediate",
+    "moduleId": 8,
+    "lessonId": "intermediate-m8-l4",
+    "topic": "General review",
+    "prompt": "A company reports net income of $360,000 and preferred dividends of $20,000. Weighted-average common shares outstanding are 85,000. What is basic EPS?",
+    "choices": [
+      {
+        "id": "intermediate-m8-l4-check-a0",
+        "text": "$3.76"
+      },
+      {
+        "id": "intermediate-m8-l4-check-a1",
+        "text": "$4.00"
+      },
+      {
+        "id": "intermediate-m8-l4-check-a2",
+        "text": "$4.24"
+      },
+      {
+        "id": "intermediate-m8-l4-check-a3",
+        "text": "$4.47"
+      }
+    ],
+    "correctChoiceId": "intermediate-m8-l4-check-a1",
+    "explanation": "Income available to common shareholders = $360,000 − $20,000 = $340,000. Basic EPS = $340,000 ÷ 85,000 = $4.00.",
+    "difficulty": "foundation",
+    "metadata": {
+      "section": "intermediate",
+      "blueprintYear": 2026,
+      "areaId": "intermediate-I",
+      "groupId": "module-8",
+      "topicId": "intermediate-basic-earnings-per-share",
+      "taskIds": [
+        "intermediate-basic-earnings-per-share.task-1",
+        "intermediate-basic-earnings-per-share.task-2",
+        "intermediate-basic-earnings-per-share.task-3"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "section": "intermediate",
+    "blueprintYear": 2026,
+    "areaId": "intermediate-I",
+    "groupId": "module-8",
+    "topicId": "intermediate-basic-earnings-per-share",
+    "taskIds": [
+      "intermediate-basic-earnings-per-share.task-1",
+      "intermediate-basic-earnings-per-share.task-2",
+      "intermediate-basic-earnings-per-share.task-3"
+    ],
+    "skill": "application",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      }
+    ]
+  },
+  "objectives": [
+    "Explain basic earnings per share and its underlying principles.",
+    "Apply the topic to a financial-reporting scenario.",
+    "Evaluate common errors and their financial-statement effects."
+  ]
+}

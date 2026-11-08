@@ -1,0 +1,90 @@
+{
+  "id": "bar-m2-tbs7",
+  "courseId": "bar",
+  "moduleId": 2,
+  "number": 7,
+  "title": "Intangible and software review",
+  "html": "<div class=\"course-intro-card\"><h2>Intangible and software review</h2><p>Apply the accounting models expressly supplied in the case.</p></div><section class=\"quiz-card\"><h3>Required responses</h3><div class=\"tbs-question\"><label for=\"bar-m2-tbs7-f1\">Goodwill impairment</label><input id=\"bar-m2-tbs7-f1\" type=\"text\"></div><div class=\"tbs-question\"><label for=\"bar-m2-tbs7-f2\">Remaining goodwill</label><input id=\"bar-m2-tbs7-f2\" type=\"text\"></div><div class=\"tbs-question\"><label for=\"bar-m2-tbs7-f3\">Capitalized software cost</label><input id=\"bar-m2-tbs7-f3\" type=\"text\"></div><div class=\"tbs-question\"><label for=\"bar-m2-tbs7-f4\">Current training and maintenance expense</label><input id=\"bar-m2-tbs7-f4\" type=\"text\"></div></section>",
+  "metadata": {
+    "section": "bar",
+    "blueprintYear": 2026,
+    "areaId": "bar-II",
+    "groupId": "A-B-C",
+    "topicId": "bar-intangibles-software-research",
+    "taskIds": [
+      "bar-intangibles-software-research.task-1",
+      "bar-intangibles-software-research.task-2",
+      "bar-intangibles-software-research.task-3"
+    ],
+    "skill": "analysis",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      },
+      {
+        "title": "FASB accounting standards",
+        "url": "https://asc.fasb.org/"
+      },
+      {
+        "title": "GASB standards",
+        "url": "https://www.gasb.org/standards-and-implementation"
+      }
+    ]
+  },
+  "difficulty": "advanced",
+  "fields": [
+    {
+      "id": "bar-m2-tbs7-f1",
+      "label": "Goodwill impairment",
+      "type": "number",
+      "options": [],
+      "correct": 220000,
+      "explanation": "$1,500,000 − $1,280,000 = $220,000, below goodwill of $300,000.",
+      "topicId": "bar-intangibles-software-research"
+    },
+    {
+      "id": "bar-m2-tbs7-f2",
+      "label": "Remaining goodwill",
+      "type": "number",
+      "options": [],
+      "correct": 80000,
+      "explanation": "$300,000 − $220,000 = $80,000.",
+      "topicId": "bar-intangibles-software-research"
+    },
+    {
+      "id": "bar-m2-tbs7-f3",
+      "label": "Capitalized software cost",
+      "type": "number",
+      "options": [],
+      "correct": 90000,
+      "explanation": "Only the $90,000 qualifying development cost is capitalized.",
+      "topicId": "bar-intangibles-software-research"
+    },
+    {
+      "id": "bar-m2-tbs7-f4",
+      "label": "Current training and maintenance expense",
+      "type": "number",
+      "options": [],
+      "correct": 20000,
+      "explanation": "$12,000 + $8,000 = $20,000.",
+      "topicId": "bar-intangibles-software-research"
+    }
+  ],
+  "exhibits": [
+    {
+      "id": "bar-m2-tbs7-ex1",
+      "title": "Goodwill",
+      "html": "<p>Reporting-unit carrying amount $1,500,000 includes goodwill $300,000. Fair value is $1,280,000. For this exercise impairment equals the excess capped at goodwill.</p>"
+    },
+    {
+      "id": "bar-m2-tbs7-ex2",
+      "title": "Software policy",
+      "html": "<p>Under the applicable policy, development costs of $90,000 qualify for capitalization. Training $12,000 and maintenance $8,000 are expensed. Ignore amortization for this period.</p>"
+    }
+  ],
+  "explanation": "<h3>Goodwill impairment</h3><p>$1,500,000 − $1,280,000 = $220,000, below goodwill of $300,000.</p><h3>Remaining goodwill</h3><p>$300,000 − $220,000 = $80,000.</p><h3>Capitalized software cost</h3><p>Only the $90,000 qualifying development cost is capitalized.</p><h3>Current training and maintenance expense</h3><p>$12,000 + $8,000 = $20,000.</p>"
+}

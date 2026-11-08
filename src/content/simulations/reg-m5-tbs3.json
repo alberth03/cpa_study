@@ -1,0 +1,95 @@
+{
+  "id": "reg-m5-tbs3",
+  "courseId": "reg",
+  "moduleId": 5,
+  "number": 3,
+  "title": "S corporation shareholder schedule",
+  "html": "<div class=\"course-intro-card\"><h2>S corporation shareholder schedule</h2><p>Analyze stock basis and a cash distribution under simplified stated assumptions.</p></div><section class=\"quiz-card\"><h3>Required responses</h3><div class=\"tbs-question\"><label for=\"reg-m5-tbs3-f1\">Stock basis before distribution</label><input id=\"reg-m5-tbs3-f1\" type=\"text\"></div><div class=\"tbs-question\"><label for=\"reg-m5-tbs3-f2\">Basis created solely by the guarantee</label><input id=\"reg-m5-tbs3-f2\" type=\"text\"></div><div class=\"tbs-question\"><label for=\"reg-m5-tbs3-f3\">Gain on distribution</label><input id=\"reg-m5-tbs3-f3\" type=\"text\"></div><div class=\"tbs-question\"><label for=\"reg-m5-tbs3-f4\">Ending stock basis</label><input id=\"reg-m5-tbs3-f4\" type=\"text\"></div></section>",
+  "metadata": {
+    "section": "reg",
+    "blueprintYear": 2026,
+    "areaId": "reg-V",
+    "groupId": "C",
+    "topicId": "reg-entity-s-corporations",
+    "taskIds": [
+      "reg-entity-s-corporations.task-1",
+      "reg-entity-s-corporations.task-2",
+      "reg-entity-s-corporations.task-3"
+    ],
+    "skill": "analysis",
+    "validFrom": "2026-07-01",
+    "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      },
+      {
+        "title": "Internal Revenue Code",
+        "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+      },
+      {
+        "title": "IRS tax publications",
+        "url": "https://www.irs.gov/publications"
+      },
+      {
+        "title": "Circular 230",
+        "url": "https://www.irs.gov/tax-professionals/circular-230-tax-professionals"
+      }
+    ]
+  },
+  "difficulty": "advanced",
+  "fields": [
+    {
+      "id": "reg-m5-tbs3-f1",
+      "label": "Stock basis before distribution",
+      "type": "number",
+      "options": [],
+      "correct": 50000,
+      "explanation": "$35,000 + $5,000 + $10,000 = $50,000.",
+      "topicId": "reg-entity-s-corporations"
+    },
+    {
+      "id": "reg-m5-tbs3-f2",
+      "label": "Basis created solely by the guarantee",
+      "type": "number",
+      "options": [],
+      "correct": 0,
+      "explanation": "The guarantee alone does not create basis under the supplied facts.",
+      "topicId": "reg-entity-s-corporations"
+    },
+    {
+      "id": "reg-m5-tbs3-f3",
+      "label": "Gain on distribution",
+      "type": "number",
+      "options": [],
+      "correct": 5000,
+      "explanation": "$55,000 exceeds $50,000 stock basis by $5,000.",
+      "topicId": "reg-entity-s-corporations"
+    },
+    {
+      "id": "reg-m5-tbs3-f4",
+      "label": "Ending stock basis",
+      "type": "number",
+      "options": [],
+      "correct": 0,
+      "explanation": "The distribution reduces basis to zero; the excess is recognized gain.",
+      "topicId": "reg-entity-s-corporations"
+    }
+  ],
+  "exhibits": [
+    {
+      "id": "reg-m5-tbs3-ex1",
+      "title": "Shareholder information",
+      "html": "<p>Beginning stock basis $35,000; capital contribution $5,000; allocated income $10,000. The shareholder also guarantees a $60,000 bank loan but makes no payment.</p>"
+    },
+    {
+      "id": "reg-m5-tbs3-ex2",
+      "title": "Distribution assumptions",
+      "html": "<p>The corporation distributes $55,000 cash. There are no accumulated C-corporation earnings and profits or other adjustments. The guarantee alone provides no basis in this case.</p>"
+    }
+  ],
+  "explanation": "<h3>Stock basis before distribution</h3><p>$35,000 + $5,000 + $10,000 = $50,000.</p><h3>Basis created solely by the guarantee</h3><p>The guarantee alone does not create basis under the supplied facts.</p><h3>Gain on distribution</h3><p>$55,000 exceeds $50,000 stock basis by $5,000.</p><h3>Ending stock basis</h3><p>The distribution reduces basis to zero; the excess is recognized gain.</p>"
+}

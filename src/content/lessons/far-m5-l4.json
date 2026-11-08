@@ -1,0 +1,88 @@
+{
+  "id": "far-m5-l4",
+  "courseId": "far",
+  "moduleId": 5,
+  "number": 4,
+  "title": "Conditional Contributions",
+  "description": "Distinguish conditional from unconditional contributions and determine when contribution revenue is recognized.",
+  "url": "/learn/far/modules/5/lessons/4",
+  "html": "<h2> What Is a Conditional Contribution? </h2> <p> A contribution is conditional when the agreement includes both: </p> <div class=\"key-points\"> <ul> <li> A <strong>barrier</strong> that the recipient must overcome. </li> <li> A <strong>right of return</strong> of transferred assets or a <strong>right of release</strong> from the donor's obligation. </li> </ul> </div> <div class=\"formula-box\"> BARRIER + RIGHT OF RETURN OR RIGHT OF RELEASE = CONDITIONAL CONTRIBUTION </div> <h2> Why Conditions Matter </h2> <p> A conditional contribution is generally not recognized as contribution revenue until the barrier has been substantially overcome. </p> <div class=\"formula-box\"> BARRIER NOT YET SUBSTANTIALLY OVERCOME → NO CONTRIBUTION REVENUE YET BARRIER SUBSTANTIALLY OVERCOME → RECOGNIZE CONTRIBUTION </div> <h2> Example — Performance Barrier </h2> <div class=\"example-box\"> <strong> Example </strong> <p> A foundation promises an NFP <strong>$300,000</strong> if the organization successfully provides job training to <strong>500 participants</strong>. </p> <p> The agreement also states that the foundation is released from its promise if the required number of participants is not served. </p> </div> <p> The requirement to serve 500 participants represents a measurable performance barrier. </p> <p> The donor also has a right of release. </p> <div class=\"formula-box\"> PERFORMANCE BARRIER + RIGHT OF RELEASE → CONDITIONAL </div> <h2> Cash Received Before Condition Is Met </h2> <p> Sometimes the donor transfers cash before the recipient has satisfied the condition. </p> <p> If the contribution remains conditional, the recipient generally does not immediately recognize contribution revenue. </p> <div class=\"example-box\"> <strong> Example </strong> <p> An NFP receives <strong>$120,000</strong> in advance under a conditional grant. </p> <p> The agreement requires the NFP to achieve a specified measurable outcome, and the donor can require repayment if the condition is not met. </p> </div> <div class=\"formula-box\"> CASH RECEIVED $120,000 CONDITION NOT YET MET → LIABILITY $120,000 NOT CONTRIBUTION REVENUE </div> <h2> When the Condition Is Met </h2> <p> Once the qualifying barrier has been substantially overcome, the contribution can generally be recognized. </p> <div class=\"formula-box\"> BARRIER SUBSTANTIALLY OVERCOME → LIABILITY ↓ CONTRIBUTION REVENUE ↑ </div> <h2> Condition vs. Restriction </h2> <p> This distinction is one of the most important concepts in NFP contribution accounting. </p> <div class=\"financial-example\"> <div> <span> Condition </span> <strong> Affects Whether Revenue Is Recognized Yet </strong> </div> <div> <span> Restriction </span> <strong> Affects How Recognized Resources May Be Used </strong> </div> </div> <h2> Restriction Example </h2> <p> A donor gives an NFP <strong>$75,000</strong> and requires the money to be used for scholarships. </p> <p> Assume there is no barrier that must be overcome and no right of return. </p> <div class=\"formula-box\"> PURPOSE RESTRICTION BUT NO CONDITION → RECOGNIZE CONTRIBUTION WITH DONOR RESTRICTIONS </div> <h2> Condition Example </h2> <p> A donor promises <strong>$75,000</strong> only if the NFP successfully enrolls 200 students in a specified program. </p> <p> The donor is released from the promise if the target is not achieved. </p> <div class=\"formula-box\"> BARRIER + RIGHT OF RELEASE → WAIT TO RECOGNIZE </div> <h2> Some Indicators of a Barrier </h2> <p> A barrier may involve requirements such as: </p> <div class=\"key-points\"> <ul> <li> Achieving a measurable outcome. </li> <li> Achieving a specified level of service. </li> <li> Meeting a matching requirement. </li> <li> Incurring qualifying expenditures. </li> <li> Following specific requirements that are related to the purpose of the agreement. </li> </ul> </div> <h2> Matching Requirement Example </h2> <div class=\"example-box\"> <strong> Example </strong> <p> A donor promises to contribute <strong>$100,000</strong> if the NFP first raises <strong>$100,000</strong> from other donors. </p> <p> The donor is released from the promise if the matching requirement is not met. </p> </div> <div class=\"formula-box\"> MATCHING REQUIREMENT + RIGHT OF RELEASE → CONDITIONAL CONTRIBUTION </div> <h2> Administrative Requirements </h2> <p> Not every requirement automatically creates a substantive barrier. </p> <p> Routine administrative or reporting requirements alone may not be enough to make an otherwise unconditional contribution conditional. </p> <h2> Conditional AND Restricted </h2> <p> A contribution can contain both a <strong>condition</strong> and a <strong>donor restriction</strong>. </p> <div class=\"example-box\"> <strong> Example </strong> <p> A donor promises $200,000 if an NFP serves 1,000 families. </p> <p> Once earned, the money must be used specifically for food assistance. </p> </div> <div class=\"formula-box\"> FIRST: SATISFY CONDITION ↓ RECOGNIZE CONTRIBUTION THEN: APPLY DONOR RESTRICTION ↓ WITH DONOR RESTRICTIONS </div> <h2> CPA Decision Process </h2> <div class=\"formula-box\"> ASK #1 IS THERE A BARRIER? ASK #2 IS THERE A RIGHT OF RETURN OR RELEASE? IF BOTH EXIST: CONDITIONAL ↓ WAIT UNTIL BARRIER IS SUBSTANTIALLY OVERCOME ↓ THEN DETERMINE DONOR RESTRICTION </div> <div class=\"key-points\"> <h3> Key Takeaways </h3> <ul> <li> Conditional contributions generally contain a barrier and a right of return or release. </li> <li> Contribution revenue generally waits until the barrier is substantially overcome. </li> <li> Cash received before a condition is met may generally be reported as a liability. </li> <li> A donor restriction is different from a donor condition. </li> <li> A contribution may be both conditional and donor-restricted. </li> </ul> </div>",
+  "quiz": {
+    "id": "far-m5-l4-check",
+    "courseId": "far",
+    "moduleId": 5,
+    "lessonId": "far-m5-l4",
+    "topic": "General review",
+    "prompt": "A donor transfers $150,000 to an NFP. The NFP must first achieve a specified measurable performance target, and the agreement requires the money to be returned if the target is not achieved. The target has not yet been met. How should the NFP generally report the $150,000 received?",
+    "choices": [
+      {
+        "id": "far-m5-l4-check-a0",
+        "text": "A liability until the barrier is substantially overcome"
+      },
+      {
+        "id": "far-m5-l4-check-a1",
+        "text": "Contribution revenue with donor restrictions"
+      },
+      {
+        "id": "far-m5-l4-check-a2",
+        "text": "An increase in permanently restricted equity"
+      },
+      {
+        "id": "far-m5-l4-check-a3",
+        "text": "Contribution revenue without donor restrictions"
+      }
+    ],
+    "correctChoiceId": "far-m5-l4-check-a0",
+    "explanation": "The measurable performance barrier together with the donor's right of return makes the contribution conditional. Because cash was received before the barrier was substantially overcome, the amount is generally reported as a liability rather than contribution revenue.",
+    "difficulty": "foundation",
+    "metadata": {
+      "section": "far",
+      "blueprintYear": 2026,
+      "areaId": "far-I",
+      "groupId": "module-5",
+      "topicId": "far-conditional-contributions",
+      "taskIds": [
+        "far-conditional-contributions.task-1",
+        "far-conditional-contributions.task-2",
+        "far-conditional-contributions.task-3"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "section": "far",
+    "blueprintYear": 2026,
+    "areaId": "far-I",
+    "groupId": "module-5",
+    "topicId": "far-conditional-contributions",
+    "taskIds": [
+      "far-conditional-contributions.task-1",
+      "far-conditional-contributions.task-2",
+      "far-conditional-contributions.task-3"
+    ],
+    "skill": "application",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      }
+    ]
+  },
+  "objectives": [
+    "Explain conditional contributions and its underlying principles.",
+    "Apply the topic to a financial-reporting scenario.",
+    "Evaluate common errors and their financial-statement effects."
+  ]
+}

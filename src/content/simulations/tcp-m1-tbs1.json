@@ -1,0 +1,91 @@
+{
+  "id": "tcp-m1-tbs1",
+  "courseId": "tcp",
+  "moduleId": 1,
+  "number": 1,
+  "title": "Equity award and tax-payment planning",
+  "html": "<div class=\"course-intro-card\"><h2>Equity award and tax-payment planning</h2><p>Prepare compensation, basis, and estimated-payment amounts under the supplied rules.</p></div><section class=\"quiz-card\"><h3>Required responses</h3><div class=\"tbs-question\"><label for=\"tcp-m1-tbs1-f1\">Option compensation income</label><input id=\"tcp-m1-tbs1-f1\" type=\"text\"></div><div class=\"tbs-question\"><label for=\"tcp-m1-tbs1-f2\">Stock basis after exercise</label><input id=\"tcp-m1-tbs1-f2\" type=\"text\"></div><div class=\"tbs-question\"><label for=\"tcp-m1-tbs1-f3\">Required annual tax payment</label><input id=\"tcp-m1-tbs1-f3\" type=\"text\"></div><div class=\"tbs-question\"><label for=\"tcp-m1-tbs1-f4\">Additional estimated payments after withholding</label><input id=\"tcp-m1-tbs1-f4\" type=\"text\"></div></section>",
+  "metadata": {
+    "section": "tcp",
+    "blueprintYear": 2026,
+    "areaId": "tcp-I",
+    "groupId": "A",
+    "topicId": "tcp-individual-advanced-planning",
+    "taskIds": [
+      "tcp-individual-advanced-planning.task-1",
+      "tcp-individual-advanced-planning.task-2",
+      "tcp-individual-advanced-planning.task-3"
+    ],
+    "skill": "analysis",
+    "validFrom": "2026-07-01",
+    "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      },
+      {
+        "title": "IRS tax publications",
+        "url": "https://www.irs.gov/publications"
+      },
+      {
+        "title": "Internal Revenue Code",
+        "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+      }
+    ]
+  },
+  "difficulty": "advanced",
+  "fields": [
+    {
+      "id": "tcp-m1-tbs1-f1",
+      "label": "Option compensation income",
+      "type": "number",
+      "options": [],
+      "correct": 30000,
+      "explanation": "1,500 × ($32 − $12) = $30,000.",
+      "topicId": "tcp-individual-advanced-planning"
+    },
+    {
+      "id": "tcp-m1-tbs1-f2",
+      "label": "Stock basis after exercise",
+      "type": "number",
+      "options": [],
+      "correct": 48000,
+      "explanation": "$18,000 exercise cash plus $30,000 compensation = $48,000.",
+      "topicId": "tcp-individual-advanced-planning"
+    },
+    {
+      "id": "tcp-m1-tbs1-f3",
+      "label": "Required annual tax payment",
+      "type": "number",
+      "options": [],
+      "correct": 44000,
+      "explanation": "The lesser of $54,000 and $44,000 is $44,000.",
+      "topicId": "tcp-individual-advanced-planning"
+    },
+    {
+      "id": "tcp-m1-tbs1-f4",
+      "label": "Additional estimated payments after withholding",
+      "type": "number",
+      "options": [],
+      "correct": 14000,
+      "explanation": "$44,000 required less $30,000 withholding = $14,000.",
+      "topicId": "tcp-individual-advanced-planning"
+    }
+  ],
+  "exhibits": [
+    {
+      "id": "tcp-m1-tbs1-ex1",
+      "title": "Option exercise",
+      "html": "<p>1,500 nonqualified options are exercised at $12 when stock value is $32. The spread is ordinary compensation; basis includes exercise cash and compensation.</p>"
+    },
+    {
+      "id": "tcp-m1-tbs1-ex2",
+      "title": "Estimated tax",
+      "html": "<p>Required annual payment is the lesser of 90% of $60,000 projected current tax and 110% of $40,000 prior tax. Qualifying withholding is $30,000. Ignore timing differences among installments.</p>"
+    }
+  ],
+  "explanation": "<h3>Option compensation income</h3><p>1,500 × ($32 − $12) = $30,000.</p><h3>Stock basis after exercise</h3><p>$18,000 exercise cash plus $30,000 compensation = $48,000.</p><h3>Required annual tax payment</h3><p>The lesser of $54,000 and $44,000 is $44,000.</p><h3>Additional estimated payments after withholding</h3><p>$44,000 required less $30,000 withholding = $14,000.</p>"
+}

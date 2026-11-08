@@ -1,0 +1,4603 @@
+{
+  "id": "bar-m2-practice",
+  "title": "Technical Accounting & Advanced Reporting Practice",
+  "courseId": "bar",
+  "moduleId": 2,
+  "selection": "per-lesson",
+  "feedback": "immediate",
+  "passPercent": 80,
+  "questions": [
+    {
+      "id": "bar-m2-l1-q1",
+      "courseId": "bar",
+      "moduleId": 2,
+      "lessonId": "bar-m2-l1",
+      "topic": "Revenue Contracts, Modifications & Principal–Agent Analysis",
+      "prompt": "A $90,000 bundle has distinct items with standalone prices $60,000 and $40,000. What is allocated to the first item?",
+      "choices": [
+        {
+          "id": "bar-m2-l1-q1-a0",
+          "text": "$60,000."
+        },
+        {
+          "id": "bar-m2-l1-q1-a1",
+          "text": "$54,000."
+        },
+        {
+          "id": "bar-m2-l1-q1-a2",
+          "text": "$45,000."
+        },
+        {
+          "id": "bar-m2-l1-q1-a3",
+          "text": "$36,000."
+        }
+      ],
+      "correctChoiceId": "bar-m2-l1-q1-a1",
+      "explanation": "Allocate $90,000 × 60% = $54,000.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-II",
+        "groupId": "C",
+        "topicId": "bar-advanced-revenue",
+        "taskIds": [
+          "bar-advanced-revenue.task-1"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bar-m2-l1-q2",
+      "courseId": "bar",
+      "moduleId": 2,
+      "lessonId": "bar-m2-l1",
+      "topic": "Revenue Contracts, Modifications & Principal–Agent Analysis",
+      "prompt": "A modification adds distinct goods at their standalone selling price and meets the applicable requirements. How is it generally treated?",
+      "choices": [
+        {
+          "id": "bar-m2-l1-q2-a0",
+          "text": "Always a cumulative catch-up."
+        },
+        {
+          "id": "bar-m2-l1-q2-a1",
+          "text": "Always as no revenue."
+        },
+        {
+          "id": "bar-m2-l1-q2-a2",
+          "text": "As a separate contract."
+        },
+        {
+          "id": "bar-m2-l1-q2-a3",
+          "text": "As a cancellation of all prior revenue."
+        }
+      ],
+      "correctChoiceId": "bar-m2-l1-q2-a2",
+      "explanation": "Distinct additional goods priced at standalone selling prices can qualify for separate-contract treatment.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-II",
+        "groupId": "C",
+        "topicId": "bar-advanced-revenue",
+        "taskIds": [
+          "bar-advanced-revenue.task-2"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bar-m2-l1-q3",
+      "courseId": "bar",
+      "moduleId": 2,
+      "lessonId": "bar-m2-l1",
+      "topic": "Revenue Contracts, Modifications & Principal–Agent Analysis",
+      "prompt": "An intermediary does not control the specified service before transfer and earns a commission. What presentation is generally appropriate?",
+      "choices": [
+        {
+          "id": "bar-m2-l1-q3-a0",
+          "text": "Gross customer billings automatically."
+        },
+        {
+          "id": "bar-m2-l1-q3-a1",
+          "text": "No revenue ever."
+        },
+        {
+          "id": "bar-m2-l1-q3-a2",
+          "text": "The supplier’s entire profit."
+        },
+        {
+          "id": "bar-m2-l1-q3-a3",
+          "text": "Net commission revenue."
+        }
+      ],
+      "correctChoiceId": "bar-m2-l1-q3-a3",
+      "explanation": "An agent generally recognizes its fee rather than gross principal revenue.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-II",
+        "groupId": "C",
+        "topicId": "bar-advanced-revenue",
+        "taskIds": [
+          "bar-advanced-revenue.task-3"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bar-m2-l1-q4",
+      "courseId": "bar",
+      "moduleId": 2,
+      "lessonId": "bar-m2-l1",
+      "topic": "Revenue Contracts, Modifications & Principal–Agent Analysis",
+      "prompt": "Why is variable consideration constrained?",
+      "choices": [
+        {
+          "id": "bar-m2-l1-q4-a0",
+          "text": "To limit recognition of amounts subject to a significant future reversal under the applicable criterion."
+        },
+        {
+          "id": "bar-m2-l1-q4-a1",
+          "text": "To prohibit every estimate."
+        },
+        {
+          "id": "bar-m2-l1-q4-a2",
+          "text": "To match revenue to invoicing only."
+        },
+        {
+          "id": "bar-m2-l1-q4-a3",
+          "text": "To guarantee the customer pays immediately."
+        }
+      ],
+      "correctChoiceId": "bar-m2-l1-q4-a0",
+      "explanation": "The constraint addresses reversal risk, not a ban on estimation.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-II",
+        "groupId": "C",
+        "topicId": "bar-advanced-revenue",
+        "taskIds": [
+          "bar-advanced-revenue.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bar-m2-l1-q5",
+      "courseId": "bar",
+      "moduleId": 2,
+      "lessonId": "bar-m2-l1",
+      "topic": "Revenue Contracts, Modifications & Principal–Agent Analysis",
+      "prompt": "Support revenue allocated at $48,000 is earned evenly over 12 months. What revenue is earned after four months?",
+      "choices": [
+        {
+          "id": "bar-m2-l1-q5-a0",
+          "text": "$48,000."
+        },
+        {
+          "id": "bar-m2-l1-q5-a1",
+          "text": "$16,000."
+        },
+        {
+          "id": "bar-m2-l1-q5-a2",
+          "text": "$12,000."
+        },
+        {
+          "id": "bar-m2-l1-q5-a3",
+          "text": "$4,000."
+        }
+      ],
+      "correctChoiceId": "bar-m2-l1-q5-a1",
+      "explanation": "$48,000 × 4/12 = $16,000.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-II",
+        "groupId": "C",
+        "topicId": "bar-advanced-revenue",
+        "taskIds": [
+          "bar-advanced-revenue.task-2"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bar-m2-l1-q6",
+      "courseId": "bar",
+      "moduleId": 2,
+      "lessonId": "bar-m2-l1",
+      "topic": "Revenue Contracts, Modifications & Principal–Agent Analysis",
+      "prompt": "What is the central principal–agent question?",
+      "choices": [
+        {
+          "id": "bar-m2-l1-q6-a0",
+          "text": "Only who sends the invoice."
+        },
+        {
+          "id": "bar-m2-l1-q6-a1",
+          "text": "Only who receives cash first."
+        },
+        {
+          "id": "bar-m2-l1-q6-a2",
+          "text": "Whether the entity controls the specified good or service before transfer."
+        },
+        {
+          "id": "bar-m2-l1-q6-a3",
+          "text": "Only which party has the longer name."
+        }
+      ],
+      "correctChoiceId": "bar-m2-l1-q6-a2",
+      "explanation": "Control, informed by relevant indicators, determines the role.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-II",
+        "groupId": "C",
+        "topicId": "bar-advanced-revenue",
+        "taskIds": [
+          "bar-advanced-revenue.task-3"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bar-m2-l1-q7",
+      "courseId": "bar",
+      "moduleId": 2,
+      "lessonId": "bar-m2-l1",
+      "topic": "Revenue Contracts, Modifications & Principal–Agent Analysis",
+      "prompt": "Allocate a contract price and determine revenue recognized to date. Contract: Transaction price $180,000. Distinct equipment standalone price $150,000; distinct support standalone price $75,000. No allocation exception applies. Performance: Equipment control transfers at inception. Support is provided evenly over 12 months. Three months have elapsed; collectibility and contract criteria are satisfied. Required: Price allocated to equipment.",
+      "choices": [
+        {
+          "id": "bar-m2-l1-q7-a0",
+          "text": "150000"
+        },
+        {
+          "id": "bar-m2-l1-q7-a1",
+          "text": "90000"
+        },
+        {
+          "id": "bar-m2-l1-q7-a2",
+          "text": "60000"
+        },
+        {
+          "id": "bar-m2-l1-q7-a3",
+          "text": "120000"
+        }
+      ],
+      "correctChoiceId": "bar-m2-l1-q7-a3",
+      "explanation": "$180,000 × $150,000/$225,000 = $120,000.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-II",
+        "groupId": "C",
+        "topicId": "bar-advanced-revenue",
+        "taskIds": [
+          "bar-advanced-revenue.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      },
+      "familyId": "bar-m2-tbs1"
+    },
+    {
+      "id": "bar-m2-l1-q8",
+      "courseId": "bar",
+      "moduleId": 2,
+      "lessonId": "bar-m2-l1",
+      "topic": "Revenue Contracts, Modifications & Principal–Agent Analysis",
+      "prompt": "Allocate a contract price and determine revenue recognized to date. Contract: Transaction price $180,000. Distinct equipment standalone price $150,000; distinct support standalone price $75,000. No allocation exception applies. Performance: Equipment control transfers at inception. Support is provided evenly over 12 months. Three months have elapsed; collectibility and contract criteria are satisfied. Required: Price allocated to support.",
+      "choices": [
+        {
+          "id": "bar-m2-l1-q8-a0",
+          "text": "60000"
+        },
+        {
+          "id": "bar-m2-l1-q8-a1",
+          "text": "75000"
+        },
+        {
+          "id": "bar-m2-l1-q8-a2",
+          "text": "120000"
+        },
+        {
+          "id": "bar-m2-l1-q8-a3",
+          "text": "45000"
+        }
+      ],
+      "correctChoiceId": "bar-m2-l1-q8-a0",
+      "explanation": "The remaining one third is $60,000.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-II",
+        "groupId": "C",
+        "topicId": "bar-advanced-revenue",
+        "taskIds": [
+          "bar-advanced-revenue.task-2"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      },
+      "familyId": "bar-m2-tbs1"
+    },
+    {
+      "id": "bar-m2-l1-q9",
+      "courseId": "bar",
+      "moduleId": 2,
+      "lessonId": "bar-m2-l1",
+      "topic": "Revenue Contracts, Modifications & Principal–Agent Analysis",
+      "prompt": "Allocate a contract price and determine revenue recognized to date. Contract: Transaction price $180,000. Distinct equipment standalone price $150,000; distinct support standalone price $75,000. No allocation exception applies. Performance: Equipment control transfers at inception. Support is provided evenly over 12 months. Three months have elapsed; collectibility and contract criteria are satisfied. Required: Support revenue after three months.",
+      "choices": [
+        {
+          "id": "bar-m2-l1-q9-a0",
+          "text": "60000"
+        },
+        {
+          "id": "bar-m2-l1-q9-a1",
+          "text": "15000"
+        },
+        {
+          "id": "bar-m2-l1-q9-a2",
+          "text": "5000"
+        },
+        {
+          "id": "bar-m2-l1-q9-a3",
+          "text": "45000"
+        }
+      ],
+      "correctChoiceId": "bar-m2-l1-q9-a1",
+      "explanation": "$60,000 × 3/12 = $15,000.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-II",
+        "groupId": "C",
+        "topicId": "bar-advanced-revenue",
+        "taskIds": [
+          "bar-advanced-revenue.task-3"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      },
+      "familyId": "bar-m2-tbs1"
+    },
+    {
+      "id": "bar-m2-l1-q10",
+      "courseId": "bar",
+      "moduleId": 2,
+      "lessonId": "bar-m2-l1",
+      "topic": "Revenue Contracts, Modifications & Principal–Agent Analysis",
+      "prompt": "Allocate a contract price and determine revenue recognized to date. Contract: Transaction price $180,000. Distinct equipment standalone price $150,000; distinct support standalone price $75,000. No allocation exception applies. Performance: Equipment control transfers at inception. Support is provided evenly over 12 months. Three months have elapsed; collectibility and contract criteria are satisfied. Required: Total recognized revenue.",
+      "choices": [
+        {
+          "id": "bar-m2-l1-q10-a0",
+          "text": "180000"
+        },
+        {
+          "id": "bar-m2-l1-q10-a1",
+          "text": "120000"
+        },
+        {
+          "id": "bar-m2-l1-q10-a2",
+          "text": "135000"
+        },
+        {
+          "id": "bar-m2-l1-q10-a3",
+          "text": "15000"
+        }
+      ],
+      "correctChoiceId": "bar-m2-l1-q10-a2",
+      "explanation": "$120,000 equipment plus $15,000 support.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-II",
+        "groupId": "C",
+        "topicId": "bar-advanced-revenue",
+        "taskIds": [
+          "bar-advanced-revenue.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      },
+      "familyId": "bar-m2-tbs1"
+    },
+    {
+      "id": "bar-m2-l2-q1",
+      "courseId": "bar",
+      "moduleId": 2,
+      "lessonId": "bar-m2-l2",
+      "topic": "Lessor Accounting & Lessee Measurement Review",
+      "prompt": "A lease liability is $150,000 at the start of the year, interest rate 8%, and year-end payment $40,000. What is ending liability?",
+      "choices": [
+        {
+          "id": "bar-m2-l2-q1-a0",
+          "text": "$110,000."
+        },
+        {
+          "id": "bar-m2-l2-q1-a1",
+          "text": "$150,000."
+        },
+        {
+          "id": "bar-m2-l2-q1-a2",
+          "text": "$122,000."
+        },
+        {
+          "id": "bar-m2-l2-q1-a3",
+          "text": "$162,000."
+        }
+      ],
+      "correctChoiceId": "bar-m2-l2-q1-a2",
+      "explanation": "$150,000 + $12,000 interest − $40,000 payment = $122,000.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-II",
+        "groupId": "G",
+        "topicId": "bar-advanced-leases",
+        "taskIds": [
+          "bar-advanced-leases.task-1"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bar-m2-l2-q2",
+      "courseId": "bar",
+      "moduleId": 2,
+      "lessonId": "bar-m2-l2",
+      "topic": "Lessor Accounting & Lessee Measurement Review",
+      "prompt": "Initial lease liability is $180,000, prepayments $10,000, qualifying initial direct costs $5,000, and incentives $3,000. What is initial ROU asset under these facts?",
+      "choices": [
+        {
+          "id": "bar-m2-l2-q2-a0",
+          "text": "$180,000."
+        },
+        {
+          "id": "bar-m2-l2-q2-a1",
+          "text": "$198,000."
+        },
+        {
+          "id": "bar-m2-l2-q2-a2",
+          "text": "$168,000."
+        },
+        {
+          "id": "bar-m2-l2-q2-a3",
+          "text": "$192,000."
+        }
+      ],
+      "correctChoiceId": "bar-m2-l2-q2-a3",
+      "explanation": "$180,000 + $10,000 + $5,000 − $3,000 = $192,000.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-II",
+        "groupId": "G",
+        "topicId": "bar-advanced-leases",
+        "taskIds": [
+          "bar-advanced-leases.task-2"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bar-m2-l2-q3",
+      "courseId": "bar",
+      "moduleId": 2,
+      "lessonId": "bar-m2-l2",
+      "topic": "Lessor Accounting & Lessee Measurement Review",
+      "prompt": "Why should lease classification not rely blindly on remembered 75% and 90% thresholds?",
+      "choices": [
+        {
+          "id": "bar-m2-l2-q3-a0",
+          "text": "Classification requires applying the current standard and the specific economic facts."
+        },
+        {
+          "id": "bar-m2-l2-q3-a1",
+          "text": "Present value is never relevant."
+        },
+        {
+          "id": "bar-m2-l2-q3-a2",
+          "text": "All leases are operating leases."
+        },
+        {
+          "id": "bar-m2-l2-q3-a3",
+          "text": "Only payment frequency matters."
+        }
+      ],
+      "correctChoiceId": "bar-m2-l2-q3-a0",
+      "explanation": "Relevant criteria are not replaced by a universal bright-line shortcut.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-II",
+        "groupId": "G",
+        "topicId": "bar-advanced-leases",
+        "taskIds": [
+          "bar-advanced-leases.task-3"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bar-m2-l2-q4",
+      "courseId": "bar",
+      "moduleId": 2,
+      "lessonId": "bar-m2-l2",
+      "topic": "Lessor Accounting & Lessee Measurement Review",
+      "prompt": "A sales-type lease has net investment $100,000 and asset carrying amount $80,000. Assume selling-profit recognition criteria are met and no other costs. What is selling profit?",
+      "choices": [
+        {
+          "id": "bar-m2-l2-q4-a0",
+          "text": "$100,000."
+        },
+        {
+          "id": "bar-m2-l2-q4-a1",
+          "text": "$20,000."
+        },
+        {
+          "id": "bar-m2-l2-q4-a2",
+          "text": "$80,000."
+        },
+        {
+          "id": "bar-m2-l2-q4-a3",
+          "text": "Zero in every sales-type lease."
+        }
+      ],
+      "correctChoiceId": "bar-m2-l2-q4-a1",
+      "explanation": "Under the stated assumptions, selling profit is $100,000 − $80,000.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-II",
+        "groupId": "G",
+        "topicId": "bar-advanced-leases",
+        "taskIds": [
+          "bar-advanced-leases.task-1"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bar-m2-l2-q5",
+      "courseId": "bar",
+      "moduleId": 2,
+      "lessonId": "bar-m2-l2",
+      "topic": "Lessor Accounting & Lessee Measurement Review",
+      "prompt": "Which item can explain why the initial ROU asset exceeds the lease liability?",
+      "choices": [
+        {
+          "id": "bar-m2-l2-q5-a0",
+          "text": "Only future unperformed repairs."
+        },
+        {
+          "id": "bar-m2-l2-q5-a1",
+          "text": "The auditor’s fee in every case."
+        },
+        {
+          "id": "bar-m2-l2-q5-a2",
+          "text": "A qualifying lease prepayment."
+        },
+        {
+          "id": "bar-m2-l2-q5-a3",
+          "text": "An unrelated tax refund."
+        }
+      ],
+      "correctChoiceId": "bar-m2-l2-q5-a2",
+      "explanation": "The ROU asset includes relevant prepayments not remaining in the unpaid-payment liability.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-II",
+        "groupId": "G",
+        "topicId": "bar-advanced-leases",
+        "taskIds": [
+          "bar-advanced-leases.task-2"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bar-m2-l2-q6",
+      "courseId": "bar",
+      "moduleId": 2,
+      "lessonId": "bar-m2-l2",
+      "topic": "Lessor Accounting & Lessee Measurement Review",
+      "prompt": "A payment is $45,000 and interest for the period is $9,000. What is principal reduction?",
+      "choices": [
+        {
+          "id": "bar-m2-l2-q6-a0",
+          "text": "$45,000."
+        },
+        {
+          "id": "bar-m2-l2-q6-a1",
+          "text": "$54,000."
+        },
+        {
+          "id": "bar-m2-l2-q6-a2",
+          "text": "$9,000."
+        },
+        {
+          "id": "bar-m2-l2-q6-a3",
+          "text": "$36,000."
+        }
+      ],
+      "correctChoiceId": "bar-m2-l2-q6-a3",
+      "explanation": "The payment first covers $9,000 interest, leaving $36,000 principal reduction.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-II",
+        "groupId": "G",
+        "topicId": "bar-advanced-leases",
+        "taskIds": [
+          "bar-advanced-leases.task-3"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bar-m2-l2-q7",
+      "courseId": "bar",
+      "moduleId": 2,
+      "lessonId": "bar-m2-l2",
+      "topic": "Lessor Accounting & Lessee Measurement Review",
+      "prompt": "Review the lessee’s commencement amounts and first-year liability schedule. Commencement: Present value of unpaid included payments $240,000. Prepayment $12,000; qualifying initial direct costs $4,000; lease incentive $6,000. First year: Interest rate 5%; year-end cash payment $60,000. No modification or remeasurement applies. Required: Initial ROU asset.",
+      "choices": [
+        {
+          "id": "bar-m2-l2-q7-a0",
+          "text": "250000"
+        },
+        {
+          "id": "bar-m2-l2-q7-a1",
+          "text": "240000"
+        },
+        {
+          "id": "bar-m2-l2-q7-a2",
+          "text": "262000"
+        },
+        {
+          "id": "bar-m2-l2-q7-a3",
+          "text": "230000"
+        }
+      ],
+      "correctChoiceId": "bar-m2-l2-q7-a0",
+      "explanation": "$240,000 + $12,000 + $4,000 − $6,000 = $250,000.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-II",
+        "groupId": "G",
+        "topicId": "bar-advanced-leases",
+        "taskIds": [
+          "bar-advanced-leases.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      },
+      "familyId": "bar-m2-tbs2"
+    },
+    {
+      "id": "bar-m2-l2-q8",
+      "courseId": "bar",
+      "moduleId": 2,
+      "lessonId": "bar-m2-l2",
+      "topic": "Lessor Accounting & Lessee Measurement Review",
+      "prompt": "Review the lessee’s commencement amounts and first-year liability schedule. Commencement: Present value of unpaid included payments $240,000. Prepayment $12,000; qualifying initial direct costs $4,000; lease incentive $6,000. First year: Interest rate 5%; year-end cash payment $60,000. No modification or remeasurement applies. Required: First-year interest.",
+      "choices": [
+        {
+          "id": "bar-m2-l2-q8-a0",
+          "text": "12500"
+        },
+        {
+          "id": "bar-m2-l2-q8-a1",
+          "text": "12000"
+        },
+        {
+          "id": "bar-m2-l2-q8-a2",
+          "text": "60000"
+        },
+        {
+          "id": "bar-m2-l2-q8-a3",
+          "text": "48000"
+        }
+      ],
+      "correctChoiceId": "bar-m2-l2-q8-a1",
+      "explanation": "$240,000 × 5% = $12,000.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-II",
+        "groupId": "G",
+        "topicId": "bar-advanced-leases",
+        "taskIds": [
+          "bar-advanced-leases.task-2"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      },
+      "familyId": "bar-m2-tbs2"
+    },
+    {
+      "id": "bar-m2-l2-q9",
+      "courseId": "bar",
+      "moduleId": 2,
+      "lessonId": "bar-m2-l2",
+      "topic": "Lessor Accounting & Lessee Measurement Review",
+      "prompt": "Review the lessee’s commencement amounts and first-year liability schedule. Commencement: Present value of unpaid included payments $240,000. Prepayment $12,000; qualifying initial direct costs $4,000; lease incentive $6,000. First year: Interest rate 5%; year-end cash payment $60,000. No modification or remeasurement applies. Required: Principal reduction.",
+      "choices": [
+        {
+          "id": "bar-m2-l2-q9-a0",
+          "text": "60000"
+        },
+        {
+          "id": "bar-m2-l2-q9-a1",
+          "text": "12000"
+        },
+        {
+          "id": "bar-m2-l2-q9-a2",
+          "text": "48000"
+        },
+        {
+          "id": "bar-m2-l2-q9-a3",
+          "text": "72000"
+        }
+      ],
+      "correctChoiceId": "bar-m2-l2-q9-a2",
+      "explanation": "$60,000 payment − $12,000 interest = $48,000.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-II",
+        "groupId": "G",
+        "topicId": "bar-advanced-leases",
+        "taskIds": [
+          "bar-advanced-leases.task-3"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      },
+      "familyId": "bar-m2-tbs2"
+    },
+    {
+      "id": "bar-m2-l2-q10",
+      "courseId": "bar",
+      "moduleId": 2,
+      "lessonId": "bar-m2-l2",
+      "topic": "Lessor Accounting & Lessee Measurement Review",
+      "prompt": "Review the lessee’s commencement amounts and first-year liability schedule. Commencement: Present value of unpaid included payments $240,000. Prepayment $12,000; qualifying initial direct costs $4,000; lease incentive $6,000. First year: Interest rate 5%; year-end cash payment $60,000. No modification or remeasurement applies. Required: Ending lease liability.",
+      "choices": [
+        {
+          "id": "bar-m2-l2-q10-a0",
+          "text": "180000"
+        },
+        {
+          "id": "bar-m2-l2-q10-a1",
+          "text": "240000"
+        },
+        {
+          "id": "bar-m2-l2-q10-a2",
+          "text": "202000"
+        },
+        {
+          "id": "bar-m2-l2-q10-a3",
+          "text": "192000"
+        }
+      ],
+      "correctChoiceId": "bar-m2-l2-q10-a3",
+      "explanation": "$240,000 − $48,000 = $192,000.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-II",
+        "groupId": "G",
+        "topicId": "bar-advanced-leases",
+        "taskIds": [
+          "bar-advanced-leases.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      },
+      "familyId": "bar-m2-tbs2"
+    },
+    {
+      "id": "bar-m2-l3-q1",
+      "courseId": "bar",
+      "moduleId": 2,
+      "lessonId": "bar-m2-l3",
+      "topic": "Business Combinations, Goodwill & Noncontrolling Interests",
+      "prompt": "Consideration is $800,000, NCI fair value $150,000, and net identifiable assets $850,000. What is goodwill?",
+      "choices": [
+        {
+          "id": "bar-m2-l3-q1-a0",
+          "text": "$50,000."
+        },
+        {
+          "id": "bar-m2-l3-q1-a1",
+          "text": "$950,000."
+        },
+        {
+          "id": "bar-m2-l3-q1-a2",
+          "text": "$150,000."
+        },
+        {
+          "id": "bar-m2-l3-q1-a3",
+          "text": "$100,000."
+        }
+      ],
+      "correctChoiceId": "bar-m2-l3-q1-a3",
+      "explanation": "$800,000 + $150,000 − $850,000 = $100,000.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-II",
+        "groupId": "E",
+        "topicId": "bar-business-combinations",
+        "taskIds": [
+          "bar-business-combinations.task-1"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bar-m2-l3-q2",
+      "courseId": "bar",
+      "moduleId": 2,
+      "lessonId": "bar-m2-l3",
+      "topic": "Business Combinations, Goodwill & Noncontrolling Interests",
+      "prompt": "Which cost is generally expensed in an acquisition-method business combination?",
+      "choices": [
+        {
+          "id": "bar-m2-l3-q2-a0",
+          "text": "Acquisition-related advisory fees."
+        },
+        {
+          "id": "bar-m2-l3-q2-a1",
+          "text": "Every equity issuance cost in the same way."
+        },
+        {
+          "id": "bar-m2-l3-q2-a2",
+          "text": "Every acquired asset’s fair value."
+        },
+        {
+          "id": "bar-m2-l3-q2-a3",
+          "text": "The entire consideration transferred."
+        }
+      ],
+      "correctChoiceId": "bar-m2-l3-q2-a0",
+      "explanation": "Advisory costs are generally expensed; financing costs follow separate guidance.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-II",
+        "groupId": "E",
+        "topicId": "bar-business-combinations",
+        "taskIds": [
+          "bar-business-combinations.task-2"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bar-m2-l3-q3",
+      "courseId": "bar",
+      "moduleId": 2,
+      "lessonId": "bar-m2-l3",
+      "topic": "Business Combinations, Goodwill & Noncontrolling Interests",
+      "prompt": "A preliminary acquisition calculation produces a negative goodwill residual. What should occur before recognizing a gain?",
+      "choices": [
+        {
+          "id": "bar-m2-l3-q3-a0",
+          "text": "Automatically record a negative asset indefinitely."
+        },
+        {
+          "id": "bar-m2-l3-q3-a1",
+          "text": "Reassess identification and measurement of the relevant amounts."
+        },
+        {
+          "id": "bar-m2-l3-q3-a2",
+          "text": "Ignore the acquired liabilities."
+        },
+        {
+          "id": "bar-m2-l3-q3-a3",
+          "text": "Use the seller’s desired profit instead."
+        }
+      ],
+      "correctChoiceId": "bar-m2-l3-q3-a1",
+      "explanation": "A bargain-purchase conclusion requires reassessment of the acquisition measurements.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-II",
+        "groupId": "E",
+        "topicId": "bar-business-combinations",
+        "taskIds": [
+          "bar-business-combinations.task-3"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bar-m2-l3-q4",
+      "courseId": "bar",
+      "moduleId": 2,
+      "lessonId": "bar-m2-l3",
+      "topic": "Business Combinations, Goodwill & Noncontrolling Interests",
+      "prompt": "In consolidated statements, a qualifying noncontrolling interest is generally presented where?",
+      "choices": [
+        {
+          "id": "bar-m2-l3-q4-a0",
+          "text": "As revenue."
+        },
+        {
+          "id": "bar-m2-l3-q4-a1",
+          "text": "As every type of trade payable."
+        },
+        {
+          "id": "bar-m2-l3-q4-a2",
+          "text": "Within equity, separately from the parent’s equity."
+        },
+        {
+          "id": "bar-m2-l3-q4-a3",
+          "text": "As depreciation expense."
+        }
+      ],
+      "correctChoiceId": "bar-m2-l3-q4-a2",
+      "explanation": "NCI is an equity interest in the consolidated subsidiary not attributable to the parent.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-II",
+        "groupId": "E",
+        "topicId": "bar-business-combinations",
+        "taskIds": [
+          "bar-business-combinations.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bar-m2-l3-q5",
+      "courseId": "bar",
+      "moduleId": 2,
+      "lessonId": "bar-m2-l3",
+      "topic": "Business Combinations, Goodwill & Noncontrolling Interests",
+      "prompt": "Why determine whether an acquired set is a business or an asset acquisition?",
+      "choices": [
+        {
+          "id": "bar-m2-l3-q5-a0",
+          "text": "The legal name always determines identical accounting."
+        },
+        {
+          "id": "bar-m2-l3-q5-a1",
+          "text": "Only the audit fee changes."
+        },
+        {
+          "id": "bar-m2-l3-q5-a2",
+          "text": "No accounting distinction exists."
+        },
+        {
+          "id": "bar-m2-l3-q5-a3",
+          "text": "The applicable recognition and measurement rules can differ."
+        }
+      ],
+      "correctChoiceId": "bar-m2-l3-q5-a3",
+      "explanation": "Scope classification affects accounting, including certain cost and goodwill consequences.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-II",
+        "groupId": "E",
+        "topicId": "bar-business-combinations",
+        "taskIds": [
+          "bar-business-combinations.task-2"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bar-m2-l3-q6",
+      "courseId": "bar",
+      "moduleId": 2,
+      "lessonId": "bar-m2-l3",
+      "topic": "Business Combinations, Goodwill & Noncontrolling Interests",
+      "prompt": "An acquisition has $600,000 consideration and no NCI or prior interest. Identifiable assets are $900,000 and liabilities $400,000. What is goodwill?",
+      "choices": [
+        {
+          "id": "bar-m2-l3-q6-a0",
+          "text": "$100,000."
+        },
+        {
+          "id": "bar-m2-l3-q6-a1",
+          "text": "$300,000."
+        },
+        {
+          "id": "bar-m2-l3-q6-a2",
+          "text": "$500,000."
+        },
+        {
+          "id": "bar-m2-l3-q6-a3",
+          "text": "$600,000."
+        }
+      ],
+      "correctChoiceId": "bar-m2-l3-q6-a0",
+      "explanation": "Net identifiable assets are $500,000; consideration exceeds them by $100,000.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-II",
+        "groupId": "E",
+        "topicId": "bar-business-combinations",
+        "taskIds": [
+          "bar-business-combinations.task-3"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bar-m2-l3-q7",
+      "courseId": "bar",
+      "moduleId": 2,
+      "lessonId": "bar-m2-l3",
+      "topic": "Business Combinations, Goodwill & Noncontrolling Interests",
+      "prompt": "Compute acquisition-date net assets and goodwill under the acquisition method. Fair values: Identifiable assets $1,800,000; assumed liabilities $600,000. Consideration transferred $1,100,000; fair value of NCI $250,000. No previously held interest. Transaction costs: Advisory fees are $40,000. Assume they are acquisition-related costs required to be expensed; ignore financing costs and tax effects. Required: Fair value of net identifiable assets.",
+      "choices": [
+        {
+          "id": "bar-m2-l3-q7-a0",
+          "text": "1800000"
+        },
+        {
+          "id": "bar-m2-l3-q7-a1",
+          "text": "1200000"
+        },
+        {
+          "id": "bar-m2-l3-q7-a2",
+          "text": "2400000"
+        },
+        {
+          "id": "bar-m2-l3-q7-a3",
+          "text": "600000"
+        }
+      ],
+      "correctChoiceId": "bar-m2-l3-q7-a1",
+      "explanation": "$1,800,000 − $600,000 = $1,200,000.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-II",
+        "groupId": "E",
+        "topicId": "bar-business-combinations",
+        "taskIds": [
+          "bar-business-combinations.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      },
+      "familyId": "bar-m2-tbs3"
+    },
+    {
+      "id": "bar-m2-l3-q8",
+      "courseId": "bar",
+      "moduleId": 2,
+      "lessonId": "bar-m2-l3",
+      "topic": "Business Combinations, Goodwill & Noncontrolling Interests",
+      "prompt": "Compute acquisition-date net assets and goodwill under the acquisition method. Fair values: Identifiable assets $1,800,000; assumed liabilities $600,000. Consideration transferred $1,100,000; fair value of NCI $250,000. No previously held interest. Transaction costs: Advisory fees are $40,000. Assume they are acquisition-related costs required to be expensed; ignore financing costs and tax effects. Required: Consideration plus NCI.",
+      "choices": [
+        {
+          "id": "bar-m2-l3-q8-a0",
+          "text": "1100000"
+        },
+        {
+          "id": "bar-m2-l3-q8-a1",
+          "text": "1390000"
+        },
+        {
+          "id": "bar-m2-l3-q8-a2",
+          "text": "1350000"
+        },
+        {
+          "id": "bar-m2-l3-q8-a3",
+          "text": "850000"
+        }
+      ],
+      "correctChoiceId": "bar-m2-l3-q8-a2",
+      "explanation": "$1,100,000 + $250,000 = $1,350,000.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-II",
+        "groupId": "E",
+        "topicId": "bar-business-combinations",
+        "taskIds": [
+          "bar-business-combinations.task-2"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      },
+      "familyId": "bar-m2-tbs3"
+    },
+    {
+      "id": "bar-m2-l3-q9",
+      "courseId": "bar",
+      "moduleId": 2,
+      "lessonId": "bar-m2-l3",
+      "topic": "Business Combinations, Goodwill & Noncontrolling Interests",
+      "prompt": "Compute acquisition-date net assets and goodwill under the acquisition method. Fair values: Identifiable assets $1,800,000; assumed liabilities $600,000. Consideration transferred $1,100,000; fair value of NCI $250,000. No previously held interest. Transaction costs: Advisory fees are $40,000. Assume they are acquisition-related costs required to be expensed; ignore financing costs and tax effects. Required: Goodwill.",
+      "choices": [
+        {
+          "id": "bar-m2-l3-q9-a0",
+          "text": "190000"
+        },
+        {
+          "id": "bar-m2-l3-q9-a1",
+          "text": "100000"
+        },
+        {
+          "id": "bar-m2-l3-q9-a2",
+          "text": "250000"
+        },
+        {
+          "id": "bar-m2-l3-q9-a3",
+          "text": "150000"
+        }
+      ],
+      "correctChoiceId": "bar-m2-l3-q9-a3",
+      "explanation": "$1,350,000 − $1,200,000 = $150,000.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-II",
+        "groupId": "E",
+        "topicId": "bar-business-combinations",
+        "taskIds": [
+          "bar-business-combinations.task-3"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      },
+      "familyId": "bar-m2-tbs3"
+    },
+    {
+      "id": "bar-m2-l3-q10",
+      "courseId": "bar",
+      "moduleId": 2,
+      "lessonId": "bar-m2-l3",
+      "topic": "Business Combinations, Goodwill & Noncontrolling Interests",
+      "prompt": "Compute acquisition-date net assets and goodwill under the acquisition method. Fair values: Identifiable assets $1,800,000; assumed liabilities $600,000. Consideration transferred $1,100,000; fair value of NCI $250,000. No previously held interest. Transaction costs: Advisory fees are $40,000. Assume they are acquisition-related costs required to be expensed; ignore financing costs and tax effects. Required: Advisory cost expense.",
+      "choices": [
+        {
+          "id": "bar-m2-l3-q10-a0",
+          "text": "40000"
+        },
+        {
+          "id": "bar-m2-l3-q10-a1",
+          "text": "0"
+        },
+        {
+          "id": "bar-m2-l3-q10-a2",
+          "text": "150000"
+        },
+        {
+          "id": "bar-m2-l3-q10-a3",
+          "text": "190000"
+        }
+      ],
+      "correctChoiceId": "bar-m2-l3-q10-a0",
+      "explanation": "The stated acquisition-related advisory costs are expensed.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-II",
+        "groupId": "E",
+        "topicId": "bar-business-combinations",
+        "taskIds": [
+          "bar-business-combinations.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      },
+      "familyId": "bar-m2-tbs3"
+    },
+    {
+      "id": "bar-m2-l4-q1",
+      "courseId": "bar",
+      "moduleId": 2,
+      "lessonId": "bar-m2-l4",
+      "topic": "Consolidation, Intercompany Profit & Foreign Currency",
+      "prompt": "Intercompany inventory profit is $30,000 and 40% of the inventory remains within the group. What profit is unrealized?",
+      "choices": [
+        {
+          "id": "bar-m2-l4-q1-a0",
+          "text": "$12,000."
+        },
+        {
+          "id": "bar-m2-l4-q1-a1",
+          "text": "$30,000."
+        },
+        {
+          "id": "bar-m2-l4-q1-a2",
+          "text": "$18,000."
+        },
+        {
+          "id": "bar-m2-l4-q1-a3",
+          "text": "$75,000."
+        }
+      ],
+      "correctChoiceId": "bar-m2-l4-q1-a0",
+      "explanation": "$30,000 × 40% = $12,000.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-II",
+        "groupId": "F",
+        "topicId": "bar-consolidation-currency",
+        "taskIds": [
+          "bar-consolidation-currency.task-1"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bar-m2-l4-q2",
+      "courseId": "bar",
+      "moduleId": 2,
+      "lessonId": "bar-m2-l4",
+      "topic": "Consolidation, Intercompany Profit & Foreign Currency",
+      "prompt": "What ordinarily happens to reciprocal intercompany receivables and payables on consolidation?",
+      "choices": [
+        {
+          "id": "bar-m2-l4-q2-a0",
+          "text": "They are doubled."
+        },
+        {
+          "id": "bar-m2-l4-q2-a1",
+          "text": "They are eliminated."
+        },
+        {
+          "id": "bar-m2-l4-q2-a2",
+          "text": "They become external revenue."
+        },
+        {
+          "id": "bar-m2-l4-q2-a3",
+          "text": "They are ignored only when material."
+        }
+      ],
+      "correctChoiceId": "bar-m2-l4-q2-a1",
+      "explanation": "A consolidated group does not report a receivable from and payable to itself.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-II",
+        "groupId": "F",
+        "topicId": "bar-consolidation-currency",
+        "taskIds": [
+          "bar-consolidation-currency.task-2"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bar-m2-l4-q3",
+      "courseId": "bar",
+      "moduleId": 2,
+      "lessonId": "bar-m2-l4",
+      "topic": "Consolidation, Intercompany Profit & Foreign Currency",
+      "prompt": "A foreign operation’s local currency is its functional currency. Its statements are translated into the parent’s reporting currency. Where does the translation adjustment generally go?",
+      "choices": [
+        {
+          "id": "bar-m2-l4-q3-a0",
+          "text": "Always sales revenue."
+        },
+        {
+          "id": "bar-m2-l4-q3-a1",
+          "text": "Always income-tax expense."
+        },
+        {
+          "id": "bar-m2-l4-q3-a2",
+          "text": "Other comprehensive income."
+        },
+        {
+          "id": "bar-m2-l4-q3-a3",
+          "text": "Always cash from operations."
+        }
+      ],
+      "correctChoiceId": "bar-m2-l4-q3-a2",
+      "explanation": "The translation adjustment generally is included in OCI under the stated functional-currency facts.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-II",
+        "groupId": "F",
+        "topicId": "bar-consolidation-currency",
+        "taskIds": [
+          "bar-consolidation-currency.task-3"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bar-m2-l4-q4",
+      "courseId": "bar",
+      "moduleId": 2,
+      "lessonId": "bar-m2-l4",
+      "topic": "Consolidation, Intercompany Profit & Foreign Currency",
+      "prompt": "Where are ordinary remeasurement gains and losses generally recognized when converting records into functional currency?",
+      "choices": [
+        {
+          "id": "bar-m2-l4-q4-a0",
+          "text": "Always OCI."
+        },
+        {
+          "id": "bar-m2-l4-q4-a1",
+          "text": "Always contributed capital."
+        },
+        {
+          "id": "bar-m2-l4-q4-a2",
+          "text": "Never recognized."
+        },
+        {
+          "id": "bar-m2-l4-q4-a3",
+          "text": "Earnings."
+        }
+      ],
+      "correctChoiceId": "bar-m2-l4-q4-a3",
+      "explanation": "Remeasurement and translation have different accounting consequences.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-II",
+        "groupId": "F",
+        "topicId": "bar-consolidation-currency",
+        "taskIds": [
+          "bar-consolidation-currency.task-1"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bar-m2-l4-q5",
+      "courseId": "bar",
+      "moduleId": 2,
+      "lessonId": "bar-m2-l4",
+      "topic": "Consolidation, Intercompany Profit & Foreign Currency",
+      "prompt": "Why might a majority voting-interest test be insufficient for consolidation?",
+      "choices": [
+        {
+          "id": "bar-m2-l4-q5-a0",
+          "text": "Variable-interest-entity guidance can require additional control and economics analysis."
+        },
+        {
+          "id": "bar-m2-l4-q5-a1",
+          "text": "All entities must always be consolidated."
+        },
+        {
+          "id": "bar-m2-l4-q5-a2",
+          "text": "Only physical asset location matters."
+        },
+        {
+          "id": "bar-m2-l4-q5-a3",
+          "text": "The subsidiary’s preferred logo determines control."
+        }
+      ],
+      "correctChoiceId": "bar-m2-l4-q5-a0",
+      "explanation": "VIE guidance evaluates power and economic interests beyond a simple voting percentage.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-II",
+        "groupId": "F",
+        "topicId": "bar-consolidation-currency",
+        "taskIds": [
+          "bar-consolidation-currency.task-2"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bar-m2-l4-q6",
+      "courseId": "bar",
+      "moduleId": 2,
+      "lessonId": "bar-m2-l4",
+      "topic": "Consolidation, Intercompany Profit & Foreign Currency",
+      "prompt": "Is a consolidation elimination necessarily posted to each separate legal entity’s ledger?",
+      "choices": [
+        {
+          "id": "bar-m2-l4-q6-a0",
+          "text": "Yes, every elimination must change both separate tax returns."
+        },
+        {
+          "id": "bar-m2-l4-q6-a1",
+          "text": "No; it can be a consolidated reporting adjustment."
+        },
+        {
+          "id": "bar-m2-l4-q6-a2",
+          "text": "Yes, every internal sale must be legally canceled."
+        },
+        {
+          "id": "bar-m2-l4-q6-a3",
+          "text": "No elimination is ever recorded anywhere."
+        }
+      ],
+      "correctChoiceId": "bar-m2-l4-q6-a1",
+      "explanation": "Consolidation adjustments can exist at the reporting level without undoing legal-entity books.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-II",
+        "groupId": "F",
+        "topicId": "bar-consolidation-currency",
+        "taskIds": [
+          "bar-consolidation-currency.task-3"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bar-m2-l4-q7",
+      "courseId": "bar",
+      "moduleId": 2,
+      "lessonId": "bar-m2-l4",
+      "topic": "Consolidation, Intercompany Profit & Foreign Currency",
+      "prompt": "Prepare elimination amounts and identify the currency-accounting approach. Internal sale: Inventory cost to the selling group member $100,000; intercompany selling price $140,000; 30% remains unsold to outsiders. Intercompany receivable and payable each equal $50,000. Foreign operation: The local currency is the foreign operation’s functional currency. Its statements are translated into the parent’s reporting currency. Required: Intercompany profit on the sale.",
+      "choices": [
+        {
+          "id": "bar-m2-l4-q7-a0",
+          "text": "100000"
+        },
+        {
+          "id": "bar-m2-l4-q7-a1",
+          "text": "140000"
+        },
+        {
+          "id": "bar-m2-l4-q7-a2",
+          "text": "40000"
+        },
+        {
+          "id": "bar-m2-l4-q7-a3",
+          "text": "30000"
+        }
+      ],
+      "correctChoiceId": "bar-m2-l4-q7-a2",
+      "explanation": "$140,000 − $100,000 = $40,000.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-II",
+        "groupId": "F",
+        "topicId": "bar-consolidation-currency",
+        "taskIds": [
+          "bar-consolidation-currency.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      },
+      "familyId": "bar-m2-tbs4"
+    },
+    {
+      "id": "bar-m2-l4-q8",
+      "courseId": "bar",
+      "moduleId": 2,
+      "lessonId": "bar-m2-l4",
+      "topic": "Consolidation, Intercompany Profit & Foreign Currency",
+      "prompt": "Prepare elimination amounts and identify the currency-accounting approach. Internal sale: Inventory cost to the selling group member $100,000; intercompany selling price $140,000; 30% remains unsold to outsiders. Intercompany receivable and payable each equal $50,000. Foreign operation: The local currency is the foreign operation’s functional currency. Its statements are translated into the parent’s reporting currency. Required: Unrealized profit in ending inventory.",
+      "choices": [
+        {
+          "id": "bar-m2-l4-q8-a0",
+          "text": "40000"
+        },
+        {
+          "id": "bar-m2-l4-q8-a1",
+          "text": "28000"
+        },
+        {
+          "id": "bar-m2-l4-q8-a2",
+          "text": "42000"
+        },
+        {
+          "id": "bar-m2-l4-q8-a3",
+          "text": "12000"
+        }
+      ],
+      "correctChoiceId": "bar-m2-l4-q8-a3",
+      "explanation": "30% × $40,000 = $12,000.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-II",
+        "groupId": "F",
+        "topicId": "bar-consolidation-currency",
+        "taskIds": [
+          "bar-consolidation-currency.task-2"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      },
+      "familyId": "bar-m2-tbs4"
+    },
+    {
+      "id": "bar-m2-l4-q9",
+      "courseId": "bar",
+      "moduleId": 2,
+      "lessonId": "bar-m2-l4",
+      "topic": "Consolidation, Intercompany Profit & Foreign Currency",
+      "prompt": "Prepare elimination amounts and identify the currency-accounting approach. Internal sale: Inventory cost to the selling group member $100,000; intercompany selling price $140,000; 30% remains unsold to outsiders. Intercompany receivable and payable each equal $50,000. Foreign operation: The local currency is the foreign operation’s functional currency. Its statements are translated into the parent’s reporting currency. Required: Reciprocal receivable amount eliminated.",
+      "choices": [
+        {
+          "id": "bar-m2-l4-q9-a0",
+          "text": "50000"
+        },
+        {
+          "id": "bar-m2-l4-q9-a1",
+          "text": "100000"
+        },
+        {
+          "id": "bar-m2-l4-q9-a2",
+          "text": "0"
+        },
+        {
+          "id": "bar-m2-l4-q9-a3",
+          "text": "140000"
+        }
+      ],
+      "correctChoiceId": "bar-m2-l4-q9-a0",
+      "explanation": "Eliminate the $50,000 intercompany receivable and matching payable.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-II",
+        "groupId": "F",
+        "topicId": "bar-consolidation-currency",
+        "taskIds": [
+          "bar-consolidation-currency.task-3"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      },
+      "familyId": "bar-m2-tbs4"
+    },
+    {
+      "id": "bar-m2-l4-q10",
+      "courseId": "bar",
+      "moduleId": 2,
+      "lessonId": "bar-m2-l4",
+      "topic": "Consolidation, Intercompany Profit & Foreign Currency",
+      "prompt": "Prepare elimination amounts and identify the currency-accounting approach. Internal sale: Inventory cost to the selling group member $100,000; intercompany selling price $140,000; 30% remains unsold to outsiders. Intercompany receivable and payable each equal $50,000. Foreign operation: The local currency is the foreign operation’s functional currency. Its statements are translated into the parent’s reporting currency. Required: General location of the translation adjustment.",
+      "choices": [
+        {
+          "id": "bar-m2-l4-q10-a0",
+          "text": "Sales revenue"
+        },
+        {
+          "id": "bar-m2-l4-q10-a1",
+          "text": "Other comprehensive income"
+        },
+        {
+          "id": "bar-m2-l4-q10-a2",
+          "text": "Operating cash receipts"
+        },
+        {
+          "id": "bar-m2-l4-q10-a3",
+          "text": "Taxable wages"
+        }
+      ],
+      "correctChoiceId": "bar-m2-l4-q10-a1",
+      "explanation": "The stated foreign-functional-currency translation generally creates an OCI adjustment.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-II",
+        "groupId": "F",
+        "topicId": "bar-consolidation-currency",
+        "taskIds": [
+          "bar-consolidation-currency.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      },
+      "familyId": "bar-m2-tbs4"
+    },
+    {
+      "id": "bar-m2-l5-q1",
+      "courseId": "bar",
+      "moduleId": 2,
+      "lessonId": "bar-m2-l5",
+      "topic": "Derivatives, Hedge Accounting & Foreign-Currency Transactions",
+      "prompt": "A derivative does not qualify for hedge accounting and increases in fair value by $8,000. Where is the gain generally recognized?",
+      "choices": [
+        {
+          "id": "bar-m2-l5-q1-a0",
+          "text": "Always deferred without recognition."
+        },
+        {
+          "id": "bar-m2-l5-q1-a1",
+          "text": "Earnings."
+        },
+        {
+          "id": "bar-m2-l5-q1-a2",
+          "text": "Always as revenue from customers."
+        },
+        {
+          "id": "bar-m2-l5-q1-a3",
+          "text": "Never on the balance sheet."
+        }
+      ],
+      "correctChoiceId": "bar-m2-l5-q1-a1",
+      "explanation": "Derivatives generally are at fair value, with changes in earnings absent qualifying special accounting.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-II",
+        "groupId": "D",
+        "topicId": "bar-derivatives-hedges",
+        "taskIds": [
+          "bar-derivatives-hedges.task-1"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bar-m2-l5-q2",
+      "courseId": "bar",
+      "moduleId": 2,
+      "lessonId": "bar-m2-l5",
+      "topic": "Derivatives, Hedge Accounting & Foreign-Currency Transactions",
+      "prompt": "Which hedge addresses variability in qualifying future cash flows?",
+      "choices": [
+        {
+          "id": "bar-m2-l5-q2-a0",
+          "text": "Every fair-value hedge by definition."
+        },
+        {
+          "id": "bar-m2-l5-q2-a1",
+          "text": "A compilation engagement."
+        },
+        {
+          "id": "bar-m2-l5-q2-a2",
+          "text": "Cash-flow hedge."
+        },
+        {
+          "id": "bar-m2-l5-q2-a3",
+          "text": "A consolidation elimination."
+        }
+      ],
+      "correctChoiceId": "bar-m2-l5-q2-a2",
+      "explanation": "A cash-flow hedge targets variability in cash flows under the required criteria.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-II",
+        "groupId": "D",
+        "topicId": "bar-derivatives-hedges",
+        "taskIds": [
+          "bar-derivatives-hedges.task-2"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bar-m2-l5-q3",
+      "courseId": "bar",
+      "moduleId": 2,
+      "lessonId": "bar-m2-l5",
+      "topic": "Derivatives, Hedge Accounting & Foreign-Currency Transactions",
+      "prompt": "What is required to apply hedge accounting?",
+      "choices": [
+        {
+          "id": "bar-m2-l5-q3-a0",
+          "text": "Only management’s verbal intention."
+        },
+        {
+          "id": "bar-m2-l5-q3-a1",
+          "text": "Only a profitable derivative."
+        },
+        {
+          "id": "bar-m2-l5-q3-a2",
+          "text": "Only a long contract term."
+        },
+        {
+          "id": "bar-m2-l5-q3-a3",
+          "text": "Applicable designation, documentation, and qualification requirements."
+        }
+      ],
+      "correctChoiceId": "bar-m2-l5-q3-a3",
+      "explanation": "Special hedge accounting depends on satisfying the standard’s requirements.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-II",
+        "groupId": "D",
+        "topicId": "bar-derivatives-hedges",
+        "taskIds": [
+          "bar-derivatives-hedges.task-3"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bar-m2-l5-q4",
+      "courseId": "bar",
+      "moduleId": 2,
+      "lessonId": "bar-m2-l5",
+      "topic": "Derivatives, Hedge Accounting & Foreign-Currency Transactions",
+      "prompt": "A payable of 20,000 foreign units rises from $1.00 to $1.05 per unit in reporting currency. What is the liability increase?",
+      "choices": [
+        {
+          "id": "bar-m2-l5-q4-a0",
+          "text": "$1,000."
+        },
+        {
+          "id": "bar-m2-l5-q4-a1",
+          "text": "$20,000."
+        },
+        {
+          "id": "bar-m2-l5-q4-a2",
+          "text": "$21,000."
+        },
+        {
+          "id": "bar-m2-l5-q4-a3",
+          "text": "$500."
+        }
+      ],
+      "correctChoiceId": "bar-m2-l5-q4-a0",
+      "explanation": "20,000 × $0.05 = $1,000 increase, ordinarily a transaction loss.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-II",
+        "groupId": "D",
+        "topicId": "bar-derivatives-hedges",
+        "taskIds": [
+          "bar-derivatives-hedges.task-1"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bar-m2-l5-q5",
+      "courseId": "bar",
+      "moduleId": 2,
+      "lessonId": "bar-m2-l5",
+      "topic": "Derivatives, Hedge Accounting & Foreign-Currency Transactions",
+      "prompt": "In a qualifying fair-value hedge, what generally happens to relevant fair-value changes in the derivative and hedged item?",
+      "choices": [
+        {
+          "id": "bar-m2-l5-q5-a0",
+          "text": "They are always ignored."
+        },
+        {
+          "id": "bar-m2-l5-q5-a1",
+          "text": "They affect earnings under the applicable hedge model."
+        },
+        {
+          "id": "bar-m2-l5-q5-a2",
+          "text": "They both become customer cash receipts."
+        },
+        {
+          "id": "bar-m2-l5-q5-a3",
+          "text": "The hedged item can never be adjusted."
+        }
+      ],
+      "correctChoiceId": "bar-m2-l5-q5-a1",
+      "explanation": "The model generally recognizes offsetting earnings effects and adjusts the hedged item for the hedged risk.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-II",
+        "groupId": "D",
+        "topicId": "bar-derivatives-hedges",
+        "taskIds": [
+          "bar-derivatives-hedges.task-2"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bar-m2-l5-q6",
+      "courseId": "bar",
+      "moduleId": 2,
+      "lessonId": "bar-m2-l5",
+      "topic": "Derivatives, Hedge Accounting & Foreign-Currency Transactions",
+      "prompt": "A foreign-currency transaction loss is automatically the same as a foreign-operation translation adjustment. Is that correct?",
+      "choices": [
+        {
+          "id": "bar-m2-l5-q6-a0",
+          "text": "Yes, both always bypass earnings."
+        },
+        {
+          "id": "bar-m2-l5-q6-a1",
+          "text": "Yes, both always create revenue."
+        },
+        {
+          "id": "bar-m2-l5-q6-a2",
+          "text": "No; they arise from different measurements and can be reported differently."
+        },
+        {
+          "id": "bar-m2-l5-q6-a3",
+          "text": "Only if the entity has inventory."
+        }
+      ],
+      "correctChoiceId": "bar-m2-l5-q6-a2",
+      "explanation": "Distinguish transaction remeasurement from financial-statement translation.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-II",
+        "groupId": "D",
+        "topicId": "bar-derivatives-hedges",
+        "taskIds": [
+          "bar-derivatives-hedges.task-3"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bar-m2-l5-q7",
+      "courseId": "bar",
+      "moduleId": 2,
+      "lessonId": "bar-m2-l5",
+      "topic": "Derivatives, Hedge Accounting & Foreign-Currency Transactions",
+      "prompt": "Calculate a currency payable and identify the correct accounting model under stated assumptions. Payable: The entity owes 30,000 foreign units. Initial rate $1.20 per unit; year-end rate $1.25. No settlement has occurred. Hedge facts: Instrument A is an undesignated derivative. Instrument B meets all requirements for a cash-flow hedge of forecast cash flows. Apply U.S. GAAP and assume the described qualifying portion of B is eligible for OCI. Required: Initial payable.",
+      "choices": [
+        {
+          "id": "bar-m2-l5-q7-a0",
+          "text": "30000"
+        },
+        {
+          "id": "bar-m2-l5-q7-a1",
+          "text": "37500"
+        },
+        {
+          "id": "bar-m2-l5-q7-a2",
+          "text": "25000"
+        },
+        {
+          "id": "bar-m2-l5-q7-a3",
+          "text": "36000"
+        }
+      ],
+      "correctChoiceId": "bar-m2-l5-q7-a3",
+      "explanation": "30,000 × $1.20 = $36,000.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-II",
+        "groupId": "D",
+        "topicId": "bar-derivatives-hedges",
+        "taskIds": [
+          "bar-derivatives-hedges.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      },
+      "familyId": "bar-m2-tbs5"
+    },
+    {
+      "id": "bar-m2-l5-q8",
+      "courseId": "bar",
+      "moduleId": 2,
+      "lessonId": "bar-m2-l5",
+      "topic": "Derivatives, Hedge Accounting & Foreign-Currency Transactions",
+      "prompt": "Calculate a currency payable and identify the correct accounting model under stated assumptions. Payable: The entity owes 30,000 foreign units. Initial rate $1.20 per unit; year-end rate $1.25. No settlement has occurred. Hedge facts: Instrument A is an undesignated derivative. Instrument B meets all requirements for a cash-flow hedge of forecast cash flows. Apply U.S. GAAP and assume the described qualifying portion of B is eligible for OCI. Required: Year-end payable.",
+      "choices": [
+        {
+          "id": "bar-m2-l5-q8-a0",
+          "text": "37500"
+        },
+        {
+          "id": "bar-m2-l5-q8-a1",
+          "text": "36000"
+        },
+        {
+          "id": "bar-m2-l5-q8-a2",
+          "text": "30000"
+        },
+        {
+          "id": "bar-m2-l5-q8-a3",
+          "text": "1500"
+        }
+      ],
+      "correctChoiceId": "bar-m2-l5-q8-a0",
+      "explanation": "30,000 × $1.25 = $37,500.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-II",
+        "groupId": "D",
+        "topicId": "bar-derivatives-hedges",
+        "taskIds": [
+          "bar-derivatives-hedges.task-2"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      },
+      "familyId": "bar-m2-tbs5"
+    },
+    {
+      "id": "bar-m2-l5-q9",
+      "courseId": "bar",
+      "moduleId": 2,
+      "lessonId": "bar-m2-l5",
+      "topic": "Derivatives, Hedge Accounting & Foreign-Currency Transactions",
+      "prompt": "Calculate a currency payable and identify the correct accounting model under stated assumptions. Payable: The entity owes 30,000 foreign units. Initial rate $1.20 per unit; year-end rate $1.25. No settlement has occurred. Hedge facts: Instrument A is an undesignated derivative. Instrument B meets all requirements for a cash-flow hedge of forecast cash flows. Apply U.S. GAAP and assume the described qualifying portion of B is eligible for OCI. Required: Transaction loss.",
+      "choices": [
+        {
+          "id": "bar-m2-l5-q9-a0",
+          "text": "37500"
+        },
+        {
+          "id": "bar-m2-l5-q9-a1",
+          "text": "1500"
+        },
+        {
+          "id": "bar-m2-l5-q9-a2",
+          "text": "36000"
+        },
+        {
+          "id": "bar-m2-l5-q9-a3",
+          "text": "0"
+        }
+      ],
+      "correctChoiceId": "bar-m2-l5-q9-a1",
+      "explanation": "The liability increases by $1,500.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-II",
+        "groupId": "D",
+        "topicId": "bar-derivatives-hedges",
+        "taskIds": [
+          "bar-derivatives-hedges.task-3"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      },
+      "familyId": "bar-m2-tbs5"
+    },
+    {
+      "id": "bar-m2-l5-q10",
+      "courseId": "bar",
+      "moduleId": 2,
+      "lessonId": "bar-m2-l5",
+      "topic": "Derivatives, Hedge Accounting & Foreign-Currency Transactions",
+      "prompt": "Calculate a currency payable and identify the correct accounting model under stated assumptions. Payable: The entity owes 30,000 foreign units. Initial rate $1.20 per unit; year-end rate $1.25. No settlement has occurred. Hedge facts: Instrument A is an undesignated derivative. Instrument B meets all requirements for a cash-flow hedge of forecast cash flows. Apply U.S. GAAP and assume the described qualifying portion of B is eligible for OCI. Required: Initial location of B’s stated qualifying hedge amount.",
+      "choices": [
+        {
+          "id": "bar-m2-l5-q10-a0",
+          "text": "Never recognized anywhere"
+        },
+        {
+          "id": "bar-m2-l5-q10-a1",
+          "text": "Customer revenue automatically"
+        },
+        {
+          "id": "bar-m2-l5-q10-a2",
+          "text": "Other comprehensive income"
+        },
+        {
+          "id": "bar-m2-l5-q10-a3",
+          "text": "A reduction of share count"
+        }
+      ],
+      "correctChoiceId": "bar-m2-l5-q10-a2",
+      "explanation": "The supplied qualifying cash-flow hedge amount is eligible for OCI, with later treatment under the hedge model.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-II",
+        "groupId": "D",
+        "topicId": "bar-derivatives-hedges",
+        "taskIds": [
+          "bar-derivatives-hedges.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      },
+      "familyId": "bar-m2-tbs5"
+    },
+    {
+      "id": "bar-m2-l6-q1",
+      "courseId": "bar",
+      "moduleId": 2,
+      "lessonId": "bar-m2-l6",
+      "topic": "Share-Based Compensation & Service Conditions",
+      "prompt": "8,000 service-only equity awards have grant-date fair value $5 and a four-year service period. Assume straight-line recognition and no forfeitures. What is annual cost?",
+      "choices": [
+        {
+          "id": "bar-m2-l6-q1-a0",
+          "text": "$40,000."
+        },
+        {
+          "id": "bar-m2-l6-q1-a1",
+          "text": "$8,000."
+        },
+        {
+          "id": "bar-m2-l6-q1-a2",
+          "text": "$10,000."
+        },
+        {
+          "id": "bar-m2-l6-q1-a3",
+          "text": "$5,000."
+        }
+      ],
+      "correctChoiceId": "bar-m2-l6-q1-a2",
+      "explanation": "Total cost $40,000 divided by four years.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-II",
+        "groupId": "C",
+        "topicId": "bar-share-based-compensation",
+        "taskIds": [
+          "bar-share-based-compensation.task-1"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bar-m2-l6-q2",
+      "courseId": "bar",
+      "moduleId": 2,
+      "lessonId": "bar-m2-l6",
+      "topic": "Share-Based Compensation & Service Conditions",
+      "prompt": "Which amount generally measures a qualifying equity award in the stated grant-date model?",
+      "choices": [
+        {
+          "id": "bar-m2-l6-q2-a0",
+          "text": "Exercise price alone."
+        },
+        {
+          "id": "bar-m2-l6-q2-a1",
+          "text": "Employee salary alone."
+        },
+        {
+          "id": "bar-m2-l6-q2-a2",
+          "text": "The highest later stock price automatically."
+        },
+        {
+          "id": "bar-m2-l6-q2-a3",
+          "text": "Grant-date fair value."
+        }
+      ],
+      "correctChoiceId": "bar-m2-l6-q2-a3",
+      "explanation": "The equity-award model generally uses grant-date fair value under the applicable rules.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-II",
+        "groupId": "C",
+        "topicId": "bar-share-based-compensation",
+        "taskIds": [
+          "bar-share-based-compensation.task-2"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bar-m2-l6-q3",
+      "courseId": "bar",
+      "moduleId": 2,
+      "lessonId": "bar-m2-l6",
+      "topic": "Share-Based Compensation & Service Conditions",
+      "prompt": "A grant’s total compensation cost is $90,000 over three years. One year has elapsed and straight-line recognition applies. What is cumulative cost?",
+      "choices": [
+        {
+          "id": "bar-m2-l6-q3-a0",
+          "text": "$30,000."
+        },
+        {
+          "id": "bar-m2-l6-q3-a1",
+          "text": "$90,000."
+        },
+        {
+          "id": "bar-m2-l6-q3-a2",
+          "text": "$60,000."
+        },
+        {
+          "id": "bar-m2-l6-q3-a3",
+          "text": "Zero until exercise in every case."
+        }
+      ],
+      "correctChoiceId": "bar-m2-l6-q3-a0",
+      "explanation": "Recognize cost as requisite service is provided.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-II",
+        "groupId": "C",
+        "topicId": "bar-share-based-compensation",
+        "taskIds": [
+          "bar-share-based-compensation.task-3"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bar-m2-l6-q4",
+      "courseId": "bar",
+      "moduleId": 2,
+      "lessonId": "bar-m2-l6",
+      "topic": "Share-Based Compensation & Service Conditions",
+      "prompt": "Does every later stock-price increase remeasure a qualifying equity-classified award?",
+      "choices": [
+        {
+          "id": "bar-m2-l6-q4-a0",
+          "text": "Yes, all awards are marked to market identically."
+        },
+        {
+          "id": "bar-m2-l6-q4-a1",
+          "text": "No."
+        },
+        {
+          "id": "bar-m2-l6-q4-a2",
+          "text": "Yes, only if employees remain employed."
+        },
+        {
+          "id": "bar-m2-l6-q4-a3",
+          "text": "Only the payroll date matters."
+        }
+      ],
+      "correctChoiceId": "bar-m2-l6-q4-a1",
+      "explanation": "Equity-classified and liability-classified award models differ.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-II",
+        "groupId": "C",
+        "topicId": "bar-share-based-compensation",
+        "taskIds": [
+          "bar-share-based-compensation.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bar-m2-l6-q5",
+      "courseId": "bar",
+      "moduleId": 2,
+      "lessonId": "bar-m2-l6",
+      "topic": "Share-Based Compensation & Service Conditions",
+      "prompt": "A problem’s compensation calculation excludes tax effects. What should the student do?",
+      "choices": [
+        {
+          "id": "bar-m2-l6-q5-a0",
+          "text": "Add an arbitrary deferred tax amount."
+        },
+        {
+          "id": "bar-m2-l6-q5-a1",
+          "text": "Ignore all service periods."
+        },
+        {
+          "id": "bar-m2-l6-q5-a2",
+          "text": "Compute the stated compensation cost without inventing additional tax assumptions."
+        },
+        {
+          "id": "bar-m2-l6-q5-a3",
+          "text": "Use exercise price as tax expense."
+        }
+      ],
+      "correctChoiceId": "bar-m2-l6-q5-a2",
+      "explanation": "Apply the scope and assumptions given.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-II",
+        "groupId": "C",
+        "topicId": "bar-share-based-compensation",
+        "taskIds": [
+          "bar-share-based-compensation.task-2"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bar-m2-l6-q6",
+      "courseId": "bar",
+      "moduleId": 2,
+      "lessonId": "bar-m2-l6",
+      "topic": "Share-Based Compensation & Service Conditions",
+      "prompt": "Why distinguish performance conditions from market conditions?",
+      "choices": [
+        {
+          "id": "bar-m2-l6-q6-a0",
+          "text": "They are always identical."
+        },
+        {
+          "id": "bar-m2-l6-q6-a1",
+          "text": "Neither can affect accounting."
+        },
+        {
+          "id": "bar-m2-l6-q6-a2",
+          "text": "Only award labels determine expense."
+        },
+        {
+          "id": "bar-m2-l6-q6-a3",
+          "text": "Their effects on measurement and recognition differ under the award guidance."
+        }
+      ],
+      "correctChoiceId": "bar-m2-l6-q6-a3",
+      "explanation": "Conditions have different accounting consequences and must be analyzed.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-II",
+        "groupId": "C",
+        "topicId": "bar-share-based-compensation",
+        "taskIds": [
+          "bar-share-based-compensation.task-3"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bar-m2-l6-q7",
+      "courseId": "bar",
+      "moduleId": 2,
+      "lessonId": "bar-m2-l6",
+      "topic": "Share-Based Compensation & Service Conditions",
+      "prompt": "Prepare a straight-line compensation schedule for a single service-only award. Award terms: 12,000 equity-classified options; grant-date fair value $8 each; four-year requisite service period. Assume all awards vest and straight-line recognition is appropriate. Review date: Two years of service have been provided. Ignore income-tax effects, modifications, and graded-vesting issues. Required: Total grant-date compensation cost.",
+      "choices": [
+        {
+          "id": "bar-m2-l6-q7-a0",
+          "text": "96000"
+        },
+        {
+          "id": "bar-m2-l6-q7-a1",
+          "text": "12000"
+        },
+        {
+          "id": "bar-m2-l6-q7-a2",
+          "text": "24000"
+        },
+        {
+          "id": "bar-m2-l6-q7-a3",
+          "text": "48000"
+        }
+      ],
+      "correctChoiceId": "bar-m2-l6-q7-a0",
+      "explanation": "12,000 × $8 = $96,000.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-II",
+        "groupId": "C",
+        "topicId": "bar-share-based-compensation",
+        "taskIds": [
+          "bar-share-based-compensation.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      },
+      "familyId": "bar-m2-tbs6"
+    },
+    {
+      "id": "bar-m2-l6-q8",
+      "courseId": "bar",
+      "moduleId": 2,
+      "lessonId": "bar-m2-l6",
+      "topic": "Share-Based Compensation & Service Conditions",
+      "prompt": "Prepare a straight-line compensation schedule for a single service-only award. Award terms: 12,000 equity-classified options; grant-date fair value $8 each; four-year requisite service period. Assume all awards vest and straight-line recognition is appropriate. Review date: Two years of service have been provided. Ignore income-tax effects, modifications, and graded-vesting issues. Required: Annual compensation cost.",
+      "choices": [
+        {
+          "id": "bar-m2-l6-q8-a0",
+          "text": "96000"
+        },
+        {
+          "id": "bar-m2-l6-q8-a1",
+          "text": "24000"
+        },
+        {
+          "id": "bar-m2-l6-q8-a2",
+          "text": "48000"
+        },
+        {
+          "id": "bar-m2-l6-q8-a3",
+          "text": "12000"
+        }
+      ],
+      "correctChoiceId": "bar-m2-l6-q8-a1",
+      "explanation": "$96,000 ÷ 4 years = $24,000.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-II",
+        "groupId": "C",
+        "topicId": "bar-share-based-compensation",
+        "taskIds": [
+          "bar-share-based-compensation.task-2"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      },
+      "familyId": "bar-m2-tbs6"
+    },
+    {
+      "id": "bar-m2-l6-q9",
+      "courseId": "bar",
+      "moduleId": 2,
+      "lessonId": "bar-m2-l6",
+      "topic": "Share-Based Compensation & Service Conditions",
+      "prompt": "Prepare a straight-line compensation schedule for a single service-only award. Award terms: 12,000 equity-classified options; grant-date fair value $8 each; four-year requisite service period. Assume all awards vest and straight-line recognition is appropriate. Review date: Two years of service have been provided. Ignore income-tax effects, modifications, and graded-vesting issues. Required: Cumulative recognized cost after two years.",
+      "choices": [
+        {
+          "id": "bar-m2-l6-q9-a0",
+          "text": "24000"
+        },
+        {
+          "id": "bar-m2-l6-q9-a1",
+          "text": "96000"
+        },
+        {
+          "id": "bar-m2-l6-q9-a2",
+          "text": "48000"
+        },
+        {
+          "id": "bar-m2-l6-q9-a3",
+          "text": "72000"
+        }
+      ],
+      "correctChoiceId": "bar-m2-l6-q9-a2",
+      "explanation": "Two years × $24,000 = $48,000.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-II",
+        "groupId": "C",
+        "topicId": "bar-share-based-compensation",
+        "taskIds": [
+          "bar-share-based-compensation.task-3"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      },
+      "familyId": "bar-m2-tbs6"
+    },
+    {
+      "id": "bar-m2-l6-q10",
+      "courseId": "bar",
+      "moduleId": 2,
+      "lessonId": "bar-m2-l6",
+      "topic": "Share-Based Compensation & Service Conditions",
+      "prompt": "Prepare a straight-line compensation schedule for a single service-only award. Award terms: 12,000 equity-classified options; grant-date fair value $8 each; four-year requisite service period. Assume all awards vest and straight-line recognition is appropriate. Review date: Two years of service have been provided. Ignore income-tax effects, modifications, and graded-vesting issues. Required: Unrecognized remaining cost.",
+      "choices": [
+        {
+          "id": "bar-m2-l6-q10-a0",
+          "text": "96000"
+        },
+        {
+          "id": "bar-m2-l6-q10-a1",
+          "text": "24000"
+        },
+        {
+          "id": "bar-m2-l6-q10-a2",
+          "text": "0"
+        },
+        {
+          "id": "bar-m2-l6-q10-a3",
+          "text": "48000"
+        }
+      ],
+      "correctChoiceId": "bar-m2-l6-q10-a3",
+      "explanation": "$96,000 total less $48,000 recognized.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-II",
+        "groupId": "C",
+        "topicId": "bar-share-based-compensation",
+        "taskIds": [
+          "bar-share-based-compensation.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      },
+      "familyId": "bar-m2-tbs6"
+    },
+    {
+      "id": "bar-m2-l7-q1",
+      "courseId": "bar",
+      "moduleId": 2,
+      "lessonId": "bar-m2-l7",
+      "topic": "Goodwill, Indefinite-Lived Assets, Software & R&D",
+      "prompt": "A reporting unit carrying amount exceeds fair value by $120,000 and goodwill is $200,000. Assume the applicable model measures impairment as that excess capped at goodwill. What is impairment?",
+      "choices": [
+        {
+          "id": "bar-m2-l7-q1-a0",
+          "text": "$200,000."
+        },
+        {
+          "id": "bar-m2-l7-q1-a1",
+          "text": "$80,000."
+        },
+        {
+          "id": "bar-m2-l7-q1-a2",
+          "text": "Zero."
+        },
+        {
+          "id": "bar-m2-l7-q1-a3",
+          "text": "$120,000."
+        }
+      ],
+      "correctChoiceId": "bar-m2-l7-q1-a3",
+      "explanation": "The $120,000 excess is below the goodwill cap.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-II",
+        "groupId": "A-B-C",
+        "topicId": "bar-intangibles-software-research",
+        "taskIds": [
+          "bar-intangibles-software-research.task-1"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bar-m2-l7-q2",
+      "courseId": "bar",
+      "moduleId": 2,
+      "lessonId": "bar-m2-l7",
+      "topic": "Goodwill, Indefinite-Lived Assets, Software & R&D",
+      "prompt": "The same model produces a $300,000 excess but goodwill is $180,000. What is goodwill impairment under the stated cap?",
+      "choices": [
+        {
+          "id": "bar-m2-l7-q2-a0",
+          "text": "$180,000."
+        },
+        {
+          "id": "bar-m2-l7-q2-a1",
+          "text": "$300,000."
+        },
+        {
+          "id": "bar-m2-l7-q2-a2",
+          "text": "$120,000."
+        },
+        {
+          "id": "bar-m2-l7-q2-a3",
+          "text": "$480,000."
+        }
+      ],
+      "correctChoiceId": "bar-m2-l7-q2-a0",
+      "explanation": "The impairment cannot exceed the goodwill balance under the stated rule.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-II",
+        "groupId": "A-B-C",
+        "topicId": "bar-intangibles-software-research",
+        "taskIds": [
+          "bar-intangibles-software-research.task-2"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bar-m2-l7-q3",
+      "courseId": "bar",
+      "moduleId": 2,
+      "lessonId": "bar-m2-l7",
+      "topic": "Goodwill, Indefinite-Lived Assets, Software & R&D",
+      "prompt": "Which statement about an indefinite-lived intangible is generally correct?",
+      "choices": [
+        {
+          "id": "bar-m2-l7-q3-a0",
+          "text": "It is never tested for impairment."
+        },
+        {
+          "id": "bar-m2-l7-q3-a1",
+          "text": "It is not amortized while indefinite-lived but requires applicable impairment evaluation."
+        },
+        {
+          "id": "bar-m2-l7-q3-a2",
+          "text": "It is always expensed immediately."
+        },
+        {
+          "id": "bar-m2-l7-q3-a3",
+          "text": "It must always be amortized over one year."
+        }
+      ],
+      "correctChoiceId": "bar-m2-l7-q3-a1",
+      "explanation": "Indefinite life changes amortization treatment but does not eliminate impairment assessment.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-II",
+        "groupId": "A-B-C",
+        "topicId": "bar-intangibles-software-research",
+        "taskIds": [
+          "bar-intangibles-software-research.task-3"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bar-m2-l7-q4",
+      "courseId": "bar",
+      "moduleId": 2,
+      "lessonId": "bar-m2-l7",
+      "topic": "Goodwill, Indefinite-Lived Assets, Software & R&D",
+      "prompt": "Equipment acquired for research has an alternative future use under the applicable facts. What should be evaluated?",
+      "choices": [
+        {
+          "id": "bar-m2-l7-q4-a0",
+          "text": "Automatic capitalization of every research expense."
+        },
+        {
+          "id": "bar-m2-l7-q4-a1",
+          "text": "No accounting recognition."
+        },
+        {
+          "id": "bar-m2-l7-q4-a2",
+          "text": "Capitalization and subsequent depreciation rather than automatic immediate expensing of the entire asset."
+        },
+        {
+          "id": "bar-m2-l7-q4-a3",
+          "text": "A guarantee of future revenue."
+        }
+      ],
+      "correctChoiceId": "bar-m2-l7-q4-a2",
+      "explanation": "Assets with alternative future use can receive different treatment from ordinary current R&D costs.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-II",
+        "groupId": "A-B-C",
+        "topicId": "bar-intangibles-software-research",
+        "taskIds": [
+          "bar-intangibles-software-research.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bar-m2-l7-q5",
+      "courseId": "bar",
+      "moduleId": 2,
+      "lessonId": "bar-m2-l7",
+      "topic": "Goodwill, Indefinite-Lived Assets, Software & R&D",
+      "prompt": "A software case states that $70,000 development costs qualify for capitalization and $15,000 training must be expensed. What amount is capitalized?",
+      "choices": [
+        {
+          "id": "bar-m2-l7-q5-a0",
+          "text": "$85,000."
+        },
+        {
+          "id": "bar-m2-l7-q5-a1",
+          "text": "$15,000."
+        },
+        {
+          "id": "bar-m2-l7-q5-a2",
+          "text": "Zero despite the supplied qualification."
+        },
+        {
+          "id": "bar-m2-l7-q5-a3",
+          "text": "$70,000."
+        }
+      ],
+      "correctChoiceId": "bar-m2-l7-q5-a3",
+      "explanation": "Use the specified recognition policy and distinguish qualifying development from training.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-II",
+        "groupId": "A-B-C",
+        "topicId": "bar-intangibles-software-research",
+        "taskIds": [
+          "bar-intangibles-software-research.task-2"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bar-m2-l7-q6",
+      "courseId": "bar",
+      "moduleId": 2,
+      "lessonId": "bar-m2-l7",
+      "topic": "Goodwill, Indefinite-Lived Assets, Software & R&D",
+      "prompt": "Why must a software-cost analysis identify the applicable model and adoption facts?",
+      "choices": [
+        {
+          "id": "bar-m2-l7-q6-a0",
+          "text": "Internal-use and external-sale models and effective-date updates can differ."
+        },
+        {
+          "id": "bar-m2-l7-q6-a1",
+          "text": "All software costs are always expensed identically."
+        },
+        {
+          "id": "bar-m2-l7-q6-a2",
+          "text": "Only the programming language matters."
+        },
+        {
+          "id": "bar-m2-l7-q6-a3",
+          "text": "All updates apply retroactively to every case."
+        }
+      ],
+      "correctChoiceId": "bar-m2-l7-q6-a0",
+      "explanation": "Scope, thresholds, and effective dates determine the correct accounting.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-II",
+        "groupId": "A-B-C",
+        "topicId": "bar-intangibles-software-research",
+        "taskIds": [
+          "bar-intangibles-software-research.task-3"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bar-m2-l7-q7",
+      "courseId": "bar",
+      "moduleId": 2,
+      "lessonId": "bar-m2-l7",
+      "topic": "Goodwill, Indefinite-Lived Assets, Software & R&D",
+      "prompt": "Apply the accounting models expressly supplied in the case. Goodwill: Reporting-unit carrying amount $1,500,000 includes goodwill $300,000. Fair value is $1,280,000. For this exercise impairment equals the excess capped at goodwill. Software policy: Under the applicable policy, development costs of $90,000 qualify for capitalization. Training $12,000 and maintenance $8,000 are expensed. Ignore amortization for this period. Required: Goodwill impairment.",
+      "choices": [
+        {
+          "id": "bar-m2-l7-q7-a0",
+          "text": "300000"
+        },
+        {
+          "id": "bar-m2-l7-q7-a1",
+          "text": "220000"
+        },
+        {
+          "id": "bar-m2-l7-q7-a2",
+          "text": "80000"
+        },
+        {
+          "id": "bar-m2-l7-q7-a3",
+          "text": "1280000"
+        }
+      ],
+      "correctChoiceId": "bar-m2-l7-q7-a1",
+      "explanation": "$1,500,000 − $1,280,000 = $220,000, below goodwill of $300,000.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-II",
+        "groupId": "A-B-C",
+        "topicId": "bar-intangibles-software-research",
+        "taskIds": [
+          "bar-intangibles-software-research.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      },
+      "familyId": "bar-m2-tbs7"
+    },
+    {
+      "id": "bar-m2-l7-q8",
+      "courseId": "bar",
+      "moduleId": 2,
+      "lessonId": "bar-m2-l7",
+      "topic": "Goodwill, Indefinite-Lived Assets, Software & R&D",
+      "prompt": "Apply the accounting models expressly supplied in the case. Goodwill: Reporting-unit carrying amount $1,500,000 includes goodwill $300,000. Fair value is $1,280,000. For this exercise impairment equals the excess capped at goodwill. Software policy: Under the applicable policy, development costs of $90,000 qualify for capitalization. Training $12,000 and maintenance $8,000 are expensed. Ignore amortization for this period. Required: Remaining goodwill.",
+      "choices": [
+        {
+          "id": "bar-m2-l7-q8-a0",
+          "text": "220000"
+        },
+        {
+          "id": "bar-m2-l7-q8-a1",
+          "text": "300000"
+        },
+        {
+          "id": "bar-m2-l7-q8-a2",
+          "text": "80000"
+        },
+        {
+          "id": "bar-m2-l7-q8-a3",
+          "text": "0"
+        }
+      ],
+      "correctChoiceId": "bar-m2-l7-q8-a2",
+      "explanation": "$300,000 − $220,000 = $80,000.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-II",
+        "groupId": "A-B-C",
+        "topicId": "bar-intangibles-software-research",
+        "taskIds": [
+          "bar-intangibles-software-research.task-2"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      },
+      "familyId": "bar-m2-tbs7"
+    },
+    {
+      "id": "bar-m2-l7-q9",
+      "courseId": "bar",
+      "moduleId": 2,
+      "lessonId": "bar-m2-l7",
+      "topic": "Goodwill, Indefinite-Lived Assets, Software & R&D",
+      "prompt": "Apply the accounting models expressly supplied in the case. Goodwill: Reporting-unit carrying amount $1,500,000 includes goodwill $300,000. Fair value is $1,280,000. For this exercise impairment equals the excess capped at goodwill. Software policy: Under the applicable policy, development costs of $90,000 qualify for capitalization. Training $12,000 and maintenance $8,000 are expensed. Ignore amortization for this period. Required: Capitalized software cost.",
+      "choices": [
+        {
+          "id": "bar-m2-l7-q9-a0",
+          "text": "110000"
+        },
+        {
+          "id": "bar-m2-l7-q9-a1",
+          "text": "102000"
+        },
+        {
+          "id": "bar-m2-l7-q9-a2",
+          "text": "20000"
+        },
+        {
+          "id": "bar-m2-l7-q9-a3",
+          "text": "90000"
+        }
+      ],
+      "correctChoiceId": "bar-m2-l7-q9-a3",
+      "explanation": "Only the $90,000 qualifying development cost is capitalized.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-II",
+        "groupId": "A-B-C",
+        "topicId": "bar-intangibles-software-research",
+        "taskIds": [
+          "bar-intangibles-software-research.task-3"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      },
+      "familyId": "bar-m2-tbs7"
+    },
+    {
+      "id": "bar-m2-l7-q10",
+      "courseId": "bar",
+      "moduleId": 2,
+      "lessonId": "bar-m2-l7",
+      "topic": "Goodwill, Indefinite-Lived Assets, Software & R&D",
+      "prompt": "Apply the accounting models expressly supplied in the case. Goodwill: Reporting-unit carrying amount $1,500,000 includes goodwill $300,000. Fair value is $1,280,000. For this exercise impairment equals the excess capped at goodwill. Software policy: Under the applicable policy, development costs of $90,000 qualify for capitalization. Training $12,000 and maintenance $8,000 are expensed. Ignore amortization for this period. Required: Current training and maintenance expense.",
+      "choices": [
+        {
+          "id": "bar-m2-l7-q10-a0",
+          "text": "20000"
+        },
+        {
+          "id": "bar-m2-l7-q10-a1",
+          "text": "90000"
+        },
+        {
+          "id": "bar-m2-l7-q10-a2",
+          "text": "110000"
+        },
+        {
+          "id": "bar-m2-l7-q10-a3",
+          "text": "12000"
+        }
+      ],
+      "correctChoiceId": "bar-m2-l7-q10-a0",
+      "explanation": "$12,000 + $8,000 = $20,000.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-II",
+        "groupId": "A-B-C",
+        "topicId": "bar-intangibles-software-research",
+        "taskIds": [
+          "bar-intangibles-software-research.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      },
+      "familyId": "bar-m2-tbs7"
+    },
+    {
+      "id": "bar-m2-l8-q1",
+      "courseId": "bar",
+      "moduleId": 2,
+      "lessonId": "bar-m2-l8",
+      "topic": "Public-Company Disclosures, Segments & Benefit Plans",
+      "prompt": "A supplied segment revenue test uses 10% of total segment revenue of $500 million. What is the threshold?",
+      "choices": [
+        {
+          "id": "bar-m2-l8-q1-a0",
+          "text": "$50 million."
+        },
+        {
+          "id": "bar-m2-l8-q1-a1",
+          "text": "$5 million."
+        },
+        {
+          "id": "bar-m2-l8-q1-a2",
+          "text": "$75 million."
+        },
+        {
+          "id": "bar-m2-l8-q1-a3",
+          "text": "$500 million."
+        }
+      ],
+      "correctChoiceId": "bar-m2-l8-q1-a0",
+      "explanation": "10% × $500 million = $50 million.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-II",
+        "groupId": "H-I",
+        "topicId": "bar-segments-benefit-plans",
+        "taskIds": [
+          "bar-segments-benefit-plans.task-1"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bar-m2-l8-q2",
+      "courseId": "bar",
+      "moduleId": 2,
+      "lessonId": "bar-m2-l8",
+      "topic": "Public-Company Disclosures, Segments & Benefit Plans",
+      "prompt": "Reportable segments cover $600 million of $1 billion external revenue. The supplied coverage requirement is 75%. What is the minimum additional external revenue coverage needed?",
+      "choices": [
+        {
+          "id": "bar-m2-l8-q2-a0",
+          "text": "$400 million."
+        },
+        {
+          "id": "bar-m2-l8-q2-a1",
+          "text": "$150 million."
+        },
+        {
+          "id": "bar-m2-l8-q2-a2",
+          "text": "$750 million."
+        },
+        {
+          "id": "bar-m2-l8-q2-a3",
+          "text": "$100 million."
+        }
+      ],
+      "correctChoiceId": "bar-m2-l8-q2-a1",
+      "explanation": "Required coverage is $750 million; subtract $600 million already covered.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-II",
+        "groupId": "H-I",
+        "topicId": "bar-segments-benefit-plans",
+        "taskIds": [
+          "bar-segments-benefit-plans.task-2"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bar-m2-l8-q3",
+      "courseId": "bar",
+      "moduleId": 2,
+      "lessonId": "bar-m2-l8",
+      "topic": "Public-Company Disclosures, Segments & Benefit Plans",
+      "prompt": "Which regulation primarily addresses financial-statement form and content in SEC filings?",
+      "choices": [
+        {
+          "id": "bar-m2-l8-q3-a0",
+          "text": "Only Regulation S-K for every financial-statement requirement."
+        },
+        {
+          "id": "bar-m2-l8-q3-a1",
+          "text": "Only the Internal Revenue Code."
+        },
+        {
+          "id": "bar-m2-l8-q3-a2",
+          "text": "Regulation S-X."
+        },
+        {
+          "id": "bar-m2-l8-q3-a3",
+          "text": "Only a private bank agreement."
+        }
+      ],
+      "correctChoiceId": "bar-m2-l8-q3-a2",
+      "explanation": "Regulation S-X addresses financial-statement requirements; S-K addresses broader disclosures.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-II",
+        "groupId": "H-I",
+        "topicId": "bar-segments-benefit-plans",
+        "taskIds": [
+          "bar-segments-benefit-plans.task-3"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bar-m2-l8-q4",
+      "courseId": "bar",
+      "moduleId": 2,
+      "lessonId": "bar-m2-l8",
+      "topic": "Public-Company Disclosures, Segments & Benefit Plans",
+      "prompt": "Beginning plan net assets are $500,000; contributions $80,000; investment return $30,000; benefits $50,000; administration $10,000. What is ending net assets?",
+      "choices": [
+        {
+          "id": "bar-m2-l8-q4-a0",
+          "text": "$610,000."
+        },
+        {
+          "id": "bar-m2-l8-q4-a1",
+          "text": "$490,000."
+        },
+        {
+          "id": "bar-m2-l8-q4-a2",
+          "text": "$570,000."
+        },
+        {
+          "id": "bar-m2-l8-q4-a3",
+          "text": "$550,000."
+        }
+      ],
+      "correctChoiceId": "bar-m2-l8-q4-a3",
+      "explanation": "$500,000 + $80,000 + $30,000 − $50,000 − $10,000 = $550,000.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-II",
+        "groupId": "H-I",
+        "topicId": "bar-segments-benefit-plans",
+        "taskIds": [
+          "bar-segments-benefit-plans.task-1"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bar-m2-l8-q5",
+      "courseId": "bar",
+      "moduleId": 2,
+      "lessonId": "bar-m2-l8",
+      "topic": "Public-Company Disclosures, Segments & Benefit Plans",
+      "prompt": "What is central to identifying operating segments under the management approach?",
+      "choices": [
+        {
+          "id": "bar-m2-l8-q5-a0",
+          "text": "How the business is organized and reviewed by the chief operating decision maker under the applicable criteria."
+        },
+        {
+          "id": "bar-m2-l8-q5-a1",
+          "text": "Only the number of legal subsidiaries."
+        },
+        {
+          "id": "bar-m2-l8-q5-a2",
+          "text": "Only the number of tax returns."
+        },
+        {
+          "id": "bar-m2-l8-q5-a3",
+          "text": "Only geographic distance between offices."
+        }
+      ],
+      "correctChoiceId": "bar-m2-l8-q5-a0",
+      "explanation": "The management approach focuses on internal operating information and decision-making criteria.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-II",
+        "groupId": "H-I",
+        "topicId": "bar-segments-benefit-plans",
+        "taskIds": [
+          "bar-segments-benefit-plans.task-2"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bar-m2-l8-q6",
+      "courseId": "bar",
+      "moduleId": 2,
+      "lessonId": "bar-m2-l8",
+      "topic": "Public-Company Disclosures, Segments & Benefit Plans",
+      "prompt": "Are employee-benefit-plan assets automatically the sponsor’s unrestricted corporate assets?",
+      "choices": [
+        {
+          "id": "bar-m2-l8-q6-a0",
+          "text": "Yes, always."
+        },
+        {
+          "id": "bar-m2-l8-q6-a1",
+          "text": "No."
+        },
+        {
+          "id": "bar-m2-l8-q6-a2",
+          "text": "Yes, if contributions were expensed."
+        },
+        {
+          "id": "bar-m2-l8-q6-a3",
+          "text": "Only if the plan invests in bonds."
+        }
+      ],
+      "correctChoiceId": "bar-m2-l8-q6-a1",
+      "explanation": "Plan reporting and sponsor accounting have different entities and rights.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-II",
+        "groupId": "H-I",
+        "topicId": "bar-segments-benefit-plans",
+        "taskIds": [
+          "bar-segments-benefit-plans.task-3"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bar-m2-l8-q7",
+      "courseId": "bar",
+      "moduleId": 2,
+      "lessonId": "bar-m2-l8",
+      "topic": "Public-Company Disclosures, Segments & Benefit Plans",
+      "prompt": "Complete a segment coverage check and an independent plan net-asset schedule. Segment information: Total external revenue $800 million; current reportable segments cover $520 million. Apply a supplied 75% external-revenue coverage requirement. Benefit plan: Beginning net assets $2,000,000; contributions $300,000; investment return $100,000; benefits $250,000; administration $20,000. Required: Required external revenue coverage, in millions.",
+      "choices": [
+        {
+          "id": "bar-m2-l8-q7-a0",
+          "text": "520"
+        },
+        {
+          "id": "bar-m2-l8-q7-a1",
+          "text": "800"
+        },
+        {
+          "id": "bar-m2-l8-q7-a2",
+          "text": "600"
+        },
+        {
+          "id": "bar-m2-l8-q7-a3",
+          "text": "280"
+        }
+      ],
+      "correctChoiceId": "bar-m2-l8-q7-a2",
+      "explanation": "75% × $800 million = $600 million.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-II",
+        "groupId": "H-I",
+        "topicId": "bar-segments-benefit-plans",
+        "taskIds": [
+          "bar-segments-benefit-plans.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      },
+      "familyId": "bar-m2-tbs8"
+    },
+    {
+      "id": "bar-m2-l8-q8",
+      "courseId": "bar",
+      "moduleId": 2,
+      "lessonId": "bar-m2-l8",
+      "topic": "Public-Company Disclosures, Segments & Benefit Plans",
+      "prompt": "Complete a segment coverage check and an independent plan net-asset schedule. Segment information: Total external revenue $800 million; current reportable segments cover $520 million. Apply a supplied 75% external-revenue coverage requirement. Benefit plan: Beginning net assets $2,000,000; contributions $300,000; investment return $100,000; benefits $250,000; administration $20,000. Required: Additional required coverage, in millions.",
+      "choices": [
+        {
+          "id": "bar-m2-l8-q8-a0",
+          "text": "280"
+        },
+        {
+          "id": "bar-m2-l8-q8-a1",
+          "text": "200"
+        },
+        {
+          "id": "bar-m2-l8-q8-a2",
+          "text": "600"
+        },
+        {
+          "id": "bar-m2-l8-q8-a3",
+          "text": "80"
+        }
+      ],
+      "correctChoiceId": "bar-m2-l8-q8-a3",
+      "explanation": "$600 million − $520 million = $80 million.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-II",
+        "groupId": "H-I",
+        "topicId": "bar-segments-benefit-plans",
+        "taskIds": [
+          "bar-segments-benefit-plans.task-2"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      },
+      "familyId": "bar-m2-tbs8"
+    },
+    {
+      "id": "bar-m2-l8-q9",
+      "courseId": "bar",
+      "moduleId": 2,
+      "lessonId": "bar-m2-l8",
+      "topic": "Public-Company Disclosures, Segments & Benefit Plans",
+      "prompt": "Complete a segment coverage check and an independent plan net-asset schedule. Segment information: Total external revenue $800 million; current reportable segments cover $520 million. Apply a supplied 75% external-revenue coverage requirement. Benefit plan: Beginning net assets $2,000,000; contributions $300,000; investment return $100,000; benefits $250,000; administration $20,000. Required: Plan additions from contributions and return.",
+      "choices": [
+        {
+          "id": "bar-m2-l8-q9-a0",
+          "text": "400000"
+        },
+        {
+          "id": "bar-m2-l8-q9-a1",
+          "text": "300000"
+        },
+        {
+          "id": "bar-m2-l8-q9-a2",
+          "text": "100000"
+        },
+        {
+          "id": "bar-m2-l8-q9-a3",
+          "text": "650000"
+        }
+      ],
+      "correctChoiceId": "bar-m2-l8-q9-a0",
+      "explanation": "$300,000 + $100,000 = $400,000.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-II",
+        "groupId": "H-I",
+        "topicId": "bar-segments-benefit-plans",
+        "taskIds": [
+          "bar-segments-benefit-plans.task-3"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      },
+      "familyId": "bar-m2-tbs8"
+    },
+    {
+      "id": "bar-m2-l8-q10",
+      "courseId": "bar",
+      "moduleId": 2,
+      "lessonId": "bar-m2-l8",
+      "topic": "Public-Company Disclosures, Segments & Benefit Plans",
+      "prompt": "Complete a segment coverage check and an independent plan net-asset schedule. Segment information: Total external revenue $800 million; current reportable segments cover $520 million. Apply a supplied 75% external-revenue coverage requirement. Benefit plan: Beginning net assets $2,000,000; contributions $300,000; investment return $100,000; benefits $250,000; administration $20,000. Required: Ending plan net assets.",
+      "choices": [
+        {
+          "id": "bar-m2-l8-q10-a0",
+          "text": "2400000"
+        },
+        {
+          "id": "bar-m2-l8-q10-a1",
+          "text": "2130000"
+        },
+        {
+          "id": "bar-m2-l8-q10-a2",
+          "text": "2150000"
+        },
+        {
+          "id": "bar-m2-l8-q10-a3",
+          "text": "1870000"
+        }
+      ],
+      "correctChoiceId": "bar-m2-l8-q10-a1",
+      "explanation": "$2,000,000 + $400,000 − $250,000 − $20,000 = $2,130,000.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-II",
+        "groupId": "H-I",
+        "topicId": "bar-segments-benefit-plans",
+        "taskIds": [
+          "bar-segments-benefit-plans.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      },
+      "familyId": "bar-m2-tbs8"
+    }
+  ]
+}

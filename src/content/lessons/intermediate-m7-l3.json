@@ -1,0 +1,88 @@
+{
+  "id": "intermediate-m7-l3",
+  "courseId": "intermediate",
+  "moduleId": 7,
+  "number": 3,
+  "title": "Initial Lease Measurement",
+  "description": "Understand how the present value of lease payments determines the initial lease liability.",
+  "url": "/learn/intermediate/modules/7/lessons/3",
+  "html": "<h2>Lease liability at commencement</h2> <p> At commencement, the lease liability is generally based on the present value of lease payments that have not yet been paid. </p> <div class=\"formula-box\"> Initial Lease Liability = Present Value of Applicable Lease Payments </div> <h2>Why present value?</h2> <p> A dollar paid several years from now is not economically equivalent to a dollar paid today. </p> <p> Therefore, future lease payments are discounted to a present value. </p> <h2>Simple present-value example</h2> <p> Assume a lease requires a single payment of <strong>$10,000 one year from today</strong>. </p> <p> Assume the applicable annual discount rate is <strong>5%</strong>. </p> <div class=\"formula-box\"> Present Value = Future Payment ÷ (1 + Rate) </div> <div class=\"formula-box\"> $10,000 ÷ 1.05 = $9,523.81 </div> <p> The present value is approximately <strong>$9,524</strong>. </p> <h2>Multiple payments</h2> <p> Real leases usually contain multiple periodic payments. </p> <p> Each applicable future payment is discounted based on when it will be paid, and the present values are combined. </p> <div class=\"formula-box\"> PV = Payment₁ ÷ (1+r)¹ + Payment₂ ÷ (1+r)² + ... </div> <h2>Right-of-use asset</h2> <p> The initial ROU asset often begins with the initial lease liability, but it is not always exactly equal to it. </p> <p> Certain items can adjust the ROU asset, such as applicable payments made at or before commencement, lease incentives, and certain initial direct costs. </p> <div class=\"key-points\"> <h3>Don't memorize this:</h3> <p> ROU Asset = Lease Liability in every situation. </p> <h3>Instead remember:</h3> <p> The lease liability is based on the present value of applicable unpaid lease payments, while the initial ROU asset begins from that measurement and may require adjustments. </p> </div> <h2>What comes next</h2> <p> After initial recognition, interest accrues on the lease liability and lease payments reduce the liability. </p> <p> Finance and operating leases then differ in important aspects of subsequent expense recognition. </p>",
+  "quiz": {
+    "id": "intermediate-m7-l3-check",
+    "courseId": "intermediate",
+    "moduleId": 7,
+    "lessonId": "intermediate-m7-l3",
+    "topic": "General review",
+    "prompt": "A lease requires a single payment of $21,000 exactly one year from today. If the applicable annual discount rate is 5%, what is the approximate present value?",
+    "choices": [
+      {
+        "id": "intermediate-m7-l3-check-a0",
+        "text": "$20,000"
+      },
+      {
+        "id": "intermediate-m7-l3-check-a1",
+        "text": "$21,000"
+      },
+      {
+        "id": "intermediate-m7-l3-check-a2",
+        "text": "$22,050"
+      },
+      {
+        "id": "intermediate-m7-l3-check-a3",
+        "text": "$19,000"
+      }
+    ],
+    "correctChoiceId": "intermediate-m7-l3-check-a0",
+    "explanation": "$21,000 ÷ 1.05 = $20,000.",
+    "difficulty": "foundation",
+    "metadata": {
+      "section": "intermediate",
+      "blueprintYear": 2026,
+      "areaId": "intermediate-I",
+      "groupId": "module-7",
+      "topicId": "intermediate-initial-lease-measurement",
+      "taskIds": [
+        "intermediate-initial-lease-measurement.task-1",
+        "intermediate-initial-lease-measurement.task-2",
+        "intermediate-initial-lease-measurement.task-3"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "section": "intermediate",
+    "blueprintYear": 2026,
+    "areaId": "intermediate-I",
+    "groupId": "module-7",
+    "topicId": "intermediate-initial-lease-measurement",
+    "taskIds": [
+      "intermediate-initial-lease-measurement.task-1",
+      "intermediate-initial-lease-measurement.task-2",
+      "intermediate-initial-lease-measurement.task-3"
+    ],
+    "skill": "application",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      }
+    ]
+  },
+  "objectives": [
+    "Explain initial lease measurement and its underlying principles.",
+    "Apply the topic to a financial-reporting scenario.",
+    "Evaluate common errors and their financial-statement effects."
+  ]
+}

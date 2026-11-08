@@ -1,0 +1,88 @@
+{
+  "id": "intermediate-m7-l1",
+  "courseId": "intermediate",
+  "moduleId": 7,
+  "number": 1,
+  "title": "Lease Fundamentals",
+  "description": "Understand lease terminology, right-of-use assets, lease liabilities and the basic lessee accounting model.",
+  "url": "/learn/intermediate/modules/7/lessons/1",
+  "html": "<h2>What is a lease?</h2> <p> A lease generally gives a customer the right to control the use of an identified asset for a period of time in exchange for consideration. </p> <h2>Important terminology</h2> <div class=\"key-points\"> <p> <strong>Lessee:</strong> The party obtaining the right to use the asset. </p> <p> <strong>Lessor:</strong> The party providing the right to use the asset. </p> <p> <strong>Right-of-Use Asset:</strong> Represents the lessee's right to use the underlying asset during the lease term. </p> <p> <strong>Lease Liability:</strong> Represents the lessee's obligation to make lease payments. </p> </div> <h2>Important idea</h2> <p> The lessee does not necessarily own the underlying asset. </p> <p> Instead, the lessee recognizes its <strong>right to use</strong> the asset and its <strong>obligation to make lease payments</strong>. </p> <div class=\"example-box\"> <h3>Example</h3> <p> A company enters into a five-year lease for office space. </p> <p> The company does not necessarily own the building. However, the lease may create both: </p> <ul> <li>A right-of-use asset</li> <li>A lease liability</li> </ul> </div> <h2>Why leases matter</h2> <p> Lease contracts can create significant assets and liabilities, even though the company did not purchase the underlying asset. </p> <div class=\"key-points\"> <h3>Foundation</h3> <p> Think of lessee accounting as: </p> <div class=\"formula-box\"> Right to Use Asset + Obligation to Pay </div> </div>",
+  "quiz": {
+    "id": "intermediate-m7-l1-check",
+    "courseId": "intermediate",
+    "moduleId": 7,
+    "lessonId": "intermediate-m7-l1",
+    "topic": "General review",
+    "prompt": "From the lessee's perspective, what does a lease liability generally represent?",
+    "choices": [
+      {
+        "id": "intermediate-m7-l1-check-a0",
+        "text": "Ownership of the underlying asset"
+      },
+      {
+        "id": "intermediate-m7-l1-check-a1",
+        "text": "The obligation to make lease payments"
+      },
+      {
+        "id": "intermediate-m7-l1-check-a2",
+        "text": "Revenue earned from customers"
+      },
+      {
+        "id": "intermediate-m7-l1-check-a3",
+        "text": "The market value of the lessee's common stock"
+      }
+    ],
+    "correctChoiceId": "intermediate-m7-l1-check-a1",
+    "explanation": "The lease liability represents the lessee's obligation to make lease payments.",
+    "difficulty": "foundation",
+    "metadata": {
+      "section": "intermediate",
+      "blueprintYear": 2026,
+      "areaId": "intermediate-I",
+      "groupId": "module-7",
+      "topicId": "intermediate-lease-fundamentals",
+      "taskIds": [
+        "intermediate-lease-fundamentals.task-1",
+        "intermediate-lease-fundamentals.task-2",
+        "intermediate-lease-fundamentals.task-3"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "section": "intermediate",
+    "blueprintYear": 2026,
+    "areaId": "intermediate-I",
+    "groupId": "module-7",
+    "topicId": "intermediate-lease-fundamentals",
+    "taskIds": [
+      "intermediate-lease-fundamentals.task-1",
+      "intermediate-lease-fundamentals.task-2",
+      "intermediate-lease-fundamentals.task-3"
+    ],
+    "skill": "application",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      }
+    ]
+  },
+  "objectives": [
+    "Explain lease fundamentals and its underlying principles.",
+    "Apply the topic to a financial-reporting scenario.",
+    "Evaluate common errors and their financial-statement effects."
+  ]
+}

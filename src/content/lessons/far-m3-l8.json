@@ -1,0 +1,88 @@
+{
+  "id": "far-m3-l8",
+  "courseId": "far",
+  "moduleId": 3,
+  "number": 8,
+  "title": "Revenue Recognition — Advanced Applications",
+  "description": "Practice more complex revenue situations including variable consideration and contract modifications.",
+  "url": "/learn/far/modules/3/lessons/8",
+  "html": "<h2> Revenue Recognition — Advanced Applications </h2> <p> Revenue contracts may contain features that make the basic five-step model more complicated. </p> <p> Important applications include variable consideration, contract modifications, warranties, principal-versus-agent arrangements, and significant financing components. </p> <h3> 1. Variable Consideration </h3> <p> The amount a company ultimately receives may depend on future events. </p> <p> Examples include: </p> <ul> <li> Performance bonuses </li> <li> Rebates </li> <li> Discounts </li> <li> Refunds </li> <li> Penalties </li> <li> Price concessions </li> </ul> <p> Variable consideration may generally be estimated using either the expected value method or the most likely amount method, depending on which better predicts the consideration to which the entity will be entitled. </p> <div class=\"financial-example\"> <div> <span> Many Possible Outcomes </span> <strong> Expected Value </strong> </div> <div> <span> Two or Few Possible Outcomes </span> <strong> Most Likely Amount May Be Appropriate </strong> </div> </div> <h3> 2. Variable Consideration Constraint </h3> <p> An estimated amount of variable consideration is included in the transaction price only to the extent that it is probable that a significant reversal of cumulative revenue recognized will not occur when the uncertainty is resolved. </p> <div class=\"key-points\"> <strong> CPA Idea: </strong> <p> Do not aggressively recognize uncertain variable revenue that is likely to reverse. </p> </div> <h3> 3. Contract Modifications </h3> <p> A contract modification occurs when the parties approve a change in the scope or price of a contract. </p> <p> Some modifications are treated as separate contracts. </p> <div class=\"key-points\"> <strong> Separate Contract: </strong> <p> A modification is generally accounted for as a separate contract when it adds distinct promised goods or services and the additional price reflects their appropriate standalone selling prices. </p> </div> <div class=\"example-box\"> <strong> Example </strong> <p> A customer originally agrees to purchase 100 units. </p> <p> The customer later adds another 20 distinct units at their normal standalone selling price. </p> <p> The modification may generally be accounted for as a separate contract. </p> </div> <h3> Modification That Is Not a Separate Contract </h3> <p> If a contract modification does not qualify as a separate contract, the accounting depends on the relationship between the remaining goods or services and those already transferred. </p> <div class=\"key-points\"> <ul> <li> If the remaining goods or services are distinct, the modification is generally accounted for prospectively, effectively treating the change as a termination of the old contract and creation of a new contract. </li> <li> If the remaining goods or services are not distinct and are part of a single performance obligation that is already partially satisfied, the modification generally results in a cumulative catch-up adjustment. </li> </ul> </div> <h3> 4. Warranties </h3> <p> Revenue accounting distinguishes between assurance-type warranties and warranties that provide an additional service. </p> <div class=\"financial-example\"> <div> <span> Assurance Warranty </span> <strong> Generally Not Separate Performance Obligation </strong> </div> <div> <span> Additional Service Warranty </span> <strong> Separate Performance Obligation </strong> </div> </div> <p> An assurance-type warranty generally promises that the product complies with agreed-upon specifications. </p> <p> A separately purchased or service-type warranty generally provides an additional service and is accounted for as a separate performance obligation. </p> <h3> 5. Principal vs. Agent </h3> <p> When another party participates in providing goods or services to a customer, the entity determines whether it acts as a principal or an agent. </p> <div class=\"financial-example\"> <div> <span> Principal </span> <strong> Controls Good or Service Before Transfer </strong> </div> <div> <span> Agent </span> <strong> Arranges for Another Party to Provide It </strong> </div> </div> <p> A principal generally recognizes revenue on a gross basis for the consideration to which it expects to be entitled. </p> <p> An agent generally recognizes its fee or commission as revenue rather than the customer's entire payment. </p> <div class=\"example-box\"> <strong> Example </strong> <p> A ticket platform collects $500 from a customer but merely arranges for another company to provide the service. </p> <p> If the platform is an agent and earns a $50 commission, its revenue is generally $50 rather than $500. </p> </div> <h3> 6. Significant Financing Component </h3> <p> A contract may contain a significant financing component when the timing of payment provides a significant financing benefit to either the customer or the entity. </p> <p> When required, the promised consideration is adjusted for the effects of the time value of money. </p> <h3> 7. Practical Expedient </h3> <p> An entity generally need not adjust the promised consideration for a significant financing component when, at contract inception, it expects the period between transfer of the promised good or service and payment to be one year or less. </p> <h3> 8. Nonrefundable Upfront Fees </h3> <p> Receiving a nonrefundable upfront fee does not automatically mean revenue should be recognized immediately. </p> <p> The company must determine whether the fee relates to a distinct promised good or service. </p> <div class=\"key-points\"> <p> Cash received is not automatically revenue. Revenue depends on satisfaction of the related performance obligation. </p> </div> <h3> CPA Exam Memory Rule </h3> <div class=\"formula-box\"> Variable Amount → Estimate + Apply Constraint Added Distinct Goods at Standalone Price → Separate Contract Assurance Warranty → Generally Not Separate PO Service Warranty → Separate PO Principal → Gross Revenue Agent → Fee / Commission Revenue </div> <div class=\"key-points\"> <h3> Key Takeaways </h3> <ul> <li> Variable consideration is estimated and subject to the revenue reversal constraint. </li> <li> Certain contract modifications are treated as separate contracts. </li> <li> Assurance warranties generally are not separate performance obligations. </li> <li> Service-type warranties generally are separate performance obligations. </li> <li> Principals generally report revenue gross. </li> <li> Agents generally recognize only their fee or commission as revenue. </li> <li> Upfront cash receipts do not automatically qualify for immediate revenue recognition. </li> </ul> </div>",
+  "quiz": {
+    "id": "far-m3-l8-check",
+    "courseId": "far",
+    "moduleId": 3,
+    "lessonId": "far-m3-l8",
+    "topic": "General review",
+    "prompt": "An online platform collects $1,000 from a customer for a service provided by another company. The platform does not control the service before it is transferred to the customer and retains a $120 commission. If the platform is acting as an agent, how much revenue should it generally recognize?",
+    "choices": [
+      {
+        "id": "far-m3-l8-check-a0",
+        "text": "$1,000"
+      },
+      {
+        "id": "far-m3-l8-check-a1",
+        "text": "$880"
+      },
+      {
+        "id": "far-m3-l8-check-a2",
+        "text": "$0"
+      },
+      {
+        "id": "far-m3-l8-check-a3",
+        "text": "$120"
+      }
+    ],
+    "correctChoiceId": "far-m3-l8-check-a3",
+    "explanation": "An agent generally recognizes the fee or commission it earns rather than the gross amount collected from the customer. Therefore, the platform recognizes $120 of revenue.",
+    "difficulty": "foundation",
+    "metadata": {
+      "section": "far",
+      "blueprintYear": 2026,
+      "areaId": "far-III",
+      "groupId": "module-3",
+      "topicId": "far-revenue-recognition-advanced-applications",
+      "taskIds": [
+        "far-revenue-recognition-advanced-applications.task-1",
+        "far-revenue-recognition-advanced-applications.task-2",
+        "far-revenue-recognition-advanced-applications.task-3"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "section": "far",
+    "blueprintYear": 2026,
+    "areaId": "far-III",
+    "groupId": "module-3",
+    "topicId": "far-revenue-recognition-advanced-applications",
+    "taskIds": [
+      "far-revenue-recognition-advanced-applications.task-1",
+      "far-revenue-recognition-advanced-applications.task-2",
+      "far-revenue-recognition-advanced-applications.task-3"
+    ],
+    "skill": "application",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      }
+    ]
+  },
+  "objectives": [
+    "Explain revenue recognition — advanced applications and its underlying principles.",
+    "Apply the topic to a financial-reporting scenario.",
+    "Evaluate common errors and their financial-statement effects."
+  ]
+}

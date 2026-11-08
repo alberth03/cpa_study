@@ -1,0 +1,90 @@
+{
+  "id": "bar-m2-tbs3",
+  "courseId": "bar",
+  "moduleId": 2,
+  "number": 3,
+  "title": "Acquisition-date worksheet",
+  "html": "<div class=\"course-intro-card\"><h2>Acquisition-date worksheet</h2><p>Compute acquisition-date net assets and goodwill under the acquisition method.</p></div><section class=\"quiz-card\"><h3>Required responses</h3><div class=\"tbs-question\"><label for=\"bar-m2-tbs3-f1\">Fair value of net identifiable assets</label><input id=\"bar-m2-tbs3-f1\" type=\"text\"></div><div class=\"tbs-question\"><label for=\"bar-m2-tbs3-f2\">Consideration plus NCI</label><input id=\"bar-m2-tbs3-f2\" type=\"text\"></div><div class=\"tbs-question\"><label for=\"bar-m2-tbs3-f3\">Goodwill</label><input id=\"bar-m2-tbs3-f3\" type=\"text\"></div><div class=\"tbs-question\"><label for=\"bar-m2-tbs3-f4\">Advisory cost expense</label><input id=\"bar-m2-tbs3-f4\" type=\"text\"></div></section>",
+  "metadata": {
+    "section": "bar",
+    "blueprintYear": 2026,
+    "areaId": "bar-II",
+    "groupId": "E",
+    "topicId": "bar-business-combinations",
+    "taskIds": [
+      "bar-business-combinations.task-1",
+      "bar-business-combinations.task-2",
+      "bar-business-combinations.task-3"
+    ],
+    "skill": "analysis",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      },
+      {
+        "title": "FASB accounting standards",
+        "url": "https://asc.fasb.org/"
+      },
+      {
+        "title": "GASB standards",
+        "url": "https://www.gasb.org/standards-and-implementation"
+      }
+    ]
+  },
+  "difficulty": "advanced",
+  "fields": [
+    {
+      "id": "bar-m2-tbs3-f1",
+      "label": "Fair value of net identifiable assets",
+      "type": "number",
+      "options": [],
+      "correct": 1200000,
+      "explanation": "$1,800,000 − $600,000 = $1,200,000.",
+      "topicId": "bar-business-combinations"
+    },
+    {
+      "id": "bar-m2-tbs3-f2",
+      "label": "Consideration plus NCI",
+      "type": "number",
+      "options": [],
+      "correct": 1350000,
+      "explanation": "$1,100,000 + $250,000 = $1,350,000.",
+      "topicId": "bar-business-combinations"
+    },
+    {
+      "id": "bar-m2-tbs3-f3",
+      "label": "Goodwill",
+      "type": "number",
+      "options": [],
+      "correct": 150000,
+      "explanation": "$1,350,000 − $1,200,000 = $150,000.",
+      "topicId": "bar-business-combinations"
+    },
+    {
+      "id": "bar-m2-tbs3-f4",
+      "label": "Advisory cost expense",
+      "type": "number",
+      "options": [],
+      "correct": 40000,
+      "explanation": "The stated acquisition-related advisory costs are expensed.",
+      "topicId": "bar-business-combinations"
+    }
+  ],
+  "exhibits": [
+    {
+      "id": "bar-m2-tbs3-ex1",
+      "title": "Fair values",
+      "html": "<p>Identifiable assets $1,800,000; assumed liabilities $600,000. Consideration transferred $1,100,000; fair value of NCI $250,000. No previously held interest.</p>"
+    },
+    {
+      "id": "bar-m2-tbs3-ex2",
+      "title": "Transaction costs",
+      "html": "<p>Advisory fees are $40,000. Assume they are acquisition-related costs required to be expensed; ignore financing costs and tax effects.</p>"
+    }
+  ],
+  "explanation": "<h3>Fair value of net identifiable assets</h3><p>$1,800,000 − $600,000 = $1,200,000.</p><h3>Consideration plus NCI</h3><p>$1,100,000 + $250,000 = $1,350,000.</p><h3>Goodwill</h3><p>$1,350,000 − $1,200,000 = $150,000.</p><h3>Advisory cost expense</h3><p>The stated acquisition-related advisory costs are expensed.</p>"
+}

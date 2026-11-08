@@ -1,0 +1,103 @@
+{
+  "id": "isc-m2-l1",
+  "courseId": "isc",
+  "moduleId": 2,
+  "number": 1,
+  "title": "Identity, Authentication, Authorization & Access Reviews",
+  "description": "Distinguish identification, authentication, and authorization.",
+  "url": "/learn/isc/modules/2/lessons/1",
+  "metadata": {
+    "section": "isc",
+    "blueprintYear": 2026,
+    "areaId": "isc-II",
+    "groupId": "B-C",
+    "topicId": "isc-identity-access",
+    "taskIds": [
+      "isc-identity-access.task-1",
+      "isc-identity-access.task-2",
+      "isc-identity-access.task-3"
+    ],
+    "skill": "application",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      },
+      {
+        "title": "NIST Cybersecurity Framework",
+        "url": "https://www.nist.gov/cyberframework"
+      },
+      {
+        "title": "AICPA SOC resources",
+        "url": "https://www.aicpa-cima.com/resources/landing/system-and-organization-controls-soc-suite-of-services"
+      }
+    ]
+  },
+  "html": "<h2>Learning objectives</h2><ul><li>Distinguish identification, authentication, and authorization.</li><li>Apply least privilege and joiner/mover/leaver controls.</li><li>Evaluate MFA, privileged access, and access-review evidence.</li></ul><h2>Understand the concepts</h2><p>Identification claims an identity; authentication establishes confidence in that claim; authorization determines permitted actions. Strong authentication does not make every permission appropriate. Least privilege and need to know limit access to what a role requires. Segregation of duties addresses incompatible capabilities rather than simply counting user accounts.</p><p>Multifactor authentication combines independent factor categories, such as something known and something possessed. Two passwords are not two distinct factors. Protect enrollment, recovery, sessions, and privileged credentials as well as the login form. Shared accounts weaken accountability because actions cannot readily be attributed to individuals.</p><p>Access administration should cover onboarding, role changes, termination, and periodic review. Reconcile access to authoritative personnel and role information. A signed access-review checklist is weak evidence if reviewers did not receive complete entitlements or investigate inappropriate privileges. Timely removal of terminated users and independent approval of privileged access are important controls.</p><div class=\"example-box\"><h3>A transferred employee</h3><p>An employee moves from purchasing to accounts payable but retains vendor creation and payment approval privileges.</p><ol><li>Evaluate the combined privileges, not just the new role.</li><li>Remove unnecessary old access and address incompatible duties.</li><li>Document authorization, implementation, and review of the changed access.</li></ol></div><div class=\"key-points\"><h3>Common mistakes to avoid</h3><ul><li>Authentication is not authorization.</li><li>Two knowledge factors are not necessarily MFA.</li><li>A review signature does not prove the reviewed population was complete.</li></ul></div><h2>Apply and connect</h2><p>After solving the worked case, explain which facts determine the result and how a changed assumption would change your conclusion. Use the module questions to test fresh applications, then complete the related simulation before reviewing its solution.</p>",
+  "objectives": [
+    "Distinguish identification, authentication, and authorization.",
+    "Apply least privilege and joiner/mover/leaver controls.",
+    "Evaluate MFA, privileged access, and access-review evidence."
+  ],
+  "quiz": {
+    "id": "isc-m2-l1-q1",
+    "courseId": "isc",
+    "moduleId": 2,
+    "lessonId": "isc-m2-l1",
+    "topic": "Identity, Authentication, Authorization & Access Reviews",
+    "prompt": "Which function determines what an authenticated user may do?",
+    "choices": [
+      {
+        "id": "isc-m2-l1-q1-a0",
+        "text": "Identification alone."
+      },
+      {
+        "id": "isc-m2-l1-q1-a1",
+        "text": "Authorization."
+      },
+      {
+        "id": "isc-m2-l1-q1-a2",
+        "text": "Only encryption."
+      },
+      {
+        "id": "isc-m2-l1-q1-a3",
+        "text": "Only backup scheduling."
+      }
+    ],
+    "correctChoiceId": "isc-m2-l1-q1-a1",
+    "explanation": "Authorization governs permitted actions.",
+    "difficulty": "foundation",
+    "metadata": {
+      "section": "isc",
+      "blueprintYear": 2026,
+      "areaId": "isc-II",
+      "groupId": "B-C",
+      "topicId": "isc-identity-access",
+      "taskIds": [
+        "isc-identity-access.task-1"
+      ],
+      "skill": "remembering",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        },
+        {
+          "title": "NIST Cybersecurity Framework",
+          "url": "https://www.nist.gov/cyberframework"
+        },
+        {
+          "title": "AICPA SOC resources",
+          "url": "https://www.aicpa-cima.com/resources/landing/system-and-organization-controls-soc-suite-of-services"
+        }
+      ]
+    }
+  },
+  "relatedSimulation": "isc-m2-tbs1"
+}

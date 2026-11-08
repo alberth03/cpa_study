@@ -1,0 +1,1883 @@
+{
+  "id": "reg-m5-practice",
+  "title": "Federal Taxation of Entities Practice",
+  "courseId": "reg",
+  "moduleId": 5,
+  "selection": "per-lesson",
+  "feedback": "immediate",
+  "passPercent": 80,
+  "questions": [
+    {
+      "id": "reg-m5-l1-q1",
+      "courseId": "reg",
+      "moduleId": 5,
+      "lessonId": "reg-m5-l1",
+      "topic": "C Corporations: Taxable Income, Formation & Distributions",
+      "prompt": "Book income is $200,000 and includes $10,000 tax-exempt income and $6,000 nondeductible expense. No other differences exist. What is taxable income?",
+      "choices": [
+        {
+          "id": "reg-m5-l1-q1-a0",
+          "text": "$196,000."
+        },
+        {
+          "id": "reg-m5-l1-q1-a1",
+          "text": "$184,000."
+        },
+        {
+          "id": "reg-m5-l1-q1-a2",
+          "text": "$216,000."
+        },
+        {
+          "id": "reg-m5-l1-q1-a3",
+          "text": "$200,000."
+        }
+      ],
+      "correctChoiceId": "reg-m5-l1-q1-a0",
+      "explanation": "Subtract exempt income and add back the nondeductible expense: 200,000 − 10,000 + 6,000.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "reg",
+        "blueprintYear": 2026,
+        "areaId": "reg-V",
+        "groupId": "A-B",
+        "topicId": "reg-entity-corporations",
+        "taskIds": [
+          "reg-entity-corporations.task-1"
+        ],
+        "skill": "application",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Circular 230",
+            "url": "https://www.irs.gov/tax-professionals/circular-230-tax-professionals"
+          }
+        ]
+      }
+    },
+    {
+      "id": "reg-m5-l1-q2",
+      "courseId": "reg",
+      "moduleId": 5,
+      "lessonId": "reg-m5-l1",
+      "topic": "C Corporations: Taxable Income, Formation & Distributions",
+      "prompt": "Taxable income is $300,000 and the supplied corporate tax rate is 21%. What is tax before credits?",
+      "choices": [
+        {
+          "id": "reg-m5-l1-q2-a0",
+          "text": "$21,000."
+        },
+        {
+          "id": "reg-m5-l1-q2-a1",
+          "text": "$63,000."
+        },
+        {
+          "id": "reg-m5-l1-q2-a2",
+          "text": "$93,000."
+        },
+        {
+          "id": "reg-m5-l1-q2-a3",
+          "text": "$237,000."
+        }
+      ],
+      "correctChoiceId": "reg-m5-l1-q2-a1",
+      "explanation": "$300,000 × 21% = $63,000.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "reg",
+        "blueprintYear": 2026,
+        "areaId": "reg-V",
+        "groupId": "A-B",
+        "topicId": "reg-entity-corporations",
+        "taskIds": [
+          "reg-entity-corporations.task-2"
+        ],
+        "skill": "application",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Circular 230",
+            "url": "https://www.irs.gov/tax-professionals/circular-230-tax-professionals"
+          }
+        ]
+      }
+    },
+    {
+      "id": "reg-m5-l1-q3",
+      "courseId": "reg",
+      "moduleId": 5,
+      "lessonId": "reg-m5-l1",
+      "topic": "C Corporations: Taxable Income, Formation & Distributions",
+      "prompt": "Which transfer does not constitute property solely for Section 351 purposes?",
+      "choices": [
+        {
+          "id": "reg-m5-l1-q3-a0",
+          "text": "Cash."
+        },
+        {
+          "id": "reg-m5-l1-q3-a1",
+          "text": "Equipment."
+        },
+        {
+          "id": "reg-m5-l1-q3-a2",
+          "text": "Services performed for stock."
+        },
+        {
+          "id": "reg-m5-l1-q3-a3",
+          "text": "Land."
+        }
+      ],
+      "correctChoiceId": "reg-m5-l1-q3-a2",
+      "explanation": "Services are treated separately from property in evaluating Section 351 requirements.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "reg",
+        "blueprintYear": 2026,
+        "areaId": "reg-V",
+        "groupId": "A-B",
+        "topicId": "reg-entity-corporations",
+        "taskIds": [
+          "reg-entity-corporations.task-3"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Circular 230",
+            "url": "https://www.irs.gov/tax-professionals/circular-230-tax-professionals"
+          }
+        ]
+      }
+    },
+    {
+      "id": "reg-m5-l1-q4",
+      "courseId": "reg",
+      "moduleId": 5,
+      "lessonId": "reg-m5-l1",
+      "topic": "C Corporations: Taxable Income, Formation & Distributions",
+      "prompt": "A cash distribution is $50,000, applicable earnings and profits are $30,000, and stock basis is $15,000. What is gain after dividend and basis recovery?",
+      "choices": [
+        {
+          "id": "reg-m5-l1-q4-a0",
+          "text": "$20,000."
+        },
+        {
+          "id": "reg-m5-l1-q4-a1",
+          "text": "$15,000."
+        },
+        {
+          "id": "reg-m5-l1-q4-a2",
+          "text": "$50,000."
+        },
+        {
+          "id": "reg-m5-l1-q4-a3",
+          "text": "$5,000."
+        }
+      ],
+      "correctChoiceId": "reg-m5-l1-q4-a3",
+      "explanation": "$30,000 dividend and $15,000 basis recovery leave $5,000 gain.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "reg",
+        "blueprintYear": 2026,
+        "areaId": "reg-V",
+        "groupId": "A-B",
+        "topicId": "reg-entity-corporations",
+        "taskIds": [
+          "reg-entity-corporations.task-1"
+        ],
+        "skill": "application",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Circular 230",
+            "url": "https://www.irs.gov/tax-professionals/circular-230-tax-professionals"
+          }
+        ]
+      }
+    },
+    {
+      "id": "reg-m5-l1-q5",
+      "courseId": "reg",
+      "moduleId": 5,
+      "lessonId": "reg-m5-l1",
+      "topic": "C Corporations: Taxable Income, Formation & Distributions",
+      "prompt": "Which statement about earnings and profits is correct?",
+      "choices": [
+        {
+          "id": "reg-m5-l1-q5-a0",
+          "text": "It is a tax measure that can differ from book retained earnings."
+        },
+        {
+          "id": "reg-m5-l1-q5-a1",
+          "text": "It always equals cash."
+        },
+        {
+          "id": "reg-m5-l1-q5-a2",
+          "text": "It always equals taxable income."
+        },
+        {
+          "id": "reg-m5-l1-q5-a3",
+          "text": "It always equals retained earnings."
+        }
+      ],
+      "correctChoiceId": "reg-m5-l1-q5-a0",
+      "explanation": "Earnings and profits require tax adjustments and are not identical to these other measures.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "reg",
+        "blueprintYear": 2026,
+        "areaId": "reg-V",
+        "groupId": "A-B",
+        "topicId": "reg-entity-corporations",
+        "taskIds": [
+          "reg-entity-corporations.task-2"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Circular 230",
+            "url": "https://www.irs.gov/tax-professionals/circular-230-tax-professionals"
+          }
+        ]
+      }
+    },
+    {
+      "id": "reg-m5-l1-q6",
+      "courseId": "reg",
+      "moduleId": 5,
+      "lessonId": "reg-m5-l1",
+      "topic": "C Corporations: Taxable Income, Formation & Distributions",
+      "prompt": "A transferor receives stock and cash in a purported corporate formation. What should be evaluated?",
+      "choices": [
+        {
+          "id": "reg-m5-l1-q6-a0",
+          "text": "Automatic nonrecognition for every receipt."
+        },
+        {
+          "id": "reg-m5-l1-q6-a1",
+          "text": "Section 351 qualification and any boot-related gain."
+        },
+        {
+          "id": "reg-m5-l1-q6-a2",
+          "text": "Only the corporate logo."
+        },
+        {
+          "id": "reg-m5-l1-q6-a3",
+          "text": "Automatic ordinary loss on all transferred property."
+        }
+      ],
+      "correctChoiceId": "reg-m5-l1-q6-a1",
+      "explanation": "Qualification and the consequences of boot are separate required analyses.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "reg",
+        "blueprintYear": 2026,
+        "areaId": "reg-V",
+        "groupId": "A-B",
+        "topicId": "reg-entity-corporations",
+        "taskIds": [
+          "reg-entity-corporations.task-3"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Circular 230",
+            "url": "https://www.irs.gov/tax-professionals/circular-230-tax-professionals"
+          }
+        ]
+      }
+    },
+    {
+      "id": "reg-m5-l1-q7",
+      "courseId": "reg",
+      "moduleId": 5,
+      "lessonId": "reg-m5-l1",
+      "topic": "C Corporations: Taxable Income, Formation & Distributions",
+      "prompt": "Reconcile taxable income and a shareholder distribution under the supplied simplified assumptions. Corporate income: Book income $500,000 includes $20,000 tax-exempt interest and $15,000 nondeductible expenses. Additional allowed tax depreciation exceeds book depreciation by $25,000. No other differences apply. Use a 21% tax rate. Distribution: A single cash distribution is $80,000. Applicable earnings and profits are $50,000; stock basis is $20,000. No special distribution rule applies. Required: Corporate taxable income.",
+      "choices": [
+        {
+          "id": "reg-m5-l1-q7-a0",
+          "text": "500000"
+        },
+        {
+          "id": "reg-m5-l1-q7-a1",
+          "text": "520000"
+        },
+        {
+          "id": "reg-m5-l1-q7-a2",
+          "text": "470000"
+        },
+        {
+          "id": "reg-m5-l1-q7-a3",
+          "text": "440000"
+        }
+      ],
+      "correctChoiceId": "reg-m5-l1-q7-a2",
+      "explanation": "$500,000 − $20,000 + $15,000 − $25,000 = $470,000.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "reg",
+        "blueprintYear": 2026,
+        "areaId": "reg-V",
+        "groupId": "A-B",
+        "topicId": "reg-entity-corporations",
+        "taskIds": [
+          "reg-entity-corporations.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Circular 230",
+            "url": "https://www.irs.gov/tax-professionals/circular-230-tax-professionals"
+          }
+        ]
+      },
+      "familyId": "reg-m5-tbs1"
+    },
+    {
+      "id": "reg-m5-l1-q8",
+      "courseId": "reg",
+      "moduleId": 5,
+      "lessonId": "reg-m5-l1",
+      "topic": "C Corporations: Taxable Income, Formation & Distributions",
+      "prompt": "Reconcile taxable income and a shareholder distribution under the supplied simplified assumptions. Corporate income: Book income $500,000 includes $20,000 tax-exempt interest and $15,000 nondeductible expenses. Additional allowed tax depreciation exceeds book depreciation by $25,000. No other differences apply. Use a 21% tax rate. Distribution: A single cash distribution is $80,000. Applicable earnings and profits are $50,000; stock basis is $20,000. No special distribution rule applies. Required: Tax before credits.",
+      "choices": [
+        {
+          "id": "reg-m5-l1-q8-a0",
+          "text": "105000"
+        },
+        {
+          "id": "reg-m5-l1-q8-a1",
+          "text": "94000"
+        },
+        {
+          "id": "reg-m5-l1-q8-a2",
+          "text": "117500"
+        },
+        {
+          "id": "reg-m5-l1-q8-a3",
+          "text": "98700"
+        }
+      ],
+      "correctChoiceId": "reg-m5-l1-q8-a3",
+      "explanation": "$470,000 × 21% = $98,700.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "reg",
+        "blueprintYear": 2026,
+        "areaId": "reg-V",
+        "groupId": "A-B",
+        "topicId": "reg-entity-corporations",
+        "taskIds": [
+          "reg-entity-corporations.task-2"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Circular 230",
+            "url": "https://www.irs.gov/tax-professionals/circular-230-tax-professionals"
+          }
+        ]
+      },
+      "familyId": "reg-m5-tbs1"
+    },
+    {
+      "id": "reg-m5-l1-q9",
+      "courseId": "reg",
+      "moduleId": 5,
+      "lessonId": "reg-m5-l1",
+      "topic": "C Corporations: Taxable Income, Formation & Distributions",
+      "prompt": "Reconcile taxable income and a shareholder distribution under the supplied simplified assumptions. Corporate income: Book income $500,000 includes $20,000 tax-exempt interest and $15,000 nondeductible expenses. Additional allowed tax depreciation exceeds book depreciation by $25,000. No other differences apply. Use a 21% tax rate. Distribution: A single cash distribution is $80,000. Applicable earnings and profits are $50,000; stock basis is $20,000. No special distribution rule applies. Required: Dividend portion of the distribution.",
+      "choices": [
+        {
+          "id": "reg-m5-l1-q9-a0",
+          "text": "50000"
+        },
+        {
+          "id": "reg-m5-l1-q9-a1",
+          "text": "80000"
+        },
+        {
+          "id": "reg-m5-l1-q9-a2",
+          "text": "20000"
+        },
+        {
+          "id": "reg-m5-l1-q9-a3",
+          "text": "10000"
+        }
+      ],
+      "correctChoiceId": "reg-m5-l1-q9-a0",
+      "explanation": "The distribution is a dividend to the extent of the stated earnings and profits.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "reg",
+        "blueprintYear": 2026,
+        "areaId": "reg-V",
+        "groupId": "A-B",
+        "topicId": "reg-entity-corporations",
+        "taskIds": [
+          "reg-entity-corporations.task-3"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Circular 230",
+            "url": "https://www.irs.gov/tax-professionals/circular-230-tax-professionals"
+          }
+        ]
+      },
+      "familyId": "reg-m5-tbs1"
+    },
+    {
+      "id": "reg-m5-l1-q10",
+      "courseId": "reg",
+      "moduleId": 5,
+      "lessonId": "reg-m5-l1",
+      "topic": "C Corporations: Taxable Income, Formation & Distributions",
+      "prompt": "Reconcile taxable income and a shareholder distribution under the supplied simplified assumptions. Corporate income: Book income $500,000 includes $20,000 tax-exempt interest and $15,000 nondeductible expenses. Additional allowed tax depreciation exceeds book depreciation by $25,000. No other differences apply. Use a 21% tax rate. Distribution: A single cash distribution is $80,000. Applicable earnings and profits are $50,000; stock basis is $20,000. No special distribution rule applies. Required: Gain after dividend and basis recovery.",
+      "choices": [
+        {
+          "id": "reg-m5-l1-q10-a0",
+          "text": "30000"
+        },
+        {
+          "id": "reg-m5-l1-q10-a1",
+          "text": "10000"
+        },
+        {
+          "id": "reg-m5-l1-q10-a2",
+          "text": "20000"
+        },
+        {
+          "id": "reg-m5-l1-q10-a3",
+          "text": "0"
+        }
+      ],
+      "correctChoiceId": "reg-m5-l1-q10-a1",
+      "explanation": "$80,000 − $50,000 − $20,000 = $10,000.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "reg",
+        "blueprintYear": 2026,
+        "areaId": "reg-V",
+        "groupId": "A-B",
+        "topicId": "reg-entity-corporations",
+        "taskIds": [
+          "reg-entity-corporations.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Circular 230",
+            "url": "https://www.irs.gov/tax-professionals/circular-230-tax-professionals"
+          }
+        ]
+      },
+      "familyId": "reg-m5-tbs1"
+    },
+    {
+      "id": "reg-m5-l2-q1",
+      "courseId": "reg",
+      "moduleId": 5,
+      "lessonId": "reg-m5-l2",
+      "topic": "Partnership Income, Outside Basis & Distributions",
+      "prompt": "Beginning outside basis is $15,000; contribution $5,000; allocated income $9,000; cash distribution $7,000. No other changes apply. What is ending basis?",
+      "choices": [
+        {
+          "id": "reg-m5-l2-q1-a0",
+          "text": "$36,000."
+        },
+        {
+          "id": "reg-m5-l2-q1-a1",
+          "text": "$22,000."
+        },
+        {
+          "id": "reg-m5-l2-q1-a2",
+          "text": "$8,000."
+        },
+        {
+          "id": "reg-m5-l2-q1-a3",
+          "text": "$15,000."
+        }
+      ],
+      "correctChoiceId": "reg-m5-l2-q1-a1",
+      "explanation": "$15,000 + $5,000 + $9,000 − $7,000 = $22,000.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "reg",
+        "blueprintYear": 2026,
+        "areaId": "reg-V",
+        "groupId": "D",
+        "topicId": "reg-entity-partnerships",
+        "taskIds": [
+          "reg-entity-partnerships.task-1"
+        ],
+        "skill": "application",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Circular 230",
+            "url": "https://www.irs.gov/tax-professionals/circular-230-tax-professionals"
+          }
+        ]
+      }
+    },
+    {
+      "id": "reg-m5-l2-q2",
+      "courseId": "reg",
+      "moduleId": 5,
+      "lessonId": "reg-m5-l2",
+      "topic": "Partnership Income, Outside Basis & Distributions",
+      "prompt": "Which term refers to a partner’s basis in the partnership interest?",
+      "choices": [
+        {
+          "id": "reg-m5-l2-q2-a0",
+          "text": "Inside basis in every asset."
+        },
+        {
+          "id": "reg-m5-l2-q2-a1",
+          "text": "Book retained earnings."
+        },
+        {
+          "id": "reg-m5-l2-q2-a2",
+          "text": "Outside basis."
+        },
+        {
+          "id": "reg-m5-l2-q2-a3",
+          "text": "Gross receipts."
+        }
+      ],
+      "correctChoiceId": "reg-m5-l2-q2-a2",
+      "explanation": "Outside basis belongs to the partner’s interest, distinct from the entity’s asset basis.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "reg",
+        "blueprintYear": 2026,
+        "areaId": "reg-V",
+        "groupId": "D",
+        "topicId": "reg-entity-partnerships",
+        "taskIds": [
+          "reg-entity-partnerships.task-2"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Circular 230",
+            "url": "https://www.irs.gov/tax-professionals/circular-230-tax-professionals"
+          }
+        ]
+      }
+    },
+    {
+      "id": "reg-m5-l2-q3",
+      "courseId": "reg",
+      "moduleId": 5,
+      "lessonId": "reg-m5-l2",
+      "topic": "Partnership Income, Outside Basis & Distributions",
+      "prompt": "A partner receives $30,000 cash when outside basis is $24,000. Assume no special rules. What gain arises?",
+      "choices": [
+        {
+          "id": "reg-m5-l2-q3-a0",
+          "text": "$30,000."
+        },
+        {
+          "id": "reg-m5-l2-q3-a1",
+          "text": "$24,000."
+        },
+        {
+          "id": "reg-m5-l2-q3-a2",
+          "text": "Zero."
+        },
+        {
+          "id": "reg-m5-l2-q3-a3",
+          "text": "$6,000."
+        }
+      ],
+      "correctChoiceId": "reg-m5-l2-q3-a3",
+      "explanation": "Cash in excess of outside basis generally produces gain under these assumptions.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "reg",
+        "blueprintYear": 2026,
+        "areaId": "reg-V",
+        "groupId": "D",
+        "topicId": "reg-entity-partnerships",
+        "taskIds": [
+          "reg-entity-partnerships.task-3"
+        ],
+        "skill": "application",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Circular 230",
+            "url": "https://www.irs.gov/tax-professionals/circular-230-tax-professionals"
+          }
+        ]
+      }
+    },
+    {
+      "id": "reg-m5-l2-q4",
+      "courseId": "reg",
+      "moduleId": 5,
+      "lessonId": "reg-m5-l2",
+      "topic": "Partnership Income, Outside Basis & Distributions",
+      "prompt": "Why are certain partnership items separately stated?",
+      "choices": [
+        {
+          "id": "reg-m5-l2-q4-a0",
+          "text": "Their tax treatment may depend on partner-level circumstances."
+        },
+        {
+          "id": "reg-m5-l2-q4-a1",
+          "text": "They are never taxable."
+        },
+        {
+          "id": "reg-m5-l2-q4-a2",
+          "text": "They are always cash distributions."
+        },
+        {
+          "id": "reg-m5-l2-q4-a3",
+          "text": "They are excluded from every return."
+        }
+      ],
+      "correctChoiceId": "reg-m5-l2-q4-a0",
+      "explanation": "Separate reporting preserves each item’s character and partner-level treatment.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "reg",
+        "blueprintYear": 2026,
+        "areaId": "reg-V",
+        "groupId": "D",
+        "topicId": "reg-entity-partnerships",
+        "taskIds": [
+          "reg-entity-partnerships.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Circular 230",
+            "url": "https://www.irs.gov/tax-professionals/circular-230-tax-professionals"
+          }
+        ]
+      }
+    },
+    {
+      "id": "reg-m5-l2-q5",
+      "courseId": "reg",
+      "moduleId": 5,
+      "lessonId": "reg-m5-l2",
+      "topic": "Partnership Income, Outside Basis & Distributions",
+      "prompt": "A partner’s allocated loss exceeds available outside basis. What must be evaluated first among partner-level loss limits?",
+      "choices": [
+        {
+          "id": "reg-m5-l2-q5-a0",
+          "text": "Only the cash in the partner’s personal bank account."
+        },
+        {
+          "id": "reg-m5-l2-q5-a1",
+          "text": "The basis limitation."
+        },
+        {
+          "id": "reg-m5-l2-q5-a2",
+          "text": "Only the partnership’s revenue."
+        },
+        {
+          "id": "reg-m5-l2-q5-a3",
+          "text": "An automatic deduction of every allocated loss."
+        }
+      ],
+      "correctChoiceId": "reg-m5-l2-q5-a1",
+      "explanation": "Loss deductions are limited by basis before other applicable at-risk and passive-activity constraints.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "reg",
+        "blueprintYear": 2026,
+        "areaId": "reg-V",
+        "groupId": "D",
+        "topicId": "reg-entity-partnerships",
+        "taskIds": [
+          "reg-entity-partnerships.task-2"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Circular 230",
+            "url": "https://www.irs.gov/tax-professionals/circular-230-tax-professionals"
+          }
+        ]
+      }
+    },
+    {
+      "id": "reg-m5-l2-q6",
+      "courseId": "reg",
+      "moduleId": 5,
+      "lessonId": "reg-m5-l2",
+      "topic": "Partnership Income, Outside Basis & Distributions",
+      "prompt": "A decrease in a partner’s share of partnership liabilities can have what effect?",
+      "choices": [
+        {
+          "id": "reg-m5-l2-q6-a0",
+          "text": "It always increases outside basis."
+        },
+        {
+          "id": "reg-m5-l2-q6-a1",
+          "text": "It is always tax-exempt salary."
+        },
+        {
+          "id": "reg-m5-l2-q6-a2",
+          "text": "It can be treated as a deemed cash distribution."
+        },
+        {
+          "id": "reg-m5-l2-q6-a3",
+          "text": "It has no possible basis effect."
+        }
+      ],
+      "correctChoiceId": "reg-m5-l2-q6-a2",
+      "explanation": "Liability relief can reduce basis and affect distribution gain under the applicable rules.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "reg",
+        "blueprintYear": 2026,
+        "areaId": "reg-V",
+        "groupId": "D",
+        "topicId": "reg-entity-partnerships",
+        "taskIds": [
+          "reg-entity-partnerships.task-3"
+        ],
+        "skill": "application",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Circular 230",
+            "url": "https://www.irs.gov/tax-professionals/circular-230-tax-professionals"
+          }
+        ]
+      }
+    },
+    {
+      "id": "reg-m5-l2-q7",
+      "courseId": "reg",
+      "moduleId": 5,
+      "lessonId": "reg-m5-l2",
+      "topic": "Partnership Income, Outside Basis & Distributions",
+      "prompt": "Prepare a partner’s basis and distribution analysis using the stated allocation facts. Basis changes: Beginning outside basis $40,000; cash contribution $10,000; allocated ordinary income $12,000; increase in allocated liability share $8,000. Distribution: The partner then receives $75,000 cash. No other changes or special rules apply. Evaluate distribution gain after the preceding basis increases. Required: Basis before liability increase and distribution.",
+      "choices": [
+        {
+          "id": "reg-m5-l2-q7-a0",
+          "text": "40000"
+        },
+        {
+          "id": "reg-m5-l2-q7-a1",
+          "text": "50000"
+        },
+        {
+          "id": "reg-m5-l2-q7-a2",
+          "text": "52000"
+        },
+        {
+          "id": "reg-m5-l2-q7-a3",
+          "text": "62000"
+        }
+      ],
+      "correctChoiceId": "reg-m5-l2-q7-a3",
+      "explanation": "$40,000 + $10,000 + $12,000 = $62,000.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "reg",
+        "blueprintYear": 2026,
+        "areaId": "reg-V",
+        "groupId": "D",
+        "topicId": "reg-entity-partnerships",
+        "taskIds": [
+          "reg-entity-partnerships.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Circular 230",
+            "url": "https://www.irs.gov/tax-professionals/circular-230-tax-professionals"
+          }
+        ]
+      },
+      "familyId": "reg-m5-tbs2"
+    },
+    {
+      "id": "reg-m5-l2-q8",
+      "courseId": "reg",
+      "moduleId": 5,
+      "lessonId": "reg-m5-l2",
+      "topic": "Partnership Income, Outside Basis & Distributions",
+      "prompt": "Prepare a partner’s basis and distribution analysis using the stated allocation facts. Basis changes: Beginning outside basis $40,000; cash contribution $10,000; allocated ordinary income $12,000; increase in allocated liability share $8,000. Distribution: The partner then receives $75,000 cash. No other changes or special rules apply. Evaluate distribution gain after the preceding basis increases. Required: Basis immediately before distribution.",
+      "choices": [
+        {
+          "id": "reg-m5-l2-q8-a0",
+          "text": "70000"
+        },
+        {
+          "id": "reg-m5-l2-q8-a1",
+          "text": "62000"
+        },
+        {
+          "id": "reg-m5-l2-q8-a2",
+          "text": "54000"
+        },
+        {
+          "id": "reg-m5-l2-q8-a3",
+          "text": "83000"
+        }
+      ],
+      "correctChoiceId": "reg-m5-l2-q8-a0",
+      "explanation": "Add the $8,000 liability-share increase.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "reg",
+        "blueprintYear": 2026,
+        "areaId": "reg-V",
+        "groupId": "D",
+        "topicId": "reg-entity-partnerships",
+        "taskIds": [
+          "reg-entity-partnerships.task-2"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Circular 230",
+            "url": "https://www.irs.gov/tax-professionals/circular-230-tax-professionals"
+          }
+        ]
+      },
+      "familyId": "reg-m5-tbs2"
+    },
+    {
+      "id": "reg-m5-l2-q9",
+      "courseId": "reg",
+      "moduleId": 5,
+      "lessonId": "reg-m5-l2",
+      "topic": "Partnership Income, Outside Basis & Distributions",
+      "prompt": "Prepare a partner’s basis and distribution analysis using the stated allocation facts. Basis changes: Beginning outside basis $40,000; cash contribution $10,000; allocated ordinary income $12,000; increase in allocated liability share $8,000. Distribution: The partner then receives $75,000 cash. No other changes or special rules apply. Evaluate distribution gain after the preceding basis increases. Required: Gain on the cash distribution.",
+      "choices": [
+        {
+          "id": "reg-m5-l2-q9-a0",
+          "text": "75000"
+        },
+        {
+          "id": "reg-m5-l2-q9-a1",
+          "text": "5000"
+        },
+        {
+          "id": "reg-m5-l2-q9-a2",
+          "text": "70000"
+        },
+        {
+          "id": "reg-m5-l2-q9-a3",
+          "text": "13000"
+        }
+      ],
+      "correctChoiceId": "reg-m5-l2-q9-a1",
+      "explanation": "$75,000 cash exceeds $70,000 outside basis by $5,000.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "reg",
+        "blueprintYear": 2026,
+        "areaId": "reg-V",
+        "groupId": "D",
+        "topicId": "reg-entity-partnerships",
+        "taskIds": [
+          "reg-entity-partnerships.task-3"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Circular 230",
+            "url": "https://www.irs.gov/tax-professionals/circular-230-tax-professionals"
+          }
+        ]
+      },
+      "familyId": "reg-m5-tbs2"
+    },
+    {
+      "id": "reg-m5-l2-q10",
+      "courseId": "reg",
+      "moduleId": 5,
+      "lessonId": "reg-m5-l2",
+      "topic": "Partnership Income, Outside Basis & Distributions",
+      "prompt": "Prepare a partner’s basis and distribution analysis using the stated allocation facts. Basis changes: Beginning outside basis $40,000; cash contribution $10,000; allocated ordinary income $12,000; increase in allocated liability share $8,000. Distribution: The partner then receives $75,000 cash. No other changes or special rules apply. Evaluate distribution gain after the preceding basis increases. Required: Remaining outside basis.",
+      "choices": [
+        {
+          "id": "reg-m5-l2-q10-a0",
+          "text": "5000"
+        },
+        {
+          "id": "reg-m5-l2-q10-a1",
+          "text": "70000"
+        },
+        {
+          "id": "reg-m5-l2-q10-a2",
+          "text": "0"
+        },
+        {
+          "id": "reg-m5-l2-q10-a3",
+          "text": "-5000"
+        }
+      ],
+      "correctChoiceId": "reg-m5-l2-q10-a2",
+      "explanation": "The distribution reduces basis to zero; the excess is gain rather than negative basis.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "reg",
+        "blueprintYear": 2026,
+        "areaId": "reg-V",
+        "groupId": "D",
+        "topicId": "reg-entity-partnerships",
+        "taskIds": [
+          "reg-entity-partnerships.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Circular 230",
+            "url": "https://www.irs.gov/tax-professionals/circular-230-tax-professionals"
+          }
+        ]
+      },
+      "familyId": "reg-m5-tbs2"
+    },
+    {
+      "id": "reg-m5-l3-q1",
+      "courseId": "reg",
+      "moduleId": 5,
+      "lessonId": "reg-m5-l3",
+      "topic": "S Corporations: Eligibility, Basis & Pass-Through Items",
+      "prompt": "Which proposed shareholder generally makes an S election ineligible absent a special exception?",
+      "choices": [
+        {
+          "id": "reg-m5-l3-q1-a0",
+          "text": "An eligible U.S. individual."
+        },
+        {
+          "id": "reg-m5-l3-q1-a1",
+          "text": "An eligible estate."
+        },
+        {
+          "id": "reg-m5-l3-q1-a2",
+          "text": "A partnership."
+        },
+        {
+          "id": "reg-m5-l3-q1-a3",
+          "text": "A qualifying trust."
+        }
+      ],
+      "correctChoiceId": "reg-m5-l3-q1-a2",
+      "explanation": "Partnership shareholders generally do not satisfy S-corporation shareholder eligibility.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "reg",
+        "blueprintYear": 2026,
+        "areaId": "reg-V",
+        "groupId": "C",
+        "topicId": "reg-entity-s-corporations",
+        "taskIds": [
+          "reg-entity-s-corporations.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Circular 230",
+            "url": "https://www.irs.gov/tax-professionals/circular-230-tax-professionals"
+          }
+        ]
+      }
+    },
+    {
+      "id": "reg-m5-l3-q2",
+      "courseId": "reg",
+      "moduleId": 5,
+      "lessonId": "reg-m5-l3",
+      "topic": "S Corporations: Eligibility, Basis & Pass-Through Items",
+      "prompt": "A shareholder merely guarantees an S corporation’s bank debt and makes no payment. What is the general basis implication?",
+      "choices": [
+        {
+          "id": "reg-m5-l3-q2-a0",
+          "text": "It always creates basis equal to the full loan."
+        },
+        {
+          "id": "reg-m5-l3-q2-a1",
+          "text": "It creates additional corporate stock automatically."
+        },
+        {
+          "id": "reg-m5-l3-q2-a2",
+          "text": "It always produces dividend income."
+        },
+        {
+          "id": "reg-m5-l3-q2-a3",
+          "text": "The guarantee alone generally does not create debt basis."
+        }
+      ],
+      "correctChoiceId": "reg-m5-l3-q2-a3",
+      "explanation": "A guarantee is not the same as qualifying direct indebtedness or an actual economic outlay.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "reg",
+        "blueprintYear": 2026,
+        "areaId": "reg-V",
+        "groupId": "C",
+        "topicId": "reg-entity-s-corporations",
+        "taskIds": [
+          "reg-entity-s-corporations.task-2"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Circular 230",
+            "url": "https://www.irs.gov/tax-professionals/circular-230-tax-professionals"
+          }
+        ]
+      }
+    },
+    {
+      "id": "reg-m5-l3-q3",
+      "courseId": "reg",
+      "moduleId": 5,
+      "lessonId": "reg-m5-l3",
+      "topic": "S Corporations: Eligibility, Basis & Pass-Through Items",
+      "prompt": "Beginning stock basis is $20,000; allocated income $8,000; cash distribution $10,000. No other changes apply. What is basis before losses?",
+      "choices": [
+        {
+          "id": "reg-m5-l3-q3-a0",
+          "text": "$18,000."
+        },
+        {
+          "id": "reg-m5-l3-q3-a1",
+          "text": "$38,000."
+        },
+        {
+          "id": "reg-m5-l3-q3-a2",
+          "text": "$12,000."
+        },
+        {
+          "id": "reg-m5-l3-q3-a3",
+          "text": "$20,000."
+        }
+      ],
+      "correctChoiceId": "reg-m5-l3-q3-a0",
+      "explanation": "$20,000 + $8,000 − $10,000 = $18,000.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "reg",
+        "blueprintYear": 2026,
+        "areaId": "reg-V",
+        "groupId": "C",
+        "topicId": "reg-entity-s-corporations",
+        "taskIds": [
+          "reg-entity-s-corporations.task-3"
+        ],
+        "skill": "application",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Circular 230",
+            "url": "https://www.irs.gov/tax-professionals/circular-230-tax-professionals"
+          }
+        ]
+      }
+    },
+    {
+      "id": "reg-m5-l3-q4",
+      "courseId": "reg",
+      "moduleId": 5,
+      "lessonId": "reg-m5-l3",
+      "topic": "S Corporations: Eligibility, Basis & Pass-Through Items",
+      "prompt": "With no accumulated C-corporation earnings and profits, a $40,000 distribution exceeds $32,000 stock basis. What gain is indicated under the stated simple rules?",
+      "choices": [
+        {
+          "id": "reg-m5-l3-q4-a0",
+          "text": "$40,000."
+        },
+        {
+          "id": "reg-m5-l3-q4-a1",
+          "text": "$8,000."
+        },
+        {
+          "id": "reg-m5-l3-q4-a2",
+          "text": "$32,000."
+        },
+        {
+          "id": "reg-m5-l3-q4-a3",
+          "text": "Zero because the shareholder has an unrelated bank loan."
+        }
+      ],
+      "correctChoiceId": "reg-m5-l3-q4-a1",
+      "explanation": "The excess over stock basis produces gain under the stated assumptions.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "reg",
+        "blueprintYear": 2026,
+        "areaId": "reg-V",
+        "groupId": "C",
+        "topicId": "reg-entity-s-corporations",
+        "taskIds": [
+          "reg-entity-s-corporations.task-1"
+        ],
+        "skill": "application",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Circular 230",
+            "url": "https://www.irs.gov/tax-professionals/circular-230-tax-professionals"
+          }
+        ]
+      }
+    },
+    {
+      "id": "reg-m5-l3-q5",
+      "courseId": "reg",
+      "moduleId": 5,
+      "lessonId": "reg-m5-l3",
+      "topic": "S Corporations: Eligibility, Basis & Pass-Through Items",
+      "prompt": "What is the general default allocation method for S corporation income?",
+      "choices": [
+        {
+          "id": "reg-m5-l3-q5-a0",
+          "text": "Any allocation chosen solely to minimize one shareholder’s tax."
+        },
+        {
+          "id": "reg-m5-l3-q5-a1",
+          "text": "Only by cash distributed."
+        },
+        {
+          "id": "reg-m5-l3-q5-a2",
+          "text": "Per share per day, subject to applicable exceptions or elections."
+        },
+        {
+          "id": "reg-m5-l3-q5-a3",
+          "text": "Always equally regardless of ownership."
+        }
+      ],
+      "correctChoiceId": "reg-m5-l3-q5-a2",
+      "explanation": "The default rule follows stock ownership over time rather than partnership-style special allocations.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "reg",
+        "blueprintYear": 2026,
+        "areaId": "reg-V",
+        "groupId": "C",
+        "topicId": "reg-entity-s-corporations",
+        "taskIds": [
+          "reg-entity-s-corporations.task-2"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Circular 230",
+            "url": "https://www.irs.gov/tax-professionals/circular-230-tax-professionals"
+          }
+        ]
+      }
+    },
+    {
+      "id": "reg-m5-l3-q6",
+      "courseId": "reg",
+      "moduleId": 5,
+      "lessonId": "reg-m5-l3",
+      "topic": "S Corporations: Eligibility, Basis & Pass-Through Items",
+      "prompt": "An S shareholder has sufficient stock basis for a loss. Does that guarantee a current deduction?",
+      "choices": [
+        {
+          "id": "reg-m5-l3-q6-a0",
+          "text": "Yes, basis is the only possible limit."
+        },
+        {
+          "id": "reg-m5-l3-q6-a1",
+          "text": "Yes, all S losses are refundable credits."
+        },
+        {
+          "id": "reg-m5-l3-q6-a2",
+          "text": "No S loss can ever be deducted."
+        },
+        {
+          "id": "reg-m5-l3-q6-a3",
+          "text": "No; other applicable limitations, including at-risk and passive-activity rules, still matter."
+        }
+      ],
+      "correctChoiceId": "reg-m5-l3-q6-a3",
+      "explanation": "Basis is one stage of the loss-limitation analysis.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "reg",
+        "blueprintYear": 2026,
+        "areaId": "reg-V",
+        "groupId": "C",
+        "topicId": "reg-entity-s-corporations",
+        "taskIds": [
+          "reg-entity-s-corporations.task-3"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Circular 230",
+            "url": "https://www.irs.gov/tax-professionals/circular-230-tax-professionals"
+          }
+        ]
+      }
+    },
+    {
+      "id": "reg-m5-l3-q7",
+      "courseId": "reg",
+      "moduleId": 5,
+      "lessonId": "reg-m5-l3",
+      "topic": "S Corporations: Eligibility, Basis & Pass-Through Items",
+      "prompt": "Analyze stock basis and a cash distribution under simplified stated assumptions. Shareholder information: Beginning stock basis $35,000; capital contribution $5,000; allocated income $10,000. The shareholder also guarantees a $60,000 bank loan but makes no payment. Distribution assumptions: The corporation distributes $55,000 cash. There are no accumulated C-corporation earnings and profits or other adjustments. The guarantee alone provides no basis in this case. Required: Stock basis before distribution.",
+      "choices": [
+        {
+          "id": "reg-m5-l3-q7-a0",
+          "text": "50000"
+        },
+        {
+          "id": "reg-m5-l3-q7-a1",
+          "text": "35000"
+        },
+        {
+          "id": "reg-m5-l3-q7-a2",
+          "text": "110000"
+        },
+        {
+          "id": "reg-m5-l3-q7-a3",
+          "text": "45000"
+        }
+      ],
+      "correctChoiceId": "reg-m5-l3-q7-a0",
+      "explanation": "$35,000 + $5,000 + $10,000 = $50,000.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "reg",
+        "blueprintYear": 2026,
+        "areaId": "reg-V",
+        "groupId": "C",
+        "topicId": "reg-entity-s-corporations",
+        "taskIds": [
+          "reg-entity-s-corporations.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Circular 230",
+            "url": "https://www.irs.gov/tax-professionals/circular-230-tax-professionals"
+          }
+        ]
+      },
+      "familyId": "reg-m5-tbs3"
+    },
+    {
+      "id": "reg-m5-l3-q8",
+      "courseId": "reg",
+      "moduleId": 5,
+      "lessonId": "reg-m5-l3",
+      "topic": "S Corporations: Eligibility, Basis & Pass-Through Items",
+      "prompt": "Analyze stock basis and a cash distribution under simplified stated assumptions. Shareholder information: Beginning stock basis $35,000; capital contribution $5,000; allocated income $10,000. The shareholder also guarantees a $60,000 bank loan but makes no payment. Distribution assumptions: The corporation distributes $55,000 cash. There are no accumulated C-corporation earnings and profits or other adjustments. The guarantee alone provides no basis in this case. Required: Basis created solely by the guarantee.",
+      "choices": [
+        {
+          "id": "reg-m5-l3-q8-a0",
+          "text": "60000"
+        },
+        {
+          "id": "reg-m5-l3-q8-a1",
+          "text": "0"
+        },
+        {
+          "id": "reg-m5-l3-q8-a2",
+          "text": "50000"
+        },
+        {
+          "id": "reg-m5-l3-q8-a3",
+          "text": "55000"
+        }
+      ],
+      "correctChoiceId": "reg-m5-l3-q8-a1",
+      "explanation": "The guarantee alone does not create basis under the supplied facts.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "reg",
+        "blueprintYear": 2026,
+        "areaId": "reg-V",
+        "groupId": "C",
+        "topicId": "reg-entity-s-corporations",
+        "taskIds": [
+          "reg-entity-s-corporations.task-2"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Circular 230",
+            "url": "https://www.irs.gov/tax-professionals/circular-230-tax-professionals"
+          }
+        ]
+      },
+      "familyId": "reg-m5-tbs3"
+    },
+    {
+      "id": "reg-m5-l3-q9",
+      "courseId": "reg",
+      "moduleId": 5,
+      "lessonId": "reg-m5-l3",
+      "topic": "S Corporations: Eligibility, Basis & Pass-Through Items",
+      "prompt": "Analyze stock basis and a cash distribution under simplified stated assumptions. Shareholder information: Beginning stock basis $35,000; capital contribution $5,000; allocated income $10,000. The shareholder also guarantees a $60,000 bank loan but makes no payment. Distribution assumptions: The corporation distributes $55,000 cash. There are no accumulated C-corporation earnings and profits or other adjustments. The guarantee alone provides no basis in this case. Required: Gain on distribution.",
+      "choices": [
+        {
+          "id": "reg-m5-l3-q9-a0",
+          "text": "55000"
+        },
+        {
+          "id": "reg-m5-l3-q9-a1",
+          "text": "50000"
+        },
+        {
+          "id": "reg-m5-l3-q9-a2",
+          "text": "5000"
+        },
+        {
+          "id": "reg-m5-l3-q9-a3",
+          "text": "0"
+        }
+      ],
+      "correctChoiceId": "reg-m5-l3-q9-a2",
+      "explanation": "$55,000 exceeds $50,000 stock basis by $5,000.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "reg",
+        "blueprintYear": 2026,
+        "areaId": "reg-V",
+        "groupId": "C",
+        "topicId": "reg-entity-s-corporations",
+        "taskIds": [
+          "reg-entity-s-corporations.task-3"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Circular 230",
+            "url": "https://www.irs.gov/tax-professionals/circular-230-tax-professionals"
+          }
+        ]
+      },
+      "familyId": "reg-m5-tbs3"
+    },
+    {
+      "id": "reg-m5-l3-q10",
+      "courseId": "reg",
+      "moduleId": 5,
+      "lessonId": "reg-m5-l3",
+      "topic": "S Corporations: Eligibility, Basis & Pass-Through Items",
+      "prompt": "Analyze stock basis and a cash distribution under simplified stated assumptions. Shareholder information: Beginning stock basis $35,000; capital contribution $5,000; allocated income $10,000. The shareholder also guarantees a $60,000 bank loan but makes no payment. Distribution assumptions: The corporation distributes $55,000 cash. There are no accumulated C-corporation earnings and profits or other adjustments. The guarantee alone provides no basis in this case. Required: Ending stock basis.",
+      "choices": [
+        {
+          "id": "reg-m5-l3-q10-a0",
+          "text": "5000"
+        },
+        {
+          "id": "reg-m5-l3-q10-a1",
+          "text": "-5000"
+        },
+        {
+          "id": "reg-m5-l3-q10-a2",
+          "text": "60000"
+        },
+        {
+          "id": "reg-m5-l3-q10-a3",
+          "text": "0"
+        }
+      ],
+      "correctChoiceId": "reg-m5-l3-q10-a3",
+      "explanation": "The distribution reduces basis to zero; the excess is recognized gain.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "reg",
+        "blueprintYear": 2026,
+        "areaId": "reg-V",
+        "groupId": "C",
+        "topicId": "reg-entity-s-corporations",
+        "taskIds": [
+          "reg-entity-s-corporations.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Circular 230",
+            "url": "https://www.irs.gov/tax-professionals/circular-230-tax-professionals"
+          }
+        ]
+      },
+      "familyId": "reg-m5-tbs3"
+    }
+  ]
+}

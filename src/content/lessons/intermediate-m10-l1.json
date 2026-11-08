@@ -1,0 +1,88 @@
+{
+  "id": "intermediate-m10-l1",
+  "courseId": "intermediate",
+  "moduleId": 10,
+  "number": 1,
+  "title": "Statement of Cash Flows Fundamentals",
+  "description": "Understand the purpose and structure of the statement of cash flows.",
+  "url": "/learn/intermediate/modules/10/lessons/1",
+  "html": "<h2>What does the statement of cash flows show?</h2> <p> The statement of cash flows explains how cash and cash equivalents changed during a reporting period. </p> <h2>The three major categories</h2> <div class=\"key-points\"> <ol> <li>Operating Activities</li> <li>Investing Activities</li> <li>Financing Activities</li> </ol> </div> <h2>Basic structure</h2> <div class=\"formula-box\"> Net Cash from Operating Activities + Net Cash from Investing Activities + Net Cash from Financing Activities = Net Change in Cash </div> <div class=\"formula-box\"> Beginning Cash + Net Change in Cash = Ending Cash </div> <h2>Example</h2> <div class=\"financial-example\"> <div> <span>Operating Cash Flow</span> <strong>$80,000</strong> </div> <div> <span>Investing Cash Flow</span> <strong>($30,000)</strong> </div> <div> <span>Financing Cash Flow</span> <strong>($10,000)</strong> </div> </div> <div class=\"formula-box\"> $80,000 − $30,000 − $10,000 = $40,000 Net Increase in Cash </div> <p> If beginning cash was $25,000: </p> <div class=\"formula-box\"> $25,000 + $40,000 = $65,000 Ending Cash </div> <h2>Cash flow is not the same as net income</h2> <p> Financial statements use accrual accounting, so revenue and expenses are not necessarily recognized in the same periods that cash is received or paid. </p> <p> Therefore, a company can report net income while experiencing a different amount of operating cash flow. </p> <div class=\"key-points\"> <h3>Remember</h3> <p> Income Statement → profitability </p> <p> Statement of Cash Flows → sources and uses of cash </p> </div>",
+  "quiz": {
+    "id": "intermediate-m10-l1-check",
+    "courseId": "intermediate",
+    "moduleId": 10,
+    "lessonId": "intermediate-m10-l1",
+    "topic": "General review",
+    "prompt": "Operating cash flow is $90,000, investing cash flow is negative $40,000, and financing cash flow is $15,000. What is the net change in cash?",
+    "choices": [
+      {
+        "id": "intermediate-m10-l1-check-a0",
+        "text": "$35,000 increase"
+      },
+      {
+        "id": "intermediate-m10-l1-check-a1",
+        "text": "$65,000 increase"
+      },
+      {
+        "id": "intermediate-m10-l1-check-a2",
+        "text": "$115,000 increase"
+      },
+      {
+        "id": "intermediate-m10-l1-check-a3",
+        "text": "$145,000 increase"
+      }
+    ],
+    "correctChoiceId": "intermediate-m10-l1-check-a1",
+    "explanation": "$90,000 − $40,000 + $15,000 = $65,000 net increase in cash.",
+    "difficulty": "foundation",
+    "metadata": {
+      "section": "intermediate",
+      "blueprintYear": 2026,
+      "areaId": "intermediate-I",
+      "groupId": "module-10",
+      "topicId": "intermediate-statement-of-cash-flows-fundamentals",
+      "taskIds": [
+        "intermediate-statement-of-cash-flows-fundamentals.task-1",
+        "intermediate-statement-of-cash-flows-fundamentals.task-2",
+        "intermediate-statement-of-cash-flows-fundamentals.task-3"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "section": "intermediate",
+    "blueprintYear": 2026,
+    "areaId": "intermediate-I",
+    "groupId": "module-10",
+    "topicId": "intermediate-statement-of-cash-flows-fundamentals",
+    "taskIds": [
+      "intermediate-statement-of-cash-flows-fundamentals.task-1",
+      "intermediate-statement-of-cash-flows-fundamentals.task-2",
+      "intermediate-statement-of-cash-flows-fundamentals.task-3"
+    ],
+    "skill": "application",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      }
+    ]
+  },
+  "objectives": [
+    "Explain statement of cash flows fundamentals and its underlying principles.",
+    "Apply the topic to a financial-reporting scenario.",
+    "Evaluate common errors and their financial-statement effects."
+  ]
+}

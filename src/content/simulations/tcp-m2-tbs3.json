@@ -1,0 +1,91 @@
+{
+  "id": "tcp-m2-tbs3",
+  "courseId": "tcp",
+  "moduleId": 2,
+  "number": 3,
+  "title": "S corporation compliance review",
+  "html": "<div class=\"course-intro-card\"><h2>S corporation compliance review</h2><p>Evaluate independent debt-basis, loss, and built-in-gain computations.</p></div><section class=\"quiz-card\"><h3>Required responses</h3><div class=\"tbs-question\"><label for=\"tcp-m2-tbs3-f1\">Gain on the full loan repayment</label><input id=\"tcp-m2-tbs3-f1\" type=\"text\"></div><div class=\"tbs-question\"><label for=\"tcp-m2-tbs3-f2\">Loss capacity from stock and debt basis</label><input id=\"tcp-m2-tbs3-f2\" type=\"text\"></div><div class=\"tbs-question\"><label for=\"tcp-m2-tbs3-f3\">Loss suspended for lack of basis</label><input id=\"tcp-m2-tbs3-f3\" type=\"text\"></div><div class=\"tbs-question\"><label for=\"tcp-m2-tbs3-f4\">Built-in-gains tax under supplied assumptions</label><input id=\"tcp-m2-tbs3-f4\" type=\"text\"></div></section>",
+  "metadata": {
+    "section": "tcp",
+    "blueprintYear": 2026,
+    "areaId": "tcp-II",
+    "groupId": "C",
+    "topicId": "tcp-s-corporation-advanced-compliance",
+    "taskIds": [
+      "tcp-s-corporation-advanced-compliance.task-1",
+      "tcp-s-corporation-advanced-compliance.task-2",
+      "tcp-s-corporation-advanced-compliance.task-3"
+    ],
+    "skill": "analysis",
+    "validFrom": "2026-07-01",
+    "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      },
+      {
+        "title": "IRS tax publications",
+        "url": "https://www.irs.gov/publications"
+      },
+      {
+        "title": "Internal Revenue Code",
+        "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+      }
+    ]
+  },
+  "difficulty": "advanced",
+  "fields": [
+    {
+      "id": "tcp-m2-tbs3-f1",
+      "label": "Gain on the full loan repayment",
+      "type": "number",
+      "options": [],
+      "correct": 30000,
+      "explanation": "$50,000 repayment less $20,000 basis = $30,000.",
+      "topicId": "tcp-s-corporation-advanced-compliance"
+    },
+    {
+      "id": "tcp-m2-tbs3-f2",
+      "label": "Loss capacity from stock and debt basis",
+      "type": "number",
+      "options": [],
+      "correct": 20000,
+      "explanation": "$12,000 + $8,000 = $20,000.",
+      "topicId": "tcp-s-corporation-advanced-compliance"
+    },
+    {
+      "id": "tcp-m2-tbs3-f3",
+      "label": "Loss suspended for lack of basis",
+      "type": "number",
+      "options": [],
+      "correct": 7000,
+      "explanation": "$27,000 − $20,000 = $7,000.",
+      "topicId": "tcp-s-corporation-advanced-compliance"
+    },
+    {
+      "id": "tcp-m2-tbs3-f4",
+      "label": "Built-in-gains tax under supplied assumptions",
+      "type": "number",
+      "options": [],
+      "correct": 12600,
+      "explanation": "$60,000 × 21% = $12,600.",
+      "topicId": "tcp-s-corporation-advanced-compliance"
+    }
+  ],
+  "exhibits": [
+    {
+      "id": "tcp-m2-tbs3-ex1",
+      "title": "Shareholder items",
+      "html": "<p>A direct loan with face amount $50,000 and tax basis $20,000 is fully repaid. Separately, another shareholder has stock basis $12,000, qualifying debt basis $8,000, and a $27,000 loss; ignore other limits.</p>"
+    },
+    {
+      "id": "tcp-m2-tbs3-ex2",
+      "title": "Entity tax",
+      "html": "<p>The case determines a taxable built-in-gain base of $60,000 after all applicable limitations. Use a 21% tax rate.</p>"
+    }
+  ],
+  "explanation": "<h3>Gain on the full loan repayment</h3><p>$50,000 repayment less $20,000 basis = $30,000.</p><h3>Loss capacity from stock and debt basis</h3><p>$12,000 + $8,000 = $20,000.</p><h3>Loss suspended for lack of basis</h3><p>$27,000 − $20,000 = $7,000.</p><h3>Built-in-gains tax under supplied assumptions</h3><p>$60,000 × 21% = $12,600.</p>"
+}

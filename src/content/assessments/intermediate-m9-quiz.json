@@ -1,0 +1,491 @@
+{
+  "id": "intermediate-m9-quiz",
+  "title": "Intermediate Module 9 Quiz",
+  "courseId": "intermediate",
+  "moduleId": 9,
+  "selection": "all",
+  "feedback": "immediate",
+  "passPercent": 80,
+  "questions": [
+    {
+      "id": "intermediate-m9-q1",
+      "courseId": "intermediate",
+      "moduleId": 9,
+      "topic": "Book vs Taxable Income",
+      "prompt": "Which statement about book income and taxable income is correct?",
+      "choices": [
+        {
+          "id": "intermediate-m9-q1-a0",
+          "text": "They must always be identical"
+        },
+        {
+          "id": "intermediate-m9-q1-a1",
+          "text": "They can differ because financial reporting and tax rules may recognize items differently"
+        },
+        {
+          "id": "intermediate-m9-q1-a2",
+          "text": "Taxable income always equals operating cash flow"
+        },
+        {
+          "id": "intermediate-m9-q1-a3",
+          "text": "Book income is calculated using tax law"
+        }
+      ],
+      "correctChoiceId": "intermediate-m9-q1-a1",
+      "explanation": "Financial accounting and tax rules can differ in the timing or treatment of revenues and expenses.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "intermediate",
+        "blueprintYear": 2026,
+        "areaId": "intermediate-I",
+        "groupId": "9",
+        "topicId": "intermediate-intermediate-general",
+        "taskIds": [
+          "intermediate-intermediate-general.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "intermediate-m9-q2",
+      "courseId": "intermediate",
+      "moduleId": 9,
+      "topic": "Temporary Differences",
+      "prompt": "Which characteristic best distinguishes a temporary difference from a permanent difference?",
+      "choices": [
+        {
+          "id": "intermediate-m9-q2-a0",
+          "text": "A temporary difference has future tax consequences that reverse"
+        },
+        {
+          "id": "intermediate-m9-q2-a1",
+          "text": "A temporary difference never affects future periods"
+        },
+        {
+          "id": "intermediate-m9-q2-a2",
+          "text": "A permanent difference always creates a deferred tax asset"
+        },
+        {
+          "id": "intermediate-m9-q2-a3",
+          "text": "A permanent difference always creates a deferred tax liability"
+        }
+      ],
+      "correctChoiceId": "intermediate-m9-q2-a0",
+      "explanation": "Temporary differences create future taxable or deductible amounts. Permanent differences do not reverse and therefore do not create deferred tax assets or liabilities.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "intermediate",
+        "blueprintYear": 2026,
+        "areaId": "intermediate-I",
+        "groupId": "9",
+        "topicId": "intermediate-intermediate-general",
+        "taskIds": [
+          "intermediate-intermediate-general.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "intermediate-m9-q3",
+      "courseId": "intermediate",
+      "moduleId": 9,
+      "topic": "Deferred Tax Liability",
+      "prompt": "A taxable temporary difference is $120,000. The enacted tax rate expected to apply when it reverses is 25%. Ignoring other considerations, what deferred tax amount results?",
+      "choices": [
+        {
+          "id": "intermediate-m9-q3-a0",
+          "text": "$25,000 DTA"
+        },
+        {
+          "id": "intermediate-m9-q3-a1",
+          "text": "$30,000 DTA"
+        },
+        {
+          "id": "intermediate-m9-q3-a2",
+          "text": "$30,000 DTL"
+        },
+        {
+          "id": "intermediate-m9-q3-a3",
+          "text": "$120,000 DTL"
+        }
+      ],
+      "correctChoiceId": "intermediate-m9-q3-a2",
+      "explanation": "$120,000 × 25% = $30,000. A taxable temporary difference generally creates a deferred tax liability.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "intermediate",
+        "blueprintYear": 2026,
+        "areaId": "intermediate-I",
+        "groupId": "9",
+        "topicId": "intermediate-intermediate-general",
+        "taskIds": [
+          "intermediate-intermediate-general.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "intermediate-m9-q4",
+      "courseId": "intermediate",
+      "moduleId": 9,
+      "topic": "Deferred Tax Asset",
+      "prompt": "A deductible temporary difference is $60,000 and the applicable enacted tax rate is 30%. Ignoring other considerations, what deferred tax amount results?",
+      "choices": [
+        {
+          "id": "intermediate-m9-q4-a0",
+          "text": "$18,000 DTA"
+        },
+        {
+          "id": "intermediate-m9-q4-a1",
+          "text": "$18,000 DTL"
+        },
+        {
+          "id": "intermediate-m9-q4-a2",
+          "text": "$20,000 DTA"
+        },
+        {
+          "id": "intermediate-m9-q4-a3",
+          "text": "$60,000 DTA"
+        }
+      ],
+      "correctChoiceId": "intermediate-m9-q4-a0",
+      "explanation": "$60,000 × 30% = $18,000. A deductible temporary difference generally creates a deferred tax asset.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "intermediate",
+        "blueprintYear": 2026,
+        "areaId": "intermediate-I",
+        "groupId": "9",
+        "topicId": "intermediate-intermediate-general",
+        "taskIds": [
+          "intermediate-intermediate-general.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "intermediate-m9-q5",
+      "courseId": "intermediate",
+      "moduleId": 9,
+      "topic": "Income Tax Expense",
+      "prompt": "Taxable income is $400,000 and the current tax rate is 25%. What is current income tax payable?",
+      "choices": [
+        {
+          "id": "intermediate-m9-q5-a0",
+          "text": "$25,000"
+        },
+        {
+          "id": "intermediate-m9-q5-a1",
+          "text": "$75,000"
+        },
+        {
+          "id": "intermediate-m9-q5-a2",
+          "text": "$100,000"
+        },
+        {
+          "id": "intermediate-m9-q5-a3",
+          "text": "$400,000"
+        }
+      ],
+      "correctChoiceId": "intermediate-m9-q5-a2",
+      "explanation": "$400,000 × 25% = $100,000 current income tax payable.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "intermediate",
+        "blueprintYear": 2026,
+        "areaId": "intermediate-I",
+        "groupId": "9",
+        "topicId": "intermediate-intermediate-general",
+        "taskIds": [
+          "intermediate-intermediate-general.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "intermediate-m9-q6",
+      "courseId": "intermediate",
+      "moduleId": 9,
+      "topic": "Income Tax Expense",
+      "prompt": "Current tax expense is $90,000. An increase in a deferred tax liability creates $15,000 of deferred tax expense. In this simplified situation, what is total income tax expense?",
+      "choices": [
+        {
+          "id": "intermediate-m9-q6-a0",
+          "text": "$75,000"
+        },
+        {
+          "id": "intermediate-m9-q6-a1",
+          "text": "$90,000"
+        },
+        {
+          "id": "intermediate-m9-q6-a2",
+          "text": "$105,000"
+        },
+        {
+          "id": "intermediate-m9-q6-a3",
+          "text": "$1,350,000"
+        }
+      ],
+      "correctChoiceId": "intermediate-m9-q6-a2",
+      "explanation": "$90,000 current tax expense + $15,000 deferred tax expense = $105,000 total income tax expense.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "intermediate",
+        "blueprintYear": 2026,
+        "areaId": "intermediate-I",
+        "groupId": "9",
+        "topicId": "intermediate-intermediate-general",
+        "taskIds": [
+          "intermediate-intermediate-general.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "intermediate-m9-q7",
+      "courseId": "intermediate",
+      "moduleId": 9,
+      "topic": "Accounting Changes",
+      "prompt": "A company changes from one generally accepted accounting principle to another. Subject to applicable guidance and practicability, this change is generally accounted for:",
+      "choices": [
+        {
+          "id": "intermediate-m9-q7-a0",
+          "text": "Prospectively"
+        },
+        {
+          "id": "intermediate-m9-q7-a1",
+          "text": "Retrospectively"
+        },
+        {
+          "id": "intermediate-m9-q7-a2",
+          "text": "As an error in every situation"
+        },
+        {
+          "id": "intermediate-m9-q7-a3",
+          "text": "Only when cash is affected"
+        }
+      ],
+      "correctChoiceId": "intermediate-m9-q7-a1",
+      "explanation": "A change in accounting principle is generally applied retrospectively, subject to applicable guidance and practicability.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "intermediate",
+        "blueprintYear": 2026,
+        "areaId": "intermediate-I",
+        "groupId": "9",
+        "topicId": "intermediate-intermediate-general",
+        "taskIds": [
+          "intermediate-intermediate-general.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "intermediate-m9-q8",
+      "courseId": "intermediate",
+      "moduleId": 9,
+      "topic": "Accounting Estimates",
+      "prompt": "New information causes a company to revise the estimated useful life of equipment. The change is generally accounted for:",
+      "choices": [
+        {
+          "id": "intermediate-m9-q8-a0",
+          "text": "Retrospectively"
+        },
+        {
+          "id": "intermediate-m9-q8-a1",
+          "text": "Prospectively"
+        },
+        {
+          "id": "intermediate-m9-q8-a2",
+          "text": "As a prior-period error"
+        },
+        {
+          "id": "intermediate-m9-q8-a3",
+          "text": "By restating every prior financial statement"
+        }
+      ],
+      "correctChoiceId": "intermediate-m9-q8-a1",
+      "explanation": "A change in estimate resulting from new information is generally recognized prospectively in the current and future periods affected.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "intermediate",
+        "blueprintYear": 2026,
+        "areaId": "intermediate-I",
+        "groupId": "9",
+        "topicId": "intermediate-intermediate-general",
+        "taskIds": [
+          "intermediate-intermediate-general.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "intermediate-m9-q9",
+      "courseId": "intermediate",
+      "moduleId": 9,
+      "topic": "Error Corrections",
+      "prompt": "A company discovers a material mathematical error in previously issued financial statements. Which description is most appropriate?",
+      "choices": [
+        {
+          "id": "intermediate-m9-q9-a0",
+          "text": "Change in estimate"
+        },
+        {
+          "id": "intermediate-m9-q9-a1",
+          "text": "Change in tax rate"
+        },
+        {
+          "id": "intermediate-m9-q9-a2",
+          "text": "Prior-period error requiring appropriate correction"
+        },
+        {
+          "id": "intermediate-m9-q9-a3",
+          "text": "Normal prospective accounting change"
+        }
+      ],
+      "correctChoiceId": "intermediate-m9-q9-a2",
+      "explanation": "A mathematical mistake in previously issued financial statements is an error rather than a change in estimate.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "intermediate",
+        "blueprintYear": 2026,
+        "areaId": "intermediate-I",
+        "groupId": "9",
+        "topicId": "intermediate-intermediate-general",
+        "taskIds": [
+          "intermediate-intermediate-general.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "intermediate-m9-q10",
+      "courseId": "intermediate",
+      "moduleId": 9,
+      "topic": "Tax Accounting",
+      "prompt": "Which pairing is correct?",
+      "choices": [
+        {
+          "id": "intermediate-m9-q10-a0",
+          "text": "Taxable temporary difference → DTA"
+        },
+        {
+          "id": "intermediate-m9-q10-a1",
+          "text": "Deductible temporary difference → DTL"
+        },
+        {
+          "id": "intermediate-m9-q10-a2",
+          "text": "Permanent difference → always DTA"
+        },
+        {
+          "id": "intermediate-m9-q10-a3",
+          "text": "Taxable temporary difference → DTL"
+        }
+      ],
+      "correctChoiceId": "intermediate-m9-q10-a3",
+      "explanation": "A taxable temporary difference generally creates a deferred tax liability. A deductible temporary difference generally creates a deferred tax asset.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "intermediate",
+        "blueprintYear": 2026,
+        "areaId": "intermediate-I",
+        "groupId": "9",
+        "topicId": "intermediate-intermediate-general",
+        "taskIds": [
+          "intermediate-intermediate-general.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "id": "isc-m2-tbs1",
+  "courseId": "isc",
+  "moduleId": 2,
+  "number": 1,
+  "title": "Access recertification review",
+  "html": "<div class=\"course-intro-card\"><h2>Access recertification review</h2><p>Evaluate four findings from a user-access review.</p></div><section class=\"quiz-card\"><h3>Required responses</h3><div class=\"tbs-question\"><label for=\"isc-m2-tbs1-f1\">Control needed for the terminated user</label><select id=\"isc-m2-tbs1-f1\"><option value=\"Timely deprovisioning\">Timely deprovisioning</option><option value=\"Permanent retention of login rights\">Permanent retention of login rights</option><option value=\"A new shared password\">A new shared password</option><option value=\"No action\">No action</option></select></div><div class=\"tbs-question\"><label for=\"isc-m2-tbs1-f2\">Concern with the transferred employee</label><select id=\"isc-m2-tbs1-f2\"><option value=\"Incompatible retained privileges\">Incompatible retained privileges</option><option value=\"Guaranteed segregation of duties\">Guaranteed segregation of duties</option><option value=\"Only a job-title formatting issue\">Only a job-title formatting issue</option><option value=\"No authorization risk\">No authorization risk</option></select></div><div class=\"tbs-question\"><label for=\"isc-m2-tbs1-f3\">Concern with the shared administrator account</label><select id=\"isc-m2-tbs1-f3\"><option value=\"Weak individual accountability\">Weak individual accountability</option><option value=\"Automatic least privilege\">Automatic least privilege</option><option value=\"Perfect attribution\">Perfect attribution</option><option value=\"No need for logs\">No need for logs</option></select></div><div class=\"tbs-question\"><label for=\"isc-m2-tbs1-f4\">Concern with omitted service accounts</label><select id=\"isc-m2-tbs1-f4\"><option value=\"Incomplete review population\">Incomplete review population</option><option value=\"All nonhuman accounts are risk-free\">All nonhuman accounts are risk-free</option><option value=\"A guaranteed effective review\">A guaranteed effective review</option><option value=\"Only backup timing\">Only backup timing</option></select></div></section>",
+  "metadata": {
+    "section": "isc",
+    "blueprintYear": 2026,
+    "areaId": "isc-II",
+    "groupId": "B-C",
+    "topicId": "isc-identity-access",
+    "taskIds": [
+      "isc-identity-access.task-1",
+      "isc-identity-access.task-2",
+      "isc-identity-access.task-3"
+    ],
+    "skill": "analysis",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      },
+      {
+        "title": "NIST Cybersecurity Framework",
+        "url": "https://www.nist.gov/cyberframework"
+      },
+      {
+        "title": "AICPA SOC resources",
+        "url": "https://www.aicpa-cima.com/resources/landing/system-and-organization-controls-soc-suite-of-services"
+      }
+    ]
+  },
+  "difficulty": "advanced",
+  "fields": [
+    {
+      "id": "isc-m2-tbs1-f1",
+      "label": "Control needed for the terminated user",
+      "type": "select",
+      "options": [
+        {
+          "value": "Timely deprovisioning",
+          "label": "Timely deprovisioning"
+        },
+        {
+          "value": "Permanent retention of login rights",
+          "label": "Permanent retention of login rights"
+        },
+        {
+          "value": "A new shared password",
+          "label": "A new shared password"
+        },
+        {
+          "value": "No action",
+          "label": "No action"
+        }
+      ],
+      "correct": "Timely deprovisioning",
+      "explanation": "Leaver controls should remove unnecessary access promptly.",
+      "topicId": "isc-identity-access"
+    },
+    {
+      "id": "isc-m2-tbs1-f2",
+      "label": "Concern with the transferred employee",
+      "type": "select",
+      "options": [
+        {
+          "value": "Incompatible retained privileges",
+          "label": "Incompatible retained privileges"
+        },
+        {
+          "value": "Guaranteed segregation of duties",
+          "label": "Guaranteed segregation of duties"
+        },
+        {
+          "value": "Only a job-title formatting issue",
+          "label": "Only a job-title formatting issue"
+        },
+        {
+          "value": "No authorization risk",
+          "label": "No authorization risk"
+        }
+      ],
+      "correct": "Incompatible retained privileges",
+      "explanation": "Role changes must address actual combined entitlements.",
+      "topicId": "isc-identity-access"
+    },
+    {
+      "id": "isc-m2-tbs1-f3",
+      "label": "Concern with the shared administrator account",
+      "type": "select",
+      "options": [
+        {
+          "value": "Weak individual accountability",
+          "label": "Weak individual accountability"
+        },
+        {
+          "value": "Automatic least privilege",
+          "label": "Automatic least privilege"
+        },
+        {
+          "value": "Perfect attribution",
+          "label": "Perfect attribution"
+        },
+        {
+          "value": "No need for logs",
+          "label": "No need for logs"
+        }
+      ],
+      "correct": "Weak individual accountability",
+      "explanation": "Shared credentials obscure who performed an action.",
+      "topicId": "isc-identity-access"
+    },
+    {
+      "id": "isc-m2-tbs1-f4",
+      "label": "Concern with omitted service accounts",
+      "type": "select",
+      "options": [
+        {
+          "value": "Incomplete review population",
+          "label": "Incomplete review population"
+        },
+        {
+          "value": "All nonhuman accounts are risk-free",
+          "label": "All nonhuman accounts are risk-free"
+        },
+        {
+          "value": "A guaranteed effective review",
+          "label": "A guaranteed effective review"
+        },
+        {
+          "value": "Only backup timing",
+          "label": "Only backup timing"
+        }
+      ],
+      "correct": "Incomplete review population",
+      "explanation": "Relevant service identities also require governance.",
+      "topicId": "isc-identity-access"
+    }
+  ],
+  "exhibits": [
+    {
+      "id": "isc-m2-tbs1-ex1",
+      "title": "User listing",
+      "html": "<p>A terminated user remains active. A transferred employee retains vendor creation and payment approval. All administrators share one account. The review listing excludes service accounts.</p>"
+    },
+    {
+      "id": "isc-m2-tbs1-ex2",
+      "title": "Objective",
+      "html": "<p>Access should be authorized, appropriate to current duties, attributable, and periodically reviewed using a complete population.</p>"
+    }
+  ],
+  "explanation": "<h3>Control needed for the terminated user</h3><p>Leaver controls should remove unnecessary access promptly.</p><h3>Concern with the transferred employee</h3><p>Role changes must address actual combined entitlements.</p><h3>Concern with the shared administrator account</h3><p>Shared credentials obscure who performed an action.</p><h3>Concern with omitted service accounts</h3><p>Relevant service identities also require governance.</p>"
+}

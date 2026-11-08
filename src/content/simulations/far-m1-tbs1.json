@@ -1,0 +1,76 @@
+{
+  "id": "far-m1-tbs1",
+  "moduleId": 1,
+  "number": 1,
+  "title": "TBS 1",
+  "fields": [
+    {
+      "id": "tbs1-q1",
+      "label": "1. Corrected Accounts Receivable",
+      "type": "number",
+      "options": [],
+      "correct": 135000
+    },
+    {
+      "id": "tbs1-q2",
+      "label": "2. Corrected Service Revenue",
+      "type": "number",
+      "options": [],
+      "correct": 515000
+    },
+    {
+      "id": "tbs1-q3",
+      "label": "3. Corrected Operating Expenses",
+      "type": "number",
+      "options": [],
+      "correct": 340000
+    },
+    {
+      "id": "tbs1-q4",
+      "label": "4. Accrued Wage Liability",
+      "type": "number",
+      "options": [],
+      "correct": 8000
+    },
+    {
+      "id": "tbs1-q5",
+      "label": "5. Corrected Accumulated Depreciation",
+      "type": "number",
+      "options": [],
+      "correct": 72000
+    },
+    {
+      "id": "tbs1-q6",
+      "label": "6. Corrected Net Income",
+      "type": "number",
+      "options": [],
+      "correct": 175000
+    }
+  ],
+  "html": "<section class=\"exam-page\"> <div class=\"course-intro-card\"> <span class=\"exam-badge\"> TASK-BASED SIMULATION </span> <h2> Year-End Adjustments </h2> <p> Atlas Company is preparing its December 31 financial statements. The following balances are shown before year-end adjustments. </p> </div> <div class=\"tbs-data-card\"> <h3> Unadjusted Information </h3> <div class=\"tbs-data-row\"> <span> Cash </span> <strong> $95,000 </strong> </div> <div class=\"tbs-data-row\"> <span> Accounts Receivable </span> <strong> $120,000 </strong> </div> <div class=\"tbs-data-row\"> <span> Equipment </span> <strong> $300,000 </strong> </div> <div class=\"tbs-data-row\"> <span> Accumulated Depreciation </span> <strong> $60,000 </strong> </div> <div class=\"tbs-data-row\"> <span> Accounts Payable </span> <strong> $75,000 </strong> </div> <div class=\"tbs-data-row\"> <span> Service Revenue </span> <strong> $500,000 </strong> </div> <div class=\"tbs-data-row\"> <span> Operating Expenses </span> <strong> $320,000 </strong> </div> </div> <div class=\"course-intro-card\"> <h3> Additional Information </h3> <p> 1. Atlas performed $15,000 of services before year-end that have not yet been recorded. </p> <p> 2. Employees earned $8,000 of wages before year-end that will be paid next year. </p> <p> 3. Depreciation expense for the year is understated by $12,000. </p> </div> <div class=\"course-intro-card\"> <h2> Required </h2> <p> Enter the corrected amounts after considering all three adjustments. </p> <div class=\"tbs-question\"> <label for=\"tbs1-q1\"> 1. Corrected Accounts Receivable </label> <input type=\"number\" id=\"tbs1-q1\" class=\"tbs-input\" placeholder=\"Enter amount\"> </div> <div class=\"tbs-question\"> <label for=\"tbs1-q2\"> 2. Corrected Service Revenue </label> <input type=\"number\" id=\"tbs1-q2\" class=\"tbs-input\" placeholder=\"Enter amount\"> </div> <div class=\"tbs-question\"> <label for=\"tbs1-q3\"> 3. Corrected Operating Expenses </label> <input type=\"number\" id=\"tbs1-q3\" class=\"tbs-input\" placeholder=\"Enter amount\"> </div> <div class=\"tbs-question\"> <label for=\"tbs1-q4\"> 4. Accrued Wage Liability </label> <input type=\"number\" id=\"tbs1-q4\" class=\"tbs-input\" placeholder=\"Enter amount\"> </div> <div class=\"tbs-question\"> <label for=\"tbs1-q5\"> 5. Corrected Accumulated Depreciation </label> <input type=\"number\" id=\"tbs1-q5\" class=\"tbs-input\" placeholder=\"Enter amount\"> </div> <div class=\"tbs-question\"> <label for=\"tbs1-q6\"> 6. Corrected Net Income </label> <input type=\"number\" id=\"tbs1-q6\" class=\"tbs-input\" placeholder=\"Enter amount\"> </div> <div id=\"tbs1-result\"></div> </div> </section>",
+  "explanation": "<div class=\"tbs-results\"> <div class=\"performance-row\"> <div class=\"performance-info\"> <strong> Accounts Receivable </strong> <span> Correct answer </span> </div> <div class=\"performance-score\"> $135,000 </div> </div> <div class=\"performance-row\"> <div class=\"performance-info\"> <strong> Service Revenue </strong> <span> Correct answer </span> </div> <div class=\"performance-score\"> $515,000 </div> </div> <div class=\"performance-row\"> <div class=\"performance-info\"> <strong> Operating Expenses </strong> <span> Correct answer </span> </div> <div class=\"performance-score\"> $340,000 </div> </div> <div class=\"performance-row\"> <div class=\"performance-info\"> <strong> Accrued Wage Liability </strong> <span> Correct answer </span> </div> <div class=\"performance-score\"> $8,000 </div> </div> <div class=\"performance-row\"> <div class=\"performance-info\"> <strong> Accumulated Depreciation </strong> <span> Correct answer </span> </div> <div class=\"performance-score\"> $72,000 </div> </div> <div class=\"performance-row\"> <div class=\"performance-info\"> <strong> Net Income </strong> <span> Correct answer </span> </div> <div class=\"performance-score\"> $175,000 </div> </div> <div class=\"review-recommendation\"> <h3> Explanation </h3> <p> Unrecorded services increase Accounts Receivable and Service Revenue by $15,000. </p> <p> Accrued wages increase both Operating Expenses and liabilities by $8,000. </p> <p> Additional depreciation increases Operating Expenses and Accumulated Depreciation by $12,000. </p> <p> Corrected net income is: $515,000 revenue − $340,000 expenses = <strong>$175,000</strong>. </p> </div> </div>",
+  "courseId": "far",
+  "difficulty": "advanced",
+  "metadata": {
+    "section": "far",
+    "blueprintYear": 2026,
+    "areaId": "far-I",
+    "groupId": "module-1",
+    "topicId": "far-financial-statements-general-purpose-reporting",
+    "taskIds": [
+      "far-financial-statements-general-purpose-reporting.task-1",
+      "far-financial-statements-general-purpose-reporting.task-2",
+      "far-financial-statements-general-purpose-reporting.task-3"
+    ],
+    "skill": "analysis",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      }
+    ]
+  }
+}

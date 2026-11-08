@@ -1,0 +1,3455 @@
+{
+  "id": "bar-m1-practice",
+  "title": "Business Analysis, Planning & Decision-Making Practice",
+  "courseId": "bar",
+  "moduleId": 1,
+  "selection": "per-lesson",
+  "feedback": "immediate",
+  "passPercent": 80,
+  "questions": [
+    {
+      "id": "bar-m1-l1-q1",
+      "courseId": "bar",
+      "moduleId": 1,
+      "lessonId": "bar-m1-l1",
+      "topic": "Financial Ratios, Trends & Data Quality",
+      "prompt": "Current assets are $600,000 and current liabilities $300,000. What is the current ratio?",
+      "choices": [
+        {
+          "id": "bar-m1-l1-q1-a0",
+          "text": "2.0."
+        },
+        {
+          "id": "bar-m1-l1-q1-a1",
+          "text": "0.5."
+        },
+        {
+          "id": "bar-m1-l1-q1-a2",
+          "text": "3.0."
+        },
+        {
+          "id": "bar-m1-l1-q1-a3",
+          "text": "1.0."
+        }
+      ],
+      "correctChoiceId": "bar-m1-l1-q1-a0",
+      "explanation": "$600,000 ÷ $300,000 = 2.0.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-I",
+        "groupId": "A",
+        "topicId": "bar-financial-analysis",
+        "taskIds": [
+          "bar-financial-analysis.task-1"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bar-m1-l1-q2",
+      "courseId": "bar",
+      "moduleId": 1,
+      "lessonId": "bar-m1-l1",
+      "topic": "Financial Ratios, Trends & Data Quality",
+      "prompt": "Sales are $1,000,000 and cost of sales is $650,000. What is gross margin as a percentage of sales?",
+      "choices": [
+        {
+          "id": "bar-m1-l1-q2-a0",
+          "text": "65%."
+        },
+        {
+          "id": "bar-m1-l1-q2-a1",
+          "text": "35%."
+        },
+        {
+          "id": "bar-m1-l1-q2-a2",
+          "text": "53.8%."
+        },
+        {
+          "id": "bar-m1-l1-q2-a3",
+          "text": "15%."
+        }
+      ],
+      "correctChoiceId": "bar-m1-l1-q2-a1",
+      "explanation": "Gross profit is $350,000, or 35% of sales.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-I",
+        "groupId": "A",
+        "topicId": "bar-financial-analysis",
+        "taskIds": [
+          "bar-financial-analysis.task-2"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bar-m1-l1-q3",
+      "courseId": "bar",
+      "moduleId": 1,
+      "lessonId": "bar-m1-l1",
+      "topic": "Financial Ratios, Trends & Data Quality",
+      "prompt": "A current ratio rises because inventory has become obsolete and unsold. What is the appropriate interpretation?",
+      "choices": [
+        {
+          "id": "bar-m1-l1-q3-a0",
+          "text": "Liquidity is guaranteed to have improved."
+        },
+        {
+          "id": "bar-m1-l1-q3-a1",
+          "text": "Inventory quality never affects analysis."
+        },
+        {
+          "id": "bar-m1-l1-q3-a2",
+          "text": "The ratio alone may overstate the improvement in liquidity."
+        },
+        {
+          "id": "bar-m1-l1-q3-a3",
+          "text": "The ratio proves cash increased."
+        }
+      ],
+      "correctChoiceId": "bar-m1-l1-q3-a2",
+      "explanation": "The composition and realizability of current assets matter.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-I",
+        "groupId": "A",
+        "topicId": "bar-financial-analysis",
+        "taskIds": [
+          "bar-financial-analysis.task-3"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bar-m1-l1-q4",
+      "courseId": "bar",
+      "moduleId": 1,
+      "lessonId": "bar-m1-l1",
+      "topic": "Financial Ratios, Trends & Data Quality",
+      "prompt": "Revenue is $900,000 and average receivables are $150,000. Assume all sales are credit sales. What is receivables turnover?",
+      "choices": [
+        {
+          "id": "bar-m1-l1-q4-a0",
+          "text": "0.167 times."
+        },
+        {
+          "id": "bar-m1-l1-q4-a1",
+          "text": "9.0 times."
+        },
+        {
+          "id": "bar-m1-l1-q4-a2",
+          "text": "15.0 times."
+        },
+        {
+          "id": "bar-m1-l1-q4-a3",
+          "text": "6.0 times."
+        }
+      ],
+      "correctChoiceId": "bar-m1-l1-q4-a3",
+      "explanation": "$900,000 ÷ $150,000 = 6.0.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-I",
+        "groupId": "A",
+        "topicId": "bar-financial-analysis",
+        "taskIds": [
+          "bar-financial-analysis.task-1"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bar-m1-l1-q5",
+      "courseId": "bar",
+      "moduleId": 1,
+      "lessonId": "bar-m1-l1",
+      "topic": "Financial Ratios, Trends & Data Quality",
+      "prompt": "Two companies define adjusted EBITDA differently. What is required before comparing them?",
+      "choices": [
+        {
+          "id": "bar-m1-l1-q5-a0",
+          "text": "Understand and reconcile the definitions and exclusions."
+        },
+        {
+          "id": "bar-m1-l1-q5-a1",
+          "text": "Assume the labels imply identical measures."
+        },
+        {
+          "id": "bar-m1-l1-q5-a2",
+          "text": "Compare only the largest number."
+        },
+        {
+          "id": "bar-m1-l1-q5-a3",
+          "text": "Exclude every expense from both companies."
+        }
+      ],
+      "correctChoiceId": "bar-m1-l1-q5-a0",
+      "explanation": "Non-GAAP labels can conceal different definitions and selective exclusions.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-I",
+        "groupId": "A",
+        "topicId": "bar-financial-analysis",
+        "taskIds": [
+          "bar-financial-analysis.task-2"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bar-m1-l1-q6",
+      "courseId": "bar",
+      "moduleId": 1,
+      "lessonId": "bar-m1-l1",
+      "topic": "Financial Ratios, Trends & Data Quality",
+      "prompt": "Which base is commonly used for a common-size income statement?",
+      "choices": [
+        {
+          "id": "bar-m1-l1-q6-a0",
+          "text": "Only the audit fee."
+        },
+        {
+          "id": "bar-m1-l1-q6-a1",
+          "text": "Sales or revenue."
+        },
+        {
+          "id": "bar-m1-l1-q6-a2",
+          "text": "Only the number of shareholders."
+        },
+        {
+          "id": "bar-m1-l1-q6-a3",
+          "text": "Only current liabilities."
+        }
+      ],
+      "correctChoiceId": "bar-m1-l1-q6-a1",
+      "explanation": "Income-statement components are commonly expressed as a percentage of revenue.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-I",
+        "groupId": "A",
+        "topicId": "bar-financial-analysis",
+        "taskIds": [
+          "bar-financial-analysis.task-3"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bar-m1-l1-q7",
+      "courseId": "bar",
+      "moduleId": 1,
+      "lessonId": "bar-m1-l1",
+      "topic": "Financial Ratios, Trends & Data Quality",
+      "prompt": "Prepare ratios and evaluate a liquidity concern using the stated definitions. Financial data: Current assets $500,000; inventory $200,000; current liabilities $250,000; annual sales $1,200,000; cost of sales $840,000. Quick assets equal current assets less inventory. Operational note: Inventory aging has worsened substantially despite the apparent increase in current assets. Required: Current ratio.",
+      "choices": [
+        {
+          "id": "bar-m1-l1-q7-a0",
+          "text": "0.5"
+        },
+        {
+          "id": "bar-m1-l1-q7-a1",
+          "text": "1.2"
+        },
+        {
+          "id": "bar-m1-l1-q7-a2",
+          "text": "2"
+        },
+        {
+          "id": "bar-m1-l1-q7-a3",
+          "text": "2.5"
+        }
+      ],
+      "correctChoiceId": "bar-m1-l1-q7-a2",
+      "explanation": "$500,000 ÷ $250,000 = 2.0.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-I",
+        "groupId": "A",
+        "topicId": "bar-financial-analysis",
+        "taskIds": [
+          "bar-financial-analysis.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      },
+      "familyId": "bar-m1-tbs1"
+    },
+    {
+      "id": "bar-m1-l1-q8",
+      "courseId": "bar",
+      "moduleId": 1,
+      "lessonId": "bar-m1-l1",
+      "topic": "Financial Ratios, Trends & Data Quality",
+      "prompt": "Prepare ratios and evaluate a liquidity concern using the stated definitions. Financial data: Current assets $500,000; inventory $200,000; current liabilities $250,000; annual sales $1,200,000; cost of sales $840,000. Quick assets equal current assets less inventory. Operational note: Inventory aging has worsened substantially despite the apparent increase in current assets. Required: Quick ratio.",
+      "choices": [
+        {
+          "id": "bar-m1-l1-q8-a0",
+          "text": "2"
+        },
+        {
+          "id": "bar-m1-l1-q8-a1",
+          "text": "0.8"
+        },
+        {
+          "id": "bar-m1-l1-q8-a2",
+          "text": "1.5"
+        },
+        {
+          "id": "bar-m1-l1-q8-a3",
+          "text": "1.2"
+        }
+      ],
+      "correctChoiceId": "bar-m1-l1-q8-a3",
+      "explanation": "($500,000 − $200,000) ÷ $250,000 = 1.2.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-I",
+        "groupId": "A",
+        "topicId": "bar-financial-analysis",
+        "taskIds": [
+          "bar-financial-analysis.task-2"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      },
+      "familyId": "bar-m1-tbs1"
+    },
+    {
+      "id": "bar-m1-l1-q9",
+      "courseId": "bar",
+      "moduleId": 1,
+      "lessonId": "bar-m1-l1",
+      "topic": "Financial Ratios, Trends & Data Quality",
+      "prompt": "Prepare ratios and evaluate a liquidity concern using the stated definitions. Financial data: Current assets $500,000; inventory $200,000; current liabilities $250,000; annual sales $1,200,000; cost of sales $840,000. Quick assets equal current assets less inventory. Operational note: Inventory aging has worsened substantially despite the apparent increase in current assets. Required: Gross margin percentage.",
+      "choices": [
+        {
+          "id": "bar-m1-l1-q9-a0",
+          "text": "30"
+        },
+        {
+          "id": "bar-m1-l1-q9-a1",
+          "text": "70"
+        },
+        {
+          "id": "bar-m1-l1-q9-a2",
+          "text": "42.86"
+        },
+        {
+          "id": "bar-m1-l1-q9-a3",
+          "text": "20"
+        }
+      ],
+      "correctChoiceId": "bar-m1-l1-q9-a0",
+      "explanation": "($1,200,000 − $840,000) ÷ $1,200,000 = 30%.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-I",
+        "groupId": "A",
+        "topicId": "bar-financial-analysis",
+        "taskIds": [
+          "bar-financial-analysis.task-3"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      },
+      "familyId": "bar-m1-tbs1"
+    },
+    {
+      "id": "bar-m1-l1-q10",
+      "courseId": "bar",
+      "moduleId": 1,
+      "lessonId": "bar-m1-l1",
+      "topic": "Financial Ratios, Trends & Data Quality",
+      "prompt": "Prepare ratios and evaluate a liquidity concern using the stated definitions. Financial data: Current assets $500,000; inventory $200,000; current liabilities $250,000; annual sales $1,200,000; cost of sales $840,000. Quick assets equal current assets less inventory. Operational note: Inventory aging has worsened substantially despite the apparent increase in current assets. Required: Interpretation of aging inventory.",
+      "choices": [
+        {
+          "id": "bar-m1-l1-q10-a0",
+          "text": "Assume the ratio proves strong liquidity"
+        },
+        {
+          "id": "bar-m1-l1-q10-a1",
+          "text": "Evaluate realizability before concluding liquidity improved"
+        },
+        {
+          "id": "bar-m1-l1-q10-a2",
+          "text": "Ignore operating information"
+        },
+        {
+          "id": "bar-m1-l1-q10-a3",
+          "text": "Treat all inventory as cash"
+        }
+      ],
+      "correctChoiceId": "bar-m1-l1-q10-a1",
+      "explanation": "Asset quality matters alongside the ratio.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-I",
+        "groupId": "A",
+        "topicId": "bar-financial-analysis",
+        "taskIds": [
+          "bar-financial-analysis.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      },
+      "familyId": "bar-m1-tbs1"
+    },
+    {
+      "id": "bar-m1-l2-q1",
+      "courseId": "bar",
+      "moduleId": 1,
+      "lessonId": "bar-m1-l2",
+      "topic": "Budgets, Forecasts, Cash Planning & Working Capital",
+      "prompt": "March sales are $400,000 and February sales $250,000. Collections are 70% in the current month and 30% next month. What are March collections?",
+      "choices": [
+        {
+          "id": "bar-m1-l2-q1-a0",
+          "text": "$400,000."
+        },
+        {
+          "id": "bar-m1-l2-q1-a1",
+          "text": "$355,000."
+        },
+        {
+          "id": "bar-m1-l2-q1-a2",
+          "text": "$280,000."
+        },
+        {
+          "id": "bar-m1-l2-q1-a3",
+          "text": "$475,000."
+        }
+      ],
+      "correctChoiceId": "bar-m1-l2-q1-a1",
+      "explanation": "70% of March sales plus 30% of February sales: $280,000 + $75,000.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-I",
+        "groupId": "B",
+        "topicId": "bar-budgeting-forecasting",
+        "taskIds": [
+          "bar-budgeting-forecasting.task-1"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bar-m1-l2-q2",
+      "courseId": "bar",
+      "moduleId": 1,
+      "lessonId": "bar-m1-l2",
+      "topic": "Budgets, Forecasts, Cash Planning & Working Capital",
+      "prompt": "Which prospective information uses hypothetical assumptions rather than necessarily expected conditions?",
+      "choices": [
+        {
+          "id": "bar-m1-l2-q2-a0",
+          "text": "Every financial forecast."
+        },
+        {
+          "id": "bar-m1-l2-q2-a1",
+          "text": "An audited historical statement."
+        },
+        {
+          "id": "bar-m1-l2-q2-a2",
+          "text": "A financial projection."
+        },
+        {
+          "id": "bar-m1-l2-q2-a3",
+          "text": "A bank confirmation."
+        }
+      ],
+      "correctChoiceId": "bar-m1-l2-q2-a2",
+      "explanation": "A projection presents results under stated hypothetical assumptions.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-I",
+        "groupId": "B",
+        "topicId": "bar-budgeting-forecasting",
+        "taskIds": [
+          "bar-budgeting-forecasting.task-2"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bar-m1-l2-q3",
+      "courseId": "bar",
+      "moduleId": 1,
+      "lessonId": "bar-m1-l2",
+      "topic": "Budgets, Forecasts, Cash Planning & Working Capital",
+      "prompt": "Planned sales are 10,000 units, desired ending finished goods 2,000, and beginning goods 1,500. What production is needed?",
+      "choices": [
+        {
+          "id": "bar-m1-l2-q3-a0",
+          "text": "9,500 units."
+        },
+        {
+          "id": "bar-m1-l2-q3-a1",
+          "text": "13,500 units."
+        },
+        {
+          "id": "bar-m1-l2-q3-a2",
+          "text": "10,000 units."
+        },
+        {
+          "id": "bar-m1-l2-q3-a3",
+          "text": "10,500 units."
+        }
+      ],
+      "correctChoiceId": "bar-m1-l2-q3-a3",
+      "explanation": "Sales + desired ending inventory − beginning inventory = 10,500.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-I",
+        "groupId": "B",
+        "topicId": "bar-budgeting-forecasting",
+        "taskIds": [
+          "bar-budgeting-forecasting.task-3"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bar-m1-l2-q4",
+      "courseId": "bar",
+      "moduleId": 1,
+      "lessonId": "bar-m1-l2",
+      "topic": "Budgets, Forecasts, Cash Planning & Working Capital",
+      "prompt": "A profitable company grows rapidly while customers pay slowly. What may result?",
+      "choices": [
+        {
+          "id": "bar-m1-l2-q4-a0",
+          "text": "A financing need despite accounting profit."
+        },
+        {
+          "id": "bar-m1-l2-q4-a1",
+          "text": "Guaranteed excess cash."
+        },
+        {
+          "id": "bar-m1-l2-q4-a2",
+          "text": "No working-capital impact."
+        },
+        {
+          "id": "bar-m1-l2-q4-a3",
+          "text": "Automatic elimination of receivables."
+        }
+      ],
+      "correctChoiceId": "bar-m1-l2-q4-a0",
+      "explanation": "Growth can absorb cash in receivables and inventory before collection.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-I",
+        "groupId": "B",
+        "topicId": "bar-budgeting-forecasting",
+        "taskIds": [
+          "bar-budgeting-forecasting.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bar-m1-l2-q5",
+      "courseId": "bar",
+      "moduleId": 1,
+      "lessonId": "bar-m1-l2",
+      "topic": "Budgets, Forecasts, Cash Planning & Working Capital",
+      "prompt": "Which budget adjusts expected costs to actual activity?",
+      "choices": [
+        {
+          "id": "bar-m1-l2-q5-a0",
+          "text": "Static budget only."
+        },
+        {
+          "id": "bar-m1-l2-q5-a1",
+          "text": "Flexible budget."
+        },
+        {
+          "id": "bar-m1-l2-q5-a2",
+          "text": "A hypothetical audit opinion."
+        },
+        {
+          "id": "bar-m1-l2-q5-a3",
+          "text": "A retained-earnings rollforward."
+        }
+      ],
+      "correctChoiceId": "bar-m1-l2-q5-a1",
+      "explanation": "A flexible budget permits an activity-consistent comparison.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-I",
+        "groupId": "B",
+        "topicId": "bar-budgeting-forecasting",
+        "taskIds": [
+          "bar-budgeting-forecasting.task-2"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bar-m1-l2-q6",
+      "courseId": "bar",
+      "moduleId": 1,
+      "lessonId": "bar-m1-l2",
+      "topic": "Budgets, Forecasts, Cash Planning & Working Capital",
+      "prompt": "Why should a forecast identify key assumptions?",
+      "choices": [
+        {
+          "id": "bar-m1-l2-q6-a0",
+          "text": "Assumptions guarantee the forecast."
+        },
+        {
+          "id": "bar-m1-l2-q6-a1",
+          "text": "Disclosure eliminates all risk."
+        },
+        {
+          "id": "bar-m1-l2-q6-a2",
+          "text": "Users need to understand dependencies and uncertainty."
+        },
+        {
+          "id": "bar-m1-l2-q6-a3",
+          "text": "Only the final profit figure matters."
+        }
+      ],
+      "correctChoiceId": "bar-m1-l2-q6-a2",
+      "explanation": "Transparent assumptions enable meaningful interpretation and sensitivity analysis.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-I",
+        "groupId": "B",
+        "topicId": "bar-budgeting-forecasting",
+        "taskIds": [
+          "bar-budgeting-forecasting.task-3"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bar-m1-l2-q7",
+      "courseId": "bar",
+      "moduleId": 1,
+      "lessonId": "bar-m1-l2",
+      "topic": "Budgets, Forecasts, Cash Planning & Working Capital",
+      "prompt": "Build a monthly cash budget from the collection and payment assumptions. Collections: Prior-month sales $200,000; current-month sales $300,000. Collect 60% in the month of sale and 40% the next month. Other cash data: Beginning cash $50,000; current cash payments $280,000; required minimum ending cash $40,000. Ignore interest and other flows. Required: Current-month cash collections.",
+      "choices": [
+        {
+          "id": "bar-m1-l2-q7-a0",
+          "text": "300000"
+        },
+        {
+          "id": "bar-m1-l2-q7-a1",
+          "text": "180000"
+        },
+        {
+          "id": "bar-m1-l2-q7-a2",
+          "text": "200000"
+        },
+        {
+          "id": "bar-m1-l2-q7-a3",
+          "text": "260000"
+        }
+      ],
+      "correctChoiceId": "bar-m1-l2-q7-a3",
+      "explanation": "$300,000 × 60% + $200,000 × 40% = $260,000.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-I",
+        "groupId": "B",
+        "topicId": "bar-budgeting-forecasting",
+        "taskIds": [
+          "bar-budgeting-forecasting.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      },
+      "familyId": "bar-m1-tbs2"
+    },
+    {
+      "id": "bar-m1-l2-q8",
+      "courseId": "bar",
+      "moduleId": 1,
+      "lessonId": "bar-m1-l2",
+      "topic": "Budgets, Forecasts, Cash Planning & Working Capital",
+      "prompt": "Build a monthly cash budget from the collection and payment assumptions. Collections: Prior-month sales $200,000; current-month sales $300,000. Collect 60% in the month of sale and 40% the next month. Other cash data: Beginning cash $50,000; current cash payments $280,000; required minimum ending cash $40,000. Ignore interest and other flows. Required: Cash available before payments.",
+      "choices": [
+        {
+          "id": "bar-m1-l2-q8-a0",
+          "text": "310000"
+        },
+        {
+          "id": "bar-m1-l2-q8-a1",
+          "text": "260000"
+        },
+        {
+          "id": "bar-m1-l2-q8-a2",
+          "text": "350000"
+        },
+        {
+          "id": "bar-m1-l2-q8-a3",
+          "text": "50000"
+        }
+      ],
+      "correctChoiceId": "bar-m1-l2-q8-a0",
+      "explanation": "$50,000 beginning cash + $260,000 collections.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-I",
+        "groupId": "B",
+        "topicId": "bar-budgeting-forecasting",
+        "taskIds": [
+          "bar-budgeting-forecasting.task-2"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      },
+      "familyId": "bar-m1-tbs2"
+    },
+    {
+      "id": "bar-m1-l2-q9",
+      "courseId": "bar",
+      "moduleId": 1,
+      "lessonId": "bar-m1-l2",
+      "topic": "Budgets, Forecasts, Cash Planning & Working Capital",
+      "prompt": "Build a monthly cash budget from the collection and payment assumptions. Collections: Prior-month sales $200,000; current-month sales $300,000. Collect 60% in the month of sale and 40% the next month. Other cash data: Beginning cash $50,000; current cash payments $280,000; required minimum ending cash $40,000. Ignore interest and other flows. Required: Ending cash before financing.",
+      "choices": [
+        {
+          "id": "bar-m1-l2-q9-a0",
+          "text": "40000"
+        },
+        {
+          "id": "bar-m1-l2-q9-a1",
+          "text": "30000"
+        },
+        {
+          "id": "bar-m1-l2-q9-a2",
+          "text": "80000"
+        },
+        {
+          "id": "bar-m1-l2-q9-a3",
+          "text": "-20000"
+        }
+      ],
+      "correctChoiceId": "bar-m1-l2-q9-a1",
+      "explanation": "$310,000 − $280,000 = $30,000.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-I",
+        "groupId": "B",
+        "topicId": "bar-budgeting-forecasting",
+        "taskIds": [
+          "bar-budgeting-forecasting.task-3"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      },
+      "familyId": "bar-m1-tbs2"
+    },
+    {
+      "id": "bar-m1-l2-q10",
+      "courseId": "bar",
+      "moduleId": 1,
+      "lessonId": "bar-m1-l2",
+      "topic": "Budgets, Forecasts, Cash Planning & Working Capital",
+      "prompt": "Build a monthly cash budget from the collection and payment assumptions. Collections: Prior-month sales $200,000; current-month sales $300,000. Collect 60% in the month of sale and 40% the next month. Other cash data: Beginning cash $50,000; current cash payments $280,000; required minimum ending cash $40,000. Ignore interest and other flows. Required: Borrowing needed to meet minimum cash.",
+      "choices": [
+        {
+          "id": "bar-m1-l2-q10-a0",
+          "text": "40000"
+        },
+        {
+          "id": "bar-m1-l2-q10-a1",
+          "text": "30000"
+        },
+        {
+          "id": "bar-m1-l2-q10-a2",
+          "text": "10000"
+        },
+        {
+          "id": "bar-m1-l2-q10-a3",
+          "text": "0"
+        }
+      ],
+      "correctChoiceId": "bar-m1-l2-q10-a2",
+      "explanation": "$40,000 required less $30,000 available = $10,000.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-I",
+        "groupId": "B",
+        "topicId": "bar-budgeting-forecasting",
+        "taskIds": [
+          "bar-budgeting-forecasting.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      },
+      "familyId": "bar-m1-tbs2"
+    },
+    {
+      "id": "bar-m1-l3-q1",
+      "courseId": "bar",
+      "moduleId": 1,
+      "lessonId": "bar-m1-l3",
+      "topic": "Cost Behavior, CVP & Relevant Decisions",
+      "prompt": "Price is $100 and variable cost is $60 per unit. What is unit contribution margin?",
+      "choices": [
+        {
+          "id": "bar-m1-l3-q1-a0",
+          "text": "$60."
+        },
+        {
+          "id": "bar-m1-l3-q1-a1",
+          "text": "$100."
+        },
+        {
+          "id": "bar-m1-l3-q1-a2",
+          "text": "$40."
+        },
+        {
+          "id": "bar-m1-l3-q1-a3",
+          "text": "$160."
+        }
+      ],
+      "correctChoiceId": "bar-m1-l3-q1-a2",
+      "explanation": "Revenue less variable cost is the amount available for fixed costs and profit.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-I",
+        "groupId": "A-B",
+        "topicId": "bar-cost-volume-profit",
+        "taskIds": [
+          "bar-cost-volume-profit.task-1"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bar-m1-l3-q2",
+      "courseId": "bar",
+      "moduleId": 1,
+      "lessonId": "bar-m1-l3",
+      "topic": "Cost Behavior, CVP & Relevant Decisions",
+      "prompt": "Fixed costs are $200,000 and unit contribution margin is $40. What is break-even volume?",
+      "choices": [
+        {
+          "id": "bar-m1-l3-q2-a0",
+          "text": "8,000 units."
+        },
+        {
+          "id": "bar-m1-l3-q2-a1",
+          "text": "2,000 units."
+        },
+        {
+          "id": "bar-m1-l3-q2-a2",
+          "text": "500 units."
+        },
+        {
+          "id": "bar-m1-l3-q2-a3",
+          "text": "5,000 units."
+        }
+      ],
+      "correctChoiceId": "bar-m1-l3-q2-a3",
+      "explanation": "$200,000 ÷ $40 = 5,000.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-I",
+        "groupId": "A-B",
+        "topicId": "bar-cost-volume-profit",
+        "taskIds": [
+          "bar-cost-volume-profit.task-2"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bar-m1-l3-q3",
+      "courseId": "bar",
+      "moduleId": 1,
+      "lessonId": "bar-m1-l3",
+      "topic": "Cost Behavior, CVP & Relevant Decisions",
+      "prompt": "Which cost is ordinarily irrelevant to choosing between future alternatives?",
+      "choices": [
+        {
+          "id": "bar-m1-l3-q3-a0",
+          "text": "A sunk cost that cannot be changed."
+        },
+        {
+          "id": "bar-m1-l3-q3-a1",
+          "text": "An avoidable future cost."
+        },
+        {
+          "id": "bar-m1-l3-q3-a2",
+          "text": "A relevant opportunity cost."
+        },
+        {
+          "id": "bar-m1-l3-q3-a3",
+          "text": "Incremental future revenue."
+        }
+      ],
+      "correctChoiceId": "bar-m1-l3-q3-a0",
+      "explanation": "A sunk cost does not differ between future choices.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-I",
+        "groupId": "A-B",
+        "topicId": "bar-cost-volume-profit",
+        "taskIds": [
+          "bar-cost-volume-profit.task-3"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bar-m1-l3-q4",
+      "courseId": "bar",
+      "moduleId": 1,
+      "lessonId": "bar-m1-l3",
+      "topic": "Cost Behavior, CVP & Relevant Decisions",
+      "prompt": "Product A contributes $30 using 2 scarce hours; B contributes $24 using 1 hour. Which yields more contribution per scarce hour?",
+      "choices": [
+        {
+          "id": "bar-m1-l3-q4-a0",
+          "text": "Product A because $30 exceeds $24."
+        },
+        {
+          "id": "bar-m1-l3-q4-a1",
+          "text": "Product B."
+        },
+        {
+          "id": "bar-m1-l3-q4-a2",
+          "text": "They are equal."
+        },
+        {
+          "id": "bar-m1-l3-q4-a3",
+          "text": "No capacity information is needed."
+        }
+      ],
+      "correctChoiceId": "bar-m1-l3-q4-a1",
+      "explanation": "A earns $15 per hour; B earns $24 per hour.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-I",
+        "groupId": "A-B",
+        "topicId": "bar-cost-volume-profit",
+        "taskIds": [
+          "bar-cost-volume-profit.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bar-m1-l3-q5",
+      "courseId": "bar",
+      "moduleId": 1,
+      "lessonId": "bar-m1-l3",
+      "topic": "Cost Behavior, CVP & Relevant Decisions",
+      "prompt": "Allocated overhead continues whether a component is made or bought. How should it be treated in incremental analysis?",
+      "choices": [
+        {
+          "id": "bar-m1-l3-q5-a0",
+          "text": "Treat all allocation as a cash saving from buying."
+        },
+        {
+          "id": "bar-m1-l3-q5-a1",
+          "text": "Deduct it twice."
+        },
+        {
+          "id": "bar-m1-l3-q5-a2",
+          "text": "Exclude the unavoidable amount from the differential comparison."
+        },
+        {
+          "id": "bar-m1-l3-q5-a3",
+          "text": "Treat it as new sales revenue."
+        }
+      ],
+      "correctChoiceId": "bar-m1-l3-q5-a2",
+      "explanation": "Only amounts that change between alternatives are relevant to the differential computation.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-I",
+        "groupId": "A-B",
+        "topicId": "bar-cost-volume-profit",
+        "taskIds": [
+          "bar-cost-volume-profit.task-2"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bar-m1-l3-q6",
+      "courseId": "bar",
+      "moduleId": 1,
+      "lessonId": "bar-m1-l3",
+      "topic": "Cost Behavior, CVP & Relevant Decisions",
+      "prompt": "A special order offers positive incremental contribution using idle capacity. What else should management consider?",
+      "choices": [
+        {
+          "id": "bar-m1-l3-q6-a0",
+          "text": "Nothing; positive contribution guarantees long-run success."
+        },
+        {
+          "id": "bar-m1-l3-q6-a1",
+          "text": "Only historical sunk costs."
+        },
+        {
+          "id": "bar-m1-l3-q6-a2",
+          "text": "Only the presentation of the invoice."
+        },
+        {
+          "id": "bar-m1-l3-q6-a3",
+          "text": "Qualitative effects such as customer relationships, quality, and future pricing."
+        }
+      ],
+      "correctChoiceId": "bar-m1-l3-q6-a3",
+      "explanation": "Short-run arithmetic is one input to the broader decision.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-I",
+        "groupId": "A-B",
+        "topicId": "bar-cost-volume-profit",
+        "taskIds": [
+          "bar-cost-volume-profit.task-3"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bar-m1-l3-q7",
+      "courseId": "bar",
+      "moduleId": 1,
+      "lessonId": "bar-m1-l3",
+      "topic": "Cost Behavior, CVP & Relevant Decisions",
+      "prompt": "Analyze a single-product break-even model and an independent constrained-resource choice. Break-even model: Selling price $75 per unit; variable cost $45; annual fixed cost $150,000. Assume the relevant range and a constant sales mix. Machine-hour constraint: Product X contributes $36 and requires 3 hours. Product Y contributes $28 and requires 2 hours. Demand exists for either product. Required: Unit contribution margin.",
+      "choices": [
+        {
+          "id": "bar-m1-l3-q7-a0",
+          "text": "30"
+        },
+        {
+          "id": "bar-m1-l3-q7-a1",
+          "text": "45"
+        },
+        {
+          "id": "bar-m1-l3-q7-a2",
+          "text": "75"
+        },
+        {
+          "id": "bar-m1-l3-q7-a3",
+          "text": "120"
+        }
+      ],
+      "correctChoiceId": "bar-m1-l3-q7-a0",
+      "explanation": "$75 − $45 = $30.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-I",
+        "groupId": "A-B",
+        "topicId": "bar-cost-volume-profit",
+        "taskIds": [
+          "bar-cost-volume-profit.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      },
+      "familyId": "bar-m1-tbs3"
+    },
+    {
+      "id": "bar-m1-l3-q8",
+      "courseId": "bar",
+      "moduleId": 1,
+      "lessonId": "bar-m1-l3",
+      "topic": "Cost Behavior, CVP & Relevant Decisions",
+      "prompt": "Analyze a single-product break-even model and an independent constrained-resource choice. Break-even model: Selling price $75 per unit; variable cost $45; annual fixed cost $150,000. Assume the relevant range and a constant sales mix. Machine-hour constraint: Product X contributes $36 and requires 3 hours. Product Y contributes $28 and requires 2 hours. Demand exists for either product. Required: Break-even units.",
+      "choices": [
+        {
+          "id": "bar-m1-l3-q8-a0",
+          "text": "2000"
+        },
+        {
+          "id": "bar-m1-l3-q8-a1",
+          "text": "5000"
+        },
+        {
+          "id": "bar-m1-l3-q8-a2",
+          "text": "3333"
+        },
+        {
+          "id": "bar-m1-l3-q8-a3",
+          "text": "7500"
+        }
+      ],
+      "correctChoiceId": "bar-m1-l3-q8-a1",
+      "explanation": "$150,000 ÷ $30 = 5,000.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-I",
+        "groupId": "A-B",
+        "topicId": "bar-cost-volume-profit",
+        "taskIds": [
+          "bar-cost-volume-profit.task-2"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      },
+      "familyId": "bar-m1-tbs3"
+    },
+    {
+      "id": "bar-m1-l3-q9",
+      "courseId": "bar",
+      "moduleId": 1,
+      "lessonId": "bar-m1-l3",
+      "topic": "Cost Behavior, CVP & Relevant Decisions",
+      "prompt": "Analyze a single-product break-even model and an independent constrained-resource choice. Break-even model: Selling price $75 per unit; variable cost $45; annual fixed cost $150,000. Assume the relevant range and a constant sales mix. Machine-hour constraint: Product X contributes $36 and requires 3 hours. Product Y contributes $28 and requires 2 hours. Demand exists for either product. Required: Product X contribution per machine hour.",
+      "choices": [
+        {
+          "id": "bar-m1-l3-q9-a0",
+          "text": "36"
+        },
+        {
+          "id": "bar-m1-l3-q9-a1",
+          "text": "108"
+        },
+        {
+          "id": "bar-m1-l3-q9-a2",
+          "text": "12"
+        },
+        {
+          "id": "bar-m1-l3-q9-a3",
+          "text": "18"
+        }
+      ],
+      "correctChoiceId": "bar-m1-l3-q9-a2",
+      "explanation": "$36 ÷ 3 = $12 per hour.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-I",
+        "groupId": "A-B",
+        "topicId": "bar-cost-volume-profit",
+        "taskIds": [
+          "bar-cost-volume-profit.task-3"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      },
+      "familyId": "bar-m1-tbs3"
+    },
+    {
+      "id": "bar-m1-l3-q10",
+      "courseId": "bar",
+      "moduleId": 1,
+      "lessonId": "bar-m1-l3",
+      "topic": "Cost Behavior, CVP & Relevant Decisions",
+      "prompt": "Analyze a single-product break-even model and an independent constrained-resource choice. Break-even model: Selling price $75 per unit; variable cost $45; annual fixed cost $150,000. Assume the relevant range and a constant sales mix. Machine-hour constraint: Product X contributes $36 and requires 3 hours. Product Y contributes $28 and requires 2 hours. Demand exists for either product. Required: Preferred product on contribution per scarce hour alone.",
+      "choices": [
+        {
+          "id": "bar-m1-l3-q10-a0",
+          "text": "Product X"
+        },
+        {
+          "id": "bar-m1-l3-q10-a1",
+          "text": "Equal contribution per hour"
+        },
+        {
+          "id": "bar-m1-l3-q10-a2",
+          "text": "Cannot compare despite supplied hours"
+        },
+        {
+          "id": "bar-m1-l3-q10-a3",
+          "text": "Product Y"
+        }
+      ],
+      "correctChoiceId": "bar-m1-l3-q10-a3",
+      "explanation": "Y earns $14 per hour versus X’s $12.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-I",
+        "groupId": "A-B",
+        "topicId": "bar-cost-volume-profit",
+        "taskIds": [
+          "bar-cost-volume-profit.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      },
+      "familyId": "bar-m1-tbs3"
+    },
+    {
+      "id": "bar-m1-l4-q1",
+      "courseId": "bar",
+      "moduleId": 1,
+      "lessonId": "bar-m1-l4",
+      "topic": "Standard Costs, Variances & Performance Interpretation",
+      "prompt": "Actual quantity is 2,000 units, actual price $3.80, and standard price $4.00. What is the price variance?",
+      "choices": [
+        {
+          "id": "bar-m1-l4-q1-a0",
+          "text": "$400 unfavorable."
+        },
+        {
+          "id": "bar-m1-l4-q1-a1",
+          "text": "$7,600 unfavorable."
+        },
+        {
+          "id": "bar-m1-l4-q1-a2",
+          "text": "$8,000 favorable."
+        },
+        {
+          "id": "bar-m1-l4-q1-a3",
+          "text": "$400 favorable."
+        }
+      ],
+      "correctChoiceId": "bar-m1-l4-q1-a3",
+      "explanation": "2,000 × ($3.80 − $4.00) = −$400 under actual-minus-standard.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-I",
+        "groupId": "A",
+        "topicId": "bar-variance-analysis",
+        "taskIds": [
+          "bar-variance-analysis.task-1"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bar-m1-l4-q2",
+      "courseId": "bar",
+      "moduleId": 1,
+      "lessonId": "bar-m1-l4",
+      "topic": "Standard Costs, Variances & Performance Interpretation",
+      "prompt": "Actual usage is 2,200 units; standard quantity allowed is 2,000; standard price is $4. What is the quantity variance?",
+      "choices": [
+        {
+          "id": "bar-m1-l4-q2-a0",
+          "text": "$800 unfavorable."
+        },
+        {
+          "id": "bar-m1-l4-q2-a1",
+          "text": "$800 favorable."
+        },
+        {
+          "id": "bar-m1-l4-q2-a2",
+          "text": "$200 unfavorable."
+        },
+        {
+          "id": "bar-m1-l4-q2-a3",
+          "text": "$8,800 favorable."
+        }
+      ],
+      "correctChoiceId": "bar-m1-l4-q2-a0",
+      "explanation": "$4 × (2,200 − 2,000) = $800 unfavorable.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-I",
+        "groupId": "A",
+        "topicId": "bar-variance-analysis",
+        "taskIds": [
+          "bar-variance-analysis.task-2"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bar-m1-l4-q3",
+      "courseId": "bar",
+      "moduleId": 1,
+      "lessonId": "bar-m1-l4",
+      "topic": "Standard Costs, Variances & Performance Interpretation",
+      "prompt": "Actual labor is 900 hours at $22; standard rate is $20. What is the labor rate variance?",
+      "choices": [
+        {
+          "id": "bar-m1-l4-q3-a0",
+          "text": "$1,800 favorable."
+        },
+        {
+          "id": "bar-m1-l4-q3-a1",
+          "text": "$1,800 unfavorable."
+        },
+        {
+          "id": "bar-m1-l4-q3-a2",
+          "text": "$2,000 unfavorable."
+        },
+        {
+          "id": "bar-m1-l4-q3-a3",
+          "text": "$18,000 unfavorable."
+        }
+      ],
+      "correctChoiceId": "bar-m1-l4-q3-a1",
+      "explanation": "900 × ($22 − $20) = $1,800 unfavorable.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-I",
+        "groupId": "A",
+        "topicId": "bar-variance-analysis",
+        "taskIds": [
+          "bar-variance-analysis.task-3"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bar-m1-l4-q4",
+      "courseId": "bar",
+      "moduleId": 1,
+      "lessonId": "bar-m1-l4",
+      "topic": "Standard Costs, Variances & Performance Interpretation",
+      "prompt": "A favorable material price variance accompanies severe unfavorable usage and defects. What is appropriate?",
+      "choices": [
+        {
+          "id": "bar-m1-l4-q4-a0",
+          "text": "Reward purchasing solely on price."
+        },
+        {
+          "id": "bar-m1-l4-q4-a1",
+          "text": "Ignore production evidence."
+        },
+        {
+          "id": "bar-m1-l4-q4-a2",
+          "text": "Evaluate the combined cost and quality effects."
+        },
+        {
+          "id": "bar-m1-l4-q4-a3",
+          "text": "Assume cheaper input always raises profit."
+        }
+      ],
+      "correctChoiceId": "bar-m1-l4-q4-a2",
+      "explanation": "Related variances and nonfinancial outcomes must be interpreted together.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-I",
+        "groupId": "A",
+        "topicId": "bar-variance-analysis",
+        "taskIds": [
+          "bar-variance-analysis.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bar-m1-l4-q5",
+      "courseId": "bar",
+      "moduleId": 1,
+      "lessonId": "bar-m1-l4",
+      "topic": "Standard Costs, Variances & Performance Interpretation",
+      "prompt": "The standard hours used in an efficiency variance should ordinarily reflect what?",
+      "choices": [
+        {
+          "id": "bar-m1-l4-q5-a0",
+          "text": "Only the original planned output regardless of activity."
+        },
+        {
+          "id": "bar-m1-l4-q5-a1",
+          "text": "Actual hours with no benchmark."
+        },
+        {
+          "id": "bar-m1-l4-q5-a2",
+          "text": "The manager’s preferred profit figure."
+        },
+        {
+          "id": "bar-m1-l4-q5-a3",
+          "text": "Actual output at the standard allowed hours per unit."
+        }
+      ],
+      "correctChoiceId": "bar-m1-l4-q5-a3",
+      "explanation": "Efficiency compares actual input with the amount allowed for actual output.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-I",
+        "groupId": "A",
+        "topicId": "bar-variance-analysis",
+        "taskIds": [
+          "bar-variance-analysis.task-2"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bar-m1-l4-q6",
+      "courseId": "bar",
+      "moduleId": 1,
+      "lessonId": "bar-m1-l4",
+      "topic": "Standard Costs, Variances & Performance Interpretation",
+      "prompt": "Why can a flexible budget improve a cost-performance comparison?",
+      "choices": [
+        {
+          "id": "bar-m1-l4-q6-a0",
+          "text": "It adjusts expected costs for actual activity."
+        },
+        {
+          "id": "bar-m1-l4-q6-a1",
+          "text": "It guarantees every variance is favorable."
+        },
+        {
+          "id": "bar-m1-l4-q6-a2",
+          "text": "It removes all fixed costs."
+        },
+        {
+          "id": "bar-m1-l4-q6-a3",
+          "text": "It replaces operational evidence with labels."
+        }
+      ],
+      "correctChoiceId": "bar-m1-l4-q6-a0",
+      "explanation": "Adjusting activity prevents output-volume changes from being confused with spending or efficiency effects.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-I",
+        "groupId": "A",
+        "topicId": "bar-variance-analysis",
+        "taskIds": [
+          "bar-variance-analysis.task-3"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bar-m1-l4-q7",
+      "courseId": "bar",
+      "moduleId": 1,
+      "lessonId": "bar-m1-l4",
+      "topic": "Standard Costs, Variances & Performance Interpretation",
+      "prompt": "Calculate signed variances using the actual-minus-standard convention; enter favorable variances as negative. Standards: Standard material price $6 per unit. Standard quantity allowed for actual output is 3,000 units. Actual results: Actual usage is 3,200 units at $5.75 per unit. Use actual usage for the price variance. Quality complaints increased. Required: Signed material price variance.",
+      "choices": [
+        {
+          "id": "bar-m1-l4-q7-a0",
+          "text": "800"
+        },
+        {
+          "id": "bar-m1-l4-q7-a1",
+          "text": "-800"
+        },
+        {
+          "id": "bar-m1-l4-q7-a2",
+          "text": "-750"
+        },
+        {
+          "id": "bar-m1-l4-q7-a3",
+          "text": "1200"
+        }
+      ],
+      "correctChoiceId": "bar-m1-l4-q7-a1",
+      "explanation": "3,200 × ($5.75 − $6.00) = −$800, favorable.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-I",
+        "groupId": "A",
+        "topicId": "bar-variance-analysis",
+        "taskIds": [
+          "bar-variance-analysis.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      },
+      "familyId": "bar-m1-tbs4"
+    },
+    {
+      "id": "bar-m1-l4-q8",
+      "courseId": "bar",
+      "moduleId": 1,
+      "lessonId": "bar-m1-l4",
+      "topic": "Standard Costs, Variances & Performance Interpretation",
+      "prompt": "Calculate signed variances using the actual-minus-standard convention; enter favorable variances as negative. Standards: Standard material price $6 per unit. Standard quantity allowed for actual output is 3,000 units. Actual results: Actual usage is 3,200 units at $5.75 per unit. Use actual usage for the price variance. Quality complaints increased. Required: Signed material quantity variance.",
+      "choices": [
+        {
+          "id": "bar-m1-l4-q8-a0",
+          "text": "-1200"
+        },
+        {
+          "id": "bar-m1-l4-q8-a1",
+          "text": "200"
+        },
+        {
+          "id": "bar-m1-l4-q8-a2",
+          "text": "1200"
+        },
+        {
+          "id": "bar-m1-l4-q8-a3",
+          "text": "1150"
+        }
+      ],
+      "correctChoiceId": "bar-m1-l4-q8-a2",
+      "explanation": "$6 × (3,200 − 3,000) = $1,200, unfavorable.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-I",
+        "groupId": "A",
+        "topicId": "bar-variance-analysis",
+        "taskIds": [
+          "bar-variance-analysis.task-2"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      },
+      "familyId": "bar-m1-tbs4"
+    },
+    {
+      "id": "bar-m1-l4-q9",
+      "courseId": "bar",
+      "moduleId": 1,
+      "lessonId": "bar-m1-l4",
+      "topic": "Standard Costs, Variances & Performance Interpretation",
+      "prompt": "Calculate signed variances using the actual-minus-standard convention; enter favorable variances as negative. Standards: Standard material price $6 per unit. Standard quantity allowed for actual output is 3,000 units. Actual results: Actual usage is 3,200 units at $5.75 per unit. Use actual usage for the price variance. Quality complaints increased. Required: Net material cost variance.",
+      "choices": [
+        {
+          "id": "bar-m1-l4-q9-a0",
+          "text": "2000"
+        },
+        {
+          "id": "bar-m1-l4-q9-a1",
+          "text": "-400"
+        },
+        {
+          "id": "bar-m1-l4-q9-a2",
+          "text": "800"
+        },
+        {
+          "id": "bar-m1-l4-q9-a3",
+          "text": "400"
+        }
+      ],
+      "correctChoiceId": "bar-m1-l4-q9-a3",
+      "explanation": "−$800 + $1,200 = $400 unfavorable.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-I",
+        "groupId": "A",
+        "topicId": "bar-variance-analysis",
+        "taskIds": [
+          "bar-variance-analysis.task-3"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      },
+      "familyId": "bar-m1-tbs4"
+    },
+    {
+      "id": "bar-m1-l4-q10",
+      "courseId": "bar",
+      "moduleId": 1,
+      "lessonId": "bar-m1-l4",
+      "topic": "Standard Costs, Variances & Performance Interpretation",
+      "prompt": "Calculate signed variances using the actual-minus-standard convention; enter favorable variances as negative. Standards: Standard material price $6 per unit. Standard quantity allowed for actual output is 3,000 units. Actual results: Actual usage is 3,200 units at $5.75 per unit. Use actual usage for the price variance. Quality complaints increased. Required: Recommended interpretation.",
+      "choices": [
+        {
+          "id": "bar-m1-l4-q10-a0",
+          "text": "Investigate quality and total cost, not price alone"
+        },
+        {
+          "id": "bar-m1-l4-q10-a1",
+          "text": "Conclude the purchase was successful solely from price"
+        },
+        {
+          "id": "bar-m1-l4-q10-a2",
+          "text": "Ignore complaints"
+        },
+        {
+          "id": "bar-m1-l4-q10-a3",
+          "text": "Assume all variances are uncontrollable"
+        }
+      ],
+      "correctChoiceId": "bar-m1-l4-q10-a0",
+      "explanation": "The favorable price is offset by usage and potentially quality costs.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-I",
+        "groupId": "A",
+        "topicId": "bar-variance-analysis",
+        "taskIds": [
+          "bar-variance-analysis.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      },
+      "familyId": "bar-m1-tbs4"
+    },
+    {
+      "id": "bar-m1-l5-q1",
+      "courseId": "bar",
+      "moduleId": 1,
+      "lessonId": "bar-m1-l5",
+      "topic": "Capital Structure, Cost of Capital & Investment Decisions",
+      "prompt": "An investment costs $80,000 and has present value of future inflows $95,000. What is NPV?",
+      "choices": [
+        {
+          "id": "bar-m1-l5-q1-a0",
+          "text": "$15,000."
+        },
+        {
+          "id": "bar-m1-l5-q1-a1",
+          "text": "$80,000."
+        },
+        {
+          "id": "bar-m1-l5-q1-a2",
+          "text": "$95,000."
+        },
+        {
+          "id": "bar-m1-l5-q1-a3",
+          "text": "$175,000."
+        }
+      ],
+      "correctChoiceId": "bar-m1-l5-q1-a0",
+      "explanation": "NPV is discounted inflows less the investment.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-I",
+        "groupId": "B",
+        "topicId": "bar-capital-budgeting",
+        "taskIds": [
+          "bar-capital-budgeting.task-1"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bar-m1-l5-q2",
+      "courseId": "bar",
+      "moduleId": 1,
+      "lessonId": "bar-m1-l5",
+      "topic": "Capital Structure, Cost of Capital & Investment Decisions",
+      "prompt": "Weights are 40% debt and 60% equity. Pretax debt cost is 5%, equity cost 10%, and the supplied debt tax effect is 20%. What is WACC?",
+      "choices": [
+        {
+          "id": "bar-m1-l5-q2-a0",
+          "text": "8.0%."
+        },
+        {
+          "id": "bar-m1-l5-q2-a1",
+          "text": "7.6%."
+        },
+        {
+          "id": "bar-m1-l5-q2-a2",
+          "text": "6.0%."
+        },
+        {
+          "id": "bar-m1-l5-q2-a3",
+          "text": "9.0%."
+        }
+      ],
+      "correctChoiceId": "bar-m1-l5-q2-a1",
+      "explanation": "0.4 × 5% × (1 − 20%) + 0.6 × 10% = 7.6%.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-I",
+        "groupId": "B",
+        "topicId": "bar-capital-budgeting",
+        "taskIds": [
+          "bar-capital-budgeting.task-2"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bar-m1-l5-q3",
+      "courseId": "bar",
+      "moduleId": 1,
+      "lessonId": "bar-m1-l5",
+      "topic": "Capital Structure, Cost of Capital & Investment Decisions",
+      "prompt": "Which item is relevant to a project using an asset that could otherwise be sold?",
+      "choices": [
+        {
+          "id": "bar-m1-l5-q3-a0",
+          "text": "Only historical purchase cost regardless of alternatives."
+        },
+        {
+          "id": "bar-m1-l5-q3-a1",
+          "text": "Only prior depreciation expense."
+        },
+        {
+          "id": "bar-m1-l5-q3-a2",
+          "text": "The foregone sale proceeds as an opportunity cost."
+        },
+        {
+          "id": "bar-m1-l5-q3-a3",
+          "text": "No cost because the asset is already owned."
+        }
+      ],
+      "correctChoiceId": "bar-m1-l5-q3-a2",
+      "explanation": "Using an existing asset can sacrifice a current alternative benefit.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-I",
+        "groupId": "B",
+        "topicId": "bar-capital-budgeting",
+        "taskIds": [
+          "bar-capital-budgeting.task-3"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bar-m1-l5-q4",
+      "courseId": "bar",
+      "moduleId": 1,
+      "lessonId": "bar-m1-l5",
+      "topic": "Capital Structure, Cost of Capital & Investment Decisions",
+      "prompt": "What is a limitation of the basic payback method?",
+      "choices": [
+        {
+          "id": "bar-m1-l5-q4-a0",
+          "text": "It always computes NPV exactly."
+        },
+        {
+          "id": "bar-m1-l5-q4-a1",
+          "text": "It always uses market-value WACC."
+        },
+        {
+          "id": "bar-m1-l5-q4-a2",
+          "text": "It guarantees the most profitable project."
+        },
+        {
+          "id": "bar-m1-l5-q4-a3",
+          "text": "It ordinarily ignores cash flows after the payback point and the time value of money."
+        }
+      ],
+      "correctChoiceId": "bar-m1-l5-q4-a3",
+      "explanation": "Payback is a limited liquidity measure, not a complete value-creation measure.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-I",
+        "groupId": "B",
+        "topicId": "bar-capital-budgeting",
+        "taskIds": [
+          "bar-capital-budgeting.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bar-m1-l5-q5",
+      "courseId": "bar",
+      "moduleId": 1,
+      "lessonId": "bar-m1-l5",
+      "topic": "Capital Structure, Cost of Capital & Investment Decisions",
+      "prompt": "A completed feasibility study cost cannot be recovered and will not change under any alternative. How is it treated in incremental project analysis?",
+      "choices": [
+        {
+          "id": "bar-m1-l5-q5-a0",
+          "text": "As a sunk cost."
+        },
+        {
+          "id": "bar-m1-l5-q5-a1",
+          "text": "As new incremental revenue."
+        },
+        {
+          "id": "bar-m1-l5-q5-a2",
+          "text": "As an opportunity cost equal to future sales."
+        },
+        {
+          "id": "bar-m1-l5-q5-a3",
+          "text": "As a mandatory addition to every future cash flow."
+        }
+      ],
+      "correctChoiceId": "bar-m1-l5-q5-a0",
+      "explanation": "An irreversible past cost does not differ among future choices.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-I",
+        "groupId": "B",
+        "topicId": "bar-capital-budgeting",
+        "taskIds": [
+          "bar-capital-budgeting.task-2"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bar-m1-l5-q6",
+      "courseId": "bar",
+      "moduleId": 1,
+      "lessonId": "bar-m1-l5",
+      "topic": "Capital Structure, Cost of Capital & Investment Decisions",
+      "prompt": "Two mutually exclusive projects rank differently under NPV and IRR. What should management evaluate?",
+      "choices": [
+        {
+          "id": "bar-m1-l5-q6-a0",
+          "text": "Always choose the highest IRR without further analysis."
+        },
+        {
+          "id": "bar-m1-l5-q6-a1",
+          "text": "Scale, timing, reinvestment assumptions, and value creation."
+        },
+        {
+          "id": "bar-m1-l5-q6-a2",
+          "text": "Ignore all discounting."
+        },
+        {
+          "id": "bar-m1-l5-q6-a3",
+          "text": "Choose the project with the longest name."
+        }
+      ],
+      "correctChoiceId": "bar-m1-l5-q6-a1",
+      "explanation": "Different scale and timing can produce ranking conflicts that require substantive evaluation.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-I",
+        "groupId": "B",
+        "topicId": "bar-capital-budgeting",
+        "taskIds": [
+          "bar-capital-budgeting.task-3"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bar-m1-l5-q7",
+      "courseId": "bar",
+      "moduleId": 1,
+      "lessonId": "bar-m1-l5",
+      "topic": "Capital Structure, Cost of Capital & Investment Decisions",
+      "prompt": "Evaluate a proposed project and its financing assumptions. Project cash flows: Initial investment $200,000. Annual net cash inflow $60,000 for five years. Supplied annuity present-value factor 3.791. No terminal flow or other investment applies. Financing: Market-value weights: 40% debt, 60% equity. Debt cost 5%; equity cost 10%; supplied tax rate for the debt adjustment 20%. Required: Present value of project inflows.",
+      "choices": [
+        {
+          "id": "bar-m1-l5-q7-a0",
+          "text": "300000"
+        },
+        {
+          "id": "bar-m1-l5-q7-a1",
+          "text": "200000"
+        },
+        {
+          "id": "bar-m1-l5-q7-a2",
+          "text": "227460"
+        },
+        {
+          "id": "bar-m1-l5-q7-a3",
+          "text": "113730"
+        }
+      ],
+      "correctChoiceId": "bar-m1-l5-q7-a2",
+      "explanation": "$60,000 × 3.791 = $227,460.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-I",
+        "groupId": "B",
+        "topicId": "bar-capital-budgeting",
+        "taskIds": [
+          "bar-capital-budgeting.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      },
+      "familyId": "bar-m1-tbs5"
+    },
+    {
+      "id": "bar-m1-l5-q8",
+      "courseId": "bar",
+      "moduleId": 1,
+      "lessonId": "bar-m1-l5",
+      "topic": "Capital Structure, Cost of Capital & Investment Decisions",
+      "prompt": "Evaluate a proposed project and its financing assumptions. Project cash flows: Initial investment $200,000. Annual net cash inflow $60,000 for five years. Supplied annuity present-value factor 3.791. No terminal flow or other investment applies. Financing: Market-value weights: 40% debt, 60% equity. Debt cost 5%; equity cost 10%; supplied tax rate for the debt adjustment 20%. Required: Project NPV.",
+      "choices": [
+        {
+          "id": "bar-m1-l5-q8-a0",
+          "text": "100000"
+        },
+        {
+          "id": "bar-m1-l5-q8-a1",
+          "text": "-27460"
+        },
+        {
+          "id": "bar-m1-l5-q8-a2",
+          "text": "227460"
+        },
+        {
+          "id": "bar-m1-l5-q8-a3",
+          "text": "27460"
+        }
+      ],
+      "correctChoiceId": "bar-m1-l5-q8-a3",
+      "explanation": "$227,460 − $200,000 = $27,460.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-I",
+        "groupId": "B",
+        "topicId": "bar-capital-budgeting",
+        "taskIds": [
+          "bar-capital-budgeting.task-2"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      },
+      "familyId": "bar-m1-tbs5"
+    },
+    {
+      "id": "bar-m1-l5-q9",
+      "courseId": "bar",
+      "moduleId": 1,
+      "lessonId": "bar-m1-l5",
+      "topic": "Capital Structure, Cost of Capital & Investment Decisions",
+      "prompt": "Evaluate a proposed project and its financing assumptions. Project cash flows: Initial investment $200,000. Annual net cash inflow $60,000 for five years. Supplied annuity present-value factor 3.791. No terminal flow or other investment applies. Financing: Market-value weights: 40% debt, 60% equity. Debt cost 5%; equity cost 10%; supplied tax rate for the debt adjustment 20%. Required: WACC as a percentage.",
+      "choices": [
+        {
+          "id": "bar-m1-l5-q9-a0",
+          "text": "7.6"
+        },
+        {
+          "id": "bar-m1-l5-q9-a1",
+          "text": "8"
+        },
+        {
+          "id": "bar-m1-l5-q9-a2",
+          "text": "6"
+        },
+        {
+          "id": "bar-m1-l5-q9-a3",
+          "text": "9"
+        }
+      ],
+      "correctChoiceId": "bar-m1-l5-q9-a0",
+      "explanation": "40% × 5% × 80% + 60% × 10% = 7.6%.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-I",
+        "groupId": "B",
+        "topicId": "bar-capital-budgeting",
+        "taskIds": [
+          "bar-capital-budgeting.task-3"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      },
+      "familyId": "bar-m1-tbs5"
+    },
+    {
+      "id": "bar-m1-l5-q10",
+      "courseId": "bar",
+      "moduleId": 1,
+      "lessonId": "bar-m1-l5",
+      "topic": "Capital Structure, Cost of Capital & Investment Decisions",
+      "prompt": "Evaluate a proposed project and its financing assumptions. Project cash flows: Initial investment $200,000. Annual net cash inflow $60,000 for five years. Supplied annuity present-value factor 3.791. No terminal flow or other investment applies. Financing: Market-value weights: 40% debt, 60% equity. Debt cost 5%; equity cost 10%; supplied tax rate for the debt adjustment 20%. Required: NPV interpretation under the assumptions.",
+      "choices": [
+        {
+          "id": "bar-m1-l5-q10-a0",
+          "text": "A guarantee that no project risk exists"
+        },
+        {
+          "id": "bar-m1-l5-q10-a1",
+          "text": "Positive value above the required return"
+        },
+        {
+          "id": "bar-m1-l5-q10-a2",
+          "text": "A negative-value investment"
+        },
+        {
+          "id": "bar-m1-l5-q10-a3",
+          "text": "Proof of the official CPA passing score"
+        }
+      ],
+      "correctChoiceId": "bar-m1-l5-q10-a1",
+      "explanation": "Positive NPV indicates value creation under the modeled assumptions, not certainty.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-I",
+        "groupId": "B",
+        "topicId": "bar-capital-budgeting",
+        "taskIds": [
+          "bar-capital-budgeting.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      },
+      "familyId": "bar-m1-tbs5"
+    },
+    {
+      "id": "bar-m1-l6-q1",
+      "courseId": "bar",
+      "moduleId": 1,
+      "lessonId": "bar-m1-l6",
+      "topic": "Performance Measures, Enterprise Risk & Valuation",
+      "prompt": "EBITDA is $3,000,000 and the supplied enterprise-value multiple is 5×. What is enterprise value?",
+      "choices": [
+        {
+          "id": "bar-m1-l6-q1-a0",
+          "text": "$3,000,000."
+        },
+        {
+          "id": "bar-m1-l6-q1-a1",
+          "text": "$15,000,000."
+        },
+        {
+          "id": "bar-m1-l6-q1-a2",
+          "text": "$600,000."
+        },
+        {
+          "id": "bar-m1-l6-q1-a3",
+          "text": "$8,000,000."
+        }
+      ],
+      "correctChoiceId": "bar-m1-l6-q1-a1",
+      "explanation": "Multiply the consistent EBITDA measure by the specified multiple.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-I",
+        "groupId": "A-B",
+        "topicId": "bar-performance-risk-valuation",
+        "taskIds": [
+          "bar-performance-risk-valuation.task-1"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bar-m1-l6-q2",
+      "courseId": "bar",
+      "moduleId": 1,
+      "lessonId": "bar-m1-l6",
+      "topic": "Performance Measures, Enterprise Risk & Valuation",
+      "prompt": "Enterprise value is $15 million, debt $6 million, and excess cash $2 million. Ignore other claims. What is equity value?",
+      "choices": [
+        {
+          "id": "bar-m1-l6-q2-a0",
+          "text": "$15 million."
+        },
+        {
+          "id": "bar-m1-l6-q2-a1",
+          "text": "$19 million."
+        },
+        {
+          "id": "bar-m1-l6-q2-a2",
+          "text": "$11 million."
+        },
+        {
+          "id": "bar-m1-l6-q2-a3",
+          "text": "$7 million."
+        }
+      ],
+      "correctChoiceId": "bar-m1-l6-q2-a2",
+      "explanation": "Equity value = enterprise value − debt + excess cash.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-I",
+        "groupId": "A-B",
+        "topicId": "bar-performance-risk-valuation",
+        "taskIds": [
+          "bar-performance-risk-valuation.task-2"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bar-m1-l6-q3",
+      "courseId": "bar",
+      "moduleId": 1,
+      "lessonId": "bar-m1-l6",
+      "topic": "Performance Measures, Enterprise Risk & Valuation",
+      "prompt": "A sales bonus ignores returns and customer retention. What concern arises?",
+      "choices": [
+        {
+          "id": "bar-m1-l6-q3-a0",
+          "text": "The metric guarantees sustainable profit."
+        },
+        {
+          "id": "bar-m1-l6-q3-a1",
+          "text": "No nonfinancial measure can help."
+        },
+        {
+          "id": "bar-m1-l6-q3-a2",
+          "text": "Only the bonus payment date matters."
+        },
+        {
+          "id": "bar-m1-l6-q3-a3",
+          "text": "The measure may encourage behavior inconsistent with long-term strategy."
+        }
+      ],
+      "correctChoiceId": "bar-m1-l6-q3-a3",
+      "explanation": "Narrow targets can create dysfunctional incentives.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-I",
+        "groupId": "A-B",
+        "topicId": "bar-performance-risk-valuation",
+        "taskIds": [
+          "bar-performance-risk-valuation.task-3"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bar-m1-l6-q4",
+      "courseId": "bar",
+      "moduleId": 1,
+      "lessonId": "bar-m1-l6",
+      "topic": "Performance Measures, Enterprise Risk & Valuation",
+      "prompt": "Which perspective is commonly included in a balanced scorecard?",
+      "choices": [
+        {
+          "id": "bar-m1-l6-q4-a0",
+          "text": "Customer performance."
+        },
+        {
+          "id": "bar-m1-l6-q4-a1",
+          "text": "Only the audit fee."
+        },
+        {
+          "id": "bar-m1-l6-q4-a2",
+          "text": "Only shareholder birthdays."
+        },
+        {
+          "id": "bar-m1-l6-q4-a3",
+          "text": "Only the tax return filing method."
+        }
+      ],
+      "correctChoiceId": "bar-m1-l6-q4-a0",
+      "explanation": "Balanced scorecards integrate financial and nonfinancial perspectives.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-I",
+        "groupId": "A-B",
+        "topicId": "bar-performance-risk-valuation",
+        "taskIds": [
+          "bar-performance-risk-valuation.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bar-m1-l6-q5",
+      "courseId": "bar",
+      "moduleId": 1,
+      "lessonId": "bar-m1-l6",
+      "topic": "Performance Measures, Enterprise Risk & Valuation",
+      "prompt": "How should a material supply-chain risk be considered in enterprise risk management?",
+      "choices": [
+        {
+          "id": "bar-m1-l6-q5-a0",
+          "text": "Ignore it because it is nonfinancial at first."
+        },
+        {
+          "id": "bar-m1-l6-q5-a1",
+          "text": "Connect it to objectives, strategy, potential effects, responses, and monitoring."
+        },
+        {
+          "id": "bar-m1-l6-q5-a2",
+          "text": "Treat the risk label as a complete response."
+        },
+        {
+          "id": "bar-m1-l6-q5-a3",
+          "text": "Assume every risk should be accepted without analysis."
+        }
+      ],
+      "correctChoiceId": "bar-m1-l6-q5-a1",
+      "explanation": "ERM links risks to strategy and performance rather than merely listing them.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-I",
+        "groupId": "A-B",
+        "topicId": "bar-performance-risk-valuation",
+        "taskIds": [
+          "bar-performance-risk-valuation.task-2"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bar-m1-l6-q6",
+      "courseId": "bar",
+      "moduleId": 1,
+      "lessonId": "bar-m1-l6",
+      "topic": "Performance Measures, Enterprise Risk & Valuation",
+      "prompt": "Why might an increase in interest rates affect a valuation?",
+      "choices": [
+        {
+          "id": "bar-m1-l6-q6-a0",
+          "text": "It changes only document formatting."
+        },
+        {
+          "id": "bar-m1-l6-q6-a1",
+          "text": "It guarantees equity value rises."
+        },
+        {
+          "id": "bar-m1-l6-q6-a2",
+          "text": "It can change financing costs, discount rates, and forecast cash flows."
+        },
+        {
+          "id": "bar-m1-l6-q6-a3",
+          "text": "It eliminates the need for forecasts."
+        }
+      ],
+      "correctChoiceId": "bar-m1-l6-q6-a2",
+      "explanation": "Economic conditions affect multiple valuation assumptions and cash-flow drivers.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-I",
+        "groupId": "A-B",
+        "topicId": "bar-performance-risk-valuation",
+        "taskIds": [
+          "bar-performance-risk-valuation.task-3"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bar-m1-l6-q7",
+      "courseId": "bar",
+      "moduleId": 1,
+      "lessonId": "bar-m1-l6",
+      "topic": "Performance Measures, Enterprise Risk & Valuation",
+      "prompt": "Prepare an enterprise-to-equity bridge and identify performance-management implications. Valuation inputs: EBITDA $4,000,000; supplied EV/EBITDA multiple 5×; debt $7,000,000; excess cash $2,000,000. Ignore other claims. Strategy observations: Management rewards shipment volume but ignores returns and service quality. A key supplier faces a material disruption risk. Required: Enterprise value.",
+      "choices": [
+        {
+          "id": "bar-m1-l6-q7-a0",
+          "text": "4000000"
+        },
+        {
+          "id": "bar-m1-l6-q7-a1",
+          "text": "13000000"
+        },
+        {
+          "id": "bar-m1-l6-q7-a2",
+          "text": "22000000"
+        },
+        {
+          "id": "bar-m1-l6-q7-a3",
+          "text": "20000000"
+        }
+      ],
+      "correctChoiceId": "bar-m1-l6-q7-a3",
+      "explanation": "$4,000,000 × 5 = $20,000,000.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-I",
+        "groupId": "A-B",
+        "topicId": "bar-performance-risk-valuation",
+        "taskIds": [
+          "bar-performance-risk-valuation.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      },
+      "familyId": "bar-m1-tbs6"
+    },
+    {
+      "id": "bar-m1-l6-q8",
+      "courseId": "bar",
+      "moduleId": 1,
+      "lessonId": "bar-m1-l6",
+      "topic": "Performance Measures, Enterprise Risk & Valuation",
+      "prompt": "Prepare an enterprise-to-equity bridge and identify performance-management implications. Valuation inputs: EBITDA $4,000,000; supplied EV/EBITDA multiple 5×; debt $7,000,000; excess cash $2,000,000. Ignore other claims. Strategy observations: Management rewards shipment volume but ignores returns and service quality. A key supplier faces a material disruption risk. Required: Equity value.",
+      "choices": [
+        {
+          "id": "bar-m1-l6-q8-a0",
+          "text": "15000000"
+        },
+        {
+          "id": "bar-m1-l6-q8-a1",
+          "text": "20000000"
+        },
+        {
+          "id": "bar-m1-l6-q8-a2",
+          "text": "25000000"
+        },
+        {
+          "id": "bar-m1-l6-q8-a3",
+          "text": "11000000"
+        }
+      ],
+      "correctChoiceId": "bar-m1-l6-q8-a0",
+      "explanation": "$20,000,000 − $7,000,000 + $2,000,000 = $15,000,000.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-I",
+        "groupId": "A-B",
+        "topicId": "bar-performance-risk-valuation",
+        "taskIds": [
+          "bar-performance-risk-valuation.task-2"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      },
+      "familyId": "bar-m1-tbs6"
+    },
+    {
+      "id": "bar-m1-l6-q9",
+      "courseId": "bar",
+      "moduleId": 1,
+      "lessonId": "bar-m1-l6",
+      "topic": "Performance Measures, Enterprise Risk & Valuation",
+      "prompt": "Prepare an enterprise-to-equity bridge and identify performance-management implications. Valuation inputs: EBITDA $4,000,000; supplied EV/EBITDA multiple 5×; debt $7,000,000; excess cash $2,000,000. Ignore other claims. Strategy observations: Management rewards shipment volume but ignores returns and service quality. A key supplier faces a material disruption risk. Required: Improve the shipment incentive.",
+      "choices": [
+        {
+          "id": "bar-m1-l6-q9-a0",
+          "text": "Ignore returns"
+        },
+        {
+          "id": "bar-m1-l6-q9-a1",
+          "text": "Include quality and customer-outcome measures aligned with strategy"
+        },
+        {
+          "id": "bar-m1-l6-q9-a2",
+          "text": "Reward volume regardless of consequences"
+        },
+        {
+          "id": "bar-m1-l6-q9-a3",
+          "text": "Remove all performance monitoring"
+        }
+      ],
+      "correctChoiceId": "bar-m1-l6-q9-a1",
+      "explanation": "Balanced measures reduce incentives to sacrifice long-term outcomes.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-I",
+        "groupId": "A-B",
+        "topicId": "bar-performance-risk-valuation",
+        "taskIds": [
+          "bar-performance-risk-valuation.task-3"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      },
+      "familyId": "bar-m1-tbs6"
+    },
+    {
+      "id": "bar-m1-l6-q10",
+      "courseId": "bar",
+      "moduleId": 1,
+      "lessonId": "bar-m1-l6",
+      "topic": "Performance Measures, Enterprise Risk & Valuation",
+      "prompt": "Prepare an enterprise-to-equity bridge and identify performance-management implications. Valuation inputs: EBITDA $4,000,000; supplied EV/EBITDA multiple 5×; debt $7,000,000; excess cash $2,000,000. Ignore other claims. Strategy observations: Management rewards shipment volume but ignores returns and service quality. A key supplier faces a material disruption risk. Required: Response to supplier risk.",
+      "choices": [
+        {
+          "id": "bar-m1-l6-q10-a0",
+          "text": "Ignore all nonfinancial risk"
+        },
+        {
+          "id": "bar-m1-l6-q10-a1",
+          "text": "Assume risk identification is the entire process"
+        },
+        {
+          "id": "bar-m1-l6-q10-a2",
+          "text": "Assess business effects, response options, and monitoring"
+        },
+        {
+          "id": "bar-m1-l6-q10-a3",
+          "text": "Increase the valuation multiple automatically"
+        }
+      ],
+      "correctChoiceId": "bar-m1-l6-q10-a2",
+      "explanation": "ERM connects the risk to strategy and practical responses.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "bar",
+        "blueprintYear": 2026,
+        "areaId": "bar-I",
+        "groupId": "A-B",
+        "topicId": "bar-performance-risk-valuation",
+        "taskIds": [
+          "bar-performance-risk-valuation.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "FASB accounting standards",
+            "url": "https://asc.fasb.org/"
+          },
+          {
+            "title": "GASB standards",
+            "url": "https://www.gasb.org/standards-and-implementation"
+          }
+        ]
+      },
+      "familyId": "bar-m1-tbs6"
+    }
+  ]
+}

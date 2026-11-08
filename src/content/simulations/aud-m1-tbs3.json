@@ -1,0 +1,158 @@
+{
+  "id": "aud-m1-tbs3",
+  "courseId": "aud",
+  "moduleId": 1,
+  "number": 3,
+  "title": "Engagement acceptance decisions",
+  "html": "<div class=\"course-intro-card\"><h2>Engagement acceptance decisions</h2><p>Classify the requested services and decide whether proposed acceptance terms are appropriate.</p></div><section class=\"quiz-card\"><h3>Required responses</h3><div class=\"tbs-question\"><label for=\"aud-m1-tbs3-f1\">Appropriate service for Client A</label><select id=\"aud-m1-tbs3-f1\"><option value=\"Audit\">Audit</option><option value=\"Compilation\">Compilation</option><option value=\"Preparation\">Preparation</option><option value=\"Agreed-upon procedures\">Agreed-upon procedures</option></select></div><div class=\"tbs-question\"><label for=\"aud-m1-tbs3-f2\">Appropriate service for Client B</label><select id=\"aud-m1-tbs3-f2\"><option value=\"Review\">Review</option><option value=\"Compilation\">Compilation</option><option value=\"Preparation\">Preparation</option><option value=\"Agreed-upon procedures\">Agreed-upon procedures</option></select></div><div class=\"tbs-question\"><label for=\"aud-m1-tbs3-f3\">Appropriate service for Client C</label><select id=\"aud-m1-tbs3-f3\"><option value=\"Agreed-upon procedures\">Agreed-upon procedures</option><option value=\"Audit\">Audit</option><option value=\"Review\">Review</option><option value=\"Compilation\">Compilation</option></select></div><div class=\"tbs-question\"><label for=\"aud-m1-tbs3-f4\">Best response to Client D’s restriction</label><select id=\"aud-m1-tbs3-f4\"><option value=\"Resolve the restriction before accepting\">Resolve the restriction before accepting</option><option value=\"Promise an unmodified opinion\">Promise an unmodified opinion</option><option value=\"Accept without documenting it\">Accept without documenting it</option><option value=\"Replace debt evidence with the fee agreement\">Replace debt evidence with the fee agreement</option></select></div></section>",
+  "metadata": {
+    "section": "aud",
+    "blueprintYear": 2026,
+    "areaId": "aud-I",
+    "groupId": "C-D",
+    "topicId": "aud-engagement-acceptance",
+    "taskIds": [
+      "aud-engagement-acceptance.task-1",
+      "aud-engagement-acceptance.task-2",
+      "aud-engagement-acceptance.task-3"
+    ],
+    "skill": "analysis",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      },
+      {
+        "title": "AICPA auditing standards",
+        "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+      },
+      {
+        "title": "PCAOB standards",
+        "url": "https://pcaobus.org/oversight/standards"
+      }
+    ]
+  },
+  "difficulty": "advanced",
+  "fields": [
+    {
+      "id": "aud-m1-tbs3-f1",
+      "label": "Appropriate service for Client A",
+      "type": "select",
+      "options": [
+        {
+          "value": "Audit",
+          "label": "Audit"
+        },
+        {
+          "value": "Compilation",
+          "label": "Compilation"
+        },
+        {
+          "value": "Preparation",
+          "label": "Preparation"
+        },
+        {
+          "value": "Agreed-upon procedures",
+          "label": "Agreed-upon procedures"
+        }
+      ],
+      "correct": "Audit",
+      "explanation": "An audit provides reasonable assurance and an opinion.",
+      "topicId": "aud-engagement-acceptance"
+    },
+    {
+      "id": "aud-m1-tbs3-f2",
+      "label": "Appropriate service for Client B",
+      "type": "select",
+      "options": [
+        {
+          "value": "Review",
+          "label": "Review"
+        },
+        {
+          "value": "Compilation",
+          "label": "Compilation"
+        },
+        {
+          "value": "Preparation",
+          "label": "Preparation"
+        },
+        {
+          "value": "Agreed-upon procedures",
+          "label": "Agreed-upon procedures"
+        }
+      ],
+      "correct": "Review",
+      "explanation": "A review provides limited assurance on historical statements.",
+      "topicId": "aud-engagement-acceptance"
+    },
+    {
+      "id": "aud-m1-tbs3-f3",
+      "label": "Appropriate service for Client C",
+      "type": "select",
+      "options": [
+        {
+          "value": "Agreed-upon procedures",
+          "label": "Agreed-upon procedures"
+        },
+        {
+          "value": "Audit",
+          "label": "Audit"
+        },
+        {
+          "value": "Review",
+          "label": "Review"
+        },
+        {
+          "value": "Compilation",
+          "label": "Compilation"
+        }
+      ],
+      "correct": "Agreed-upon procedures",
+      "explanation": "The practitioner reports the specified procedures and findings.",
+      "topicId": "aud-engagement-acceptance"
+    },
+    {
+      "id": "aud-m1-tbs3-f4",
+      "label": "Best response to Client D’s restriction",
+      "type": "select",
+      "options": [
+        {
+          "value": "Resolve the restriction before accepting",
+          "label": "Resolve the restriction before accepting"
+        },
+        {
+          "value": "Promise an unmodified opinion",
+          "label": "Promise an unmodified opinion"
+        },
+        {
+          "value": "Accept without documenting it",
+          "label": "Accept without documenting it"
+        },
+        {
+          "value": "Replace debt evidence with the fee agreement",
+          "label": "Replace debt evidence with the fee agreement"
+        }
+      ],
+      "correct": "Resolve the restriction before accepting",
+      "explanation": "A material pre-acceptance scope restriction undermines the engagement preconditions.",
+      "topicId": "aud-engagement-acceptance"
+    }
+  ],
+  "exhibits": [
+    {
+      "id": "aud-m1-tbs3-ex1",
+      "title": "Service requests",
+      "html": "<p>Client A wants an opinion with reasonable assurance on annual statements. Client B wants limited assurance on historical statements. Client C wants only findings from inventory-count procedures agreed by the parties. Client D will refuse all access to material debt agreements.</p>"
+    },
+    {
+      "id": "aud-m1-tbs3-ex2",
+      "title": "Acceptance criteria",
+      "html": "<p>Assume no law requires accepting Client D. Management must acknowledge its financial-reporting responsibility and provide information and access necessary for the engagement.</p>"
+    }
+  ],
+  "explanation": "<h3>Appropriate service for Client A</h3><p>An audit provides reasonable assurance and an opinion.</p><h3>Appropriate service for Client B</h3><p>A review provides limited assurance on historical statements.</p><h3>Appropriate service for Client C</h3><p>The practitioner reports the specified procedures and findings.</p><h3>Best response to Client D’s restriction</h3><p>A material pre-acceptance scope restriction undermines the engagement preconditions.</p>"
+}

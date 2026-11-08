@@ -1,0 +1,95 @@
+{
+  "id": "reg-m3-tbs1",
+  "courseId": "reg",
+  "moduleId": 3,
+  "number": 1,
+  "title": "Property basis workpaper",
+  "html": "<div class=\"course-intro-card\"><h2>Property basis workpaper</h2><p>Compute the relevant basis or gain for three independent assets.</p></div><section class=\"quiz-card\"><h3>Required responses</h3><div class=\"tbs-question\"><label for=\"reg-m3-tbs1-f1\">Initial machine basis</label><input id=\"reg-m3-tbs1-f1\" type=\"text\"></div><div class=\"tbs-question\"><label for=\"reg-m3-tbs1-f2\">Machine adjusted basis after improvement and depreciation</label><input id=\"reg-m3-tbs1-f2\" type=\"text\"></div><div class=\"tbs-question\"><label for=\"reg-m3-tbs1-f3\">Inherited land basis</label><input id=\"reg-m3-tbs1-f3\" type=\"text\"></div><div class=\"tbs-question\"><label for=\"reg-m3-tbs1-f4\">Converted equipment depreciation basis</label><input id=\"reg-m3-tbs1-f4\" type=\"text\"></div></section>",
+  "metadata": {
+    "section": "reg",
+    "blueprintYear": 2026,
+    "areaId": "reg-III",
+    "groupId": "A",
+    "topicId": "reg-tax-basis",
+    "taskIds": [
+      "reg-tax-basis.task-1",
+      "reg-tax-basis.task-2",
+      "reg-tax-basis.task-3"
+    ],
+    "skill": "analysis",
+    "validFrom": "2026-07-01",
+    "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      },
+      {
+        "title": "Internal Revenue Code",
+        "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+      },
+      {
+        "title": "IRS tax publications",
+        "url": "https://www.irs.gov/publications"
+      },
+      {
+        "title": "Circular 230",
+        "url": "https://www.irs.gov/tax-professionals/circular-230-tax-professionals"
+      }
+    ]
+  },
+  "difficulty": "advanced",
+  "fields": [
+    {
+      "id": "reg-m3-tbs1-f1",
+      "label": "Initial machine basis",
+      "type": "number",
+      "options": [],
+      "correct": 128000,
+      "explanation": "$120,000 + $8,000 installation = $128,000.",
+      "topicId": "reg-tax-basis"
+    },
+    {
+      "id": "reg-m3-tbs1-f2",
+      "label": "Machine adjusted basis after improvement and depreciation",
+      "type": "number",
+      "options": [],
+      "correct": 95000,
+      "explanation": "$128,000 + $12,000 − $45,000 = $95,000.",
+      "topicId": "reg-tax-basis"
+    },
+    {
+      "id": "reg-m3-tbs1-f3",
+      "label": "Inherited land basis",
+      "type": "number",
+      "options": [],
+      "correct": 70000,
+      "explanation": "Use the stated date-of-death value.",
+      "topicId": "reg-tax-basis"
+    },
+    {
+      "id": "reg-m3-tbs1-f4",
+      "label": "Converted equipment depreciation basis",
+      "type": "number",
+      "options": [],
+      "correct": 25000,
+      "explanation": "Use the lower of adjusted basis and conversion-date fair value.",
+      "topicId": "reg-tax-basis"
+    }
+  ],
+  "exhibits": [
+    {
+      "id": "reg-m3-tbs1-ex1",
+      "title": "Purchased machine",
+      "html": "<p>Cost $120,000; capitalizable installation $8,000; subsequent capital improvement $12,000; depreciation allowed or allowable $45,000.</p>"
+    },
+    {
+      "id": "reg-m3-tbs1-ex2",
+      "title": "Other assets",
+      "html": "<p>Inherited land has date-of-death value $70,000; no alternative valuation. Personal equipment converted to business use has adjusted basis $40,000 and fair value $25,000.</p>"
+    }
+  ],
+  "explanation": "<h3>Initial machine basis</h3><p>$120,000 + $8,000 installation = $128,000.</p><h3>Machine adjusted basis after improvement and depreciation</h3><p>$128,000 + $12,000 − $45,000 = $95,000.</p><h3>Inherited land basis</h3><p>Use the stated date-of-death value.</p><h3>Converted equipment depreciation basis</h3><p>Use the lower of adjusted basis and conversion-date fair value.</p>"
+}

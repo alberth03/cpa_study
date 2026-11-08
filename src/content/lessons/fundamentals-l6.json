@@ -1,0 +1,88 @@
+{
+  "id": "fundamentals-l6",
+  "courseId": "fundamentals",
+  "moduleId": 0,
+  "number": 6,
+  "title": "Journal Entries",
+  "description": "Record real business transactions step by step.",
+  "url": "/learn/fundamentals/lessons/6",
+  "html": "<h2>What is a journal entry?</h2> <p> A journal entry records the accounts affected by a transaction and the debit and credit amounts for those accounts. </p> <div class=\"formula-box\"> Total Debits = Total Credits </div> <h2>How to analyze a transaction</h2> <div class=\"key-points\"> <ol> <li>Identify which accounts are affected.</li> <li>Determine each account's type.</li> <li>Determine whether each account increases or decreases.</li> <li>Apply the debit and credit rules.</li> <li>Make sure total debits equal total credits.</li> </ol> </div> <h2>Example 1 — Owner invests cash</h2> <p> An owner invests <strong>$20,000 cash</strong> into a corporation in exchange for common stock. </p> <div class=\"journal-entry\"> <div class=\"journal-row journal-header\"> <div>Account</div> <div>Debit</div> <div>Credit</div> </div> <div class=\"journal-row\"> <div>Cash</div> <div>$20,000</div> <div>—</div> </div> <div class=\"journal-row credit-row\"> <div>Common Stock</div> <div>—</div> <div>$20,000</div> </div> </div> <p> Cash increases, so we debit Cash. Equity increases, so we credit Common Stock. </p> <h2>Example 2 — Purchase equipment for cash</h2> <p> The company buys equipment for <strong>$6,000 cash</strong>. </p> <div class=\"journal-entry\"> <div class=\"journal-row journal-header\"> <div>Account</div> <div>Debit</div> <div>Credit</div> </div> <div class=\"journal-row\"> <div>Equipment</div> <div>$6,000</div> <div>—</div> </div> <div class=\"journal-row credit-row\"> <div>Cash</div> <div>—</div> <div>$6,000</div> </div> </div> <p> Equipment increases and Cash decreases. Both accounts are assets. </p> <h2>Example 3 — Purchase supplies on account</h2> <p> The company purchases <strong>$1,500 of supplies</strong> but will pay the supplier later. </p> <div class=\"journal-entry\"> <div class=\"journal-row journal-header\"> <div>Account</div> <div>Debit</div> <div>Credit</div> </div> <div class=\"journal-row\"> <div>Supplies</div> <div>$1,500</div> <div>—</div> </div> <div class=\"journal-row credit-row\"> <div>Accounts Payable</div> <div>—</div> <div>$1,500</div> </div> </div> <p> Supplies increases as an asset. Accounts Payable increases as a liability. </p> <div class=\"key-points\"> <h3>CPA habit</h3> <p> Don't memorize entire journal entries. Analyze the accounts first. </p> <p> Ask: <strong> What accounts changed? Did they increase or decrease? </strong> </p> <p> Then apply the debit and credit rules. </p> </div>",
+  "quiz": {
+    "id": "fundamentals-l6-check",
+    "courseId": "fundamentals",
+    "moduleId": 0,
+    "lessonId": "fundamentals-l6",
+    "topic": "General review",
+    "prompt": "A company pays $3,000 cash to reduce Accounts Payable. Which journal entry is correct?",
+    "choices": [
+      {
+        "id": "fundamentals-l6-check-a0",
+        "text": "Debit Cash $3,000; Credit Accounts Payable $3,000"
+      },
+      {
+        "id": "fundamentals-l6-check-a1",
+        "text": "Debit Accounts Payable $3,000; Credit Cash $3,000"
+      },
+      {
+        "id": "fundamentals-l6-check-a2",
+        "text": "Debit Expense $3,000; Credit Cash $3,000"
+      },
+      {
+        "id": "fundamentals-l6-check-a3",
+        "text": "Debit Accounts Payable $3,000; Credit Revenue $3,000"
+      }
+    ],
+    "correctChoiceId": "fundamentals-l6-check-a1",
+    "explanation": "Accounts Payable is a liability, so decreasing it requires a debit. Cash is an asset, so decreasing it requires a credit.",
+    "difficulty": "foundation",
+    "metadata": {
+      "section": "fundamentals",
+      "blueprintYear": 2026,
+      "areaId": "fundamentals-I",
+      "groupId": "module-0",
+      "topicId": "fundamentals-journal-entries",
+      "taskIds": [
+        "fundamentals-journal-entries.task-1",
+        "fundamentals-journal-entries.task-2",
+        "fundamentals-journal-entries.task-3"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "section": "fundamentals",
+    "blueprintYear": 2026,
+    "areaId": "fundamentals-I",
+    "groupId": "module-0",
+    "topicId": "fundamentals-journal-entries",
+    "taskIds": [
+      "fundamentals-journal-entries.task-1",
+      "fundamentals-journal-entries.task-2",
+      "fundamentals-journal-entries.task-3"
+    ],
+    "skill": "application",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      }
+    ]
+  },
+  "objectives": [
+    "Explain journal entries and its underlying principles.",
+    "Apply the topic to a financial-reporting scenario.",
+    "Evaluate common errors and their financial-statement effects."
+  ]
+}

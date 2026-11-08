@@ -1,0 +1,88 @@
+{
+  "id": "far-m2-l5",
+  "courseId": "far",
+  "moduleId": 2,
+  "number": 5,
+  "title": "Intangible Assets",
+  "description": "Apply recognition, amortization and impairment rules for finite-lived and indefinite-lived intangible assets and goodwill.",
+  "url": "/learn/far/modules/2/lessons/5",
+  "html": "<h2> Intangible Assets </h2> <p> Intangible assets are identifiable nonphysical assets that provide future economic benefits. For FAR, you should understand recognition, finite versus indefinite useful lives, amortization, impairment, research and development costs, and goodwill. </p> <h3> 1. Common Intangible Assets </h3> <div class=\"key-points\"> <ul> <li> Patents </li> <li> Copyrights </li> <li> Trademarks and trade names </li> <li> Franchise rights </li> <li> Licenses </li> <li> Customer-related intangible assets </li> </ul> </div> <h3> 2. Purchased Intangible Assets </h3> <p> A separately acquired intangible asset is generally recorded at cost. </p> <p> Cost can include the purchase price and other directly attributable expenditures necessary to prepare the asset for its intended use. </p> <h3> 3. Finite-Lived Intangible Assets </h3> <p> An intangible asset with a finite useful life is generally amortized over its useful life. </p> <div class=\"formula-box\"> Straight-Line Amortization = Amortizable Amount ÷ Useful Life </div> <p> The amortization period should reflect the period over which the asset is expected to provide economic benefits, subject to applicable legal, regulatory, contractual, or other limits. </p> <div class=\"example-box\"> <h3> Example </h3> <p> A company purchases a patent for <strong>$120,000</strong>. </p> <p> The patent has an estimated useful life of <strong>8 years</strong>, with no residual value. </p> <div class=\"formula-box\"> $120,000 ÷ 8 = <strong>$15,000 annual amortization</strong> </div> </div> <h3> 4. Indefinite-Lived Intangible Assets </h3> <p> An intangible asset is considered indefinite-lived when there is no foreseeable limit on the period over which it is expected to contribute to cash flows. </p> <div class=\"key-points\"> <p> Indefinite-lived intangible assets are generally <strong>not amortized</strong>. </p> <p> Instead, they are tested for impairment in accordance with applicable U.S. GAAP requirements. </p> </div> <h3> 5. Subsequent Expenditures </h3> <p> Subsequent expenditures related to an intangible asset are capitalized only when the applicable recognition requirements are met. </p> <p> Many internally incurred expenditures do not qualify for recognition as separate intangible assets and are therefore expensed as incurred. </p> <h3> 6. Finite-Lived Intangible Asset Impairment </h3> <p> Finite-lived intangible assets are generally evaluated for impairment under the long-lived asset impairment model when events or changes in circumstances indicate that their carrying amounts may not be recoverable. </p> <div class=\"key-points\"> <p> The recoverability test generally compares the carrying amount of the asset or asset group with expected undiscounted future cash flows. </p> <p> If the carrying amount is not recoverable, the impairment loss is generally measured as the excess of carrying amount over fair value. </p> </div> <h3> 7. Indefinite-Lived Intangible Assets </h3> <p> Indefinite-lived intangible assets are generally not amortized because there is no foreseeable limit on the period over which they are expected to contribute to future cash flows. </p> <p> Instead, they are subject to applicable impairment requirements. </p> <h3> 8. CPA Exam Focus </h3> <div class=\"key-points\"> <ul> <li> Identify common intangible assets. </li> <li> Understand the initial cost of separately acquired intangible assets. </li> <li> Distinguish finite-lived from indefinite-lived intangible assets. </li> <li> Calculate amortization of finite-lived intangible assets. </li> <li> Remember that useful life may be limited by legal, contractual, regulatory, or economic factors. </li> <li> Understand the basic impairment treatment for finite-lived intangible assets. </li> </ul> </div> <h3> 11. CPA Exam Focus </h3> <div class=\"key-points\"> <ul> <li> Distinguish finite-lived from indefinite-lived intangible assets. </li> <li> Finite-lived intangibles are generally amortized. </li> <li> Indefinite-lived intangibles are generally not amortized. </li> <li> R&amp;D costs are generally expensed under U.S. GAAP. </li> <li> Know important exceptions and special guidance involving R&amp;D and software. </li> <li> Calculate goodwill from an acquisition. </li> <li> Remember that internally generated goodwill is not recognized. </li> </ul> </div>",
+  "quiz": {
+    "id": "far-m2-l5-check",
+    "courseId": "far",
+    "moduleId": 2,
+    "lessonId": "far-m2-l5",
+    "topic": "General review",
+    "prompt": "A company purchases a patent for $180,000. The patent has a remaining legal life of 15 years, but the company expects it to provide economic benefits for only 10 years. Assuming no residual value, what annual straight-line amortization should generally be recognized?",
+    "choices": [
+      {
+        "id": "far-m2-l5-check-a0",
+        "text": "$12,000"
+      },
+      {
+        "id": "far-m2-l5-check-a1",
+        "text": "$15,000"
+      },
+      {
+        "id": "far-m2-l5-check-a2",
+        "text": "$18,000"
+      },
+      {
+        "id": "far-m2-l5-check-a3",
+        "text": "$30,000"
+      }
+    ],
+    "correctChoiceId": "far-m2-l5-check-a2",
+    "explanation": "A finite-lived intangible asset is amortized over its useful life, considering applicable legal or contractual limits. Because the patent is expected to provide economic benefits for 10 years, which is shorter than its 15-year remaining legal life, annual amortization is $180,000 divided by 10 years, or $18,000.",
+    "difficulty": "foundation",
+    "metadata": {
+      "section": "far",
+      "blueprintYear": 2026,
+      "areaId": "far-II",
+      "groupId": "module-2",
+      "topicId": "far-intangible-assets",
+      "taskIds": [
+        "far-intangible-assets.task-1",
+        "far-intangible-assets.task-2",
+        "far-intangible-assets.task-3"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "section": "far",
+    "blueprintYear": 2026,
+    "areaId": "far-II",
+    "groupId": "module-2",
+    "topicId": "far-intangible-assets",
+    "taskIds": [
+      "far-intangible-assets.task-1",
+      "far-intangible-assets.task-2",
+      "far-intangible-assets.task-3"
+    ],
+    "skill": "application",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      }
+    ]
+  },
+  "objectives": [
+    "Explain intangible assets and its underlying principles.",
+    "Apply the topic to a financial-reporting scenario.",
+    "Evaluate common errors and their financial-statement effects."
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "id": "intermediate-m9-l1",
+  "courseId": "intermediate",
+  "moduleId": 9,
+  "number": 1,
+  "title": "Book Income vs Taxable Income",
+  "description": "Understand why financial accounting income and taxable income can differ.",
+  "url": "/learn/intermediate/modules/9/lessons/1",
+  "html": "<h2>Two different systems</h2> <p> A company's income reported in its financial statements is not necessarily the same as its taxable income. </p> <div class=\"comparison-grid\"> <div class=\"comparison-card\"> <h3>Book Income</h3> <p> Determined using financial accounting principles for financial reporting. </p> </div> <div class=\"comparison-card\"> <h3>Taxable Income</h3> <p> Determined using applicable income tax laws and regulations. </p> </div> </div> <h2>Why can they differ?</h2> <p> Financial accounting rules and tax rules may recognize certain revenues or expenses differently. </p> <p> Sometimes the difference is only about <strong>timing</strong>. </p> <p> Other differences may never reverse. </p> <div class=\"example-box\"> <h3>Simple timing example</h3> <p> Assume financial reporting recognizes an expense of $10,000 this year. </p> <p> Tax law does not allow the deduction until a future year. </p> <p> Book income and taxable income can therefore differ this year even though the tax deduction may occur later. </p> </div> <h2>Current income taxes</h2> <p> Taxable income is used in determining the company's current income tax obligation under the applicable tax law. </p> <div class=\"key-points\"> <h3>Foundation</h3> <p> Book Income ≠ Automatically Taxable Income </p> <p> The important question is: <strong>Why are they different?</strong> </p> </div>",
+  "quiz": {
+    "id": "intermediate-m9-l1-check",
+    "courseId": "intermediate",
+    "moduleId": 9,
+    "lessonId": "intermediate-m9-l1",
+    "topic": "General review",
+    "prompt": "Why can financial statement income differ from taxable income?",
+    "choices": [
+      {
+        "id": "intermediate-m9-l1-check-a0",
+        "text": "Because financial reporting and tax rules may recognize items differently"
+      },
+      {
+        "id": "intermediate-m9-l1-check-a1",
+        "text": "Because companies are never required to pay taxes"
+      },
+      {
+        "id": "intermediate-m9-l1-check-a2",
+        "text": "Because taxable income always equals cash flow"
+      },
+      {
+        "id": "intermediate-m9-l1-check-a3",
+        "text": "Because book income excludes all expenses"
+      }
+    ],
+    "correctChoiceId": "intermediate-m9-l1-check-a0",
+    "explanation": "Financial reporting rules and tax rules can differ in the timing or treatment of revenues and expenses.",
+    "difficulty": "foundation",
+    "metadata": {
+      "section": "intermediate",
+      "blueprintYear": 2026,
+      "areaId": "intermediate-I",
+      "groupId": "module-9",
+      "topicId": "intermediate-book-income-vs-taxable-income",
+      "taskIds": [
+        "intermediate-book-income-vs-taxable-income.task-1",
+        "intermediate-book-income-vs-taxable-income.task-2",
+        "intermediate-book-income-vs-taxable-income.task-3"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "section": "intermediate",
+    "blueprintYear": 2026,
+    "areaId": "intermediate-I",
+    "groupId": "module-9",
+    "topicId": "intermediate-book-income-vs-taxable-income",
+    "taskIds": [
+      "intermediate-book-income-vs-taxable-income.task-1",
+      "intermediate-book-income-vs-taxable-income.task-2",
+      "intermediate-book-income-vs-taxable-income.task-3"
+    ],
+    "skill": "application",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      }
+    ]
+  },
+  "objectives": [
+    "Explain book income vs taxable income and its underlying principles.",
+    "Apply the topic to a financial-reporting scenario.",
+    "Evaluate common errors and their financial-statement effects."
+  ]
+}

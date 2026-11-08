@@ -1,0 +1,491 @@
+{
+  "id": "intermediate-m10-quiz",
+  "title": "Intermediate Module 10 Quiz",
+  "courseId": "intermediate",
+  "moduleId": 10,
+  "selection": "all",
+  "feedback": "immediate",
+  "passPercent": 80,
+  "questions": [
+    {
+      "id": "intermediate-m10-q1",
+      "courseId": "intermediate",
+      "moduleId": 10,
+      "topic": "Statement of Cash Flows",
+      "prompt": "Operating cash flow is $120,000, investing cash flow is negative $50,000, and financing cash flow is negative $20,000. What is the net change in cash?",
+      "choices": [
+        {
+          "id": "intermediate-m10-q1-a0",
+          "text": "$50,000 increase"
+        },
+        {
+          "id": "intermediate-m10-q1-a1",
+          "text": "$70,000 increase"
+        },
+        {
+          "id": "intermediate-m10-q1-a2",
+          "text": "$90,000 increase"
+        },
+        {
+          "id": "intermediate-m10-q1-a3",
+          "text": "$190,000 increase"
+        }
+      ],
+      "correctChoiceId": "intermediate-m10-q1-a0",
+      "explanation": "$120,000 − $50,000 − $20,000 = $50,000 net increase in cash.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "intermediate",
+        "blueprintYear": 2026,
+        "areaId": "intermediate-I",
+        "groupId": "10",
+        "topicId": "intermediate-intermediate-general",
+        "taskIds": [
+          "intermediate-intermediate-general.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "intermediate-m10-q2",
+      "courseId": "intermediate",
+      "moduleId": 10,
+      "topic": "Statement of Cash Flows",
+      "prompt": "Beginning cash is $35,000 and the company reports a $45,000 net increase in cash during the year. What is ending cash?",
+      "choices": [
+        {
+          "id": "intermediate-m10-q2-a0",
+          "text": "$10,000"
+        },
+        {
+          "id": "intermediate-m10-q2-a1",
+          "text": "$35,000"
+        },
+        {
+          "id": "intermediate-m10-q2-a2",
+          "text": "$45,000"
+        },
+        {
+          "id": "intermediate-m10-q2-a3",
+          "text": "$80,000"
+        }
+      ],
+      "correctChoiceId": "intermediate-m10-q2-a3",
+      "explanation": "Ending cash = $35,000 beginning cash + $45,000 net increase = $80,000.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "intermediate",
+        "blueprintYear": 2026,
+        "areaId": "intermediate-I",
+        "groupId": "10",
+        "topicId": "intermediate-intermediate-general",
+        "taskIds": [
+          "intermediate-intermediate-general.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "intermediate-m10-q3",
+      "courseId": "intermediate",
+      "moduleId": 10,
+      "topic": "Cash Flow Classification",
+      "prompt": "A company purchases equipment for $90,000 cash. How is the transaction generally classified?",
+      "choices": [
+        {
+          "id": "intermediate-m10-q3-a0",
+          "text": "Operating outflow"
+        },
+        {
+          "id": "intermediate-m10-q3-a1",
+          "text": "Investing outflow"
+        },
+        {
+          "id": "intermediate-m10-q3-a2",
+          "text": "Financing outflow"
+        },
+        {
+          "id": "intermediate-m10-q3-a3",
+          "text": "Investing inflow"
+        }
+      ],
+      "correctChoiceId": "intermediate-m10-q3-a1",
+      "explanation": "Cash paid to acquire property, plant and equipment is generally classified as an investing cash outflow.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "intermediate",
+        "blueprintYear": 2026,
+        "areaId": "intermediate-I",
+        "groupId": "10",
+        "topicId": "intermediate-intermediate-general",
+        "taskIds": [
+          "intermediate-intermediate-general.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "intermediate-m10-q4",
+      "courseId": "intermediate",
+      "moduleId": 10,
+      "topic": "Cash Flow Classification",
+      "prompt": "A corporation issues common stock to investors for $250,000 cash. How is the cash receipt generally classified?",
+      "choices": [
+        {
+          "id": "intermediate-m10-q4-a0",
+          "text": "Operating inflow"
+        },
+        {
+          "id": "intermediate-m10-q4-a1",
+          "text": "Investing inflow"
+        },
+        {
+          "id": "intermediate-m10-q4-a2",
+          "text": "Financing inflow"
+        },
+        {
+          "id": "intermediate-m10-q4-a3",
+          "text": "Financing outflow"
+        }
+      ],
+      "correctChoiceId": "intermediate-m10-q4-a2",
+      "explanation": "Cash received from issuing the corporation's own stock is generally a financing cash inflow.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "intermediate",
+        "blueprintYear": 2026,
+        "areaId": "intermediate-I",
+        "groupId": "10",
+        "topicId": "intermediate-intermediate-general",
+        "taskIds": [
+          "intermediate-intermediate-general.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "intermediate-m10-q5",
+      "courseId": "intermediate",
+      "moduleId": 10,
+      "topic": "Indirect Method",
+      "prompt": "Net income is $200,000. Depreciation expense is $30,000, Accounts Receivable increases by $25,000, and Accounts Payable increases by $15,000. Ignoring other items, what is net cash provided by operating activities under the indirect method?",
+      "choices": [
+        {
+          "id": "intermediate-m10-q5-a0",
+          "text": "$190,000"
+        },
+        {
+          "id": "intermediate-m10-q5-a1",
+          "text": "$200,000"
+        },
+        {
+          "id": "intermediate-m10-q5-a2",
+          "text": "$220,000"
+        },
+        {
+          "id": "intermediate-m10-q5-a3",
+          "text": "$270,000"
+        }
+      ],
+      "correctChoiceId": "intermediate-m10-q5-a2",
+      "explanation": "$200,000 + $30,000 − $25,000 + $15,000 = $220,000.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "intermediate",
+        "blueprintYear": 2026,
+        "areaId": "intermediate-I",
+        "groupId": "10",
+        "topicId": "intermediate-intermediate-general",
+        "taskIds": [
+          "intermediate-intermediate-general.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "intermediate-m10-q6",
+      "courseId": "intermediate",
+      "moduleId": 10,
+      "topic": "Indirect Method",
+      "prompt": "Net income is $150,000. Depreciation expense is $20,000, Inventory decreases by $12,000, and Accounts Payable decreases by $7,000. Ignoring other items, what is net cash provided by operating activities under the indirect method?",
+      "choices": [
+        {
+          "id": "intermediate-m10-q6-a0",
+          "text": "$131,000"
+        },
+        {
+          "id": "intermediate-m10-q6-a1",
+          "text": "$155,000"
+        },
+        {
+          "id": "intermediate-m10-q6-a2",
+          "text": "$175,000"
+        },
+        {
+          "id": "intermediate-m10-q6-a3",
+          "text": "$189,000"
+        }
+      ],
+      "correctChoiceId": "intermediate-m10-q6-a2",
+      "explanation": "$150,000 + $20,000 + $12,000 − $7,000 = $175,000.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "intermediate",
+        "blueprintYear": 2026,
+        "areaId": "intermediate-I",
+        "groupId": "10",
+        "topicId": "intermediate-intermediate-general",
+        "taskIds": [
+          "intermediate-intermediate-general.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "intermediate-m10-q7",
+      "courseId": "intermediate",
+      "moduleId": 10,
+      "topic": "Noncash Activities",
+      "prompt": "A company acquires $300,000 of equipment by issuing a $300,000 long-term note directly to the seller. What is the immediate cash effect of the acquisition?",
+      "choices": [
+        {
+          "id": "intermediate-m10-q7-a0",
+          "text": "$300,000 cash inflow"
+        },
+        {
+          "id": "intermediate-m10-q7-a1",
+          "text": "$300,000 cash outflow"
+        },
+        {
+          "id": "intermediate-m10-q7-a2",
+          "text": "$600,000 total cash movement"
+        },
+        {
+          "id": "intermediate-m10-q7-a3",
+          "text": "$0"
+        }
+      ],
+      "correctChoiceId": "intermediate-m10-q7-a3",
+      "explanation": "No cash is exchanged when the equipment is acquired directly by issuing the note. It is a significant noncash investing and financing activity.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "intermediate",
+        "blueprintYear": 2026,
+        "areaId": "intermediate-I",
+        "groupId": "10",
+        "topicId": "intermediate-intermediate-general",
+        "taskIds": [
+          "intermediate-intermediate-general.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "intermediate-m10-q8",
+      "courseId": "intermediate",
+      "moduleId": 10,
+      "topic": "Comprehensive Income",
+      "prompt": "A company reports net income of $600,000 and positive other comprehensive income of $40,000. What is comprehensive income?",
+      "choices": [
+        {
+          "id": "intermediate-m10-q8-a0",
+          "text": "$560,000"
+        },
+        {
+          "id": "intermediate-m10-q8-a1",
+          "text": "$600,000"
+        },
+        {
+          "id": "intermediate-m10-q8-a2",
+          "text": "$640,000"
+        },
+        {
+          "id": "intermediate-m10-q8-a3",
+          "text": "$24,000,000"
+        }
+      ],
+      "correctChoiceId": "intermediate-m10-q8-a2",
+      "explanation": "Comprehensive income = $600,000 net income + $40,000 OCI = $640,000.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "intermediate",
+        "blueprintYear": 2026,
+        "areaId": "intermediate-I",
+        "groupId": "10",
+        "topicId": "intermediate-intermediate-general",
+        "taskIds": [
+          "intermediate-intermediate-general.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "intermediate-m10-q9",
+      "courseId": "intermediate",
+      "moduleId": 10,
+      "topic": "OCI & AOCI",
+      "prompt": "Which statement correctly distinguishes OCI from AOCI?",
+      "choices": [
+        {
+          "id": "intermediate-m10-q9-a0",
+          "text": "OCI is a current-period measure, while AOCI is the cumulative related balance reported in equity"
+        },
+        {
+          "id": "intermediate-m10-q9-a1",
+          "text": "OCI and AOCI always mean exactly the same balance"
+        },
+        {
+          "id": "intermediate-m10-q9-a2",
+          "text": "AOCI is reported as operating cash flow"
+        },
+        {
+          "id": "intermediate-m10-q9-a3",
+          "text": "OCI represents cash collected from shareholders"
+        }
+      ],
+      "correctChoiceId": "intermediate-m10-q9-a0",
+      "explanation": "OCI includes qualifying current-period items outside net income, while AOCI represents the cumulative related balance within stockholders' equity.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "intermediate",
+        "blueprintYear": 2026,
+        "areaId": "intermediate-I",
+        "groupId": "10",
+        "topicId": "intermediate-intermediate-general",
+        "taskIds": [
+          "intermediate-intermediate-general.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "intermediate-m10-q10",
+      "courseId": "intermediate",
+      "moduleId": 10,
+      "topic": "Cash Flow Classification",
+      "prompt": "Which combination is generally classified correctly under U.S. GAAP?",
+      "choices": [
+        {
+          "id": "intermediate-m10-q10-a0",
+          "text": "Cash from customers → Investing; equipment purchase → Operating; stock issuance → Financing"
+        },
+        {
+          "id": "intermediate-m10-q10-a1",
+          "text": "Cash from customers → Operating; equipment purchase → Investing; stock issuance → Financing"
+        },
+        {
+          "id": "intermediate-m10-q10-a2",
+          "text": "Cash from customers → Financing; equipment purchase → Investing; stock issuance → Operating"
+        },
+        {
+          "id": "intermediate-m10-q10-a3",
+          "text": "Cash from customers → Operating; equipment purchase → Financing; stock issuance → Investing"
+        }
+      ],
+      "correctChoiceId": "intermediate-m10-q10-a1",
+      "explanation": "Cash collections from customers are generally operating, purchases of equipment are investing, and cash received from issuing the company's own stock is financing.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "intermediate",
+        "blueprintYear": 2026,
+        "areaId": "intermediate-I",
+        "groupId": "10",
+        "topicId": "intermediate-intermediate-general",
+        "taskIds": [
+          "intermediate-intermediate-general.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    }
+  ]
+}

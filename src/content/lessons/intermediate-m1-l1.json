@@ -1,0 +1,88 @@
+{
+  "id": "intermediate-m1-l1",
+  "courseId": "intermediate",
+  "moduleId": 1,
+  "number": 1,
+  "title": "Financial Reporting Environment",
+  "description": "Understand the purpose of financial reporting and who uses financial statements.",
+  "url": "/learn/intermediate/modules/1/lessons/1",
+  "html": "<h2>What is financial reporting?</h2> <p> Financial reporting communicates financial information about a business to people who need that information to make decisions. </p> <h2>Who uses financial statements?</h2> <div class=\"key-points\"> <ul> <li> Investors </li> <li> Lenders </li> <li> Creditors </li> <li> Management </li> <li> Regulators </li> </ul> </div> <h2>General-purpose financial reporting</h2> <p> General-purpose financial statements are designed primarily to provide useful financial information to external users. </p> <div class=\"example-box\"> <h3>Example</h3> <p> An investor considering buying stock in a company may review its financial statements to evaluate profitability, debt levels, cash flows and financial position. </p> </div> <div class=\"key-points\"> <h3>Main idea</h3> <p> Financial reporting exists to provide useful information for economic decision-making. </p> </div>",
+  "quiz": {
+    "id": "intermediate-m1-l1-check",
+    "courseId": "intermediate",
+    "moduleId": 1,
+    "lessonId": "intermediate-m1-l1",
+    "topic": "General review",
+    "prompt": "Which user is considered an external user of financial statements?",
+    "choices": [
+      {
+        "id": "intermediate-m1-l1-check-a0",
+        "text": "Production manager"
+      },
+      {
+        "id": "intermediate-m1-l1-check-a1",
+        "text": "Sales manager"
+      },
+      {
+        "id": "intermediate-m1-l1-check-a2",
+        "text": "Investor"
+      },
+      {
+        "id": "intermediate-m1-l1-check-a3",
+        "text": "Payroll employee"
+      }
+    ],
+    "correctChoiceId": "intermediate-m1-l1-check-a2",
+    "explanation": "Investors are external users because they are outside the company and use financial information to make investment decisions.",
+    "difficulty": "foundation",
+    "metadata": {
+      "section": "intermediate",
+      "blueprintYear": 2026,
+      "areaId": "intermediate-I",
+      "groupId": "module-1",
+      "topicId": "intermediate-financial-reporting-environment",
+      "taskIds": [
+        "intermediate-financial-reporting-environment.task-1",
+        "intermediate-financial-reporting-environment.task-2",
+        "intermediate-financial-reporting-environment.task-3"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "section": "intermediate",
+    "blueprintYear": 2026,
+    "areaId": "intermediate-I",
+    "groupId": "module-1",
+    "topicId": "intermediate-financial-reporting-environment",
+    "taskIds": [
+      "intermediate-financial-reporting-environment.task-1",
+      "intermediate-financial-reporting-environment.task-2",
+      "intermediate-financial-reporting-environment.task-3"
+    ],
+    "skill": "application",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      }
+    ]
+  },
+  "objectives": [
+    "Explain financial reporting environment and its underlying principles.",
+    "Apply the topic to a financial-reporting scenario.",
+    "Evaluate common errors and their financial-statement effects."
+  ]
+}

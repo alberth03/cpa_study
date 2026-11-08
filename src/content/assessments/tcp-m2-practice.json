@@ -1,0 +1,2347 @@
+{
+  "id": "tcp-m2-practice",
+  "title": "Advanced Entity Tax Compliance Practice",
+  "courseId": "tcp",
+  "moduleId": 2,
+  "selection": "per-lesson",
+  "feedback": "immediate",
+  "passPercent": 80,
+  "questions": [
+    {
+      "id": "tcp-m2-l1-q1",
+      "courseId": "tcp",
+      "moduleId": 2,
+      "lessonId": "tcp-m2-l1",
+      "topic": "Corporate Losses, Limitations & Book–Tax Reconciliation",
+      "prompt": "A qualifying NOL is $150,000 and the supplied 80% limit applies to $100,000 taxable income before NOL. No other limits apply. What deduction is allowed?",
+      "choices": [
+        {
+          "id": "tcp-m2-l1-q1-a0",
+          "text": "$100,000."
+        },
+        {
+          "id": "tcp-m2-l1-q1-a1",
+          "text": "$80,000."
+        },
+        {
+          "id": "tcp-m2-l1-q1-a2",
+          "text": "$150,000."
+        },
+        {
+          "id": "tcp-m2-l1-q1-a3",
+          "text": "$20,000."
+        }
+      ],
+      "correctChoiceId": "tcp-m2-l1-q1-a1",
+      "explanation": "80% × $100,000 = $80,000, below the available NOL.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "tcp",
+        "blueprintYear": 2026,
+        "areaId": "tcp-II",
+        "groupId": "A",
+        "topicId": "tcp-corporate-loss-compliance",
+        "taskIds": [
+          "tcp-corporate-loss-compliance.task-1"
+        ],
+        "skill": "application",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          }
+        ]
+      }
+    },
+    {
+      "id": "tcp-m2-l1-q2",
+      "courseId": "tcp",
+      "moduleId": 2,
+      "lessonId": "tcp-m2-l1",
+      "topic": "Corporate Losses, Limitations & Book–Tax Reconciliation",
+      "prompt": "The same case also has a supplied ownership-change limit of $25,000. What is the allowed NOL deduction?",
+      "choices": [
+        {
+          "id": "tcp-m2-l1-q2-a0",
+          "text": "$80,000."
+        },
+        {
+          "id": "tcp-m2-l1-q2-a1",
+          "text": "$105,000."
+        },
+        {
+          "id": "tcp-m2-l1-q2-a2",
+          "text": "$25,000."
+        },
+        {
+          "id": "tcp-m2-l1-q2-a3",
+          "text": "$150,000."
+        }
+      ],
+      "correctChoiceId": "tcp-m2-l1-q2-a2",
+      "explanation": "The additional lower limitation controls the stated current use.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "tcp",
+        "blueprintYear": 2026,
+        "areaId": "tcp-II",
+        "groupId": "A",
+        "topicId": "tcp-corporate-loss-compliance",
+        "taskIds": [
+          "tcp-corporate-loss-compliance.task-2"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          }
+        ]
+      }
+    },
+    {
+      "id": "tcp-m2-l1-q3",
+      "courseId": "tcp",
+      "moduleId": 2,
+      "lessonId": "tcp-m2-l1",
+      "topic": "Corporate Losses, Limitations & Book–Tax Reconciliation",
+      "prompt": "A corporation has capital losses but no capital gains. What is the general current-year treatment against ordinary income?",
+      "choices": [
+        {
+          "id": "tcp-m2-l1-q3-a0",
+          "text": "They automatically offset all wages and business income."
+        },
+        {
+          "id": "tcp-m2-l1-q3-a1",
+          "text": "They are always refundable credits."
+        },
+        {
+          "id": "tcp-m2-l1-q3-a2",
+          "text": "They disappear without considering carry rules."
+        },
+        {
+          "id": "tcp-m2-l1-q3-a3",
+          "text": "The capital losses generally do not offset ordinary income."
+        }
+      ],
+      "correctChoiceId": "tcp-m2-l1-q3-a3",
+      "explanation": "Corporate capital-loss treatment differs from the individual ordinary-income offset rule.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "tcp",
+        "blueprintYear": 2026,
+        "areaId": "tcp-II",
+        "groupId": "A",
+        "topicId": "tcp-corporate-loss-compliance",
+        "taskIds": [
+          "tcp-corporate-loss-compliance.task-3"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          }
+        ]
+      }
+    },
+    {
+      "id": "tcp-m2-l1-q4",
+      "courseId": "tcp",
+      "moduleId": 2,
+      "lessonId": "tcp-m2-l1",
+      "topic": "Corporate Losses, Limitations & Book–Tax Reconciliation",
+      "prompt": "An NOL carryforward is $90,000 and $35,000 is used. What balance remains, ignoring other changes?",
+      "choices": [
+        {
+          "id": "tcp-m2-l1-q4-a0",
+          "text": "$55,000."
+        },
+        {
+          "id": "tcp-m2-l1-q4-a1",
+          "text": "$90,000."
+        },
+        {
+          "id": "tcp-m2-l1-q4-a2",
+          "text": "$125,000."
+        },
+        {
+          "id": "tcp-m2-l1-q4-a3",
+          "text": "$35,000."
+        }
+      ],
+      "correctChoiceId": "tcp-m2-l1-q4-a0",
+      "explanation": "$90,000 − $35,000 = $55,000.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "tcp",
+        "blueprintYear": 2026,
+        "areaId": "tcp-II",
+        "groupId": "A",
+        "topicId": "tcp-corporate-loss-compliance",
+        "taskIds": [
+          "tcp-corporate-loss-compliance.task-1"
+        ],
+        "skill": "application",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          }
+        ]
+      }
+    },
+    {
+      "id": "tcp-m2-l1-q5",
+      "courseId": "tcp",
+      "moduleId": 2,
+      "lessonId": "tcp-m2-l1",
+      "topic": "Corporate Losses, Limitations & Book–Tax Reconciliation",
+      "prompt": "Why distinguish permanent and temporary book–tax differences?",
+      "choices": [
+        {
+          "id": "tcp-m2-l1-q5-a0",
+          "text": "All differences reverse identically."
+        },
+        {
+          "id": "tcp-m2-l1-q5-a1",
+          "text": "They have different future tax and reconciliation implications."
+        },
+        {
+          "id": "tcp-m2-l1-q5-a2",
+          "text": "Neither affects taxable income."
+        },
+        {
+          "id": "tcp-m2-l1-q5-a3",
+          "text": "Only permanent differences require source records."
+        }
+      ],
+      "correctChoiceId": "tcp-m2-l1-q5-a1",
+      "explanation": "Temporary differences can reverse; permanent differences do not have the same pattern.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "tcp",
+        "blueprintYear": 2026,
+        "areaId": "tcp-II",
+        "groupId": "A",
+        "topicId": "tcp-corporate-loss-compliance",
+        "taskIds": [
+          "tcp-corporate-loss-compliance.task-2"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          }
+        ]
+      }
+    },
+    {
+      "id": "tcp-m2-l1-q6",
+      "courseId": "tcp",
+      "moduleId": 2,
+      "lessonId": "tcp-m2-l1",
+      "topic": "Corporate Losses, Limitations & Book–Tax Reconciliation",
+      "prompt": "A prior-year return already used part of a carryforward. What should the current return do?",
+      "choices": [
+        {
+          "id": "tcp-m2-l1-q6-a0",
+          "text": "Deduct the original full amount again."
+        },
+        {
+          "id": "tcp-m2-l1-q6-a1",
+          "text": "Ignore prior returns."
+        },
+        {
+          "id": "tcp-m2-l1-q6-a2",
+          "text": "Reconcile to the remaining available attribute."
+        },
+        {
+          "id": "tcp-m2-l1-q6-a3",
+          "text": "Convert the balance automatically into a credit."
+        }
+      ],
+      "correctChoiceId": "tcp-m2-l1-q6-a2",
+      "explanation": "Carryforward schedules must reflect previous use and other changes.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "tcp",
+        "blueprintYear": 2026,
+        "areaId": "tcp-II",
+        "groupId": "A",
+        "topicId": "tcp-corporate-loss-compliance",
+        "taskIds": [
+          "tcp-corporate-loss-compliance.task-3"
+        ],
+        "skill": "application",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          }
+        ]
+      }
+    },
+    {
+      "id": "tcp-m2-l1-q7",
+      "courseId": "tcp",
+      "moduleId": 2,
+      "lessonId": "tcp-m2-l1",
+      "topic": "Corporate Losses, Limitations & Book–Tax Reconciliation",
+      "prompt": "Apply two supplied limitations and compute the remaining loss attribute. Taxable income and NOL: Taxable income before NOL $250,000. Available NOL carryforward $300,000. An 80% income limitation applies. Additional limits and rate: A supplied ownership-change limit permits only $120,000 this year. Ignore other adjustments. Use a 21% corporate tax rate. Required: Capacity under the 80% income limit.",
+      "choices": [
+        {
+          "id": "tcp-m2-l1-q7-a0",
+          "text": "250000"
+        },
+        {
+          "id": "tcp-m2-l1-q7-a1",
+          "text": "300000"
+        },
+        {
+          "id": "tcp-m2-l1-q7-a2",
+          "text": "50000"
+        },
+        {
+          "id": "tcp-m2-l1-q7-a3",
+          "text": "200000"
+        }
+      ],
+      "correctChoiceId": "tcp-m2-l1-q7-a3",
+      "explanation": "80% × $250,000 = $200,000.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "tcp",
+        "blueprintYear": 2026,
+        "areaId": "tcp-II",
+        "groupId": "A",
+        "topicId": "tcp-corporate-loss-compliance",
+        "taskIds": [
+          "tcp-corporate-loss-compliance.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          }
+        ]
+      },
+      "familyId": "tcp-m2-tbs1"
+    },
+    {
+      "id": "tcp-m2-l1-q8",
+      "courseId": "tcp",
+      "moduleId": 2,
+      "lessonId": "tcp-m2-l1",
+      "topic": "Corporate Losses, Limitations & Book–Tax Reconciliation",
+      "prompt": "Apply two supplied limitations and compute the remaining loss attribute. Taxable income and NOL: Taxable income before NOL $250,000. Available NOL carryforward $300,000. An 80% income limitation applies. Additional limits and rate: A supplied ownership-change limit permits only $120,000 this year. Ignore other adjustments. Use a 21% corporate tax rate. Required: Allowed NOL deduction after both limits.",
+      "choices": [
+        {
+          "id": "tcp-m2-l1-q8-a0",
+          "text": "120000"
+        },
+        {
+          "id": "tcp-m2-l1-q8-a1",
+          "text": "200000"
+        },
+        {
+          "id": "tcp-m2-l1-q8-a2",
+          "text": "250000"
+        },
+        {
+          "id": "tcp-m2-l1-q8-a3",
+          "text": "300000"
+        }
+      ],
+      "correctChoiceId": "tcp-m2-l1-q8-a0",
+      "explanation": "The $120,000 ownership-change limit is the lower applicable capacity.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "tcp",
+        "blueprintYear": 2026,
+        "areaId": "tcp-II",
+        "groupId": "A",
+        "topicId": "tcp-corporate-loss-compliance",
+        "taskIds": [
+          "tcp-corporate-loss-compliance.task-2"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          }
+        ]
+      },
+      "familyId": "tcp-m2-tbs1"
+    },
+    {
+      "id": "tcp-m2-l1-q9",
+      "courseId": "tcp",
+      "moduleId": 2,
+      "lessonId": "tcp-m2-l1",
+      "topic": "Corporate Losses, Limitations & Book–Tax Reconciliation",
+      "prompt": "Apply two supplied limitations and compute the remaining loss attribute. Taxable income and NOL: Taxable income before NOL $250,000. Available NOL carryforward $300,000. An 80% income limitation applies. Additional limits and rate: A supplied ownership-change limit permits only $120,000 this year. Ignore other adjustments. Use a 21% corporate tax rate. Required: Remaining NOL carryforward.",
+      "choices": [
+        {
+          "id": "tcp-m2-l1-q9-a0",
+          "text": "100000"
+        },
+        {
+          "id": "tcp-m2-l1-q9-a1",
+          "text": "180000"
+        },
+        {
+          "id": "tcp-m2-l1-q9-a2",
+          "text": "120000"
+        },
+        {
+          "id": "tcp-m2-l1-q9-a3",
+          "text": "300000"
+        }
+      ],
+      "correctChoiceId": "tcp-m2-l1-q9-a1",
+      "explanation": "$300,000 − $120,000 = $180,000.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "tcp",
+        "blueprintYear": 2026,
+        "areaId": "tcp-II",
+        "groupId": "A",
+        "topicId": "tcp-corporate-loss-compliance",
+        "taskIds": [
+          "tcp-corporate-loss-compliance.task-3"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          }
+        ]
+      },
+      "familyId": "tcp-m2-tbs1"
+    },
+    {
+      "id": "tcp-m2-l1-q10",
+      "courseId": "tcp",
+      "moduleId": 2,
+      "lessonId": "tcp-m2-l1",
+      "topic": "Corporate Losses, Limitations & Book–Tax Reconciliation",
+      "prompt": "Apply two supplied limitations and compute the remaining loss attribute. Taxable income and NOL: Taxable income before NOL $250,000. Available NOL carryforward $300,000. An 80% income limitation applies. Additional limits and rate: A supplied ownership-change limit permits only $120,000 this year. Ignore other adjustments. Use a 21% corporate tax rate. Required: Tax before credits after NOL deduction.",
+      "choices": [
+        {
+          "id": "tcp-m2-l1-q10-a0",
+          "text": "52500"
+        },
+        {
+          "id": "tcp-m2-l1-q10-a1",
+          "text": "42000"
+        },
+        {
+          "id": "tcp-m2-l1-q10-a2",
+          "text": "27300"
+        },
+        {
+          "id": "tcp-m2-l1-q10-a3",
+          "text": "25200"
+        }
+      ],
+      "correctChoiceId": "tcp-m2-l1-q10-a2",
+      "explanation": "($250,000 − $120,000) × 21% = $27,300.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "tcp",
+        "blueprintYear": 2026,
+        "areaId": "tcp-II",
+        "groupId": "A",
+        "topicId": "tcp-corporate-loss-compliance",
+        "taskIds": [
+          "tcp-corporate-loss-compliance.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          }
+        ]
+      },
+      "familyId": "tcp-m2-tbs1"
+    },
+    {
+      "id": "tcp-m2-l2-q1",
+      "courseId": "tcp",
+      "moduleId": 2,
+      "lessonId": "tcp-m2-l2",
+      "topic": "Partnership Transactions, Hot Assets & Basis Adjustments",
+      "prompt": "A partner receives $80,000 cash and $25,000 liability relief for an interest with $60,000 basis. What is total gain?",
+      "choices": [
+        {
+          "id": "tcp-m2-l2-q1-a0",
+          "text": "$20,000."
+        },
+        {
+          "id": "tcp-m2-l2-q1-a1",
+          "text": "$105,000."
+        },
+        {
+          "id": "tcp-m2-l2-q1-a2",
+          "text": "$45,000."
+        },
+        {
+          "id": "tcp-m2-l2-q1-a3",
+          "text": "$25,000."
+        }
+      ],
+      "correctChoiceId": "tcp-m2-l2-q1-a2",
+      "explanation": "Amount realized is $105,000; subtract $60,000 outside basis.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "tcp",
+        "blueprintYear": 2026,
+        "areaId": "tcp-II",
+        "groupId": "B",
+        "topicId": "tcp-partnership-advanced-compliance",
+        "taskIds": [
+          "tcp-partnership-advanced-compliance.task-1"
+        ],
+        "skill": "application",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          }
+        ]
+      }
+    },
+    {
+      "id": "tcp-m2-l2-q2",
+      "courseId": "tcp",
+      "moduleId": 2,
+      "lessonId": "tcp-m2-l2",
+      "topic": "Partnership Transactions, Hot Assets & Basis Adjustments",
+      "prompt": "Total gain is $45,000 and the supplied Section 751 ordinary amount is $12,000. What gain remains for the stated capital treatment?",
+      "choices": [
+        {
+          "id": "tcp-m2-l2-q2-a0",
+          "text": "$45,000."
+        },
+        {
+          "id": "tcp-m2-l2-q2-a1",
+          "text": "$12,000."
+        },
+        {
+          "id": "tcp-m2-l2-q2-a2",
+          "text": "$57,000."
+        },
+        {
+          "id": "tcp-m2-l2-q2-a3",
+          "text": "$33,000."
+        }
+      ],
+      "correctChoiceId": "tcp-m2-l2-q2-a3",
+      "explanation": "$45,000 − $12,000 = $33,000.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "tcp",
+        "blueprintYear": 2026,
+        "areaId": "tcp-II",
+        "groupId": "B",
+        "topicId": "tcp-partnership-advanced-compliance",
+        "taskIds": [
+          "tcp-partnership-advanced-compliance.task-2"
+        ],
+        "skill": "application",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          }
+        ]
+      }
+    },
+    {
+      "id": "tcp-m2-l2-q3",
+      "courseId": "tcp",
+      "moduleId": 2,
+      "lessonId": "tcp-m2-l2",
+      "topic": "Partnership Transactions, Hot Assets & Basis Adjustments",
+      "prompt": "What can Section 751 affect on sale of a partnership interest?",
+      "choices": [
+        {
+          "id": "tcp-m2-l2-q3-a0",
+          "text": "The character of gain attributable to specified hot assets."
+        },
+        {
+          "id": "tcp-m2-l2-q3-a1",
+          "text": "Only the partnership’s mailing address."
+        },
+        {
+          "id": "tcp-m2-l2-q3-a2",
+          "text": "Only the number of partners."
+        },
+        {
+          "id": "tcp-m2-l2-q3-a3",
+          "text": "Every gain becomes tax-free automatically."
+        }
+      ],
+      "correctChoiceId": "tcp-m2-l2-q3-a0",
+      "explanation": "Hot-asset rules can produce ordinary treatment despite an interest sale.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "tcp",
+        "blueprintYear": 2026,
+        "areaId": "tcp-II",
+        "groupId": "B",
+        "topicId": "tcp-partnership-advanced-compliance",
+        "taskIds": [
+          "tcp-partnership-advanced-compliance.task-3"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          }
+        ]
+      }
+    },
+    {
+      "id": "tcp-m2-l2-q4",
+      "courseId": "tcp",
+      "moduleId": 2,
+      "lessonId": "tcp-m2-l2",
+      "topic": "Partnership Transactions, Hot Assets & Basis Adjustments",
+      "prompt": "A guaranteed payment is generally determined how?",
+      "choices": [
+        {
+          "id": "tcp-m2-l2-q4-a0",
+          "text": "Always as a percentage of profit only."
+        },
+        {
+          "id": "tcp-m2-l2-q4-a1",
+          "text": "Without regard to partnership income under the applicable rule."
+        },
+        {
+          "id": "tcp-m2-l2-q4-a2",
+          "text": "Only after liquidation."
+        },
+        {
+          "id": "tcp-m2-l2-q4-a3",
+          "text": "Only by the recipient’s stock price."
+        }
+      ],
+      "correctChoiceId": "tcp-m2-l2-q4-a1",
+      "explanation": "Guaranteed payments differ from ordinary profit allocations and distributions.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "tcp",
+        "blueprintYear": 2026,
+        "areaId": "tcp-II",
+        "groupId": "B",
+        "topicId": "tcp-partnership-advanced-compliance",
+        "taskIds": [
+          "tcp-partnership-advanced-compliance.task-1"
+        ],
+        "skill": "application",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          }
+        ]
+      }
+    },
+    {
+      "id": "tcp-m2-l2-q5",
+      "courseId": "tcp",
+      "moduleId": 2,
+      "lessonId": "tcp-m2-l2",
+      "topic": "Partnership Transactions, Hot Assets & Basis Adjustments",
+      "prompt": "Under an applicable Section 743(b) adjustment, who generally benefits from the transferee-specific adjustment?",
+      "choices": [
+        {
+          "id": "tcp-m2-l2-q5-a0",
+          "text": "Every partner automatically in equal shares."
+        },
+        {
+          "id": "tcp-m2-l2-q5-a1",
+          "text": "Only the selling partner after the sale."
+        },
+        {
+          "id": "tcp-m2-l2-q5-a2",
+          "text": "The transferee partner for whom the adjustment is determined."
+        },
+        {
+          "id": "tcp-m2-l2-q5-a3",
+          "text": "Every unrelated creditor."
+        }
+      ],
+      "correctChoiceId": "tcp-m2-l2-q5-a2",
+      "explanation": "Special basis adjustments must be tracked separately from common inside basis.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "tcp",
+        "blueprintYear": 2026,
+        "areaId": "tcp-II",
+        "groupId": "B",
+        "topicId": "tcp-partnership-advanced-compliance",
+        "taskIds": [
+          "tcp-partnership-advanced-compliance.task-2"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          }
+        ]
+      }
+    },
+    {
+      "id": "tcp-m2-l2-q6",
+      "courseId": "tcp",
+      "moduleId": 2,
+      "lessonId": "tcp-m2-l2",
+      "topic": "Partnership Transactions, Hot Assets & Basis Adjustments",
+      "prompt": "Why reconcile guaranteed payments and ordinary partnership income carefully?",
+      "choices": [
+        {
+          "id": "tcp-m2-l2-q6-a0",
+          "text": "They are always the same line item."
+        },
+        {
+          "id": "tcp-m2-l2-q6-a1",
+          "text": "All guaranteed payments are nontaxable gifts."
+        },
+        {
+          "id": "tcp-m2-l2-q6-a2",
+          "text": "Partnership cash alone determines all tax items."
+        },
+        {
+          "id": "tcp-m2-l2-q6-a3",
+          "text": "To avoid omitting or double-counting income and related entity deductions."
+        }
+      ],
+      "correctChoiceId": "tcp-m2-l2-q6-a3",
+      "explanation": "The distinct categories have related but separate tax consequences.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "tcp",
+        "blueprintYear": 2026,
+        "areaId": "tcp-II",
+        "groupId": "B",
+        "topicId": "tcp-partnership-advanced-compliance",
+        "taskIds": [
+          "tcp-partnership-advanced-compliance.task-3"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          }
+        ]
+      }
+    },
+    {
+      "id": "tcp-m2-l2-q7",
+      "courseId": "tcp",
+      "moduleId": 2,
+      "lessonId": "tcp-m2-l2",
+      "topic": "Partnership Transactions, Hot Assets & Basis Adjustments",
+      "prompt": "Compute sale gain, character, and a supplied basis-adjustment difference. Sale facts: Cash received $150,000; liability relief $30,000; outside basis $100,000. Of the gain, $20,000 is attributed to Section 751 assets under the supplied analysis. Buyer basis facts: For a separate stated Section 743(b) computation, the buyer’s outside basis is $180,000 and allocable common inside basis is $140,000. Assume an applicable election and no other adjustments. Required: Seller amount realized.",
+      "choices": [
+        {
+          "id": "tcp-m2-l2-q7-a0",
+          "text": "180000"
+        },
+        {
+          "id": "tcp-m2-l2-q7-a1",
+          "text": "150000"
+        },
+        {
+          "id": "tcp-m2-l2-q7-a2",
+          "text": "120000"
+        },
+        {
+          "id": "tcp-m2-l2-q7-a3",
+          "text": "30000"
+        }
+      ],
+      "correctChoiceId": "tcp-m2-l2-q7-a0",
+      "explanation": "$150,000 cash + $30,000 liability relief.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "tcp",
+        "blueprintYear": 2026,
+        "areaId": "tcp-II",
+        "groupId": "B",
+        "topicId": "tcp-partnership-advanced-compliance",
+        "taskIds": [
+          "tcp-partnership-advanced-compliance.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          }
+        ]
+      },
+      "familyId": "tcp-m2-tbs2"
+    },
+    {
+      "id": "tcp-m2-l2-q8",
+      "courseId": "tcp",
+      "moduleId": 2,
+      "lessonId": "tcp-m2-l2",
+      "topic": "Partnership Transactions, Hot Assets & Basis Adjustments",
+      "prompt": "Compute sale gain, character, and a supplied basis-adjustment difference. Sale facts: Cash received $150,000; liability relief $30,000; outside basis $100,000. Of the gain, $20,000 is attributed to Section 751 assets under the supplied analysis. Buyer basis facts: For a separate stated Section 743(b) computation, the buyer’s outside basis is $180,000 and allocable common inside basis is $140,000. Assume an applicable election and no other adjustments. Required: Seller total gain.",
+      "choices": [
+        {
+          "id": "tcp-m2-l2-q8-a0",
+          "text": "50000"
+        },
+        {
+          "id": "tcp-m2-l2-q8-a1",
+          "text": "80000"
+        },
+        {
+          "id": "tcp-m2-l2-q8-a2",
+          "text": "180000"
+        },
+        {
+          "id": "tcp-m2-l2-q8-a3",
+          "text": "100000"
+        }
+      ],
+      "correctChoiceId": "tcp-m2-l2-q8-a1",
+      "explanation": "$180,000 − $100,000 = $80,000.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "tcp",
+        "blueprintYear": 2026,
+        "areaId": "tcp-II",
+        "groupId": "B",
+        "topicId": "tcp-partnership-advanced-compliance",
+        "taskIds": [
+          "tcp-partnership-advanced-compliance.task-2"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          }
+        ]
+      },
+      "familyId": "tcp-m2-tbs2"
+    },
+    {
+      "id": "tcp-m2-l2-q9",
+      "courseId": "tcp",
+      "moduleId": 2,
+      "lessonId": "tcp-m2-l2",
+      "topic": "Partnership Transactions, Hot Assets & Basis Adjustments",
+      "prompt": "Compute sale gain, character, and a supplied basis-adjustment difference. Sale facts: Cash received $150,000; liability relief $30,000; outside basis $100,000. Of the gain, $20,000 is attributed to Section 751 assets under the supplied analysis. Buyer basis facts: For a separate stated Section 743(b) computation, the buyer’s outside basis is $180,000 and allocable common inside basis is $140,000. Assume an applicable election and no other adjustments. Required: Gain remaining after the supplied ordinary portion.",
+      "choices": [
+        {
+          "id": "tcp-m2-l2-q9-a0",
+          "text": "80000"
+        },
+        {
+          "id": "tcp-m2-l2-q9-a1",
+          "text": "20000"
+        },
+        {
+          "id": "tcp-m2-l2-q9-a2",
+          "text": "60000"
+        },
+        {
+          "id": "tcp-m2-l2-q9-a3",
+          "text": "100000"
+        }
+      ],
+      "correctChoiceId": "tcp-m2-l2-q9-a2",
+      "explanation": "$80,000 − $20,000 = $60,000.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "tcp",
+        "blueprintYear": 2026,
+        "areaId": "tcp-II",
+        "groupId": "B",
+        "topicId": "tcp-partnership-advanced-compliance",
+        "taskIds": [
+          "tcp-partnership-advanced-compliance.task-3"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          }
+        ]
+      },
+      "familyId": "tcp-m2-tbs2"
+    },
+    {
+      "id": "tcp-m2-l2-q10",
+      "courseId": "tcp",
+      "moduleId": 2,
+      "lessonId": "tcp-m2-l2",
+      "topic": "Partnership Transactions, Hot Assets & Basis Adjustments",
+      "prompt": "Compute sale gain, character, and a supplied basis-adjustment difference. Sale facts: Cash received $150,000; liability relief $30,000; outside basis $100,000. Of the gain, $20,000 is attributed to Section 751 assets under the supplied analysis. Buyer basis facts: For a separate stated Section 743(b) computation, the buyer’s outside basis is $180,000 and allocable common inside basis is $140,000. Assume an applicable election and no other adjustments. Required: Supplied transferee-specific basis adjustment.",
+      "choices": [
+        {
+          "id": "tcp-m2-l2-q10-a0",
+          "text": "180000"
+        },
+        {
+          "id": "tcp-m2-l2-q10-a1",
+          "text": "140000"
+        },
+        {
+          "id": "tcp-m2-l2-q10-a2",
+          "text": "320000"
+        },
+        {
+          "id": "tcp-m2-l2-q10-a3",
+          "text": "40000"
+        }
+      ],
+      "correctChoiceId": "tcp-m2-l2-q10-a3",
+      "explanation": "$180,000 outside basis − $140,000 allocable inside basis = $40,000.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "tcp",
+        "blueprintYear": 2026,
+        "areaId": "tcp-II",
+        "groupId": "B",
+        "topicId": "tcp-partnership-advanced-compliance",
+        "taskIds": [
+          "tcp-partnership-advanced-compliance.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          }
+        ]
+      },
+      "familyId": "tcp-m2-tbs2"
+    },
+    {
+      "id": "tcp-m2-l3-q1",
+      "courseId": "tcp",
+      "moduleId": 2,
+      "lessonId": "tcp-m2-l3",
+      "topic": "S Corporation Debt Basis, Distributions & Built-In Gains",
+      "prompt": "A shareholder loan is repaid in full for $30,000 when tax basis is $12,000. No basis restoration occurs. What gain is indicated?",
+      "choices": [
+        {
+          "id": "tcp-m2-l3-q1-a0",
+          "text": "$30,000."
+        },
+        {
+          "id": "tcp-m2-l3-q1-a1",
+          "text": "$12,000."
+        },
+        {
+          "id": "tcp-m2-l3-q1-a2",
+          "text": "Zero automatically."
+        },
+        {
+          "id": "tcp-m2-l3-q1-a3",
+          "text": "$18,000."
+        }
+      ],
+      "correctChoiceId": "tcp-m2-l3-q1-a3",
+      "explanation": "Repayment exceeds the remaining tax basis by $18,000.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "tcp",
+        "blueprintYear": 2026,
+        "areaId": "tcp-II",
+        "groupId": "C",
+        "topicId": "tcp-s-corporation-advanced-compliance",
+        "taskIds": [
+          "tcp-s-corporation-advanced-compliance.task-1"
+        ],
+        "skill": "application",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          }
+        ]
+      }
+    },
+    {
+      "id": "tcp-m2-l3-q2",
+      "courseId": "tcp",
+      "moduleId": 2,
+      "lessonId": "tcp-m2-l3",
+      "topic": "S Corporation Debt Basis, Distributions & Built-In Gains",
+      "prompt": "Stock basis is $10,000, qualifying debt basis $15,000, and allocated loss $30,000. Ignore other limits. What loss is suspended for lack of basis?",
+      "choices": [
+        {
+          "id": "tcp-m2-l3-q2-a0",
+          "text": "$5,000."
+        },
+        {
+          "id": "tcp-m2-l3-q2-a1",
+          "text": "$30,000."
+        },
+        {
+          "id": "tcp-m2-l3-q2-a2",
+          "text": "$15,000."
+        },
+        {
+          "id": "tcp-m2-l3-q2-a3",
+          "text": "$10,000."
+        }
+      ],
+      "correctChoiceId": "tcp-m2-l3-q2-a0",
+      "explanation": "Total basis capacity is $25,000, leaving $5,000.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "tcp",
+        "blueprintYear": 2026,
+        "areaId": "tcp-II",
+        "groupId": "C",
+        "topicId": "tcp-s-corporation-advanced-compliance",
+        "taskIds": [
+          "tcp-s-corporation-advanced-compliance.task-2"
+        ],
+        "skill": "application",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          }
+        ]
+      }
+    },
+    {
+      "id": "tcp-m2-l3-q3",
+      "courseId": "tcp",
+      "moduleId": 2,
+      "lessonId": "tcp-m2-l3",
+      "topic": "S Corporation Debt Basis, Distributions & Built-In Gains",
+      "prompt": "Can shareholder debt basis automatically shelter a nondividend cash distribution exceeding stock basis?",
+      "choices": [
+        {
+          "id": "tcp-m2-l3-q3-a0",
+          "text": "Yes, every debt basis amount applies to distributions."
+        },
+        {
+          "id": "tcp-m2-l3-q3-a1",
+          "text": "No."
+        },
+        {
+          "id": "tcp-m2-l3-q3-a2",
+          "text": "Only the debt’s interest rate matters."
+        },
+        {
+          "id": "tcp-m2-l3-q3-a3",
+          "text": "All S distributions are tax-free."
+        }
+      ],
+      "correctChoiceId": "tcp-m2-l3-q3-a1",
+      "explanation": "Stock and debt basis have different functions.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "tcp",
+        "blueprintYear": 2026,
+        "areaId": "tcp-II",
+        "groupId": "C",
+        "topicId": "tcp-s-corporation-advanced-compliance",
+        "taskIds": [
+          "tcp-s-corporation-advanced-compliance.task-3"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          }
+        ]
+      }
+    },
+    {
+      "id": "tcp-m2-l3-q4",
+      "courseId": "tcp",
+      "moduleId": 2,
+      "lessonId": "tcp-m2-l3",
+      "topic": "S Corporation Debt Basis, Distributions & Built-In Gains",
+      "prompt": "A former C corporation is now an S corporation. Can an entity-level built-in-gains tax still apply?",
+      "choices": [
+        {
+          "id": "tcp-m2-l3-q4-a0",
+          "text": "No, S status eliminates all entity tax in every case."
+        },
+        {
+          "id": "tcp-m2-l3-q4-a1",
+          "text": "Only if it has no assets."
+        },
+        {
+          "id": "tcp-m2-l3-q4-a2",
+          "text": "Yes, when the applicable statutory conditions are met."
+        },
+        {
+          "id": "tcp-m2-l3-q4-a3",
+          "text": "Only if shareholders request it."
+        }
+      ],
+      "correctChoiceId": "tcp-m2-l3-q4-a2",
+      "explanation": "Former C-corporation attributes can create specified entity-level tax exposure.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "tcp",
+        "blueprintYear": 2026,
+        "areaId": "tcp-II",
+        "groupId": "C",
+        "topicId": "tcp-s-corporation-advanced-compliance",
+        "taskIds": [
+          "tcp-s-corporation-advanced-compliance.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          }
+        ]
+      }
+    },
+    {
+      "id": "tcp-m2-l3-q5",
+      "courseId": "tcp",
+      "moduleId": 2,
+      "lessonId": "tcp-m2-l3",
+      "topic": "S Corporation Debt Basis, Distributions & Built-In Gains",
+      "prompt": "The supplied taxable built-in-gain base is $40,000 and tax rate 21%. What is entity tax before other adjustments?",
+      "choices": [
+        {
+          "id": "tcp-m2-l3-q5-a0",
+          "text": "$40,000."
+        },
+        {
+          "id": "tcp-m2-l3-q5-a1",
+          "text": "$21,000."
+        },
+        {
+          "id": "tcp-m2-l3-q5-a2",
+          "text": "$31,600."
+        },
+        {
+          "id": "tcp-m2-l3-q5-a3",
+          "text": "$8,400."
+        }
+      ],
+      "correctChoiceId": "tcp-m2-l3-q5-a3",
+      "explanation": "$40,000 × 21% = $8,400.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "tcp",
+        "blueprintYear": 2026,
+        "areaId": "tcp-II",
+        "groupId": "C",
+        "topicId": "tcp-s-corporation-advanced-compliance",
+        "taskIds": [
+          "tcp-s-corporation-advanced-compliance.task-2"
+        ],
+        "skill": "application",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          }
+        ]
+      }
+    },
+    {
+      "id": "tcp-m2-l3-q6",
+      "courseId": "tcp",
+      "moduleId": 2,
+      "lessonId": "tcp-m2-l3",
+      "topic": "S Corporation Debt Basis, Distributions & Built-In Gains",
+      "prompt": "Why do accumulated C-corporation earnings and profits matter to S distributions?",
+      "choices": [
+        {
+          "id": "tcp-m2-l3-q6-a0",
+          "text": "They can change ordering and dividend treatment under applicable rules."
+        },
+        {
+          "id": "tcp-m2-l3-q6-a1",
+          "text": "They are always identical to stock basis."
+        },
+        {
+          "id": "tcp-m2-l3-q6-a2",
+          "text": "They automatically disappear on election."
+        },
+        {
+          "id": "tcp-m2-l3-q6-a3",
+          "text": "They make all distributions wages."
+        }
+      ],
+      "correctChoiceId": "tcp-m2-l3-q6-a0",
+      "explanation": "Distribution rules can depend on AAA, E&P, basis, and elections.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "tcp",
+        "blueprintYear": 2026,
+        "areaId": "tcp-II",
+        "groupId": "C",
+        "topicId": "tcp-s-corporation-advanced-compliance",
+        "taskIds": [
+          "tcp-s-corporation-advanced-compliance.task-3"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          }
+        ]
+      }
+    },
+    {
+      "id": "tcp-m2-l3-q7",
+      "courseId": "tcp",
+      "moduleId": 2,
+      "lessonId": "tcp-m2-l3",
+      "topic": "S Corporation Debt Basis, Distributions & Built-In Gains",
+      "prompt": "Evaluate independent debt-basis, loss, and built-in-gain computations. Shareholder items: A direct loan with face amount $50,000 and tax basis $20,000 is fully repaid. Separately, another shareholder has stock basis $12,000, qualifying debt basis $8,000, and a $27,000 loss; ignore other limits. Entity tax: The case determines a taxable built-in-gain base of $60,000 after all applicable limitations. Use a 21% tax rate. Required: Gain on the full loan repayment.",
+      "choices": [
+        {
+          "id": "tcp-m2-l3-q7-a0",
+          "text": "50000"
+        },
+        {
+          "id": "tcp-m2-l3-q7-a1",
+          "text": "30000"
+        },
+        {
+          "id": "tcp-m2-l3-q7-a2",
+          "text": "20000"
+        },
+        {
+          "id": "tcp-m2-l3-q7-a3",
+          "text": "0"
+        }
+      ],
+      "correctChoiceId": "tcp-m2-l3-q7-a1",
+      "explanation": "$50,000 repayment less $20,000 basis = $30,000.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "tcp",
+        "blueprintYear": 2026,
+        "areaId": "tcp-II",
+        "groupId": "C",
+        "topicId": "tcp-s-corporation-advanced-compliance",
+        "taskIds": [
+          "tcp-s-corporation-advanced-compliance.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          }
+        ]
+      },
+      "familyId": "tcp-m2-tbs3"
+    },
+    {
+      "id": "tcp-m2-l3-q8",
+      "courseId": "tcp",
+      "moduleId": 2,
+      "lessonId": "tcp-m2-l3",
+      "topic": "S Corporation Debt Basis, Distributions & Built-In Gains",
+      "prompt": "Evaluate independent debt-basis, loss, and built-in-gain computations. Shareholder items: A direct loan with face amount $50,000 and tax basis $20,000 is fully repaid. Separately, another shareholder has stock basis $12,000, qualifying debt basis $8,000, and a $27,000 loss; ignore other limits. Entity tax: The case determines a taxable built-in-gain base of $60,000 after all applicable limitations. Use a 21% tax rate. Required: Loss capacity from stock and debt basis.",
+      "choices": [
+        {
+          "id": "tcp-m2-l3-q8-a0",
+          "text": "12000"
+        },
+        {
+          "id": "tcp-m2-l3-q8-a1",
+          "text": "8000"
+        },
+        {
+          "id": "tcp-m2-l3-q8-a2",
+          "text": "20000"
+        },
+        {
+          "id": "tcp-m2-l3-q8-a3",
+          "text": "27000"
+        }
+      ],
+      "correctChoiceId": "tcp-m2-l3-q8-a2",
+      "explanation": "$12,000 + $8,000 = $20,000.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "tcp",
+        "blueprintYear": 2026,
+        "areaId": "tcp-II",
+        "groupId": "C",
+        "topicId": "tcp-s-corporation-advanced-compliance",
+        "taskIds": [
+          "tcp-s-corporation-advanced-compliance.task-2"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          }
+        ]
+      },
+      "familyId": "tcp-m2-tbs3"
+    },
+    {
+      "id": "tcp-m2-l3-q9",
+      "courseId": "tcp",
+      "moduleId": 2,
+      "lessonId": "tcp-m2-l3",
+      "topic": "S Corporation Debt Basis, Distributions & Built-In Gains",
+      "prompt": "Evaluate independent debt-basis, loss, and built-in-gain computations. Shareholder items: A direct loan with face amount $50,000 and tax basis $20,000 is fully repaid. Separately, another shareholder has stock basis $12,000, qualifying debt basis $8,000, and a $27,000 loss; ignore other limits. Entity tax: The case determines a taxable built-in-gain base of $60,000 after all applicable limitations. Use a 21% tax rate. Required: Loss suspended for lack of basis.",
+      "choices": [
+        {
+          "id": "tcp-m2-l3-q9-a0",
+          "text": "27000"
+        },
+        {
+          "id": "tcp-m2-l3-q9-a1",
+          "text": "15000"
+        },
+        {
+          "id": "tcp-m2-l3-q9-a2",
+          "text": "19000"
+        },
+        {
+          "id": "tcp-m2-l3-q9-a3",
+          "text": "7000"
+        }
+      ],
+      "correctChoiceId": "tcp-m2-l3-q9-a3",
+      "explanation": "$27,000 − $20,000 = $7,000.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "tcp",
+        "blueprintYear": 2026,
+        "areaId": "tcp-II",
+        "groupId": "C",
+        "topicId": "tcp-s-corporation-advanced-compliance",
+        "taskIds": [
+          "tcp-s-corporation-advanced-compliance.task-3"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          }
+        ]
+      },
+      "familyId": "tcp-m2-tbs3"
+    },
+    {
+      "id": "tcp-m2-l3-q10",
+      "courseId": "tcp",
+      "moduleId": 2,
+      "lessonId": "tcp-m2-l3",
+      "topic": "S Corporation Debt Basis, Distributions & Built-In Gains",
+      "prompt": "Evaluate independent debt-basis, loss, and built-in-gain computations. Shareholder items: A direct loan with face amount $50,000 and tax basis $20,000 is fully repaid. Separately, another shareholder has stock basis $12,000, qualifying debt basis $8,000, and a $27,000 loss; ignore other limits. Entity tax: The case determines a taxable built-in-gain base of $60,000 after all applicable limitations. Use a 21% tax rate. Required: Built-in-gains tax under supplied assumptions.",
+      "choices": [
+        {
+          "id": "tcp-m2-l3-q10-a0",
+          "text": "12600"
+        },
+        {
+          "id": "tcp-m2-l3-q10-a1",
+          "text": "60000"
+        },
+        {
+          "id": "tcp-m2-l3-q10-a2",
+          "text": "21000"
+        },
+        {
+          "id": "tcp-m2-l3-q10-a3",
+          "text": "47400"
+        }
+      ],
+      "correctChoiceId": "tcp-m2-l3-q10-a0",
+      "explanation": "$60,000 × 21% = $12,600.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "tcp",
+        "blueprintYear": 2026,
+        "areaId": "tcp-II",
+        "groupId": "C",
+        "topicId": "tcp-s-corporation-advanced-compliance",
+        "taskIds": [
+          "tcp-s-corporation-advanced-compliance.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          }
+        ]
+      },
+      "familyId": "tcp-m2-tbs3"
+    },
+    {
+      "id": "tcp-m2-l4-q1",
+      "courseId": "tcp",
+      "moduleId": 2,
+      "lessonId": "tcp-m2-l4",
+      "topic": "Property Distributions & Liquidation Basis Schedules",
+      "prompt": "A C corporation distributes property with basis $40,000 and value $70,000. Assume ordinary gain recognition and no liabilities. What corporate gain arises?",
+      "choices": [
+        {
+          "id": "tcp-m2-l4-q1-a0",
+          "text": "$30,000."
+        },
+        {
+          "id": "tcp-m2-l4-q1-a1",
+          "text": "$70,000."
+        },
+        {
+          "id": "tcp-m2-l4-q1-a2",
+          "text": "$40,000."
+        },
+        {
+          "id": "tcp-m2-l4-q1-a3",
+          "text": "Zero in every distribution."
+        }
+      ],
+      "correctChoiceId": "tcp-m2-l4-q1-a0",
+      "explanation": "Value exceeds basis by $30,000 under the stated corporate rule.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "tcp",
+        "blueprintYear": 2026,
+        "areaId": "tcp-II",
+        "groupId": "A-B-C",
+        "topicId": "tcp-entity-property-distributions",
+        "taskIds": [
+          "tcp-entity-property-distributions.task-1"
+        ],
+        "skill": "application",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          }
+        ]
+      }
+    },
+    {
+      "id": "tcp-m2-l4-q2",
+      "courseId": "tcp",
+      "moduleId": 2,
+      "lessonId": "tcp-m2-l4",
+      "topic": "Property Distributions & Liquidation Basis Schedules",
+      "prompt": "A C corporation makes a nonliquidating distribution of property with a built-in loss. Is the loss automatically deductible?",
+      "choices": [
+        {
+          "id": "tcp-m2-l4-q2-a0",
+          "text": "Yes, every distribution recognizes all losses."
+        },
+        {
+          "id": "tcp-m2-l4-q2-a1",
+          "text": "No."
+        },
+        {
+          "id": "tcp-m2-l4-q2-a2",
+          "text": "Only shareholder age matters."
+        },
+        {
+          "id": "tcp-m2-l4-q2-a3",
+          "text": "The loss is always a refundable credit."
+        }
+      ],
+      "correctChoiceId": "tcp-m2-l4-q2-a1",
+      "explanation": "The ordinary nonliquidating rules do not automatically recognize corporate loss.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "tcp",
+        "blueprintYear": 2026,
+        "areaId": "tcp-II",
+        "groupId": "A-B-C",
+        "topicId": "tcp-entity-property-distributions",
+        "taskIds": [
+          "tcp-entity-property-distributions.task-2"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          }
+        ]
+      }
+    },
+    {
+      "id": "tcp-m2-l4-q3",
+      "courseId": "tcp",
+      "moduleId": 2,
+      "lessonId": "tcp-m2-l4",
+      "topic": "Property Distributions & Liquidation Basis Schedules",
+      "prompt": "A partner has $25,000 outside basis and receives $8,000 cash before property. What basis remains for the next step?",
+      "choices": [
+        {
+          "id": "tcp-m2-l4-q3-a0",
+          "text": "$25,000."
+        },
+        {
+          "id": "tcp-m2-l4-q3-a1",
+          "text": "$33,000."
+        },
+        {
+          "id": "tcp-m2-l4-q3-a2",
+          "text": "$17,000."
+        },
+        {
+          "id": "tcp-m2-l4-q3-a3",
+          "text": "$8,000."
+        }
+      ],
+      "correctChoiceId": "tcp-m2-l4-q3-a2",
+      "explanation": "Cash reduces outside basis by $8,000.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "tcp",
+        "blueprintYear": 2026,
+        "areaId": "tcp-II",
+        "groupId": "A-B-C",
+        "topicId": "tcp-entity-property-distributions",
+        "taskIds": [
+          "tcp-entity-property-distributions.task-3"
+        ],
+        "skill": "application",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          }
+        ]
+      }
+    },
+    {
+      "id": "tcp-m2-l4-q4",
+      "courseId": "tcp",
+      "moduleId": 2,
+      "lessonId": "tcp-m2-l4",
+      "topic": "Property Distributions & Liquidation Basis Schedules",
+      "prompt": "Nonliquidating property carryover basis is $30,000, but $17,000 outside basis remains. What property basis applies under the stated limitation?",
+      "choices": [
+        {
+          "id": "tcp-m2-l4-q4-a0",
+          "text": "$30,000."
+        },
+        {
+          "id": "tcp-m2-l4-q4-a1",
+          "text": "$47,000."
+        },
+        {
+          "id": "tcp-m2-l4-q4-a2",
+          "text": "$13,000."
+        },
+        {
+          "id": "tcp-m2-l4-q4-a3",
+          "text": "$17,000."
+        }
+      ],
+      "correctChoiceId": "tcp-m2-l4-q4-a3",
+      "explanation": "The property basis is limited to the available outside basis.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "tcp",
+        "blueprintYear": 2026,
+        "areaId": "tcp-II",
+        "groupId": "A-B-C",
+        "topicId": "tcp-entity-property-distributions",
+        "taskIds": [
+          "tcp-entity-property-distributions.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          }
+        ]
+      }
+    },
+    {
+      "id": "tcp-m2-l4-q5",
+      "courseId": "tcp",
+      "moduleId": 2,
+      "lessonId": "tcp-m2-l4",
+      "topic": "Property Distributions & Liquidation Basis Schedules",
+      "prompt": "A simple complete liquidation gives $10,000 cash and one capital asset to a partner with $50,000 outside basis. No exception applies. What basis is assigned to the asset?",
+      "choices": [
+        {
+          "id": "tcp-m2-l4-q5-a0",
+          "text": "$40,000."
+        },
+        {
+          "id": "tcp-m2-l4-q5-a1",
+          "text": "$50,000."
+        },
+        {
+          "id": "tcp-m2-l4-q5-a2",
+          "text": "$10,000."
+        },
+        {
+          "id": "tcp-m2-l4-q5-a3",
+          "text": "Zero automatically."
+        }
+      ],
+      "correctChoiceId": "tcp-m2-l4-q5-a0",
+      "explanation": "Remaining outside basis after cash is $40,000.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "tcp",
+        "blueprintYear": 2026,
+        "areaId": "tcp-II",
+        "groupId": "A-B-C",
+        "topicId": "tcp-entity-property-distributions",
+        "taskIds": [
+          "tcp-entity-property-distributions.task-2"
+        ],
+        "skill": "application",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          }
+        ]
+      }
+    },
+    {
+      "id": "tcp-m2-l4-q6",
+      "courseId": "tcp",
+      "moduleId": 2,
+      "lessonId": "tcp-m2-l4",
+      "topic": "Property Distributions & Liquidation Basis Schedules",
+      "prompt": "Why identify whether a distribution liquidates the interest?",
+      "choices": [
+        {
+          "id": "tcp-m2-l4-q6-a0",
+          "text": "Only formatting changes."
+        },
+        {
+          "id": "tcp-m2-l4-q6-a1",
+          "text": "Property-basis and recognition rules can differ."
+        },
+        {
+          "id": "tcp-m2-l4-q6-a2",
+          "text": "Every distribution has identical consequences."
+        },
+        {
+          "id": "tcp-m2-l4-q6-a3",
+          "text": "Only the mailing date matters."
+        }
+      ],
+      "correctChoiceId": "tcp-m2-l4-q6-a1",
+      "explanation": "The transaction’s substance determines the applicable rules.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "tcp",
+        "blueprintYear": 2026,
+        "areaId": "tcp-II",
+        "groupId": "A-B-C",
+        "topicId": "tcp-entity-property-distributions",
+        "taskIds": [
+          "tcp-entity-property-distributions.task-3"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          }
+        ]
+      }
+    },
+    {
+      "id": "tcp-m2-l4-q7",
+      "courseId": "tcp",
+      "moduleId": 2,
+      "lessonId": "tcp-m2-l4",
+      "topic": "Property Distributions & Liquidation Basis Schedules",
+      "prompt": "Calculate entity gain and owner basis under the stated simplified rules. Corporate distribution: Property basis $60,000; value $100,000; no liabilities. The ordinary corporate gain-recognition rule applies. Partnership cases: Nonliquidating: outside basis $35,000; cash $10,000; property carryover basis $40,000 limited to remaining outside basis. Separate complete liquidation: outside basis $80,000; cash $20,000; one capital asset receives the remaining outside basis. No special exceptions apply. Required: Corporate gain.",
+      "choices": [
+        {
+          "id": "tcp-m2-l4-q7-a0",
+          "text": "100000"
+        },
+        {
+          "id": "tcp-m2-l4-q7-a1",
+          "text": "60000"
+        },
+        {
+          "id": "tcp-m2-l4-q7-a2",
+          "text": "40000"
+        },
+        {
+          "id": "tcp-m2-l4-q7-a3",
+          "text": "0"
+        }
+      ],
+      "correctChoiceId": "tcp-m2-l4-q7-a2",
+      "explanation": "$100,000 value − $60,000 basis = $40,000.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "tcp",
+        "blueprintYear": 2026,
+        "areaId": "tcp-II",
+        "groupId": "A-B-C",
+        "topicId": "tcp-entity-property-distributions",
+        "taskIds": [
+          "tcp-entity-property-distributions.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          }
+        ]
+      },
+      "familyId": "tcp-m2-tbs4"
+    },
+    {
+      "id": "tcp-m2-l4-q8",
+      "courseId": "tcp",
+      "moduleId": 2,
+      "lessonId": "tcp-m2-l4",
+      "topic": "Property Distributions & Liquidation Basis Schedules",
+      "prompt": "Calculate entity gain and owner basis under the stated simplified rules. Corporate distribution: Property basis $60,000; value $100,000; no liabilities. The ordinary corporate gain-recognition rule applies. Partnership cases: Nonliquidating: outside basis $35,000; cash $10,000; property carryover basis $40,000 limited to remaining outside basis. Separate complete liquidation: outside basis $80,000; cash $20,000; one capital asset receives the remaining outside basis. No special exceptions apply. Required: Outside basis after cash in the nonliquidating case.",
+      "choices": [
+        {
+          "id": "tcp-m2-l4-q8-a0",
+          "text": "35000"
+        },
+        {
+          "id": "tcp-m2-l4-q8-a1",
+          "text": "45000"
+        },
+        {
+          "id": "tcp-m2-l4-q8-a2",
+          "text": "10000"
+        },
+        {
+          "id": "tcp-m2-l4-q8-a3",
+          "text": "25000"
+        }
+      ],
+      "correctChoiceId": "tcp-m2-l4-q8-a3",
+      "explanation": "$35,000 − $10,000 = $25,000.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "tcp",
+        "blueprintYear": 2026,
+        "areaId": "tcp-II",
+        "groupId": "A-B-C",
+        "topicId": "tcp-entity-property-distributions",
+        "taskIds": [
+          "tcp-entity-property-distributions.task-2"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          }
+        ]
+      },
+      "familyId": "tcp-m2-tbs4"
+    },
+    {
+      "id": "tcp-m2-l4-q9",
+      "courseId": "tcp",
+      "moduleId": 2,
+      "lessonId": "tcp-m2-l4",
+      "topic": "Property Distributions & Liquidation Basis Schedules",
+      "prompt": "Calculate entity gain and owner basis under the stated simplified rules. Corporate distribution: Property basis $60,000; value $100,000; no liabilities. The ordinary corporate gain-recognition rule applies. Partnership cases: Nonliquidating: outside basis $35,000; cash $10,000; property carryover basis $40,000 limited to remaining outside basis. Separate complete liquidation: outside basis $80,000; cash $20,000; one capital asset receives the remaining outside basis. No special exceptions apply. Required: Property basis in the nonliquidating case.",
+      "choices": [
+        {
+          "id": "tcp-m2-l4-q9-a0",
+          "text": "25000"
+        },
+        {
+          "id": "tcp-m2-l4-q9-a1",
+          "text": "40000"
+        },
+        {
+          "id": "tcp-m2-l4-q9-a2",
+          "text": "15000"
+        },
+        {
+          "id": "tcp-m2-l4-q9-a3",
+          "text": "65000"
+        }
+      ],
+      "correctChoiceId": "tcp-m2-l4-q9-a0",
+      "explanation": "Carryover basis is limited to $25,000 available outside basis.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "tcp",
+        "blueprintYear": 2026,
+        "areaId": "tcp-II",
+        "groupId": "A-B-C",
+        "topicId": "tcp-entity-property-distributions",
+        "taskIds": [
+          "tcp-entity-property-distributions.task-3"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          }
+        ]
+      },
+      "familyId": "tcp-m2-tbs4"
+    },
+    {
+      "id": "tcp-m2-l4-q10",
+      "courseId": "tcp",
+      "moduleId": 2,
+      "lessonId": "tcp-m2-l4",
+      "topic": "Property Distributions & Liquidation Basis Schedules",
+      "prompt": "Calculate entity gain and owner basis under the stated simplified rules. Corporate distribution: Property basis $60,000; value $100,000; no liabilities. The ordinary corporate gain-recognition rule applies. Partnership cases: Nonliquidating: outside basis $35,000; cash $10,000; property carryover basis $40,000 limited to remaining outside basis. Separate complete liquidation: outside basis $80,000; cash $20,000; one capital asset receives the remaining outside basis. No special exceptions apply. Required: Asset basis in the liquidation case.",
+      "choices": [
+        {
+          "id": "tcp-m2-l4-q10-a0",
+          "text": "80000"
+        },
+        {
+          "id": "tcp-m2-l4-q10-a1",
+          "text": "60000"
+        },
+        {
+          "id": "tcp-m2-l4-q10-a2",
+          "text": "20000"
+        },
+        {
+          "id": "tcp-m2-l4-q10-a3",
+          "text": "100000"
+        }
+      ],
+      "correctChoiceId": "tcp-m2-l4-q10-a1",
+      "explanation": "$80,000 outside basis − $20,000 cash = $60,000.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "tcp",
+        "blueprintYear": 2026,
+        "areaId": "tcp-II",
+        "groupId": "A-B-C",
+        "topicId": "tcp-entity-property-distributions",
+        "taskIds": [
+          "tcp-entity-property-distributions.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-07-01",
+        "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "IRS tax publications",
+            "url": "https://www.irs.gov/publications"
+          },
+          {
+            "title": "Internal Revenue Code",
+            "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+          }
+        ]
+      },
+      "familyId": "tcp-m2-tbs4"
+    }
+  ]
+}

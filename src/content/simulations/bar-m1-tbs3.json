@@ -1,0 +1,107 @@
+{
+  "id": "bar-m1-tbs3",
+  "courseId": "bar",
+  "moduleId": 1,
+  "number": 3,
+  "title": "Contribution and constrained capacity",
+  "html": "<div class=\"course-intro-card\"><h2>Contribution and constrained capacity</h2><p>Analyze a single-product break-even model and an independent constrained-resource choice.</p></div><section class=\"quiz-card\"><h3>Required responses</h3><div class=\"tbs-question\"><label for=\"bar-m1-tbs3-f1\">Unit contribution margin</label><input id=\"bar-m1-tbs3-f1\" type=\"text\"></div><div class=\"tbs-question\"><label for=\"bar-m1-tbs3-f2\">Break-even units</label><input id=\"bar-m1-tbs3-f2\" type=\"text\"></div><div class=\"tbs-question\"><label for=\"bar-m1-tbs3-f3\">Product X contribution per machine hour</label><input id=\"bar-m1-tbs3-f3\" type=\"text\"></div><div class=\"tbs-question\"><label for=\"bar-m1-tbs3-f4\">Preferred product on contribution per scarce hour alone</label><select id=\"bar-m1-tbs3-f4\"><option value=\"Product Y\">Product Y</option><option value=\"Product X\">Product X</option><option value=\"Equal contribution per hour\">Equal contribution per hour</option><option value=\"Cannot compare despite supplied hours\">Cannot compare despite supplied hours</option></select></div></section>",
+  "metadata": {
+    "section": "bar",
+    "blueprintYear": 2026,
+    "areaId": "bar-I",
+    "groupId": "A-B",
+    "topicId": "bar-cost-volume-profit",
+    "taskIds": [
+      "bar-cost-volume-profit.task-1",
+      "bar-cost-volume-profit.task-2",
+      "bar-cost-volume-profit.task-3"
+    ],
+    "skill": "analysis",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      },
+      {
+        "title": "FASB accounting standards",
+        "url": "https://asc.fasb.org/"
+      },
+      {
+        "title": "GASB standards",
+        "url": "https://www.gasb.org/standards-and-implementation"
+      }
+    ]
+  },
+  "difficulty": "advanced",
+  "fields": [
+    {
+      "id": "bar-m1-tbs3-f1",
+      "label": "Unit contribution margin",
+      "type": "number",
+      "options": [],
+      "correct": 30,
+      "explanation": "$75 − $45 = $30.",
+      "topicId": "bar-cost-volume-profit"
+    },
+    {
+      "id": "bar-m1-tbs3-f2",
+      "label": "Break-even units",
+      "type": "number",
+      "options": [],
+      "correct": 5000,
+      "explanation": "$150,000 ÷ $30 = 5,000.",
+      "topicId": "bar-cost-volume-profit"
+    },
+    {
+      "id": "bar-m1-tbs3-f3",
+      "label": "Product X contribution per machine hour",
+      "type": "number",
+      "options": [],
+      "correct": 12,
+      "explanation": "$36 ÷ 3 = $12 per hour.",
+      "topicId": "bar-cost-volume-profit"
+    },
+    {
+      "id": "bar-m1-tbs3-f4",
+      "label": "Preferred product on contribution per scarce hour alone",
+      "type": "select",
+      "options": [
+        {
+          "value": "Product Y",
+          "label": "Product Y"
+        },
+        {
+          "value": "Product X",
+          "label": "Product X"
+        },
+        {
+          "value": "Equal contribution per hour",
+          "label": "Equal contribution per hour"
+        },
+        {
+          "value": "Cannot compare despite supplied hours",
+          "label": "Cannot compare despite supplied hours"
+        }
+      ],
+      "correct": "Product Y",
+      "explanation": "Y earns $14 per hour versus X’s $12.",
+      "topicId": "bar-cost-volume-profit"
+    }
+  ],
+  "exhibits": [
+    {
+      "id": "bar-m1-tbs3-ex1",
+      "title": "Break-even model",
+      "html": "<p>Selling price $75 per unit; variable cost $45; annual fixed cost $150,000. Assume the relevant range and a constant sales mix.</p>"
+    },
+    {
+      "id": "bar-m1-tbs3-ex2",
+      "title": "Machine-hour constraint",
+      "html": "<p>Product X contributes $36 and requires 3 hours. Product Y contributes $28 and requires 2 hours. Demand exists for either product.</p>"
+    }
+  ],
+  "explanation": "<h3>Unit contribution margin</h3><p>$75 − $45 = $30.</p><h3>Break-even units</h3><p>$150,000 ÷ $30 = 5,000.</p><h3>Product X contribution per machine hour</h3><p>$36 ÷ 3 = $12 per hour.</p><h3>Preferred product on contribution per scarce hour alone</h3><p>Y earns $14 per hour versus X’s $12.</p>"
+}

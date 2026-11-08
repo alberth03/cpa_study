@@ -1,0 +1,88 @@
+{
+  "id": "far-m1-l8",
+  "courseId": "far",
+  "moduleId": 1,
+  "number": 8,
+  "title": "Error Corrections",
+  "description": "Identify financial statement errors, determine their effects and apply appropriate correction and presentation.",
+  "url": "/learn/far/modules/1/lessons/8",
+  "html": "<h2> Accounting error versus accounting change </h2> <p> An accounting error occurs when previously issued financial statements contain an incorrect amount or treatment because available information was incorrectly used or accounting requirements were incorrectly applied. </p> <p> This is fundamentally different from a legitimate change in accounting estimate caused by new information. </p> <div class=\"comparison-grid\"> <div class=\"comparison-card\"> <h3> Accounting Error </h3> <p> Something in the prior accounting was incorrect. </p> <p> Example: an expense was accidentally omitted. </p> </div> <div class=\"comparison-card\"> <h3> Change in Estimate </h3> <p> The original estimate was reasonable, but new information changes the expected amount. </p> <p> Example: revised useful life. </p> </div> </div> <div class=\"key-points\"> <h3>CPA mindset</h3> <p> Before calculating anything, determine: </p> <ol> <li> Is this actually an error? </li> <li> Which prior accounts were misstated? </li> <li> Is the prior period presented comparatively? </li> <li> What is the effect on beginning retained earnings of the earliest period presented? </li> <li> What correcting entry is needed? </li> </ol> </div> <h2> Common accounting errors </h2> <div class=\"key-points\"> <ul> <li> Mathematical mistakes </li> <li> Failure to accrue an expense </li> <li> Failure to record earned revenue </li> <li> Recording an asset as an expense or an expense as an asset </li> <li> Incorrect inventory counts </li> <li> Incorrect application of an accounting principle </li> <li> Failure to record depreciation </li> </ul> </div> <h2> Prior-period errors </h2> <p> When a material error in previously issued financial statements is corrected, the correction is generally reflected through restatement of the prior-period financial statements presented. </p> <p> The cumulative effect of the correction on periods before those presented is generally reflected as an adjustment to the opening balance of retained earnings or another appropriate component of equity for the earliest period presented. </p> <div class=\"key-points\"> <h3>CPA trap</h3> <p> A prior-period error generally should not simply be run through current-period income as though it were a current-period expense or revenue. </p> </div> <h2> Retained earnings effect </h2> <p> Because prior-period revenues and expenses eventually close into retained earnings, an error affecting prior-period income can cause beginning retained earnings to be wrong. </p> <div class=\"example-box\"> <h3>Example — omitted expense</h3> <p> Last year, a company failed to record <strong>$30,000 of expense</strong> and the related liability. </p> <p> Ignoring income taxes, last year's net income was overstated by $30,000. </p> <p> Therefore, beginning retained earnings this year is also overstated by $30,000. </p> <div class=\"formula-box\"> Correct Beginning Retained Earnings = Reported Beginning Retained Earnings − $30,000 </div> </div> <h2> Correcting an omitted liability </h2> <p> Assume the $30,000 prior-period expense remains unpaid when the error is discovered. </p> <p> Ignoring taxes and assuming the correction is made through beginning retained earnings, the correcting entry would be: </p> <div class=\"journal-entry\"> <div class=\"journal-row journal-header\"> <div>Account</div> <div>Debit</div> <div>Credit</div> </div> <div class=\"journal-row\"> <div>Retained Earnings</div> <div>$30,000</div> <div>—</div> </div> <div class=\"journal-row credit-row\"> <div>Liability</div> <div>—</div> <div>$30,000</div> </div> </div> <p> Retained earnings is debited because prior income, and therefore accumulated retained earnings, had been overstated. </p> <h2> Capitalizing an amount that should have been expensed </h2> <p> Suppose a company incorrectly capitalized a <strong>$40,000 expenditure</strong> at the end of the prior year even though the entire amount should have been expensed. </p> <p> Ignoring depreciation and income taxes: </p> <div class=\"key-points\"> <ul> <li> Assets are overstated by $40,000. </li> <li> Prior-period expenses are understated by $40,000. </li> <li> Prior-period net income is overstated by $40,000. </li> <li> Beginning retained earnings is overstated by $40,000. </li> </ul> </div> <div class=\"journal-entry\"> <div class=\"journal-row journal-header\"> <div>Account</div> <div>Debit</div> <div>Credit</div> </div> <div class=\"journal-row\"> <div>Retained Earnings</div> <div>$40,000</div> <div>—</div> </div> <div class=\"journal-row credit-row\"> <div>Asset</div> <div>—</div> <div>$40,000</div> </div> </div> <h2> Expensing an amount that should have been capitalized </h2> <p> Now reverse the situation. </p> <p> Assume a company incorrectly expensed <strong>$50,000</strong> that should have been capitalized as an asset at the very end of the prior year. </p> <p> Ignoring depreciation and income taxes: </p> <div class=\"key-points\"> <ul> <li> Assets are understated by $50,000. </li> <li> Prior-period expenses are overstated by $50,000. </li> <li> Prior-period net income is understated by $50,000. </li> <li> Beginning retained earnings is understated by $50,000. </li> </ul> </div> <div class=\"journal-entry\"> <div class=\"journal-row journal-header\"> <div>Account</div> <div>Debit</div> <div>Credit</div> </div> <div class=\"journal-row\"> <div>Asset</div> <div>$50,000</div> <div>—</div> </div> <div class=\"journal-row credit-row\"> <div>Retained Earnings</div> <div>—</div> <div>$50,000</div> </div> </div> <h2> Inventory errors </h2> <p> Inventory errors are especially important because ending inventory affects both the balance sheet and cost of goods sold. </p> <div class=\"formula-box\"> Beginning Inventory + Purchases − Ending Inventory = Cost of Goods Sold </div> <div class=\"example-box\"> <h3>Ending inventory understated</h3> <p> Suppose ending inventory is understated by <strong>$20,000</strong>. </p> <p> Because ending inventory is subtracted when calculating cost of goods sold, subtracting too little inventory causes cost of goods sold to be too high. </p> <div class=\"key-points\"> <ul> <li> Ending inventory → understated </li> <li> Cost of goods sold → overstated </li> <li> Net income → understated </li> <li> Retained earnings → understated </li> </ul> </div> </div> <div class=\"key-points\"> <h3>CPA shortcut</h3> <p> Ending inventory and net income generally move in the <strong>same direction</strong>. </p> <p> Ending inventory and cost of goods sold generally move in <strong>opposite directions</strong>. </p> </div> <h2> Counterbalancing errors </h2> <p> Some errors reverse or counterbalance automatically over two periods if they remain uncorrected. </p> <p> Certain inventory errors are classic examples. </p> <div class=\"example-box\"> <p> If Year 1 ending inventory is understated, Year 2 beginning inventory is also understated because: </p> <div class=\"formula-box\"> Year 1 Ending Inventory = Year 2 Beginning Inventory </div> <p> The error that understated Year 1 income can therefore create an opposite effect on Year 2 income. </p> </div> <div class=\"key-points\"> <h3>Important</h3> <p> Counterbalancing does not mean the original financial statements were correct. </p> <p> You must still analyze which periods and accounts are misstated when the error is discovered. </p> </div> <h2> Noncounterbalancing errors </h2> <p> Other errors do not completely reverse automatically in the next period. </p> <p> Errors involving depreciation of long-lived assets can affect multiple periods and may require analysis of: </p> <div class=\"key-points\"> <ul> <li> Asset carrying amount </li> <li> Accumulated depreciation </li> <li> Prior depreciation expense </li> <li> Retained earnings </li> </ul> </div> <h2> Worked CPA-style error problem </h2> <p> At the end of Year 1, a company failed to accrue <strong>$18,000 of utilities expense</strong>. </p> <p> The amount remains unpaid when the error is discovered at the beginning of Year 2. Ignore income taxes. </p> <h3> Step 1 — Analyze Year 1 expense </h3> <p> Utilities expense was understated by: </p> <div class=\"formula-box\"> $18,000 </div> <h3> Step 2 — Analyze Year 1 income </h3> <p> Because expense was understated, Year 1 net income was: </p> <div class=\"formula-box\"> Overstated by $18,000 </div> <h3> Step 3 — Analyze Year 2 beginning retained earnings </h3> <div class=\"formula-box\"> Beginning Retained Earnings Overstated by $18,000 </div> <h3> Step 4 — Analyze liability </h3> <div class=\"formula-box\"> Utilities Payable Understated by $18,000 </div> <h3> Step 5 — Correct the balances </h3> <div class=\"journal-entry\"> <div class=\"journal-row journal-header\"> <div>Account</div> <div>Debit</div> <div>Credit</div> </div> <div class=\"journal-row\"> <div>Retained Earnings</div> <div>$18,000</div> <div>—</div> </div> <div class=\"journal-row credit-row\"> <div>Utilities Payable</div> <div>—</div> <div>$18,000</div> </div> </div> <h2> Accounting changes versus errors </h2> <div class=\"financial-example\"> <div> <span> New information changes useful life </span> <strong> Estimate Change </strong> </div> <div> <span> Mathematical mistake </span> <strong> Error </strong> </div> <div> <span> Expense accidentally omitted </span> <strong> Error </strong> </div> <div> <span> Reasonable allowance estimate later revised </span> <strong> Estimate Change </strong> </div> <div> <span> GAAP incorrectly applied </span> <strong> Error </strong> </div> </div> <h2> What you should know after this lesson </h2> <div class=\"key-points\"> <ul> <li> Distinguish errors from legitimate changes in estimates. </li> <li> Understand the basic restatement concept for material prior-period errors. </li> <li> Determine how an error affected prior net income. </li> <li> Determine the resulting effect on beginning retained earnings. </li> <li> Prepare basic correcting entries. </li> <li> Analyze capitalization versus expense errors. </li> <li> Analyze the effect of ending-inventory errors. </li> <li> Understand the distinction between counterbalancing and noncounterbalancing errors. </li> </ul> </div>",
+  "quiz": {
+    "id": "far-m1-l8-check",
+    "courseId": "far",
+    "moduleId": 1,
+    "lessonId": "far-m1-l8",
+    "topic": "General review",
+    "prompt": "At the end of the prior year, a company failed to accrue $32,000 of wages expense that remained unpaid when the error was discovered this year. Ignoring income taxes, what effect did the error have on prior-year net income and current-year beginning retained earnings?",
+    "choices": [
+      {
+        "id": "far-m1-l8-check-a0",
+        "text": "Net income understated $32,000; beginning retained earnings understated $32,000"
+      },
+      {
+        "id": "far-m1-l8-check-a1",
+        "text": "Net income overstated $32,000; beginning retained earnings overstated $32,000"
+      },
+      {
+        "id": "far-m1-l8-check-a2",
+        "text": "Net income overstated $32,000; beginning retained earnings understated $32,000"
+      },
+      {
+        "id": "far-m1-l8-check-a3",
+        "text": "No effect on either amount because no cash had been paid"
+      }
+    ],
+    "correctChoiceId": "far-m1-l8-check-a1",
+    "explanation": "Failure to record the $32,000 wage expense understated prior-year expenses and therefore overstated prior-year net income by $32,000. Because prior-period net income closes into retained earnings, current-year beginning retained earnings is also overstated by $32,000.",
+    "difficulty": "foundation",
+    "metadata": {
+      "section": "far",
+      "blueprintYear": 2026,
+      "areaId": "far-III",
+      "groupId": "module-1",
+      "topicId": "far-error-corrections",
+      "taskIds": [
+        "far-error-corrections.task-1",
+        "far-error-corrections.task-2",
+        "far-error-corrections.task-3"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "section": "far",
+    "blueprintYear": 2026,
+    "areaId": "far-III",
+    "groupId": "module-1",
+    "topicId": "far-error-corrections",
+    "taskIds": [
+      "far-error-corrections.task-1",
+      "far-error-corrections.task-2",
+      "far-error-corrections.task-3"
+    ],
+    "skill": "application",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      }
+    ]
+  },
+  "objectives": [
+    "Explain error corrections and its underlying principles.",
+    "Apply the topic to a financial-reporting scenario.",
+    "Evaluate common errors and their financial-statement effects."
+  ]
+}

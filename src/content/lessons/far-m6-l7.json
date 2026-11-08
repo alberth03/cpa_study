@@ -1,0 +1,88 @@
+{
+  "id": "far-m6-l7",
+  "courseId": "far",
+  "moduleId": 6,
+  "number": 7,
+  "title": "Governmental Accounting Final Review",
+  "description": "Review governmental fund reporting, measurement focus, basis of accounting, and government-wide concepts.",
+  "url": "/learn/far/modules/6/lessons/7",
+  "html": "<h2> The Big Governmental Accounting Split </h2> <p> Governmental accounting becomes much easier when you first identify which financial statements you are dealing with. </p> <div class=\"formula-box\"> GOVERNMENT-WIDE STATEMENTS → ECONOMIC RESOURCES + ACCRUAL ACCOUNTING GOVERNMENTAL FUND STATEMENTS → CURRENT FINANCIAL RESOURCES + MODIFIED ACCRUAL </div> <h2> Government-Wide Financial Statements </h2> <p> Government-wide statements provide a broad economic view of governmental and business-type activities. </p> <div class=\"formula-box\"> GOVERNMENT-WIDE: STATEMENT OF NET POSITION STATEMENT OF ACTIVITIES </div> <p> These statements generally include long-term assets and long-term liabilities. </p> <h2> Governmental Fund Statements </h2> <p> Governmental funds focus on current financial resources rather than the government's total economic resources. </p> <div class=\"formula-box\"> GOVERNMENTAL FUND: BALANCE SHEET + STATEMENT OF REVENUES, EXPENDITURES, AND CHANGES IN FUND BALANCES </div> <h2> Governmental Funds </h2> <p> The governmental fund category includes: </p> <div class=\"formula-box\"> GENERAL FUND SPECIAL REVENUE FUNDS CAPITAL PROJECTS FUNDS DEBT SERVICE FUNDS PERMANENT FUNDS </div> <h2> General Fund </h2> <p> The General Fund accounts for resources not required to be reported in another fund. </p> <div class=\"formula-box\"> GENERAL FUND → DEFAULT GOVERNMENTAL FUND </div> <h2> Special Revenue Fund </h2> <p> Special revenue funds generally account for proceeds of specific revenue sources restricted or committed to specified purposes other than debt service or capital projects. </p> <h2> Capital Projects Fund </h2> <p> Capital projects funds generally account for financial resources that are restricted, committed, or assigned for capital outlays, including the acquisition or construction of capital facilities and other capital assets. </p> <h2> Debt Service Fund </h2> <p> Debt service funds generally account for resources accumulated and used for principal and interest payments on general long-term debt. </p> <h2> Permanent Fund </h2> <p> Permanent funds account for resources for which the principal generally must remain intact while earnings may be used for governmental purposes. </p> <h2> Modified Accrual Revenue Recognition </h2> <p> Under modified accrual accounting, governmental fund revenue is generally recognized when it is both: </p> <div class=\"formula-box\"> MEASURABLE + AVAILABLE → RECOGNIZE REVENUE </div> <p> Available generally means collectible soon enough to finance expenditures of the current period. </p> <h2> Example — Property Tax Revenue </h2> <p> Assume a governmental fund levies <strong>$1,000,000</strong> of property taxes. </p> <p> At year-end: </p> <div class=\"example-box\"> <p> Amount measurable: <strong>$1,000,000</strong> </p> <p> Amount considered available: <strong>$940,000</strong> </p> </div> <div class=\"formula-box\"> REVENUE RECOGNIZED = $940,000 </div> <p> The portion not considered available is not recognized as current-period governmental fund revenue merely because it is measurable. </p> <h2> Expenditures vs Expenses </h2> <p> Governmental fund statements report <strong>expenditures</strong>, while government-wide statements report <strong>expenses</strong>. </p> <div class=\"formula-box\"> GOVERNMENTAL FUND → EXPENDITURES GOVERNMENT-WIDE → EXPENSES </div> <h2> Capital Asset Purchase </h2> <p> This is one of the most important governmental accounting differences. </p> <p> Suppose a government purchases equipment for <strong>$300,000</strong>. </p> <div class=\"formula-box\"> GOVERNMENTAL FUND: CAPITAL OUTLAY EXPENDITURE = $300,000 </div> <div class=\"formula-box\"> GOVERNMENT-WIDE: CAPITAL ASSET = $300,000 THEN DEPRECIATE OVER USEFUL LIFE </div> <h2> Long-Term Debt Issuance </h2> <p> Governmental funds generally do not report general long-term debt as a fund liability. </p> <p> Instead, proceeds from issuance of general long-term debt are generally reported as an <strong>other financing source</strong> in the governmental fund. </p> <div class=\"formula-box\"> GOVERNMENTAL FUND: BOND PROCEEDS → OTHER FINANCING SOURCE GOVERNMENT-WIDE: BOND ISSUANCE → LONG-TERM LIABILITY </div> <h2> Example — Bond Issuance </h2> <p> A city issues <strong>$2,000,000</strong> of general obligation bonds. </p> <div class=\"financial-example\"> <div> <span>Governmental Fund</span> <strong> $2,000,000 Other Financing Source </strong> </div> <div> <span>Government-Wide</span> <strong> $2,000,000 Liability </strong> </div> </div> <h2> Debt Principal Payments </h2> <p> In governmental funds, payment of general long-term debt principal is generally reported as an expenditure. </p> <div class=\"formula-box\"> GOVERNMENTAL FUND PRINCIPAL PAYMENT → EXPENDITURE GOVERNMENT-WIDE PRINCIPAL PAYMENT → REDUCE LIABILITY </div> <h2> Interest on Long-Term Debt </h2> <p> Governmental funds generally recognize expenditures for general long-term debt interest when the related obligation becomes due, subject to applicable governmental accounting guidance. </p> <p> Government-wide statements use accrual accounting and recognize interest expense as incurred. </p> <h2> Encumbrances </h2> <p> Encumbrance accounting is a budgetary control mechanism often associated with governmental accounting. </p> <p> A purchase order can create an encumbrance, helping prevent governments from committing resources beyond authorized amounts. </p> <div class=\"formula-box\"> PURCHASE ORDER → ENCUMBRANCE GOODS / SERVICES RECEIVED → REVERSE ENCUMBRANCE + RECORD ACTUAL EXPENDITURE AND LIABILITY </div> <p> An outstanding encumbrance by itself is not the same thing as a recognized expenditure or liability. </p> <h2> Proprietary Funds </h2> <p> Proprietary funds use accounting similar to business enterprises. </p> <div class=\"formula-box\"> PROPRIETARY FUNDS → ECONOMIC RESOURCES + ACCRUAL ACCOUNTING </div> <p> The two major proprietary fund types are: </p> <div class=\"formula-box\"> ENTERPRISE FUND INTERNAL SERVICE FUND </div> <h2> Enterprise Funds </h2> <p> Enterprise funds generally report activities financed primarily through charges to external users for goods or services. </p> <div class=\"formula-box\"> COMMON EXAMPLES: WATER UTILITY PUBLIC TRANSIT SYSTEM MUNICIPAL AIRPORT </div> <h2> Internal Service Funds </h2> <p> Internal service funds generally account for goods or services provided primarily to other departments or agencies of the same government. </p> <h2> Fiduciary Activities </h2> <p> Fiduciary activities involve resources the government holds for others and that meet the applicable fiduciary criteria. </p> <p> Fiduciary funds use: </p> <div class=\"formula-box\"> ECONOMIC RESOURCES + ACCRUAL ACCOUNTING </div> <p> Fiduciary activities generally are not included in government-wide governmental or business-type activities because those resources are held for others. </p> <h2> Government-Wide Classification </h2> <div class=\"formula-box\"> GOVERNMENTAL ACTIVITIES + BUSINESS-TYPE ACTIVITIES </div> <p> Fiduciary activities are excluded from these government-wide activity columns. </p> <h2> Fund Balance Categories </h2> <p> Governmental fund balance may be classified into several categories based on the nature of constraints placed on the resources. </p> <div class=\"formula-box\"> NONSPENDABLE RESTRICTED COMMITTED ASSIGNED UNASSIGNED </div> <h2> Nonspendable </h2> <p> Resources are nonspendable when they cannot be spent because of their form or because they are legally or contractually required to remain intact. </p> <h2> Restricted </h2> <p> Restricted fund balance results from externally enforceable constraints or qualifying legal restrictions. </p> <h2> Committed </h2> <p> Committed amounts are constrained for a specific purpose by the government's highest level of decision-making authority. </p> <h2> Assigned </h2> <p> Assigned amounts represent intended uses of resources that do not meet the stricter criteria for restricted or committed classification. </p> <h2> Unassigned </h2> <p> Unassigned fund balance generally represents residual spendable resources available for purposes not otherwise constrained. </p> <h2> Reconciliation Is Critical </h2> <p> Governmental fund statements and government-wide statements use different measurement focuses and bases of accounting. </p> <p> Therefore, reconciliation is required. </p> <div class=\"formula-box\"> GOVERNMENTAL FUND BALANCE + CAPITAL ASSETS − ACCUMULATED DEPRECIATION − LONG-TERM LIABILITIES ± OTHER CONVERSION ITEMS = GOVERNMENTAL ACTIVITIES NET POSITION </div> <h2> Example — Simple Reconciliation </h2> <div class=\"example-box\"> <p> Governmental fund balance: <strong>$900,000</strong> </p> <p> Capital assets, net: <strong>$2,400,000</strong> </p> <p> General long-term debt: <strong>$1,500,000</strong> </p> </div> <div class=\"formula-box\"> $900,000 + $2,400,000 − $1,500,000 = $1,800,000 GOVERNMENTAL ACTIVITIES NET POSITION </div> <h2> Conversion Logic </h2> <div class=\"formula-box\"> FUND STATEMENTS DO NOT REPORT GENERAL CAPITAL ASSETS → ADD THEM FUND STATEMENTS DO NOT REPORT GENERAL LONG-TERM LIABILITIES → SUBTRACT THEM </div> <h2> Capital Outlay Conversion </h2> <p> A governmental fund reports the entire cost of a capital asset as an expenditure. </p> <p> At the government-wide level, however, the asset is capitalized and depreciation expense is recognized over time. </p> <div class=\"formula-box\"> FUND EXPENDITURE → REMOVE FOR GOVERNMENT-WIDE PURPOSES CAPITALIZE ASSET + RECOGNIZE DEPRECIATION </div> <h2> Bond Proceeds Conversion </h2> <p> Governmental fund bond proceeds are other financing sources. </p> <p> At the government-wide level, issuing debt does not create revenue. </p> <div class=\"formula-box\"> REMOVE OTHER FINANCING SOURCE + RECORD LIABILITY </div> <h2> FAR Governmental Strategy </h2> <div class=\"formula-box\"> FIRST QUESTION: FUND LEVEL OR GOVERNMENT-WIDE? THEN ASK: WHAT MEASUREMENT FOCUS? WHAT BASIS OF ACCOUNTING? REVENUE OR OTHER FINANCING SOURCE? EXPENDITURE OR EXPENSE? CAPITAL ASSET REPORTED? LONG-TERM DEBT REPORTED? </div> <div class=\"key-points\"> <h3> Key Takeaways </h3> <ul> <li> Governmental funds use the current financial resources measurement focus and modified accrual accounting. </li> <li> Government-wide statements use the economic resources measurement focus and accrual accounting. </li> <li> Governmental fund revenue generally must be measurable and available. </li> <li> General capital asset purchases are expenditures at the governmental fund level but assets at the government-wide level. </li> <li> General long-term bond proceeds are generally other financing sources in governmental funds but liabilities at the government-wide level. </li> <li> Proprietary and fiduciary funds use accrual accounting and an economic resources measurement focus. </li> <li> Encumbrances help control spending but are not automatically liabilities or expenditures. </li> <li> Reconciliations explain the differences between governmental fund reporting and government-wide reporting. </li> </ul> </div>",
+  "quiz": {
+    "id": "far-m6-l7-check",
+    "courseId": "far",
+    "moduleId": 6,
+    "lessonId": "far-m6-l7",
+    "topic": "General review",
+    "prompt": "A city issues $2,000,000 of general obligation bonds to finance construction of a public building. How should the bond proceeds generally be reported in the city's governmental fund statements?",
+    "choices": [
+      {
+        "id": "far-m6-l7-check-a0",
+        "text": "As revenue"
+      },
+      {
+        "id": "far-m6-l7-check-a1",
+        "text": "As a long-term liability"
+      },
+      {
+        "id": "far-m6-l7-check-a2",
+        "text": "As an expenditure"
+      },
+      {
+        "id": "far-m6-l7-check-a3",
+        "text": "As an other financing source"
+      }
+    ],
+    "correctChoiceId": "far-m6-l7-check-a3",
+    "explanation": "Governmental funds focus on current financial resources and generally do not report general long-term debt as a fund liability. Proceeds from issuing general long-term debt are generally reported as an other financing source. At the government-wide level, the bonds are reported as a liability.",
+    "difficulty": "foundation",
+    "metadata": {
+      "section": "far",
+      "blueprintYear": 2026,
+      "areaId": "far-I",
+      "groupId": "module-6",
+      "topicId": "far-governmental-accounting-final-review",
+      "taskIds": [
+        "far-governmental-accounting-final-review.task-1",
+        "far-governmental-accounting-final-review.task-2",
+        "far-governmental-accounting-final-review.task-3"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "section": "far",
+    "blueprintYear": 2026,
+    "areaId": "far-I",
+    "groupId": "module-6",
+    "topicId": "far-governmental-accounting-final-review",
+    "taskIds": [
+      "far-governmental-accounting-final-review.task-1",
+      "far-governmental-accounting-final-review.task-2",
+      "far-governmental-accounting-final-review.task-3"
+    ],
+    "skill": "application",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      }
+    ]
+  },
+  "objectives": [
+    "Explain governmental accounting final review and its underlying principles.",
+    "Apply the topic to a financial-reporting scenario.",
+    "Evaluate common errors and their financial-statement effects."
+  ]
+}

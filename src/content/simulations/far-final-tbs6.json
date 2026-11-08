@@ -1,0 +1,74 @@
+{
+  "id": "far-final-tbs6",
+  "moduleId": 0,
+  "number": 6,
+  "title": "FAR Final TBS Assessment",
+  "fields": [
+    {
+      "id": "far-final-tbs6-depreciation",
+      "label": "Item 1 — Year 3 Depreciation Expense",
+      "type": "number",
+      "options": [],
+      "legacyKey": "depreciation",
+      "correct": 30000
+    },
+    {
+      "id": "far-final-tbs6-retained-earnings",
+      "label": "Enter the amount by which beginning retained earnings in Year 3 should increase.",
+      "type": "number",
+      "options": [],
+      "legacyKey": "retainedEarnings",
+      "correct": 25000
+    },
+    {
+      "id": "far-final-tbs6-bankruptcy",
+      "label": "Item 3 — Loss Recognized at December 31",
+      "type": "number",
+      "options": [],
+      "legacyKey": "bankruptcy",
+      "correct": 50000
+    },
+    {
+      "id": "far-final-tbs6-fire",
+      "label": "Enter zero if no loss should be recognized in the December 31 financial statements.",
+      "type": "number",
+      "options": [],
+      "legacyKey": "fire",
+      "correct": 0
+    },
+    {
+      "id": "far-final-tbs6-net-income",
+      "label": "Enter a net decrease as a negative number.",
+      "type": "number",
+      "options": [],
+      "legacyKey": "netIncome",
+      "correct": -40000
+    }
+  ],
+  "html": "<section class=\"exam-page\"> <div class=\"course-intro-card\"> <span class=\"exam-badge\"> TBS 6 OF 7 </span> <h2> Accounting Changes, Errors &amp; Subsequent Events </h2> <p> Analyze the following independent year-end matters and determine the required financial statement effects. </p> </div> <div class=\"course-intro-card\"> <h3> Part A — Change in Accounting Estimate </h3> <p> Equipment was purchased for <strong>$280,000</strong> on January 1, Year 1. </p> <p> The equipment originally had a <strong>6-year useful life</strong> and a <strong>$40,000 residual value</strong>. </p> <p> Straight-line depreciation is used. </p> <p> At the beginning of Year 3, after two full years of depreciation, management revises the asset's <strong>total useful life to 8 years</strong> and its residual value to <strong>$20,000</strong>. </p> </div> <div class=\"course-intro-card\"> <h3> Item 1 — Year 3 Depreciation Expense </h3> <input id=\"far-final-tbs6-depreciation\" type=\"number\" placeholder=\"Enter amount\" value=\"\"> </div> <div class=\"course-intro-card\"> <h3> Part B — Prior-Period Inventory Error </h3> <p> After the Year 2 financial statements were issued, the company discovers that Year 2 ending inventory was <strong>understated by $25,000</strong>. </p> <p> Ignore income taxes. </p> </div> <div class=\"course-intro-card\"> <h3> Item 2 — Beginning Retained Earnings Adjustment </h3> <p> Enter the amount by which beginning retained earnings in Year 3 should increase. </p> <input id=\"far-final-tbs6-retained-earnings\" type=\"number\" placeholder=\"Enter amount\" value=\"\"> </div> <div class=\"course-intro-card\"> <h3> Part C — Customer Bankruptcy After Year-End </h3> <p> At December 31, the company has an Accounts Receivable balance of <strong>$60,000</strong> from a major customer. </p> <p> In January, before the financial statements are issued, the customer files for bankruptcy. </p> <p> The bankruptcy confirms severe financial difficulties that already existed at December 31. </p> <p> The company now expects to collect only <strong>$10,000</strong>. </p> </div> <div class=\"course-intro-card\"> <h3> Item 3 — Loss Recognized at December 31 </h3> <input id=\"far-final-tbs6-bankruptcy\" type=\"number\" placeholder=\"Enter amount\" value=\"\"> </div> <div class=\"course-intro-card\"> <h3> Part D — Fire After Year-End </h3> <p> On January 20, before the financial statements are issued, a warehouse is destroyed by a fire. </p> <p> The fire resulted from an event that occurred entirely after December 31. </p> <p> The uninsured loss is <strong>$200,000</strong>. </p> </div> <div class=\"course-intro-card\"> <h3> Item 4 — Loss Recognized in December 31 Financial Statements </h3> <p> Enter zero if no loss should be recognized in the December 31 financial statements. </p> <input id=\"far-final-tbs6-fire\" type=\"number\" placeholder=\"Enter amount\" value=\"\"> </div> <div class=\"course-intro-card\"> <h3> Item 5 — Combined Effect on Year 3 Net Income </h3> <p> Consider only: </p> <ul> <li> the change in depreciation estimate from Part A, </li> <li> the customer bankruptcy adjustment from Part C, and </li> <li> the warehouse fire from Part D. </li> </ul> <p> Compare Year 3 net income with the amount that would have been reported if the original depreciation estimate had continued and neither subsequent event had been considered. </p> <p> Enter a net decrease as a negative number. </p> <input id=\"far-final-tbs6-net-income\" type=\"number\" placeholder=\"Enter amount\" value=\"\"> </div> </section>",
+  "explanation": "<h3>Year 3 Depreciation Expense</h3><p>Original annual depreciation is $40,000: ($280,000 cost - $40,000 residual value) ÷ 6 years. After two years, carrying amount is $200,000. The revised estimate leaves six years remaining and a $20,000 residual value. Year 3 depreciation is ($200,000 - $20,000) ÷ 6 = $30,000.</p><h3>Beginning Retained Earnings Adjustment</h3><p>The prior-year ending inventory was understated by $25,000, which understated prior-year income and ending retained earnings by $25,000. Correcting the prior-period error therefore increases beginning Year 3 retained earnings by $25,000, ignoring taxes.</p><h3>Recognized Bankruptcy Loss</h3><p>The customer's January bankruptcy provides additional evidence about conditions that existed at December 31. Because only $10,000 of the $60,000 receivable is expected to be collected, a $50,000 loss must be recognized in the December 31 financial statements.</p><h3>December 31 Recognized Fire Loss</h3><p>The warehouse fire occurred after year-end and resulted from conditions arising after December 31. It is a nonrecognized subsequent event. Therefore, the December 31 recognized loss is $0, although disclosure may be required if the event is material.</p><h3>Combined Year 3 Net Income Effect</h3><p>The depreciation estimate change reduces depreciation by $10,000 compared with the old estimate, increasing income by $10,000. The bankruptcy adjustment decreases income by $50,000, while the subsequent fire produces no December 31 recognized loss. The net effect is -$40,000.</p>",
+  "courseId": "far",
+  "difficulty": "advanced",
+  "metadata": {
+    "section": "far",
+    "blueprintYear": 2026,
+    "areaId": "far-I",
+    "groupId": "module-6",
+    "topicId": "far-far-exam-strategy-final-comprehensive-review",
+    "taskIds": [
+      "far-far-exam-strategy-final-comprehensive-review.task-1",
+      "far-far-exam-strategy-final-comprehensive-review.task-2",
+      "far-far-exam-strategy-final-comprehensive-review.task-3"
+    ],
+    "skill": "analysis",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      }
+    ]
+  }
+}

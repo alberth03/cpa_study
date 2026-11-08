@@ -1,0 +1,95 @@
+{
+  "id": "reg-m5-tbs2",
+  "courseId": "reg",
+  "moduleId": 5,
+  "number": 2,
+  "title": "Partnership outside-basis schedule",
+  "html": "<div class=\"course-intro-card\"><h2>Partnership outside-basis schedule</h2><p>Prepare a partner’s basis and distribution analysis using the stated allocation facts.</p></div><section class=\"quiz-card\"><h3>Required responses</h3><div class=\"tbs-question\"><label for=\"reg-m5-tbs2-f1\">Basis before liability increase and distribution</label><input id=\"reg-m5-tbs2-f1\" type=\"text\"></div><div class=\"tbs-question\"><label for=\"reg-m5-tbs2-f2\">Basis immediately before distribution</label><input id=\"reg-m5-tbs2-f2\" type=\"text\"></div><div class=\"tbs-question\"><label for=\"reg-m5-tbs2-f3\">Gain on the cash distribution</label><input id=\"reg-m5-tbs2-f3\" type=\"text\"></div><div class=\"tbs-question\"><label for=\"reg-m5-tbs2-f4\">Remaining outside basis</label><input id=\"reg-m5-tbs2-f4\" type=\"text\"></div></section>",
+  "metadata": {
+    "section": "reg",
+    "blueprintYear": 2026,
+    "areaId": "reg-V",
+    "groupId": "D",
+    "topicId": "reg-entity-partnerships",
+    "taskIds": [
+      "reg-entity-partnerships.task-1",
+      "reg-entity-partnerships.task-2",
+      "reg-entity-partnerships.task-3"
+    ],
+    "skill": "analysis",
+    "validFrom": "2026-07-01",
+    "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      },
+      {
+        "title": "Internal Revenue Code",
+        "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+      },
+      {
+        "title": "IRS tax publications",
+        "url": "https://www.irs.gov/publications"
+      },
+      {
+        "title": "Circular 230",
+        "url": "https://www.irs.gov/tax-professionals/circular-230-tax-professionals"
+      }
+    ]
+  },
+  "difficulty": "advanced",
+  "fields": [
+    {
+      "id": "reg-m5-tbs2-f1",
+      "label": "Basis before liability increase and distribution",
+      "type": "number",
+      "options": [],
+      "correct": 62000,
+      "explanation": "$40,000 + $10,000 + $12,000 = $62,000.",
+      "topicId": "reg-entity-partnerships"
+    },
+    {
+      "id": "reg-m5-tbs2-f2",
+      "label": "Basis immediately before distribution",
+      "type": "number",
+      "options": [],
+      "correct": 70000,
+      "explanation": "Add the $8,000 liability-share increase.",
+      "topicId": "reg-entity-partnerships"
+    },
+    {
+      "id": "reg-m5-tbs2-f3",
+      "label": "Gain on the cash distribution",
+      "type": "number",
+      "options": [],
+      "correct": 5000,
+      "explanation": "$75,000 cash exceeds $70,000 outside basis by $5,000.",
+      "topicId": "reg-entity-partnerships"
+    },
+    {
+      "id": "reg-m5-tbs2-f4",
+      "label": "Remaining outside basis",
+      "type": "number",
+      "options": [],
+      "correct": 0,
+      "explanation": "The distribution reduces basis to zero; the excess is gain rather than negative basis.",
+      "topicId": "reg-entity-partnerships"
+    }
+  ],
+  "exhibits": [
+    {
+      "id": "reg-m5-tbs2-ex1",
+      "title": "Basis changes",
+      "html": "<p>Beginning outside basis $40,000; cash contribution $10,000; allocated ordinary income $12,000; increase in allocated liability share $8,000.</p>"
+    },
+    {
+      "id": "reg-m5-tbs2-ex2",
+      "title": "Distribution",
+      "html": "<p>The partner then receives $75,000 cash. No other changes or special rules apply. Evaluate distribution gain after the preceding basis increases.</p>"
+    }
+  ],
+  "explanation": "<h3>Basis before liability increase and distribution</h3><p>$40,000 + $10,000 + $12,000 = $62,000.</p><h3>Basis immediately before distribution</h3><p>Add the $8,000 liability-share increase.</p><h3>Gain on the cash distribution</h3><p>$75,000 cash exceeds $70,000 outside basis by $5,000.</p><h3>Remaining outside basis</h3><p>The distribution reduces basis to zero; the excess is gain rather than negative basis.</p>"
+}

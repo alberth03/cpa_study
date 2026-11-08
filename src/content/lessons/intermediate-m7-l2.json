@@ -1,0 +1,88 @@
+{
+  "id": "intermediate-m7-l2",
+  "courseId": "intermediate",
+  "moduleId": 7,
+  "number": 2,
+  "title": "Finance vs Operating Leases",
+  "description": "Learn the major criteria used to classify leases and understand why classification matters.",
+  "url": "/learn/intermediate/modules/7/lessons/2",
+  "html": "<h2>Lessee lease classification</h2> <p> Under U.S. GAAP, a lessee generally classifies a lease as either a finance lease or an operating lease. </p> <h2>Finance lease indicators</h2> <p> A lease is classified as a finance lease when it meets one or more of the applicable classification criteria. </p> <div class=\"key-points\"> <ol> <li> Ownership of the underlying asset transfers to the lessee by the end of the lease. </li> <li> The lessee has a purchase option that is reasonably certain to be exercised. </li> <li> The lease term is for a major part of the remaining economic life of the asset. </li> <li> The present value of lease payments plus certain residual value guarantees equals or exceeds substantially all of the asset's fair value. </li> <li> The asset is so specialized that it is expected to have no alternative use to the lessor at the end of the lease term. </li> </ol> </div> <h2>If none of those criteria are met</h2> <p> The lessee generally classifies the lease as an <strong>operating lease</strong>. </p> <div class=\"comparison-grid\"> <div class=\"comparison-card\"> <h3>Finance Lease</h3> <p> Meets at least one applicable finance lease classification criterion. </p> </div> <div class=\"comparison-card\"> <h3>Operating Lease</h3> <p> Does not meet the finance lease classification criteria. </p> </div> </div> <h2>Don't memorize fake bright-line rules</h2> <p> You may encounter old study material referring mechanically to rules such as 75% of economic life or 90% of fair value. </p> <p> Current U.S. GAAP uses principles such as <strong>major part</strong> and <strong>substantially all</strong>. </p> <div class=\"key-points\"> <h3>CPA habit</h3> <p> Look at the facts of the lease and evaluate the classification criteria rather than blindly applying an outdated numerical rule. </p> </div>",
+  "quiz": {
+    "id": "intermediate-m7-l2-check",
+    "courseId": "intermediate",
+    "moduleId": 7,
+    "lessonId": "intermediate-m7-l2",
+    "topic": "General review",
+    "prompt": "A lease transfers ownership of the underlying asset to the lessee at the end of the lease term. From the lessee's perspective, this is an indicator of:",
+    "choices": [
+      {
+        "id": "intermediate-m7-l2-check-a0",
+        "text": "Finance lease classification"
+      },
+      {
+        "id": "intermediate-m7-l2-check-a1",
+        "text": "Operating lease classification only"
+      },
+      {
+        "id": "intermediate-m7-l2-check-a2",
+        "text": "Accounts receivable"
+      },
+      {
+        "id": "intermediate-m7-l2-check-a3",
+        "text": "Revenue recognition"
+      }
+    ],
+    "correctChoiceId": "intermediate-m7-l2-check-a0",
+    "explanation": "Transfer of ownership by the end of the lease term is one of the finance lease classification criteria.",
+    "difficulty": "foundation",
+    "metadata": {
+      "section": "intermediate",
+      "blueprintYear": 2026,
+      "areaId": "intermediate-I",
+      "groupId": "module-7",
+      "topicId": "intermediate-finance-vs-operating-leases",
+      "taskIds": [
+        "intermediate-finance-vs-operating-leases.task-1",
+        "intermediate-finance-vs-operating-leases.task-2",
+        "intermediate-finance-vs-operating-leases.task-3"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "section": "intermediate",
+    "blueprintYear": 2026,
+    "areaId": "intermediate-I",
+    "groupId": "module-7",
+    "topicId": "intermediate-finance-vs-operating-leases",
+    "taskIds": [
+      "intermediate-finance-vs-operating-leases.task-1",
+      "intermediate-finance-vs-operating-leases.task-2",
+      "intermediate-finance-vs-operating-leases.task-3"
+    ],
+    "skill": "application",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      }
+    ]
+  },
+  "objectives": [
+    "Explain finance vs operating leases and its underlying principles.",
+    "Apply the topic to a financial-reporting scenario.",
+    "Evaluate common errors and their financial-statement effects."
+  ]
+}

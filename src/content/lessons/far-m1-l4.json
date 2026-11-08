@@ -1,0 +1,88 @@
+{
+  "id": "far-m1-l4",
+  "courseId": "far",
+  "moduleId": 1,
+  "number": 4,
+  "title": "Statement of Cash Flows",
+  "description": "Classify cash flows and prepare operating activities using the direct and indirect methods.",
+  "url": "/learn/far/modules/1/lessons/4",
+  "html": "<h2> Purpose of the statement of cash flows </h2> <p> The statement of cash flows explains how cash and cash equivalents changed during the reporting period. </p> <p> Unlike the income statement, which is based primarily on accrual accounting, the statement of cash flows focuses on actual cash inflows and cash outflows. </p> <div class=\"formula-box\"> Beginning Cash + Net Change in Cash = Ending Cash </div> <div class=\"key-points\"> <h3>CPA mindset</h3> <p> For every cash transaction, ask: </p> <ol> <li> Did cash actually change? </li> <li> If yes, is the cash flow operating, investing or financing? </li> <li> If operating, is the question using the direct or indirect method? </li> <li> Is there a significant noncash investing or financing transaction that must be disclosed separately? </li> </ol> </div> <h2> The three classifications </h2> <div class=\"statement-grid\"> <div class=\"statement-card\"> <h3> Operating Activities </h3> <p> Cash flows associated primarily with transactions and events that enter into the determination of net income, subject to specific classification rules. </p> </div> <div class=\"statement-card\"> <h3> Investing Activities </h3> <p> Cash flows involving many acquisitions and disposals of long-term assets and investments, as well as certain loans. </p> </div> <div class=\"statement-card\"> <h3> Financing Activities </h3> <p> Cash flows involving transactions with owners and creditors that provide or return financing to the entity. </p> </div> </div> <h2> Operating activities </h2> <div class=\"key-points\"> <h3>Common operating cash flows</h3> <ul> <li> Cash collected from customers </li> <li> Cash paid to suppliers </li> <li> Cash paid to employees </li> <li> Cash paid for many operating expenses </li> <li> Interest received under U.S. GAAP </li> <li> Interest paid under U.S. GAAP </li> <li> Dividends received under U.S. GAAP </li> <li> Income taxes paid, generally </li> </ul> </div> <div class=\"key-points\"> <h3>CPA trap</h3> <p> Under U.S. GAAP, interest paid is generally an operating cash flow even though borrowing the principal itself is a financing activity. </p> </div> <h2> Investing activities </h2> <div class=\"key-points\"> <h3>Common investing cash flows</h3> <ul> <li> Purchase of property, plant and equipment </li> <li> Cash received from sale of property, plant and equipment </li> <li> Purchase of many investments </li> <li> Cash received from sale or maturity of many investments </li> <li> Making loans to other entities </li> <li> Collecting principal on those loans </li> </ul> </div> <h2> Financing activities </h2> <div class=\"key-points\"> <h3>Common financing cash flows</h3> <ul> <li> Issuing common or preferred stock for cash </li> <li> Borrowing cash through debt </li> <li> Repaying debt principal </li> <li> Repurchasing the entity's own stock </li> <li> Paying cash dividends to shareholders under U.S. GAAP </li> </ul> </div> <div class=\"key-points\"> <h3>Memorize this distinction</h3> <p> Under U.S. GAAP: </p> <ul> <li> Interest paid → Operating </li> <li> Dividends paid → Financing </li> <li> Interest received → Operating </li> <li> Dividends received → Operating </li> </ul> </div> <h2> Classification example </h2> <div class=\"financial-example\"> <div> <span>Cash received from customers</span> <strong>Operating</strong> </div> <div> <span>Purchase equipment for cash</span> <strong>Investing</strong> </div> <div> <span>Issue bonds for cash</span> <strong>Financing</strong> </div> <div> <span>Pay bond principal</span> <strong>Financing</strong> </div> <div> <span>Pay interest on bonds</span> <strong>Operating</strong> </div> <div> <span>Pay cash dividend</span> <strong>Financing</strong> </div> </div> <h2> Direct versus indirect method </h2> <p> The direct and indirect methods differ in how operating cash flows are presented. </p> <p> The investing and financing sections are not changed merely because a company uses a different operating-section method. </p> <div class=\"comparison-grid\"> <div class=\"comparison-card\"> <h3> Direct Method </h3> <p> Presents major classes of gross operating cash receipts and payments. </p> </div> <div class=\"comparison-card\"> <h3> Indirect Method </h3> <p> Begins with net income and reconciles it to net cash provided by operating activities. </p> </div> </div> <h2> Indirect method </h2> <p> This method is heavily calculation-oriented. </p> <div class=\"formula-box\"> Net Income ± Noncash Items ± Gains and Losses ± Changes in Operating Assets and Liabilities = Net Cash Provided by Operating Activities </div> <h2> Noncash expenses </h2> <p> A noncash expense may reduce net income without reducing cash during the period. </p> <p> Under the indirect method, such amounts generally need to be reconciled back. </p> <div class=\"example-box\"> <h3>Depreciation example</h3> <p> Net income includes <strong>$30,000 depreciation expense</strong>. </p> <p> Depreciation reduced net income but did not itself use $30,000 of current-period cash. </p> <div class=\"formula-box\"> Add back $30,000 </div> </div> <h2> Gains and losses </h2> <p> A gain or loss included in net income can require an adjustment when the related cash transaction belongs in another section. </p> <div class=\"example-box\"> <h3>Equipment sale</h3> <p> Equipment is sold for cash and a <strong>$10,000 gain</strong> is included in net income. </p> <p> The cash proceeds from selling the equipment are generally reported as an investing cash inflow. </p> <p> Under the indirect method, the gain included in net income is therefore subtracted in reconciling net income to operating cash flow. </p> <div class=\"formula-box\"> Gain → Subtract </div> </div> <div class=\"key-points\"> <h3>Useful pattern</h3> <p> Under the indirect method: </p> <ul> <li> Gain included in net income → generally subtract </li> <li> Loss included in net income → generally add back </li> </ul> </div> <h2> Changes in operating assets </h2> <div class=\"comparison-grid\"> <div class=\"comparison-card\"> <h3> Operating Asset Increases </h3> <p> Generally subtract. </p> </div> <div class=\"comparison-card\"> <h3> Operating Asset Decreases </h3> <p> Generally add. </p> </div> </div> <div class=\"example-box\"> <h3>Accounts receivable</h3> <p> Accounts Receivable increases by <strong>$20,000</strong>. </p> <p> This generally indicates that recognized revenue exceeded cash collected from customers by $20,000. </p> <div class=\"formula-box\"> Increase in A/R → Subtract $20,000 </div> </div> <h2> Changes in operating liabilities </h2> <div class=\"comparison-grid\"> <div class=\"comparison-card\"> <h3> Operating Liability Increases </h3> <p> Generally add. </p> </div> <div class=\"comparison-card\"> <h3> Operating Liability Decreases </h3> <p> Generally subtract. </p> </div> </div> <div class=\"example-box\"> <h3>Accounts payable</h3> <p> Accounts Payable increases by <strong>$15,000</strong>. </p> <p> This generally means some expenses or purchases recognized during the period have not yet resulted in cash payments. </p> <div class=\"formula-box\"> Increase in A/P → Add $15,000 </div> </div> <h2> Indirect-method shortcut </h2> <div class=\"key-points\"> <ul> <li> Current operating asset ↑ → subtract </li> <li> Current operating asset ↓ → add </li> <li> Current operating liability ↑ → add </li> <li> Current operating liability ↓ → subtract </li> </ul> </div> <p> Treat this as a reasoning shortcut, not a substitute for understanding the underlying transaction. </p> <h2> Full indirect-method example </h2> <p> Assume: </p> <div class=\"financial-example\"> <div> <span>Net Income</span> <strong>$180,000</strong> </div> <div> <span>Depreciation Expense</span> <strong>$25,000</strong> </div> <div> <span>Gain on Sale of Equipment</span> <strong>$8,000</strong> </div> <div> <span>Increase in Accounts Receivable</span> <strong>$12,000</strong> </div> <div> <span>Decrease in Inventory</span> <strong>$6,000</strong> </div> <div> <span>Increase in Accounts Payable</span> <strong>$9,000</strong> </div> </div> <h3> Start with net income </h3> <div class=\"formula-box\"> $180,000 </div> <h3> Add depreciation </h3> <div class=\"formula-box\"> $180,000 + $25,000 = $205,000 </div> <h3> Subtract gain </h3> <div class=\"formula-box\"> $205,000 − $8,000 = $197,000 </div> <h3> Subtract increase in A/R </h3> <div class=\"formula-box\"> $197,000 − $12,000 = $185,000 </div> <h3> Add decrease in inventory </h3> <div class=\"formula-box\"> $185,000 + $6,000 = $191,000 </div> <h3> Add increase in A/P </h3> <div class=\"formula-box\"> $191,000 + $9,000 = $200,000 </div> <p> Net cash provided by operating activities: <strong>$200,000</strong>. </p> <h2> Direct-method calculations </h2> <p> Under the direct method, you may need to convert accrual-basis amounts into actual cash receipts and cash payments. </p> <div class=\"example-box\"> <h3>Cash collected from customers</h3> <p> Sales revenue: <strong>$500,000</strong> </p> <p> Accounts Receivable increased by: <strong>$30,000</strong> </p> <p> Because receivables increased, some revenue has not yet been collected. </p> <div class=\"formula-box\"> Cash Collected = $500,000 − $30,000 = $470,000 </div> </div> <h2> Noncash investing and financing activities </h2> <p> Some important transactions affect investing or financing accounts without causing an immediate cash inflow or outflow. </p> <div class=\"key-points\"> <h3>Examples</h3> <ul> <li> Issuing stock to acquire equipment </li> <li> Acquiring an asset by assuming debt </li> <li> Certain debt-to-equity conversions </li> </ul> </div> <p> Because no cash changed hands, these transactions are not reported as ordinary cash inflows and outflows in the three main sections. </p> <p> Significant noncash investing and financing activities are disclosed separately. </p> <div class=\"key-points\"> <h3>CPA trap</h3> <p> Purchasing $100,000 of equipment by issuing $100,000 of stock does NOT create a $100,000 investing cash outflow and a $100,000 financing cash inflow. </p> <p> Cash never changed. </p> </div> <h2> Statement reconciliation </h2> <p> Ultimately, the operating, investing and financing sections explain the change in cash. </p> <div class=\"formula-box\"> Net Operating Cash Flow + Net Investing Cash Flow + Net Financing Cash Flow = Net Change in Cash </div> <div class=\"example-box\"> <p> Operating cash flow: <strong>$200,000</strong> </p> <p> Investing cash flow: <strong>($140,000)</strong> </p> <p> Financing cash flow: <strong>$25,000</strong> </p> <div class=\"formula-box\"> $200,000 − $140,000 + $25,000 = $85,000 increase in cash </div> </div> <h2> What you should know after this lesson </h2> <div class=\"key-points\"> <ul> <li> Classify cash flows as operating, investing or financing. </li> <li> Know the important U.S. GAAP classifications for interest and dividends. </li> <li> Understand direct versus indirect presentation. </li> <li> Reconcile net income to operating cash flow under the indirect method. </li> <li> Correctly handle changes in operating assets and liabilities. </li> <li> Correctly handle depreciation, gains and losses. </li> <li> Calculate cash collections under the direct method. </li> <li> Identify significant noncash investing and financing activities. </li> </ul> </div>",
+  "quiz": {
+    "id": "far-m1-l4-check",
+    "courseId": "far",
+    "moduleId": 1,
+    "lessonId": "far-m1-l4",
+    "topic": "General review",
+    "prompt": "Using the indirect method, a company reports net income of $150,000, depreciation expense of $20,000, a $6,000 gain on sale of equipment, a $14,000 increase in Accounts Receivable, and a $9,000 increase in Accounts Payable. What is net cash provided by operating activities?",
+    "choices": [
+      {
+        "id": "far-m1-l4-check-a0",
+        "text": "$141,000"
+      },
+      {
+        "id": "far-m1-l4-check-a1",
+        "text": "$159,000"
+      },
+      {
+        "id": "far-m1-l4-check-a2",
+        "text": "$171,000"
+      },
+      {
+        "id": "far-m1-l4-check-a3",
+        "text": "$177,000"
+      }
+    ],
+    "correctChoiceId": "far-m1-l4-check-a1",
+    "explanation": "Start with $150,000 of net income. Add $20,000 depreciation, subtract the $6,000 gain, subtract the $14,000 increase in Accounts Receivable, and add the $9,000 increase in Accounts Payable: $150,000 + $20,000 − $6,000 − $14,000 + $9,000 = $159,000.",
+    "difficulty": "foundation",
+    "metadata": {
+      "section": "far",
+      "blueprintYear": 2026,
+      "areaId": "far-I",
+      "groupId": "module-1",
+      "topicId": "far-statement-of-cash-flows",
+      "taskIds": [
+        "far-statement-of-cash-flows.task-1",
+        "far-statement-of-cash-flows.task-2",
+        "far-statement-of-cash-flows.task-3"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "section": "far",
+    "blueprintYear": 2026,
+    "areaId": "far-I",
+    "groupId": "module-1",
+    "topicId": "far-statement-of-cash-flows",
+    "taskIds": [
+      "far-statement-of-cash-flows.task-1",
+      "far-statement-of-cash-flows.task-2",
+      "far-statement-of-cash-flows.task-3"
+    ],
+    "skill": "application",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      }
+    ]
+  },
+  "objectives": [
+    "Explain statement of cash flows and its underlying principles.",
+    "Apply the topic to a financial-reporting scenario.",
+    "Evaluate common errors and their financial-statement effects."
+  ]
+}

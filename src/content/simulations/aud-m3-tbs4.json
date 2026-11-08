@@ -1,0 +1,158 @@
+{
+  "id": "aud-m3-tbs4",
+  "courseId": "aud",
+  "moduleId": 3,
+  "number": 4,
+  "title": "Evidence evaluation file",
+  "html": "<div class=\"course-intro-card\"><h2>Evidence evaluation file</h2><p>Select the appropriate follow-up for four audit-evidence matters.</p></div><section class=\"quiz-card\"><h3>Required responses</h3><div class=\"tbs-question\"><label for=\"aud-m3-tbs4-f1\">Follow-up for the nonresponse</label><select id=\"aud-m3-tbs4-f1\"><option value=\"Perform suitable alternative procedures\">Perform suitable alternative procedures</option><option value=\"Treat silence as agreement\">Treat silence as agreement</option><option value=\"Accept a controller signature\">Accept a controller signature</option><option value=\"Ignore the selected item\">Ignore the selected item</option></select></div><div class=\"tbs-question\"><label for=\"aud-m3-tbs4-f2\">Follow-up for the forwarded response</label><select id=\"aud-m3-tbs4-f2\"><option value=\"Authenticate source and transmission\">Authenticate source and transmission</option><option value=\"Assume independence\">Assume independence</option><option value=\"Reject every electronic response\">Reject every electronic response</option><option value=\"Ignore the source\">Ignore the source</option></select></div><div class=\"tbs-question\"><label for=\"aud-m3-tbs4-f3\">Assertion implicated by the consignment</label><select id=\"aud-m3-tbs4-f3\"><option value=\"Rights and obligations\">Rights and obligations</option><option value=\"Only audit timing\">Only audit timing</option><option value=\"No assertion\">No assertion</option><option value=\"Only depreciation\">Only depreciation</option></select></div><div class=\"tbs-question\"><label for=\"aud-m3-tbs4-f4\">Follow-up for old bank transfers</label><select id=\"aud-m3-tbs4-f4\"><option value=\"Investigate and support the reconciling items\">Investigate and support the reconciling items</option><option value=\"Rely only on the confirmed bank balance\">Rely only on the confirmed bank balance</option><option value=\"Remove the reconciliation from the file\">Remove the reconciliation from the file</option><option value=\"Assume all transfers are immaterial\">Assume all transfers are immaterial</option></select></div></section>",
+  "metadata": {
+    "section": "aud",
+    "blueprintYear": 2026,
+    "areaId": "aud-III",
+    "groupId": "B-D",
+    "topicId": "aud-audit-evidence",
+    "taskIds": [
+      "aud-audit-evidence.task-1",
+      "aud-audit-evidence.task-2",
+      "aud-audit-evidence.task-3"
+    ],
+    "skill": "analysis",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      },
+      {
+        "title": "AICPA auditing standards",
+        "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+      },
+      {
+        "title": "PCAOB standards",
+        "url": "https://pcaobus.org/oversight/standards"
+      }
+    ]
+  },
+  "difficulty": "advanced",
+  "fields": [
+    {
+      "id": "aud-m3-tbs4-f1",
+      "label": "Follow-up for the nonresponse",
+      "type": "select",
+      "options": [
+        {
+          "value": "Perform suitable alternative procedures",
+          "label": "Perform suitable alternative procedures"
+        },
+        {
+          "value": "Treat silence as agreement",
+          "label": "Treat silence as agreement"
+        },
+        {
+          "value": "Accept a controller signature",
+          "label": "Accept a controller signature"
+        },
+        {
+          "value": "Ignore the selected item",
+          "label": "Ignore the selected item"
+        }
+      ],
+      "correct": "Perform suitable alternative procedures",
+      "explanation": "A positive request requires appropriate evidence rather than silence.",
+      "topicId": "aud-audit-evidence"
+    },
+    {
+      "id": "aud-m3-tbs4-f2",
+      "label": "Follow-up for the forwarded response",
+      "type": "select",
+      "options": [
+        {
+          "value": "Authenticate source and transmission",
+          "label": "Authenticate source and transmission"
+        },
+        {
+          "value": "Assume independence",
+          "label": "Assume independence"
+        },
+        {
+          "value": "Reject every electronic response",
+          "label": "Reject every electronic response"
+        },
+        {
+          "value": "Ignore the source",
+          "label": "Ignore the source"
+        }
+      ],
+      "correct": "Authenticate source and transmission",
+      "explanation": "Reliability must be established in the circumstances.",
+      "topicId": "aud-audit-evidence"
+    },
+    {
+      "id": "aud-m3-tbs4-f3",
+      "label": "Assertion implicated by the consignment",
+      "type": "select",
+      "options": [
+        {
+          "value": "Rights and obligations",
+          "label": "Rights and obligations"
+        },
+        {
+          "value": "Only audit timing",
+          "label": "Only audit timing"
+        },
+        {
+          "value": "No assertion",
+          "label": "No assertion"
+        },
+        {
+          "value": "Only depreciation",
+          "label": "Only depreciation"
+        }
+      ],
+      "correct": "Rights and obligations",
+      "explanation": "Physical custody does not establish ownership.",
+      "topicId": "aud-audit-evidence"
+    },
+    {
+      "id": "aud-m3-tbs4-f4",
+      "label": "Follow-up for old bank transfers",
+      "type": "select",
+      "options": [
+        {
+          "value": "Investigate and support the reconciling items",
+          "label": "Investigate and support the reconciling items"
+        },
+        {
+          "value": "Rely only on the confirmed bank balance",
+          "label": "Rely only on the confirmed bank balance"
+        },
+        {
+          "value": "Remove the reconciliation from the file",
+          "label": "Remove the reconciliation from the file"
+        },
+        {
+          "value": "Assume all transfers are immaterial",
+          "label": "Assume all transfers are immaterial"
+        }
+      ],
+      "correct": "Investigate and support the reconciling items",
+      "explanation": "Unusual reconciling items can affect the book cash balance and cutoff.",
+      "topicId": "aud-audit-evidence"
+    }
+  ],
+  "exhibits": [
+    {
+      "id": "aud-m3-tbs4-ex1",
+      "title": "Evidence received",
+      "html": "<p>A customer did not respond to a positive request. A response was forwarded through management from an unverified address. Goods counted include a clearly identified consignment from another company. A bank confirmation agrees to the bank statement, but the book reconciliation contains unusual old transfers.</p>"
+    },
+    {
+      "id": "aud-m3-tbs4-ex2",
+      "title": "Audit approach",
+      "html": "<p>Evaluate each item’s reliability and assertion implications. No alternative procedure has yet been performed, and the balances are material.</p>"
+    }
+  ],
+  "explanation": "<h3>Follow-up for the nonresponse</h3><p>A positive request requires appropriate evidence rather than silence.</p><h3>Follow-up for the forwarded response</h3><p>Reliability must be established in the circumstances.</p><h3>Assertion implicated by the consignment</h3><p>Physical custody does not establish ownership.</p><h3>Follow-up for old bank transfers</h3><p>Unusual reconciling items can affect the book cash balance and cutoff.</p>"
+}

@@ -1,0 +1,491 @@
+{
+  "id": "intermediate-m5-quiz",
+  "title": "Intermediate Module 5 Quiz",
+  "courseId": "intermediate",
+  "moduleId": 5,
+  "selection": "all",
+  "feedback": "immediate",
+  "passPercent": 80,
+  "questions": [
+    {
+      "id": "intermediate-m5-q1",
+      "courseId": "intermediate",
+      "moduleId": 5,
+      "topic": "Current Liabilities",
+      "prompt": "Employees have earned $9,000 of wages by year-end, but the company will pay them next year. What should be recognized at year-end?",
+      "choices": [
+        {
+          "id": "intermediate-m5-q1-a0",
+          "text": "Debit Cash; Credit Wages Payable"
+        },
+        {
+          "id": "intermediate-m5-q1-a1",
+          "text": "Debit Wages Expense; Credit Wages Payable"
+        },
+        {
+          "id": "intermediate-m5-q1-a2",
+          "text": "Debit Wages Payable; Credit Wages Expense"
+        },
+        {
+          "id": "intermediate-m5-q1-a3",
+          "text": "No entry until cash is paid"
+        }
+      ],
+      "correctChoiceId": "intermediate-m5-q1-a1",
+      "explanation": "The wages were incurred in the current period. Wages Expense is debited and Wages Payable is credited.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "intermediate",
+        "blueprintYear": 2026,
+        "areaId": "intermediate-I",
+        "groupId": "5",
+        "topicId": "intermediate-intermediate-general",
+        "taskIds": [
+          "intermediate-intermediate-general.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "intermediate-m5-q2",
+      "courseId": "intermediate",
+      "moduleId": 5,
+      "topic": "Current Liabilities",
+      "prompt": "A $120,000 note bears 6% annual interest. How much interest accrues over three months?",
+      "choices": [
+        {
+          "id": "intermediate-m5-q2-a0",
+          "text": "$1,800"
+        },
+        {
+          "id": "intermediate-m5-q2-a1",
+          "text": "$3,600"
+        },
+        {
+          "id": "intermediate-m5-q2-a2",
+          "text": "$7,200"
+        },
+        {
+          "id": "intermediate-m5-q2-a3",
+          "text": "$21,600"
+        }
+      ],
+      "correctChoiceId": "intermediate-m5-q2-a0",
+      "explanation": "$120,000 × 6% × 3/12 = $1,800.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "intermediate",
+        "blueprintYear": 2026,
+        "areaId": "intermediate-I",
+        "groupId": "5",
+        "topicId": "intermediate-intermediate-general",
+        "taskIds": [
+          "intermediate-intermediate-general.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "intermediate-m5-q3",
+      "courseId": "intermediate",
+      "moduleId": 5,
+      "topic": "Contingencies",
+      "prompt": "Which two factors are especially important when evaluating a potential loss contingency?",
+      "choices": [
+        {
+          "id": "intermediate-m5-q3-a0",
+          "text": "Revenue and cash balance"
+        },
+        {
+          "id": "intermediate-m5-q3-a1",
+          "text": "Likelihood of loss and ability to estimate the amount"
+        },
+        {
+          "id": "intermediate-m5-q3-a2",
+          "text": "Inventory and accounts receivable"
+        },
+        {
+          "id": "intermediate-m5-q3-a3",
+          "text": "Tax rate and depreciation method"
+        }
+      ],
+      "correctChoiceId": "intermediate-m5-q3-a1",
+      "explanation": "Loss contingency accounting depends heavily on the likelihood of the loss and whether the amount can be reasonably estimated.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "intermediate",
+        "blueprintYear": 2026,
+        "areaId": "intermediate-I",
+        "groupId": "5",
+        "topicId": "intermediate-intermediate-general",
+        "taskIds": [
+          "intermediate-intermediate-general.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "intermediate-m5-q4",
+      "courseId": "intermediate",
+      "moduleId": 5,
+      "topic": "Bond Basics",
+      "prompt": "A $300,000 bond has a 4% annual stated rate and pays interest semiannually. What cash interest is paid every six months?",
+      "choices": [
+        {
+          "id": "intermediate-m5-q4-a0",
+          "text": "$6,000"
+        },
+        {
+          "id": "intermediate-m5-q4-a1",
+          "text": "$12,000"
+        },
+        {
+          "id": "intermediate-m5-q4-a2",
+          "text": "$24,000"
+        },
+        {
+          "id": "intermediate-m5-q4-a3",
+          "text": "$3,000"
+        }
+      ],
+      "correctChoiceId": "intermediate-m5-q4-a0",
+      "explanation": "$300,000 × 4% × 6/12 = $6,000.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "intermediate",
+        "blueprintYear": 2026,
+        "areaId": "intermediate-I",
+        "groupId": "5",
+        "topicId": "intermediate-intermediate-general",
+        "taskIds": [
+          "intermediate-intermediate-general.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "intermediate-m5-q5",
+      "courseId": "intermediate",
+      "moduleId": 5,
+      "topic": "Bond Basics",
+      "prompt": "Which rate determines the contractual cash interest paid to bondholders?",
+      "choices": [
+        {
+          "id": "intermediate-m5-q5-a0",
+          "text": "Market rate"
+        },
+        {
+          "id": "intermediate-m5-q5-a1",
+          "text": "Effective rate"
+        },
+        {
+          "id": "intermediate-m5-q5-a2",
+          "text": "Stated or coupon rate"
+        },
+        {
+          "id": "intermediate-m5-q5-a3",
+          "text": "Prime rate"
+        }
+      ],
+      "correctChoiceId": "intermediate-m5-q5-a2",
+      "explanation": "Cash interest is based on face value multiplied by the stated or coupon rate.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "intermediate",
+        "blueprintYear": 2026,
+        "areaId": "intermediate-I",
+        "groupId": "5",
+        "topicId": "intermediate-intermediate-general",
+        "taskIds": [
+          "intermediate-intermediate-general.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "intermediate-m5-q6",
+      "courseId": "intermediate",
+      "moduleId": 5,
+      "topic": "Premiums & Discounts",
+      "prompt": "A bond's stated rate is 5%, while the market rate at issuance is 7%. The bond will generally issue at:",
+      "choices": [
+        {
+          "id": "intermediate-m5-q6-a0",
+          "text": "A premium"
+        },
+        {
+          "id": "intermediate-m5-q6-a1",
+          "text": "A discount"
+        },
+        {
+          "id": "intermediate-m5-q6-a2",
+          "text": "Exactly face value"
+        },
+        {
+          "id": "intermediate-m5-q6-a3",
+          "text": "Zero carrying amount"
+        }
+      ],
+      "correctChoiceId": "intermediate-m5-q6-a1",
+      "explanation": "Because the bond pays less interest than investors demand, investors generally pay less than face value.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "intermediate",
+        "blueprintYear": 2026,
+        "areaId": "intermediate-I",
+        "groupId": "5",
+        "topicId": "intermediate-intermediate-general",
+        "taskIds": [
+          "intermediate-intermediate-general.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "intermediate-m5-q7",
+      "courseId": "intermediate",
+      "moduleId": 5,
+      "topic": "Premiums & Discounts",
+      "prompt": "A bond issued at a discount will generally have a carrying amount that does what over time as the discount is amortized?",
+      "choices": [
+        {
+          "id": "intermediate-m5-q7-a0",
+          "text": "Decreases toward zero"
+        },
+        {
+          "id": "intermediate-m5-q7-a1",
+          "text": "Increases toward face value"
+        },
+        {
+          "id": "intermediate-m5-q7-a2",
+          "text": "Remains permanently unchanged"
+        },
+        {
+          "id": "intermediate-m5-q7-a3",
+          "text": "Increases above face value"
+        }
+      ],
+      "correctChoiceId": "intermediate-m5-q7-a1",
+      "explanation": "Discount amortization increases the bond's carrying amount toward face value.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "intermediate",
+        "blueprintYear": 2026,
+        "areaId": "intermediate-I",
+        "groupId": "5",
+        "topicId": "intermediate-intermediate-general",
+        "taskIds": [
+          "intermediate-intermediate-general.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "intermediate-m5-q8",
+      "courseId": "intermediate",
+      "moduleId": 5,
+      "topic": "Effective Interest",
+      "prompt": "A bond has a $100,000 face value, a 6% stated annual rate, an 8% effective annual rate, and a beginning carrying amount of $95,000. Assuming annual interest payments, what is interest expense?",
+      "choices": [
+        {
+          "id": "intermediate-m5-q8-a0",
+          "text": "$5,700"
+        },
+        {
+          "id": "intermediate-m5-q8-a1",
+          "text": "$6,000"
+        },
+        {
+          "id": "intermediate-m5-q8-a2",
+          "text": "$7,600"
+        },
+        {
+          "id": "intermediate-m5-q8-a3",
+          "text": "$8,000"
+        }
+      ],
+      "correctChoiceId": "intermediate-m5-q8-a2",
+      "explanation": "Effective-interest expense equals beginning carrying amount × effective rate: $95,000 × 8% = $7,600.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "intermediate",
+        "blueprintYear": 2026,
+        "areaId": "intermediate-I",
+        "groupId": "5",
+        "topicId": "intermediate-intermediate-general",
+        "taskIds": [
+          "intermediate-intermediate-general.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "intermediate-m5-q9",
+      "courseId": "intermediate",
+      "moduleId": 5,
+      "topic": "Effective Interest",
+      "prompt": "Using the same bond: face value $100,000, stated rate 6%, effective rate 8%, and beginning carrying amount $95,000. What is discount amortization for the year?",
+      "choices": [
+        {
+          "id": "intermediate-m5-q9-a0",
+          "text": "$1,600"
+        },
+        {
+          "id": "intermediate-m5-q9-a1",
+          "text": "$6,000"
+        },
+        {
+          "id": "intermediate-m5-q9-a2",
+          "text": "$7,600"
+        },
+        {
+          "id": "intermediate-m5-q9-a3",
+          "text": "$5,000"
+        }
+      ],
+      "correctChoiceId": "intermediate-m5-q9-a0",
+      "explanation": "Interest expense is $7,600 and cash interest is $6,000. The difference, $1,600, is discount amortization.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "intermediate",
+        "blueprintYear": 2026,
+        "areaId": "intermediate-I",
+        "groupId": "5",
+        "topicId": "intermediate-intermediate-general",
+        "taskIds": [
+          "intermediate-intermediate-general.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "intermediate-m5-q10",
+      "courseId": "intermediate",
+      "moduleId": 5,
+      "topic": "Effective Interest",
+      "prompt": "A premium bond has a $100,000 face value, a 10% stated rate, an 8% effective rate, and a beginning carrying amount of $105,000. Assuming annual payments, what is the ending carrying amount after one year?",
+      "choices": [
+        {
+          "id": "intermediate-m5-q10-a0",
+          "text": "$106,600"
+        },
+        {
+          "id": "intermediate-m5-q10-a1",
+          "text": "$105,000"
+        },
+        {
+          "id": "intermediate-m5-q10-a2",
+          "text": "$103,400"
+        },
+        {
+          "id": "intermediate-m5-q10-a3",
+          "text": "$100,000"
+        }
+      ],
+      "correctChoiceId": "intermediate-m5-q10-a2",
+      "explanation": "Cash interest is $10,000. Interest expense is $105,000 × 8% = $8,400. Premium amortization is $1,600, so carrying amount decreases to $103,400.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "intermediate",
+        "blueprintYear": 2026,
+        "areaId": "intermediate-I",
+        "groupId": "5",
+        "topicId": "intermediate-intermediate-general",
+        "taskIds": [
+          "intermediate-intermediate-general.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    }
+  ]
+}

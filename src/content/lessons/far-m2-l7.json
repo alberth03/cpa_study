@@ -1,0 +1,88 @@
+{
+  "id": "far-m2-l7",
+  "courseId": "far",
+  "moduleId": 2,
+  "number": 7,
+  "title": "Long-Term Debt",
+  "description": "Account for bonds and notes payable, premiums, discounts, interest expense, extinguishments and debt presentation.",
+  "url": "/learn/far/modules/2/lessons/7",
+  "html": "<h2> Long-Term Debt </h2> <p> Long-term debt includes obligations that are not classified as current liabilities. For FAR, major topics include bonds payable, notes payable, premiums and discounts, interest expense, effective-interest amortization, debt issuance costs, and extinguishment of debt. </p> <h3> 1. Bonds Payable </h3> <p> Bonds are debt instruments through which an issuer borrows money from investors and agrees to make specified interest and principal payments. </p> <div class=\"key-points\"> <ul> <li> Face value is the principal amount stated on the bond. </li> <li> The stated or coupon rate determines the contractual cash interest payments. </li> <li> The market or effective rate reflects the return demanded by investors when the bonds are issued. </li> <li> The maturity date is when the principal is due. </li> </ul> </div> <h3> 2. Cash Interest </h3> <div class=\"formula-box\"> Cash Interest Paid = Face Value × Stated Interest Rate × Time </div> <div class=\"example-box\"> <h3> Example </h3> <p> $500,000 bonds have a stated annual rate of 6% and pay interest annually. </p> <div class=\"formula-box\"> $500,000 × 6% = <strong>$30,000 annual cash interest</strong> </div> </div> <h3> 3. Bonds Issued at Par </h3> <p> When the stated interest rate equals the market interest rate at issuance, bonds generally sell at face value, or par. </p> <div class=\"formula-box\"> Stated Rate = Market Rate → Bond Issued at Par </div> <h3> 4. Bonds Issued at a Discount </h3> <p> If the stated rate is lower than the market rate, investors generally will not pay full face value. The bonds therefore sell at a discount. </p> <div class=\"formula-box\"> Stated Rate &lt; Market Rate → Discount </div> <div class=\"key-points\"> <p> A bond discount causes the initial carrying amount of the debt to be less than its face value. </p> </div> <h3> 5. Bonds Issued at a Premium </h3> <p> If the stated rate is higher than the market rate, investors are generally willing to pay more than face value. The bonds therefore sell at a premium. </p> <div class=\"formula-box\"> Stated Rate &gt; Market Rate → Premium </div> <div class=\"key-points\"> <p> A bond premium causes the initial carrying amount of the debt to exceed its face value. </p> </div> <h3> 6. Effective-Interest Method </h3> <p> Under the effective-interest method, interest expense is based on the bond's carrying amount and the effective market interest rate. </p> <div class=\"formula-box\"> Interest Expense = Beginning Carrying Amount × Effective Interest Rate × Time </div> <h3> 7. Discount Amortization </h3> <p> For bonds issued at a discount, effective-interest expense is greater than the contractual cash interest payment. </p> <div class=\"formula-box\"> Discount Amortization = Interest Expense − Cash Interest Paid </div> <p> Amortizing the discount increases the bond's carrying amount toward face value as maturity approaches. </p> <div class=\"example-box\"> <h3> Discount Example </h3> <p> Beginning carrying amount: <strong>$470,000</strong> </p> <p> Effective annual rate: <strong>8%</strong> </p> <p> Annual cash interest: <strong>$30,000</strong> </p> <div class=\"formula-box\"> Interest Expense: $470,000 × 8% = $37,600 <br><br> Discount Amortization: $37,600 − $30,000 = <strong>$7,600</strong> <br><br> Ending Carrying Amount: $470,000 + $7,600 = <strong>$477,600</strong> </div> </div> <h3> 8. Premium Amortization </h3> <p> For bonds issued at a premium, contractual cash interest exceeds effective-interest expense. </p> <div class=\"formula-box\"> Premium Amortization = Cash Interest Paid − Interest Expense </div> <p> Amortizing the premium decreases the carrying amount toward face value as maturity approaches. </p> <h3> 9. Notes Payable </h3> <p> Long-term notes payable are generally measured using present-value concepts when appropriate. Interest expense reflects the effective interest rate on the obligation. </p> <p> If a note is issued at an amount different from its face value, the resulting discount or premium is recognized over the life of the note. </p> <h3> 10. Debt Issuance Costs </h3> <p> Under U.S. GAAP, debt issuance costs related to a recognized debt liability are generally presented as a direct deduction from the carrying amount of that debt liability. </p> <p> These costs are generally amortized to interest expense over the term of the debt. </p> <h3> 11. Extinguishment of Debt </h3> <p> When debt is extinguished, the company compares the reacquisition price with the net carrying amount of the debt. </p> <div class=\"formula-box\"> Gain or Loss = Net Carrying Amount of Debt − Reacquisition Price </div> <div class=\"key-points\"> <ul> <li> Reacquisition price below carrying amount generally creates a gain. </li> <li> Reacquisition price above carrying amount generally creates a loss. </li> </ul> </div> <div class=\"example-box\"> <h3> Extinguishment Example </h3> <p> Net carrying amount of debt: <strong>$410,000</strong> </p> <p> Reacquisition price: <strong>$425,000</strong> </p> <div class=\"formula-box\"> $410,000 − $425,000 = <strong>$15,000 loss</strong> </div> </div> <h3> 12. CPA Exam Focus </h3> <div class=\"key-points\"> <ul> <li> Compare the stated rate with the market rate to identify par, discount, or premium. </li> <li> Calculate contractual cash interest using the stated rate. </li> <li> Calculate effective interest expense using carrying amount and the market rate. </li> <li> Discount amortization increases carrying amount. </li> <li> Premium amortization decreases carrying amount. </li> <li> At maturity, carrying amount approaches face value. </li> <li> Know how to calculate a gain or loss when debt is extinguished. </li> </ul> </div>",
+  "quiz": {
+    "id": "far-m2-l7-check",
+    "courseId": "far",
+    "moduleId": 2,
+    "lessonId": "far-m2-l7",
+    "topic": "General review",
+    "prompt": "A bond with a face value of $500,000 and a stated annual interest rate of 6% is issued when the market rate is 8%. How should the bond generally be issued?",
+    "choices": [
+      {
+        "id": "far-m2-l7-check-a0",
+        "text": "At a premium"
+      },
+      {
+        "id": "far-m2-l7-check-a1",
+        "text": "At par"
+      },
+      {
+        "id": "far-m2-l7-check-a2",
+        "text": "At a discount"
+      },
+      {
+        "id": "far-m2-l7-check-a3",
+        "text": "At face value plus accrued interest"
+      }
+    ],
+    "correctChoiceId": "far-m2-l7-check-a2",
+    "explanation": "Because the bond's 6% stated rate is below the 8% market rate, its contractual interest payments are less attractive than the market requires. Investors therefore pay less than face value, causing the bond to be issued at a discount.",
+    "difficulty": "foundation",
+    "metadata": {
+      "section": "far",
+      "blueprintYear": 2026,
+      "areaId": "far-II",
+      "groupId": "module-2",
+      "topicId": "far-long-term-debt",
+      "taskIds": [
+        "far-long-term-debt.task-1",
+        "far-long-term-debt.task-2",
+        "far-long-term-debt.task-3"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "section": "far",
+    "blueprintYear": 2026,
+    "areaId": "far-II",
+    "groupId": "module-2",
+    "topicId": "far-long-term-debt",
+    "taskIds": [
+      "far-long-term-debt.task-1",
+      "far-long-term-debt.task-2",
+      "far-long-term-debt.task-3"
+    ],
+    "skill": "application",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      }
+    ]
+  },
+  "objectives": [
+    "Explain long-term debt and its underlying principles.",
+    "Apply the topic to a financial-reporting scenario.",
+    "Evaluate common errors and their financial-statement effects."
+  ]
+}

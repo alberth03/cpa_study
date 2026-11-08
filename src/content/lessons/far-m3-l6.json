@@ -1,0 +1,88 @@
+{
+  "id": "far-m3-l6",
+  "courseId": "far",
+  "moduleId": 3,
+  "number": 6,
+  "title": "Lessee Accounting",
+  "description": "Account for operating and finance leases from the lessee's perspective.",
+  "url": "/learn/far/modules/3/lessons/6",
+  "html": "<h2> Lessee Accounting </h2> <p> Under ASC 842, a lessee generally recognizes a right-of-use asset and a lease liability when a lease begins. </p> <div class=\"key-points\"> <strong> Core Idea: </strong> <p> The right-of-use asset represents the lessee's right to use the underlying asset, while the lease liability represents the obligation to make lease payments. </p> </div> <h3> 1. Initial Lease Liability </h3> <p> At lease commencement, the lease liability is generally measured at the present value of required lease payments that have not yet been paid. </p> <div class=\"formula-box\"> Lease Liability = Present Value of Lease Payments </div> <h3> 2. Right-of-Use Asset </h3> <p> The initial right-of-use asset generally begins with the initial lease liability and is adjusted for certain additional items. </p> <div class=\"formula-box\"> Initial ROU Asset = Lease Liability + Lease Payments Made At or Before Commencement + Qualifying Initial Direct Costs − Lease Incentives Received </div> <div class=\"example-box\"> <strong> Example </strong> <p> Assume the initial lease liability is $90,000. </p> <p> The lessee also made a $5,000 lease prepayment and received a $2,000 lease incentive. </p> <div class=\"formula-box\"> $90,000 + $5,000 − $2,000 = $93,000 ROU Asset </div> </div> <h3> 3. Finance vs. Operating Lease </h3> <p> Lessees classify leases as either <strong>finance leases</strong> or <strong>operating leases</strong>. </p> <p> A lease is classified as a finance lease when one or more of the applicable classification criteria are met. </p> <h3> Finance Lease Indicators </h3> <p> A lease is classified as a finance lease if one or more of the applicable classification criteria are met. </p> <ul> <li> Ownership transfers to the lessee by the end of the lease term. </li> <li> The lessee has a purchase option that it is reasonably certain to exercise. </li> <li> The lease term represents a major part of the remaining economic life of the underlying asset. </li> <li> The present value of lease payments and certain residual value guarantees equals or exceeds substantially all of the fair value of the underlying asset. </li> <li> The underlying asset is so specialized that it is expected to have no alternative use to the lessor at the end of the lease. </li> </ul> <div class=\"key-points\"> <strong> Important: </strong> <p> ASC 842 does not require the old rigid 75% and 90% bright-line rules. </p> </div> <h3> 4. Finance Lease Expense Pattern </h3> <p> For a finance lease, interest on the lease liability and amortization of the ROU asset are generally presented separately. </p> <div class=\"financial-example\"> <div> <span> Lease Liability </span> <strong> Interest Expense </strong> </div> <div> <span> ROU Asset </span> <strong> Amortization Expense </strong> </div> </div> <h3> 5. Operating Lease Expense Pattern </h3> <p> Operating leases are also generally recognized on the balance sheet with an ROU asset and lease liability. </p> <p> However, the lessee generally recognizes a single lease expense, typically on a straight-line basis over the lease term. </p> <div class=\"financial-example\"> <div> <span> Finance Lease </span> <strong> Interest + Amortization </strong> </div> <div> <span> Operating Lease </span> <strong> Generally Single Lease Expense </strong> </div> </div> <h3> 6. Short-Term Lease Election </h3> <p> A lessee may elect an accounting policy for qualifying short-term leases that avoids recognizing the ROU asset and lease liability. </p> <p> A short-term lease generally has a lease term of 12 months or less at commencement and does not contain a purchase option that the lessee is reasonably certain to exercise. </p> <h3> 7. Simple Present Value Example </h3> <p> Assume a lessee enters into a lease requiring three annual payments of $20,000. </p> <p> The present value of those required payments at commencement is calculated to be <strong>$54,500</strong>. </p> <div class=\"formula-box\"> Initial Lease Liability = $54,500 </div> <p> If there are no prepayments, incentives, or qualifying initial direct costs: </p> <div class=\"formula-box\"> Initial ROU Asset = $54,500 </div> <h3> CPA Exam Memory Rule </h3> <div class=\"formula-box\"> Lease Liability → PV of Lease Payments ROU Asset → Liability Adjusted for Prepayments / Incentives / Initial Direct Costs Finance Lease → Interest + Amortization Operating Lease → Generally Single Lease Expense </div> <div class=\"key-points\"> <h3> Key Takeaways </h3> <ul> <li> Lessees generally recognize an ROU asset and lease liability for both finance and operating leases. </li> <li> The lease liability is initially based on the present value of lease payments. </li> <li> The ROU asset begins with the lease liability and is adjusted for certain lease-related amounts. </li> <li> Finance leases generally produce separate interest and amortization expense. </li> <li> Operating leases generally produce a single lease expense. </li> <li> Qualifying short-term leases may be eligible for a recognition exemption through an accounting policy election. </li> </ul> </div>",
+  "quiz": {
+    "id": "far-m3-l6-check",
+    "courseId": "far",
+    "moduleId": 3,
+    "lessonId": "far-m3-l6",
+    "topic": "General review",
+    "prompt": "At lease commencement, a lessee records a lease liability of $120,000. The lessee also made a $6,000 prepayment and received a $4,000 lease incentive. Assume there are no initial direct costs. What is the initial right-of-use asset?",
+    "choices": [
+      {
+        "id": "far-m3-l6-check-a0",
+        "text": "$110,000"
+      },
+      {
+        "id": "far-m3-l6-check-a1",
+        "text": "$118,000"
+      },
+      {
+        "id": "far-m3-l6-check-a2",
+        "text": "$122,000"
+      },
+      {
+        "id": "far-m3-l6-check-a3",
+        "text": "$130,000"
+      }
+    ],
+    "correctChoiceId": "far-m3-l6-check-a2",
+    "explanation": "The initial ROU asset is generally the $120,000 lease liability plus the $6,000 prepayment minus the $4,000 incentive, giving $122,000.",
+    "difficulty": "foundation",
+    "metadata": {
+      "section": "far",
+      "blueprintYear": 2026,
+      "areaId": "far-III",
+      "groupId": "module-3",
+      "topicId": "far-lessee-accounting",
+      "taskIds": [
+        "far-lessee-accounting.task-1",
+        "far-lessee-accounting.task-2",
+        "far-lessee-accounting.task-3"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "section": "far",
+    "blueprintYear": 2026,
+    "areaId": "far-III",
+    "groupId": "module-3",
+    "topicId": "far-lessee-accounting",
+    "taskIds": [
+      "far-lessee-accounting.task-1",
+      "far-lessee-accounting.task-2",
+      "far-lessee-accounting.task-3"
+    ],
+    "skill": "application",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      }
+    ]
+  },
+  "objectives": [
+    "Explain lessee accounting and its underlying principles.",
+    "Apply the topic to a financial-reporting scenario.",
+    "Evaluate common errors and their financial-statement effects."
+  ]
+}

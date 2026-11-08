@@ -1,0 +1,91 @@
+{
+  "id": "tcp-m4-tbs1",
+  "courseId": "tcp",
+  "moduleId": 4,
+  "number": 1,
+  "title": "Qualifying exchange workpaper",
+  "html": "<div class=\"course-intro-card\"><h2>Qualifying exchange workpaper</h2><p>Compute the gain and basis consequences of an exchange that satisfies all stated Section 1031 requirements.</p></div><section class=\"quiz-card\"><h3>Required responses</h3><div class=\"tbs-question\"><label for=\"tcp-m4-tbs1-f1\">Realized gain</label><input id=\"tcp-m4-tbs1-f1\" type=\"text\"></div><div class=\"tbs-question\"><label for=\"tcp-m4-tbs1-f2\">Recognized gain</label><input id=\"tcp-m4-tbs1-f2\" type=\"text\"></div><div class=\"tbs-question\"><label for=\"tcp-m4-tbs1-f3\">Deferred gain</label><input id=\"tcp-m4-tbs1-f3\" type=\"text\"></div><div class=\"tbs-question\"><label for=\"tcp-m4-tbs1-f4\">Replacement-property basis</label><input id=\"tcp-m4-tbs1-f4\" type=\"text\"></div></section>",
+  "metadata": {
+    "section": "tcp",
+    "blueprintYear": 2026,
+    "areaId": "tcp-IV",
+    "groupId": "A",
+    "topicId": "tcp-property-like-kind",
+    "taskIds": [
+      "tcp-property-like-kind.task-1",
+      "tcp-property-like-kind.task-2",
+      "tcp-property-like-kind.task-3"
+    ],
+    "skill": "analysis",
+    "validFrom": "2026-07-01",
+    "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      },
+      {
+        "title": "IRS tax publications",
+        "url": "https://www.irs.gov/publications"
+      },
+      {
+        "title": "Internal Revenue Code",
+        "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+      }
+    ]
+  },
+  "difficulty": "advanced",
+  "fields": [
+    {
+      "id": "tcp-m4-tbs1-f1",
+      "label": "Realized gain",
+      "type": "number",
+      "options": [],
+      "correct": 90000,
+      "explanation": "$240,000 total value received less $150,000 basis.",
+      "topicId": "tcp-property-like-kind"
+    },
+    {
+      "id": "tcp-m4-tbs1-f2",
+      "label": "Recognized gain",
+      "type": "number",
+      "options": [],
+      "correct": 30000,
+      "explanation": "Recognize the $30,000 cash boot, limited by realized gain.",
+      "topicId": "tcp-property-like-kind"
+    },
+    {
+      "id": "tcp-m4-tbs1-f3",
+      "label": "Deferred gain",
+      "type": "number",
+      "options": [],
+      "correct": 60000,
+      "explanation": "$90,000 − $30,000 = $60,000.",
+      "topicId": "tcp-property-like-kind"
+    },
+    {
+      "id": "tcp-m4-tbs1-f4",
+      "label": "Replacement-property basis",
+      "type": "number",
+      "options": [],
+      "correct": 150000,
+      "explanation": "$210,000 replacement value less $60,000 deferred gain.",
+      "topicId": "tcp-property-like-kind"
+    }
+  ],
+  "exhibits": [
+    {
+      "id": "tcp-m4-tbs1-ex1",
+      "title": "Property transferred",
+      "html": "<p>Adjusted basis $150,000; fair value $240,000.</p>"
+    },
+    {
+      "id": "tcp-m4-tbs1-ex2",
+      "title": "Consideration",
+      "html": "<p>Qualifying replacement real property worth $210,000 plus cash boot $30,000. No liabilities, expenses, or other complications.</p>"
+    }
+  ],
+  "explanation": "<h3>Realized gain</h3><p>$240,000 total value received less $150,000 basis.</p><h3>Recognized gain</h3><p>Recognize the $30,000 cash boot, limited by realized gain.</p><h3>Deferred gain</h3><p>$90,000 − $30,000 = $60,000.</p><h3>Replacement-property basis</h3><p>$210,000 replacement value less $60,000 deferred gain.</p>"
+}

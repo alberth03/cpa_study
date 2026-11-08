@@ -1,0 +1,103 @@
+{
+  "id": "aud-m2-l2",
+  "courseId": "aud",
+  "moduleId": 2,
+  "number": 2,
+  "title": "Internal Controls, Walkthroughs & Service Organizations",
+  "description": "Apply COSO components and control design concepts.",
+  "url": "/learn/aud/modules/2/lessons/2",
+  "metadata": {
+    "section": "aud",
+    "blueprintYear": 2026,
+    "areaId": "aud-II",
+    "groupId": "C",
+    "topicId": "aud-internal-controls",
+    "taskIds": [
+      "aud-internal-controls.task-1",
+      "aud-internal-controls.task-2",
+      "aud-internal-controls.task-3"
+    ],
+    "skill": "application",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      },
+      {
+        "title": "AICPA auditing standards",
+        "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+      },
+      {
+        "title": "PCAOB standards",
+        "url": "https://pcaobus.org/oversight/standards"
+      }
+    ]
+  },
+  "html": "<h2>Learning objectives</h2><ul><li>Apply COSO components and control design concepts.</li><li>Distinguish design, implementation, and operating effectiveness.</li><li>Use SOC reports and identify complementary user-entity controls.</li></ul><h2>Understand the concepts</h2><p>Internal control is a process designed to provide reasonable assurance regarding operations, reporting, and compliance objectives. COSO’s five components are the control environment, risk assessment, control activities, information and communication, and monitoring. A policy document alone does not demonstrate that a control is implemented, and a single walkthrough does not establish that it operated effectively throughout a period.</p><p>Follow a transaction from initiation through authorization, recording, processing, and reporting. A walkthrough combines inquiry with inspection, observation, or reperformance to understand the process and determine whether relevant controls are designed and implemented. Assess operating effectiveness over the period when planning to rely on controls or when substantive procedures alone cannot provide sufficient appropriate evidence.</p><p>Segregate authorization, custody, recording, and reconciliation where practicable. Small entities may use effective owner review as a compensating control, but the review must be sufficiently precise and performed by an appropriate person. Automated controls can operate consistently, but their reliability depends on relevant IT general controls over access, change management, and operations.</p><p>Outsourcing does not outsource management’s reporting responsibility. A SOC 1 report addresses controls relevant to user entities’ financial reporting. Type 1 addresses design at a date; Type 2 also includes operating effectiveness over a period. Read the scope, opinion, tests, exceptions, subservice organization treatment, and complementary user-entity controls. A SOC 2 security report is not automatically a substitute for financial-reporting evidence.</p><div class=\"example-box\"><h3>Payroll processing outsourced</h3><p>An entity uses a payroll provider with a SOC 1 Type 2 report. The report assumes customers approve employee additions and reconcile payroll totals. The entity does neither.</p><ol><li>The report’s existence is not sufficient by itself.</li><li>The complementary user controls are missing, so evaluate the resulting payroll risks.</li><li>Test appropriate entity controls or expand substantive procedures and assess communication requirements.</li></ol></div><div class=\"key-points\"><h3>Common mistakes to avoid</h3><ul><li>Inquiry alone is generally insufficient to establish operating effectiveness.</li><li>A Type 1 report does not cover operating effectiveness throughout the year.</li><li>Collusion and management override limit even well-designed controls.</li></ul></div><h2>Apply and connect</h2><p>After solving the worked case, explain which facts determine the result and how a changed assumption would change your conclusion. Use the module questions to test fresh applications, then complete the related simulation before reviewing its solution.</p>",
+  "objectives": [
+    "Apply COSO components and control design concepts.",
+    "Distinguish design, implementation, and operating effectiveness.",
+    "Use SOC reports and identify complementary user-entity controls."
+  ],
+  "quiz": {
+    "id": "aud-m2-l2-q1",
+    "courseId": "aud",
+    "moduleId": 2,
+    "lessonId": "aud-m2-l2",
+    "topic": "Internal Controls, Walkthroughs & Service Organizations",
+    "prompt": "Which COSO component includes the tone at the top and commitment to integrity?",
+    "choices": [
+      {
+        "id": "aud-m2-l2-q1-a0",
+        "text": "Control activities only."
+      },
+      {
+        "id": "aud-m2-l2-q1-a1",
+        "text": "Detection risk."
+      },
+      {
+        "id": "aud-m2-l2-q1-a2",
+        "text": "Control environment."
+      },
+      {
+        "id": "aud-m2-l2-q1-a3",
+        "text": "Substantive procedures."
+      }
+    ],
+    "correctChoiceId": "aud-m2-l2-q1-a2",
+    "explanation": "The control environment provides the foundation for the other internal-control components.",
+    "difficulty": "foundation",
+    "metadata": {
+      "section": "aud",
+      "blueprintYear": 2026,
+      "areaId": "aud-II",
+      "groupId": "C",
+      "topicId": "aud-internal-controls",
+      "taskIds": [
+        "aud-internal-controls.task-1"
+      ],
+      "skill": "remembering",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        },
+        {
+          "title": "AICPA auditing standards",
+          "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+        },
+        {
+          "title": "PCAOB standards",
+          "url": "https://pcaobus.org/oversight/standards"
+        }
+      ]
+    }
+  },
+  "relatedSimulation": "aud-m2-tbs2"
+}

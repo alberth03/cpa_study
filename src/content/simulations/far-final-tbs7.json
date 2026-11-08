@@ -1,0 +1,74 @@
+{
+  "id": "far-final-tbs7",
+  "moduleId": 0,
+  "number": 7,
+  "title": "FAR Final TBS Assessment",
+  "fields": [
+    {
+      "id": "far-final-tbs7-equipment-revenue",
+      "label": "Item 1 — Equipment Revenue",
+      "type": "number",
+      "options": [],
+      "legacyKey": "equipmentRevenue",
+      "correct": 100000
+    },
+    {
+      "id": "far-final-tbs7-total-revenue",
+      "label": "Item 2 — Total Revenue Recognized by December 31",
+      "type": "number",
+      "options": [],
+      "legacyKey": "totalRevenue",
+      "correct": 112500
+    },
+    {
+      "id": "far-final-tbs7-dtl",
+      "label": "Item 3 — Deferred Tax Liability",
+      "type": "number",
+      "options": [],
+      "legacyKey": "dtl",
+      "correct": 30000
+    },
+    {
+      "id": "far-final-tbs7-lawsuit",
+      "label": "Item 4 — Litigation Loss Accrued",
+      "type": "number",
+      "options": [],
+      "legacyKey": "lawsuit",
+      "correct": 60000
+    },
+    {
+      "id": "far-final-tbs7-oci",
+      "label": "Item 5 — Unrealized Gain Reported in OCI",
+      "type": "number",
+      "options": [],
+      "legacyKey": "oci",
+      "correct": 30000
+    }
+  ],
+  "html": "<section class=\"exam-page\"> <div class=\"course-intro-card\"> <span class=\"exam-badge\"> TBS 7 OF 7 </span> <h2> Revenue, Taxes, Contingencies &amp; OCI </h2> <p> Analyze the following independent year-end matters and determine the required financial reporting amounts. </p> </div> <div class=\"course-intro-card\"> <h3> Part A — Revenue Recognition </h3> <p> On October 1, Nova Company enters into a contract for equipment and one year of service. </p> <p> The total transaction price is <strong>$150,000</strong>. </p> <ul> <li> Standalone selling price of equipment: <strong>$120,000</strong> </li> <li> Standalone selling price of service: <strong>$60,000</strong> </li> </ul> <p> The equipment is delivered immediately on October 1. </p> <p> The service is provided evenly over 12 months. Three months of service have been completed by December 31. </p> </div> <div class=\"course-intro-card\"> <h3> Item 1 — Equipment Revenue </h3> <input id=\"far-final-tbs7-equipment-revenue\" type=\"number\" placeholder=\"Enter amount\" value=\"\"> </div> <div class=\"course-intro-card\"> <h3> Item 2 — Total Revenue Recognized by December 31 </h3> <input id=\"far-final-tbs7-total-revenue\" type=\"number\" placeholder=\"Enter amount\" value=\"\"> </div> <div class=\"course-intro-card\"> <h3> Part B — Deferred Income Taxes </h3> <p> At December 31, an asset has a financial statement carrying amount of <strong>$500,000</strong> and a tax basis of <strong>$380,000</strong>. </p> <p> The enacted tax rate expected to apply when the difference reverses is <strong>25%</strong>. </p> </div> <div class=\"course-intro-card\"> <h3> Item 3 — Deferred Tax Liability </h3> <input id=\"far-final-tbs7-dtl\" type=\"number\" placeholder=\"Enter amount\" value=\"\"> </div> <div class=\"course-intro-card\"> <h3> Part C — Loss Contingency </h3> <p> Nova Company is involved in a lawsuit. At year-end, a loss is <strong>probable</strong>. </p> <p> The estimated loss is between <strong>$60,000 and $90,000</strong>, and no amount within the range is considered more likely than another. </p> </div> <div class=\"course-intro-card\"> <h3> Item 4 — Litigation Loss Accrued </h3> <input id=\"far-final-tbs7-lawsuit\" type=\"number\" placeholder=\"Enter amount\" value=\"\"> </div> <div class=\"course-intro-card\"> <h3> Part D — Available-for-Sale Debt Security </h3> <p> An available-for-sale debt security has a carrying amount of <strong>$200,000</strong> before its year-end fair value adjustment. </p> <p> Its year-end fair value is <strong>$230,000</strong>. </p> <p> Assume there is no credit impairment. </p> </div> <div class=\"course-intro-card\"> <h3> Item 5 — Unrealized Gain Reported in OCI </h3> <input id=\"far-final-tbs7-oci\" type=\"number\" placeholder=\"Enter amount\" value=\"\"> </div> </section>",
+  "explanation": "<h3>Equipment Revenue</h3><p>The total standalone selling prices are $180,000 ($120,000 equipment + $60,000 service). The equipment receives two-thirds of the $150,000 transaction price. Therefore, equipment revenue is $100,000.</p><h3>Total Revenue Through December 31</h3><p>Equipment revenue is $100,000. The service allocation is $50,000, and three of twelve months have been provided, so service revenue is $12,500. Total revenue recognized through December 31 is $112,500.</p><h3>Deferred Tax Liability</h3><p>The asset's $500,000 carrying amount exceeds its $380,000 tax basis by $120,000, creating a taxable temporary difference. At the enacted 25% tax rate, the deferred tax liability is $30,000.</p><h3>Accrued Lawsuit Loss</h3><p>The loss is probable and reasonably estimable within a range of $60,000 to $90,000, with no amount in the range a better estimate than another. Under U.S. GAAP, the minimum amount in the range, $60,000, is accrued.</p><h3>AFS Unrealized Gain in OCI</h3><p>The available-for-sale debt security has a carrying amount of $200,000 before the fair-value adjustment and a fair value of $230,000. With no credit impairment, the $30,000 unrealized holding gain is reported in other comprehensive income.</p>",
+  "courseId": "far",
+  "difficulty": "advanced",
+  "metadata": {
+    "section": "far",
+    "blueprintYear": 2026,
+    "areaId": "far-I",
+    "groupId": "module-6",
+    "topicId": "far-far-exam-strategy-final-comprehensive-review",
+    "taskIds": [
+      "far-far-exam-strategy-final-comprehensive-review.task-1",
+      "far-far-exam-strategy-final-comprehensive-review.task-2",
+      "far-far-exam-strategy-final-comprehensive-review.task-3"
+    ],
+    "skill": "analysis",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      }
+    ]
+  }
+}

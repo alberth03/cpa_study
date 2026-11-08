@@ -1,0 +1,158 @@
+{
+  "id": "isc-m1-tbs1",
+  "courseId": "isc",
+  "moduleId": 1,
+  "number": 1,
+  "title": "Cloud responsibility matrix",
+  "html": "<div class=\"course-intro-card\"><h2>Cloud responsibility matrix</h2><p>Assign control responsibilities and identify a missing dependency in an outsourced payroll system.</p></div><section class=\"quiz-card\"><h3>Required responses</h3><div class=\"tbs-question\"><label for=\"isc-m1-tbs1-f1\">Application service model</label><select id=\"isc-m1-tbs1-f1\"><option value=\"SaaS\">SaaS</option><option value=\"A paper archive\">A paper archive</option><option value=\"A guaranteed zero-risk system\">A guaranteed zero-risk system</option><option value=\"Only a local operating system\">Only a local operating system</option></select></div><div class=\"tbs-question\"><label for=\"isc-m1-tbs1-f2\">Owner of customer role approvals</label><select id=\"isc-m1-tbs1-f2\"><option value=\"The customer\">The customer</option><option value=\"No responsible party\">No responsible party</option><option value=\"Only payroll employees\">Only payroll employees</option><option value=\"Every external auditor\">Every external auditor</option></select></div><div class=\"tbs-question\"><label for=\"isc-m1-tbs1-f3\">Required response to the omitted interface</label><select id=\"isc-m1-tbs1-f3\"><option value=\"Document the data flow and evaluate its controls\">Document the data flow and evaluate its controls</option><option value=\"Ignore it\">Ignore it</option><option value=\"Assume it cannot affect reporting\">Assume it cannot affect reporting</option><option value=\"Delete the ledger from scope\">Delete the ledger from scope</option></select></div><div class=\"tbs-question\"><label for=\"isc-m1-tbs1-f4\">Effect of outsourcing on accountability</label><select id=\"isc-m1-tbs1-f4\"><option value=\"It changes control performance but does not eliminate accountability\">It changes control performance but does not eliminate accountability</option><option value=\"It removes every customer duty\">It removes every customer duty</option><option value=\"It guarantees accurate payroll\">It guarantees accurate payroll</option><option value=\"It prevents all security incidents\">It prevents all security incidents</option></select></div></section>",
+  "metadata": {
+    "section": "isc",
+    "blueprintYear": 2026,
+    "areaId": "isc-I",
+    "groupId": "A.1",
+    "topicId": "isc-it-infrastructure-cloud",
+    "taskIds": [
+      "isc-it-infrastructure-cloud.task-1",
+      "isc-it-infrastructure-cloud.task-2",
+      "isc-it-infrastructure-cloud.task-3"
+    ],
+    "skill": "analysis",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      },
+      {
+        "title": "NIST Cybersecurity Framework",
+        "url": "https://www.nist.gov/cyberframework"
+      },
+      {
+        "title": "AICPA SOC resources",
+        "url": "https://www.aicpa-cima.com/resources/landing/system-and-organization-controls-soc-suite-of-services"
+      }
+    ]
+  },
+  "difficulty": "advanced",
+  "fields": [
+    {
+      "id": "isc-m1-tbs1-f1",
+      "label": "Application service model",
+      "type": "select",
+      "options": [
+        {
+          "value": "SaaS",
+          "label": "SaaS"
+        },
+        {
+          "value": "A paper archive",
+          "label": "A paper archive"
+        },
+        {
+          "value": "A guaranteed zero-risk system",
+          "label": "A guaranteed zero-risk system"
+        },
+        {
+          "value": "Only a local operating system",
+          "label": "Only a local operating system"
+        }
+      ],
+      "correct": "SaaS",
+      "explanation": "The provider supplies the managed application.",
+      "topicId": "isc-it-infrastructure-cloud"
+    },
+    {
+      "id": "isc-m1-tbs1-f2",
+      "label": "Owner of customer role approvals",
+      "type": "select",
+      "options": [
+        {
+          "value": "The customer",
+          "label": "The customer"
+        },
+        {
+          "value": "No responsible party",
+          "label": "No responsible party"
+        },
+        {
+          "value": "Only payroll employees",
+          "label": "Only payroll employees"
+        },
+        {
+          "value": "Every external auditor",
+          "label": "Every external auditor"
+        }
+      ],
+      "correct": "The customer",
+      "explanation": "The contract assigns customer access controls to the customer.",
+      "topicId": "isc-it-infrastructure-cloud"
+    },
+    {
+      "id": "isc-m1-tbs1-f3",
+      "label": "Required response to the omitted interface",
+      "type": "select",
+      "options": [
+        {
+          "value": "Document the data flow and evaluate its controls",
+          "label": "Document the data flow and evaluate its controls"
+        },
+        {
+          "value": "Ignore it",
+          "label": "Ignore it"
+        },
+        {
+          "value": "Assume it cannot affect reporting",
+          "label": "Assume it cannot affect reporting"
+        },
+        {
+          "value": "Delete the ledger from scope",
+          "label": "Delete the ledger from scope"
+        }
+      ],
+      "correct": "Document the data flow and evaluate its controls",
+      "explanation": "The interface is a relevant dependency.",
+      "topicId": "isc-it-infrastructure-cloud"
+    },
+    {
+      "id": "isc-m1-tbs1-f4",
+      "label": "Effect of outsourcing on accountability",
+      "type": "select",
+      "options": [
+        {
+          "value": "It changes control performance but does not eliminate accountability",
+          "label": "It changes control performance but does not eliminate accountability"
+        },
+        {
+          "value": "It removes every customer duty",
+          "label": "It removes every customer duty"
+        },
+        {
+          "value": "It guarantees accurate payroll",
+          "label": "It guarantees accurate payroll"
+        },
+        {
+          "value": "It prevents all security incidents",
+          "label": "It prevents all security incidents"
+        }
+      ],
+      "correct": "It changes control performance but does not eliminate accountability",
+      "explanation": "Governance and retained responsibilities continue.",
+      "topicId": "isc-it-infrastructure-cloud"
+    }
+  ],
+  "exhibits": [
+    {
+      "id": "isc-m1-tbs1-ex1",
+      "title": "Contract summary",
+      "html": "<p>The SaaS provider operates application infrastructure. The customer approves employee master-file changes, grants user roles, and reconciles payroll totals.</p>"
+    },
+    {
+      "id": "isc-m1-tbs1-ex2",
+      "title": "Architecture review",
+      "html": "<p>A third-party interface sends payroll journals to the general ledger, but the interface is absent from the documented data-flow diagram.</p>"
+    }
+  ],
+  "explanation": "<h3>Application service model</h3><p>The provider supplies the managed application.</p><h3>Owner of customer role approvals</h3><p>The contract assigns customer access controls to the customer.</p><h3>Required response to the omitted interface</h3><p>The interface is a relevant dependency.</p><h3>Effect of outsourcing on accountability</h3><p>Governance and retained responsibilities continue.</p>"
+}

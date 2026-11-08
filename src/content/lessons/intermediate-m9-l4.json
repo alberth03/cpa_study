@@ -1,0 +1,88 @@
+{
+  "id": "intermediate-m9-l4",
+  "courseId": "intermediate",
+  "moduleId": 9,
+  "number": 4,
+  "title": "Income Tax Expense",
+  "description": "Connect current tax expense, deferred tax effects and total income tax expense.",
+  "url": "/learn/intermediate/modules/9/lessons/4",
+  "html": "<h2>Current tax vs deferred tax</h2> <p> Income tax accounting can include both a current tax component and a deferred tax component. </p> <h2>Current tax</h2> <p> The current portion relates to taxes payable or refundable for the current year based on taxable income. </p> <div class=\"formula-box\"> Current Tax = Taxable Income × Applicable Current Tax Rate </div> <h2>Example</h2> <p> Assume taxable income is <strong>$400,000</strong> and the applicable tax rate is <strong>25%</strong>. </p> <div class=\"formula-box\"> $400,000 × 25% = $100,000 </div> <p> Current income taxes payable are $100,000. </p> <h2>Deferred tax component</h2> <p> Temporary differences can cause deferred tax assets and deferred tax liabilities to change during the period. </p> <p> Those changes affect the deferred portion of income tax expense or benefit. </p> <h2>Simple example</h2> <p> Assume: </p> <div class=\"financial-example\"> <div> <span>Current Tax Expense</span> <strong>$100,000</strong> </div> <div> <span>Increase in Net DTL</span> <strong>$15,000</strong> </div> </div> <p> In this simplified example, the increase in the deferred tax liability produces deferred tax expense. </p> <div class=\"formula-box\"> $100,000 + $15,000 = $115,000 Total Income Tax Expense </div> <h2>What if a deferred tax asset increases?</h2> <p> In a simplified situation, an increase in a deferred tax asset can create a deferred tax benefit. </p> <div class=\"example-box\"> <p> Current tax expense = $100,000 </p> <p> Deferred tax benefit = $10,000 </p> <div class=\"formula-box\"> $100,000 − $10,000 = $90,000 Total Income Tax Expense </div> </div> <div class=\"key-points\"> <h3>Do not memorize an oversimplified sign rule</h3> <p> At the CPA level, we will analyze the beginning and ending deferred tax balances and determine whether the change represents deferred tax expense or benefit. </p> <p> For now, understand that total income tax expense can contain both current and deferred components. </p> </div>",
+  "quiz": {
+    "id": "intermediate-m9-l4-check",
+    "courseId": "intermediate",
+    "moduleId": 9,
+    "lessonId": "intermediate-m9-l4",
+    "topic": "General review",
+    "prompt": "Current income tax expense is $70,000 and an increase in a deferred tax liability creates $12,000 of deferred tax expense. What is total income tax expense in this simplified example?",
+    "choices": [
+      {
+        "id": "intermediate-m9-l4-check-a0",
+        "text": "$58,000"
+      },
+      {
+        "id": "intermediate-m9-l4-check-a1",
+        "text": "$70,000"
+      },
+      {
+        "id": "intermediate-m9-l4-check-a2",
+        "text": "$82,000"
+      },
+      {
+        "id": "intermediate-m9-l4-check-a3",
+        "text": "$840,000"
+      }
+    ],
+    "correctChoiceId": "intermediate-m9-l4-check-a2",
+    "explanation": "$70,000 current tax expense + $12,000 deferred tax expense = $82,000 total income tax expense.",
+    "difficulty": "foundation",
+    "metadata": {
+      "section": "intermediate",
+      "blueprintYear": 2026,
+      "areaId": "intermediate-I",
+      "groupId": "module-9",
+      "topicId": "intermediate-income-tax-expense",
+      "taskIds": [
+        "intermediate-income-tax-expense.task-1",
+        "intermediate-income-tax-expense.task-2",
+        "intermediate-income-tax-expense.task-3"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "section": "intermediate",
+    "blueprintYear": 2026,
+    "areaId": "intermediate-I",
+    "groupId": "module-9",
+    "topicId": "intermediate-income-tax-expense",
+    "taskIds": [
+      "intermediate-income-tax-expense.task-1",
+      "intermediate-income-tax-expense.task-2",
+      "intermediate-income-tax-expense.task-3"
+    ],
+    "skill": "application",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      }
+    ]
+  },
+  "objectives": [
+    "Explain income tax expense and its underlying principles.",
+    "Apply the topic to a financial-reporting scenario.",
+    "Evaluate common errors and their financial-statement effects."
+  ]
+}

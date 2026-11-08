@@ -1,0 +1,491 @@
+{
+  "id": "intermediate-m4-quiz",
+  "title": "Intermediate Module 4 Quiz",
+  "courseId": "intermediate",
+  "moduleId": 4,
+  "selection": "all",
+  "feedback": "immediate",
+  "passPercent": 80,
+  "questions": [
+    {
+      "id": "intermediate-m4-q1",
+      "courseId": "intermediate",
+      "moduleId": 4,
+      "topic": "PPE Acquisition",
+      "prompt": "Equipment costs $70,000, freight is $3,000 and installation is $5,000. What amount should initially be capitalized?",
+      "choices": [
+        {
+          "id": "intermediate-m4-q1-a0",
+          "text": "$70,000"
+        },
+        {
+          "id": "intermediate-m4-q1-a1",
+          "text": "$73,000"
+        },
+        {
+          "id": "intermediate-m4-q1-a2",
+          "text": "$75,000"
+        },
+        {
+          "id": "intermediate-m4-q1-a3",
+          "text": "$78,000"
+        }
+      ],
+      "correctChoiceId": "intermediate-m4-q1-a3",
+      "explanation": "$70,000 + $3,000 + $5,000 = $78,000.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "intermediate",
+        "blueprintYear": 2026,
+        "areaId": "intermediate-I",
+        "groupId": "4",
+        "topicId": "intermediate-intermediate-general",
+        "taskIds": [
+          "intermediate-intermediate-general.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "intermediate-m4-q2",
+      "courseId": "intermediate",
+      "moduleId": 4,
+      "topic": "PPE Acquisition",
+      "prompt": "Which asset is generally not depreciated?",
+      "choices": [
+        {
+          "id": "intermediate-m4-q2-a0",
+          "text": "Building"
+        },
+        {
+          "id": "intermediate-m4-q2-a1",
+          "text": "Equipment"
+        },
+        {
+          "id": "intermediate-m4-q2-a2",
+          "text": "Land"
+        },
+        {
+          "id": "intermediate-m4-q2-a3",
+          "text": "Vehicle"
+        }
+      ],
+      "correctChoiceId": "intermediate-m4-q2-a2",
+      "explanation": "Land generally has an indefinite useful life and is normally not depreciated.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "intermediate",
+        "blueprintYear": 2026,
+        "areaId": "intermediate-I",
+        "groupId": "4",
+        "topicId": "intermediate-intermediate-general",
+        "taskIds": [
+          "intermediate-intermediate-general.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "intermediate-m4-q3",
+      "courseId": "intermediate",
+      "moduleId": 4,
+      "topic": "Depreciation",
+      "prompt": "An asset costs $80,000, has a $5,000 residual value and a 5-year useful life. What is annual straight-line depreciation?",
+      "choices": [
+        {
+          "id": "intermediate-m4-q3-a0",
+          "text": "$15,000"
+        },
+        {
+          "id": "intermediate-m4-q3-a1",
+          "text": "$16,000"
+        },
+        {
+          "id": "intermediate-m4-q3-a2",
+          "text": "$17,000"
+        },
+        {
+          "id": "intermediate-m4-q3-a3",
+          "text": "$75,000"
+        }
+      ],
+      "correctChoiceId": "intermediate-m4-q3-a0",
+      "explanation": "($80,000 − $5,000) ÷ 5 = $15,000.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "intermediate",
+        "blueprintYear": 2026,
+        "areaId": "intermediate-I",
+        "groupId": "4",
+        "topicId": "intermediate-intermediate-general",
+        "taskIds": [
+          "intermediate-intermediate-general.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "intermediate-m4-q4",
+      "courseId": "intermediate",
+      "moduleId": 4,
+      "topic": "Depreciation",
+      "prompt": "Which depreciation method is based primarily on actual activity or usage?",
+      "choices": [
+        {
+          "id": "intermediate-m4-q4-a0",
+          "text": "Straight-line"
+        },
+        {
+          "id": "intermediate-m4-q4-a1",
+          "text": "Units-of-production"
+        },
+        {
+          "id": "intermediate-m4-q4-a2",
+          "text": "Double-declining balance"
+        },
+        {
+          "id": "intermediate-m4-q4-a3",
+          "text": "Cash basis"
+        }
+      ],
+      "correctChoiceId": "intermediate-m4-q4-a1",
+      "explanation": "Units-of-production bases depreciation on actual usage or production.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "intermediate",
+        "blueprintYear": 2026,
+        "areaId": "intermediate-I",
+        "groupId": "4",
+        "topicId": "intermediate-intermediate-general",
+        "taskIds": [
+          "intermediate-intermediate-general.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "intermediate-m4-q5",
+      "courseId": "intermediate",
+      "moduleId": 4,
+      "topic": "Estimate Changes",
+      "prompt": "How is a change in an asset's estimated useful life generally handled?",
+      "choices": [
+        {
+          "id": "intermediate-m4-q5-a0",
+          "text": "By restating all prior periods"
+        },
+        {
+          "id": "intermediate-m4-q5-a1",
+          "text": "Prospectively"
+        },
+        {
+          "id": "intermediate-m4-q5-a2",
+          "text": "By ignoring the change"
+        },
+        {
+          "id": "intermediate-m4-q5-a3",
+          "text": "By recording revenue"
+        }
+      ],
+      "correctChoiceId": "intermediate-m4-q5-a1",
+      "explanation": "Changes in accounting estimates are generally applied prospectively.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "intermediate",
+        "blueprintYear": 2026,
+        "areaId": "intermediate-I",
+        "groupId": "4",
+        "topicId": "intermediate-intermediate-general",
+        "taskIds": [
+          "intermediate-intermediate-general.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "intermediate-m4-q6",
+      "courseId": "intermediate",
+      "moduleId": 4,
+      "topic": "Estimate Changes",
+      "prompt": "An asset has a carrying amount of $48,000 and a revised remaining useful life of 4 years with no residual value. What is annual straight-line depreciation going forward?",
+      "choices": [
+        {
+          "id": "intermediate-m4-q6-a0",
+          "text": "$6,000"
+        },
+        {
+          "id": "intermediate-m4-q6-a1",
+          "text": "$12,000"
+        },
+        {
+          "id": "intermediate-m4-q6-a2",
+          "text": "$16,000"
+        },
+        {
+          "id": "intermediate-m4-q6-a3",
+          "text": "$48,000"
+        }
+      ],
+      "correctChoiceId": "intermediate-m4-q6-a1",
+      "explanation": "$48,000 ÷ 4 = $12,000 per year.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "intermediate",
+        "blueprintYear": 2026,
+        "areaId": "intermediate-I",
+        "groupId": "4",
+        "topicId": "intermediate-intermediate-general",
+        "taskIds": [
+          "intermediate-intermediate-general.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "intermediate-m4-q7",
+      "courseId": "intermediate",
+      "moduleId": 4,
+      "topic": "PPE Disposal",
+      "prompt": "An asset cost $100,000 and accumulated depreciation is $70,000. What is its carrying amount?",
+      "choices": [
+        {
+          "id": "intermediate-m4-q7-a0",
+          "text": "$30,000"
+        },
+        {
+          "id": "intermediate-m4-q7-a1",
+          "text": "$70,000"
+        },
+        {
+          "id": "intermediate-m4-q7-a2",
+          "text": "$100,000"
+        },
+        {
+          "id": "intermediate-m4-q7-a3",
+          "text": "$170,000"
+        }
+      ],
+      "correctChoiceId": "intermediate-m4-q7-a0",
+      "explanation": "$100,000 − $70,000 = $30,000.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "intermediate",
+        "blueprintYear": 2026,
+        "areaId": "intermediate-I",
+        "groupId": "4",
+        "topicId": "intermediate-intermediate-general",
+        "taskIds": [
+          "intermediate-intermediate-general.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "intermediate-m4-q8",
+      "courseId": "intermediate",
+      "moduleId": 4,
+      "topic": "PPE Disposal",
+      "prompt": "An asset with a $24,000 carrying amount is sold for $20,000. What is recognized?",
+      "choices": [
+        {
+          "id": "intermediate-m4-q8-a0",
+          "text": "$4,000 gain"
+        },
+        {
+          "id": "intermediate-m4-q8-a1",
+          "text": "$4,000 loss"
+        },
+        {
+          "id": "intermediate-m4-q8-a2",
+          "text": "$20,000 gain"
+        },
+        {
+          "id": "intermediate-m4-q8-a3",
+          "text": "No gain or loss"
+        }
+      ],
+      "correctChoiceId": "intermediate-m4-q8-a1",
+      "explanation": "$20,000 proceeds − $24,000 carrying amount = $4,000 loss.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "intermediate",
+        "blueprintYear": 2026,
+        "areaId": "intermediate-I",
+        "groupId": "4",
+        "topicId": "intermediate-intermediate-general",
+        "taskIds": [
+          "intermediate-intermediate-general.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "intermediate-m4-q9",
+      "courseId": "intermediate",
+      "moduleId": 4,
+      "topic": "Impairment",
+      "prompt": "What is the general effect of recognizing an impairment loss on a long-lived asset?",
+      "choices": [
+        {
+          "id": "intermediate-m4-q9-a0",
+          "text": "Its carrying amount increases"
+        },
+        {
+          "id": "intermediate-m4-q9-a1",
+          "text": "Its carrying amount decreases"
+        },
+        {
+          "id": "intermediate-m4-q9-a2",
+          "text": "Revenue automatically increases"
+        },
+        {
+          "id": "intermediate-m4-q9-a3",
+          "text": "Its accumulated depreciation becomes zero"
+        }
+      ],
+      "correctChoiceId": "intermediate-m4-q9-a1",
+      "explanation": "An impairment loss generally reduces the asset's carrying amount.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "intermediate",
+        "blueprintYear": 2026,
+        "areaId": "intermediate-I",
+        "groupId": "4",
+        "topicId": "intermediate-intermediate-general",
+        "taskIds": [
+          "intermediate-intermediate-general.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "intermediate-m4-q10",
+      "courseId": "intermediate",
+      "moduleId": 4,
+      "topic": "Asset Retirement",
+      "prompt": "An asset retirement obligation is most closely associated with:",
+      "choices": [
+        {
+          "id": "intermediate-m4-q10-a0",
+          "text": "A legal obligation related to future retirement or restoration activities"
+        },
+        {
+          "id": "intermediate-m4-q10-a1",
+          "text": "Ordinary payroll"
+        },
+        {
+          "id": "intermediate-m4-q10-a2",
+          "text": "Customer receivables"
+        },
+        {
+          "id": "intermediate-m4-q10-a3",
+          "text": "Inventory purchases"
+        }
+      ],
+      "correctChoiceId": "intermediate-m4-q10-a0",
+      "explanation": "Asset retirement obligations arise from certain legal obligations related to retiring assets or restoring sites.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "intermediate",
+        "blueprintYear": 2026,
+        "areaId": "intermediate-I",
+        "groupId": "4",
+        "topicId": "intermediate-intermediate-general",
+        "taskIds": [
+          "intermediate-intermediate-general.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          }
+        ]
+      }
+    }
+  ]
+}

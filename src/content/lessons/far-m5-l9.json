@@ -1,0 +1,88 @@
+{
+  "id": "far-m5-l9",
+  "courseId": "far",
+  "moduleId": 5,
+  "number": 9,
+  "title": "Promises to Give & Contribution Receivables",
+  "description": "Account for unconditional promises to give, contribution receivables, present value, and collectibility.",
+  "url": "/learn/far/modules/5/lessons/9",
+  "html": "<h2> What Is a Promise to Give? </h2> <p> A promise to give is a donor's written or oral agreement to contribute cash or other assets to an organization in the future. </p> <h2> Unconditional Promise to Give </h2> <p> An unconditional promise to give is generally recognized as contribution revenue when sufficient evidence of the promise exists. </p> <div class=\"formula-box\"> UNCONDITIONAL PROMISE → RECOGNIZE CONTRIBUTION + CONTRIBUTION RECEIVABLE </div> <div class=\"example-box\"> <strong> Example </strong> <p> A donor makes an unconditional promise to contribute <strong>$50,000</strong> to an NFP. </p> <p> The amount will be collected in three months. </p> </div> <div class=\"formula-box\"> Contribution Receivable + $50,000 Contribution Revenue + $50,000 </div> <h2> Conditional Promise </h2> <p> A conditional promise generally is not recognized as contribution revenue until the barrier has been substantially overcome. </p> <div class=\"formula-box\"> CONDITIONAL PROMISE → GENERALLY NO CONTRIBUTION RECEIVABLE AND NO CONTRIBUTION REVENUE YET </div> <div class=\"example-box\"> <strong> Example </strong> <p> A donor promises $100,000 if the NFP successfully raises another $100,000 from other donors. </p> <p> Assume the donor is released from the promise if the matching requirement is not achieved. </p> <p> Until the barrier has been substantially overcome, the promise generally is not recognized as contribution revenue. </p> </div> <h2> Promise vs. Restriction </h2> <p> An unconditional promise may still contain a donor-imposed restriction. </p> <div class=\"example-box\"> <strong> Example </strong> <p> A donor unconditionally promises <strong>$80,000</strong> for a future scholarship program. </p> <p> The contribution may be recognized, but the donor's purpose or time restriction affects its classification. </p> </div> <div class=\"formula-box\"> UNCONDITIONAL → RECOGNIZE DONOR RESTRICTION → DETERMINE NET ASSET CLASSIFICATION </div> <h2> Promises Due in Future Periods </h2> <p> Unconditional promises expected to be collected in future periods may create a donor-imposed time restriction. </p> <p> When collection extends beyond one year, measurement may also require consideration of present value. </p> <h2> Present Value </h2> <p> Long-term unconditional promises to give are generally measured using the present value of expected future cash flows, when the effect is material. </p> <div class=\"formula-box\"> FUTURE CONTRIBUTION → DISCOUNT FUTURE CASH FLOWS → PRESENT VALUE </div> <div class=\"example-box\"> <strong> Simplified Example </strong> <p> A donor unconditionally promises <strong>$110,000</strong> payable several years in the future. </p> <p> Assume the present value of the expected future payment is <strong>$100,000</strong>. </p> </div> <div class=\"formula-box\"> CONTRIBUTION RECEIVABLE $110,000 FACE AMOUNT LESS: DISCOUNT $10,000 NET PRESENT VALUE = $100,000 </div> <h2> Collectibility </h2> <p> The organization must also consider whether all recognized promises are expected to be collected. </p> <p> Estimated uncollectible amounts reduce the net amount expected to be realized. </p> <div class=\"example-box\"> <strong> Example </strong> <p> Contribution receivables total <strong>$200,000</strong>. </p> <p> The NFP estimates that <strong>$8,000</strong> will not be collected. </p> </div> <div class=\"formula-box\"> $200,000 − $8,000 = $192,000 NET RECEIVABLE </div> <h2> Multi-Year Pledges </h2> <p> A donor may promise payments over several years. </p> <p> If the promise is unconditional, the NFP generally does not wait for each future cash payment before recognizing the contribution. </p> <div class=\"formula-box\"> CASH COLLECTION DATE ≠ NECESSARILY THE REVENUE RECOGNITION DATE </div> <h2> Example — Three-Year Pledge </h2> <p> A donor makes an unconditional <strong>$300,000</strong> pledge payable over three years. </p> <p> Assume the present value of the expected payments is <strong>$275,000</strong>. </p> <div class=\"formula-box\"> INITIAL CONTRIBUTION RECOGNIZED = $275,000 </div> <p> The discount related to the future payments changes over time as the collection dates approach. </p> <h2> Conditional vs. Unconditional </h2> <div class=\"financial-example\"> <div> <span> Unconditional Promise </span> <strong> Generally Recognize When Promise Is Made </strong> </div> <div> <span> Conditional Promise </span> <strong> Generally Wait Until Barrier Is Substantially Overcome </strong> </div> </div> <h2> CPA Decision Process </h2> <div class=\"formula-box\"> STEP 1 IS THE PROMISE CONDITIONAL? YES → GENERALLY WAIT NO → RECOGNIZE STEP 2 IS THERE A DONOR RESTRICTION? STEP 3 IS PAYMENT LONG-TERM? → CONSIDER PRESENT VALUE STEP 4 CONSIDER COLLECTIBILITY </div> <h2> CPA Memory Rule </h2> <div class=\"formula-box\"> UNCONDITIONAL PLEDGE = RECEIVABLE NOW CONDITIONAL PLEDGE = GENERALLY WAIT LONG-TERM PLEDGE = THINK PRESENT VALUE </div> <div class=\"key-points\"> <h3> Key Takeaways </h3> <ul> <li> Unconditional promises to give are generally recognized when made. </li> <li> Conditional promises generally are not recognized until the barrier has been substantially overcome. </li> <li> Donor restrictions affect the classification of recognized contributions. </li> <li> Long-term promises may require present-value measurement. </li> <li> Collectibility affects the net contribution receivable reported. </li> </ul> </div>",
+  "quiz": {
+    "id": "far-m5-l9-check",
+    "courseId": "far",
+    "moduleId": 5,
+    "lessonId": "far-m5-l9",
+    "topic": "General review",
+    "prompt": "An NFP receives an unconditional promise from a donor to pay $200,000 three years from now. The present value of the expected payment is $175,000. Assuming collectibility is probable, what amount should generally be initially recognized as contribution revenue?",
+    "choices": [
+      {
+        "id": "far-m5-l9-check-a0",
+        "text": "$0 until the cash is collected"
+      },
+      {
+        "id": "far-m5-l9-check-a1",
+        "text": "$200,000"
+      },
+      {
+        "id": "far-m5-l9-check-a2",
+        "text": "$175,000"
+      },
+      {
+        "id": "far-m5-l9-check-a3",
+        "text": "$25,000"
+      }
+    ],
+    "correctChoiceId": "far-m5-l9-check-a2",
+    "explanation": "Because the promise is unconditional, contribution revenue is generally recognized when the promise is made. For a material long-term promise, the contribution is initially measured using present value, which is $175,000.",
+    "difficulty": "foundation",
+    "metadata": {
+      "section": "far",
+      "blueprintYear": 2026,
+      "areaId": "far-I",
+      "groupId": "module-5",
+      "topicId": "far-promises-to-give-contribution-receivables",
+      "taskIds": [
+        "far-promises-to-give-contribution-receivables.task-1",
+        "far-promises-to-give-contribution-receivables.task-2",
+        "far-promises-to-give-contribution-receivables.task-3"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "section": "far",
+    "blueprintYear": 2026,
+    "areaId": "far-I",
+    "groupId": "module-5",
+    "topicId": "far-promises-to-give-contribution-receivables",
+    "taskIds": [
+      "far-promises-to-give-contribution-receivables.task-1",
+      "far-promises-to-give-contribution-receivables.task-2",
+      "far-promises-to-give-contribution-receivables.task-3"
+    ],
+    "skill": "application",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      }
+    ]
+  },
+  "objectives": [
+    "Explain promises to give & contribution receivables and its underlying principles.",
+    "Apply the topic to a financial-reporting scenario.",
+    "Evaluate common errors and their financial-statement effects."
+  ]
+}

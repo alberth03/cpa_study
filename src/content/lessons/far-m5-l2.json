@@ -1,0 +1,88 @@
+{
+  "id": "far-m5-l2",
+  "courseId": "far",
+  "moduleId": 5,
+  "number": 2,
+  "title": "Net Asset Classification",
+  "description": "Understand net assets with donor restrictions and net assets without donor restrictions.",
+  "url": "/learn/far/modules/5/lessons/2",
+  "html": "<h2> The Two Net Asset Classes </h2> <p> Not-for-profit organizations report net assets in two broad classes based primarily on whether donor-imposed restrictions exist. </p> <div class=\"financial-example\"> <div> <span> Without Donor Restrictions </span> <strong> No Donor-Imposed Restriction </strong> </div> <div> <span> With Donor Restrictions </span> <strong> Donor-Imposed Restriction Exists </strong> </div> </div> <h2> Without Donor Restrictions </h2> <p> Net assets without donor restrictions generally include resources that are not subject to donor-imposed restrictions. </p> <div class=\"example-box\"> <strong> Example </strong> <p> A donor contributes <strong>$50,000</strong> and tells the organization to use the money wherever it is most needed. </p> <div class=\"formula-box\"> $50,000 → WITHOUT DONOR RESTRICTIONS </div> </div> <h2> Board Designations </h2> <p> An organization's governing board may decide to designate resources for a particular purpose. </p> <p> A board designation is an <strong>internal decision</strong>, not a donor-imposed restriction. </p> <div class=\"formula-box\"> BOARD DESIGNATION ≠ DONOR RESTRICTION </div> <div class=\"example-box\"> <strong> Example </strong> <p> The board designates $100,000 of otherwise unrestricted resources for a future building project. </p> <p> The amount generally remains within <strong>net assets without donor restrictions</strong>. </p> </div> <h2> With Donor Restrictions </h2> <p> Resources are generally classified as with donor restrictions when a donor imposes a restriction on their use or timing. </p> <h2> Purpose Restriction </h2> <p> A donor may require that contributed resources be used for a specific program or activity. </p> <div class=\"example-box\"> <strong> Example </strong> <p> A donor contributes <strong>$80,000</strong> specifically for a scholarship program. </p> <div class=\"formula-box\"> SPECIFIC DONOR PURPOSE → WITH DONOR RESTRICTIONS </div> </div> <h2> Time Restriction </h2> <p> A donor may specify that resources cannot be used until a future period. </p> <div class=\"example-box\"> <strong> Example </strong> <p> A donor contributes $60,000 in December and requires that the organization use the contribution during the following year. </p> <p> The contribution is subject to a donor-imposed time restriction. </p> </div> <h2> Restrictions That Do Not Expire Through Spending </h2> <p> Some donor restrictions require contributed resources to be maintained according to the donor's instructions. </p> <p> A common example is a donor-restricted endowment in which the original gift must generally be maintained subject to the donor's stipulations. </p> <div class=\"formula-box\"> DONOR-RESTRICTED ENDOWMENT → NET ASSETS WITH DONOR RESTRICTIONS </div> <h2> Release From Restriction </h2> <p> A donor restriction may be satisfied when the required purpose is accomplished or the required time period passes. </p> <p> When that happens, the organization generally reports a release from donor restrictions. </p> <div class=\"formula-box\"> RESTRICTION SATISFIED → RELEASE FROM RESTRICTION → WITH DONOR RESTRICTIONS DECREASES WITHOUT DONOR RESTRICTIONS INCREASES </div> <h2> Example — Purpose Restriction Released </h2> <p> A donor previously contributed <strong>$90,000</strong> specifically for educational programs. </p> <p> During the current year, the organization incurs <strong>$90,000</strong> of qualifying educational program costs and satisfies the donor restriction. </p> <div class=\"financial-example\"> <div> <span> Net Assets With Donor Restrictions </span> <strong> − $90,000 </strong> </div> <div> <span> Net Assets Without Donor Restrictions </span> <strong> + $90,000 </strong> </div> </div> <p> The release changes the classification of net assets; it does not create a second contribution. </p> <h2> The Donor Controls the Classification </h2> <p> Management intentions alone generally do not create donor restrictions. </p> <p> The key question is whether the restriction came from the <strong>donor</strong>. </p> <div class=\"formula-box\"> ASK: WHO CREATED THE RESTRICTION? DONOR → WITH DONOR RESTRICTIONS BOARD / MANAGEMENT → GENERALLY WITHOUT DONOR RESTRICTIONS </div> <h2> Quick Classification Practice </h2> <div class=\"financial-example\"> <div> <span> Donor: \"Use this for cancer research.\" </span> <strong> WITH RESTRICTIONS </strong> </div> <div> <span> Donor: \"Use this however you need.\" </span> <strong> WITHOUT RESTRICTIONS </strong> </div> <div> <span> Board reserves money for a building. </span> <strong> WITHOUT RESTRICTIONS </strong> </div> <div> <span> Donor: \"Do not use until next year.\" </span> <strong> WITH RESTRICTIONS </strong> </div> </div> <h2> CPA Memory Rule </h2> <div class=\"formula-box\"> DONOR SAYS WHEN / WHY → WITH DONOR RESTRICTIONS ORGANIZATION DECIDES WHEN / WHY → WITHOUT DONOR RESTRICTIONS </div> <div class=\"key-points\"> <h3> Key Takeaways </h3> <ul> <li> NFP net assets have two broad classes. </li> <li> Donor-imposed purpose and time restrictions generally create net assets with donor restrictions. </li> <li> Board designations generally do not create donor-restricted net assets. </li> <li> Satisfying a donor restriction may result in a release from restriction. </li> <li> Always identify who imposed the restriction. </li> </ul> </div>",
+  "quiz": {
+    "id": "far-m5-l2-check",
+    "courseId": "far",
+    "moduleId": 5,
+    "lessonId": "far-m5-l2",
+    "topic": "General review",
+    "prompt": "A not-for-profit organization's board designates $200,000 of unrestricted resources for construction of a future headquarters. No donor imposed this restriction. How should the $200,000 generally be classified?",
+    "choices": [
+      {
+        "id": "far-m5-l2-check-a0",
+        "text": "Net assets with donor restrictions"
+      },
+      {
+        "id": "far-m5-l2-check-a1",
+        "text": "A liability"
+      },
+      {
+        "id": "far-m5-l2-check-a2",
+        "text": "Net assets without donor restrictions"
+      },
+      {
+        "id": "far-m5-l2-check-a3",
+        "text": "Contribution revenue with donor restrictions"
+      }
+    ],
+    "correctChoiceId": "far-m5-l2-check-a2",
+    "explanation": "A board designation is an internal restriction rather than a donor-imposed restriction. Therefore, the resources generally remain classified as net assets without donor restrictions.",
+    "difficulty": "foundation",
+    "metadata": {
+      "section": "far",
+      "blueprintYear": 2026,
+      "areaId": "far-I",
+      "groupId": "module-5",
+      "topicId": "far-net-asset-classification",
+      "taskIds": [
+        "far-net-asset-classification.task-1",
+        "far-net-asset-classification.task-2",
+        "far-net-asset-classification.task-3"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "section": "far",
+    "blueprintYear": 2026,
+    "areaId": "far-I",
+    "groupId": "module-5",
+    "topicId": "far-net-asset-classification",
+    "taskIds": [
+      "far-net-asset-classification.task-1",
+      "far-net-asset-classification.task-2",
+      "far-net-asset-classification.task-3"
+    ],
+    "skill": "application",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      }
+    ]
+  },
+  "objectives": [
+    "Explain net asset classification and its underlying principles.",
+    "Apply the topic to a financial-reporting scenario.",
+    "Evaluate common errors and their financial-statement effects."
+  ]
+}

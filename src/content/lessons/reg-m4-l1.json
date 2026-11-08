@@ -1,0 +1,113 @@
+{
+  "id": "reg-m4-l1",
+  "courseId": "reg",
+  "moduleId": 4,
+  "number": 1,
+  "title": "Gross Income, Exclusions & Investment Income",
+  "description": "Identify taxable receipts and common exclusions.",
+  "url": "/learn/reg/modules/4/lessons/1",
+  "metadata": {
+    "section": "reg",
+    "blueprintYear": 2026,
+    "areaId": "reg-IV",
+    "groupId": "A",
+    "topicId": "reg-individual-income",
+    "taskIds": [
+      "reg-individual-income.task-1",
+      "reg-individual-income.task-2",
+      "reg-individual-income.task-3"
+    ],
+    "skill": "application",
+    "validFrom": "2026-07-01",
+    "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      },
+      {
+        "title": "Internal Revenue Code",
+        "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+      },
+      {
+        "title": "IRS tax publications",
+        "url": "https://www.irs.gov/publications"
+      },
+      {
+        "title": "Circular 230",
+        "url": "https://www.irs.gov/tax-professionals/circular-230-tax-professionals"
+      }
+    ]
+  },
+  "html": "<h2>Learning objectives</h2><ul><li>Identify taxable receipts and common exclusions.</li><li>Compute capital gains using basis and holding-period facts.</li><li>Distinguish receipt of an asset from its later disposition.</li></ul><h2>Understand the concepts</h2><p>Gross income broadly includes accessions to wealth unless a specific exclusion applies. Wages, taxable interest, business income, rents, and many gains are included. Gifts and inheritances received are generally excluded from the recipient’s gross income, while income subsequently produced by the property is analyzed separately. Qualifying municipal-bond interest may be excluded for regular federal income-tax purposes, with other tax consequences evaluated separately.</p><p>Investment dispositions require adjusted basis and holding-period analysis. Net short-term and long-term results under the applicable rules rather than treating every stock sale as ordinary wages. For an individual, the ordinary-income deduction for net capital losses is generally limited, with unused losses carried forward. Filing status and other circumstances can affect the limit.</p><p>Digital assets are property for federal income-tax purposes. Receiving digital assets as compensation generally produces income based on fair value when received; that amount generally becomes basis for later gain or loss. A later sale can therefore create an additional gain or loss rather than repeating the entire sales proceeds as compensation. Keep dates, values, and transaction records.</p><p>Distinguish an exclusion from a deduction or credit. A provision allowing a deduction for qualifying income does not necessarily make the receipt nontaxable or eliminate payroll-tax treatment. Current-law changes and eligibility periods must be checked before applying provisions involving tips, overtime, or other specialized receipts.</p><div class=\"example-box\"><h3>Compensation paid in digital assets</h3><p>An employee receives digital assets worth $5,000 as taxable compensation and later sells them for $6,200. Assume no fees and the sale is a taxable capital transaction.</p><ol><li>Include $5,000 of compensation income on receipt.</li><li>Use $5,000 as basis for the later sale.</li><li>The later gain is $1,200; determine holding-period character from the acquisition and sale dates.</li></ol></div><div class=\"key-points\"><h3>Common mistakes to avoid</h3><ul><li>A gift exclusion does not exempt income later earned by the property.</li><li>Gross proceeds are not the same as gain.</li><li>A deduction for a qualifying receipt is not necessarily an exclusion.</li></ul></div><h2>Apply and connect</h2><p>After solving the worked case, explain which facts determine the result and how a changed assumption would change your conclusion. Use the module questions to test fresh applications, then complete the related simulation before reviewing its solution.</p>",
+  "objectives": [
+    "Identify taxable receipts and common exclusions.",
+    "Compute capital gains using basis and holding-period facts.",
+    "Distinguish receipt of an asset from its later disposition."
+  ],
+  "quiz": {
+    "id": "reg-m4-l1-q1",
+    "courseId": "reg",
+    "moduleId": 4,
+    "lessonId": "reg-m4-l1",
+    "topic": "Gross Income, Exclusions & Investment Income",
+    "prompt": "An individual receives a genuine $20,000 cash gift from a parent. What is the general recipient income-tax treatment?",
+    "choices": [
+      {
+        "id": "reg-m4-l1-q1-a0",
+        "text": "Include it as wages."
+      },
+      {
+        "id": "reg-m4-l1-q1-a1",
+        "text": "Include it as business sales."
+      },
+      {
+        "id": "reg-m4-l1-q1-a2",
+        "text": "Deduct it as a capital loss."
+      },
+      {
+        "id": "reg-m4-l1-q1-a3",
+        "text": "Exclude the gift from gross income."
+      }
+    ],
+    "correctChoiceId": "reg-m4-l1-q1-a3",
+    "explanation": "A genuine gift is generally excluded from the recipient’s gross income; transfer-tax issues are separate.",
+    "difficulty": "foundation",
+    "metadata": {
+      "section": "reg",
+      "blueprintYear": 2026,
+      "areaId": "reg-IV",
+      "groupId": "A",
+      "topicId": "reg-individual-income",
+      "taskIds": [
+        "reg-individual-income.task-1"
+      ],
+      "skill": "remembering",
+      "validFrom": "2026-07-01",
+      "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        },
+        {
+          "title": "Internal Revenue Code",
+          "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+        },
+        {
+          "title": "IRS tax publications",
+          "url": "https://www.irs.gov/publications"
+        },
+        {
+          "title": "Circular 230",
+          "url": "https://www.irs.gov/tax-professionals/circular-230-tax-professionals"
+        }
+      ]
+    }
+  },
+  "relatedSimulation": "reg-m4-tbs1"
+}

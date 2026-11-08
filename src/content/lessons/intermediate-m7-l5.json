@@ -1,0 +1,88 @@
+{
+  "id": "intermediate-m7-l5",
+  "courseId": "intermediate",
+  "moduleId": 7,
+  "number": 5,
+  "title": "Operating Lease Subsequent Accounting",
+  "description": "Understand single lease expense and subsequent measurement for operating leases.",
+  "url": "/learn/intermediate/modules/7/lessons/5",
+  "html": "<h2>Operating leases</h2> <p> Operating leases also generally result in recognition of a right-of-use asset and lease liability by the lessee. </p> <p> However, their subsequent expense recognition differs from finance leases. </p> <h2>Single lease cost</h2> <p> For an operating lease, the lessee generally recognizes a single lease cost, typically on a straight-line basis over the lease term. </p> <div class=\"example-box\"> <h3>Simple example</h3> <p> Assume an operating lease requires total fixed payments of <strong>$60,000</strong> over five years, with no other adjustments affecting this simple example. </p> <div class=\"formula-box\"> $60,000 ÷ 5 years = $12,000 annual lease cost </div> </div> <h2>The lease liability still uses interest</h2> <p> The lease liability itself continues to be measured using an interest-based roll-forward. </p> <div class=\"formula-box\"> Interest = Beginning Lease Liability × Periodic Discount Rate </div> <div class=\"formula-box\"> Ending Lease Liability = Beginning Liability + Interest − Payment </div> <h2>Example</h2> <p> Beginning lease liability: <strong>$40,000</strong> </p> <p> Discount rate: <strong>5%</strong> </p> <p> Year-end payment: <strong>$10,000</strong> </p> <h3>Interest on liability</h3> <div class=\"formula-box\"> $40,000 × 5% = $2,000 </div> <h3>Ending lease liability</h3> <div class=\"formula-box\"> $40,000 + $2,000 − $10,000 = $32,000 </div> <h2>What makes operating accounting different?</h2> <p> Although interest is used in measuring the lease liability, the operating lease generally presents a single lease cost. </p> <p> The change in the ROU asset is therefore determined in a way that produces the required single lease-cost pattern. </p> <div class=\"key-points\"> <h3>Do not confuse these</h3> <p> <strong>Finance lease:</strong> interest and ROU asset amortization are recognized separately. </p> <p> <strong>Operating lease:</strong> generally produces a single lease cost. </p> </div> <h2>Big picture</h2> <div class=\"comparison-grid\"> <div class=\"comparison-card\"> <h3>Finance</h3> <p>Interest expense</p> <p>+</p> <p>ROU asset amortization</p> </div> <div class=\"comparison-card\"> <h3>Operating</h3> <p> Generally a single lease cost over the lease term </p> </div> </div>",
+  "quiz": {
+    "id": "intermediate-m7-l5-check",
+    "courseId": "intermediate",
+    "moduleId": 7,
+    "lessonId": "intermediate-m7-l5",
+    "topic": "General review",
+    "prompt": "An operating lease liability begins the year at $60,000. The annual discount rate is 5%, and the year-end payment is $14,000. What is the ending lease liability?",
+    "choices": [
+      {
+        "id": "intermediate-m7-l5-check-a0",
+        "text": "$46,000"
+      },
+      {
+        "id": "intermediate-m7-l5-check-a1",
+        "text": "$49,000"
+      },
+      {
+        "id": "intermediate-m7-l5-check-a2",
+        "text": "$57,000"
+      },
+      {
+        "id": "intermediate-m7-l5-check-a3",
+        "text": "$63,000"
+      }
+    ],
+    "correctChoiceId": "intermediate-m7-l5-check-a1",
+    "explanation": "Interest = $60,000 × 5% = $3,000. Ending liability = $60,000 + $3,000 − $14,000 = $49,000.",
+    "difficulty": "foundation",
+    "metadata": {
+      "section": "intermediate",
+      "blueprintYear": 2026,
+      "areaId": "intermediate-I",
+      "groupId": "module-7",
+      "topicId": "intermediate-operating-lease-subsequent-accounting",
+      "taskIds": [
+        "intermediate-operating-lease-subsequent-accounting.task-1",
+        "intermediate-operating-lease-subsequent-accounting.task-2",
+        "intermediate-operating-lease-subsequent-accounting.task-3"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "section": "intermediate",
+    "blueprintYear": 2026,
+    "areaId": "intermediate-I",
+    "groupId": "module-7",
+    "topicId": "intermediate-operating-lease-subsequent-accounting",
+    "taskIds": [
+      "intermediate-operating-lease-subsequent-accounting.task-1",
+      "intermediate-operating-lease-subsequent-accounting.task-2",
+      "intermediate-operating-lease-subsequent-accounting.task-3"
+    ],
+    "skill": "application",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      }
+    ]
+  },
+  "objectives": [
+    "Explain operating lease subsequent accounting and its underlying principles.",
+    "Apply the topic to a financial-reporting scenario.",
+    "Evaluate common errors and their financial-statement effects."
+  ]
+}

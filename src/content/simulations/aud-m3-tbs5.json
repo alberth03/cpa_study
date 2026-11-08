@@ -1,0 +1,124 @@
+{
+  "id": "aud-m3-tbs5",
+  "courseId": "aud",
+  "moduleId": 3,
+  "number": 5,
+  "title": "Year-end liability and estimate review",
+  "html": "<div class=\"course-intro-card\"><h2>Year-end liability and estimate review</h2><p>Evaluate a subsequent-disbursement schedule and two judgmental matters.</p></div><section class=\"quiz-card\"><h3>Required responses</h3><div class=\"tbs-question\"><label for=\"aud-m3-tbs5-f1\">Total omitted year-end liabilities from A, B, and C</label><input id=\"aud-m3-tbs5-f1\" type=\"text\"></div><div class=\"tbs-question\"><label for=\"aud-m3-tbs5-f2\">Amount belonging only to January based on these facts</label><input id=\"aud-m3-tbs5-f2\" type=\"text\"></div><div class=\"tbs-question\"><label for=\"aud-m3-tbs5-f3\">Primary reserve concern</label><select id=\"aud-m3-tbs5-f3\"><option value=\"Unsupported management bias\">Unsupported management bias</option><option value=\"Only a documentation font issue\">Only a documentation font issue</option><option value=\"No issue because estimates are subjective\">No issue because estimates are subjective</option><option value=\"Automatic assurance from the target\">Automatic assurance from the target</option></select></div><div class=\"tbs-question\"><label for=\"aud-m3-tbs5-f4\">Consequence to evaluate from legal-counsel refusal</label><select id=\"aud-m3-tbs5-f4\"><option value=\"An evidence limitation\">An evidence limitation</option><option value=\"A guarantee the lawsuit will be won\">A guarantee the lawsuit will be won</option><option value=\"Automatic immateriality\">Automatic immateriality</option><option value=\"Permission to omit disclosure\">Permission to omit disclosure</option></select></div></section>",
+  "metadata": {
+    "section": "aud",
+    "blueprintYear": 2026,
+    "areaId": "aud-III",
+    "groupId": "D-E",
+    "topicId": "aud-audit-liabilities-estimates",
+    "taskIds": [
+      "aud-audit-liabilities-estimates.task-1",
+      "aud-audit-liabilities-estimates.task-2",
+      "aud-audit-liabilities-estimates.task-3"
+    ],
+    "skill": "analysis",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      },
+      {
+        "title": "AICPA auditing standards",
+        "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+      },
+      {
+        "title": "PCAOB standards",
+        "url": "https://pcaobus.org/oversight/standards"
+      }
+    ]
+  },
+  "difficulty": "advanced",
+  "fields": [
+    {
+      "id": "aud-m3-tbs5-f1",
+      "label": "Total omitted year-end liabilities from A, B, and C",
+      "type": "number",
+      "options": [],
+      "correct": 53000,
+      "explanation": "Only December services and goods already received create the described year-end omissions: $22,000 + $31,000.",
+      "topicId": "aud-audit-liabilities-estimates"
+    },
+    {
+      "id": "aud-m3-tbs5-f2",
+      "label": "Amount belonging only to January based on these facts",
+      "type": "number",
+      "options": [],
+      "correct": 18000,
+      "explanation": "Payment B relates to January services.",
+      "topicId": "aud-audit-liabilities-estimates"
+    },
+    {
+      "id": "aud-m3-tbs5-f3",
+      "label": "Primary reserve concern",
+      "type": "select",
+      "options": [
+        {
+          "value": "Unsupported management bias",
+          "label": "Unsupported management bias"
+        },
+        {
+          "value": "Only a documentation font issue",
+          "label": "Only a documentation font issue"
+        },
+        {
+          "value": "No issue because estimates are subjective",
+          "label": "No issue because estimates are subjective"
+        },
+        {
+          "value": "Automatic assurance from the target",
+          "label": "Automatic assurance from the target"
+        }
+      ],
+      "correct": "Unsupported management bias",
+      "explanation": "The assumption is driven by an earnings target rather than evidence.",
+      "topicId": "aud-audit-liabilities-estimates"
+    },
+    {
+      "id": "aud-m3-tbs5-f4",
+      "label": "Consequence to evaluate from legal-counsel refusal",
+      "type": "select",
+      "options": [
+        {
+          "value": "An evidence limitation",
+          "label": "An evidence limitation"
+        },
+        {
+          "value": "A guarantee the lawsuit will be won",
+          "label": "A guarantee the lawsuit will be won"
+        },
+        {
+          "value": "Automatic immateriality",
+          "label": "Automatic immateriality"
+        },
+        {
+          "value": "Permission to omit disclosure",
+          "label": "Permission to omit disclosure"
+        }
+      ],
+      "correct": "An evidence limitation",
+      "explanation": "Necessary evidence cannot be replaced solely by management representations.",
+      "topicId": "aud-audit-liabilities-estimates"
+    }
+  ],
+  "exhibits": [
+    {
+      "id": "aud-m3-tbs5-ex1",
+      "title": "Payments after year-end",
+      "html": "<p>Payment A: $22,000 for December services, not accrued. Payment B: $18,000 for January services. Payment C: $31,000 for goods received before year-end, not accrued. All amounts are valid obligations.</p>"
+    },
+    {
+      "id": "aud-m3-tbs5-ex2",
+      "title": "Other matters",
+      "html": "<p>Management sets an unsupported reserve assumption to meet a profit target and refuses necessary legal-counsel inquiry about material litigation.</p>"
+    }
+  ],
+  "explanation": "<h3>Total omitted year-end liabilities from A, B, and C</h3><p>Only December services and goods already received create the described year-end omissions: $22,000 + $31,000.</p><h3>Amount belonging only to January based on these facts</h3><p>Payment B relates to January services.</p><h3>Primary reserve concern</h3><p>The assumption is driven by an earnings target rather than evidence.</p><h3>Consequence to evaluate from legal-counsel refusal</h3><p>Necessary evidence cannot be replaced solely by management representations.</p>"
+}

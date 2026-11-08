@@ -1,0 +1,88 @@
+{
+  "id": "intermediate-m4-l1",
+  "courseId": "intermediate",
+  "moduleId": 4,
+  "number": 1,
+  "title": "PPE Acquisition & Capitalization",
+  "description": "Determine which costs should be capitalized when acquiring property, plant and equipment.",
+  "url": "/learn/intermediate/modules/4/lessons/1",
+  "html": "<h2>What is Property, Plant &amp; Equipment?</h2> <p> Property, Plant &amp; Equipment (PPE) consists of tangible long-lived assets used in a company's operations. </p> <div class=\"key-points\"> <h3>Examples</h3> <ul> <li>Land</li> <li>Buildings</li> <li>Machinery</li> <li>Equipment</li> <li>Vehicles</li> </ul> </div> <h2>What does capitalization mean?</h2> <p> When a cost is capitalized, it is initially recorded as an asset rather than immediately recognized as an expense. </p> <p> Generally, the acquisition cost of PPE includes costs necessary to acquire the asset and prepare it for its intended use. </p> <h2>Equipment example</h2> <p> A company purchases equipment with the following costs: </p> <div class=\"financial-example\"> <div> <span>Purchase price</span> <strong>$50,000</strong> </div> <div> <span>Transportation</span> <strong>$2,000</strong> </div> <div> <span>Installation</span> <strong>$3,000</strong> </div> <div class=\"financial-total\"> <span>Capitalized equipment cost</span> <strong>$55,000</strong> </div> </div> <div class=\"formula-box\"> $50,000 + $2,000 + $3,000 = $55,000 </div> <h2>Land</h2> <p> The cost of land can include more than just its purchase price. </p> <div class=\"key-points\"> <h3>Potential land costs</h3> <ul> <li>Purchase price</li> <li>Legal and title fees</li> <li>Certain closing costs</li> <li>Costs of preparing the land for use</li> </ul> </div> <h2>Land vs building</h2> <p> Land normally has an indefinite life and therefore is generally <strong>not depreciated</strong>. </p> <p> Buildings generally have finite useful lives and are depreciated. </p> <div class=\"key-points\"> <h3>Core idea</h3> <p> Ask whether a cost is necessary to acquire the asset and prepare it for its intended use. </p> </div>",
+  "quiz": {
+    "id": "intermediate-m4-l1-check",
+    "courseId": "intermediate",
+    "moduleId": 4,
+    "lessonId": "intermediate-m4-l1",
+    "topic": "General review",
+    "prompt": "A company buys equipment for $80,000 and pays $4,000 for delivery and $6,000 for installation. What is the equipment's initial capitalized cost?",
+    "choices": [
+      {
+        "id": "intermediate-m4-l1-check-a0",
+        "text": "$80,000"
+      },
+      {
+        "id": "intermediate-m4-l1-check-a1",
+        "text": "$84,000"
+      },
+      {
+        "id": "intermediate-m4-l1-check-a2",
+        "text": "$86,000"
+      },
+      {
+        "id": "intermediate-m4-l1-check-a3",
+        "text": "$90,000"
+      }
+    ],
+    "correctChoiceId": "intermediate-m4-l1-check-a3",
+    "explanation": "The purchase price, delivery and installation are included: $80,000 + $4,000 + $6,000 = $90,000.",
+    "difficulty": "foundation",
+    "metadata": {
+      "section": "intermediate",
+      "blueprintYear": 2026,
+      "areaId": "intermediate-I",
+      "groupId": "module-4",
+      "topicId": "intermediate-ppe-acquisition-capitalization",
+      "taskIds": [
+        "intermediate-ppe-acquisition-capitalization.task-1",
+        "intermediate-ppe-acquisition-capitalization.task-2",
+        "intermediate-ppe-acquisition-capitalization.task-3"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "section": "intermediate",
+    "blueprintYear": 2026,
+    "areaId": "intermediate-I",
+    "groupId": "module-4",
+    "topicId": "intermediate-ppe-acquisition-capitalization",
+    "taskIds": [
+      "intermediate-ppe-acquisition-capitalization.task-1",
+      "intermediate-ppe-acquisition-capitalization.task-2",
+      "intermediate-ppe-acquisition-capitalization.task-3"
+    ],
+    "skill": "application",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      }
+    ]
+  },
+  "objectives": [
+    "Explain ppe acquisition & capitalization and its underlying principles.",
+    "Apply the topic to a financial-reporting scenario.",
+    "Evaluate common errors and their financial-statement effects."
+  ]
+}

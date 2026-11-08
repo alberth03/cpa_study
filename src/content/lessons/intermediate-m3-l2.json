@@ -1,0 +1,88 @@
+{
+  "id": "intermediate-m3-l2",
+  "courseId": "intermediate",
+  "moduleId": 3,
+  "number": 2,
+  "title": "FIFO",
+  "description": "Calculate ending inventory and cost of goods sold using first-in, first-out.",
+  "url": "/learn/intermediate/modules/3/lessons/2",
+  "html": "<h2>What does FIFO mean?</h2> <p> FIFO means <strong>First-In, First-Out</strong>. </p> <p> The earliest inventory costs are assigned to Cost of Goods Sold first. </p> <p> Therefore, ending inventory generally contains the most recent inventory costs. </p> <h2>Example</h2> <p> Assume a company has: </p> <div class=\"financial-example\"> <div> <span>100 units @ $10</span> <strong>$1,000</strong> </div> <div> <span>100 units @ $12</span> <strong>$1,200</strong> </div> <div class=\"financial-total\"> <span>Total: 200 units</span> <strong>$2,200</strong> </div> </div> <p> Suppose the company sells <strong>150 units</strong>. </p> <h2>FIFO Cost of Goods Sold</h2> <p> FIFO assumes the oldest units are sold first. </p> <div class=\"financial-example\"> <div> <span>100 units × $10</span> <strong>$1,000</strong> </div> <div> <span>50 units × $12</span> <strong>$600</strong> </div> <div class=\"financial-total\"> <span>FIFO COGS</span> <strong>$1,600</strong> </div> </div> <h2>Ending Inventory</h2> <p> There are 50 units remaining from the newest purchase. </p> <div class=\"formula-box\"> 50 × $12 = $600 Ending Inventory </div> <div class=\"key-points\"> <h3>FIFO pattern</h3> <ul> <li>Oldest costs → COGS</li> <li>Newest costs → Ending Inventory</li> </ul> </div>",
+  "quiz": {
+    "id": "intermediate-m3-l2-check",
+    "courseId": "intermediate",
+    "moduleId": 3,
+    "lessonId": "intermediate-m3-l2",
+    "topic": "General review",
+    "prompt": "A company has 100 units at $20 and then buys 100 units at $25. If 120 units are sold using FIFO, what is COGS?",
+    "choices": [
+      {
+        "id": "intermediate-m3-l2-check-a0",
+        "text": "$2,000"
+      },
+      {
+        "id": "intermediate-m3-l2-check-a1",
+        "text": "$2,400"
+      },
+      {
+        "id": "intermediate-m3-l2-check-a2",
+        "text": "$2,500"
+      },
+      {
+        "id": "intermediate-m3-l2-check-a3",
+        "text": "$2,900"
+      }
+    ],
+    "correctChoiceId": "intermediate-m3-l2-check-a2",
+    "explanation": "FIFO assigns the first 100 units at $20 ($2,000) plus 20 units at $25 ($500), for total COGS of $2,500.",
+    "difficulty": "foundation",
+    "metadata": {
+      "section": "intermediate",
+      "blueprintYear": 2026,
+      "areaId": "intermediate-I",
+      "groupId": "module-3",
+      "topicId": "intermediate-fifo",
+      "taskIds": [
+        "intermediate-fifo.task-1",
+        "intermediate-fifo.task-2",
+        "intermediate-fifo.task-3"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "section": "intermediate",
+    "blueprintYear": 2026,
+    "areaId": "intermediate-I",
+    "groupId": "module-3",
+    "topicId": "intermediate-fifo",
+    "taskIds": [
+      "intermediate-fifo.task-1",
+      "intermediate-fifo.task-2",
+      "intermediate-fifo.task-3"
+    ],
+    "skill": "application",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      }
+    ]
+  },
+  "objectives": [
+    "Explain fifo and its underlying principles.",
+    "Apply the topic to a financial-reporting scenario.",
+    "Evaluate common errors and their financial-statement effects."
+  ]
+}

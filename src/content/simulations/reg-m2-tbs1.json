@@ -1,0 +1,146 @@
+{
+  "id": "reg-m2-tbs1",
+  "courseId": "reg",
+  "moduleId": 2,
+  "number": 1,
+  "title": "Contract and agency issue spotting",
+  "html": "<div class=\"course-intro-card\"><h2>Contract and agency issue spotting</h2><p>Classify four independent business-law scenarios under the supplied ordinary legal principles.</p></div><section class=\"quiz-card\"><h3>Required responses</h3><div class=\"tbs-question\"><label for=\"reg-m2-tbs1-f1\">Authority in A</label><select id=\"reg-m2-tbs1-f1\"><option value=\"Actual authority\">Actual authority</option><option value=\"Only apparent authority from the agent\">Only apparent authority from the agent</option><option value=\"No authority\">No authority</option><option value=\"Ratification only\">Ratification only</option></select></div><div class=\"tbs-question\"><label for=\"reg-m2-tbs1-f2\">Authority in B</label><select id=\"reg-m2-tbs1-f2\"><option value=\"Apparent authority\">Apparent authority</option><option value=\"An agent’s unilateral invention of authority\">An agent’s unilateral invention of authority</option><option value=\"No possible authority\">No possible authority</option><option value=\"Only a tax agency\">Only a tax agency</option></select></div><div class=\"tbs-question\"><label for=\"reg-m2-tbs1-f3\">Doctrine in C</label><select id=\"reg-m2-tbs1-f3\"><option value=\"Ratification\">Ratification</option><option value=\"Automatic discharge in bankruptcy\">Automatic discharge in bankruptcy</option><option value=\"Novation in every case\">Novation in every case</option><option value=\"No possible adoption\">No possible adoption</option></select></div><div class=\"tbs-question\"><label for=\"reg-m2-tbs1-f4\">Recoverable loss after the stated mitigation adjustment</label><input id=\"reg-m2-tbs1-f4\" type=\"text\"></div></section>",
+  "metadata": {
+    "section": "reg",
+    "blueprintYear": 2026,
+    "areaId": "reg-II",
+    "groupId": "A-B",
+    "topicId": "reg-contracts-agency",
+    "taskIds": [
+      "reg-contracts-agency.task-1",
+      "reg-contracts-agency.task-2",
+      "reg-contracts-agency.task-3"
+    ],
+    "skill": "analysis",
+    "validFrom": "2026-07-01",
+    "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      },
+      {
+        "title": "Internal Revenue Code",
+        "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+      },
+      {
+        "title": "IRS tax publications",
+        "url": "https://www.irs.gov/publications"
+      },
+      {
+        "title": "Circular 230",
+        "url": "https://www.irs.gov/tax-professionals/circular-230-tax-professionals"
+      }
+    ]
+  },
+  "difficulty": "advanced",
+  "fields": [
+    {
+      "id": "reg-m2-tbs1-f1",
+      "label": "Authority in A",
+      "type": "select",
+      "options": [
+        {
+          "value": "Actual authority",
+          "label": "Actual authority"
+        },
+        {
+          "value": "Only apparent authority from the agent",
+          "label": "Only apparent authority from the agent"
+        },
+        {
+          "value": "No authority",
+          "label": "No authority"
+        },
+        {
+          "value": "Ratification only",
+          "label": "Ratification only"
+        }
+      ],
+      "correct": "Actual authority",
+      "explanation": "The principal directly authorized the agent.",
+      "topicId": "reg-contracts-agency"
+    },
+    {
+      "id": "reg-m2-tbs1-f2",
+      "label": "Authority in B",
+      "type": "select",
+      "options": [
+        {
+          "value": "Apparent authority",
+          "label": "Apparent authority"
+        },
+        {
+          "value": "An agent’s unilateral invention of authority",
+          "label": "An agent’s unilateral invention of authority"
+        },
+        {
+          "value": "No possible authority",
+          "label": "No possible authority"
+        },
+        {
+          "value": "Only a tax agency",
+          "label": "Only a tax agency"
+        }
+      ],
+      "correct": "Apparent authority",
+      "explanation": "The principal’s manifestations created reasonable third-party reliance.",
+      "topicId": "reg-contracts-agency"
+    },
+    {
+      "id": "reg-m2-tbs1-f3",
+      "label": "Doctrine in C",
+      "type": "select",
+      "options": [
+        {
+          "value": "Ratification",
+          "label": "Ratification"
+        },
+        {
+          "value": "Automatic discharge in bankruptcy",
+          "label": "Automatic discharge in bankruptcy"
+        },
+        {
+          "value": "Novation in every case",
+          "label": "Novation in every case"
+        },
+        {
+          "value": "No possible adoption",
+          "label": "No possible adoption"
+        }
+      ],
+      "correct": "Ratification",
+      "explanation": "Knowing adoption can bind the principal when requirements are met.",
+      "topicId": "reg-contracts-agency"
+    },
+    {
+      "id": "reg-m2-tbs1-f4",
+      "label": "Recoverable loss after the stated mitigation adjustment",
+      "type": "number",
+      "options": [],
+      "correct": 9000,
+      "explanation": "$12,000 − $3,000 reasonably avoidable loss = $9,000.",
+      "topicId": "reg-contracts-agency"
+    }
+  ],
+  "exhibits": [
+    {
+      "id": "reg-m2-tbs1-ex1",
+      "title": "Scenarios",
+      "html": "<p>A: The principal directly instructs an agent to buy supplies. B: The principal publicly represents that an agent can place ordinary orders, and a supplier reasonably relies. C: The principal knowingly accepts an unauthorized agreement under circumstances satisfying ratification. D: A seller’s breach causes a $12,000 loss, but $3,000 could reasonably have been avoided.</p>"
+    },
+    {
+      "id": "reg-m2-tbs1-ex2",
+      "title": "Assumptions",
+      "html": "<p>Apply ordinary agency and expectation-damage principles. There are no special statutory remedies, exceptions, or additional losses.</p>"
+    }
+  ],
+  "explanation": "<h3>Authority in A</h3><p>The principal directly authorized the agent.</p><h3>Authority in B</h3><p>The principal’s manifestations created reasonable third-party reliance.</p><h3>Doctrine in C</h3><p>Knowing adoption can bind the principal when requirements are met.</p><h3>Recoverable loss after the stated mitigation adjustment</h3><p>$12,000 − $3,000 reasonably avoidable loss = $9,000.</p>"
+}

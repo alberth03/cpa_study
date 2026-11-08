@@ -1,0 +1,2881 @@
+{
+  "id": "isc-m1-practice",
+  "title": "Information Systems & Data Management Practice",
+  "courseId": "isc",
+  "moduleId": 1,
+  "selection": "per-lesson",
+  "feedback": "immediate",
+  "passPercent": 80,
+  "questions": [
+    {
+      "id": "isc-m1-l1-q1",
+      "courseId": "isc",
+      "moduleId": 1,
+      "lessonId": "isc-m1-l1",
+      "topic": "IT Architecture, Cloud Models & Shared Responsibilities",
+      "prompt": "Which cloud model generally supplies a managed business application?",
+      "choices": [
+        {
+          "id": "isc-m1-l1-q1-a0",
+          "text": "Software as a service."
+        },
+        {
+          "id": "isc-m1-l1-q1-a1",
+          "text": "Infrastructure as a service only."
+        },
+        {
+          "id": "isc-m1-l1-q1-a2",
+          "text": "A local spreadsheet by definition."
+        },
+        {
+          "id": "isc-m1-l1-q1-a3",
+          "text": "A physical tape archive."
+        }
+      ],
+      "correctChoiceId": "isc-m1-l1-q1-a0",
+      "explanation": "SaaS supplies application functionality as a service.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "isc",
+        "blueprintYear": 2026,
+        "areaId": "isc-I",
+        "groupId": "A.1",
+        "topicId": "isc-it-infrastructure-cloud",
+        "taskIds": [
+          "isc-it-infrastructure-cloud.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "NIST Cybersecurity Framework",
+            "url": "https://www.nist.gov/cyberframework"
+          },
+          {
+            "title": "AICPA SOC resources",
+            "url": "https://www.aicpa-cima.com/resources/landing/system-and-organization-controls-soc-suite-of-services"
+          }
+        ]
+      }
+    },
+    {
+      "id": "isc-m1-l1-q2",
+      "courseId": "isc",
+      "moduleId": 1,
+      "lessonId": "isc-m1-l1",
+      "topic": "IT Architecture, Cloud Models & Shared Responsibilities",
+      "prompt": "Which model generally leaves more operating-system responsibility with the customer than PaaS?",
+      "choices": [
+        {
+          "id": "isc-m1-l1-q2-a0",
+          "text": "Software as a service in every case."
+        },
+        {
+          "id": "isc-m1-l1-q2-a1",
+          "text": "Infrastructure as a service."
+        },
+        {
+          "id": "isc-m1-l1-q2-a2",
+          "text": "A fully managed end-user application."
+        },
+        {
+          "id": "isc-m1-l1-q2-a3",
+          "text": "A read-only report."
+        }
+      ],
+      "correctChoiceId": "isc-m1-l1-q2-a1",
+      "explanation": "IaaS generally exposes more of the infrastructure software stack to customer administration.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "isc",
+        "blueprintYear": 2026,
+        "areaId": "isc-I",
+        "groupId": "A.1",
+        "topicId": "isc-it-infrastructure-cloud",
+        "taskIds": [
+          "isc-it-infrastructure-cloud.task-2"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "NIST Cybersecurity Framework",
+            "url": "https://www.nist.gov/cyberframework"
+          },
+          {
+            "title": "AICPA SOC resources",
+            "url": "https://www.aicpa-cima.com/resources/landing/system-and-organization-controls-soc-suite-of-services"
+          }
+        ]
+      }
+    },
+    {
+      "id": "isc-m1-l1-q3",
+      "courseId": "isc",
+      "moduleId": 1,
+      "lessonId": "isc-m1-l1",
+      "topic": "IT Architecture, Cloud Models & Shared Responsibilities",
+      "prompt": "What does a hybrid cloud deployment combine?",
+      "choices": [
+        {
+          "id": "isc-m1-l1-q3-a0",
+          "text": "Only one unmanaged laptop."
+        },
+        {
+          "id": "isc-m1-l1-q3-a1",
+          "text": "Only paper records."
+        },
+        {
+          "id": "isc-m1-l1-q3-a2",
+          "text": "Distinct deployment environments connected for the organization’s needs."
+        },
+        {
+          "id": "isc-m1-l1-q3-a3",
+          "text": "A guarantee that no vendor is used."
+        }
+      ],
+      "correctChoiceId": "isc-m1-l1-q3-a2",
+      "explanation": "Hybrid deployment combines environments; it is not itself a control guarantee.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "isc",
+        "blueprintYear": 2026,
+        "areaId": "isc-I",
+        "groupId": "A.1",
+        "topicId": "isc-it-infrastructure-cloud",
+        "taskIds": [
+          "isc-it-infrastructure-cloud.task-3"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "NIST Cybersecurity Framework",
+            "url": "https://www.nist.gov/cyberframework"
+          },
+          {
+            "title": "AICPA SOC resources",
+            "url": "https://www.aicpa-cima.com/resources/landing/system-and-organization-controls-soc-suite-of-services"
+          }
+        ]
+      }
+    },
+    {
+      "id": "isc-m1-l1-q4",
+      "courseId": "isc",
+      "moduleId": 1,
+      "lessonId": "isc-m1-l1",
+      "topic": "IT Architecture, Cloud Models & Shared Responsibilities",
+      "prompt": "Who remains responsible for appropriate customer user-access configuration in a SaaS arrangement when the contract assigns it to the customer?",
+      "choices": [
+        {
+          "id": "isc-m1-l1-q4-a0",
+          "text": "No one."
+        },
+        {
+          "id": "isc-m1-l1-q4-a1",
+          "text": "Every external investor."
+        },
+        {
+          "id": "isc-m1-l1-q4-a2",
+          "text": "The provider regardless of the stated responsibility."
+        },
+        {
+          "id": "isc-m1-l1-q4-a3",
+          "text": "The customer."
+        }
+      ],
+      "correctChoiceId": "isc-m1-l1-q4-a3",
+      "explanation": "Shared responsibility follows the actual service and agreement.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "isc",
+        "blueprintYear": 2026,
+        "areaId": "isc-I",
+        "groupId": "A.1",
+        "topicId": "isc-it-infrastructure-cloud",
+        "taskIds": [
+          "isc-it-infrastructure-cloud.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "NIST Cybersecurity Framework",
+            "url": "https://www.nist.gov/cyberframework"
+          },
+          {
+            "title": "AICPA SOC resources",
+            "url": "https://www.aicpa-cima.com/resources/landing/system-and-organization-controls-soc-suite-of-services"
+          }
+        ]
+      }
+    },
+    {
+      "id": "isc-m1-l1-q5",
+      "courseId": "isc",
+      "moduleId": 1,
+      "lessonId": "isc-m1-l1",
+      "topic": "IT Architecture, Cloud Models & Shared Responsibilities",
+      "prompt": "A system diagram omits the interface carrying sales data into the ledger. What is the concern?",
+      "choices": [
+        {
+          "id": "isc-m1-l1-q5-a0",
+          "text": "Important data-flow and control dependencies may be missed."
+        },
+        {
+          "id": "isc-m1-l1-q5-a1",
+          "text": "Only the diagram’s color scheme."
+        },
+        {
+          "id": "isc-m1-l1-q5-a2",
+          "text": "No concern if the ERP is expensive."
+        },
+        {
+          "id": "isc-m1-l1-q5-a3",
+          "text": "The missing interface proves all data is correct."
+        }
+      ],
+      "correctChoiceId": "isc-m1-l1-q5-a0",
+      "explanation": "Financial-reporting risks can arise in omitted interfaces.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "isc",
+        "blueprintYear": 2026,
+        "areaId": "isc-I",
+        "groupId": "A.1",
+        "topicId": "isc-it-infrastructure-cloud",
+        "taskIds": [
+          "isc-it-infrastructure-cloud.task-2"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "NIST Cybersecurity Framework",
+            "url": "https://www.nist.gov/cyberframework"
+          },
+          {
+            "title": "AICPA SOC resources",
+            "url": "https://www.aicpa-cima.com/resources/landing/system-and-organization-controls-soc-suite-of-services"
+          }
+        ]
+      }
+    },
+    {
+      "id": "isc-m1-l1-q6",
+      "courseId": "isc",
+      "moduleId": 1,
+      "lessonId": "isc-m1-l1",
+      "topic": "IT Architecture, Cloud Models & Shared Responsibilities",
+      "prompt": "A company moves to a reputable cloud provider. What is still needed?",
+      "choices": [
+        {
+          "id": "isc-m1-l1-q6-a0",
+          "text": "Automatic elimination of all control work."
+        },
+        {
+          "id": "isc-m1-l1-q6-a1",
+          "text": "Vendor oversight and evaluation of retained and outsourced controls."
+        },
+        {
+          "id": "isc-m1-l1-q6-a2",
+          "text": "A presumption that every configuration is secure."
+        },
+        {
+          "id": "isc-m1-l1-q6-a3",
+          "text": "No backup or exit planning."
+        }
+      ],
+      "correctChoiceId": "isc-m1-l1-q6-a1",
+      "explanation": "Provider reputation does not replace governance and controls.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "isc",
+        "blueprintYear": 2026,
+        "areaId": "isc-I",
+        "groupId": "A.1",
+        "topicId": "isc-it-infrastructure-cloud",
+        "taskIds": [
+          "isc-it-infrastructure-cloud.task-3"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "NIST Cybersecurity Framework",
+            "url": "https://www.nist.gov/cyberframework"
+          },
+          {
+            "title": "AICPA SOC resources",
+            "url": "https://www.aicpa-cima.com/resources/landing/system-and-organization-controls-soc-suite-of-services"
+          }
+        ]
+      }
+    },
+    {
+      "id": "isc-m1-l1-q7",
+      "courseId": "isc",
+      "moduleId": 1,
+      "lessonId": "isc-m1-l1",
+      "topic": "IT Architecture, Cloud Models & Shared Responsibilities",
+      "prompt": "Assign control responsibilities and identify a missing dependency in an outsourced payroll system. Contract summary: The SaaS provider operates application infrastructure. The customer approves employee master-file changes, grants user roles, and reconciles payroll totals. Architecture review: A third-party interface sends payroll journals to the general ledger, but the interface is absent from the documented data-flow diagram. Required: Application service model.",
+      "choices": [
+        {
+          "id": "isc-m1-l1-q7-a0",
+          "text": "A paper archive"
+        },
+        {
+          "id": "isc-m1-l1-q7-a1",
+          "text": "A guaranteed zero-risk system"
+        },
+        {
+          "id": "isc-m1-l1-q7-a2",
+          "text": "SaaS"
+        },
+        {
+          "id": "isc-m1-l1-q7-a3",
+          "text": "Only a local operating system"
+        }
+      ],
+      "correctChoiceId": "isc-m1-l1-q7-a2",
+      "explanation": "The provider supplies the managed application.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "isc",
+        "blueprintYear": 2026,
+        "areaId": "isc-I",
+        "groupId": "A.1",
+        "topicId": "isc-it-infrastructure-cloud",
+        "taskIds": [
+          "isc-it-infrastructure-cloud.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "NIST Cybersecurity Framework",
+            "url": "https://www.nist.gov/cyberframework"
+          },
+          {
+            "title": "AICPA SOC resources",
+            "url": "https://www.aicpa-cima.com/resources/landing/system-and-organization-controls-soc-suite-of-services"
+          }
+        ]
+      },
+      "familyId": "isc-m1-tbs1"
+    },
+    {
+      "id": "isc-m1-l1-q8",
+      "courseId": "isc",
+      "moduleId": 1,
+      "lessonId": "isc-m1-l1",
+      "topic": "IT Architecture, Cloud Models & Shared Responsibilities",
+      "prompt": "Assign control responsibilities and identify a missing dependency in an outsourced payroll system. Contract summary: The SaaS provider operates application infrastructure. The customer approves employee master-file changes, grants user roles, and reconciles payroll totals. Architecture review: A third-party interface sends payroll journals to the general ledger, but the interface is absent from the documented data-flow diagram. Required: Owner of customer role approvals.",
+      "choices": [
+        {
+          "id": "isc-m1-l1-q8-a0",
+          "text": "No responsible party"
+        },
+        {
+          "id": "isc-m1-l1-q8-a1",
+          "text": "Only payroll employees"
+        },
+        {
+          "id": "isc-m1-l1-q8-a2",
+          "text": "Every external auditor"
+        },
+        {
+          "id": "isc-m1-l1-q8-a3",
+          "text": "The customer"
+        }
+      ],
+      "correctChoiceId": "isc-m1-l1-q8-a3",
+      "explanation": "The contract assigns customer access controls to the customer.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "isc",
+        "blueprintYear": 2026,
+        "areaId": "isc-I",
+        "groupId": "A.1",
+        "topicId": "isc-it-infrastructure-cloud",
+        "taskIds": [
+          "isc-it-infrastructure-cloud.task-2"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "NIST Cybersecurity Framework",
+            "url": "https://www.nist.gov/cyberframework"
+          },
+          {
+            "title": "AICPA SOC resources",
+            "url": "https://www.aicpa-cima.com/resources/landing/system-and-organization-controls-soc-suite-of-services"
+          }
+        ]
+      },
+      "familyId": "isc-m1-tbs1"
+    },
+    {
+      "id": "isc-m1-l1-q9",
+      "courseId": "isc",
+      "moduleId": 1,
+      "lessonId": "isc-m1-l1",
+      "topic": "IT Architecture, Cloud Models & Shared Responsibilities",
+      "prompt": "Assign control responsibilities and identify a missing dependency in an outsourced payroll system. Contract summary: The SaaS provider operates application infrastructure. The customer approves employee master-file changes, grants user roles, and reconciles payroll totals. Architecture review: A third-party interface sends payroll journals to the general ledger, but the interface is absent from the documented data-flow diagram. Required: Required response to the omitted interface.",
+      "choices": [
+        {
+          "id": "isc-m1-l1-q9-a0",
+          "text": "Document the data flow and evaluate its controls"
+        },
+        {
+          "id": "isc-m1-l1-q9-a1",
+          "text": "Ignore it"
+        },
+        {
+          "id": "isc-m1-l1-q9-a2",
+          "text": "Assume it cannot affect reporting"
+        },
+        {
+          "id": "isc-m1-l1-q9-a3",
+          "text": "Delete the ledger from scope"
+        }
+      ],
+      "correctChoiceId": "isc-m1-l1-q9-a0",
+      "explanation": "The interface is a relevant dependency.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "isc",
+        "blueprintYear": 2026,
+        "areaId": "isc-I",
+        "groupId": "A.1",
+        "topicId": "isc-it-infrastructure-cloud",
+        "taskIds": [
+          "isc-it-infrastructure-cloud.task-3"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "NIST Cybersecurity Framework",
+            "url": "https://www.nist.gov/cyberframework"
+          },
+          {
+            "title": "AICPA SOC resources",
+            "url": "https://www.aicpa-cima.com/resources/landing/system-and-organization-controls-soc-suite-of-services"
+          }
+        ]
+      },
+      "familyId": "isc-m1-tbs1"
+    },
+    {
+      "id": "isc-m1-l1-q10",
+      "courseId": "isc",
+      "moduleId": 1,
+      "lessonId": "isc-m1-l1",
+      "topic": "IT Architecture, Cloud Models & Shared Responsibilities",
+      "prompt": "Assign control responsibilities and identify a missing dependency in an outsourced payroll system. Contract summary: The SaaS provider operates application infrastructure. The customer approves employee master-file changes, grants user roles, and reconciles payroll totals. Architecture review: A third-party interface sends payroll journals to the general ledger, but the interface is absent from the documented data-flow diagram. Required: Effect of outsourcing on accountability.",
+      "choices": [
+        {
+          "id": "isc-m1-l1-q10-a0",
+          "text": "It removes every customer duty"
+        },
+        {
+          "id": "isc-m1-l1-q10-a1",
+          "text": "It changes control performance but does not eliminate accountability"
+        },
+        {
+          "id": "isc-m1-l1-q10-a2",
+          "text": "It guarantees accurate payroll"
+        },
+        {
+          "id": "isc-m1-l1-q10-a3",
+          "text": "It prevents all security incidents"
+        }
+      ],
+      "correctChoiceId": "isc-m1-l1-q10-a1",
+      "explanation": "Governance and retained responsibilities continue.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "isc",
+        "blueprintYear": 2026,
+        "areaId": "isc-I",
+        "groupId": "A.1",
+        "topicId": "isc-it-infrastructure-cloud",
+        "taskIds": [
+          "isc-it-infrastructure-cloud.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "NIST Cybersecurity Framework",
+            "url": "https://www.nist.gov/cyberframework"
+          },
+          {
+            "title": "AICPA SOC resources",
+            "url": "https://www.aicpa-cima.com/resources/landing/system-and-organization-controls-soc-suite-of-services"
+          }
+        ]
+      },
+      "familyId": "isc-m1-tbs1"
+    },
+    {
+      "id": "isc-m1-l2-q1",
+      "courseId": "isc",
+      "moduleId": 1,
+      "lessonId": "isc-m1-l2",
+      "topic": "ERP, Business Processes, Interfaces & Automation",
+      "prompt": "What is a central purpose of an ERP?",
+      "choices": [
+        {
+          "id": "isc-m1-l2-q1-a0",
+          "text": "Eliminate all authorization requirements."
+        },
+        {
+          "id": "isc-m1-l2-q1-a1",
+          "text": "Integrate information and processing across business functions."
+        },
+        {
+          "id": "isc-m1-l2-q1-a2",
+          "text": "Guarantee every source transaction is valid."
+        },
+        {
+          "id": "isc-m1-l2-q1-a3",
+          "text": "Replace all employees with auditors."
+        }
+      ],
+      "correctChoiceId": "isc-m1-l2-q1-a1",
+      "explanation": "ERP integration connects business processes and data.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "isc",
+        "blueprintYear": 2026,
+        "areaId": "isc-I",
+        "groupId": "A.2",
+        "topicId": "isc-enterprise-systems",
+        "taskIds": [
+          "isc-enterprise-systems.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "NIST Cybersecurity Framework",
+            "url": "https://www.nist.gov/cyberframework"
+          },
+          {
+            "title": "AICPA SOC resources",
+            "url": "https://www.aicpa-cima.com/resources/landing/system-and-organization-controls-soc-suite-of-services"
+          }
+        ]
+      }
+    },
+    {
+      "id": "isc-m1-l2-q2",
+      "courseId": "isc",
+      "moduleId": 1,
+      "lessonId": "isc-m1-l2",
+      "topic": "ERP, Business Processes, Interfaces & Automation",
+      "prompt": "Which is an application control?",
+      "choices": [
+        {
+          "id": "isc-m1-l2-q2-a0",
+          "text": "Firm-wide developer access governance alone."
+        },
+        {
+          "id": "isc-m1-l2-q2-a1",
+          "text": "A building fire alarm alone."
+        },
+        {
+          "id": "isc-m1-l2-q2-a2",
+          "text": "An automated invoice-to-order-and-receipt match."
+        },
+        {
+          "id": "isc-m1-l2-q2-a3",
+          "text": "A board meeting calendar."
+        }
+      ],
+      "correctChoiceId": "isc-m1-l2-q2-a2",
+      "explanation": "The match validates processing within an application.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "isc",
+        "blueprintYear": 2026,
+        "areaId": "isc-I",
+        "groupId": "A.2",
+        "topicId": "isc-enterprise-systems",
+        "taskIds": [
+          "isc-enterprise-systems.task-2"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "NIST Cybersecurity Framework",
+            "url": "https://www.nist.gov/cyberframework"
+          },
+          {
+            "title": "AICPA SOC resources",
+            "url": "https://www.aicpa-cima.com/resources/landing/system-and-organization-controls-soc-suite-of-services"
+          }
+        ]
+      }
+    },
+    {
+      "id": "isc-m1-l2-q3",
+      "courseId": "isc",
+      "moduleId": 1,
+      "lessonId": "isc-m1-l2",
+      "topic": "ERP, Business Processes, Interfaces & Automation",
+      "prompt": "Which is generally an IT general control?",
+      "choices": [
+        {
+          "id": "isc-m1-l2-q3-a0",
+          "text": "Only recalculating one sales invoice."
+        },
+        {
+          "id": "isc-m1-l2-q3-a1",
+          "text": "Only counting a particular inventory item."
+        },
+        {
+          "id": "isc-m1-l2-q3-a2",
+          "text": "Only approving a customer discount."
+        },
+        {
+          "id": "isc-m1-l2-q3-a3",
+          "text": "Controlled promotion of authorized program changes."
+        }
+      ],
+      "correctChoiceId": "isc-m1-l2-q3-a3",
+      "explanation": "Change management supports the reliability of systems and applications.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "isc",
+        "blueprintYear": 2026,
+        "areaId": "isc-I",
+        "groupId": "A.2",
+        "topicId": "isc-enterprise-systems",
+        "taskIds": [
+          "isc-enterprise-systems.task-3"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "NIST Cybersecurity Framework",
+            "url": "https://www.nist.gov/cyberframework"
+          },
+          {
+            "title": "AICPA SOC resources",
+            "url": "https://www.aicpa-cima.com/resources/landing/system-and-organization-controls-soc-suite-of-services"
+          }
+        ]
+      }
+    },
+    {
+      "id": "isc-m1-l2-q4",
+      "courseId": "isc",
+      "moduleId": 1,
+      "lessonId": "isc-m1-l2",
+      "topic": "ERP, Business Processes, Interfaces & Automation",
+      "prompt": "Does blockchain storage guarantee the truth of information originally entered?",
+      "choices": [
+        {
+          "id": "isc-m1-l2-q4-a0",
+          "text": "No."
+        },
+        {
+          "id": "isc-m1-l2-q4-a1",
+          "text": "Yes, every off-chain fact is verified automatically."
+        },
+        {
+          "id": "isc-m1-l2-q4-a2",
+          "text": "Only if the chain has many nodes."
+        },
+        {
+          "id": "isc-m1-l2-q4-a3",
+          "text": "Only if transactions are expensive."
+        }
+      ],
+      "correctChoiceId": "isc-m1-l2-q4-a0",
+      "explanation": "Integrity of stored records does not prove the validity of source facts.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "isc",
+        "blueprintYear": 2026,
+        "areaId": "isc-I",
+        "groupId": "A.2",
+        "topicId": "isc-enterprise-systems",
+        "taskIds": [
+          "isc-enterprise-systems.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "NIST Cybersecurity Framework",
+            "url": "https://www.nist.gov/cyberframework"
+          },
+          {
+            "title": "AICPA SOC resources",
+            "url": "https://www.aicpa-cima.com/resources/landing/system-and-organization-controls-soc-suite-of-services"
+          }
+        ]
+      }
+    },
+    {
+      "id": "isc-m1-l2-q5",
+      "courseId": "isc",
+      "moduleId": 1,
+      "lessonId": "isc-m1-l2",
+      "topic": "ERP, Business Processes, Interfaces & Automation",
+      "prompt": "An automated control uses an incorrect tax-rate configuration for every sale. What is the implication?",
+      "choices": [
+        {
+          "id": "isc-m1-l2-q5-a0",
+          "text": "Automation makes the error immaterial."
+        },
+        {
+          "id": "isc-m1-l2-q5-a1",
+          "text": "Consistent automated processing can create systematic error."
+        },
+        {
+          "id": "isc-m1-l2-q5-a2",
+          "text": "No testing of configuration is needed."
+        },
+        {
+          "id": "isc-m1-l2-q5-a3",
+          "text": "All financial statements must automatically be correct."
+        }
+      ],
+      "correctChoiceId": "isc-m1-l2-q5-a1",
+      "explanation": "Automation can scale a configuration error across the population.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "isc",
+        "blueprintYear": 2026,
+        "areaId": "isc-I",
+        "groupId": "A.2",
+        "topicId": "isc-enterprise-systems",
+        "taskIds": [
+          "isc-enterprise-systems.task-2"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "NIST Cybersecurity Framework",
+            "url": "https://www.nist.gov/cyberframework"
+          },
+          {
+            "title": "AICPA SOC resources",
+            "url": "https://www.aicpa-cima.com/resources/landing/system-and-organization-controls-soc-suite-of-services"
+          }
+        ]
+      }
+    },
+    {
+      "id": "isc-m1-l2-q6",
+      "courseId": "isc",
+      "moduleId": 1,
+      "lessonId": "isc-m1-l2",
+      "topic": "ERP, Business Processes, Interfaces & Automation",
+      "prompt": "Before relying on an RPA-generated reconciliation, what should be evaluated?",
+      "choices": [
+        {
+          "id": "isc-m1-l2-q6-a0",
+          "text": "Only the robot’s name."
+        },
+        {
+          "id": "isc-m1-l2-q6-a1",
+          "text": "Only whether the output is a PDF."
+        },
+        {
+          "id": "isc-m1-l2-q6-a2",
+          "text": "Input completeness, logic, exception handling, and review."
+        },
+        {
+          "id": "isc-m1-l2-q6-a3",
+          "text": "A presumption of independence because it is automated."
+        }
+      ],
+      "correctChoiceId": "isc-m1-l2-q6-a2",
+      "explanation": "Reliability requires validating the process and its dependencies.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "isc",
+        "blueprintYear": 2026,
+        "areaId": "isc-I",
+        "groupId": "A.2",
+        "topicId": "isc-enterprise-systems",
+        "taskIds": [
+          "isc-enterprise-systems.task-3"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "NIST Cybersecurity Framework",
+            "url": "https://www.nist.gov/cyberframework"
+          },
+          {
+            "title": "AICPA SOC resources",
+            "url": "https://www.aicpa-cima.com/resources/landing/system-and-organization-controls-soc-suite-of-services"
+          }
+        ]
+      }
+    },
+    {
+      "id": "isc-m1-l2-q7",
+      "courseId": "isc",
+      "moduleId": 1,
+      "lessonId": "isc-m1-l2",
+      "topic": "ERP, Business Processes, Interfaces & Automation",
+      "prompt": "Identify controls and weaknesses in an automated payment workflow. Process flow: The ERP matches invoices with orders and receipts. Vendor bank-account changes can be made and approved by the same user. A robot exports payment totals but drops rejected records from its report. Control objective: Payments should be authorized, directed to valid recipients, completely recorded, and reconciled. The matching rule alone does not address every objective. Required: Classification of the three-way match.",
+      "choices": [
+        {
+          "id": "isc-m1-l2-q7-a0",
+          "text": "Only physical security"
+        },
+        {
+          "id": "isc-m1-l2-q7-a1",
+          "text": "An audit opinion"
+        },
+        {
+          "id": "isc-m1-l2-q7-a2",
+          "text": "A tax election"
+        },
+        {
+          "id": "isc-m1-l2-q7-a3",
+          "text": "Application control"
+        }
+      ],
+      "correctChoiceId": "isc-m1-l2-q7-a3",
+      "explanation": "The match controls a specific transaction-processing function.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "isc",
+        "blueprintYear": 2026,
+        "areaId": "isc-I",
+        "groupId": "A.2",
+        "topicId": "isc-enterprise-systems",
+        "taskIds": [
+          "isc-enterprise-systems.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "NIST Cybersecurity Framework",
+            "url": "https://www.nist.gov/cyberframework"
+          },
+          {
+            "title": "AICPA SOC resources",
+            "url": "https://www.aicpa-cima.com/resources/landing/system-and-organization-controls-soc-suite-of-services"
+          }
+        ]
+      },
+      "familyId": "isc-m1-tbs2"
+    },
+    {
+      "id": "isc-m1-l2-q8",
+      "courseId": "isc",
+      "moduleId": 1,
+      "lessonId": "isc-m1-l2",
+      "topic": "ERP, Business Processes, Interfaces & Automation",
+      "prompt": "Identify controls and weaknesses in an automated payment workflow. Process flow: The ERP matches invoices with orders and receipts. Vendor bank-account changes can be made and approved by the same user. A robot exports payment totals but drops rejected records from its report. Control objective: Payments should be authorized, directed to valid recipients, completely recorded, and reconciled. The matching rule alone does not address every objective. Required: Vendor-change weakness.",
+      "choices": [
+        {
+          "id": "isc-m1-l2-q8-a0",
+          "text": "Lack of independent authorization or segregation"
+        },
+        {
+          "id": "isc-m1-l2-q8-a1",
+          "text": "Guaranteed security from automation"
+        },
+        {
+          "id": "isc-m1-l2-q8-a2",
+          "text": "Only a formatting issue"
+        },
+        {
+          "id": "isc-m1-l2-q8-a3",
+          "text": "No possible payment risk"
+        }
+      ],
+      "correctChoiceId": "isc-m1-l2-q8-a0",
+      "explanation": "Self-approved master-data changes can redirect payments.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "isc",
+        "blueprintYear": 2026,
+        "areaId": "isc-I",
+        "groupId": "A.2",
+        "topicId": "isc-enterprise-systems",
+        "taskIds": [
+          "isc-enterprise-systems.task-2"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "NIST Cybersecurity Framework",
+            "url": "https://www.nist.gov/cyberframework"
+          },
+          {
+            "title": "AICPA SOC resources",
+            "url": "https://www.aicpa-cima.com/resources/landing/system-and-organization-controls-soc-suite-of-services"
+          }
+        ]
+      },
+      "familyId": "isc-m1-tbs2"
+    },
+    {
+      "id": "isc-m1-l2-q9",
+      "courseId": "isc",
+      "moduleId": 1,
+      "lessonId": "isc-m1-l2",
+      "topic": "ERP, Business Processes, Interfaces & Automation",
+      "prompt": "Identify controls and weaknesses in an automated payment workflow. Process flow: The ERP matches invoices with orders and receipts. Vendor bank-account changes can be made and approved by the same user. A robot exports payment totals but drops rejected records from its report. Control objective: Payments should be authorized, directed to valid recipients, completely recorded, and reconciled. The matching rule alone does not address every objective. Required: Risk from omitted rejected records.",
+      "choices": [
+        {
+          "id": "isc-m1-l2-q9-a0",
+          "text": "Automatic proof of no exceptions"
+        },
+        {
+          "id": "isc-m1-l2-q9-a1",
+          "text": "Incomplete reconciliation information"
+        },
+        {
+          "id": "isc-m1-l2-q9-a2",
+          "text": "No effect on completeness"
+        },
+        {
+          "id": "isc-m1-l2-q9-a3",
+          "text": "A guaranteed accurate report"
+        }
+      ],
+      "correctChoiceId": "isc-m1-l2-q9-a1",
+      "explanation": "Rejected records may need investigation and reconciliation.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "isc",
+        "blueprintYear": 2026,
+        "areaId": "isc-I",
+        "groupId": "A.2",
+        "topicId": "isc-enterprise-systems",
+        "taskIds": [
+          "isc-enterprise-systems.task-3"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "NIST Cybersecurity Framework",
+            "url": "https://www.nist.gov/cyberframework"
+          },
+          {
+            "title": "AICPA SOC resources",
+            "url": "https://www.aicpa-cima.com/resources/landing/system-and-organization-controls-soc-suite-of-services"
+          }
+        ]
+      },
+      "familyId": "isc-m1-tbs2"
+    },
+    {
+      "id": "isc-m1-l2-q10",
+      "courseId": "isc",
+      "moduleId": 1,
+      "lessonId": "isc-m1-l2",
+      "topic": "ERP, Business Processes, Interfaces & Automation",
+      "prompt": "Identify controls and weaknesses in an automated payment workflow. Process flow: The ERP matches invoices with orders and receipts. Vendor bank-account changes can be made and approved by the same user. A robot exports payment totals but drops rejected records from its report. Control objective: Payments should be authorized, directed to valid recipients, completely recorded, and reconciled. The matching rule alone does not address every objective. Required: Best next step.",
+      "choices": [
+        {
+          "id": "isc-m1-l2-q10-a0",
+          "text": "Review only the final total"
+        },
+        {
+          "id": "isc-m1-l2-q10-a1",
+          "text": "Ignore master-data changes"
+        },
+        {
+          "id": "isc-m1-l2-q10-a2",
+          "text": "Trace inputs, exceptions, approvals, and postings through the full process"
+        },
+        {
+          "id": "isc-m1-l2-q10-a3",
+          "text": "Assume the robot is an independent auditor"
+        }
+      ],
+      "correctChoiceId": "isc-m1-l2-q10-a2",
+      "explanation": "End-to-end understanding connects each risk to an appropriate control.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "isc",
+        "blueprintYear": 2026,
+        "areaId": "isc-I",
+        "groupId": "A.2",
+        "topicId": "isc-enterprise-systems",
+        "taskIds": [
+          "isc-enterprise-systems.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "NIST Cybersecurity Framework",
+            "url": "https://www.nist.gov/cyberframework"
+          },
+          {
+            "title": "AICPA SOC resources",
+            "url": "https://www.aicpa-cima.com/resources/landing/system-and-organization-controls-soc-suite-of-services"
+          }
+        ]
+      },
+      "familyId": "isc-m1-tbs2"
+    },
+    {
+      "id": "isc-m1-l3-q1",
+      "courseId": "isc",
+      "moduleId": 1,
+      "lessonId": "isc-m1-l3",
+      "topic": "Data Integrity, Databases, SQL & Data Lifecycle",
+      "prompt": "What does a data dictionary primarily describe?",
+      "choices": [
+        {
+          "id": "isc-m1-l3-q1-a0",
+          "text": "Only office locations."
+        },
+        {
+          "id": "isc-m1-l3-q1-a1",
+          "text": "Only employee salaries."
+        },
+        {
+          "id": "isc-m1-l3-q1-a2",
+          "text": "Data fields, meanings, formats, and related definitions."
+        },
+        {
+          "id": "isc-m1-l3-q1-a3",
+          "text": "Only the company logo."
+        }
+      ],
+      "correctChoiceId": "isc-m1-l3-q1-a2",
+      "explanation": "A dictionary supports consistent interpretation of data.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "isc",
+        "blueprintYear": 2026,
+        "areaId": "isc-I",
+        "groupId": "B",
+        "topicId": "isc-data-management-sql",
+        "taskIds": [
+          "isc-data-management-sql.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "NIST Cybersecurity Framework",
+            "url": "https://www.nist.gov/cyberframework"
+          },
+          {
+            "title": "AICPA SOC resources",
+            "url": "https://www.aicpa-cima.com/resources/landing/system-and-organization-controls-soc-suite-of-services"
+          }
+        ]
+      }
+    },
+    {
+      "id": "isc-m1-l3-q2",
+      "courseId": "isc",
+      "moduleId": 1,
+      "lessonId": "isc-m1-l3",
+      "topic": "Data Integrity, Databases, SQL & Data Lifecycle",
+      "prompt": "What can an inner join do to unmatched records?",
+      "choices": [
+        {
+          "id": "isc-m1-l3-q2-a0",
+          "text": "Always duplicate every row."
+        },
+        {
+          "id": "isc-m1-l3-q2-a1",
+          "text": "Guarantee completeness of the source."
+        },
+        {
+          "id": "isc-m1-l3-q2-a2",
+          "text": "Encrypt every field automatically."
+        },
+        {
+          "id": "isc-m1-l3-q2-a3",
+          "text": "Exclude them from the result."
+        }
+      ],
+      "correctChoiceId": "isc-m1-l3-q2-a3",
+      "explanation": "Inner joins retain matching rows and can omit relevant unmatched records.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "isc",
+        "blueprintYear": 2026,
+        "areaId": "isc-I",
+        "groupId": "B",
+        "topicId": "isc-data-management-sql",
+        "taskIds": [
+          "isc-data-management-sql.task-2"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "NIST Cybersecurity Framework",
+            "url": "https://www.nist.gov/cyberframework"
+          },
+          {
+            "title": "AICPA SOC resources",
+            "url": "https://www.aicpa-cima.com/resources/landing/system-and-organization-controls-soc-suite-of-services"
+          }
+        ]
+      }
+    },
+    {
+      "id": "isc-m1-l3-q3",
+      "courseId": "isc",
+      "moduleId": 1,
+      "lessonId": "isc-m1-l3",
+      "topic": "Data Integrity, Databases, SQL & Data Lifecycle",
+      "prompt": "Which analytical schema commonly has a central fact table with related dimension tables?",
+      "choices": [
+        {
+          "id": "isc-m1-l3-q3-a0",
+          "text": "Star schema."
+        },
+        {
+          "id": "isc-m1-l3-q3-a1",
+          "text": "A paper filing cabinet."
+        },
+        {
+          "id": "isc-m1-l3-q3-a2",
+          "text": "A password policy."
+        },
+        {
+          "id": "isc-m1-l3-q3-a3",
+          "text": "A disaster-recovery site."
+        }
+      ],
+      "correctChoiceId": "isc-m1-l3-q3-a0",
+      "explanation": "A star schema structures facts and dimensions for analytics.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "isc",
+        "blueprintYear": 2026,
+        "areaId": "isc-I",
+        "groupId": "B",
+        "topicId": "isc-data-management-sql",
+        "taskIds": [
+          "isc-data-management-sql.task-3"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "NIST Cybersecurity Framework",
+            "url": "https://www.nist.gov/cyberframework"
+          },
+          {
+            "title": "AICPA SOC resources",
+            "url": "https://www.aicpa-cima.com/resources/landing/system-and-organization-controls-soc-suite-of-services"
+          }
+        ]
+      }
+    },
+    {
+      "id": "isc-m1-l3-q4",
+      "courseId": "isc",
+      "moduleId": 1,
+      "lessonId": "isc-m1-l3",
+      "topic": "Data Integrity, Databases, SQL & Data Lifecycle",
+      "prompt": "What is a purpose of relational normalization?",
+      "choices": [
+        {
+          "id": "isc-m1-l3-q4-a0",
+          "text": "Guarantee every input fact is true."
+        },
+        {
+          "id": "isc-m1-l3-q4-a1",
+          "text": "Reduce certain redundancy and update anomalies."
+        },
+        {
+          "id": "isc-m1-l3-q4-a2",
+          "text": "Eliminate all queries."
+        },
+        {
+          "id": "isc-m1-l3-q4-a3",
+          "text": "Replace access control."
+        }
+      ],
+      "correctChoiceId": "isc-m1-l3-q4-a1",
+      "explanation": "Normalization improves relational structure but is not a complete quality or security control.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "isc",
+        "blueprintYear": 2026,
+        "areaId": "isc-I",
+        "groupId": "B",
+        "topicId": "isc-data-management-sql",
+        "taskIds": [
+          "isc-data-management-sql.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "NIST Cybersecurity Framework",
+            "url": "https://www.nist.gov/cyberframework"
+          },
+          {
+            "title": "AICPA SOC resources",
+            "url": "https://www.aicpa-cima.com/resources/landing/system-and-organization-controls-soc-suite-of-services"
+          }
+        ]
+      }
+    },
+    {
+      "id": "isc-m1-l3-q5",
+      "courseId": "isc",
+      "moduleId": 1,
+      "lessonId": "isc-m1-l3",
+      "topic": "Data Integrity, Databases, SQL & Data Lifecycle",
+      "prompt": "A $700 invoice appears twice after a one-to-many join. What is the overstatement if the result is summed without correction?",
+      "choices": [
+        {
+          "id": "isc-m1-l3-q5-a0",
+          "text": "$1,400."
+        },
+        {
+          "id": "isc-m1-l3-q5-a1",
+          "text": "$350."
+        },
+        {
+          "id": "isc-m1-l3-q5-a2",
+          "text": "$700."
+        },
+        {
+          "id": "isc-m1-l3-q5-a3",
+          "text": "Zero."
+        }
+      ],
+      "correctChoiceId": "isc-m1-l3-q5-a2",
+      "explanation": "The single $700 invoice is counted an extra time.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "isc",
+        "blueprintYear": 2026,
+        "areaId": "isc-I",
+        "groupId": "B",
+        "topicId": "isc-data-management-sql",
+        "taskIds": [
+          "isc-data-management-sql.task-2"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "NIST Cybersecurity Framework",
+            "url": "https://www.nist.gov/cyberframework"
+          },
+          {
+            "title": "AICPA SOC resources",
+            "url": "https://www.aicpa-cima.com/resources/landing/system-and-organization-controls-soc-suite-of-services"
+          }
+        ]
+      }
+    },
+    {
+      "id": "isc-m1-l3-q6",
+      "courseId": "isc",
+      "moduleId": 1,
+      "lessonId": "isc-m1-l3",
+      "topic": "Data Integrity, Databases, SQL & Data Lifecycle",
+      "prompt": "An extraction excludes December 31 transactions through an incorrect date boundary. What is required?",
+      "choices": [
+        {
+          "id": "isc-m1-l3-q6-a0",
+          "text": "Accept the result because SQL ran successfully."
+        },
+        {
+          "id": "isc-m1-l3-q6-a1",
+          "text": "Ignore the year-end records."
+        },
+        {
+          "id": "isc-m1-l3-q6-a2",
+          "text": "Increase only the chart size."
+        },
+        {
+          "id": "isc-m1-l3-q6-a3",
+          "text": "Correct the filter and validate the population against source controls."
+        }
+      ],
+      "correctChoiceId": "isc-m1-l3-q6-a3",
+      "explanation": "Execution success does not establish completeness or relevance.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "isc",
+        "blueprintYear": 2026,
+        "areaId": "isc-I",
+        "groupId": "B",
+        "topicId": "isc-data-management-sql",
+        "taskIds": [
+          "isc-data-management-sql.task-3"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "NIST Cybersecurity Framework",
+            "url": "https://www.nist.gov/cyberframework"
+          },
+          {
+            "title": "AICPA SOC resources",
+            "url": "https://www.aicpa-cima.com/resources/landing/system-and-organization-controls-soc-suite-of-services"
+          }
+        ]
+      }
+    },
+    {
+      "id": "isc-m1-l3-q7",
+      "courseId": "isc",
+      "moduleId": 1,
+      "lessonId": "isc-m1-l3",
+      "topic": "Data Integrity, Databases, SQL & Data Lifecycle",
+      "prompt": "Evaluate a reporting extract before using it for financial analysis. Source and output: The source has 1,000 invoices totaling $500,000. The extract has 950 unique invoice IDs totaling $475,000 before a join. A customer-address join duplicates one $2,000 invoice. Query review: An inner join omits customers without an address, and the date filter excludes the last day of the period. Required: Number of source invoices missing before the join.",
+      "choices": [
+        {
+          "id": "isc-m1-l3-q7-a0",
+          "text": "50"
+        },
+        {
+          "id": "isc-m1-l3-q7-a1",
+          "text": "950"
+        },
+        {
+          "id": "isc-m1-l3-q7-a2",
+          "text": "1000"
+        },
+        {
+          "id": "isc-m1-l3-q7-a3",
+          "text": "25"
+        }
+      ],
+      "correctChoiceId": "isc-m1-l3-q7-a0",
+      "explanation": "1,000 − 950 = 50 invoices.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "isc",
+        "blueprintYear": 2026,
+        "areaId": "isc-I",
+        "groupId": "B",
+        "topicId": "isc-data-management-sql",
+        "taskIds": [
+          "isc-data-management-sql.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "NIST Cybersecurity Framework",
+            "url": "https://www.nist.gov/cyberframework"
+          },
+          {
+            "title": "AICPA SOC resources",
+            "url": "https://www.aicpa-cima.com/resources/landing/system-and-organization-controls-soc-suite-of-services"
+          }
+        ]
+      },
+      "familyId": "isc-m1-tbs3"
+    },
+    {
+      "id": "isc-m1-l3-q8",
+      "courseId": "isc",
+      "moduleId": 1,
+      "lessonId": "isc-m1-l3",
+      "topic": "Data Integrity, Databases, SQL & Data Lifecycle",
+      "prompt": "Evaluate a reporting extract before using it for financial analysis. Source and output: The source has 1,000 invoices totaling $500,000. The extract has 950 unique invoice IDs totaling $475,000 before a join. A customer-address join duplicates one $2,000 invoice. Query review: An inner join omits customers without an address, and the date filter excludes the last day of the period. Required: Difference from the source total before the join.",
+      "choices": [
+        {
+          "id": "isc-m1-l3-q8-a0",
+          "text": "475000"
+        },
+        {
+          "id": "isc-m1-l3-q8-a1",
+          "text": "25000"
+        },
+        {
+          "id": "isc-m1-l3-q8-a2",
+          "text": "500000"
+        },
+        {
+          "id": "isc-m1-l3-q8-a3",
+          "text": "2000"
+        }
+      ],
+      "correctChoiceId": "isc-m1-l3-q8-a1",
+      "explanation": "$500,000 − $475,000 = $25,000.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "isc",
+        "blueprintYear": 2026,
+        "areaId": "isc-I",
+        "groupId": "B",
+        "topicId": "isc-data-management-sql",
+        "taskIds": [
+          "isc-data-management-sql.task-2"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "NIST Cybersecurity Framework",
+            "url": "https://www.nist.gov/cyberframework"
+          },
+          {
+            "title": "AICPA SOC resources",
+            "url": "https://www.aicpa-cima.com/resources/landing/system-and-organization-controls-soc-suite-of-services"
+          }
+        ]
+      },
+      "familyId": "isc-m1-tbs3"
+    },
+    {
+      "id": "isc-m1-l3-q9",
+      "courseId": "isc",
+      "moduleId": 1,
+      "lessonId": "isc-m1-l3",
+      "topic": "Data Integrity, Databases, SQL & Data Lifecycle",
+      "prompt": "Evaluate a reporting extract before using it for financial analysis. Source and output: The source has 1,000 invoices totaling $500,000. The extract has 950 unique invoice IDs totaling $475,000 before a join. A customer-address join duplicates one $2,000 invoice. Query review: An inner join omits customers without an address, and the date filter excludes the last day of the period. Required: Additional overstatement caused by the duplicate invoice.",
+      "choices": [
+        {
+          "id": "isc-m1-l3-q9-a0",
+          "text": "4000"
+        },
+        {
+          "id": "isc-m1-l3-q9-a1",
+          "text": "25000"
+        },
+        {
+          "id": "isc-m1-l3-q9-a2",
+          "text": "2000"
+        },
+        {
+          "id": "isc-m1-l3-q9-a3",
+          "text": "0"
+        }
+      ],
+      "correctChoiceId": "isc-m1-l3-q9-a2",
+      "explanation": "One extra occurrence adds $2,000.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "isc",
+        "blueprintYear": 2026,
+        "areaId": "isc-I",
+        "groupId": "B",
+        "topicId": "isc-data-management-sql",
+        "taskIds": [
+          "isc-data-management-sql.task-3"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "NIST Cybersecurity Framework",
+            "url": "https://www.nist.gov/cyberframework"
+          },
+          {
+            "title": "AICPA SOC resources",
+            "url": "https://www.aicpa-cima.com/resources/landing/system-and-organization-controls-soc-suite-of-services"
+          }
+        ]
+      },
+      "familyId": "isc-m1-tbs3"
+    },
+    {
+      "id": "isc-m1-l3-q10",
+      "courseId": "isc",
+      "moduleId": 1,
+      "lessonId": "isc-m1-l3",
+      "topic": "Data Integrity, Databases, SQL & Data Lifecycle",
+      "prompt": "Evaluate a reporting extract before using it for financial analysis. Source and output: The source has 1,000 invoices totaling $500,000. The extract has 950 unique invoice IDs totaling $475,000 before a join. A customer-address join duplicates one $2,000 invoice. Query review: An inner join omits customers without an address, and the date filter excludes the last day of the period. Required: Required remediation.",
+      "choices": [
+        {
+          "id": "isc-m1-l3-q10-a0",
+          "text": "Accept the chart as reliable"
+        },
+        {
+          "id": "isc-m1-l3-q10-a1",
+          "text": "Ignore unmatched records"
+        },
+        {
+          "id": "isc-m1-l3-q10-a2",
+          "text": "Assume all differences cancel"
+        },
+        {
+          "id": "isc-m1-l3-q10-a3",
+          "text": "Correct joins and filters and reconcile counts and totals"
+        }
+      ],
+      "correctChoiceId": "isc-m1-l3-q10-a3",
+      "explanation": "Both omitted and duplicated records must be addressed.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "isc",
+        "blueprintYear": 2026,
+        "areaId": "isc-I",
+        "groupId": "B",
+        "topicId": "isc-data-management-sql",
+        "taskIds": [
+          "isc-data-management-sql.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "NIST Cybersecurity Framework",
+            "url": "https://www.nist.gov/cyberframework"
+          },
+          {
+            "title": "AICPA SOC resources",
+            "url": "https://www.aicpa-cima.com/resources/landing/system-and-organization-controls-soc-suite-of-services"
+          }
+        ]
+      },
+      "familyId": "isc-m1-tbs3"
+    },
+    {
+      "id": "isc-m1-l4-q1",
+      "courseId": "isc",
+      "moduleId": 1,
+      "lessonId": "isc-m1-l4",
+      "topic": "SDLC, Change Management, Configuration & Releases",
+      "prompt": "Which environment ordinarily hosts the live business system?",
+      "choices": [
+        {
+          "id": "isc-m1-l4-q1-a0",
+          "text": "A unit-test sandbox by definition."
+        },
+        {
+          "id": "isc-m1-l4-q1-a1",
+          "text": "A developer’s draft only."
+        },
+        {
+          "id": "isc-m1-l4-q1-a2",
+          "text": "A discarded backup."
+        },
+        {
+          "id": "isc-m1-l4-q1-a3",
+          "text": "Production."
+        }
+      ],
+      "correctChoiceId": "isc-m1-l4-q1-a3",
+      "explanation": "Production supports live processing and requires controlled access and changes.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "isc",
+        "blueprintYear": 2026,
+        "areaId": "isc-I",
+        "groupId": "A.4",
+        "topicId": "isc-change-management",
+        "taskIds": [
+          "isc-change-management.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "NIST Cybersecurity Framework",
+            "url": "https://www.nist.gov/cyberframework"
+          },
+          {
+            "title": "AICPA SOC resources",
+            "url": "https://www.aicpa-cima.com/resources/landing/system-and-organization-controls-soc-suite-of-services"
+          }
+        ]
+      }
+    },
+    {
+      "id": "isc-m1-l4-q2",
+      "courseId": "isc",
+      "moduleId": 1,
+      "lessonId": "isc-m1-l4",
+      "topic": "SDLC, Change Management, Configuration & Releases",
+      "prompt": "What is the purpose of a rollback plan?",
+      "choices": [
+        {
+          "id": "isc-m1-l4-q2-a0",
+          "text": "Restore an appropriate prior state if a deployment fails."
+        },
+        {
+          "id": "isc-m1-l4-q2-a1",
+          "text": "Guarantee no testing is needed."
+        },
+        {
+          "id": "isc-m1-l4-q2-a2",
+          "text": "Delete every audit trail."
+        },
+        {
+          "id": "isc-m1-l4-q2-a3",
+          "text": "Eliminate business ownership."
+        }
+      ],
+      "correctChoiceId": "isc-m1-l4-q2-a0",
+      "explanation": "Rollback planning supports recovery from unsuccessful changes.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "isc",
+        "blueprintYear": 2026,
+        "areaId": "isc-I",
+        "groupId": "A.4",
+        "topicId": "isc-change-management",
+        "taskIds": [
+          "isc-change-management.task-2"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "NIST Cybersecurity Framework",
+            "url": "https://www.nist.gov/cyberframework"
+          },
+          {
+            "title": "AICPA SOC resources",
+            "url": "https://www.aicpa-cima.com/resources/landing/system-and-organization-controls-soc-suite-of-services"
+          }
+        ]
+      }
+    },
+    {
+      "id": "isc-m1-l4-q3",
+      "courseId": "isc",
+      "moduleId": 1,
+      "lessonId": "isc-m1-l4",
+      "topic": "SDLC, Change Management, Configuration & Releases",
+      "prompt": "Which test examines whether integrated components work together?",
+      "choices": [
+        {
+          "id": "isc-m1-l4-q3-a0",
+          "text": "Only a password length check."
+        },
+        {
+          "id": "isc-m1-l4-q3-a1",
+          "text": "Integration testing."
+        },
+        {
+          "id": "isc-m1-l4-q3-a2",
+          "text": "Only a financial-statement audit opinion."
+        },
+        {
+          "id": "isc-m1-l4-q3-a3",
+          "text": "Only a building inspection."
+        }
+      ],
+      "correctChoiceId": "isc-m1-l4-q3-a1",
+      "explanation": "Integration testing addresses interactions among components.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "isc",
+        "blueprintYear": 2026,
+        "areaId": "isc-I",
+        "groupId": "A.4",
+        "topicId": "isc-change-management",
+        "taskIds": [
+          "isc-change-management.task-3"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "NIST Cybersecurity Framework",
+            "url": "https://www.nist.gov/cyberframework"
+          },
+          {
+            "title": "AICPA SOC resources",
+            "url": "https://www.aicpa-cima.com/resources/landing/system-and-organization-controls-soc-suite-of-services"
+          }
+        ]
+      }
+    },
+    {
+      "id": "isc-m1-l4-q4",
+      "courseId": "isc",
+      "moduleId": 1,
+      "lessonId": "isc-m1-l4",
+      "topic": "SDLC, Change Management, Configuration & Releases",
+      "prompt": "What does a parallel conversion generally involve?",
+      "choices": [
+        {
+          "id": "isc-m1-l4-q4-a0",
+          "text": "Switching without any comparison."
+        },
+        {
+          "id": "isc-m1-l4-q4-a1",
+          "text": "Never implementing the new system."
+        },
+        {
+          "id": "isc-m1-l4-q4-a2",
+          "text": "Operating old and new systems concurrently for a period."
+        },
+        {
+          "id": "isc-m1-l4-q4-a3",
+          "text": "Deleting all historical data."
+        }
+      ],
+      "correctChoiceId": "isc-m1-l4-q4-a2",
+      "explanation": "Parallel operation supports comparison while increasing temporary effort and cost.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "isc",
+        "blueprintYear": 2026,
+        "areaId": "isc-I",
+        "groupId": "A.4",
+        "topicId": "isc-change-management",
+        "taskIds": [
+          "isc-change-management.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "NIST Cybersecurity Framework",
+            "url": "https://www.nist.gov/cyberframework"
+          },
+          {
+            "title": "AICPA SOC resources",
+            "url": "https://www.aicpa-cima.com/resources/landing/system-and-organization-controls-soc-suite-of-services"
+          }
+        ]
+      }
+    },
+    {
+      "id": "isc-m1-l4-q5",
+      "courseId": "isc",
+      "moduleId": 1,
+      "lessonId": "isc-m1-l4",
+      "topic": "SDLC, Change Management, Configuration & Releases",
+      "prompt": "A developer can change production payment logic without approval. What is the principal risk?",
+      "choices": [
+        {
+          "id": "isc-m1-l4-q5-a0",
+          "text": "Only the developer’s keyboard choice."
+        },
+        {
+          "id": "isc-m1-l4-q5-a1",
+          "text": "No risk if version control exists."
+        },
+        {
+          "id": "isc-m1-l4-q5-a2",
+          "text": "A guaranteed improvement in availability."
+        },
+        {
+          "id": "isc-m1-l4-q5-a3",
+          "text": "Unauthorized or untested changes can affect live processing."
+        }
+      ],
+      "correctChoiceId": "isc-m1-l4-q5-a3",
+      "explanation": "Production access can bypass authorization, testing, and independent review.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "isc",
+        "blueprintYear": 2026,
+        "areaId": "isc-I",
+        "groupId": "A.4",
+        "topicId": "isc-change-management",
+        "taskIds": [
+          "isc-change-management.task-2"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "NIST Cybersecurity Framework",
+            "url": "https://www.nist.gov/cyberframework"
+          },
+          {
+            "title": "AICPA SOC resources",
+            "url": "https://www.aicpa-cima.com/resources/landing/system-and-organization-controls-soc-suite-of-services"
+          }
+        ]
+      }
+    },
+    {
+      "id": "isc-m1-l4-q6",
+      "courseId": "isc",
+      "moduleId": 1,
+      "lessonId": "isc-m1-l4",
+      "topic": "SDLC, Change Management, Configuration & Releases",
+      "prompt": "An emergency change lacks normal predeployment review. What should a controlled process include?",
+      "choices": [
+        {
+          "id": "isc-m1-l4-q6-a0",
+          "text": "Appropriate emergency authorization and timely retrospective review."
+        },
+        {
+          "id": "isc-m1-l4-q6-a1",
+          "text": "A permanent waiver of every control."
+        },
+        {
+          "id": "isc-m1-l4-q6-a2",
+          "text": "Deletion of the change history."
+        },
+        {
+          "id": "isc-m1-l4-q6-a3",
+          "text": "No monitoring after release."
+        }
+      ],
+      "correctChoiceId": "isc-m1-l4-q6-a0",
+      "explanation": "Emergency procedures preserve accountability through adapted controls.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "isc",
+        "blueprintYear": 2026,
+        "areaId": "isc-I",
+        "groupId": "A.4",
+        "topicId": "isc-change-management",
+        "taskIds": [
+          "isc-change-management.task-3"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "NIST Cybersecurity Framework",
+            "url": "https://www.nist.gov/cyberframework"
+          },
+          {
+            "title": "AICPA SOC resources",
+            "url": "https://www.aicpa-cima.com/resources/landing/system-and-organization-controls-soc-suite-of-services"
+          }
+        ]
+      }
+    },
+    {
+      "id": "isc-m1-l4-q7",
+      "courseId": "isc",
+      "moduleId": 1,
+      "lessonId": "isc-m1-l4",
+      "topic": "SDLC, Change Management, Configuration & Releases",
+      "prompt": "Review a release process and identify the most appropriate control improvement. Release evidence: Code is stored in version control, but developers approve their own production deployments. No acceptance-test evidence is retained. Configuration changes are not logged. Emergency changes have no subsequent review. Objectives: Only authorized, tested, approved changes should reach production, and failures should be recoverable. Required: Improve deployment approval.",
+      "choices": [
+        {
+          "id": "isc-m1-l4-q7-a0",
+          "text": "Rely solely on the developer’s preference"
+        },
+        {
+          "id": "isc-m1-l4-q7-a1",
+          "text": "Use appropriate independent authorization"
+        },
+        {
+          "id": "isc-m1-l4-q7-a2",
+          "text": "Remove all approvals"
+        },
+        {
+          "id": "isc-m1-l4-q7-a3",
+          "text": "Assume version control is approval"
+        }
+      ],
+      "correctChoiceId": "isc-m1-l4-q7-a1",
+      "explanation": "Independent authorization helps prevent self-approved changes.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "isc",
+        "blueprintYear": 2026,
+        "areaId": "isc-I",
+        "groupId": "A.4",
+        "topicId": "isc-change-management",
+        "taskIds": [
+          "isc-change-management.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "NIST Cybersecurity Framework",
+            "url": "https://www.nist.gov/cyberframework"
+          },
+          {
+            "title": "AICPA SOC resources",
+            "url": "https://www.aicpa-cima.com/resources/landing/system-and-organization-controls-soc-suite-of-services"
+          }
+        ]
+      },
+      "familyId": "isc-m1-tbs4"
+    },
+    {
+      "id": "isc-m1-l4-q8",
+      "courseId": "isc",
+      "moduleId": 1,
+      "lessonId": "isc-m1-l4",
+      "topic": "SDLC, Change Management, Configuration & Releases",
+      "prompt": "Review a release process and identify the most appropriate control improvement. Release evidence: Code is stored in version control, but developers approve their own production deployments. No acceptance-test evidence is retained. Configuration changes are not logged. Emergency changes have no subsequent review. Objectives: Only authorized, tested, approved changes should reach production, and failures should be recoverable. Required: Improve testing evidence.",
+      "choices": [
+        {
+          "id": "isc-m1-l4-q8-a0",
+          "text": "Use only a code timestamp"
+        },
+        {
+          "id": "isc-m1-l4-q8-a1",
+          "text": "Skip business testing"
+        },
+        {
+          "id": "isc-m1-l4-q8-a2",
+          "text": "Retain relevant test results and acceptance approval"
+        },
+        {
+          "id": "isc-m1-l4-q8-a3",
+          "text": "Delete failed test results"
+        }
+      ],
+      "correctChoiceId": "isc-m1-l4-q8-a2",
+      "explanation": "Evidence should support whether acceptance criteria were met.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "isc",
+        "blueprintYear": 2026,
+        "areaId": "isc-I",
+        "groupId": "A.4",
+        "topicId": "isc-change-management",
+        "taskIds": [
+          "isc-change-management.task-2"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "NIST Cybersecurity Framework",
+            "url": "https://www.nist.gov/cyberframework"
+          },
+          {
+            "title": "AICPA SOC resources",
+            "url": "https://www.aicpa-cima.com/resources/landing/system-and-organization-controls-soc-suite-of-services"
+          }
+        ]
+      },
+      "familyId": "isc-m1-tbs4"
+    },
+    {
+      "id": "isc-m1-l4-q9",
+      "courseId": "isc",
+      "moduleId": 1,
+      "lessonId": "isc-m1-l4",
+      "topic": "SDLC, Change Management, Configuration & Releases",
+      "prompt": "Review a release process and identify the most appropriate control improvement. Release evidence: Code is stored in version control, but developers approve their own production deployments. No acceptance-test evidence is retained. Configuration changes are not logged. Emergency changes have no subsequent review. Objectives: Only authorized, tested, approved changes should reach production, and failures should be recoverable. Required: Improve configuration control.",
+      "choices": [
+        {
+          "id": "isc-m1-l4-q9-a0",
+          "text": "Ignore changes that are not code"
+        },
+        {
+          "id": "isc-m1-l4-q9-a1",
+          "text": "Give every user administrator access"
+        },
+        {
+          "id": "isc-m1-l4-q9-a2",
+          "text": "Disable audit logs"
+        },
+        {
+          "id": "isc-m1-l4-q9-a3",
+          "text": "Authorize, log, and monitor configuration changes"
+        }
+      ],
+      "correctChoiceId": "isc-m1-l4-q9-a3",
+      "explanation": "Configuration can materially change system behavior.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "isc",
+        "blueprintYear": 2026,
+        "areaId": "isc-I",
+        "groupId": "A.4",
+        "topicId": "isc-change-management",
+        "taskIds": [
+          "isc-change-management.task-3"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "NIST Cybersecurity Framework",
+            "url": "https://www.nist.gov/cyberframework"
+          },
+          {
+            "title": "AICPA SOC resources",
+            "url": "https://www.aicpa-cima.com/resources/landing/system-and-organization-controls-soc-suite-of-services"
+          }
+        ]
+      },
+      "familyId": "isc-m1-tbs4"
+    },
+    {
+      "id": "isc-m1-l4-q10",
+      "courseId": "isc",
+      "moduleId": 1,
+      "lessonId": "isc-m1-l4",
+      "topic": "SDLC, Change Management, Configuration & Releases",
+      "prompt": "Review a release process and identify the most appropriate control improvement. Release evidence: Code is stored in version control, but developers approve their own production deployments. No acceptance-test evidence is retained. Configuration changes are not logged. Emergency changes have no subsequent review. Objectives: Only authorized, tested, approved changes should reach production, and failures should be recoverable. Required: Improve emergency handling.",
+      "choices": [
+        {
+          "id": "isc-m1-l4-q10-a0",
+          "text": "Document emergency authorization and retrospective review"
+        },
+        {
+          "id": "isc-m1-l4-q10-a1",
+          "text": "Allow permanent unreviewed exceptions"
+        },
+        {
+          "id": "isc-m1-l4-q10-a2",
+          "text": "Assume emergencies have no risks"
+        },
+        {
+          "id": "isc-m1-l4-q10-a3",
+          "text": "Omit recovery planning"
+        }
+      ],
+      "correctChoiceId": "isc-m1-l4-q10-a0",
+      "explanation": "Expedited changes still need accountable control.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "isc",
+        "blueprintYear": 2026,
+        "areaId": "isc-I",
+        "groupId": "A.4",
+        "topicId": "isc-change-management",
+        "taskIds": [
+          "isc-change-management.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "NIST Cybersecurity Framework",
+            "url": "https://www.nist.gov/cyberframework"
+          },
+          {
+            "title": "AICPA SOC resources",
+            "url": "https://www.aicpa-cima.com/resources/landing/system-and-organization-controls-soc-suite-of-services"
+          }
+        ]
+      },
+      "familyId": "isc-m1-tbs4"
+    },
+    {
+      "id": "isc-m1-l5-q1",
+      "courseId": "isc",
+      "moduleId": 1,
+      "lessonId": "isc-m1-l5",
+      "topic": "Availability, Backups, Business Continuity & Disaster Recovery",
+      "prompt": "What does RTO describe?",
+      "choices": [
+        {
+          "id": "isc-m1-l5-q1-a0",
+          "text": "The targeted recovery time for restoring service."
+        },
+        {
+          "id": "isc-m1-l5-q1-a1",
+          "text": "The maximum intended data-loss interval."
+        },
+        {
+          "id": "isc-m1-l5-q1-a2",
+          "text": "The number of passwords in a file."
+        },
+        {
+          "id": "isc-m1-l5-q1-a3",
+          "text": "The cost of every server."
+        }
+      ],
+      "correctChoiceId": "isc-m1-l5-q1-a0",
+      "explanation": "Recovery time objective concerns restoration time.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "isc",
+        "blueprintYear": 2026,
+        "areaId": "isc-I",
+        "groupId": "A.3",
+        "topicId": "isc-availability-recovery",
+        "taskIds": [
+          "isc-availability-recovery.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "NIST Cybersecurity Framework",
+            "url": "https://www.nist.gov/cyberframework"
+          },
+          {
+            "title": "AICPA SOC resources",
+            "url": "https://www.aicpa-cima.com/resources/landing/system-and-organization-controls-soc-suite-of-services"
+          }
+        ]
+      }
+    },
+    {
+      "id": "isc-m1-l5-q2",
+      "courseId": "isc",
+      "moduleId": 1,
+      "lessonId": "isc-m1-l5",
+      "topic": "Availability, Backups, Business Continuity & Disaster Recovery",
+      "prompt": "What does RPO describe?",
+      "choices": [
+        {
+          "id": "isc-m1-l5-q2-a0",
+          "text": "Only the time required to restart a server."
+        },
+        {
+          "id": "isc-m1-l5-q2-a1",
+          "text": "The targeted tolerable data-loss interval."
+        },
+        {
+          "id": "isc-m1-l5-q2-a2",
+          "text": "Only the backup vendor’s name."
+        },
+        {
+          "id": "isc-m1-l5-q2-a3",
+          "text": "Only network bandwidth."
+        }
+      ],
+      "correctChoiceId": "isc-m1-l5-q2-a1",
+      "explanation": "Recovery point objective concerns how far back data recovery may go.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "isc",
+        "blueprintYear": 2026,
+        "areaId": "isc-I",
+        "groupId": "A.3",
+        "topicId": "isc-availability-recovery",
+        "taskIds": [
+          "isc-availability-recovery.task-2"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "NIST Cybersecurity Framework",
+            "url": "https://www.nist.gov/cyberframework"
+          },
+          {
+            "title": "AICPA SOC resources",
+            "url": "https://www.aicpa-cima.com/resources/landing/system-and-organization-controls-soc-suite-of-services"
+          }
+        ]
+      }
+    },
+    {
+      "id": "isc-m1-l5-q3",
+      "courseId": "isc",
+      "moduleId": 1,
+      "lessonId": "isc-m1-l5",
+      "topic": "Availability, Backups, Business Continuity & Disaster Recovery",
+      "prompt": "A differential backup generally captures changes since which event?",
+      "choices": [
+        {
+          "id": "isc-m1-l5-q3-a0",
+          "text": "Only the immediately preceding incremental backup in every system."
+        },
+        {
+          "id": "isc-m1-l5-q3-a1",
+          "text": "The entity’s formation."
+        },
+        {
+          "id": "isc-m1-l5-q3-a2",
+          "text": "The last full backup."
+        },
+        {
+          "id": "isc-m1-l5-q3-a3",
+          "text": "The last audit opinion."
+        }
+      ],
+      "correctChoiceId": "isc-m1-l5-q3-a2",
+      "explanation": "Differential backups accumulate changes since the full backup.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "isc",
+        "blueprintYear": 2026,
+        "areaId": "isc-I",
+        "groupId": "A.3",
+        "topicId": "isc-availability-recovery",
+        "taskIds": [
+          "isc-availability-recovery.task-3"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "NIST Cybersecurity Framework",
+            "url": "https://www.nist.gov/cyberframework"
+          },
+          {
+            "title": "AICPA SOC resources",
+            "url": "https://www.aicpa-cima.com/resources/landing/system-and-organization-controls-soc-suite-of-services"
+          }
+        ]
+      }
+    },
+    {
+      "id": "isc-m1-l5-q4",
+      "courseId": "isc",
+      "moduleId": 1,
+      "lessonId": "isc-m1-l5",
+      "topic": "Availability, Backups, Business Continuity & Disaster Recovery",
+      "prompt": "Why is replication not a complete substitute for protected backups?",
+      "choices": [
+        {
+          "id": "isc-m1-l5-q4-a0",
+          "text": "It cannot ever improve availability."
+        },
+        {
+          "id": "isc-m1-l5-q4-a1",
+          "text": "It always eliminates recovery time."
+        },
+        {
+          "id": "isc-m1-l5-q4-a2",
+          "text": "It guarantees every file is valid."
+        },
+        {
+          "id": "isc-m1-l5-q4-a3",
+          "text": "It can replicate corruption or destructive changes."
+        }
+      ],
+      "correctChoiceId": "isc-m1-l5-q4-a3",
+      "explanation": "Replication may faithfully propagate unwanted changes.",
+      "difficulty": "foundation",
+      "metadata": {
+        "section": "isc",
+        "blueprintYear": 2026,
+        "areaId": "isc-I",
+        "groupId": "A.3",
+        "topicId": "isc-availability-recovery",
+        "taskIds": [
+          "isc-availability-recovery.task-1"
+        ],
+        "skill": "remembering",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "NIST Cybersecurity Framework",
+            "url": "https://www.nist.gov/cyberframework"
+          },
+          {
+            "title": "AICPA SOC resources",
+            "url": "https://www.aicpa-cima.com/resources/landing/system-and-organization-controls-soc-suite-of-services"
+          }
+        ]
+      }
+    },
+    {
+      "id": "isc-m1-l5-q5",
+      "courseId": "isc",
+      "moduleId": 1,
+      "lessonId": "isc-m1-l5",
+      "topic": "Availability, Backups, Business Continuity & Disaster Recovery",
+      "prompt": "A four-hour RTO and one-hour RPO apply. Recovery takes two hours but uses data five hours old. What is the result?",
+      "choices": [
+        {
+          "id": "isc-m1-l5-q5-a0",
+          "text": "RTO is met; RPO is not."
+        },
+        {
+          "id": "isc-m1-l5-q5-a1",
+          "text": "Both are met."
+        },
+        {
+          "id": "isc-m1-l5-q5-a2",
+          "text": "RPO is met; RTO is not."
+        },
+        {
+          "id": "isc-m1-l5-q5-a3",
+          "text": "Neither concept applies to data."
+        }
+      ],
+      "correctChoiceId": "isc-m1-l5-q5-a0",
+      "explanation": "Restoration time and data freshness must be evaluated separately.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "isc",
+        "blueprintYear": 2026,
+        "areaId": "isc-I",
+        "groupId": "A.3",
+        "topicId": "isc-availability-recovery",
+        "taskIds": [
+          "isc-availability-recovery.task-2"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "NIST Cybersecurity Framework",
+            "url": "https://www.nist.gov/cyberframework"
+          },
+          {
+            "title": "AICPA SOC resources",
+            "url": "https://www.aicpa-cima.com/resources/landing/system-and-organization-controls-soc-suite-of-services"
+          }
+        ]
+      }
+    },
+    {
+      "id": "isc-m1-l5-q6",
+      "courseId": "isc",
+      "moduleId": 1,
+      "lessonId": "isc-m1-l5",
+      "topic": "Availability, Backups, Business Continuity & Disaster Recovery",
+      "prompt": "What provides stronger evidence of recoverability than a backup success notification alone?",
+      "choices": [
+        {
+          "id": "isc-m1-l5-q6-a0",
+          "text": "Only a vendor brochure."
+        },
+        {
+          "id": "isc-m1-l5-q6-a1",
+          "text": "A tested restoration with measured results."
+        },
+        {
+          "id": "isc-m1-l5-q6-a2",
+          "text": "Only the backup file’s name."
+        },
+        {
+          "id": "isc-m1-l5-q6-a3",
+          "text": "Only a verbal assurance."
+        }
+      ],
+      "correctChoiceId": "isc-m1-l5-q6-a1",
+      "explanation": "Restore tests demonstrate whether usable data and services can be recovered within objectives.",
+      "difficulty": "application",
+      "metadata": {
+        "section": "isc",
+        "blueprintYear": 2026,
+        "areaId": "isc-I",
+        "groupId": "A.3",
+        "topicId": "isc-availability-recovery",
+        "taskIds": [
+          "isc-availability-recovery.task-3"
+        ],
+        "skill": "application",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "NIST Cybersecurity Framework",
+            "url": "https://www.nist.gov/cyberframework"
+          },
+          {
+            "title": "AICPA SOC resources",
+            "url": "https://www.aicpa-cima.com/resources/landing/system-and-organization-controls-soc-suite-of-services"
+          }
+        ]
+      }
+    },
+    {
+      "id": "isc-m1-l5-q7",
+      "courseId": "isc",
+      "moduleId": 1,
+      "lessonId": "isc-m1-l5",
+      "topic": "Availability, Backups, Business Continuity & Disaster Recovery",
+      "prompt": "Compare recovery test results with business requirements. Requirements: RTO: 4 hours. RPO: 30 minutes. Agreed monthly service time: 40,000 minutes. Test and service results: Recovery took 3 hours. The restored dataset was 90 minutes old. Unplanned downtime during the month was 200 minutes. Required: Was the RTO met?.",
+      "choices": [
+        {
+          "id": "isc-m1-l5-q7-a0",
+          "text": "No"
+        },
+        {
+          "id": "isc-m1-l5-q7-a1",
+          "text": "Only if all data is current"
+        },
+        {
+          "id": "isc-m1-l5-q7-a2",
+          "text": "Yes"
+        },
+        {
+          "id": "isc-m1-l5-q7-a3",
+          "text": "RTO does not concern time"
+        }
+      ],
+      "correctChoiceId": "isc-m1-l5-q7-a2",
+      "explanation": "Three hours is within the four-hour target.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "isc",
+        "blueprintYear": 2026,
+        "areaId": "isc-I",
+        "groupId": "A.3",
+        "topicId": "isc-availability-recovery",
+        "taskIds": [
+          "isc-availability-recovery.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "NIST Cybersecurity Framework",
+            "url": "https://www.nist.gov/cyberframework"
+          },
+          {
+            "title": "AICPA SOC resources",
+            "url": "https://www.aicpa-cima.com/resources/landing/system-and-organization-controls-soc-suite-of-services"
+          }
+        ]
+      },
+      "familyId": "isc-m1-tbs5"
+    },
+    {
+      "id": "isc-m1-l5-q8",
+      "courseId": "isc",
+      "moduleId": 1,
+      "lessonId": "isc-m1-l5",
+      "topic": "Availability, Backups, Business Continuity & Disaster Recovery",
+      "prompt": "Compare recovery test results with business requirements. Requirements: RTO: 4 hours. RPO: 30 minutes. Agreed monthly service time: 40,000 minutes. Test and service results: Recovery took 3 hours. The restored dataset was 90 minutes old. Unplanned downtime during the month was 200 minutes. Required: Was the RPO met?.",
+      "choices": [
+        {
+          "id": "isc-m1-l5-q8-a0",
+          "text": "Yes"
+        },
+        {
+          "id": "isc-m1-l5-q8-a1",
+          "text": "RPO measures only recovery labor"
+        },
+        {
+          "id": "isc-m1-l5-q8-a2",
+          "text": "Data age is irrelevant"
+        },
+        {
+          "id": "isc-m1-l5-q8-a3",
+          "text": "No"
+        }
+      ],
+      "correctChoiceId": "isc-m1-l5-q8-a3",
+      "explanation": "Ninety minutes exceeds the thirty-minute data-loss target.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "isc",
+        "blueprintYear": 2026,
+        "areaId": "isc-I",
+        "groupId": "A.3",
+        "topicId": "isc-availability-recovery",
+        "taskIds": [
+          "isc-availability-recovery.task-2"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "NIST Cybersecurity Framework",
+            "url": "https://www.nist.gov/cyberframework"
+          },
+          {
+            "title": "AICPA SOC resources",
+            "url": "https://www.aicpa-cima.com/resources/landing/system-and-organization-controls-soc-suite-of-services"
+          }
+        ]
+      },
+      "familyId": "isc-m1-tbs5"
+    },
+    {
+      "id": "isc-m1-l5-q9",
+      "courseId": "isc",
+      "moduleId": 1,
+      "lessonId": "isc-m1-l5",
+      "topic": "Availability, Backups, Business Continuity & Disaster Recovery",
+      "prompt": "Compare recovery test results with business requirements. Requirements: RTO: 4 hours. RPO: 30 minutes. Agreed monthly service time: 40,000 minutes. Test and service results: Recovery took 3 hours. The restored dataset was 90 minutes old. Unplanned downtime during the month was 200 minutes. Required: Data-loss interval exceeding RPO, in minutes.",
+      "choices": [
+        {
+          "id": "isc-m1-l5-q9-a0",
+          "text": "60"
+        },
+        {
+          "id": "isc-m1-l5-q9-a1",
+          "text": "30"
+        },
+        {
+          "id": "isc-m1-l5-q9-a2",
+          "text": "90"
+        },
+        {
+          "id": "isc-m1-l5-q9-a3",
+          "text": "120"
+        }
+      ],
+      "correctChoiceId": "isc-m1-l5-q9-a0",
+      "explanation": "90 − 30 = 60 minutes beyond the target.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "isc",
+        "blueprintYear": 2026,
+        "areaId": "isc-I",
+        "groupId": "A.3",
+        "topicId": "isc-availability-recovery",
+        "taskIds": [
+          "isc-availability-recovery.task-3"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "NIST Cybersecurity Framework",
+            "url": "https://www.nist.gov/cyberframework"
+          },
+          {
+            "title": "AICPA SOC resources",
+            "url": "https://www.aicpa-cima.com/resources/landing/system-and-organization-controls-soc-suite-of-services"
+          }
+        ]
+      },
+      "familyId": "isc-m1-tbs5"
+    },
+    {
+      "id": "isc-m1-l5-q10",
+      "courseId": "isc",
+      "moduleId": 1,
+      "lessonId": "isc-m1-l5",
+      "topic": "Availability, Backups, Business Continuity & Disaster Recovery",
+      "prompt": "Compare recovery test results with business requirements. Requirements: RTO: 4 hours. RPO: 30 minutes. Agreed monthly service time: 40,000 minutes. Test and service results: Recovery took 3 hours. The restored dataset was 90 minutes old. Unplanned downtime during the month was 200 minutes. Required: Availability percentage for the stated month.",
+      "choices": [
+        {
+          "id": "isc-m1-l5-q10-a0",
+          "text": "0.5"
+        },
+        {
+          "id": "isc-m1-l5-q10-a1",
+          "text": "99.5"
+        },
+        {
+          "id": "isc-m1-l5-q10-a2",
+          "text": "95"
+        },
+        {
+          "id": "isc-m1-l5-q10-a3",
+          "text": "99"
+        }
+      ],
+      "correctChoiceId": "isc-m1-l5-q10-a1",
+      "explanation": "(40,000 − 200) ÷ 40,000 × 100 = 99.5%.",
+      "difficulty": "advanced",
+      "metadata": {
+        "section": "isc",
+        "blueprintYear": 2026,
+        "areaId": "isc-I",
+        "groupId": "A.3",
+        "topicId": "isc-availability-recovery",
+        "taskIds": [
+          "isc-availability-recovery.task-1"
+        ],
+        "skill": "analysis",
+        "validFrom": "2026-01-01",
+        "supplementary": false,
+        "revision": 1,
+        "sources": [
+          {
+            "title": "AICPA 2026 CPA Exam Blueprints",
+            "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+          },
+          {
+            "title": "NIST Cybersecurity Framework",
+            "url": "https://www.nist.gov/cyberframework"
+          },
+          {
+            "title": "AICPA SOC resources",
+            "url": "https://www.aicpa-cima.com/resources/landing/system-and-organization-controls-soc-suite-of-services"
+          }
+        ]
+      },
+      "familyId": "isc-m1-tbs5"
+    }
+  ]
+}

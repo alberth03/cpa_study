@@ -1,0 +1,88 @@
+{
+  "id": "far-m5-l5",
+  "courseId": "far",
+  "moduleId": 5,
+  "number": 5,
+  "title": "Not-for-Profit Financial Statements",
+  "description": "Understand the statement of financial position, statement of activities, and statement of cash flows.",
+  "url": "/learn/far/modules/5/lessons/5",
+  "html": "<h2> Core NFP Financial Statements </h2> <p> A not-for-profit organization generally presents financial statements designed to show its financial position, changes in net assets, and cash flows. </p> <div class=\"key-points\"> <ul> <li> Statement of Financial Position </li> <li> Statement of Activities </li> <li> Statement of Cash Flows </li> <li> Analysis of expenses by function and nature </li> </ul> </div> <h2> Statement of Financial Position </h2> <p> The statement of financial position is similar in purpose to a business entity's balance sheet. </p> <p> It reports: </p> <div class=\"formula-box\"> ASSETS − LIABILITIES = NET ASSETS </div> <p> Net assets are presented using the two classifications we already learned. </p> <div class=\"financial-example\"> <div> <span> Net Assets Without Donor Restrictions </span> <strong> No Donor-Imposed Restriction </strong> </div> <div> <span> Net Assets With Donor Restrictions </span> <strong> Donor-Imposed Restriction </strong> </div> </div> <h2> Example — Financial Position </h2> <p> Assume an NFP reports: </p> <div class=\"financial-example\"> <div> <span>Total Assets</span> <strong>$900,000</strong> </div> <div> <span>Total Liabilities</span> <strong>$260,000</strong> </div> </div> <div class=\"formula-box\"> $900,000 − $260,000 = $640,000 TOTAL NET ASSETS </div> <h2> Statement of Activities </h2> <p> The statement of activities reports the organization's revenues, gains, expenses, losses, and other changes in net assets during the reporting period. </p> <div class=\"formula-box\"> BEGINNING NET ASSETS + CHANGE IN NET ASSETS = ENDING NET ASSETS </div> <h2> Changes in Both Net Asset Classes </h2> <p> The statement of activities reports changes separately for: </p> <div class=\"key-points\"> <ul> <li> Net assets without donor restrictions </li> <li> Net assets with donor restrictions </li> </ul> </div> <h2> Contribution Example </h2> <p> During the year, an NFP receives: </p> <div class=\"financial-example\"> <div> <span> Contribution With No Donor Restriction </span> <strong> $80,000 </strong> </div> <div> <span> Contribution Restricted for Scholarships </span> <strong> $120,000 </strong> </div> </div> <p> Both amounts affect the statement of activities, but they affect different net asset classes. </p> <div class=\"formula-box\"> $80,000 → WITHOUT DONOR RESTRICTIONS $120,000 → WITH DONOR RESTRICTIONS </div> <h2> Expenses </h2> <p> Expenses are generally reported as decreases in <strong>net assets without donor restrictions</strong>. </p> <p> When donor-restricted resources are used for their intended purpose, the related restriction may be released. </p> <div class=\"formula-box\"> EXPENSES → GENERALLY DECREASE NET ASSETS WITHOUT DONOR RESTRICTIONS </div> <h2> Statement of Cash Flows </h2> <p> The statement of cash flows explains changes in cash and cash equivalents during the period. </p> <p> Cash flows are generally classified among operating, investing, and financing activities. </p> <div class=\"financial-example\"> <div> <span> Operating </span> <strong> Day-to-Day Activities </strong> </div> <div> <span> Investing </span> <strong> Investments and Long-Lived Assets </strong> </div> <div> <span> Financing </span> <strong> Certain Financing Activities </strong> </div> </div> <h2> Donor-Restricted Cash Flows </h2> <p> Be careful with contributions containing donor restrictions. </p> <p> The cash-flow classification depends on the nature and donor stipulations associated with the contribution. </p> <div class=\"example-box\"> <strong> Example </strong> <p> A donor contributes cash specifically restricted for the acquisition of a long-lived asset. </p> <p> The donor restriction can affect how the cash receipt is classified in the statement of cash flows. </p> </div> <h2> Expenses by Function </h2> <p> Functional classification explains <strong>why</strong> resources were consumed. </p> <div class=\"financial-example\"> <div> <span> Program Services </span> <strong> Mission-Related Activities </strong> </div> <div> <span> Management &amp; General </span> <strong> Supporting Activity </strong> </div> <div> <span> Fundraising </span> <strong> Supporting Activity </strong> </div> </div> <h2> Expenses by Nature </h2> <p> Natural classification explains <strong>what type of expense</strong> was incurred. </p> <div class=\"key-points\"> <ul> <li> Salaries </li> <li> Rent </li> <li> Utilities </li> <li> Supplies </li> <li> Depreciation </li> </ul> </div> <h2> Function vs. Nature </h2> <div class=\"formula-box\"> FUNCTION = WHY WAS THE MONEY SPENT? NATURE = WHAT TYPE OF COST WAS IT? </div> <div class=\"example-box\"> <strong> Example </strong> <p> A social-service charity pays <strong>$70,000 of salaries</strong> to employees working directly in its food-assistance program. </p> <div class=\"financial-example\"> <div> <span> Nature </span> <strong> Salaries </strong> </div> <div> <span> Function </span> <strong> Program Services </strong> </div> </div> </div> <h2> Statement Relationships </h2> <div class=\"formula-box\"> STATEMENT OF FINANCIAL POSITION → WHERE THE NFP STANDS STATEMENT OF ACTIVITIES → HOW NET ASSETS CHANGED STATEMENT OF CASH FLOWS → WHY CASH CHANGED </div> <h2> CPA Memory Rule </h2> <div class=\"formula-box\"> POSITION ASSETS = LIABILITIES + NET ASSETS ACTIVITIES = CHANGE IN NET ASSETS CASH FLOWS = CHANGE IN CASH </div> <div class=\"key-points\"> <h3> Key Takeaways </h3> <ul> <li> The statement of financial position reports assets, liabilities, and net assets. </li> <li> The statement of activities reports changes in net assets. </li> <li> NFPs distinguish net assets with and without donor restrictions. </li> <li> Expenses generally decrease net assets without donor restrictions. </li> <li> Expense information is analyzed by both function and nature. </li> </ul> </div>",
+  "quiz": {
+    "id": "far-m5-l5-check",
+    "courseId": "far",
+    "moduleId": 5,
+    "lessonId": "far-m5-l5",
+    "topic": "General review",
+    "prompt": "Which financial statement of a not-for-profit organization primarily reports revenues, expenses, gains, losses, and the resulting changes in net assets during a period?",
+    "choices": [
+      {
+        "id": "far-m5-l5-check-a0",
+        "text": "Statement of Financial Position"
+      },
+      {
+        "id": "far-m5-l5-check-a1",
+        "text": "Statement of Cash Flows"
+      },
+      {
+        "id": "far-m5-l5-check-a2",
+        "text": "Statement of Functional Expenses only"
+      },
+      {
+        "id": "far-m5-l5-check-a3",
+        "text": "Statement of Activities"
+      }
+    ],
+    "correctChoiceId": "far-m5-l5-check-a3",
+    "explanation": "The statement of activities reports revenues, expenses, gains, losses, and other changes that explain the change in the NFP's net assets during the reporting period.",
+    "difficulty": "foundation",
+    "metadata": {
+      "section": "far",
+      "blueprintYear": 2026,
+      "areaId": "far-I",
+      "groupId": "module-5",
+      "topicId": "far-not-for-profit-financial-statements",
+      "taskIds": [
+        "far-not-for-profit-financial-statements.task-1",
+        "far-not-for-profit-financial-statements.task-2",
+        "far-not-for-profit-financial-statements.task-3"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "section": "far",
+    "blueprintYear": 2026,
+    "areaId": "far-I",
+    "groupId": "module-5",
+    "topicId": "far-not-for-profit-financial-statements",
+    "taskIds": [
+      "far-not-for-profit-financial-statements.task-1",
+      "far-not-for-profit-financial-statements.task-2",
+      "far-not-for-profit-financial-statements.task-3"
+    ],
+    "skill": "application",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      }
+    ]
+  },
+  "objectives": [
+    "Explain not-for-profit financial statements and its underlying principles.",
+    "Apply the topic to a financial-reporting scenario.",
+    "Evaluate common errors and their financial-statement effects."
+  ]
+}

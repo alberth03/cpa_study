@@ -1,0 +1,88 @@
+{
+  "id": "intermediate-m1-l4",
+  "courseId": "intermediate",
+  "moduleId": 1,
+  "number": 4,
+  "title": "Elements of Financial Statements",
+  "description": "Assets, liabilities, equity, revenues, expenses, gains and losses.",
+  "url": "/learn/intermediate/modules/1/lessons/4",
+  "html": "<h2>Building blocks of financial statements</h2> <p> Financial statements are built from categories called financial statement elements. </p> <p> You already know several of them from Accounting Fundamentals, but now we will connect them more directly to financial reporting. </p> <h2>Assets</h2> <div class=\"key-points\"> <p> Assets are present economic resources controlled by the entity as a result of past events. </p> <p> Examples include Cash, Accounts Receivable, Inventory and Equipment. </p> </div> <h2>Liabilities</h2> <div class=\"key-points\"> <p> Liabilities are present obligations of an entity to transfer economic resources as a result of past events. </p> <p> Examples include Accounts Payable, Wages Payable and Debt. </p> </div> <h2>Equity</h2> <div class=\"key-points\"> <p> Equity is the residual interest in the assets of an entity after deducting liabilities. </p> </div> <div class=\"formula-box\"> Equity = Assets − Liabilities </div> <h2>Revenue and Expenses</h2> <p> Revenues generally increase equity through activities related to providing goods or services. </p> <p> Expenses generally decrease equity through the consumption of resources or incurrence of obligations in generating revenue. </p> <h2>Gains and Losses</h2> <p> Gains and losses may arise from transactions that are not part of the entity's main revenue-producing activities. </p> <div class=\"example-box\"> <h3>Example</h3> <p> A company sells old equipment for more than its carrying amount. </p> <p> The excess may be reported as a <strong>gain</strong>. </p> </div> <div class=\"key-points\"> <h3>Keep the relationships straight</h3> <ul> <li>Assets represent economic resources.</li> <li>Liabilities represent obligations.</li> <li>Equity is the residual interest.</li> <li>Revenue generally increases equity.</li> <li>Expenses generally decrease equity.</li> <li>Gains and losses can also affect equity.</li> </ul> </div>",
+  "quiz": {
+    "id": "intermediate-m1-l4-check",
+    "courseId": "intermediate",
+    "moduleId": 1,
+    "lessonId": "intermediate-m1-l4",
+    "topic": "General review",
+    "prompt": "Which statement best describes equity?",
+    "choices": [
+      {
+        "id": "intermediate-m1-l4-check-a0",
+        "text": "The total cash owned by the company"
+      },
+      {
+        "id": "intermediate-m1-l4-check-a1",
+        "text": "Assets minus liabilities"
+      },
+      {
+        "id": "intermediate-m1-l4-check-a2",
+        "text": "Revenue minus expenses only"
+      },
+      {
+        "id": "intermediate-m1-l4-check-a3",
+        "text": "All amounts owed to creditors"
+      }
+    ],
+    "correctChoiceId": "intermediate-m1-l4-check-a1",
+    "explanation": "Equity is the residual interest in the entity after liabilities are deducted from assets.",
+    "difficulty": "foundation",
+    "metadata": {
+      "section": "intermediate",
+      "blueprintYear": 2026,
+      "areaId": "intermediate-I",
+      "groupId": "module-1",
+      "topicId": "intermediate-elements-of-financial-statements",
+      "taskIds": [
+        "intermediate-elements-of-financial-statements.task-1",
+        "intermediate-elements-of-financial-statements.task-2",
+        "intermediate-elements-of-financial-statements.task-3"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "section": "intermediate",
+    "blueprintYear": 2026,
+    "areaId": "intermediate-I",
+    "groupId": "module-1",
+    "topicId": "intermediate-elements-of-financial-statements",
+    "taskIds": [
+      "intermediate-elements-of-financial-statements.task-1",
+      "intermediate-elements-of-financial-statements.task-2",
+      "intermediate-elements-of-financial-statements.task-3"
+    ],
+    "skill": "application",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      }
+    ]
+  },
+  "objectives": [
+    "Explain elements of financial statements and its underlying principles.",
+    "Apply the topic to a financial-reporting scenario.",
+    "Evaluate common errors and their financial-statement effects."
+  ]
+}

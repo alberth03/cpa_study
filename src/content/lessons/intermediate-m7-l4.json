@@ -1,0 +1,88 @@
+{
+  "id": "intermediate-m7-l4",
+  "courseId": "intermediate",
+  "moduleId": 7,
+  "number": 4,
+  "title": "Finance Lease Subsequent Accounting",
+  "description": "Calculate interest, lease liability reduction and amortization of the right-of-use asset.",
+  "url": "/learn/intermediate/modules/7/lessons/4",
+  "html": "<h2>What happens after commencement?</h2> <p> For a finance lease, interest accrues on the outstanding lease liability. </p> <p> When a lease payment is made, part of the payment represents interest and the remainder reduces the lease liability. </p> <h2>The basic roll-forward</h2> <div class=\"formula-box\"> Interest = Beginning Lease Liability × Periodic Discount Rate </div> <div class=\"formula-box\"> Liability Reduction = Lease Payment − Interest </div> <div class=\"formula-box\"> Ending Lease Liability = Beginning Liability − Liability Reduction </div> <h2>Example</h2> <p> Assume the beginning lease liability is <strong>$50,000</strong>. </p> <p> The annual discount rate is <strong>6%</strong> and the year-end lease payment is <strong>$12,000</strong>. </p> <h3>Step 1 — Interest</h3> <div class=\"formula-box\"> $50,000 × 6% = $3,000 </div> <h3>Step 2 — Liability reduction</h3> <div class=\"formula-box\"> $12,000 − $3,000 = $9,000 </div> <h3>Step 3 — Ending liability</h3> <div class=\"formula-box\"> $50,000 − $9,000 = $41,000 </div> <div class=\"financial-example\"> <div> <span>Beginning Lease Liability</span> <strong>$50,000</strong> </div> <div> <span>Interest</span> <strong>$3,000</strong> </div> <div> <span>Cash Payment</span> <strong>($12,000)</strong> </div> <div class=\"financial-total\"> <span>Ending Lease Liability</span> <strong>$41,000</strong> </div> </div> <h2>Another way to see the roll-forward</h2> <div class=\"formula-box\"> $50,000 + $3,000 − $12,000 = $41,000 </div> <h2>Right-of-use asset</h2> <p> For a finance lease, the ROU asset is generally amortized separately from the interest recognized on the lease liability. </p> <p> The appropriate amortization period depends on the facts, including whether ownership transfers or a purchase option is reasonably certain to be exercised. </p> <div class=\"key-points\"> <h3>Finance lease pattern</h3> <ul> <li>Interest expense is recognized on the lease liability.</li> <li>The lease payment reduces the liability after interest.</li> <li>The ROU asset is amortized separately.</li> </ul> </div>",
+  "quiz": {
+    "id": "intermediate-m7-l4-check",
+    "courseId": "intermediate",
+    "moduleId": 7,
+    "lessonId": "intermediate-m7-l4",
+    "topic": "General review",
+    "prompt": "A finance lease has a beginning lease liability of $80,000. The annual discount rate is 5%, and a $18,000 payment is made at year-end. What is the ending lease liability?",
+    "choices": [
+      {
+        "id": "intermediate-m7-l4-check-a0",
+        "text": "$62,000"
+      },
+      {
+        "id": "intermediate-m7-l4-check-a1",
+        "text": "$66,000"
+      },
+      {
+        "id": "intermediate-m7-l4-check-a2",
+        "text": "$76,000"
+      },
+      {
+        "id": "intermediate-m7-l4-check-a3",
+        "text": "$84,000"
+      }
+    ],
+    "correctChoiceId": "intermediate-m7-l4-check-a1",
+    "explanation": "Interest = $80,000 × 5% = $4,000. Liability reduction = $18,000 − $4,000 = $14,000. Ending liability = $80,000 − $14,000 = $66,000.",
+    "difficulty": "foundation",
+    "metadata": {
+      "section": "intermediate",
+      "blueprintYear": 2026,
+      "areaId": "intermediate-I",
+      "groupId": "module-7",
+      "topicId": "intermediate-finance-lease-subsequent-accounting",
+      "taskIds": [
+        "intermediate-finance-lease-subsequent-accounting.task-1",
+        "intermediate-finance-lease-subsequent-accounting.task-2",
+        "intermediate-finance-lease-subsequent-accounting.task-3"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "section": "intermediate",
+    "blueprintYear": 2026,
+    "areaId": "intermediate-I",
+    "groupId": "module-7",
+    "topicId": "intermediate-finance-lease-subsequent-accounting",
+    "taskIds": [
+      "intermediate-finance-lease-subsequent-accounting.task-1",
+      "intermediate-finance-lease-subsequent-accounting.task-2",
+      "intermediate-finance-lease-subsequent-accounting.task-3"
+    ],
+    "skill": "application",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      }
+    ]
+  },
+  "objectives": [
+    "Explain finance lease subsequent accounting and its underlying principles.",
+    "Apply the topic to a financial-reporting scenario.",
+    "Evaluate common errors and their financial-statement effects."
+  ]
+}

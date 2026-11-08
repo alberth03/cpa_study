@@ -1,0 +1,107 @@
+{
+  "id": "bar-m2-tbs5",
+  "courseId": "bar",
+  "moduleId": 2,
+  "number": 5,
+  "title": "Currency and hedge accounting analysis",
+  "html": "<div class=\"course-intro-card\"><h2>Currency and hedge accounting analysis</h2><p>Calculate a currency payable and identify the correct accounting model under stated assumptions.</p></div><section class=\"quiz-card\"><h3>Required responses</h3><div class=\"tbs-question\"><label for=\"bar-m2-tbs5-f1\">Initial payable</label><input id=\"bar-m2-tbs5-f1\" type=\"text\"></div><div class=\"tbs-question\"><label for=\"bar-m2-tbs5-f2\">Year-end payable</label><input id=\"bar-m2-tbs5-f2\" type=\"text\"></div><div class=\"tbs-question\"><label for=\"bar-m2-tbs5-f3\">Transaction loss</label><input id=\"bar-m2-tbs5-f3\" type=\"text\"></div><div class=\"tbs-question\"><label for=\"bar-m2-tbs5-f4\">Initial location of B’s stated qualifying hedge amount</label><select id=\"bar-m2-tbs5-f4\"><option value=\"Other comprehensive income\">Other comprehensive income</option><option value=\"Never recognized anywhere\">Never recognized anywhere</option><option value=\"Customer revenue automatically\">Customer revenue automatically</option><option value=\"A reduction of share count\">A reduction of share count</option></select></div></section>",
+  "metadata": {
+    "section": "bar",
+    "blueprintYear": 2026,
+    "areaId": "bar-II",
+    "groupId": "D",
+    "topicId": "bar-derivatives-hedges",
+    "taskIds": [
+      "bar-derivatives-hedges.task-1",
+      "bar-derivatives-hedges.task-2",
+      "bar-derivatives-hedges.task-3"
+    ],
+    "skill": "analysis",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      },
+      {
+        "title": "FASB accounting standards",
+        "url": "https://asc.fasb.org/"
+      },
+      {
+        "title": "GASB standards",
+        "url": "https://www.gasb.org/standards-and-implementation"
+      }
+    ]
+  },
+  "difficulty": "advanced",
+  "fields": [
+    {
+      "id": "bar-m2-tbs5-f1",
+      "label": "Initial payable",
+      "type": "number",
+      "options": [],
+      "correct": 36000,
+      "explanation": "30,000 × $1.20 = $36,000.",
+      "topicId": "bar-derivatives-hedges"
+    },
+    {
+      "id": "bar-m2-tbs5-f2",
+      "label": "Year-end payable",
+      "type": "number",
+      "options": [],
+      "correct": 37500,
+      "explanation": "30,000 × $1.25 = $37,500.",
+      "topicId": "bar-derivatives-hedges"
+    },
+    {
+      "id": "bar-m2-tbs5-f3",
+      "label": "Transaction loss",
+      "type": "number",
+      "options": [],
+      "correct": 1500,
+      "explanation": "The liability increases by $1,500.",
+      "topicId": "bar-derivatives-hedges"
+    },
+    {
+      "id": "bar-m2-tbs5-f4",
+      "label": "Initial location of B’s stated qualifying hedge amount",
+      "type": "select",
+      "options": [
+        {
+          "value": "Other comprehensive income",
+          "label": "Other comprehensive income"
+        },
+        {
+          "value": "Never recognized anywhere",
+          "label": "Never recognized anywhere"
+        },
+        {
+          "value": "Customer revenue automatically",
+          "label": "Customer revenue automatically"
+        },
+        {
+          "value": "A reduction of share count",
+          "label": "A reduction of share count"
+        }
+      ],
+      "correct": "Other comprehensive income",
+      "explanation": "The supplied qualifying cash-flow hedge amount is eligible for OCI, with later treatment under the hedge model.",
+      "topicId": "bar-derivatives-hedges"
+    }
+  ],
+  "exhibits": [
+    {
+      "id": "bar-m2-tbs5-ex1",
+      "title": "Payable",
+      "html": "<p>The entity owes 30,000 foreign units. Initial rate $1.20 per unit; year-end rate $1.25. No settlement has occurred.</p>"
+    },
+    {
+      "id": "bar-m2-tbs5-ex2",
+      "title": "Hedge facts",
+      "html": "<p>Instrument A is an undesignated derivative. Instrument B meets all requirements for a cash-flow hedge of forecast cash flows. Apply U.S. GAAP and assume the described qualifying portion of B is eligible for OCI.</p>"
+    }
+  ],
+  "explanation": "<h3>Initial payable</h3><p>30,000 × $1.20 = $36,000.</p><h3>Year-end payable</h3><p>30,000 × $1.25 = $37,500.</p><h3>Transaction loss</h3><p>The liability increases by $1,500.</p><h3>Initial location of B’s stated qualifying hedge amount</h3><p>The supplied qualifying cash-flow hedge amount is eligible for OCI, with later treatment under the hedge model.</p>"
+}

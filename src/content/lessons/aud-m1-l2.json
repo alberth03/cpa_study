@@ -1,0 +1,103 @@
+{
+  "id": "aud-m1-l2",
+  "courseId": "aud",
+  "moduleId": 1,
+  "number": 2,
+  "title": "Skepticism, Judgment & Audit Responsibilities",
+  "description": "Evaluate contradictory evidence without assuming dishonesty or unquestioning trust.",
+  "url": "/learn/aud/modules/1/lessons/2",
+  "metadata": {
+    "section": "aud",
+    "blueprintYear": 2026,
+    "areaId": "aud-I",
+    "groupId": "B",
+    "topicId": "aud-professional-skepticism",
+    "taskIds": [
+      "aud-professional-skepticism.task-1",
+      "aud-professional-skepticism.task-2",
+      "aud-professional-skepticism.task-3"
+    ],
+    "skill": "application",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      },
+      {
+        "title": "AICPA auditing standards",
+        "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+      },
+      {
+        "title": "PCAOB standards",
+        "url": "https://pcaobus.org/oversight/standards"
+      }
+    ]
+  },
+  "html": "<h2>Learning objectives</h2><ul><li>Evaluate contradictory evidence without assuming dishonesty or unquestioning trust.</li><li>Distinguish management’s responsibilities from the auditor’s reasonable-assurance objective.</li><li>Recognize fraud incentives, judgment biases, and appropriate escalation.</li></ul><h2>Understand the concepts</h2><p>Professional skepticism is a questioning mind, alertness to possible misstatement, and a critical assessment of evidence. It is neither automatic suspicion nor unquestioning reliance on past experience. An honest management team can make errors, and a familiar explanation can conflict with current evidence. Document how inconsistencies were resolved rather than recording only the evidence that supports the preferred answer.</p><p>Management is responsible for preparing financial statements under the applicable framework, designing and maintaining relevant internal control, and providing access to records and people. The auditor obtains reasonable assurance that the statements as a whole are free from material misstatement due to fraud or error and expresses an opinion. Reasonable assurance is high but not absolute because evidence is often persuasive rather than conclusive and fraud may involve concealment or collusion.</p><p>Audit risk is not the risk that the business will fail. A financially distressed company may receive an unmodified opinion if its financial statements and disclosures are appropriate and sufficient evidence is obtained. Conversely, a profitable company may have materially misstated statements. Professional judgment connects the facts, the reporting framework, and the auditing standard rather than using profitability as a shortcut.</p><p>Biases can distort judgment. Confirmation bias favors information that supports an initial belief. Anchoring overweights an initial number; availability bias overweights memorable events. Challenge assumptions by identifying plausible alternatives, obtaining contradictory evidence, and having an appropriately experienced person review significant judgments. Time pressure is a reason to adjust resources, not to lower evidence requirements.</p><p>A fraud discussion considers incentives or pressures, opportunities, and attitudes or rationalizations. Management override remains relevant even when ordinary controls appear effective. Responses may include journal-entry testing, retrospective review of estimates, and evaluation of unusual significant transactions. Communicate identified issues at the appropriate level; involvement of senior management can require direct communication with those charged with governance.</p><div class=\"example-box\"><h3>The explanation that does not fit the evidence</h3><p>Management says a December sales spike reflects normal demand. Shipping records show several large orders left the warehouse in January, and management bonuses depend on December revenue.</p><ol><li>Treat the bonus target as an incentive, not proof of fraud.</li><li>Compare revenue recognition with contract terms and shipping evidence.</li><li>Extend cutoff procedures, discuss contradictory evidence, and assess the effect on fraud risk and communications.</li></ol></div><div class=\"key-points\"><h3>Common mistakes to avoid</h3><ul><li>Reasonable assurance is not a guarantee that every fraud is found.</li><li>A representation does not replace evidence that should be available.</li><li>Do not let a prior clean audit resolve a current contradiction.</li></ul></div><h2>Apply and connect</h2><p>After solving the worked case, explain which facts determine the result and how a changed assumption would change your conclusion. Use the module questions to test fresh applications, then complete the related simulation before reviewing its solution.</p>",
+  "objectives": [
+    "Evaluate contradictory evidence without assuming dishonesty or unquestioning trust.",
+    "Distinguish management’s responsibilities from the auditor’s reasonable-assurance objective.",
+    "Recognize fraud incentives, judgment biases, and appropriate escalation."
+  ],
+  "quiz": {
+    "id": "aud-m1-l2-q1",
+    "courseId": "aud",
+    "moduleId": 1,
+    "lessonId": "aud-m1-l2",
+    "topic": "Skepticism, Judgment & Audit Responsibilities",
+    "prompt": "An auditor accepts management’s explanation despite contradictory shipping documents because the CFO has always been honest. Which concern is most direct?",
+    "choices": [
+      {
+        "id": "aud-m1-l2-q1-a0",
+        "text": "Excessive substantive testing."
+      },
+      {
+        "id": "aud-m1-l2-q1-a1",
+        "text": "Insufficient professional skepticism."
+      },
+      {
+        "id": "aud-m1-l2-q1-a2",
+        "text": "A prohibited audit opinion on a profitable client."
+      },
+      {
+        "id": "aud-m1-l2-q1-a3",
+        "text": "A need to assume all management statements are fraudulent."
+      }
+    ],
+    "correctChoiceId": "aud-m1-l2-q1-a1",
+    "explanation": "Past honesty does not resolve current inconsistent evidence. Skepticism requires follow-up without automatically assuming dishonesty.",
+    "difficulty": "advanced",
+    "metadata": {
+      "section": "aud",
+      "blueprintYear": 2026,
+      "areaId": "aud-I",
+      "groupId": "B",
+      "topicId": "aud-professional-skepticism",
+      "taskIds": [
+        "aud-professional-skepticism.task-1"
+      ],
+      "skill": "evaluation",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        },
+        {
+          "title": "AICPA auditing standards",
+          "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+        },
+        {
+          "title": "PCAOB standards",
+          "url": "https://pcaobus.org/oversight/standards"
+        }
+      ]
+    }
+  },
+  "relatedSimulation": "aud-m1-tbs2"
+}

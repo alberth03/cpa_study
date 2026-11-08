@@ -1,0 +1,88 @@
+{
+  "id": "intermediate-m5-l1",
+  "courseId": "intermediate",
+  "moduleId": 5,
+  "number": 1,
+  "title": "Current Liabilities & Accruals",
+  "description": "Understand short-term obligations, accrued liabilities and common payable accounts.",
+  "url": "/learn/intermediate/modules/5/lessons/1",
+  "html": "<h2>What is a current liability?</h2> <p> A current liability is an obligation generally expected to be settled within the entity's normal operating cycle or within the applicable short-term classification period. </p> <div class=\"key-points\"> <h3>Common examples</h3> <ul> <li>Accounts Payable</li> <li>Wages Payable</li> <li>Interest Payable</li> <li>Taxes Payable</li> <li>Current portions of certain long-term obligations</li> </ul> </div> <h2>Accounts Payable</h2> <p> Accounts Payable usually arises when a company purchases goods or services on credit. </p> <div class=\"example-box\"> <h3>Example</h3> <p> A company purchases $8,000 of supplies on account. </p> <div class=\"journal-entry\"> <div class=\"journal-row journal-header\"> <div>Account</div> <div>Debit</div> <div>Credit</div> </div> <div class=\"journal-row\"> <div>Supplies</div> <div>$8,000</div> <div>—</div> </div> <div class=\"journal-row credit-row\"> <div>Accounts Payable</div> <div>—</div> <div>$8,000</div> </div> </div> </div> <h2>Accrued liabilities</h2> <p> An accrued liability exists when an expense has been incurred but has not yet been paid. </p> <div class=\"example-box\"> <h3>Accrued wages</h3> <p> Employees have earned $5,000 by year-end, but payment will occur next period. </p> <div class=\"journal-entry\"> <div class=\"journal-row journal-header\"> <div>Account</div> <div>Debit</div> <div>Credit</div> </div> <div class=\"journal-row\"> <div>Wages Expense</div> <div>$5,000</div> <div>—</div> </div> <div class=\"journal-row credit-row\"> <div>Wages Payable</div> <div>—</div> <div>$5,000</div> </div> </div> </div> <h2>Accrued interest</h2> <p> Interest can also accumulate before the company actually pays the lender. </p> <div class=\"formula-box\"> Interest = Principal × Annual Rate × Time </div> <div class=\"example-box\"> <p> A company has a $60,000 note at 8%. Three months of interest have accrued. </p> <div class=\"formula-box\"> $60,000 × 8% × 3/12 = $1,200 </div> </div> <div class=\"key-points\"> <h3>Core idea</h3> <p> Accrual accounting recognizes obligations when they arise, not merely when cash is eventually paid. </p> </div>",
+  "quiz": {
+    "id": "intermediate-m5-l1-check",
+    "courseId": "intermediate",
+    "moduleId": 5,
+    "lessonId": "intermediate-m5-l1",
+    "topic": "General review",
+    "prompt": "A company owes employees $7,500 for work performed before year-end but will pay them next year. Which liability should be recognized?",
+    "choices": [
+      {
+        "id": "intermediate-m5-l1-check-a0",
+        "text": "Accounts Receivable"
+      },
+      {
+        "id": "intermediate-m5-l1-check-a1",
+        "text": "Wages Payable"
+      },
+      {
+        "id": "intermediate-m5-l1-check-a2",
+        "text": "Prepaid Wages"
+      },
+      {
+        "id": "intermediate-m5-l1-check-a3",
+        "text": "Unearned Revenue"
+      }
+    ],
+    "correctChoiceId": "intermediate-m5-l1-check-a1",
+    "explanation": "The employees have already earned the wages, so the company recognizes Wages Expense and Wages Payable.",
+    "difficulty": "foundation",
+    "metadata": {
+      "section": "intermediate",
+      "blueprintYear": 2026,
+      "areaId": "intermediate-I",
+      "groupId": "module-5",
+      "topicId": "intermediate-current-liabilities-accruals",
+      "taskIds": [
+        "intermediate-current-liabilities-accruals.task-1",
+        "intermediate-current-liabilities-accruals.task-2",
+        "intermediate-current-liabilities-accruals.task-3"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "section": "intermediate",
+    "blueprintYear": 2026,
+    "areaId": "intermediate-I",
+    "groupId": "module-5",
+    "topicId": "intermediate-current-liabilities-accruals",
+    "taskIds": [
+      "intermediate-current-liabilities-accruals.task-1",
+      "intermediate-current-liabilities-accruals.task-2",
+      "intermediate-current-liabilities-accruals.task-3"
+    ],
+    "skill": "application",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      }
+    ]
+  },
+  "objectives": [
+    "Explain current liabilities & accruals and its underlying principles.",
+    "Apply the topic to a financial-reporting scenario.",
+    "Evaluate common errors and their financial-statement effects."
+  ]
+}

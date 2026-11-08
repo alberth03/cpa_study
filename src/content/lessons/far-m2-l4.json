@@ -1,0 +1,88 @@
+{
+  "id": "far-m2-l4",
+  "courseId": "far",
+  "moduleId": 2,
+  "number": 4,
+  "title": "Property, Plant & Equipment",
+  "description": "Account for acquisition costs, depreciation, disposals, exchanges, impairment and presentation of long-lived tangible assets.",
+  "url": "/learn/far/modules/2/lessons/4",
+  "html": "<h2> Property, Plant &amp; Equipment </h2> <p> Property, plant, and equipment are long-lived tangible assets used in operations. For FAR, you should understand initial cost, depreciation, subsequent expenditures, disposals, exchanges, and impairment. </p> <h3> 1. Initial Measurement </h3> <p> PP&amp;E is generally recorded at the cost necessary to acquire the asset and prepare it for its intended use. </p> <div class=\"key-points\"> <ul> <li> Purchase price </li> <li> Freight and transportation costs </li> <li> Installation and testing costs </li> <li> Legal fees directly related to acquisition </li> <li> Certain site preparation costs </li> </ul> </div> <h3> 2. Land </h3> <p> Land is generally not depreciated because it normally has an indefinite useful life. </p> <p> Costs necessary to prepare land for use are generally included in the cost of land. </p> <div class=\"key-points\"> <p> Examples can include purchase price, title fees, commissions, and certain clearing or grading costs. </p> </div> <h3> 3. Land Improvements </h3> <p> Land improvements with limited useful lives are generally recorded separately from land and depreciated. </p> <div class=\"example-box\"> <h3> Examples </h3> <ul> <li>Parking lots</li> <li>Fences</li> <li>Lighting systems</li> <li>Private roads</li> </ul> </div> <h3> 4. Depreciation </h3> <p> Depreciation systematically allocates the depreciable cost of a long-lived asset over its estimated useful life. </p> <div class=\"formula-box\"> Depreciable Base = Cost − Estimated Residual Value </div> <h4> Straight-Line Method </h4> <div class=\"formula-box\"> Annual Depreciation = Cost − Residual Value ÷ Useful Life </div> <div class=\"example-box\"> <h3> Example </h3> <p> Equipment cost: <strong>$110,000</strong> </p> <p> Residual value: <strong>$10,000</strong> </p> <p> Useful life: <strong>5 years</strong> </p> <div class=\"formula-box\"> ($110,000 − $10,000) ÷ 5 = <strong>$20,000 annual depreciation</strong> </div> </div> <h3> 5. Book Value </h3> <div class=\"formula-box\"> Carrying Amount = Asset Cost − Accumulated Depreciation </div> <p> Accumulated depreciation is a contra-asset account. </p> <h3> 6. Changes in Depreciation Estimates </h3> <p> Changes in useful life or residual value are generally treated as changes in accounting estimates. </p> <div class=\"key-points\"> <p> Changes in estimates are generally applied <strong>prospectively</strong>. </p> </div> <h3> 7. Subsequent Expenditures </h3> <p> Expenditures after acquisition may be capitalized or expensed depending on their nature. </p> <div class=\"key-points\"> <ul> <li> Routine repairs and maintenance are generally expensed. </li> <li> Expenditures that extend useful life, increase capacity, or improve future economic benefits may be capitalized. </li> </ul> </div> <h3> 8. Disposal of PP&amp;E </h3> <p> When an asset is sold, the company removes the asset's cost and accumulated depreciation and compares the proceeds with the asset's carrying amount. </p> <div class=\"formula-box\"> Gain or Loss = Cash Proceeds − Carrying Amount </div> <div class=\"example-box\"> <h3> Example </h3> <p> Equipment cost: $80,000 </p> <p> Accumulated depreciation: $50,000 </p> <p> Carrying amount: $30,000 </p> <p> Asset sold for: $36,000 </p> <div class=\"formula-box\"> $36,000 − $30,000 = <strong>$6,000 gain</strong> </div> </div> <h3> 9. Asset Retirement Obligations </h3> <p> Certain long-lived assets may create a legal obligation to retire, dismantle, remove, or restore property in the future. </p> <p> When the applicable recognition criteria are met, the company recognizes an asset retirement obligation as a liability and generally capitalizes a corresponding asset retirement cost as part of the carrying amount of the related long-lived asset. </p> <div class=\"key-points\"> <ul> <li> The capitalized asset retirement cost is generally allocated to expense over the asset's useful life. </li> <li> The ARO liability generally increases over time because of the passage of time. </li> <li> Changes in the estimated timing or amount of the retirement obligation may also require adjustment. </li> </ul> </div> <h3> 10. Impairment </h3> <p> Long-lived assets held and used must be evaluated for impairment when events or changes in circumstances indicate that their carrying amount may not be recoverable. </p> <div class=\"key-points\"> <p> For U.S. GAAP long-lived assets held and used, the impairment model generally begins with a recoverability test using undiscounted cash flows. </p> </div> <p> If the asset is not recoverable, the impairment loss is generally measured as the excess of carrying amount over fair value. </p> <h3> 11. CPA Exam Focus </h3> <div class=\"key-points\"> <ul> <li> Know which acquisition costs are capitalized. </li> <li> Remember that land is generally not depreciated. </li> <li> Calculate depreciation and carrying amount. </li> <li> Treat changes in useful life as changes in estimate. </li> <li> Distinguish capital expenditures from repairs. </li> <li> Calculate gains and losses on disposal. </li> <li> Understand the basic U.S. GAAP impairment model. </li> </ul> </div>",
+  "quiz": {
+    "id": "far-m2-l4-check",
+    "courseId": "far",
+    "moduleId": 2,
+    "lessonId": "far-m2-l4",
+    "topic": "General review",
+    "prompt": "Equipment cost $90,000 and has accumulated depreciation of $54,000. The equipment is sold for $41,000. What gain or loss should be recognized?",
+    "choices": [
+      {
+        "id": "far-m2-l4-check-a0",
+        "text": "$5,000 gain"
+      },
+      {
+        "id": "far-m2-l4-check-a1",
+        "text": "$5,000 loss"
+      },
+      {
+        "id": "far-m2-l4-check-a2",
+        "text": "$41,000 gain"
+      },
+      {
+        "id": "far-m2-l4-check-a3",
+        "text": "$36,000 gain"
+      }
+    ],
+    "correctChoiceId": "far-m2-l4-check-a0",
+    "explanation": "The equipment's carrying amount is $90,000 minus $54,000, or $36,000. Because the equipment is sold for $41,000, the company recognizes a $5,000 gain.",
+    "difficulty": "foundation",
+    "metadata": {
+      "section": "far",
+      "blueprintYear": 2026,
+      "areaId": "far-II",
+      "groupId": "module-2",
+      "topicId": "far-property-plant-equipment",
+      "taskIds": [
+        "far-property-plant-equipment.task-1",
+        "far-property-plant-equipment.task-2",
+        "far-property-plant-equipment.task-3"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "section": "far",
+    "blueprintYear": 2026,
+    "areaId": "far-II",
+    "groupId": "module-2",
+    "topicId": "far-property-plant-equipment",
+    "taskIds": [
+      "far-property-plant-equipment.task-1",
+      "far-property-plant-equipment.task-2",
+      "far-property-plant-equipment.task-3"
+    ],
+    "skill": "application",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      }
+    ]
+  },
+  "objectives": [
+    "Explain property, plant & equipment and its underlying principles.",
+    "Apply the topic to a financial-reporting scenario.",
+    "Evaluate common errors and their financial-statement effects."
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "id": "aud-m3-l6",
+  "courseId": "aud",
+  "moduleId": 3,
+  "number": 6,
+  "title": "Investments, Fair Value & Evidence Conclusions",
+  "description": "Audit ownership, valuation, and disclosure of investments.",
+  "url": "/learn/aud/modules/3/lessons/6",
+  "metadata": {
+    "section": "aud",
+    "blueprintYear": 2026,
+    "areaId": "aud-III",
+    "groupId": "E-F",
+    "topicId": "aud-audit-investments",
+    "taskIds": [
+      "aud-audit-investments.task-1",
+      "aud-audit-investments.task-2",
+      "aud-audit-investments.task-3"
+    ],
+    "skill": "application",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      },
+      {
+        "title": "AICPA auditing standards",
+        "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+      },
+      {
+        "title": "PCAOB standards",
+        "url": "https://pcaobus.org/oversight/standards"
+      }
+    ]
+  },
+  "html": "<h2>Learning objectives</h2><ul><li>Audit ownership, valuation, and disclosure of investments.</li><li>Evaluate contradictory evidence and fair-value inputs.</li><li>Determine whether evidence is sufficient and appropriate for a conclusion.</li></ul><h2>Understand the concepts</h2><p>An investment balance combines several assertions. Custodian confirmation may support existence and rights; pricing evidence supports valuation; transaction documents support classification and cutoff; financial-statement disclosures require separate evaluation. No single evidence source automatically supports every assertion. Consider restrictions, pledges, side agreements, and the reliability of pricing sources.</p><p>Fair-value auditing focuses on the applicable measurement requirements, methods, inputs, and assumptions. Observable market inputs may provide strong evidence when relevant to the actual instrument and measurement date. A price for a similar instrument may require adjustments. Complex or unobservable inputs increase the need to understand the model, test source data, and consider specialist involvement and management bias.</p><p>Evaluate findings together. More evidence may be required when sources conflict or exceptions suggest a systemic problem. Sufficiency concerns quantity; appropriateness concerns quality, including relevance and reliability. Written representations supplement other evidence but ordinarily do not replace evidence that the auditor reasonably expects to obtain.</p><p>Before concluding, connect the identified misstatement or evidence gap to materiality, the affected assertions, required adjustments or disclosures, and the planned report. Document the chain of reasoning. A clean custodian confirmation cannot resolve an unsupported valuation or an omitted pledge disclosure.</p><div class=\"example-box\"><h3>Confirmed securities, disputed values</h3><p>A custodian confirms 1,000 securities. A relevant year-end quoted price is $92, but the client records them at $100 per unit. No adjustment or other fact justifies the difference.</p><ol><li>The confirmed quantity supports existence, not the recorded unit price.</li><li>Using the supplied price, fair value is $92,000 rather than $100,000.</li><li>Evaluate the $8,000 valuation difference and related recognition and disclosure under the applicable framework.</li></ol></div><div class=\"key-points\"><h3>Common mistakes to avoid</h3><ul><li>Quantity confirmation is not complete valuation evidence.</li><li>A stale or irrelevant quoted price may need additional work.</li><li>Representations supplement, rather than replace, other necessary evidence.</li></ul></div><h2>Apply and connect</h2><p>After solving the worked case, explain which facts determine the result and how a changed assumption would change your conclusion. Use the module questions to test fresh applications, then complete the related simulation before reviewing its solution.</p>",
+  "objectives": [
+    "Audit ownership, valuation, and disclosure of investments.",
+    "Evaluate contradictory evidence and fair-value inputs.",
+    "Determine whether evidence is sufficient and appropriate for a conclusion."
+  ],
+  "quiz": {
+    "id": "aud-m3-l6-q1",
+    "courseId": "aud",
+    "moduleId": 3,
+    "lessonId": "aud-m3-l6",
+    "topic": "Investments, Fair Value & Evidence Conclusions",
+    "prompt": "A custodian confirms the number of securities held. Which matter generally needs separate evidence?",
+    "choices": [
+      {
+        "id": "aud-m3-l6-q1-a0",
+        "text": "Whether the confirmation has a date."
+      },
+      {
+        "id": "aud-m3-l6-q1-a1",
+        "text": "Whether the securities were described in the response."
+      },
+      {
+        "id": "aud-m3-l6-q1-a2",
+        "text": "Whether the auditor received a response."
+      },
+      {
+        "id": "aud-m3-l6-q1-a3",
+        "text": "Whether the year-end recorded fair value is appropriate."
+      }
+    ],
+    "correctChoiceId": "aud-m3-l6-q1-a3",
+    "explanation": "Quantity and custody evidence do not automatically establish fair value.",
+    "difficulty": "advanced",
+    "metadata": {
+      "section": "aud",
+      "blueprintYear": 2026,
+      "areaId": "aud-III",
+      "groupId": "E-F",
+      "topicId": "aud-audit-investments",
+      "taskIds": [
+        "aud-audit-investments.task-1"
+      ],
+      "skill": "analysis",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        },
+        {
+          "title": "AICPA auditing standards",
+          "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+        },
+        {
+          "title": "PCAOB standards",
+          "url": "https://pcaobus.org/oversight/standards"
+        }
+      ]
+    }
+  },
+  "relatedSimulation": "aud-m3-tbs6"
+}

@@ -1,0 +1,91 @@
+{
+  "id": "tcp-m2-tbs2",
+  "courseId": "tcp",
+  "moduleId": 2,
+  "number": 2,
+  "title": "Partnership interest sale workpaper",
+  "html": "<div class=\"course-intro-card\"><h2>Partnership interest sale workpaper</h2><p>Compute sale gain, character, and a supplied basis-adjustment difference.</p></div><section class=\"quiz-card\"><h3>Required responses</h3><div class=\"tbs-question\"><label for=\"tcp-m2-tbs2-f1\">Seller amount realized</label><input id=\"tcp-m2-tbs2-f1\" type=\"text\"></div><div class=\"tbs-question\"><label for=\"tcp-m2-tbs2-f2\">Seller total gain</label><input id=\"tcp-m2-tbs2-f2\" type=\"text\"></div><div class=\"tbs-question\"><label for=\"tcp-m2-tbs2-f3\">Gain remaining after the supplied ordinary portion</label><input id=\"tcp-m2-tbs2-f3\" type=\"text\"></div><div class=\"tbs-question\"><label for=\"tcp-m2-tbs2-f4\">Supplied transferee-specific basis adjustment</label><input id=\"tcp-m2-tbs2-f4\" type=\"text\"></div></section>",
+  "metadata": {
+    "section": "tcp",
+    "blueprintYear": 2026,
+    "areaId": "tcp-II",
+    "groupId": "B",
+    "topicId": "tcp-partnership-advanced-compliance",
+    "taskIds": [
+      "tcp-partnership-advanced-compliance.task-1",
+      "tcp-partnership-advanced-compliance.task-2",
+      "tcp-partnership-advanced-compliance.task-3"
+    ],
+    "skill": "analysis",
+    "validFrom": "2026-07-01",
+    "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      },
+      {
+        "title": "IRS tax publications",
+        "url": "https://www.irs.gov/publications"
+      },
+      {
+        "title": "Internal Revenue Code",
+        "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+      }
+    ]
+  },
+  "difficulty": "advanced",
+  "fields": [
+    {
+      "id": "tcp-m2-tbs2-f1",
+      "label": "Seller amount realized",
+      "type": "number",
+      "options": [],
+      "correct": 180000,
+      "explanation": "$150,000 cash + $30,000 liability relief.",
+      "topicId": "tcp-partnership-advanced-compliance"
+    },
+    {
+      "id": "tcp-m2-tbs2-f2",
+      "label": "Seller total gain",
+      "type": "number",
+      "options": [],
+      "correct": 80000,
+      "explanation": "$180,000 − $100,000 = $80,000.",
+      "topicId": "tcp-partnership-advanced-compliance"
+    },
+    {
+      "id": "tcp-m2-tbs2-f3",
+      "label": "Gain remaining after the supplied ordinary portion",
+      "type": "number",
+      "options": [],
+      "correct": 60000,
+      "explanation": "$80,000 − $20,000 = $60,000.",
+      "topicId": "tcp-partnership-advanced-compliance"
+    },
+    {
+      "id": "tcp-m2-tbs2-f4",
+      "label": "Supplied transferee-specific basis adjustment",
+      "type": "number",
+      "options": [],
+      "correct": 40000,
+      "explanation": "$180,000 outside basis − $140,000 allocable inside basis = $40,000.",
+      "topicId": "tcp-partnership-advanced-compliance"
+    }
+  ],
+  "exhibits": [
+    {
+      "id": "tcp-m2-tbs2-ex1",
+      "title": "Sale facts",
+      "html": "<p>Cash received $150,000; liability relief $30,000; outside basis $100,000. Of the gain, $20,000 is attributed to Section 751 assets under the supplied analysis.</p>"
+    },
+    {
+      "id": "tcp-m2-tbs2-ex2",
+      "title": "Buyer basis facts",
+      "html": "<p>For a separate stated Section 743(b) computation, the buyer’s outside basis is $180,000 and allocable common inside basis is $140,000. Assume an applicable election and no other adjustments.</p>"
+    }
+  ],
+  "explanation": "<h3>Seller amount realized</h3><p>$150,000 cash + $30,000 liability relief.</p><h3>Seller total gain</h3><p>$180,000 − $100,000 = $80,000.</p><h3>Gain remaining after the supplied ordinary portion</h3><p>$80,000 − $20,000 = $60,000.</p><h3>Supplied transferee-specific basis adjustment</h3><p>$180,000 outside basis − $140,000 allocable inside basis = $40,000.</p>"
+}

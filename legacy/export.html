@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Export CPA Study progress</title><link rel="stylesheet" href="style.css"></head><body><main style="max-width:700px;margin:40px auto;padding:24px"><h1>Export your CPA Study progress</h1><p style="margin:24px 0">Open this page on the same domain and port as your original app. Download a backup, then import it in the Next.js app under Progress &amp; backups.</p><button class="primary-button" id="export">Download legacy backup</button><p role="status" id="status"></p></main><script>
+document.getElementById('export').addEventListener('click', function () {
+  const storage = {};
+  for (let i=0;i<localStorage.length;i++) {const key=localStorage.key(i);if (/^(cpaCurrentPage|fundamentals|intermediate|far|lesson1Completed)/.test(key)) storage[key]=localStorage.getItem(key);}
+  const blob=new Blob([JSON.stringify({format:'cpa-study-legacy',storage},null,2)],{type:'application/json'});
+  const url=URL.createObjectURL(blob), link=document.createElement('a');link.href=url;link.download='cpa-study-legacy.json';link.click();URL.revokeObjectURL(url);
+  document.getElementById('status').textContent=Object.keys(storage).length+' saved values exported.';
+});
+</script></body></html>

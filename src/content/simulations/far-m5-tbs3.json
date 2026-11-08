@@ -1,0 +1,62 @@
+{
+  "id": "far-m5-tbs3",
+  "moduleId": 5,
+  "number": 3,
+  "title": "FAR Module 5 · TBS 3",
+  "fields": [
+    {
+      "id": "far-m5-tbs3-legal",
+      "label": "1. Legal Services Contribution Revenue",
+      "type": "number",
+      "options": [],
+      "correct": 24000
+    },
+    {
+      "id": "far-m5-tbs3-volunteer",
+      "label": "2. General Volunteer Services Recognized",
+      "type": "number",
+      "options": [],
+      "correct": 0
+    },
+    {
+      "id": "far-m5-tbs3-equipment",
+      "label": "3. Donated Equipment Recognized",
+      "type": "number",
+      "options": [],
+      "correct": 65000
+    },
+    {
+      "id": "far-m5-tbs3-construction",
+      "label": "4. Construction Services Capitalized Into Asset",
+      "type": "number",
+      "options": [],
+      "correct": 30000
+    }
+  ],
+  "html": "<section class=\"exam-page\"> <div class=\"course-intro-card\"> <span class=\"exam-badge\"> TASK-BASED SIMULATION </span> <h2> Contribution Recognition Analysis </h2> <p> Determine which donated services and noncash gifts should be recognized and calculate the related amounts. </p> </div> <div class=\"quiz-card\"> <h2> Scenario </h2> <p> Community Health Foundation receives the following contributions during the year. </p> <div class=\"key-points\"> <h3> Item 1 — Legal Services </h3> <p> An attorney donates legal services with a fair value of <strong>$24,000</strong>. </p> <p> The services require specialized legal skills, and the Foundation otherwise would have hired an attorney. </p> </div> <div class=\"key-points\"> <h3> Item 2 — General Volunteers </h3> <p> Volunteers provide routine clerical assistance valued at <strong>$10,000</strong>. </p> <p> The work does not require specialized skills and does not create or enhance a nonfinancial asset. </p> </div> <div class=\"key-points\"> <h3> Item 3 — Donated Equipment </h3> <p> A donor contributes medical equipment with a fair value of <strong>$65,000</strong>. </p> <p> There are no donor-imposed restrictions. </p> </div> <div class=\"key-points\"> <h3> Item 4 — Construction Services </h3> <p> Skilled workers donate construction services with a fair value of <strong>$30,000</strong> to build an addition to the Foundation's facility. </p> </div> <h2> Required </h2> <div class=\"financial-example\"> <div> <span> 1. Legal Services Contribution Revenue </span> <input type=\"number\" id=\"far-m5-tbs3-legal\" placeholder=\"Enter amount\"> </div> <div> <span> 2. General Volunteer Services Recognized </span> <input type=\"number\" id=\"far-m5-tbs3-volunteer\" placeholder=\"Enter amount\"> </div> <div> <span> 3. Donated Equipment Recognized </span> <input type=\"number\" id=\"far-m5-tbs3-equipment\" placeholder=\"Enter amount\"> </div> <div> <span> 4. Construction Services Capitalized Into Asset </span> <input type=\"number\" id=\"far-m5-tbs3-construction\" placeholder=\"Enter amount\"> </div> </div> <div id=\"far-m5-tbs3-result\"></div> </div> </section>",
+  "explanation": "<div class=\"result-correct\"> <h3> Item 1 — Legal Services </h3> <p> The legal services require specialized skills and otherwise would have been purchased. </p> <div class=\"formula-box\"> Contribution Revenue = $24,000 Related Legal Expense = $24,000 </div> <h3> Item 2 — General Volunteers </h3> <p> The routine clerical services do not satisfy the recognition criteria. </p> <div class=\"formula-box\"> Amount Recognized = $0 </div> <h3> Item 3 — Donated Equipment </h3> <p> The contributed equipment is generally recognized at fair value. </p> <div class=\"formula-box\"> Equipment = $65,000 Contribution Revenue = $65,000 </div> <h3> Item 4 — Construction Services </h3> <p> The donated services create or enhance a nonfinancial asset. </p> <div class=\"formula-box\"> Amount Capitalized = $30,000 </div> <div class=\"key-points\"> <h3> CPA Takeaway </h3> <ul> <li> Specialized donated services may qualify for recognition. </li> <li> Routine volunteer services often are not recognized. </li> <li> Contributed nonfinancial assets are generally measured at fair value. </li> <li> Donated services that create or enhance a nonfinancial asset may be capitalized. </li> </ul> </div> </div>",
+  "courseId": "far",
+  "difficulty": "advanced",
+  "metadata": {
+    "section": "far",
+    "blueprintYear": 2026,
+    "areaId": "far-I",
+    "groupId": "module-5",
+    "topicId": "far-not-for-profit-financial-statements",
+    "taskIds": [
+      "far-not-for-profit-financial-statements.task-1",
+      "far-not-for-profit-financial-statements.task-2",
+      "far-not-for-profit-financial-statements.task-3"
+    ],
+    "skill": "analysis",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      }
+    ]
+  }
+}

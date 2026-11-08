@@ -1,0 +1,62 @@
+{
+  "id": "far-m3-tbs4",
+  "moduleId": 3,
+  "number": 4,
+  "title": "FAR Module 3 · TBS 4",
+  "fields": [
+    {
+      "id": "far-m3-tbs4-liability",
+      "label": "1. Initial Lease Liability",
+      "type": "number",
+      "options": [],
+      "correct": 180000
+    },
+    {
+      "id": "far-m3-tbs4-rou",
+      "label": "2. Initial Right-of-Use Asset",
+      "type": "number",
+      "options": [],
+      "correct": 190000
+    },
+    {
+      "id": "far-m3-tbs4-interest",
+      "label": "3. Year 1 Interest Expense",
+      "type": "number",
+      "options": [],
+      "correct": 10800
+    },
+    {
+      "id": "far-m3-tbs4-ending",
+      "label": "4. Ending Lease Liability After Year 1 Payment",
+      "type": "number",
+      "options": [],
+      "correct": 145800
+    }
+  ],
+  "html": "<section class=\"exam-page\"> <div class=\"course-intro-card\"> <span class=\"exam-badge\"> TASK-BASED SIMULATION </span> <h2> Lease Measurement </h2> <p> Determine the initial lease liability, right-of-use asset, interest expense, and ending lease liability. </p> </div> <div class=\"quiz-card\"> <h2> Scenario </h2> <p> Orion Corp. enters into a lease on January 1. </p> <p> The present value of the required lease payments at commencement is <strong>$180,000</strong>. </p> <p> Orion also: </p> <div class=\"key-points\"> <ul> <li> Makes a lease prepayment of <strong>$8,000</strong>. </li> <li> Receives a lease incentive of <strong>$3,000</strong>. </li> <li> Incurs qualifying initial direct costs of <strong>$5,000</strong>. </li> </ul> </div> <p> Assume the lease is classified as a <strong>finance lease</strong>. </p> <p> The annual discount rate is <strong>6%</strong>. </p> <p> At the end of Year 1, Orion makes a required lease payment of <strong>$45,000</strong>. </p> <h2> Required </h2> <div class=\"financial-example\"> <div> <span> 1. Initial Lease Liability </span> <input type=\"number\" id=\"far-m3-tbs4-liability\" placeholder=\"Enter amount\"> </div> <div> <span> 2. Initial Right-of-Use Asset </span> <input type=\"number\" id=\"far-m3-tbs4-rou\" placeholder=\"Enter amount\"> </div> <div> <span> 3. Year 1 Interest Expense </span> <input type=\"number\" id=\"far-m3-tbs4-interest\" placeholder=\"Enter amount\"> </div> <div> <span> 4. Ending Lease Liability After Year 1 Payment </span> <input type=\"number\" id=\"far-m3-tbs4-ending\" placeholder=\"Enter amount\"> </div> </div> <div id=\"far-m3-tbs4-result\"></div> </div> </section>",
+  "explanation": "<div class=\"result-correct\"> <h3> Step 1 — Initial Lease Liability </h3> <p> The present value of required lease payments is given as $180,000. </p> <div class=\"formula-box\"> Initial Lease Liability = $180,000 </div> <h3> Step 2 — Initial ROU Asset </h3> <div class=\"formula-box\"> Lease Liability $180,000 + Prepayment $8,000 + Initial Direct Costs $5,000 − Lease Incentive $3,000 = $190,000 </div> <h3> Step 3 — Year 1 Interest </h3> <div class=\"formula-box\"> $180,000 × 6% = $10,800 </div> <p> <strong> Interest Expense: $10,800 </strong> </p> <h3> Step 4 — Ending Lease Liability </h3> <p> Interest increases the lease liability, while the lease payment reduces it. </p> <div class=\"formula-box\"> Beginning Liability $180,000 + Interest $10,800 − Payment $45,000 = $145,800 </div> <p> <strong> Ending Lease Liability: $145,800 </strong> </p> <div class=\"key-points\"> <h3> CPA Takeaway </h3> <ul> <li> Initial lease liability is based on present value of lease payments. </li> <li> ROU asset begins with the lease liability and is adjusted for prepayments, incentives, and qualifying initial direct costs. </li> <li> Finance lease interest is calculated using the effective interest method. </li> <li> Lease payments reduce the liability after accounting for interest. </li> </ul> </div> </div>",
+  "courseId": "far",
+  "difficulty": "advanced",
+  "metadata": {
+    "section": "far",
+    "blueprintYear": 2026,
+    "areaId": "far-III",
+    "groupId": "module-3",
+    "topicId": "far-subsequent-events",
+    "taskIds": [
+      "far-subsequent-events.task-1",
+      "far-subsequent-events.task-2",
+      "far-subsequent-events.task-3"
+    ],
+    "skill": "analysis",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      }
+    ]
+  }
+}

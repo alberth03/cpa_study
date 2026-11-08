@@ -1,0 +1,126 @@
+{
+  "id": "tcp-m1-tbs3",
+  "courseId": "tcp",
+  "moduleId": 1,
+  "number": 3,
+  "title": "Personal planning comparison",
+  "html": "<div class=\"course-intro-card\"><h2>Personal planning comparison</h2><p>Compare two investments and compute a gift under the supplied assumptions.</p></div><section class=\"quiz-card\"><h3>Required responses</h3><div class=\"tbs-question\"><label for=\"tcp-m1-tbs3-f1\">Taxable bond after-tax yield, percent</label><input id=\"tcp-m1-tbs3-f1\" type=\"text\"></div><div class=\"tbs-question\"><label for=\"tcp-m1-tbs3-f2\">Higher stated after-tax yield</label><select id=\"tcp-m1-tbs3-f2\"><option value=\"Tax-exempt bond\">Tax-exempt bond</option><option value=\"Taxable bond\">Taxable bond</option><option value=\"Exactly equal\">Exactly equal</option><option value=\"Cannot compare the supplied equal-risk assumptions\">Cannot compare the supplied equal-risk assumptions</option></select></div><div class=\"tbs-question\"><label for=\"tcp-m1-tbs3-f3\">Taxable gift before unified credit</label><input id=\"tcp-m1-tbs3-f3\" type=\"text\"></div><div class=\"tbs-question\"><label for=\"tcp-m1-tbs3-f4\">Does that taxable gift alone establish current tax payable?</label><select id=\"tcp-m1-tbs3-f4\"><option value=\"No; evaluate available credit and other rules\">No; evaluate available credit and other rules</option><option value=\"Yes, the gift amount is the tax\">Yes, the gift amount is the tax</option><option value=\"Yes, the recipient owes wage tax\">Yes, the recipient owes wage tax</option><option value=\"No transfer reporting can ever apply\">No transfer reporting can ever apply</option></select></div></section>",
+  "metadata": {
+    "section": "tcp",
+    "blueprintYear": 2026,
+    "areaId": "tcp-I",
+    "groupId": "C-D",
+    "topicId": "tcp-personal-financial-planning",
+    "taskIds": [
+      "tcp-personal-financial-planning.task-1",
+      "tcp-personal-financial-planning.task-2",
+      "tcp-personal-financial-planning.task-3"
+    ],
+    "skill": "analysis",
+    "validFrom": "2026-07-01",
+    "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      },
+      {
+        "title": "IRS tax publications",
+        "url": "https://www.irs.gov/publications"
+      },
+      {
+        "title": "Internal Revenue Code",
+        "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+      }
+    ]
+  },
+  "difficulty": "advanced",
+  "fields": [
+    {
+      "id": "tcp-m1-tbs3-f1",
+      "label": "Taxable bond after-tax yield, percent",
+      "type": "number",
+      "options": [],
+      "correct": 4.9,
+      "explanation": "7% × 70% = 4.9%.",
+      "tolerance": 0.001,
+      "topicId": "tcp-personal-financial-planning"
+    },
+    {
+      "id": "tcp-m1-tbs3-f2",
+      "label": "Higher stated after-tax yield",
+      "type": "select",
+      "options": [
+        {
+          "value": "Tax-exempt bond",
+          "label": "Tax-exempt bond"
+        },
+        {
+          "value": "Taxable bond",
+          "label": "Taxable bond"
+        },
+        {
+          "value": "Exactly equal",
+          "label": "Exactly equal"
+        },
+        {
+          "value": "Cannot compare the supplied equal-risk assumptions",
+          "label": "Cannot compare the supplied equal-risk assumptions"
+        }
+      ],
+      "correct": "Tax-exempt bond",
+      "explanation": "The tax-exempt yield is 5%, above 4.9%.",
+      "topicId": "tcp-personal-financial-planning"
+    },
+    {
+      "id": "tcp-m1-tbs3-f3",
+      "label": "Taxable gift before unified credit",
+      "type": "number",
+      "options": [],
+      "correct": 51000,
+      "explanation": "$70,000 − $19,000 = $51,000.",
+      "topicId": "tcp-personal-financial-planning"
+    },
+    {
+      "id": "tcp-m1-tbs3-f4",
+      "label": "Does that taxable gift alone establish current tax payable?",
+      "type": "select",
+      "options": [
+        {
+          "value": "No; evaluate available credit and other rules",
+          "label": "No; evaluate available credit and other rules"
+        },
+        {
+          "value": "Yes, the gift amount is the tax",
+          "label": "Yes, the gift amount is the tax"
+        },
+        {
+          "value": "Yes, the recipient owes wage tax",
+          "label": "Yes, the recipient owes wage tax"
+        },
+        {
+          "value": "No transfer reporting can ever apply",
+          "label": "No transfer reporting can ever apply"
+        }
+      ],
+      "correct": "No; evaluate available credit and other rules",
+      "explanation": "Taxable gift and tax payable are separate.",
+      "topicId": "tcp-personal-financial-planning"
+    }
+  ],
+  "exhibits": [
+    {
+      "id": "tcp-m1-tbs3-ex1",
+      "title": "Investments",
+      "html": "<p>Taxable bond yield 7%; qualifying tax-exempt bond yield 5%; supplied marginal rate 30%. Assume equal risk and ignore state tax and other effects.</p>"
+    },
+    {
+      "id": "tcp-m1-tbs3-ex2",
+      "title": "Gift",
+      "html": "<p>Cash gift $70,000; supplied annual exclusion $19,000. No gift splitting or other exclusion. Compute taxable gift before available unified credit.</p>"
+    }
+  ],
+  "explanation": "<h3>Taxable bond after-tax yield, percent</h3><p>7% × 70% = 4.9%.</p><h3>Higher stated after-tax yield</h3><p>The tax-exempt yield is 5%, above 4.9%.</p><h3>Taxable gift before unified credit</h3><p>$70,000 − $19,000 = $51,000.</p><h3>Does that taxable gift alone establish current tax payable?</h3><p>Taxable gift and tax payable are separate.</p>"
+}

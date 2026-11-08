@@ -1,0 +1,124 @@
+{
+  "id": "aud-m3-tbs6",
+  "courseId": "aud",
+  "moduleId": 3,
+  "number": 6,
+  "title": "Investment evidence reconciliation",
+  "html": "<div class=\"course-intro-card\"><h2>Investment evidence reconciliation</h2><p>Reconcile confirmed quantities to fair values and evaluate the remaining evidence issues.</p></div><section class=\"quiz-card\"><h3>Required responses</h3><div class=\"tbs-question\"><label for=\"aud-m3-tbs6-f1\">Fair value of Security A</label><input id=\"aud-m3-tbs6-f1\" type=\"text\"></div><div class=\"tbs-question\"><label for=\"aud-m3-tbs6-f2\">Overstatement in Security A</label><input id=\"aud-m3-tbs6-f2\" type=\"text\"></div><div class=\"tbs-question\"><label for=\"aud-m3-tbs6-f3\">Additional issue for Security B</label><select id=\"aud-m3-tbs6-f3\"><option value=\"Omitted pledge disclosure\">Omitted pledge disclosure</option><option value=\"Automatic nonexistence\">Automatic nonexistence</option><option value=\"No possible reporting issue\">No possible reporting issue</option><option value=\"A payroll completeness error\">A payroll completeness error</option></select></div><div class=\"tbs-question\"><label for=\"aud-m3-tbs6-f4\">Response to the representation proposal</label><select id=\"aud-m3-tbs6-f4\"><option value=\"Obtain sufficient appropriate valuation evidence\">Obtain sufficient appropriate valuation evidence</option><option value=\"Accept the representation as a complete substitute\">Accept the representation as a complete substitute</option><option value=\"Ignore the model because it is complex\">Ignore the model because it is complex</option><option value=\"Use an unrelated market price\">Use an unrelated market price</option></select></div></section>",
+  "metadata": {
+    "section": "aud",
+    "blueprintYear": 2026,
+    "areaId": "aud-III",
+    "groupId": "E-F",
+    "topicId": "aud-audit-investments",
+    "taskIds": [
+      "aud-audit-investments.task-1",
+      "aud-audit-investments.task-2",
+      "aud-audit-investments.task-3"
+    ],
+    "skill": "analysis",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      },
+      {
+        "title": "AICPA auditing standards",
+        "url": "https://www.aicpa-cima.com/resources/landing/auditing-standards"
+      },
+      {
+        "title": "PCAOB standards",
+        "url": "https://pcaobus.org/oversight/standards"
+      }
+    ]
+  },
+  "difficulty": "advanced",
+  "fields": [
+    {
+      "id": "aud-m3-tbs6-f1",
+      "label": "Fair value of Security A",
+      "type": "number",
+      "options": [],
+      "correct": 84000,
+      "explanation": "1,500 × $56 = $84,000.",
+      "topicId": "aud-audit-investments"
+    },
+    {
+      "id": "aud-m3-tbs6-f2",
+      "label": "Overstatement in Security A",
+      "type": "number",
+      "options": [],
+      "correct": 6000,
+      "explanation": "$90,000 recorded less $84,000 supported value = $6,000.",
+      "topicId": "aud-audit-investments"
+    },
+    {
+      "id": "aud-m3-tbs6-f3",
+      "label": "Additional issue for Security B",
+      "type": "select",
+      "options": [
+        {
+          "value": "Omitted pledge disclosure",
+          "label": "Omitted pledge disclosure"
+        },
+        {
+          "value": "Automatic nonexistence",
+          "label": "Automatic nonexistence"
+        },
+        {
+          "value": "No possible reporting issue",
+          "label": "No possible reporting issue"
+        },
+        {
+          "value": "A payroll completeness error",
+          "label": "A payroll completeness error"
+        }
+      ],
+      "correct": "Omitted pledge disclosure",
+      "explanation": "The pledge affects disclosure even though custody is confirmed.",
+      "topicId": "aud-audit-investments"
+    },
+    {
+      "id": "aud-m3-tbs6-f4",
+      "label": "Response to the representation proposal",
+      "type": "select",
+      "options": [
+        {
+          "value": "Obtain sufficient appropriate valuation evidence",
+          "label": "Obtain sufficient appropriate valuation evidence"
+        },
+        {
+          "value": "Accept the representation as a complete substitute",
+          "label": "Accept the representation as a complete substitute"
+        },
+        {
+          "value": "Ignore the model because it is complex",
+          "label": "Ignore the model because it is complex"
+        },
+        {
+          "value": "Use an unrelated market price",
+          "label": "Use an unrelated market price"
+        }
+      ],
+      "correct": "Obtain sufficient appropriate valuation evidence",
+      "explanation": "The auditor needs evidence about relevant model inputs and assumptions.",
+      "topicId": "aud-audit-investments"
+    }
+  ],
+  "exhibits": [
+    {
+      "id": "aud-m3-tbs6-ex1",
+      "title": "Investment schedule",
+      "html": "<p>Security A: 1,500 units, recorded at $90,000; relevant year-end quoted price $56. Security B: confirmed as held but subject to a material collateral pledge omitted from disclosures.</p>"
+    },
+    {
+      "id": "aud-m3-tbs6-ex2",
+      "title": "Audit file",
+      "html": "<p>The controller proposes using a written representation instead of obtaining the valuation model inputs for a separate material Level 3 investment.</p>"
+    }
+  ],
+  "explanation": "<h3>Fair value of Security A</h3><p>1,500 × $56 = $84,000.</p><h3>Overstatement in Security A</h3><p>$90,000 recorded less $84,000 supported value = $6,000.</p><h3>Additional issue for Security B</h3><p>The pledge affects disclosure even though custody is confirmed.</p><h3>Response to the representation proposal</h3><p>The auditor needs evidence about relevant model inputs and assumptions.</p>"
+}

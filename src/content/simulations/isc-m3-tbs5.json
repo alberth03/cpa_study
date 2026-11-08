@@ -1,0 +1,158 @@
+{
+  "id": "isc-m3-tbs5",
+  "courseId": "isc",
+  "moduleId": 3,
+  "number": 5,
+  "title": "User response to a SOC report",
+  "html": "<div class=\"course-intro-card\"><h2>User response to a SOC report</h2><p>Evaluate the report and management responses before relying on an outsourced service.</p></div><section class=\"quiz-card\"><h3>Required responses</h3><div class=\"tbs-question\"><label for=\"isc-m3-tbs5-f1\">Response to delayed access removal</label><select id=\"isc-m3-tbs5-f1\"><option value=\"Evaluate relevance and adjust the user’s risk response\">Evaluate relevance and adjust the user’s risk response</option><option value=\"Ignore every exception in an issued report\">Ignore every exception in an issued report</option><option value=\"Assume all user controls are tested\">Assume all user controls are tested</option><option value=\"Treat the report as a universal guarantee\">Treat the report as a universal guarantee</option></select></div><div class=\"tbs-question\"><label for=\"isc-m3-tbs5-f2\">Nature of the description omission</label><select id=\"isc-m3-tbs5-f2\"><option value=\"A known description issue requiring conclusion evaluation\">A known description issue requiring conclusion evaluation</option><option value=\"Automatic evidence of no risk\">Automatic evidence of no risk</option><option value=\"Only a cosmetic problem in every case\">Only a cosmetic problem in every case</option><option value=\"A guarantee of future controls\">A guarantee of future controls</option></select></div><div class=\"tbs-question\"><label for=\"isc-m3-tbs5-f3\">Nature of unavailable control evidence</label><select id=\"isc-m3-tbs5-f3\"><option value=\"An evidence limitation\">An evidence limitation</option><option value=\"Automatic proof of successful operation\">Automatic proof of successful operation</option><option value=\"Automatic proof of every possible failure\">Automatic proof of every possible failure</option><option value=\"No reporting consideration\">No reporting consideration</option></select></div><div class=\"tbs-question\"><label for=\"isc-m3-tbs5-f4\">Treatment of the remediation promise</label><select id=\"isc-m3-tbs5-f4\"><option value=\"Seek evidence of implementation and effectiveness\">Seek evidence of implementation and effectiveness</option><option value=\"Treat the promise as completed remediation\">Treat the promise as completed remediation</option><option value=\"Stop monitoring\">Stop monitoring</option><option value=\"Ignore the relevant control thereafter\">Ignore the relevant control thereafter</option></select></div></section>",
+  "metadata": {
+    "section": "isc",
+    "blueprintYear": 2026,
+    "areaId": "isc-III",
+    "groupId": "C",
+    "topicId": "isc-soc-report-conclusions",
+    "taskIds": [
+      "isc-soc-report-conclusions.task-1",
+      "isc-soc-report-conclusions.task-2",
+      "isc-soc-report-conclusions.task-3"
+    ],
+    "skill": "analysis",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      },
+      {
+        "title": "NIST Cybersecurity Framework",
+        "url": "https://www.nist.gov/cyberframework"
+      },
+      {
+        "title": "AICPA SOC resources",
+        "url": "https://www.aicpa-cima.com/resources/landing/system-and-organization-controls-soc-suite-of-services"
+      }
+    ]
+  },
+  "difficulty": "advanced",
+  "fields": [
+    {
+      "id": "isc-m3-tbs5-f1",
+      "label": "Response to delayed access removal",
+      "type": "select",
+      "options": [
+        {
+          "value": "Evaluate relevance and adjust the user’s risk response",
+          "label": "Evaluate relevance and adjust the user’s risk response"
+        },
+        {
+          "value": "Ignore every exception in an issued report",
+          "label": "Ignore every exception in an issued report"
+        },
+        {
+          "value": "Assume all user controls are tested",
+          "label": "Assume all user controls are tested"
+        },
+        {
+          "value": "Treat the report as a universal guarantee",
+          "label": "Treat the report as a universal guarantee"
+        }
+      ],
+      "correct": "Evaluate relevance and adjust the user’s risk response",
+      "explanation": "Exceptions need to be considered in the user’s context.",
+      "topicId": "isc-soc-report-conclusions"
+    },
+    {
+      "id": "isc-m3-tbs5-f2",
+      "label": "Nature of the description omission",
+      "type": "select",
+      "options": [
+        {
+          "value": "A known description issue requiring conclusion evaluation",
+          "label": "A known description issue requiring conclusion evaluation"
+        },
+        {
+          "value": "Automatic evidence of no risk",
+          "label": "Automatic evidence of no risk"
+        },
+        {
+          "value": "Only a cosmetic problem in every case",
+          "label": "Only a cosmetic problem in every case"
+        },
+        {
+          "value": "A guarantee of future controls",
+          "label": "A guarantee of future controls"
+        }
+      ],
+      "correct": "A known description issue requiring conclusion evaluation",
+      "explanation": "A material omission may affect fair presentation.",
+      "topicId": "isc-soc-report-conclusions"
+    },
+    {
+      "id": "isc-m3-tbs5-f3",
+      "label": "Nature of unavailable control evidence",
+      "type": "select",
+      "options": [
+        {
+          "value": "An evidence limitation",
+          "label": "An evidence limitation"
+        },
+        {
+          "value": "Automatic proof of successful operation",
+          "label": "Automatic proof of successful operation"
+        },
+        {
+          "value": "Automatic proof of every possible failure",
+          "label": "Automatic proof of every possible failure"
+        },
+        {
+          "value": "No reporting consideration",
+          "label": "No reporting consideration"
+        }
+      ],
+      "correct": "An evidence limitation",
+      "explanation": "Missing evidence affects the basis for a conclusion.",
+      "topicId": "isc-soc-report-conclusions"
+    },
+    {
+      "id": "isc-m3-tbs5-f4",
+      "label": "Treatment of the remediation promise",
+      "type": "select",
+      "options": [
+        {
+          "value": "Seek evidence of implementation and effectiveness",
+          "label": "Seek evidence of implementation and effectiveness"
+        },
+        {
+          "value": "Treat the promise as completed remediation",
+          "label": "Treat the promise as completed remediation"
+        },
+        {
+          "value": "Stop monitoring",
+          "label": "Stop monitoring"
+        },
+        {
+          "value": "Ignore the relevant control thereafter",
+          "label": "Ignore the relevant control thereafter"
+        }
+      ],
+      "correct": "Seek evidence of implementation and effectiveness",
+      "explanation": "A future plan is not operating evidence.",
+      "topicId": "isc-soc-report-conclusions"
+    }
+  ],
+  "exhibits": [
+    {
+      "id": "isc-m3-tbs5-ex1",
+      "title": "Report findings",
+      "html": "<p>The report identifies delayed privileged-access removal. A material service process is omitted from the description. Evidence for another control is unavailable.</p>"
+    },
+    {
+      "id": "isc-m3-tbs5-ex2",
+      "title": "Provider response",
+      "html": "<p>The provider promises a new access process next quarter but provides no implementation or testing evidence.</p>"
+    }
+  ],
+  "explanation": "<h3>Response to delayed access removal</h3><p>Exceptions need to be considered in the user’s context.</p><h3>Nature of the description omission</h3><p>A material omission may affect fair presentation.</p><h3>Nature of unavailable control evidence</h3><p>Missing evidence affects the basis for a conclusion.</p><h3>Treatment of the remediation promise</h3><p>A future plan is not operating evidence.</p>"
+}

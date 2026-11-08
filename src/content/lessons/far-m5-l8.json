@@ -1,0 +1,88 @@
+{
+  "id": "far-m5-l8",
+  "courseId": "far",
+  "moduleId": 5,
+  "number": 8,
+  "title": "Endowments & Investment Income",
+  "description": "Analyze donor-restricted endowments, investment returns, and related net asset classifications.",
+  "url": "/learn/far/modules/5/lessons/8",
+  "html": "<h2> What Is an Endowment? </h2> <p> An endowment is a pool of resources established to provide financial support to an organization over an extended period. </p> <p> Endowments may be created by donors or, in some cases, designated internally by the organization's governing board. </p> <h2> Donor-Restricted Endowment </h2> <p> A donor may require that contributed resources be maintained according to the terms of an endowment agreement. </p> <p> Because the restriction comes from the donor, the related resources are generally included in <strong>net assets with donor restrictions</strong>. </p> <div class=\"formula-box\"> DONOR CREATES ENDOWMENT RESTRICTION → NET ASSETS WITH DONOR RESTRICTIONS </div> <h2> Example — Donor-Restricted Endowment </h2> <div class=\"example-box\"> <strong> Example </strong> <p> A donor contributes <strong>$500,000</strong> to an NFP and requires the contribution to be maintained as an endowment. </p> <p> Investment returns may be used for scholarships in accordance with the donor's instructions. </p> </div> <div class=\"formula-box\"> ORIGINAL ENDOWMENT GIFT $500,000 → WITH DONOR RESTRICTIONS </div> <h2> Board-Designated Endowment </h2> <p> The organization's board may also designate resources to function like an endowment. </p> <p> This is sometimes called a <strong>board-designated endowment</strong> or <strong>quasi-endowment</strong>. </p> <div class=\"formula-box\"> BOARD DESIGNATION ≠ DONOR RESTRICTION </div> <p> Because the restriction was created internally, the resources generally remain within <strong>net assets without donor restrictions</strong>. </p> <h2> Donor vs. Board </h2> <div class=\"financial-example\"> <div> <span> Donor-Restricted Endowment </span> <strong> With Donor Restrictions </strong> </div> <div> <span> Board-Designated Endowment </span> <strong> Without Donor Restrictions </strong> </div> </div> <h2> Investment Return </h2> <p> Endowment investments may generate returns such as interest, dividends, and gains or losses. </p> <div class=\"formula-box\"> INVESTMENT RETURN MAY INCLUDE: INTEREST + DIVIDENDS + REALIZED GAINS / LOSSES + UNREALIZED GAINS / LOSSES </div> <h2> Classification of Investment Return </h2> <p> The classification of investment return depends on donor stipulations and applicable legal requirements. </p> <p> If the donor restricts the return for a particular purpose, the return generally increases net assets with donor restrictions until the restriction is satisfied. </p> <div class=\"example-box\"> <strong> Example </strong> <p> An endowment earns <strong>$30,000</strong> of investment return. </p> <p> The donor requires that the return be used only for student scholarships. </p> </div> <div class=\"formula-box\"> $30,000 RETURN + SCHOLARSHIP RESTRICTION → WITH DONOR RESTRICTIONS </div> <h2> Spending the Restricted Return </h2> <p> If the NFP later uses the $30,000 for qualifying scholarships and satisfies the donor restriction, a release from restriction is generally reported. </p> <div class=\"financial-example\"> <div> <span> With Donor Restrictions </span> <strong> − $30,000 </strong> </div> <div> <span> Without Donor Restrictions </span> <strong> + $30,000 </strong> </div> </div> <h2> Investment Expenses </h2> <p> Investment return should be reported in accordance with the applicable presentation requirements, including the treatment of related investment expenses. </p> <p> For CPA questions, carefully distinguish investment return from contributions and determine whether donor restrictions apply. </p> <h2> Endowment Growth Example </h2> <p> Assume a donor-restricted endowment begins the year with investments of <strong>$800,000</strong>. </p> <p> During the year: </p> <div class=\"financial-example\"> <div> <span>Interest &amp; Dividends</span> <strong>$35,000</strong> </div> <div> <span>Net Investment Gain</span> <strong>$25,000</strong> </div> </div> <div class=\"formula-box\"> TOTAL INVESTMENT RETURN $35,000 + $25,000 = $60,000 </div> <p> The classification of the $60,000 depends on donor stipulations and applicable endowment requirements. </p> <h2> Underwater Endowment </h2> <p> An underwater endowment exists when the fair value of a donor-restricted endowment falls below the amount required to be maintained by the donor or by applicable law. </p> <div class=\"example-box\"> <strong> Example </strong> <p> Required amount to be maintained: <strong>$500,000</strong> </p> <p> Current fair value: <strong>$470,000</strong> </p> </div> <div class=\"formula-box\"> $500,000 − $470,000 = $30,000 UNDERWATER AMOUNT </div> <p> Under current NFP reporting, underwater amounts associated with donor-restricted endowment funds are generally reflected within <strong>net assets with donor restrictions</strong>. </p> <h2> CPA Decision Process </h2> <div class=\"formula-box\"> STEP 1 WHO CREATED THE ENDOWMENT? DONOR → WITH DONOR RESTRICTIONS BOARD → WITHOUT DONOR RESTRICTIONS STEP 2 WHAT DOES THE DONOR SAY ABOUT INVESTMENT RETURN? STEP 3 HAS THE RESTRICTION BEEN SATISFIED? </div> <h2> CPA Memory Rule </h2> <div class=\"formula-box\"> DONOR ENDOWMENT = RESTRICTED BOARD ENDOWMENT = NOT DONOR-RESTRICTED INVESTMENT RETURN = CHECK DONOR TERMS </div> <div class=\"key-points\"> <h3> Key Takeaways </h3> <ul> <li> Donor-restricted endowments generally fall within net assets with donor restrictions. </li> <li> Board-designated endowments generally remain within net assets without donor restrictions. </li> <li> Investment return may include interest, dividends, and realized or unrealized gains and losses. </li> <li> Donor stipulations affect the classification of investment return. </li> <li> Satisfying a donor restriction may result in a release from restriction. </li> </ul> </div>",
+  "quiz": {
+    "id": "far-m5-l8-check",
+    "courseId": "far",
+    "moduleId": 5,
+    "lessonId": "far-m5-l8",
+    "topic": "General review",
+    "prompt": "An NFP's governing board designates $400,000 of resources that previously had no donor restrictions to function as an endowment. No donor imposed the designation. How should the $400,000 generally be classified?",
+    "choices": [
+      {
+        "id": "far-m5-l8-check-a0",
+        "text": "Net assets without donor restrictions"
+      },
+      {
+        "id": "far-m5-l8-check-a1",
+        "text": "Net assets with donor restrictions"
+      },
+      {
+        "id": "far-m5-l8-check-a2",
+        "text": "A liability until the board removes the designation"
+      },
+      {
+        "id": "far-m5-l8-check-a3",
+        "text": "Deferred contribution revenue"
+      }
+    ],
+    "correctChoiceId": "far-m5-l8-check-a0",
+    "explanation": "A board-designated endowment is created internally rather than through a donor-imposed restriction. Therefore, the resources generally remain classified within net assets without donor restrictions.",
+    "difficulty": "foundation",
+    "metadata": {
+      "section": "far",
+      "blueprintYear": 2026,
+      "areaId": "far-I",
+      "groupId": "module-5",
+      "topicId": "far-endowments-investment-income",
+      "taskIds": [
+        "far-endowments-investment-income.task-1",
+        "far-endowments-investment-income.task-2",
+        "far-endowments-investment-income.task-3"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "section": "far",
+    "blueprintYear": 2026,
+    "areaId": "far-I",
+    "groupId": "module-5",
+    "topicId": "far-endowments-investment-income",
+    "taskIds": [
+      "far-endowments-investment-income.task-1",
+      "far-endowments-investment-income.task-2",
+      "far-endowments-investment-income.task-3"
+    ],
+    "skill": "application",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      }
+    ]
+  },
+  "objectives": [
+    "Explain endowments & investment income and its underlying principles.",
+    "Apply the topic to a financial-reporting scenario.",
+    "Evaluate common errors and their financial-statement effects."
+  ]
+}

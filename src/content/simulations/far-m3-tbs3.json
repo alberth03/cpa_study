@@ -1,0 +1,62 @@
+{
+  "id": "far-m3-tbs3",
+  "moduleId": 3,
+  "number": 3,
+  "title": "FAR Module 3 · TBS 3",
+  "fields": [
+    {
+      "id": "far-m3-tbs3-lawsuit",
+      "label": "1. Lawsuit Loss to Accrue",
+      "type": "number",
+      "options": [],
+      "correct": 90000
+    },
+    {
+      "id": "far-m3-tbs3-possible",
+      "label": "2. Amount to Accrue for the Reasonably Possible Claim",
+      "type": "number",
+      "options": [],
+      "correct": 0
+    },
+    {
+      "id": "far-m3-tbs3-bankruptcy",
+      "label": "3. Customer Bankruptcy: Enter 1 if Year-End Statements Should Be Adjusted, 0 if Not",
+      "type": "number",
+      "options": [],
+      "correct": 1
+    },
+    {
+      "id": "far-m3-tbs3-fire",
+      "label": "4. Warehouse Fire: Enter 1 if Year-End Statements Should Be Adjusted, 0 if Not",
+      "type": "number",
+      "options": [],
+      "correct": 0
+    }
+  ],
+  "html": "<section class=\"exam-page\"> <div class=\"course-intro-card\"> <span class=\"exam-badge\"> TASK-BASED SIMULATION </span> <h2> Year-End Recognition Analysis </h2> <p> Analyze several year-end events and determine the appropriate accounting treatment. </p> </div> <div class=\"quiz-card\"> <h2> Scenario </h2> <p> Delta Corp. is preparing its December 31 financial statements. Consider each independent item below. </p> <div class=\"key-points\"> <h3> Item 1 — Lawsuit </h3> <p> A lawsuit existed at December 31. Management concludes that a loss is <strong>probable</strong> and reasonably estimable at <strong>$90,000</strong>. </p> </div> <div class=\"key-points\"> <h3> Item 2 — Possible Claim </h3> <p> A separate claim is considered <strong>reasonably possible</strong>, and the potential loss can be estimated. </p> </div> <div class=\"key-points\"> <h3> Item 3 — Customer Bankruptcy </h3> <p> A major customer declares bankruptcy shortly after year-end. </p> <p> Evidence shows that the customer's severe financial problems existed before December 31. </p> </div> <div class=\"key-points\"> <h3> Item 4 — Warehouse Fire </h3> <p> A warehouse is destroyed by a fire after year-end. </p> <p> No related condition existed at December 31, and the loss is material. </p> </div> <h2> Required </h2> <p> Enter the requested amounts below. </p> <div class=\"financial-example\"> <div> <span> 1. Lawsuit Loss to Accrue </span> <input type=\"number\" id=\"far-m3-tbs3-lawsuit\" placeholder=\"Enter amount\"> </div> <div> <span> 2. Amount to Accrue for the Reasonably Possible Claim </span> <input type=\"number\" id=\"far-m3-tbs3-possible\" placeholder=\"Enter amount\"> </div> <div> <span> 3. Customer Bankruptcy: Enter 1 if Year-End Statements Should Be Adjusted, 0 if Not </span> <input type=\"number\" id=\"far-m3-tbs3-bankruptcy\" placeholder=\"Enter 1 or 0\"> </div> <div> <span> 4. Warehouse Fire: Enter 1 if Year-End Statements Should Be Adjusted, 0 if Not </span> <input type=\"number\" id=\"far-m3-tbs3-fire\" placeholder=\"Enter 1 or 0\"> </div> </div> <div id=\"far-m3-tbs3-result\"></div> </div> </section>",
+  "explanation": "<div class=\"result-correct\"> <h3> Item 1 — Lawsuit </h3> <p> The loss is probable and reasonably estimable. </p> <div class=\"formula-box\"> Loss Accrued = $90,000 </div> <h3> Item 2 — Reasonably Possible Claim </h3> <p> A reasonably possible loss is generally disclosed rather than accrued. </p> <div class=\"formula-box\"> Amount Accrued = $0 </div> <h3> Item 3 — Customer Bankruptcy </h3> <p> The bankruptcy provides additional evidence about financial difficulty that already existed at December 31. </p> <div class=\"formula-box\"> Existing Year-End Condition → Adjust Correct Entry: 1 </div> <h3> Item 4 — Warehouse Fire </h3> <p> The fire resulted from a condition arising after year-end. </p> <p> The year-end amounts generally are not adjusted, although the material event may require disclosure. </p> <div class=\"formula-box\"> New Post-Year-End Condition → No Adjustment Correct Entry: 0 </div> <div class=\"key-points\"> <h3> CPA Takeaway </h3> <ul> <li> Probable + reasonably estimable loss → accrue. </li> <li> Reasonably possible loss → generally disclose. </li> <li> Subsequent event confirming an existing year-end condition → adjust. </li> <li> New condition arising after year-end → generally no adjustment, but disclose if material. </li> </ul> </div> </div>",
+  "courseId": "far",
+  "difficulty": "advanced",
+  "metadata": {
+    "section": "far",
+    "blueprintYear": 2026,
+    "areaId": "far-III",
+    "groupId": "module-3",
+    "topicId": "far-fair-value-measurements",
+    "taskIds": [
+      "far-fair-value-measurements.task-1",
+      "far-fair-value-measurements.task-2",
+      "far-fair-value-measurements.task-3"
+    ],
+    "skill": "analysis",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      }
+    ]
+  }
+}

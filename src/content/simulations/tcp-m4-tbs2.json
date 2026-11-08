@@ -1,0 +1,91 @@
+{
+  "id": "tcp-m4-tbs2",
+  "courseId": "tcp",
+  "moduleId": 4,
+  "number": 2,
+  "title": "Installment sale schedule",
+  "html": "<div class=\"course-intro-card\"><h2>Installment sale schedule</h2><p>Compute an eligible installment sale of nondepreciable investment land.</p></div><section class=\"quiz-card\"><h3>Required responses</h3><div class=\"tbs-question\"><label for=\"tcp-m4-tbs2-f1\">Gross profit</label><input id=\"tcp-m4-tbs2-f1\" type=\"text\"></div><div class=\"tbs-question\"><label for=\"tcp-m4-tbs2-f2\">Gross-profit percentage</label><input id=\"tcp-m4-tbs2-f2\" type=\"text\"></div><div class=\"tbs-question\"><label for=\"tcp-m4-tbs2-f3\">Current installment gain</label><input id=\"tcp-m4-tbs2-f3\" type=\"text\"></div><div class=\"tbs-question\"><label for=\"tcp-m4-tbs2-f4\">Basis recovery included in current principal</label><input id=\"tcp-m4-tbs2-f4\" type=\"text\"></div></section>",
+  "metadata": {
+    "section": "tcp",
+    "blueprintYear": 2026,
+    "areaId": "tcp-IV",
+    "groupId": "A",
+    "topicId": "tcp-property-installment-conversion",
+    "taskIds": [
+      "tcp-property-installment-conversion.task-1",
+      "tcp-property-installment-conversion.task-2",
+      "tcp-property-installment-conversion.task-3"
+    ],
+    "skill": "analysis",
+    "validFrom": "2026-07-01",
+    "taxLawPeriod": "2026; exercise-specific rates and limits are stated in each case",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      },
+      {
+        "title": "IRS tax publications",
+        "url": "https://www.irs.gov/publications"
+      },
+      {
+        "title": "Internal Revenue Code",
+        "url": "https://uscode.house.gov/browse/prelim@title26&edition=prelim"
+      }
+    ]
+  },
+  "difficulty": "advanced",
+  "fields": [
+    {
+      "id": "tcp-m4-tbs2-f1",
+      "label": "Gross profit",
+      "type": "number",
+      "options": [],
+      "correct": 175000,
+      "explanation": "$500,000 − $300,000 − $25,000 = $175,000.",
+      "topicId": "tcp-property-installment-conversion"
+    },
+    {
+      "id": "tcp-m4-tbs2-f2",
+      "label": "Gross-profit percentage",
+      "type": "number",
+      "options": [],
+      "correct": 35,
+      "explanation": "$175,000 ÷ $500,000 = 35%.",
+      "topicId": "tcp-property-installment-conversion"
+    },
+    {
+      "id": "tcp-m4-tbs2-f3",
+      "label": "Current installment gain",
+      "type": "number",
+      "options": [],
+      "correct": 70000,
+      "explanation": "$200,000 principal × 35% = $70,000.",
+      "topicId": "tcp-property-installment-conversion"
+    },
+    {
+      "id": "tcp-m4-tbs2-f4",
+      "label": "Basis recovery included in current principal",
+      "type": "number",
+      "options": [],
+      "correct": 130000,
+      "explanation": "$200,000 collected less $70,000 gain = $130,000 basis recovery.",
+      "topicId": "tcp-property-installment-conversion"
+    }
+  ],
+  "exhibits": [
+    {
+      "id": "tcp-m4-tbs2-ex1",
+      "title": "Sale terms",
+      "html": "<p>Selling price and contract price $500,000. Adjusted basis $300,000. Qualifying selling costs $25,000. No assumed debt or recapture.</p>"
+    },
+    {
+      "id": "tcp-m4-tbs2-ex2",
+      "title": "Collections",
+      "html": "<p>Current-year principal collections $200,000. Interest is separately stated and excluded from the requested computations.</p>"
+    }
+  ],
+  "explanation": "<h3>Gross profit</h3><p>$500,000 − $300,000 − $25,000 = $175,000.</p><h3>Gross-profit percentage</h3><p>$175,000 ÷ $500,000 = 35%.</p><h3>Current installment gain</h3><p>$200,000 principal × 35% = $70,000.</p><h3>Basis recovery included in current principal</h3><p>$200,000 collected less $70,000 gain = $130,000 basis recovery.</p>"
+}

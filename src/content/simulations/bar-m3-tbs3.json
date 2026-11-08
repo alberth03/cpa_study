@@ -1,0 +1,88 @@
+{
+  "id": "bar-m3-tbs3",
+  "courseId": "bar",
+  "moduleId": 3,
+  "number": 3,
+  "title": "BAR Module 4 · TBS 5",
+  "html": "<section class=\"exam-page\"> <div class=\"course-intro-card\"> <span class=\"exam-badge\"> TASK-BASED SIMULATION </span> <h2> Integrated Governmental Analysis </h2> <p> Apply multiple governmental accounting concepts in one year-end simulation. </p> </div> <div class=\"quiz-card\"> <h2> Scenario </h2> <p> The City of Fairview reports the following information for the current year. </p> <div class=\"key-points\"> <h3> Item 1 — Fund Classification </h3> <p> The city operates a public parking garage that primarily charges external customers for usage. </p> <p> Enter: <strong>1 = Enterprise Fund</strong>, <strong>2 = Internal Service Fund</strong>, <strong>3 = General Fund</strong>. </p> </div> <div class=\"key-points\"> <h3> Item 2 — Property Tax Revenue </h3> <p> The General Fund has <strong>$950,000</strong> of measurable property taxes. </p> <p> Of that amount, <strong>$70,000</strong> does not meet the government's availability criterion. </p> </div> <div class=\"key-points\"> <h3> Item 3 — Capital Asset Purchase </h3> <p> The General Fund purchases equipment for <strong>$160,000</strong>. </p> <p> Enter the amount reported as a governmental fund expenditure. </p> </div> <div class=\"key-points\"> <h3> Item 4 — Bond Proceeds </h3> <p> The General Fund receives <strong>$300,000</strong> from issuance of general long-term bonds. </p> <p> Enter the amount reported as an other financing source. </p> </div> <div class=\"key-points\"> <h3> Item 5 — Government-Wide Reconciliation </h3> <p> The governmental funds report a <strong>$500,000 increase in fund balance</strong>. </p> <p> This amount includes: </p> <ul> <li> Capital outlay: <strong>$160,000</strong> </li> <li> Bond proceeds: <strong>$300,000</strong> </li> </ul> <p> Government-wide depreciation expense is <strong>$40,000</strong>. </p> <p> Ignore all other reconciling items. </p> </div> <h2> Required </h2> <div class=\"financial-example\"> <div> <span> 1. Fund Classification Code </span> <input type=\"number\" id=\"bar-m3-tbs3-f1\" placeholder=\"Enter 1, 2, or 3\"> </div> <div> <span> 2. Property Tax Revenue Recognized </span> <input type=\"number\" id=\"bar-m3-tbs3-f2\" placeholder=\"Enter amount\"> </div> <div> <span> 3. Capital Outlay Expenditure </span> <input type=\"number\" id=\"bar-m3-tbs3-f3\" placeholder=\"Enter amount\"> </div> <div> <span> 4. Other Financing Source From Bond Proceeds </span> <input type=\"number\" id=\"bar-m3-tbs3-f4\" placeholder=\"Enter amount\"> </div> <div> <span> 5. Government-Wide Change in Net Position </span> <input type=\"number\" id=\"bar-m3-tbs3-f5\" placeholder=\"Enter amount\"> </div> </div> <div id=\"far-m4-tbs5-result\"></div> </div> </section>",
+  "metadata": {
+    "section": "bar",
+    "blueprintYear": 2026,
+    "areaId": "bar-III",
+    "groupId": "A-B-C",
+    "topicId": "bar-government-proprietary-fiduciary",
+    "taskIds": [
+      "bar-government-proprietary-fiduciary.task-1",
+      "bar-government-proprietary-fiduciary.task-2",
+      "bar-government-proprietary-fiduciary.task-3"
+    ],
+    "skill": "analysis",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      },
+      {
+        "title": "FASB accounting standards",
+        "url": "https://asc.fasb.org/"
+      },
+      {
+        "title": "GASB standards",
+        "url": "https://www.gasb.org/standards-and-implementation"
+      }
+    ]
+  },
+  "difficulty": "advanced",
+  "fields": [
+    {
+      "id": "bar-m3-tbs3-f1",
+      "label": "1. Fund Classification Code",
+      "type": "number",
+      "options": [],
+      "correct": 1,
+      "explanation": "The correct response is 1. The worked solution explains the associated governmental accounting treatment.",
+      "topicId": "bar-government-proprietary-fiduciary"
+    },
+    {
+      "id": "bar-m3-tbs3-f2",
+      "label": "2. Property Tax Revenue Recognized",
+      "type": "number",
+      "options": [],
+      "correct": 880000,
+      "explanation": "The correct response is 880000. The worked solution explains the associated governmental accounting treatment.",
+      "topicId": "bar-government-proprietary-fiduciary"
+    },
+    {
+      "id": "bar-m3-tbs3-f3",
+      "label": "3. Capital Outlay Expenditure",
+      "type": "number",
+      "options": [],
+      "correct": 160000,
+      "explanation": "The correct response is 160000. The worked solution explains the associated governmental accounting treatment.",
+      "topicId": "bar-government-proprietary-fiduciary"
+    },
+    {
+      "id": "bar-m3-tbs3-f4",
+      "label": "4. Other Financing Source From Bond Proceeds",
+      "type": "number",
+      "options": [],
+      "correct": 300000,
+      "explanation": "The correct response is 300000. The worked solution explains the associated governmental accounting treatment.",
+      "topicId": "bar-government-proprietary-fiduciary"
+    },
+    {
+      "id": "bar-m3-tbs3-f5",
+      "label": "5. Government-Wide Change in Net Position",
+      "type": "number",
+      "options": [],
+      "correct": 320000,
+      "explanation": "The correct response is 320000. The worked solution explains the associated governmental accounting treatment.",
+      "topicId": "bar-government-proprietary-fiduciary"
+    }
+  ],
+  "exhibits": [],
+  "explanation": "<div class=\"result-correct\"> <h3> Item 1 — Fund Classification </h3> <p> The parking garage primarily serves external customers and charges users for services. </p> <div class=\"formula-box\"> Enterprise Fund = Code 1 </div> <h3> Item 2 — Property Tax Revenue </h3> <p> Governmental fund revenue must generally be measurable and available. </p> <div class=\"formula-box\"> $950,000 − $70,000 Unavailable = $880,000 Revenue </div> <h3> Item 3 — Capital Outlay </h3> <p> The General Fund generally reports the equipment purchase as an expenditure. </p> <div class=\"formula-box\"> Capital Outlay Expenditure = $160,000 </div> <h3> Item 4 — Bond Proceeds </h3> <p> General long-term bond proceeds are generally reported as an other financing source in governmental funds. </p> <div class=\"formula-box\"> Other Financing Source = $300,000 </div> <h3> Item 5 — Government-Wide Reconciliation </h3> <div class=\"formula-box\"> Increase in Fund Balance $500,000 + Capital Outlay $160,000 − Depreciation $40,000 − Bond Proceeds $300,000 = $320,000 CHANGE IN NET POSITION </div> <div class=\"key-points\"> <h3> Module 4 Final Takeaway </h3> <ul> <li> Enterprise funds generally serve external users. </li> <li> Modified accrual revenue requires measurable + available. </li> <li> Governmental fund capital purchases are generally expenditures. </li> <li> Bond proceeds are other financing sources in governmental funds. </li> <li> Government-wide reporting removes governmental-fund financing effects and recognizes capital assets and depreciation. </li> </ul> </div> </div>"
+}

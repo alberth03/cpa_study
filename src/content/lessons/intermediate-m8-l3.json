@@ -1,0 +1,88 @@
+{
+  "id": "intermediate-m8-l3",
+  "courseId": "intermediate",
+  "moduleId": 8,
+  "number": 3,
+  "title": "Treasury Stock & Dividends",
+  "description": "Understand treasury stock transactions, cash dividends and their effects on stockholders' equity.",
+  "url": "/learn/intermediate/modules/8/lessons/3",
+  "html": "<h2>Treasury stock</h2> <p> Treasury stock consists of a company's own shares that it has reacquired. </p> <p> Under the cost method, treasury stock is recorded at the amount paid to reacquire the shares. </p> <h2>Example</h2> <p> A corporation repurchases 2,000 of its shares for <strong>$20 per share</strong>. </p> <div class=\"formula-box\"> 2,000 × $20 = $40,000 </div> <div class=\"journal-entry\"> <div class=\"journal-row journal-header\"> <div>Account</div> <div>Debit</div> <div>Credit</div> </div> <div class=\"journal-row\"> <div>Treasury Stock</div> <div>$40,000</div> <div>—</div> </div> <div class=\"journal-row credit-row\"> <div>Cash</div> <div>—</div> <div>$40,000</div> </div> </div> <div class=\"key-points\"> <p> Treasury Stock is a <strong>contra-equity account</strong>. </p> <p> Therefore, purchasing treasury stock generally decreases total stockholders' equity. </p> </div> <h2>Cash dividends</h2> <p> A cash dividend generally moves through three important dates: </p> <div class=\"key-points\"> <ol> <li>Declaration date</li> <li>Record date</li> <li>Payment date</li> </ol> </div> <h2>Declaration date</h2> <p> When the board declares a cash dividend, the corporation generally recognizes a liability. </p> <div class=\"example-box\"> <p> A $15,000 cash dividend is declared. </p> <div class=\"journal-entry\"> <div class=\"journal-row journal-header\"> <div>Account</div> <div>Debit</div> <div>Credit</div> </div> <div class=\"journal-row\"> <div>Retained Earnings / Dividends</div> <div>$15,000</div> <div>—</div> </div> <div class=\"journal-row credit-row\"> <div>Dividends Payable</div> <div>—</div> <div>$15,000</div> </div> </div> </div> <h2>Record date</h2> <p> The record date determines which shareholders are entitled to receive the dividend. </p> <p> Generally, no journal entry is required merely because the record date occurs. </p> <h2>Payment date</h2> <div class=\"journal-entry\"> <div class=\"journal-row journal-header\"> <div>Account</div> <div>Debit</div> <div>Credit</div> </div> <div class=\"journal-row\"> <div>Dividends Payable</div> <div>$15,000</div> <div>—</div> </div> <div class=\"journal-row credit-row\"> <div>Cash</div> <div>—</div> <div>$15,000</div> </div> </div> <h2>Treasury shares and dividends</h2> <p> Treasury shares are not considered outstanding shares. </p> <p> Therefore, a corporation does not pay itself a cash dividend on shares it holds as treasury stock. </p> <div class=\"example-box\"> <h3>Outstanding shares</h3> <p> A company has 100,000 issued shares and 8,000 treasury shares. </p> <div class=\"formula-box\"> Outstanding Shares = 100,000 − 8,000 = 92,000 </div> </div> <div class=\"key-points\"> <h3>Remember</h3> <p> Issued shares − Treasury shares = Outstanding shares </p> </div>",
+  "quiz": {
+    "id": "intermediate-m8-l3-check",
+    "courseId": "intermediate",
+    "moduleId": 8,
+    "lessonId": "intermediate-m8-l3",
+    "topic": "General review",
+    "prompt": "A corporation has 50,000 issued shares and holds 6,000 shares as treasury stock. How many shares are outstanding?",
+    "choices": [
+      {
+        "id": "intermediate-m8-l3-check-a0",
+        "text": "44,000"
+      },
+      {
+        "id": "intermediate-m8-l3-check-a1",
+        "text": "50,000"
+      },
+      {
+        "id": "intermediate-m8-l3-check-a2",
+        "text": "56,000"
+      },
+      {
+        "id": "intermediate-m8-l3-check-a3",
+        "text": "6,000"
+      }
+    ],
+    "correctChoiceId": "intermediate-m8-l3-check-a0",
+    "explanation": "Outstanding shares = 50,000 issued shares − 6,000 treasury shares = 44,000.",
+    "difficulty": "foundation",
+    "metadata": {
+      "section": "intermediate",
+      "blueprintYear": 2026,
+      "areaId": "intermediate-I",
+      "groupId": "module-8",
+      "topicId": "intermediate-treasury-stock-dividends",
+      "taskIds": [
+        "intermediate-treasury-stock-dividends.task-1",
+        "intermediate-treasury-stock-dividends.task-2",
+        "intermediate-treasury-stock-dividends.task-3"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "section": "intermediate",
+    "blueprintYear": 2026,
+    "areaId": "intermediate-I",
+    "groupId": "module-8",
+    "topicId": "intermediate-treasury-stock-dividends",
+    "taskIds": [
+      "intermediate-treasury-stock-dividends.task-1",
+      "intermediate-treasury-stock-dividends.task-2",
+      "intermediate-treasury-stock-dividends.task-3"
+    ],
+    "skill": "application",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      }
+    ]
+  },
+  "objectives": [
+    "Explain treasury stock & dividends and its underlying principles.",
+    "Apply the topic to a financial-reporting scenario.",
+    "Evaluate common errors and their financial-statement effects."
+  ]
+}

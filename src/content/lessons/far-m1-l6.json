@@ -1,0 +1,88 @@
+{
+  "id": "far-m1-l6",
+  "courseId": "far",
+  "moduleId": 1,
+  "number": 6,
+  "title": "Notes to Financial Statements & Disclosures",
+  "description": "Determine appropriate financial statement disclosures and understand information presented in the notes.",
+  "url": "/learn/far/modules/1/lessons/6",
+  "html": "<h2> Why financial statement notes matter </h2> <p> The numbers presented on the face of the financial statements often do not provide enough information by themselves. </p> <p> Notes to the financial statements provide additional information needed to understand the entity's financial position, financial performance and significant risks. </p> <div class=\"key-points\"> <h3>CPA mindset</h3> <p> A FAR question may ask: </p> <ol> <li> Should the item be recognized? </li> <li> Where should it be presented? </li> <li> Is additional disclosure required? </li> <li> Is disclosure alone sufficient? </li> </ol> </div> <h2> Notes do not replace recognition </h2> <p> If U.S. GAAP requires an amount to be recognized in the financial statements, a company generally cannot avoid recognition merely by describing the item in a footnote. </p> <div class=\"key-points\"> <h3>Important principle</h3> <p> <strong> Required recognition cannot normally be replaced by disclosure. </strong> </p> </div> <div class=\"example-box\"> <h3>Example</h3> <p> Assume a company has incurred <strong>$50,000 of wages</strong> before year-end that have not yet been paid. </p> <p> If the wages meet the requirements for recognition, simply mentioning the unpaid wages in a note is not enough. </p> <div class=\"journal-entry\"> <div class=\"journal-row journal-header\"> <div>Account</div> <div>Debit</div> <div>Credit</div> </div> <div class=\"journal-row\"> <div>Wages Expense</div> <div>$50,000</div> <div>—</div> </div> <div class=\"journal-row credit-row\"> <div>Wages Payable</div> <div>—</div> <div>$50,000</div> </div> </div> </div> <h2> Significant accounting policies </h2> <p> Financial statement users need to understand the important accounting principles and methods used in preparing the statements. </p> <p> Significant accounting policy information may include matters such as: </p> <div class=\"key-points\"> <ul> <li> Revenue recognition policies </li> <li> Inventory accounting methods </li> <li> Depreciation and amortization methods </li> <li> Basis of consolidation </li> <li> Significant measurement policies </li> </ul> </div> <div class=\"key-points\"> <h3>CPA trap</h3> <p> The purpose of an accounting-policy note is not to repeat every accounting rule contained in U.S. GAAP. </p> <p> The disclosure should help users understand the significant policies relevant to the entity's financial statements. </p> </div> <h2> Estimates and uncertainty </h2> <p> Financial reporting frequently requires estimates. </p> <p> Examples include estimates involving: </p> <div class=\"key-points\"> <ul> <li> Credit losses </li> <li> Useful lives and residual values </li> <li> Impairment </li> <li> Contingencies </li> <li> Fair value measurements </li> <li> Certain income tax amounts </li> </ul> </div> <p> Depending on the facts and applicable guidance, disclosures may help users understand significant assumptions, uncertainty and exposure to changes in estimates. </p> <h2> Debt disclosures </h2> <p> A balance sheet may show a single debt amount, but users may also need information concerning the nature and terms of the borrowing. </p> <div class=\"key-points\"> <h3>Relevant information can include</h3> <ul> <li> Interest rates </li> <li> Maturity dates </li> <li> Collateral </li> <li> Restrictive covenants </li> <li> Future maturities </li> <li> Defaults or other significant matters, when applicable </li> </ul> </div> <div class=\"example-box\"> <p> The balance sheet reports: </p> <div class=\"formula-box\"> Long-Term Debt = $800,000 </div> <p> That amount alone may not explain when the debt matures, what interest rate applies, or whether assets are pledged as collateral. </p> <p> Appropriate note disclosure supplies additional relevant information. </p> </div> <h2> Contingencies </h2> <p> Contingencies are a major example of why recognition and disclosure must be considered separately. </p> <p> Depending on the probability of loss, estimability and applicable guidance, a contingency may require: </p> <div class=\"key-points\"> <ul> <li> Recognition and disclosure </li> <li> Disclosure without recognition </li> <li> Or, in some circumstances, neither recognition nor disclosure </li> </ul> </div> <div class=\"key-points\"> <h3>CPA habit</h3> <p> Do not memorize: <strong>\"lawsuit = disclose.\"</strong> </p> <p> Analyze the probability, ability to estimate the loss, and the applicable rule. </p> </div> <h2> Related-party disclosures </h2> <p> Transactions with related parties may require disclosure because they may not have occurred under the same conditions as transactions between independent parties. </p> <div class=\"key-points\"> <h3>Information may include</h3> <ul> <li> Nature of the relationship </li> <li> Description of transactions </li> <li> Dollar amounts of transactions </li> <li> Amounts due to or from related parties </li> </ul> </div> <div class=\"key-points\"> <h3>CPA trap</h3> <p> A transaction with a related party is not automatically fraudulent or invalid. </p> <p> The issue is that users may need enough information to understand the relationship and transaction. </p> </div> <h2> Commitments </h2> <p> Some contractual commitments may not yet create recognized assets or liabilities, but may still be important to financial statement users. </p> <p> Applicable guidance may therefore require disclosure of significant commitments. </p> <div class=\"example-box\"> <h3>Example</h3> <p> A company signs a significant future purchase commitment. </p> <p> If the agreement does not yet meet the requirements for recognizing an asset or liability, this does not automatically mean the commitment is irrelevant to financial statement users. </p> </div> <h2> Subsequent events </h2> <p> Events occurring after the balance-sheet date but before the financial statements are issued or available to be issued can affect reporting. </p> <p> Depending on the nature of the event, it may require adjustment, disclosure, or neither. </p> <p> We will study the detailed rules separately in <strong>Lesson 9</strong>. </p> <h2> Concentrations and risks </h2> <p> Certain concentrations and significant risks may require disclosure when they create important exposure for the entity. </p> <p> Examples can involve dependence on significant: </p> <div class=\"key-points\"> <ul> <li> Customers </li> <li> Suppliers </li> <li> Markets </li> <li> Products </li> <li> Geographic areas </li> </ul> </div> <h2> Face of statements versus notes </h2> <div class=\"comparison-grid\"> <div class=\"comparison-card\"> <h3> Face of Statements </h3> <p> Presents recognized financial statement amounts and required line items. </p> </div> <div class=\"comparison-card\"> <h3> Notes </h3> <p> Explain, disaggregate and provide additional information needed to understand those statements. </p> </div> </div> <h2> CPA-style presentation example </h2> <p> Assume a company has: </p> <div class=\"financial-example\"> <div> <span>Notes Payable</span> <strong>$600,000</strong> </div> <div> <span>Current Portion</span> <strong>$100,000</strong> </div> <div> <span>Long-Term Portion</span> <strong>$500,000</strong> </div> </div> <p> The balance sheet may separately present the current and noncurrent portions. </p> <p> The notes can then provide additional information about maturity dates, interest rates, collateral and other significant terms. </p> <div class=\"key-points\"> <h3>Big idea</h3> <p> Presentation answers: <strong>\"What amount appears where?\"</strong> </p> <p> Disclosure answers: <strong> \"What additional information does the user need to understand that amount?\" </strong> </p> </div> <h2> What you should know after this lesson </h2> <div class=\"key-points\"> <ul> <li> Understand the purpose of financial statement notes. </li> <li> Know that disclosure does not normally replace required recognition. </li> <li> Understand significant accounting policy disclosures. </li> <li> Recognize why estimates and uncertainty may require additional information. </li> <li> Understand the purpose of debt, contingency, related-party and commitment disclosures. </li> <li> Distinguish information presented on the face of statements from information explained in the notes. </li> </ul> </div>",
+  "quiz": {
+    "id": "far-m1-l6-check",
+    "courseId": "far",
+    "moduleId": 1,
+    "lessonId": "far-m1-l6",
+    "topic": "General review",
+    "prompt": "A company has incurred $70,000 of employee compensation before year-end that meets the requirements for recognition, but the amount will not be paid until next year. Which treatment is most appropriate?",
+    "choices": [
+      {
+        "id": "far-m1-l6-check-a0",
+        "text": "Disclose the obligation only in the notes and record nothing"
+      },
+      {
+        "id": "far-m1-l6-check-a1",
+        "text": "Wait until cash is paid because financial statements report only cash transactions"
+      },
+      {
+        "id": "far-m1-l6-check-a2",
+        "text": "Record the amount directly as a reduction of common stock"
+      },
+      {
+        "id": "far-m1-l6-check-a3",
+        "text": "Recognize the expense and liability; disclosure does not substitute for required recognition"
+      }
+    ],
+    "correctChoiceId": "far-m1-l6-check-a3",
+    "explanation": "When an expense and related liability meet the requirements for recognition, the company records them in the financial statements. A note cannot normally be used as a substitute for required recognition.",
+    "difficulty": "foundation",
+    "metadata": {
+      "section": "far",
+      "blueprintYear": 2026,
+      "areaId": "far-I",
+      "groupId": "module-1",
+      "topicId": "far-notes-to-financial-statements-disclosures",
+      "taskIds": [
+        "far-notes-to-financial-statements-disclosures.task-1",
+        "far-notes-to-financial-statements-disclosures.task-2",
+        "far-notes-to-financial-statements-disclosures.task-3"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "section": "far",
+    "blueprintYear": 2026,
+    "areaId": "far-I",
+    "groupId": "module-1",
+    "topicId": "far-notes-to-financial-statements-disclosures",
+    "taskIds": [
+      "far-notes-to-financial-statements-disclosures.task-1",
+      "far-notes-to-financial-statements-disclosures.task-2",
+      "far-notes-to-financial-statements-disclosures.task-3"
+    ],
+    "skill": "application",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      }
+    ]
+  },
+  "objectives": [
+    "Explain notes to financial statements & disclosures and its underlying principles.",
+    "Apply the topic to a financial-reporting scenario.",
+    "Evaluate common errors and their financial-statement effects."
+  ]
+}

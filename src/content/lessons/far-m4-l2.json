@@ -1,0 +1,88 @@
+{
+  "id": "far-m4-l2",
+  "courseId": "far",
+  "moduleId": 4,
+  "number": 2,
+  "title": "Governmental Funds",
+  "description": "Understand the General Fund, special revenue, capital projects, debt service, and permanent funds.",
+  "url": "/learn/far/modules/4/lessons/2",
+  "html": "<h2> Governmental Funds </h2> <p> Governmental funds account for many of the core public-service activities of a state or local government. </p> <p> These funds generally use the <strong>current financial resources measurement focus</strong> and the <strong>modified accrual basis of accounting</strong>. </p> <h2> The Five Governmental Fund Types </h2> <div class=\"financial-example\"> <div> <span>General Fund</span> <strong>Primary Operating Fund</strong> </div> <div> <span>Special Revenue Fund</span> <strong>Restricted or Committed Revenue Sources</strong> </div> <div> <span>Capital Projects Fund</span> <strong>Capital Outlays for Capital Facilities and Other Capital Assets</strong> </div> <div> <span>Debt Service Fund</span> <strong>Principal and Interest on Governmental Debt</strong> </div> <div> <span>Permanent Fund</span> <strong>Principal Maintained; Earnings Support Government Programs</strong> </div> </div> <h2> 1. General Fund </h2> <p> The General Fund is the chief operating fund of a government. </p> <p> It accounts for resources not required to be reported in another fund. </p> <div class=\"key-points\"> <strong> Think: </strong> <p> Regular government operations such as administration, public safety, and other general services. </p> </div> <h2> 2. Special Revenue Funds </h2> <p> Special revenue funds account for specific revenue sources that are restricted or committed to expenditure for specified purposes other than debt service or capital projects. </p> <div class=\"example-box\"> <strong> Example </strong> <p> A dedicated tax legally restricted for road maintenance may be accounted for in a special revenue fund. </p> </div> <h2> 3. Capital Projects Funds </h2> <p> Capital projects funds generally account for financial resources used for capital outlays, including the acquisition or construction of capital facilities and other capital assets. </p> <p> A key FAR point is that governmental funds do not generally report capital assets themselves. </p> <div class=\"key-points\"> <p> The fund reports the financing and expenditures, while the capital asset is reported at the government-wide level. </p> </div> <h2> 4. Debt Service Funds </h2> <p> Debt service funds account for resources accumulated and used to pay principal and interest on general long-term governmental debt. </p> <p> Similar to capital assets, long-term governmental debt itself is generally reported at the government-wide level rather than as a long-term liability in governmental funds. </p> <h2> 5. Permanent Funds </h2> <p> Permanent funds account for resources whose principal is legally restricted so that only earnings may be used to support programs that benefit the government or its citizens. </p> <div class=\"example-box\"> <strong> Example </strong> <p> A donor gives a city $2 million and requires the principal to remain intact permanently, while investment earnings may be used to maintain public parks. </p> <p> This may be accounted for in a permanent fund. </p> </div> <h2> Capital Assets and Long-Term Debt </h2> <p> Governmental fund financial statements focus on current financial resources. </p> <p> Therefore, governmental funds generally do not report: </p> <ul> <li> Capital assets as fund assets </li> <li> Depreciation expense </li> <li> General long-term debt as a fund liability </li> </ul> <p> These items are generally reported in the government-wide financial statements. </p> <h2> Expenditures vs. Expenses </h2> <div class=\"financial-example\"> <div> <span>Governmental Fund</span> <strong>Expenditures</strong> </div> <div> <span>Government-Wide</span> <strong>Expenses</strong> </div> </div> <p> For example, when a governmental fund purchases equipment, the fund generally reports an <strong>expenditure</strong>. </p> <p> At the government-wide level, the equipment is generally capitalized and depreciated. </p> <h2> CPA Memory Rule </h2> <div class=\"formula-box\"> GENERAL → Regular Operations SPECIAL REVENUE → Restricted / Committed Revenue CAPITAL PROJECTS → Capital Outlays / Acquire or Construct Capital Assets DEBT SERVICE → Pay Governmental Debt PERMANENT → Principal Stays Intact </div> <div class=\"key-points\"> <h3> Key Takeaways </h3> <ul> <li> There are five governmental fund types. </li> <li> The General Fund is the primary operating fund. </li> <li> Capital projects funds finance major capital projects. </li> <li> Debt service funds handle principal and interest on governmental long-term debt. </li> <li> Governmental funds generally do not report capital assets or general long-term debt. </li> <li> Governmental funds use expenditures rather than expenses for many transactions. </li> </ul> </div>",
+  "quiz": {
+    "id": "far-m4-l2-check",
+    "courseId": "far",
+    "moduleId": 4,
+    "lessonId": "far-m4-l2",
+    "topic": "General review",
+    "prompt": "Which governmental fund is generally used to account for resources accumulated to pay principal and interest on general long-term governmental debt?",
+    "choices": [
+      {
+        "id": "far-m4-l2-check-a0",
+        "text": "General Fund"
+      },
+      {
+        "id": "far-m4-l2-check-a1",
+        "text": "Capital Projects Fund"
+      },
+      {
+        "id": "far-m4-l2-check-a2",
+        "text": "Debt Service Fund"
+      },
+      {
+        "id": "far-m4-l2-check-a3",
+        "text": "Permanent Fund"
+      }
+    ],
+    "correctChoiceId": "far-m4-l2-check-a2",
+    "explanation": "A Debt Service Fund generally accounts for financial resources accumulated and used for principal and interest payments on general long-term governmental debt.",
+    "difficulty": "foundation",
+    "metadata": {
+      "section": "far",
+      "blueprintYear": 2026,
+      "areaId": "far-I",
+      "groupId": "module-4",
+      "topicId": "far-governmental-funds",
+      "taskIds": [
+        "far-governmental-funds.task-1",
+        "far-governmental-funds.task-2",
+        "far-governmental-funds.task-3"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": true,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "section": "far",
+    "blueprintYear": 2026,
+    "areaId": "far-I",
+    "groupId": "module-4",
+    "topicId": "far-governmental-funds",
+    "taskIds": [
+      "far-governmental-funds.task-1",
+      "far-governmental-funds.task-2",
+      "far-governmental-funds.task-3"
+    ],
+    "skill": "application",
+    "validFrom": "2026-01-01",
+    "supplementary": true,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      }
+    ]
+  },
+  "objectives": [
+    "Explain governmental funds and its underlying principles.",
+    "Apply the topic to a financial-reporting scenario.",
+    "Evaluate common errors and their financial-statement effects."
+  ]
+}

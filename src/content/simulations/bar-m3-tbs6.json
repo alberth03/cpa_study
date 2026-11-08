@@ -1,0 +1,124 @@
+{
+  "id": "bar-m3-tbs6",
+  "courseId": "bar",
+  "moduleId": 3,
+  "number": 6,
+  "title": "Government-wide asset and benefit obligation schedule",
+  "html": "<div class=\"course-intro-card\"><h2>Government-wide asset and benefit obligation schedule</h2><p>Prepare the specified government-wide measurements and identify a fund-level difference.</p></div><section class=\"quiz-card\"><h3>Required responses</h3><div class=\"tbs-question\"><label for=\"bar-m3-tbs6-f1\">Equipment carrying amount</label><input id=\"bar-m3-tbs6-f1\" type=\"text\"></div><div class=\"tbs-question\"><label for=\"bar-m3-tbs6-f2\">Net pension liability</label><input id=\"bar-m3-tbs6-f2\" type=\"text\"></div><div class=\"tbs-question\"><label for=\"bar-m3-tbs6-f3\">Relationship of annual contribution to expense</label><select id=\"bar-m3-tbs6-f3\"><option value=\"They are not necessarily equal\">They are not necessarily equal</option><option value=\"They are always identical\">They are always identical</option><option value=\"Contributions are always revenue\">Contributions are always revenue</option><option value=\"Expense is never recognized\">Expense is never recognized</option></select></div><div class=\"tbs-question\"><label for=\"bar-m3-tbs6-f4\">Government-wide treatment of qualifying capital outlay</label><select id=\"bar-m3-tbs6-f4\"><option value=\"Capitalize and apply subsequent asset accounting\">Capitalize and apply subsequent asset accounting</option><option value=\"Always expense the entire outlay again\">Always expense the entire outlay again</option><option value=\"Ignore the asset\">Ignore the asset</option><option value=\"Record all outlays as pension expense\">Record all outlays as pension expense</option></select></div></section>",
+  "metadata": {
+    "section": "bar",
+    "blueprintYear": 2026,
+    "areaId": "bar-III",
+    "groupId": "C",
+    "topicId": "bar-government-liabilities",
+    "taskIds": [
+      "bar-government-liabilities.task-1",
+      "bar-government-liabilities.task-2",
+      "bar-government-liabilities.task-3"
+    ],
+    "skill": "analysis",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      },
+      {
+        "title": "FASB accounting standards",
+        "url": "https://asc.fasb.org/"
+      },
+      {
+        "title": "GASB standards",
+        "url": "https://www.gasb.org/standards-and-implementation"
+      }
+    ]
+  },
+  "difficulty": "advanced",
+  "fields": [
+    {
+      "id": "bar-m3-tbs6-f1",
+      "label": "Equipment carrying amount",
+      "type": "number",
+      "options": [],
+      "correct": 680000,
+      "explanation": "$800,000 − $120,000 = $680,000.",
+      "topicId": "bar-government-liabilities"
+    },
+    {
+      "id": "bar-m3-tbs6-f2",
+      "label": "Net pension liability",
+      "type": "number",
+      "options": [],
+      "correct": 4000000,
+      "explanation": "$15,000,000 − $11,000,000 = $4,000,000.",
+      "topicId": "bar-government-liabilities"
+    },
+    {
+      "id": "bar-m3-tbs6-f3",
+      "label": "Relationship of annual contribution to expense",
+      "type": "select",
+      "options": [
+        {
+          "value": "They are not necessarily equal",
+          "label": "They are not necessarily equal"
+        },
+        {
+          "value": "They are always identical",
+          "label": "They are always identical"
+        },
+        {
+          "value": "Contributions are always revenue",
+          "label": "Contributions are always revenue"
+        },
+        {
+          "value": "Expense is never recognized",
+          "label": "Expense is never recognized"
+        }
+      ],
+      "correct": "They are not necessarily equal",
+      "explanation": "Pension expense can differ from cash contributions.",
+      "topicId": "bar-government-liabilities"
+    },
+    {
+      "id": "bar-m3-tbs6-f4",
+      "label": "Government-wide treatment of qualifying capital outlay",
+      "type": "select",
+      "options": [
+        {
+          "value": "Capitalize and apply subsequent asset accounting",
+          "label": "Capitalize and apply subsequent asset accounting"
+        },
+        {
+          "value": "Always expense the entire outlay again",
+          "label": "Always expense the entire outlay again"
+        },
+        {
+          "value": "Ignore the asset",
+          "label": "Ignore the asset"
+        },
+        {
+          "value": "Record all outlays as pension expense",
+          "label": "Record all outlays as pension expense"
+        }
+      ],
+      "correct": "Capitalize and apply subsequent asset accounting",
+      "explanation": "Government-wide accrual accounting recognizes qualifying capital assets.",
+      "topicId": "bar-government-liabilities"
+    }
+  ],
+  "exhibits": [
+    {
+      "id": "bar-m3-tbs6-ex1",
+      "title": "Capital assets",
+      "html": "<p>Equipment cost $800,000; current accumulated depreciation $120,000. No impairment or disposal applies.</p>"
+    },
+    {
+      "id": "bar-m3-tbs6-ex2",
+      "title": "Benefit plan",
+      "html": "<p>Total pension liability $15,000,000; qualifying plan fiduciary net position $11,000,000. Ignore deferred items in computing the requested net liability. The governmental fund also records a current capital outlay.</p>"
+    }
+  ],
+  "explanation": "<h3>Equipment carrying amount</h3><p>$800,000 − $120,000 = $680,000.</p><h3>Net pension liability</h3><p>$15,000,000 − $11,000,000 = $4,000,000.</p><h3>Relationship of annual contribution to expense</h3><p>Pension expense can differ from cash contributions.</p><h3>Government-wide treatment of qualifying capital outlay</h3><p>Government-wide accrual accounting recognizes qualifying capital assets.</p>"
+}

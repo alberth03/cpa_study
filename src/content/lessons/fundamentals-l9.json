@@ -1,0 +1,88 @@
+{
+  "id": "fundamentals-l9",
+  "courseId": "fundamentals",
+  "moduleId": 0,
+  "number": 9,
+  "title": "Adjusting Entries",
+  "description": "Accruals, deferrals, depreciation and other adjustments.",
+  "url": "/learn/fundamentals/lessons/9",
+  "html": "<h2>Why do we need adjusting entries?</h2> <p> Some revenues and expenses are not recorded at exactly the same time cash is received or paid. </p> <p> At the end of an accounting period, adjusting entries help make sure revenues and expenses are recognized in the appropriate period under accrual accounting. </p> <div class=\"key-points\"> <h3>Common adjusting entries</h3> <ul> <li>Accrued revenues</li> <li>Accrued expenses</li> <li>Prepaid expenses</li> <li>Unearned revenue</li> <li>Depreciation</li> </ul> </div> <h2>1. Accrued Expenses</h2> <p> An accrued expense is an expense that has been incurred but has not yet been paid or recorded. </p> <div class=\"example-box\"> <h3>Example — Wages</h3> <p> Employees have earned <strong>$2,000</strong> by December 31, but they will be paid in January. </p> <div class=\"journal-entry\"> <div class=\"journal-row journal-header\"> <div>Account</div> <div>Debit</div> <div>Credit</div> </div> <div class=\"journal-row\"> <div>Wages Expense</div> <div>$2,000</div> <div>—</div> </div> <div class=\"journal-row credit-row\"> <div>Wages Payable</div> <div>—</div> <div>$2,000</div> </div> </div> </div> <h2>2. Prepaid Expenses</h2> <p> A prepaid expense begins as an asset because the company has paid for a future benefit. </p> <p> As that benefit is used, part of the asset becomes an expense. </p> <div class=\"example-box\"> <h3>Example — Insurance</h3> <p> A company originally pays <strong>$12,000</strong> for 12 months of insurance. </p> <p> After one month, <strong>$1,000</strong> has been used. </p> <div class=\"journal-entry\"> <div class=\"journal-row journal-header\"> <div>Account</div> <div>Debit</div> <div>Credit</div> </div> <div class=\"journal-row\"> <div>Insurance Expense</div> <div>$1,000</div> <div>—</div> </div> <div class=\"journal-row credit-row\"> <div>Prepaid Insurance</div> <div>—</div> <div>$1,000</div> </div> </div> </div> <h2>3. Unearned Revenue</h2> <p> When a customer pays before the company has earned the revenue, the company initially records a liability. </p> <p> As the service is performed, the liability decreases and revenue is recognized. </p> <div class=\"example-box\"> <h3>Example</h3> <p> A company previously received $5,000 in advance. By period-end, it has earned $2,000. </p> <div class=\"journal-entry\"> <div class=\"journal-row journal-header\"> <div>Account</div> <div>Debit</div> <div>Credit</div> </div> <div class=\"journal-row\"> <div>Unearned Revenue</div> <div>$2,000</div> <div>—</div> </div> <div class=\"journal-row credit-row\"> <div>Service Revenue</div> <div>—</div> <div>$2,000</div> </div> </div> </div> <h2>4. Depreciation</h2> <p> Long-lived assets such as equipment generally provide benefits over multiple accounting periods. </p> <p> Depreciation allocates the asset's depreciable cost over its useful life. </p> <div class=\"example-box\"> <h3>Simple Example</h3> <p> Assume equipment has a depreciable amount of $12,000 and that $1,000 of depreciation should be recognized for the current period. </p> <div class=\"journal-entry\"> <div class=\"journal-row journal-header\"> <div>Account</div> <div>Debit</div> <div>Credit</div> </div> <div class=\"journal-row\"> <div>Depreciation Expense</div> <div>$1,000</div> <div>—</div> </div> <div class=\"journal-row credit-row\"> <div>Accumulated Depreciation</div> <div>—</div> <div>$1,000</div> </div> </div> </div> <div class=\"key-points\"> <h3>The big idea</h3> <p> Adjusting entries help put revenues and expenses into the appropriate accounting period. </p> </div>",
+  "quiz": {
+    "id": "fundamentals-l9-check",
+    "courseId": "fundamentals",
+    "moduleId": 0,
+    "lessonId": "fundamentals-l9",
+    "topic": "General review",
+    "prompt": "Employees earned $4,000 of wages before year-end, but the company will pay them next year. What should the company record?",
+    "choices": [
+      {
+        "id": "fundamentals-l9-check-a0",
+        "text": "Debit Cash; Credit Wages Expense"
+      },
+      {
+        "id": "fundamentals-l9-check-a1",
+        "text": "Debit Wages Expense; Credit Wages Payable"
+      },
+      {
+        "id": "fundamentals-l9-check-a2",
+        "text": "Debit Wages Payable; Credit Cash"
+      },
+      {
+        "id": "fundamentals-l9-check-a3",
+        "text": "No entry until the employees are paid"
+      }
+    ],
+    "correctChoiceId": "fundamentals-l9-check-a1",
+    "explanation": "The wages were incurred in the current period. Wages Expense is debited and Wages Payable is credited.",
+    "difficulty": "foundation",
+    "metadata": {
+      "section": "fundamentals",
+      "blueprintYear": 2026,
+      "areaId": "fundamentals-I",
+      "groupId": "module-0",
+      "topicId": "fundamentals-adjusting-entries",
+      "taskIds": [
+        "fundamentals-adjusting-entries.task-1",
+        "fundamentals-adjusting-entries.task-2",
+        "fundamentals-adjusting-entries.task-3"
+      ],
+      "skill": "application",
+      "validFrom": "2026-01-01",
+      "supplementary": false,
+      "revision": 1,
+      "sources": [
+        {
+          "title": "AICPA 2026 CPA Exam Blueprints",
+          "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "section": "fundamentals",
+    "blueprintYear": 2026,
+    "areaId": "fundamentals-I",
+    "groupId": "module-0",
+    "topicId": "fundamentals-adjusting-entries",
+    "taskIds": [
+      "fundamentals-adjusting-entries.task-1",
+      "fundamentals-adjusting-entries.task-2",
+      "fundamentals-adjusting-entries.task-3"
+    ],
+    "skill": "application",
+    "validFrom": "2026-01-01",
+    "supplementary": false,
+    "revision": 1,
+    "sources": [
+      {
+        "title": "AICPA 2026 CPA Exam Blueprints",
+        "url": "https://assets.ctfassets.net/rb9cdnjh59cm/5d2r66sSSE8wJRZTqAshlE/f97ec39c394eeb61b20a5824784306df/CPA_Exam_Blueprints_2026.pdf"
+      }
+    ]
+  },
+  "objectives": [
+    "Explain adjusting entries and its underlying principles.",
+    "Apply the topic to a financial-reporting scenario.",
+    "Evaluate common errors and their financial-statement effects."
+  ]
+}
